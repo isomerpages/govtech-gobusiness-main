@@ -1,15 +1,23 @@
-- title: Companies
+- banner: <img style="width:410px; height:150px;" src="/images/grow/regulatory guides/regulatoryguides1.jpg">
+  title: Local Companies (e.g. Pte Ltd)
+  description: Find out when you have to complete annual filing, tax, and manpower requirements for your company.
   url: /regulatory-requirements-guides/local-companies
   text: Key regulatory requirements for companies
 
-- title: Sole Proprietorship/Partnership
+- banner: <img style="width:410px; height:150px;" src="/images/grow/regulatory guides/regulatoryguides2.jpg">
+  title: Sole Proprietorship / Partnership
+  description: Get an overview of the legally required tasks that partners or sole proprietors must fulfil throughout the year.
   url: /regulatory-requirements-guides/sole-proprietorships-partnership-spp
   text: Key regulatory requirements for SP/P
 
-- title: Limited Liability Partnership (LLP)
+- banner: <img style="width:410px; height:150px;" src="/images/grow/regulatory guides/regulatoryguides3.jpg">
+  title: Limited Liability Partnership (LLP)
+  description: Understand the requirements for LLPs to operate legally in Singapore.
   url: /regulatory-requirements-guides/limited-liability-partnership-LLP
   text: Key regulatory requirements for LLP
 
-- title: Limited Partnership (LP)
+- banner: <img style="width:410px; height:150px;" src="/images/grow/regulatory guides/regulatoryguides4.jpg">
+  title: Limited Partnership (LP)
+  description: Get a timeline of the requirements that your LP has to fulfill.
   url: /regulatory-requirements-guides/limited-partnership-LP
   text: Key regulatory requirements for LP

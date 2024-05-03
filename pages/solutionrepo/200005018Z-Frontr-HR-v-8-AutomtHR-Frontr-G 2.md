@@ -1,6 +1,6 @@
 ---
 title: 'Frontier e-HR Version 8 - AutomateHR eFrontier'
-permalink: /productivity-solutions-grant/solutionrepo/solution243
+permalink: /productivity-solutions-grant/solutionrepo/200005018Z-Frontr-HR-v-8-AutomtHR-Frontr-G
 ---
 
 ## Frontier e-HR Version 8 - AutomateHR eFrontier

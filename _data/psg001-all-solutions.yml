@@ -16,7 +16,6 @@
       content: |
         
         **IT Solution**
-        - <a href='/browse-all-solutions-Advanced-Manufacturing/Manufacturing-Quality-Management'>Manufacturing Quality Management</a>
         - <a href='/browse-all-solutions-Advanced-Manufacturing/Computer-aided-design-Computer-aided-manufacturing--CAD-CAM-'>Computer-aided design & Computer-aided manufacturing (CAD/CAM)</a>
         
         **Equipment**
@@ -29,20 +28,12 @@
         **For more information, please refer to [BCA's PSG website](https://www1.bca.gov.sg/buildsg/buildsg-transformation-fund/productivity-solutions-grant){:target="_blank"}{:rel="noopener"}.**
         
         **IT Solution**
-<<<<<<< HEAD
         - <a href='/browse-all-solutions-Building-Construction/e-Permit-to-work--e-PTW-'>e-Permit-to-work (e-PTW)</a>
         - <a href='/browse-all-solutions-Building-Construction/Quantity-Surveying-and-Valuation'>Quantity Surveying and Valuation</a>
         - <a href='/browse-all-solutions-Building-Construction/Coordination-Tools-and-Collaboration-Platform'>Coordination Tools and Collaboration Platform</a>
         - <a href='/browse-all-solutions-Building-Construction/FM-Workflow-Automation'>FM Workflow Automation</a>
         - <a href='/browse-all-solutions-Building-Construction/3D-Modelling--Immersive-Visualisation-Analysis'>3D Modelling, Immersive Visualisation & Analysis</a>
         - <a href='/browse-all-solutions-Building-Construction/Integrated-and-Smart-Worksite-Monitoring-and-Inspection'>Integrated and Smart Worksite Monitoring and Inspection</a>
-=======
-        - <a href='/browse-all-solutions-Building-Construction/3D-Modelling--Immersive-Visualisation-Analysis'>3D Modelling, Immersive Visualisation & Analysis</a>
-        - <a href='/browse-all-solutions-Building-Construction/FM-Workflow-Automation'>FM Workflow Automation</a>
-        - <a href='/browse-all-solutions-Building-Construction/e-Permit-to-work--e-PTW-'>e-Permit-to-work (e-PTW)</a>
-        - <a href='/browse-all-solutions-Building-Construction/Quantity-Surveying-and-Valuation'>Quantity Surveying and Valuation</a>
-        - <a href='/browse-all-solutions-Building-Construction/Coordination-Tools-and-Collaboration-Platform'>Coordination Tools and Collaboration Platform</a>
->>>>>>> parent of 1cbb2806b (Merge branch 'staging' into TSJ)
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Early Childhood
@@ -50,11 +41,11 @@
         
         **IT Solution**
         - <a href='/browse-all-solutions-Early-Childhood/E-enrolment-Form'>E-enrolment Form</a>
-        - <a href='/browse-all-solutions-Early-Childhood/Pre-School-Management-System'>Pre-School Management System</a>
-        - <a href='/browse-all-solutions-Early-Childhood/Pre-School-Management-System-and-e-Enrolment-Forms-for-Preschools'>Pre-School Management System and e-Enrolment Forms for Preschools</a>
         - <a href='/browse-all-solutions-Early-Childhood/Data-Mining-Analytics-for-Pre-schools--Centre-Operations-'>Data Mining & Analytics for Pre-schools (Centre Operations)</a>
         - <a href='/browse-all-solutions-Early-Childhood/Data-Mining-Analytics-for-Preschools--Child-Development-'>Data Mining & Analytics for Preschools (Child Development)</a>
         - <a href='/browse-all-solutions-Early-Childhood/Data-Mining-Analytics-for-Preschools--Centre-Operations-and-Child-Development-'>Data Mining & Analytics for Preschools (Centre Operations and Child Development)</a>
+        - <a href='/browse-all-solutions-Early-Childhood/Pre-School-Management-System'>Pre-School Management System</a>
+        - <a href='/browse-all-solutions-Early-Childhood/Pre-School-Management-System-and-e-Enrolment-Forms-for-Preschools'>Pre-School Management System and e-Enrolment Forms for Preschools</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Engineering Services
@@ -72,7 +63,6 @@
         
         **IT Solution**
         - <a href='/browse-all-solutions-Estate-Agency/Document-Management-for-Estate-Agents'>Document Management for Estate Agents</a>
-        - <a href='/browse-all-solutions-Estate-Agency/Document-Management-and-Transaction-Records-Submission-for-Estate-Agents'>Document Management and Transaction Records Submission for Estate Agents</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Food
@@ -94,7 +84,7 @@
         
         **IT Solution**
         - <a href='/browse-all-solutions-Food-Services/B2B-Marketplace-E-Procurement-System'>B2B Marketplace/E-Procurement System</a>
-        - <a href='/browse-all-solutions-Food-Services/Digital-Ordering-and-Payment-System'>Digital Ordering and Payment System</a>
+        - <a href='/browse-all-solutions-Food-Services/Connected-Business-Suite'>Connected Business Suite</a>
         
         **Equipment**
         - <a href='/browse-all-solutions-Food-Services/General-Food-Services-Equipment'>General Food Services Equipment</a>
@@ -120,16 +110,13 @@
       content: |
         
         **IT Solution**
-        - <a href='/browse-all-solutions-Logistics/Warehouse-Management'>Warehouse Management</a>
         - <a href='/browse-all-solutions-Logistics/Freight-Management'>Freight Management</a>
         - <a href='/browse-all-solutions-Logistics/Transport-Management'>Transport Management</a>
+        - <a href='/browse-all-solutions-Logistics/Warehouse-Management'>Warehouse Management</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Marine & Offshore
       content: |
-        
-        **IT Solution**
-        - <a href='/browse-all-solutions-Marine-Offshore/Asset-Monitoring-and-Management-System'>Asset Monitoring and Management System</a>
         
         **Equipment**
         - <a href='/browse-all-solutions-Marine-Offshore/General-M&O-Equipment'>General M&O Equipment</a>
@@ -175,15 +162,8 @@
       content: |
         
         **IT Solution**
-        - <a href='/browse-all-solutions-Security/Mobile-Enabled-Patrol-and-Incident-Management'>Mobile-Enabled Patrol and Incident Management</a>
         - <a href='/browse-all-solutions-Security/Automated-Visitor-Management'>Automated Visitor Management</a>
-
-        View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
-    - title: Travel Agents
-      content: |
-        
-        **IT Solution**
-        - <a href='/browse-all-solutions-Travel-Agents/Travel-Management-System--E-Commerce-'>Travel Management System (E-Commerce)</a>
+        - <a href='/browse-all-solutions-Security/Mobile-Enabled-Patrol-and-Incident-Management'>Mobile-Enabled Patrol and Incident Management</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Wholesale Trade
@@ -203,6 +183,7 @@
         - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-Management-System--HRMS-'>Human Resource Management System (HRMS)</a>
         - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-E-scheduling-System'>Human Resource E-scheduling System</a>
         - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-Shared-Services--HRSS--Needs-Analysis--HR-Administrative-Support-Payroll-Processing-via-a-HRMS'>Human Resource Shared Services (HRSS) Needs Analysis, HR Administrative Support & Payroll Processing via a HRMS</a>
+        - <a href='/browse-all-solutions-Human-Resource-Solutions/Applicant-Sourcing-and-Tracking-System'>Applicant Sourcing and Tracking System</a>
     - title: ERP and Standalone solutions
       content: |
         <b>Enterprise Resource Planning (ERP) System</b><br>

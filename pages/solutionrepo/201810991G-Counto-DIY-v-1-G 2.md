@@ -1,6 +1,6 @@
 ---
 title: 'Counto DIY Version 1'
-permalink: /productivity-solutions-grant/solutionrepo/solution672
+permalink: /productivity-solutions-grant/solutionrepo/201810991G-Counto-DIY-v-1-G
 ---
 
 ## Counto DIY Version 1
@@ -25,28 +25,28 @@ Beyond accounting, AI-powered automations within CountoDIY can apply to your tax
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY Basic</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Basic</td>
 <td style='padding: 10px;'>$920.00</td>
 <td style='padding: 10px;'>$920.00</td>
 <td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY 5S</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY 5S</td>
 <td style='padding: 10px;'>$2,000.00</td>
 <td style='padding: 10px;'>$2,000.00</td>
 <td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY 10S</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY 10S</td>
 <td style='padding: 10px;'>$3,100.00</td>
 <td style='padding: 10px;'>$3,100.00</td>
 <td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY 15S</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY 15S</td>
 <td style='padding: 10px;'>$4,400.00</td>
 <td style='padding: 10px;'>$4,400.00</td>
 <td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
@@ -55,11 +55,11 @@ Beyond accounting, AI-powered automations within CountoDIY can apply to your tax
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription/Leasing
 
 ## Vendor Information
 
- Company Name: Xion.AI Pte Ltd<br>Web URL: https://mycounto.com/ <br><br>Contact Hotline: 31594255 <br><br>Contact Email: help@mycounto.com <br><br>
+ Web URL: https://mycounto.com/ <br><br>Contact Hotline: 31594255 <br><br>Contact Email: help@mycounto.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

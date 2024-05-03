@@ -1,6 +1,6 @@
 ---
 title: 'SAP Business One, version for HANA'
-permalink: /productivity-solutions-grant/solutionrepo/solution887
+permalink: /productivity-solutions-grant/solutionrepo/200402768K-SAP-Busnss-On,-v-for-HANA-G
 ---
 
 ## SAP Business One, version for HANA

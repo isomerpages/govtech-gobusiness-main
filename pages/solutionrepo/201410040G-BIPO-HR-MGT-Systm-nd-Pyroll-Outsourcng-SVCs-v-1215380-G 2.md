@@ -1,6 +1,6 @@
 ---
 title: 'BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80'
-permalink: /productivity-solutions-grant/solutionrepo/solution1258
+permalink: /productivity-solutions-grant/solutionrepo/201410040G-BIPO-HR-MGT-Systm-nd-Pyroll-Outsourcng-SVCs-v-1215380-G
 ---
 
 ## BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80

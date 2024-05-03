@@ -1,6 +1,6 @@
 ---
 title: 'Quickbook Online'
-permalink: /productivity-solutions-grant/solutionrepo/solution746
+permalink: /productivity-solutions-grant/solutionrepo/202111829G-Quckbook-Onln-G
 ---
 
 ## Quickbook Online

@@ -8,11 +8,12 @@ third_nav_title: Resources and Toolkits
 
 ![Article](/images/epjs/resources-and-toolkits/videos-and-articles/New scheme offers funding and professional help for service companies to transform and boost productivity.png)
 
-#### Skills Demand For The Future Economy Report
+#### Skills Demand For The Future Economy 2023/24 Report
 
-The 2nd edition of the report offers deeper analysis into the priority skills and jobs in demand within the Green, Digital and Care economies. The report also comes with a special focus on Industry 4.0 implementation, Critical Core Skills, and the support for our mid-career workers. Companies can tap on these insights guide their workforce skills investment.
+The Skills Demand for The Future Economy report highlights key insights for individuals and enterprises to make informed decisions on jobs and skills matters. In this edition, companies can tap on the report to identify priority skills' movements and forecasting for the Green, Digital and Care economies. 
+An interactive Jobs-Skills Dashboard is included which provides job posting data and can be found here: [https://www.skillsfuture.gov.sg/skillsreport](https://www.skillsfuture.gov.sg/skillsreport)
 
-[Read more (PDF, 5942 KB)](/images/epjs/resources-and-toolkits/videos-and-articles/SSG Skills_Demand_for_the_Future_Economy_2022_Final_.pdf){:target="_blank"}{:rel="noopener"}
+[Read the full report](https://www.skillsfuture.gov.sg/docs/default-source/skills-report-2023/sdfe-2023.pdf){:target="_blank"}{:rel="noopener"}
 
 ---
 

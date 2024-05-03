@@ -1,6 +1,6 @@
 ---
 title: 'CSG - Matterport Pro2 3D Solution'
-permalink: /productivity-solutions-grant/solutionrepo/solution176
+permalink: /productivity-solutions-grant/solutionrepo/201600202R-CSG-Mttrport-Pro2-3D-SLN-BC
 ---
 
 ## CSG - Matterport Pro2 3D Solution

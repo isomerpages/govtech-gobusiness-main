@@ -10,18 +10,7 @@ National Environment Agency (NEA)
 
 {% include spcp-text.html type="cp" %}
 
-<<<<<<< HEAD
 <p>All NEA Licences & Submission of Returns on GoBusiness Portal will be unavailable from (i) 3 May 3PM to 6 May 10 AM and (ii) 23 May 3PM to 27 May 10AM for maintenance. We apologise for the inconvenience caused.</p>
-=======
-{% include licence-apply-button.html %}
-<a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=192" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>
-<div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-size: 18px; color: #313840;">
-<img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;">
-<span style="font-weight: bold; font-family: hknova-bold; font-size: 18px; ">Please use desktop / laptop to apply for this licence.</span><br>
-<span style="font-family: hknova-regular;">You can only view application details and make payment via mobile. Please use GoBusiness Licensing on desktop to use all features.</span><br><br>
-<a id="mobileNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=192" target="_blank" rel="noopener">Continue to GoBusiness Licencing anyway</a>
-</div>
->>>>>>> parent of 1cbb2806b (Merge branch 'staging' into TSJ)
 
 <H3>Application Details</H3>
 

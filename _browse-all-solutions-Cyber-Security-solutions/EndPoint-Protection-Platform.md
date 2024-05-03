@@ -32,27 +32,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<<<<<<< HEAD
 <td><a href='/productivity-solutions-grant/solutionrepo/201118056E-Btdfndr-GrvtyZon-Busnss-Scurty-Prmum-G' target='_blank'>Bitdefender GravityZone Business Security Premium</a><br></td>
-=======
-<td><a href='/productivity-solutions-grant/solutionrepo/solution142' target='_blank'>Cloudable Data Protection Suite-Powered by Acronis</a><br></td>
-<td>Cloudable Solutions Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution464' target='_blank'>JumpCloud Platform</a><br></td>
-<td>Perennial Consultancy Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution490' target='_blank'>Rah Tech Sophos Endpoint Protection</a><br></td>
-<td>Rah Tech Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution517' target='_blank'>Eset Protect Entry</a><br></td>
-<td>Rentalworks (SG) Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1105' target='_blank'>Bitdefender GravityZone Business Security Premium</a><br></td>
->>>>>>> parent of 1cbb2806b (Merge branch 'staging' into TSJ)
 <td>Juss Solutions Group Pte Ltd</td>
 </tr>
 </table>

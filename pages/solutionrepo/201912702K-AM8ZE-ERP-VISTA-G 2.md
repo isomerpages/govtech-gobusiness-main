@@ -1,6 +1,6 @@
 ---
 title: 'AM8ZE ERP - VISTA'
-permalink: /productivity-solutions-grant/solutionrepo/solution932
+permalink: /productivity-solutions-grant/solutionrepo/201912702K-AM8ZE-ERP-VISTA-G
 ---
 
 ## AM8ZE ERP - VISTA

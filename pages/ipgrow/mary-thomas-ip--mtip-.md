@@ -97,4 +97,4 @@ We go above and beyond to assist all types of businesses to identify, protect, a
 <p>
 <a class='btn' href='https://form.gov.sg/651116b54fec5f001271017e' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 25 October 2023
+Profile last updated on 11 April 2024

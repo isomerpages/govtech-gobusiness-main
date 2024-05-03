@@ -1,6 +1,6 @@
 ---
 title: 'AZ Digital POS solution'
-permalink: /productivity-solutions-grant/solutionrepo/solution106
+permalink: /productivity-solutions-grant/solutionrepo/198901360G-AZ-Dgtl-POS-SLN-G
 ---
 
 ## AZ Digital POS solution

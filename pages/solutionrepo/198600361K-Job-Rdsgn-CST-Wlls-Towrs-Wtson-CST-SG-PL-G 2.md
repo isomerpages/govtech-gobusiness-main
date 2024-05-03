@@ -1,6 +1,6 @@
 ---
 title: 'Job Redesign Consultancy - Willis Towers Watson Consulting (Singapore) Pte Ltd'
-permalink: /productivity-solutions-grant/solutionrepo/solution1450
+permalink: /productivity-solutions-grant/solutionrepo/198600361K-Job-Rdsgn-CST-Wlls-Towrs-Wtson-CST-SG-PL-G
 ---
 
 ## Job Redesign Consultancy - Willis Towers Watson Consulting (Singapore) Pte Ltd

@@ -1,6 +1,6 @@
 ---
 title: 'Job Redesign Consultancy - Singapore Productivity Centre Pte Ltd'
-permalink: /productivity-solutions-grant/solutionrepo/solution1444
+permalink: /productivity-solutions-grant/solutionrepo/201323340N-Job-Rdsgn-CST-SG-Productvty-Cntr-PL-G
 ---
 
 ## Job Redesign Consultancy - Singapore Productivity Centre Pte Ltd

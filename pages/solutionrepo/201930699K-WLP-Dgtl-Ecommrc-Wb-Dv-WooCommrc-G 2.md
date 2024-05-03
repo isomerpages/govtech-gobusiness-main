@@ -1,6 +1,6 @@
 ---
 title: 'WLP Digital Ecommerce Web Development (WooCommerce)'
-permalink: /productivity-solutions-grant/solutionrepo/solution1377
+permalink: /productivity-solutions-grant/solutionrepo/201930699K-WLP-Dgtl-Ecommrc-Wb-Dv-WooCommrc-G
 ---
 
 ## WLP Digital Ecommerce Web Development (WooCommerce)

@@ -1,6 +1,6 @@
 ---
 title: 'Cloudable Data Protection Suite-Powered by Acronis'
-permalink: /productivity-solutions-grant/solutionrepo/solution142
+permalink: /productivity-solutions-grant/solutionrepo/201528272H-Cloudbl-Dt-Protcton-SutPowrd-by-Acrons-G
 ---
 
 ## Cloudable Data Protection Suite-Powered by Acronis

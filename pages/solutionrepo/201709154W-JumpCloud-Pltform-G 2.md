@@ -1,6 +1,6 @@
 ---
 title: 'JumpCloud Platform'
-permalink: /productivity-solutions-grant/solutionrepo/solution464
+permalink: /productivity-solutions-grant/solutionrepo/201709154W-JumpCloud-Pltform-G
 ---
 
 ## JumpCloud Platform

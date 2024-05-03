@@ -1,6 +1,6 @@
 ---
 title: 'Microsoft Cybersecurity Package'
-permalink: /productivity-solutions-grant/solutionrepo/solution101
+permalink: /productivity-solutions-grant/solutionrepo/201026975M-Mcrosoft-Cybrscurty-Pckg-G
 ---
 
 ## Microsoft Cybersecurity Package

@@ -1,6 +1,6 @@
 ---
 title: 'Netiquette Cloud Business Suite'
-permalink: /productivity-solutions-grant/solutionrepo/solution412
+permalink: /productivity-solutions-grant/solutionrepo/200706402C-Ntqutt-Cloud-Busnss-Sut-G
 ---
 
 ## Netiquette Cloud Business Suite
