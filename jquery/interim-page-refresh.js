@@ -1,8 +1,10 @@
 document.addEventListener("DOMContentLoaded", (event) => {
 	// Retrieve countdown seconds
-	const secondsElement = document.getElementById("seconds");
-	let seconds = secondsElement.textContent;
-
+	// const secondsElement = document.getElementById("seconds");
+	// let seconds = secondsElement.textContent;
+	
+	let seconds = 5;
+	
 	// Set destination page
 	const refreshElement = document.getElementById("refresh");
 	const searchParams = new URLSearchParams(document.location.search);
