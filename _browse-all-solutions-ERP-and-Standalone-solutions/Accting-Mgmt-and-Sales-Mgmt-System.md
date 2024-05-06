@@ -70,10 +70,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Everyday Corporate Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202008850Z-FdCorp-Xro-ACC-Softwr-G' target='_blank'>FidCorp Xero Accounting Software</a><br></td>
-<td>FidCorp Services Private Limited</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201836351D-AUTOCOUNT-ACC-SOFTWARE-v-2-G' target='_blank'>AUTOCOUNT ACCOUNTING SOFTWARE Version 2</a><br></td>
 <td>I SOFT BUSINESS SOLUTIONS PTE LTD</td>
 </tr>
@@ -206,10 +202,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Creative E-World Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201810991G-Counto-DIY-v-1-G' target='_blank'>Counto DIY Version 1</a><br></td>
-<td>Xion.AI Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200311122E-TNB-Intut-Quckbooks-Onln-G' target='_blank'>TNB Intuit Quickbooks Online</a><br></td>
 <td>TNB GLOBAL OUTSOURCE PTE LTD</td>
 </tr>
@@ -218,16 +210,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Cloud Accounting & Consultancy Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202111829G-Quckbook-Onln-G' target='_blank'>Quickbook Online</a><br></td>
-<td>IRIS CORPORATE SERVICES PTE. LTD.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201705995K-Psoft-ACC-Systms-v-7-G' target='_blank'>Psoft Accounting Systems Version 7</a><br></td>
-<td>Psoft Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200804595N-Xro-Cloud-ACC-Softwr-G' target='_blank'>Xero Cloud Accounting Software</a><br></td>
 <td>361 Degree Consultancy Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202008850Z-FdCorp-Xro-ACC-Softwr-G' target='_blank'>FidCorp Xero Accounting Software</a><br></td>
+<td>FidCorp Services Private Limited</td>
 </tr>
 </table>
 

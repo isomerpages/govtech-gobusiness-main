@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/198905395E-Job-Rdsgn-CST-E
 
 **Description**
 
-COVID-19 has accelerated the need for companies to embark on digital transformations, and revamp the way work is done to drive higher levels of productivity and effectiveness. EY's People Advisory Services, together with our broader EY Technology and Business Consultancy practices, assists companies on your workforce transformation efforts, including job redesign, business process redesign and workforce upskilling, to help you realise the future of work within your organisations.
+In an increasingly digital, sustainability-focused world with evolving workforce aspirations, job redesign is key to ensure that jobs remain relevant and our people's skillsets are updated and future-proofed. EY's People Consulting practice, together with our broader Technology, Business Consultancy and Sustainability practices, is well-positioned to partner with your company on workforce transformation efforts, including job redesign, business process redesign and workforce upskilling.
 
 ## Solution Packages Option(s)
 
@@ -36,7 +36,7 @@ COVID-19 has accelerated the need for companies to embark on digital transformat
 
 ## Vendor Information
 
- Company Name: Ernst & Young Advisory Pte Ltd<br>Web URL: www.ey.com<br>Contact Name: Goh Jia Yong, Partner, EY People Advisory Services<br>Contact Email: ey.psg.jr@sg.ey.com<br>Contact Number: 6309 6552
+ Company Name: Ernst & Young Advisory Pte Ltd<br>Web URL: www.ey.com<br>Contact Name: Goh Jia Yong, Partner, EY People Consulting<br>Contact Email: ey.psg.jr@sg.ey.com<br>Contact Number: 6309 6552
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
