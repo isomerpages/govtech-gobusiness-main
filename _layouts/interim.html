@@ -2,16 +2,18 @@
 layout: skeleton
 ---
 <head>
-    <meta id="refresh" http-equiv="refresh">
-    <title>Interim</title>
+    <!-- <meta id="refresh" http-equiv="refresh"> -->
+    <!-- <title>Interim</title> -->
 </head>
 <body>
-    <h1>Interim</h1>
-    {{ content }}
+    <h1>We have updated our site</h1>
+    <h2>You will be redirected to <b>Skillsfuture for Business</b>in 5 seconds.</h2>
+    {% include secondary-btn.html href="https://www.businessgrants.gov.sg/?src=login_bgp" target="_blank" rel="noopener" text="Skip ahead" %}
+    <!-- {{ content }} -->
     <div>
         <p>Redirecting you in <span id="seconds">5</span>...</p>
     </div>
-    <script src="/jquery/interim-page-refresh.js"></script>
+    <!-- <script src="/jquery/interim-page-refresh.js"></script> -->
 
     <style>
         #main-content {
