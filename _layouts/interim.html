@@ -7,8 +7,10 @@ layout: skeleton
 </head>
 <body>
     <h1>We have updated our site</h1>
-    <h2>You will be redirected to <b>Skillsfuture for Business </b>in 5 seconds.</h2>
-    {% include primary-btn.html href="https://www.businessgrants.gov.sg/?src=login_bgp" target="_blank" rel="noopener" text="Skip ahead" %}
+    <h3>You will be redirected to <b>Skillsfuture for Business </b>in 5 seconds.</h2>
+    <div class="skipButton">
+        {% include primary-btn.html href="https://www.businessgrants.gov.sg/?src=login_bgp" target="_blank" rel="noopener" text="Skip ahead" %}
+    </div>
     <!-- {{ content }} -->
     <!-- <div>
         <p>Redirecting you in <span id="seconds">5</span>...</p>
@@ -19,14 +21,14 @@ layout: skeleton
         #main-content {
             background-color: #f0f0f0 !important;
             text-align: center;
+            justify-content: center;
+            padding-top: 200px;
+            padding-bottom: 200px;
         }
-        .panel>p {
-            font-weight: 400;
-            font-size: 14px;
-            line-height: 21px !important;
-            color: #f0f0f0 !important;
-            margin-top: 10px !important;
-            margin-bottom: 27px !important;
+
+        #skipButton {
+            text-align: center;
+            
         }
     </style>
 </body>
