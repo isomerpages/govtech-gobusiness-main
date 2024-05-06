@@ -36,10 +36,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>1103 STUDIOS PRIVATE LIMITED</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201936773M-DM-Bst-SEO-Dgtl-Mrktng-PKG-v-1-G' target='_blank'>DM Best SEO Digital Marketing Packages Version 1</a><br></td>
-<td>Best Marketing Agency Pte Ltd f.k.a Best SEO Marketing Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201705156N-DM-LtBrw-Dgtl-Mrktng-Pckg-G' target='_blank'>DM LiteBrew Digital Marketing Package</a><br></td>
 <td>Brew Interactive Pte Ltd</td>
 </tr>
@@ -68,20 +64,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Inbox Consults Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201529118Z-DM-IPRO-Dzgn-Dgtl-Mrktng-PKG-G' target='_blank'>DM IPRO Dezign Digital Marketing Packages</a><br></td>
-<td>IPRO DEZIGN PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202008698H-DM-Outrnkco-Dgtl-Mrktng-PKG-v-1-G' target='_blank'>DM Outrankco Digital Marketing Packages Version 1</a><br></td>
 <td>Outrankco Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201840067W-DM-PIXEL-MECHANICS-Dgtl-Mrktng-PKG-G' target='_blank'>DM PIXEL MECHANICS Digital Marketing Packages</a><br></td>
 <td>PIXEL MECHANICS PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200914055M-DM-Th-Lttl-Blck-Book-Socl-Md-Dgtl-Mrktng-Pckg-G' target='_blank'>DM The Little Black Book Social Media Digital Marketing Package</a><br></td>
-<td>The Little Black Book Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200502591G-DM-ThAsMd-Dgtl-Mrktng-PKG-G' target='_blank'>DM TheAsiaMedia Digital Marketing Packages</a><br></td>
@@ -116,16 +104,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>SEOciety Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200500323W-DM-Foundrs-Jump-Strt-Dgtl-Mrktng-PKG-G' target='_blank'>DM iFoundries Jump Start Digital Marketing Packages</a><br></td>
-<td>iFoundries (Asia Pacific) Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201800551Z-DM-Fr-Cptl-Dgtl-Mrktng-PKG-G' target='_blank'>DM Fier Capital Digital Marketing Packages</a><br></td>
 <td>Fier Capital Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201325568H-DM-Bzsqur-Dgtl-Mrktng-Sut-PKG-G' target='_blank'>DM Bizsquare Digital Marketing Suite Packages</a><br></td>
-<td>Bizsquare Management Consultants Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202016650R-DM-NBT-Dgtl-Prformnc-Mrktng-Pckg-G' target='_blank'>DM NBT Digital Performance Marketing Package</a><br></td>
@@ -158,10 +138,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202113658W-DM-HD-Dgtl-Brndng-PKG-G' target='_blank'>DM HD Digital Branding Packages</a><br></td>
 <td>Hatch Digital Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201822015H-DM-3D-Dgtl-Boostr-G' target='_blank'>DM 3D Digital Booster</a><br></td>
-<td>3D BRAND AGENCY PTE LTD</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202136883R-DM-Smntc-Clnt-Acquston-Dgtl-Mrktng-PKG-G' target='_blank'>DM Semantic Client Acquisition Digital Marketing Packages</a><br></td>
@@ -218,6 +194,34 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201426038W-DM-33-Dgrs-Dgtl-Mrktng-PKG-G' target='_blank'>DM 33 Degrees Digital Marketing Packages</a><br></td>
 <td>33 Degrees Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201621104R-DM-Dgtl-Mrktng-Googl-SEO-SEM-PPC-SMA-SMM-Contnt-G' target='_blank'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | SMM | Content</a><br></td>
+<td>Impossible Marketing Services Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201936773M-DM-Bst-SEO-Dgtl-Mrktng-PKG-v-1-G' target='_blank'>DM Best SEO Digital Marketing Packages Version 1</a><br></td>
+<td>Best Marketing Agency Pte Ltd f.k.a Best SEO Marketing Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201834121D-DM-WECOFA-Dgtl-Mrktng-PKG-G' target='_blank'>DM WECOFA Digital Marketing Packages</a><br></td>
+<td>WECOFA PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201529118Z-DM-IPRO-Dzgn-Dgtl-Mrktng-PKG-G' target='_blank'>DM IPRO Dezign Digital Marketing Packages</a><br></td>
+<td>IPRO DEZIGN PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201832282M-DM-QIANYI-TRADING-TIKTOK-DIGITAL-MARKETING-SLN-G' target='_blank'>DM QIANYI TRADING TIKTOK DIGITAL MARKETING SOLUTION</a><br></td>
+<td>QIANYI TRADING PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200914055M-DM-Th-Lttl-Blck-Book-Socl-Md-Dgtl-Mrktng-Pckg-G' target='_blank'>DM The Little Black Book Social Media Digital Marketing Package</a><br></td>
+<td>The Little Black Book Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201325568H-DM-Bzsqur-Dgtl-Mrktng-Sut-PKG-G' target='_blank'>DM Bizsquare Digital Marketing Suite Packages</a><br></td>
+<td>Bizsquare Management Consultants Pte Ltd</td>
 </tr>
 </table>
 

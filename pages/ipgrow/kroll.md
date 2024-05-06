@@ -92,4 +92,4 @@ Kroll Valuation Advisory Services helps clients satisfy regulatory reporting req
 <p>
 <a class='btn' href='https://form.gov.sg/64fad1c58b895900114ff0c0' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 26 September 2023
+Profile last updated on 11 April 2024

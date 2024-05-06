@@ -5,13 +5,13 @@ permalink: /intellectual-property/ip-grow/tan-rajah-cheah/
 
 ## Tan Rajah & Cheah
 
-Tan Rajah & Cheah was founded in 1947 by Mr C C Tan, Dr A P Rajah, and Mr Cheah Heng Sin. 
+Tan Rajah & Cheah was founded in 1947 by Mr C C Tan, Dr A P Rajah, and Mr Cheah Heng Sin.
 
 We are a full-service practice and are well recognised for our work in Dispute Resolution. Our other practice areas include Commercial Litigation, Arbitration and Dispute Resolution, Commercial Crime and Governance, Private Client Services, and Corporate Advisory Services.
 
 As a medium-sized practice, we are dextrous enough to provide genuinely personalised service to our clients. At the same time, we have sufficient strength in depth through our collective experience and technical expertise to serve clients effectively in substantial litigation and non-litigation matters.
 
-We are a member of the international law practice group, PLG International Lawyers.
+We are a member of the international law practice group, PLG International Lawyers. We are recognised as a leading firm in The Legal 500 and are ranked in Benchmark Litigation.
 
 <b>Year established in Singapore:</b> 1947
 
@@ -35,7 +35,7 @@ We are a member of the international law practice group, PLG International Lawye
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 51 to 55</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts overseas: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $1,500</li>
@@ -45,7 +45,7 @@ We are a member of the international law practice group, PLG International Lawye
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of cases completed in previous calendar year: 16 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of cases completed in previous calendar year: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts overseas: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $3,000</li>
@@ -55,7 +55,7 @@ We are a member of the international law practice group, PLG International Lawye
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 16 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 21 to 25</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts overseas: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $400</li>
@@ -98,7 +98,7 @@ We are a member of the international law practice group, PLG International Lawye
 **Zahara Bakar**
 
 - Job Title: Partner
-- Years of Experience: 33 years
+- Years of Experience: 34 years
 - Location: Singapore
 - IA/IP-Related Expertise: Trade Mark Agent Service, IP Portfolio Management, Contract Drafting
 - Certifications/Qualifications: Advocate & Solicitor in Singapore, Certificate of Appointment: Member of the Specialist Mediator Panel (Singapore) by Singapore International Mediation Centre dated 10 December 2021, Certificate of Registration as Professional Deputy (Personal Welfare and Property & Affairs) by the Office of Public Guardian dated 15 March 2023, LLB (Hons) National University of Singapore
@@ -107,7 +107,7 @@ We are a member of the international law practice group, PLG International Lawye
 **Moiz Haider Sithawalla**
 
 - Job Title: Partner
-- Years of Experience: 23 years
+- Years of Experience: 24 years
 - Location: Singapore
 - IA/IP-Related Expertise: Contract Drafting, Dispute Resolution
 - Certifications/Qualifications: Advocate & Solicitor in Singapore, Barrister-At-Law (Middle Temple) in England and Wales, LLB (Hons) University of Nottingham, MBA, National University of Singapore
@@ -116,7 +116,7 @@ We are a member of the international law practice group, PLG International Lawye
 **Eusuff Ali s/o N B M Mohamed Kassim**
 
 - Job Title: Partner
-- Years of Experience: 24 years
+- Years of Experience: 25 years
 - Location: Singapore
 - IA/IP-Related Expertise: Contract Drafting, Dispute Resolution
 - Certifications/Qualifications: Advocate & Solicitor in Singapore, LLB (Hons), National University of Singapore
@@ -125,7 +125,7 @@ We are a member of the international law practice group, PLG International Lawye
 **Sayana Baratham**
 
 - Job Title: Consultant
-- Years of Experience: 33 years
+- Years of Experience: 34 years
 - Location: Singapore
 - IA/IP-Related Expertise: Contract Drafting
 - Certifications/Qualifications: Advocate & Solicitor in Singapore, Barrister (Gray's Inn) England and Wales, LLB Bristol University, LLM King's College (London)
@@ -135,4 +135,4 @@ We are a member of the international law practice group, PLG International Lawye
 <p>
 <a class='btn' href='https://form.gov.sg/645a0c2d02527d0013e622ed' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 23 August 2023
+Profile last updated on 24 April 2024
