@@ -3,7 +3,7 @@ title: Enterprise Portal for Jobs and Skills
 permalink: /enterprisejobskills/
 ---
 
-Please wait while we redirect you to the new Skillsfuture Portal in <spain id="countdown">5</span> seconds.
+Please wait while we redirect you to the new Skillsfuture Portal in <span id="countdown">5</span> seconds.
 
 <a class="btn" href="https://skillsfuture.gobusiness.gov.sg/support-and-programmes/" target="_blank" rel="noopener">Skip ahead</a>
 
