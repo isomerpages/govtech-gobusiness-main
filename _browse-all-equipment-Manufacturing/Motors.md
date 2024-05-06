@@ -134,7 +134,6 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - Siemens - 1CV4204A
 - Siemens - 1AV4205A
 - Siemens - 1CV4205A
-- Siemens - 1CV4205A
 - Siemens - 1CV4220B
 - Siemens - 1AV4206A
 - Siemens - 1CV4222B

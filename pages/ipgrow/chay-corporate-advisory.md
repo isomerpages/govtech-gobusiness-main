@@ -15,7 +15,7 @@ Chay Corporate Advisory Pte Ltd, a boutique corporate advisory house established
 
 <b>Address in Singapore:</b> 531 Upper Cross Street #02-05 Hong Lim Complex Singapore 050531
 
-<b>Website:</b> <a href='www.chay.com.sg'>www.chay.com.sg</a>
+<b>Website:</b> <a href='https://www.chay.com.sg'>https://www.chay.com.sg</a>
 
 <a class='btn' href='https://form.gov.sg/660e03ca5153c69a0a9b2f96' target='_blank' rel='noopener'>Get in touch</a>
 
