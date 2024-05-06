@@ -10,7 +10,7 @@ National Environment Agency (NEA)
 
 {% include spcp-text.html type="cp" %}
 
-<p>All NEA Licences & Submission of Returns on GoBusiness Portal will be unavailable from (i) 3 May 3PM to 6 May 10 AM and (ii) 23 May 3PM to 27 May 10AM for maintenance. We apologise for the inconvenience caused.</p>
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/cleaningbusinesslicence" type="primary" %}
 
 <H3>Application Details</H3>
 
