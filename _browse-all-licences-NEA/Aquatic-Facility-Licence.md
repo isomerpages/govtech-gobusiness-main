@@ -8,7 +8,7 @@ third_nav_title: National Environment Agency (NEA)
 
 National Environment Agency (NEA)
 
-<div id = "licencepanel" style="background: #CEE2F9; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 12px; color: #313840;"><img src="/images/noticeicon.png" alt="" style="height: 24px; width: 24px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-regular; font-size: 16px;">All NEA Licences & Submission of Returns on GoBusiness Portal will be unavailable from 23 May 3PM to 27 May 10AM for maintenance. We apologise for the inconvenience caused.</span></div>
+<div id = "licencepanel" style="background: #CEE2F9; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 12px; color: #313840; display:flex;"><img src="/images/noticeicon.png" alt="" style="height: 24px; width: 24px; margin-left: 0px; margin-right: 10px;"><span style="font-weight: bold; font-family: hknova-regular; font-size: 16px;">All NEA Licences & Submission of Returns on GoBusiness Portal will be unavailable from 23 May 3PM to 27 May 10AM for maintenance. We apologise for the inconvenience caused.</span></div>
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/aquaticfacilitylicence" type="primary" %}
 
