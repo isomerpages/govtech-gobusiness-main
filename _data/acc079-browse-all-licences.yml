@@ -1627,10 +1627,13 @@
 
         <p>For operating a public aquatic facility.</p>
 
-        <div class="panel blue">
-          <img class="icon" src="/images/noticeicon.png" alt="notice">
-          <span class="text">Text beside the icon</span>
+        <div id="licencepanel">
+          <img class="panelicon" src="/images/noticeicon.png" alt="notice">
+          <span class="paneltext">Text beside the icon</span>
         </div>
+
+        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Public-Transport-Council-(PTC)/Ticket-Payment-Service-Licence-(TPSL)">View Licence Details</a>
+
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/aquaticfacilitylicence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/Aquatic-Facility-Licence">View Licence Details</a>
 
