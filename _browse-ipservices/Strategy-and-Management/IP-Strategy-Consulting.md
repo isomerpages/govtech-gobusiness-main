@@ -24,7 +24,7 @@ With a well-crafted IP strategy, your business is better placed to strengthen it
 ---
 
 ### Connect with relevant service providers for IP strategy consulting services
-**40 service providers listed.**
+**30 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
