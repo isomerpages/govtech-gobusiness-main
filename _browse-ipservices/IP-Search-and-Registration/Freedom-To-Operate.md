@@ -62,6 +62,22 @@ Questel is a true end-to-end intellectual property solutions provider.
 
 ---
 
+#### Donaldson & Burkinshaw LLP
+
+Donaldson & Burkinshaw LLP provides IP services and practises the full spectrum of IP law.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 51 to 55</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $600</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> First consultation is free upon formal engagement of our firm.</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/6450a7ce45da250012ca6ec3' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/donaldson-burkinshaw-llp/){:target='_blank'}
+
+---
+
 #### CMS Holborn Asia
 
 CMS is a global top-10 law firm with an active IP offering in the Asia-Pacific region.
@@ -74,22 +90,6 @@ CMS is a global top-10 law firm with an active IP offering in the Asia-Pacific r
 </ul>
 
 <a class='btn' href='https://form.gov.sg/644886784ff9210011168207' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/cms-holborn-asia/){:target='_blank'}
-
----
-
-#### Donaldson & Burkinshaw LLP
-
-Donaldson & Burkinshaw LLP provides IP services and practises the full spectrum of IP law.
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 26 to 30</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $600</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> First consultation is free upon formal engagement of our firm.</li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/6450a7ce45da250012ca6ec3' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/donaldson-burkinshaw-llp/){:target='_blank'}
 
 ---
 

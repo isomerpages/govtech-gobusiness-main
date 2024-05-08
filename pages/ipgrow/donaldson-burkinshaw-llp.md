@@ -7,11 +7,12 @@ permalink: /intellectual-property/ip-grow/donaldson-burkinshaw-llp/
 
 Donaldson & Burkinshaw LLP is a full-service law firm with one of Singapore's longest-established, largest, and leading Intellectual Property (IP) practices. Our IP team comprises highly qualified patent and trademark specialists, technical experts and professionals. Our staff includes qualified patent agents who are Ph.D. holders, engineers and scientists, and professionals well-experienced in trademark prosecution. Our patents team has the technical know-how and expertise to provide specialised patent advisory services. Our patents team specialises in drafting patent applications and pursuing patent protection in technical areas (such as biomedical devices, tissue engineering, medicine, pharmaceutical sciences, biotechnology, chemistry, materials engineering, semiconductor technology, telecommunications, wireless communications and civil engineering), and provides services for patent validity and infringement analysis, freedom to operate advice and patent litigation.
 
-<b>Year established in Singapore:</b> 2014
+<b>Year established in Singapore:</b> 1874
 
 <b>Top focus areas for IA/IP services:</b> Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search
 
-<b>Intellectual property awards received:</b> IP Stars - Trademark Prosecution (Singapore) (2023) - Tier 1 ; Asia IP - Trade Mark Prosecution (Singapore) (2023) - Tier 1 ; Managing IP - Asia-Pacific Awards 2023 - Shortlisted under Patent Prosecution and Trade mark Prosecution;  Asia Legal Business - IP Ranking (Patents) (Singapore) (2022) - Tier 1 ; Asia Legal Business - IP Ranking (Copyright / Trademarks) (Singapore) (2022) - Tier 1
+<b>Intellectual property awards received:</b> Managing IP - Asia-Pacific Awards 2023 ; Winner of Singapore Patent Prosecution Firm of the Year 2023 ; IAM Patent - Winner of Global IP Awards 2023 Singapore Patent Firm of the Year ; Asia Legal Business - Shortlisted as finalist for Singapore Intellectual Property Law Firm of the Year 2023 ; IP Stars 2023 - Trade Mark Prosecution Practice in Singapore - Tier 1
+
 
 <b>Type of organization:</b> SME
 
@@ -43,7 +44,7 @@ Donaldson & Burkinshaw LLP is a full-service law firm with one of Singapore's lo
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of cases completed in previous calendar year: 26 to 30</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of cases completed in previous calendar year: 16 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts in Singapore: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts overseas: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $600</li>
@@ -53,7 +54,7 @@ Donaldson & Burkinshaw LLP is a full-service law firm with one of Singapore's lo
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 26 to 30</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 51 to 55</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $600</li>
@@ -73,7 +74,7 @@ Donaldson & Burkinshaw LLP is a full-service law firm with one of Singapore's lo
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 101 to 150</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 251 to 300</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts in Singapore: 11 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts overseas: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $600</li>
@@ -113,7 +114,7 @@ Donaldson & Burkinshaw LLP is a full-service law firm with one of Singapore's lo
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 1901 to 2000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: Above 2000</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $600</li>
@@ -123,7 +124,7 @@ Donaldson & Burkinshaw LLP is a full-service law firm with one of Singapore's lo
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate: $401 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 16 to 30</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 46 to 60</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents in Singapore: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents overseas: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $600</li>
@@ -133,7 +134,7 @@ Donaldson & Burkinshaw LLP is a full-service law firm with one of Singapore's lo
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 1751 to 2000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 2501 to 2750</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $600</li>
@@ -166,7 +167,7 @@ Donaldson & Burkinshaw LLP is a full-service law firm with one of Singapore's lo
 **Michelle S. H., NG**
 
 - Job Title: Managing Partner
-- Years of Experience: 26 years
+- Years of Experience: 27 years
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, IP Intelligence and Search, IP Portfolio Management
 - Certifications/Qualifications: LL.B (Hons.) (National University of Singapore), Advocate and Solicitor of the Supreme Court of Singapore, Roll of Solicitors of the Supreme Court of England and Wales, Registered Singapore Patent Agent
@@ -174,8 +175,8 @@ Donaldson & Burkinshaw LLP is a full-service law firm with one of Singapore's lo
 
 **Shy Tsong, LEE**
 
-- Job Title: Partner
-- Years of Experience: 29 years
+- Job Title: Senior Partner
+- Years of Experience: 30 years
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, IP Intelligence and Search, IP Portfolio Management
 - Certifications/Qualifications: LL.B (Hons.) (National University of Singapore), Advocate and Solicitor of the Supreme Court of Singapore, Advanced Diploma in Computer Studies, Registered Singapore Patent Agent, Registered Malaysia Trademark and Industrial Design Agent
@@ -183,8 +184,8 @@ Donaldson & Burkinshaw LLP is a full-service law firm with one of Singapore's lo
 
 **Chi Duan, Gooi**
 
-- Job Title: Partner
-- Years of Experience: 26 years
+- Job Title: Senior Partner
+- Years of Experience: 27 years
 - Location: Singapore
 - IA/IP-Related Expertise: IP Intelligence and Search, IP Watch, IP Due Diligence
 - Certifications/Qualifications: LL.B (Hons.) (National University of Singapore), Advocate and Solicitor of the Supreme Court of Singapore, Accredited Associate Mediator with the Singapore Mediation Centre, Fellow of the Singapore Institute of Arbitrators
@@ -192,7 +193,7 @@ Donaldson & Burkinshaw LLP is a full-service law firm with one of Singapore's lo
 
 **E-Laine, Chiam**
 
-- Job Title: Partner
+- Job Title: Senior Partner
 - Years of Experience: 33 years
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, IP Intelligence and Search, IP Portfolio Management
@@ -201,17 +202,17 @@ Donaldson & Burkinshaw LLP is a full-service law firm with one of Singapore's lo
 
 **Michael Stephen, Kraal**
 
-- Job Title: Partner
-- Years of Experience: 29 years
+- Job Title: Senior Partner
+- Years of Experience: 30 years
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, IP Intelligence and Search, IP Portfolio Management
-- Certifications/Qualifications: LL.B (Hons.) (National University of Singapore),  Advocate and Solicitor of the Supreme Court of Singapore, Registered Singapore Patent Agent
+- Certifications/Qualifications: LL.B (Hons.) (National University of Singapore), Advocate and Solicitor of the Supreme Court of Singapore, Registered Singapore Patent Agent
 - URL of LinkedIn/Company Profile: <a href="https://www.donburk.asia/michael-kraal.html" target="_blank" rel="noopener">https://www.donburk.asia/michael-kraal.html</a>
 
 **Min Pin, Koay**
 
-- Job Title: Partner
-- Years of Experience: 34 years
+- Job Title: Senior Partner
+- Years of Experience: 35 years
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, IP Intelligence and Search, IP Portfolio Management
 - Certifications/Qualifications: LL.B (Hons.) (University of Liverpool, U.K.), English Bar, LL.M (London School of Economics, U.K.) (Specialising in Corporate and Commercial Law), Advocate and Solicitor of the Supreme Court of Singapore, Registered Singapore Patent Agent
@@ -221,7 +222,7 @@ Donaldson & Burkinshaw LLP is a full-service law firm with one of Singapore's lo
 **Hubert, Giam**
 
 - Job Title: Partner; Head, Patents Division (Mechanical & Electrical Group)
-- Years of Experience: 13 years
+- Years of Experience: 14 years
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search, IP Due Diligence, IP Portfolio Management
 - Certifications/Qualifications: B.Eng (Hons.) (Electrical Engineering) (National University of Singapore), M.Sc in Intellectual Property Management (National University of Singapore), Registered Singapore Patent Agent, Accredited Associate Mediator with the Singapore Mediation Centre, Fellow of the Singapore Institute of Arbitrators
@@ -230,7 +231,7 @@ Donaldson & Burkinshaw LLP is a full-service law firm with one of Singapore's lo
 **Teck Yeow, Lim**
 
 - Job Title: Partner; Head, Patents Division (Life Sciences & Chemical Group)
-- Years of Experience: 13 years
+- Years of Experience: 14 years
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search, IP Due Diligence, IP Portfolio Management
 - Certifications/Qualifications: B.Eng (Hons.) (Bioengineering) (National University of Singapore), MSc in Intellectual Property Management (National University of Singapore), Registered Singapore Patent Agent, Associate Mediator accredited by the Singapore Mediation Centre
@@ -239,7 +240,7 @@ Donaldson & Burkinshaw LLP is a full-service law firm with one of Singapore's lo
 **Gary, Chua**
 
 - Job Title: Partner
-- Years of Experience: 9 years
+- Years of Experience: 10 years
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search, IP Due Diligence, IP Portfolio Management
 - Certifications/Qualifications: B.Eng (Hons.) (Electrical Engineering) (National University of Singapore), Registered Singapore Patent Agent
@@ -248,7 +249,7 @@ Donaldson & Burkinshaw LLP is a full-service law firm with one of Singapore's lo
 **Shang Li, Chua**
 
 - Job Title: Partner
-- Years of Experience: 16 years
+- Years of Experience: 17 years
 - Location: Singapore
 - IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Intelligence and Search, IP Due Diligence, IP Portfolio Management
 - Certifications/Qualifications: LL.B (Hons.) (University of Liverpool), Advocate and Solicitor of the Supreme Court of Singapore
@@ -258,4 +259,4 @@ Donaldson & Burkinshaw LLP is a full-service law firm with one of Singapore's lo
 <p>
 <a class='btn' href='https://form.gov.sg/6450a7ce45da250012ca6ec3' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 23 August 2023
+Profile last updated on 8 May 2024

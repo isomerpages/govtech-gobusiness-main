@@ -198,22 +198,6 @@ Withers KhattarWong is a full-service international law firm located in Singapor
 
 ---
 
-#### Donaldson & Burkinshaw LLP
-
-Donaldson & Burkinshaw LLP provides IP services and practises the full spectrum of IP law.
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of cases completed in previous calendar year:</b> 26 to 30</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $600</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> First consultation is free upon formal engagement of our firm.</li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/6450a7ce45da250012ca6ec3' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/donaldson-burkinshaw-llp/){:target='_blank'}
-
----
-
 #### CHP Law 
 
 CHP Law LLC provides elegant and creative legal solutions for its clients.
@@ -241,6 +225,22 @@ Ghows LLC is a Singapore law practice recognised within the industry for its exp
 </ul>
 
 <a class='btn' href='https://form.gov.sg/6433d8fb3e8d6600113150b3' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ghows-llc/){:target='_blank'}
+
+---
+
+#### Donaldson & Burkinshaw LLP
+
+Donaldson & Burkinshaw LLP provides IP services and practises the full spectrum of IP law.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of cases completed in previous calendar year:</b> 16 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $600</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> First consultation is free upon formal engagement of our firm.</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/6450a7ce45da250012ca6ec3' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/donaldson-burkinshaw-llp/){:target='_blank'}
 
 ---
 
@@ -493,7 +493,7 @@ We relentlessly eliminate redundant processes to save costs and time for you.
 
 #### Baker McKenzie Wong & Leow
 
-Baker & McKenzie is one of the largest law firms globally with 77 offices in 46 countries.
+Baker & McKenzie is one of the largest law firms globally with 74 offices in 45 countries.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
@@ -563,6 +563,21 @@ A full-service law firm that provides legal advice on corporate, IP, family, and
 </ul>
 
 <a class='btn' href='https://form.gov.sg/64e30b3d51571a0011e8bebc' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/yuen-law-llc/){:target='_blank'}
+
+---
+
+#### CTLC Law Corporation
+
+Full service law firm with strong IP/IT and technology practice
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of cases completed in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $2,500</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/6632ec6983afe4776d1968c3' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ctlc-law-corporation/){:target='_blank'}
 
 ---
 

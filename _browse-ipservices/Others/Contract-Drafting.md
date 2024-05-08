@@ -260,6 +260,21 @@ Business lawyers, for businesses. Expert legal advice for corporate, employment,
 
 ---
 
+#### CTLC Law Corporation
+
+Full service law firm with strong IP/IT and technology practice
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 16 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $350</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/6632ec6983afe4776d1968c3' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ctlc-law-corporation/){:target='_blank'}
+
+---
+
 #### Aedificare Law
 
 At Aedificare Law, we build and protect your business.
@@ -633,7 +648,7 @@ We relentlessly eliminate redundant processes to save costs and time for you.
 
 #### Baker McKenzie Wong & Leow
 
-Baker & McKenzie is one of the largest law firms globally with 77 offices in 46 countries.
+Baker & McKenzie is one of the largest law firms globally with 74 offices in 45 countries.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>

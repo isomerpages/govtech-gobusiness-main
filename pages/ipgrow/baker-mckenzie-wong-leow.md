@@ -150,25 +150,25 @@ Our Intellectual Property and Technology (IPTech) practice is consistently ranke
 **Andy Leck**
 
 - Job Title: Principal and Head of the Intellectual Property and Technology (IPTech) Practice Group
-- Years of Experience: 30 years
+- Years of Experience: 31 years
 - Location: Singapore
 - IA/IP-Related Expertise: Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, IP Strategy Consulting, Dispute Resolution
 - Certifications/Qualifications: Appointed IP Adjudicator by the Intellectual Property of Singapore (IPOS), Member of Singapore Copyright Tribunal since 2010, Mediator with WIPO Arbitration and Mediation Center, Notary Public & Commissioner for Oaths in Singapore
-- Awards/Accolades: The A-List: Singapore's Top 100 Lawyers of Asia Business Law Journal 2023, Band 1 Lawyer for Intellectual Property: Domestic of Chambers Asia Pacific 2023, Leading Individual for Intellectual Property: Local Firms of Legal 500 Asia Pacific 2023, Gold Tier Individual (Enforcement and Litigation, Prosecution and Strategy) World Trademark Review 1000 2022
+- Awards/Accolades: The A-List: Singapore's Top 100 Lawyers, Asia Business Law Journal 2024, Band 1 Lawyer for Intellectual Property: Domestic, Chambers Asia Pacific, Singapore 2024, Leading Individual for Intellectual Property: Local Firms, Legal 500 Asia Pacific, Singapore 2024, Gold Tier Individual (Enforcement and Litigation) and Silver Tier Individual (Prosecution and Strategy), World Trademark Review (WTR) 1000 2024
 - URL of LinkedIn/Company Profile: <a href="https://www.bakermckenzie.com/en/people/l/leck-andy" target="_blank" rel="noopener">https://www.bakermckenzie.com/en/people/l/leck-andy</a>
 
 **Ren Jun Lim**
 
 - Job Title: Principal
-- Years of Experience: 14 years
+- Years of Experience: 15 years
 - Location: Singapore
 - IA/IP-Related Expertise: IP Audit, IP Due Diligence, IP Portfolio Management, IP Strategy Consulting, Dispute Resolution
 - Certifications/Qualifications: Member of the Law Society of Singapore, Member of the Singapore Academy of Law 
-- Awards/Accolades: Next Generation Partner for Intellectual Property: Local Firms of Legal 500 Asia Pacific 2023, Singapore's 70 Most Influential Lawyers Aged Under 40 of Singapore Business Review 2016, Silver Tier Individual (Enforcement and Litigation, Prosecution and Strategy) of World Trademark Review 1000 2022
+- Awards/Accolades: Next Generation Partner for Intellectual Property: Local Firms, Legal 500 Asia Pacific, Singapore 2024, Singapore�s 70 Most Influential Lawyers Aged Under 40, Singapore Business Review 2016, Silver Tier Individual (Enforcement and Litigation, Prosecution and Strategy), World Trademark Review (WTR) 1000 2024
 - URL of LinkedIn/Company Profile: <a href="https://www.bakermckenzie.com/en/people/l/lim-ren-jun" target="_blank" rel="noopener">https://www.bakermckenzie.com/en/people/l/lim-ren-jun</a>
 
 ---
 <p>
 <a class='btn' href='https://form.gov.sg/646ff4ec3017a20011b004d1' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 26 July 2023
+Profile last updated on 8 May 2024

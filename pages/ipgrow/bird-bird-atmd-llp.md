@@ -5,17 +5,18 @@ permalink: /intellectual-property/ip-grow/bird-bird-atmd-llp/
 
 ## Bird & Bird ATMD LLP
 
-Bird & Bird ATMD is a leading Singapore law firm with a strong local presence, complemented by its regional and international focus being part of Bird & Bird's international practice. We specialise in combining leading expertise across a full range of legal services on an international basis. 
+Bird & Bird ATMD is a leading Singapore law firm with strong local presence, as well as robust regional and international capabilities, being part of Bird & Bird's international practice. Bird & Bird is a full-service firm with global IP expertise, offering comprehensive services in patents, copyright, trademarks, designs, and IP transactions. Our expertise extends to emerging areas such as AI, machine learning, big data, and tech-life sciences convergence.
 
-We are uniquely placed to offer the whole range of services being a law firm with a strong intellectual property practice, as well as an experienced team of in-house patent attorneys. Our detailed understanding of technology and innovation and its challenges enables us to help domestic and multinational businesses manage, protect, exploit and litigate their IP rights even as businesses embrace digitisation and e-commerce.
+Our firm stands out with a strong IP practice and seasoned in-house patent attorneys. We understand the intricacies of technology and innovation, enabling us to help domestic and multinational businesses manage, protect, exploit and litigate their IP rights even while businesses undergo their digital transformations.
 
-With more than 1,400 lawyers across Bird & Bird's network of 32 offices worldwide, we are strategically well-placed to offer local IP expertise within a global context to help companies achieve their business goals both domestically and internationally.
+With over 1,700 lawyers across 32 offices globally, Bird & Bird ATMD is well-placed to help companies navigate the complexities of IP law, achieving their business goals both domestically and internationally.
 
 <b>Year established in Singapore:</b> 1994
 
 <b>Top focus areas for IA/IP services:</b> Patent Agent Service, Trade Mark Agent Service, IP Portfolio Management, Contract Drafting, Dispute Resolution
 
-<b>Intellectual property awards received:</b> Legal 500 Asia Pacific 2023 - Tier 1 (Intellectual Property: Local firms) , Chambers Asia Pacific 2023 - Band 1 (Intellectual Property: Domestic) , The Straits Times Singapore's Best Law Firms 2023 - Recognised as one of the top recommended firms in Singapore for Intellectual Property with a five-star rating
+<b>Intellectual property awards received:</b> Chambers Asia Pacific 2024 - Ranked Band 1 for Intellectual Property: Domestic ; Legal 500 Asia Pacific 2024 - Ranked as a Tier 1 Firm for Intellectual Property ; Asia IP Awards 2023 - Named winner for Singapore - Patent and Asia-Pacific - Copyright ; Asialaw Profiles 2023 - Recognised as an Outstanding firm for Intellectual Property ; World Trademark Review 1000 2023 - Ranked Gold Tier for Trademark Enforcement and Litigation and Trademark Prosecution and Strategy
+
 
 <b>Type of organization:</b> SME
 
@@ -198,106 +199,108 @@ With more than 1,400 lawyers across Bird & Bird's network of 32 offices worldwid
 **Lorraine Tay**
 
 - Job Title: Joint Managing Partner
-- Years of Experience: 28+ years
+- Years of Experience: 29 years
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Trade Mark Agent Service, Branding Strategy, IP Portfolio Management, Contract Drafting
 - Certifications/Qualifications: LLB (Hons) National University of Singapore (1994), Advocate & Solicitor in Singapore (1995)
-- Awards/Accolades: Chambers Asia Pacific 2023 - Band 1 (Intellectual Property: Domestic: Non-contentious), Legal 500 Asia Pacific 2023 - Leading Individual (Intellectual Property: Local firms), Asialaw Profiles 2023 - Elite Practitioner (Intellectual Property), The Best Lawyers in Singapore 14th (2023) Edition - Listed as a Best Lawyer for Intellectual Property Law, World Trademark Review 1000 2022 - Gold Tier for Trademark Prosecution and Strategy
+- Awards/Accolades: Chambers Asia Pacific 2024 - Ranked under Band 1 for Intellectual Property, Legal 500 Asia Pacific 2024 - Recognised as a leading individual for Intellectual Property, Asian Legal Business 2023 - Recognised as one of Top 15 IP Practitioners across Asia, Managing IP's Top 250 Women in IP 2023 - Recognised as the Top 250 Women in IP, and one of only two Singapore-based lawyers in the list, World Trademark Review 1000 2023 - Ranked under the Gold Band for Prosecution and Strategy. Highlighted for her capable leadership.
 - URL of LinkedIn/Company Profile: <a href="https://www.twobirds.com/en/people/l/lorraine-tay" target="_blank" rel="noopener">https://www.twobirds.com/en/people/l/lorraine-tay</a>
 
 **Anan Sivananthan**
 
 - Job Title: Partner
-- Years of Experience: 30+ years
+- Years of Experience: 31 years
 - Location: Singapore
 - IA/IP-Related Expertise: Trade Mark Agent Service, Freedom-to-Operate (FTO), IP Portfolio Management, Contract Drafting, Dispute Resolution
 - Certifications/Qualifications: LLB (Hons) Queen Mary College University of London (1990), Solicitor in England & Wales (1999), Advocate & Solicitor in Singapore (1992)
-- Awards/Accolades: Legal 500 Asia Pacific 2023 - Recommended lawyer (Intellectual Property: Local firms), Chambers Asia Pacific 2023 - Band 3 (Intellectual Property: Domestic: Litigation), Asialaw Profiles 2023 - Notable Practitioner (Intellectual Property), The Best Lawyers in Singapore 14th (2023) Edition - Listed as a Best Lawyer for Intellectual Property Law, World Trademark Review 1000 2022 - Ranked Silver for Trademark Enforcement and Litigation, and is recommended for Trademark Transactions
+- Awards/Accolades: Chambers Asia-Pacific Guide 2024 - Ranked Band 3 for IP  Litigation, Legal 500 Asia Pacific 2024 - Listed as a Recommended Individual for Intellectual Property: Local firms, World Trademark Review 1000 2023 - Ranked Silver for Trademark Enforcement and Litigation, and is recommended for Trademark Transactions, Asialaw Profiles 2023 - Ranked as Notable Practitioner for Intellectual Property, Singapore, Benchmark Litigation Asia-Pacific 2023 - Listed as Litigation Star for Intellectual Property Disputes, Managing IP's IP Stars guide 2023 - Named Patent Star and Trade Mark Star.
 - URL of LinkedIn/Company Profile: <a href="https://www.twobirds.com/en/people/a/anan-sivananthan" target="_blank" rel="noopener">https://www.twobirds.com/en/people/a/anan-sivananthan</a>
 
-**Alban Kang**
-
-- Job Title: Partner
-- Years of Experience: 39+ years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Trade Mark Agent Service, Freedom-to-Operate (FTO), Contract Drafting, Dispute Resolution
-- Certifications/Qualifications: LLM New York University Trade Regulations (Intellectual Property), LLB National University of Singapore, Advocate & Solicitor in Singapore (1984), Attorney-at-Law in New York State (1988), Solicitor of England & Wales (1997)
-- Awards/Accolades: Legal 500 Asia Pacific 2023 - Hall of Fame (Intellectual Property: Local firms), Chambers Asia Pacific 2023 - Band 1 (Intellectual Property: Domestic: Litigation), The Best Lawyers in Singapore 14th (2023) Edition - Recognised as a Best Lawyer for Intellectual Property Law, Asialaw Profiles 2023 - Elite Practitioner (Intellectual Property), Who's Who Legal: IP 2022 - Listed as Leading Professional for Trademark and Patents
-- URL of LinkedIn/Company Profile: <a href="https://www.twobirds.com/en/people/a/alban-kang" target="_blank" rel="noopener">https://www.twobirds.com/en/people/a/alban-kang</a>
 
 **Pin-Ping Oh**
 
 - Job Title: Partner
-- Years of Experience: 13+ years
+- Years of Experience: 14 years
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Trade Mark Agent Service, Freedom-to-Operate (FTO), Contract Drafting, Dispute Resolution
 - Certifications/Qualifications: Bachelor of Chemical Engineering with First Class Honours from National University of Singapore (NUS), Master of Chemical Engineering from National University of Singapore, LLB National University of Singapore, Registered Singapore Patent Attorney (since 2008), Advocate & Solicitor in Singapore (2010)
-- Awards/Accolades: Legal 500 Asia Pacific 2023 - Next Generation Partner (Intellectual Property: Local firms), Asialaw Profiles 2023 - Rising Star (Intellectual Property), Managing IP's IP Star 2022 - Rising Star (Copyright & related rights, Intellectual Property, Patent disputes)
+- Awards/Accolades: Legal 500 Asia Pacific 2023, 2024 - Listed as Next Generation Partner for IP, Singapore, Asialaw Leading Lawyers 2023/2024 - Listed as Rising Star for Intellectual Property, Singapore, Managing IP's IP Stars guide 2023 - Ranked as Rising IP Star in the 2018-2023 editions, IAM Patent 1000 - Patent Litigation, Bronze band. IAM Patent has also described her as one who "fuses her solid scientific expertise into the contentious practice seamlessly".
 - URL of LinkedIn/Company Profile: <a href="https://www.twobirds.com/en/people/p/pin-ping-oh" target="_blank" rel="noopener">https://www.twobirds.com/en/people/p/pin-ping-oh</a>
-
 
 **Gene Kwek**
 
 - Job Title: Managing Counsel
-- Years of Experience: 22+ years
+- Years of Experience: 23 years
 - Location: Singapore
 - IA/IP-Related Expertise: Trade Mark Agent Service, Branding Strategy, IP Portfolio Management, Contract Drafting, Dispute Resolution
 - Certifications/Qualifications: LLB National University of Singapore, Advocate & Solicitor in Singapore (2001), Solicitor (Non-practising) England and Wales (2003)
-- Awards/Accolades: Legal 500 Asia Pacific 2023 - Next Generation Partner (Intellectual Property: Local firms), World Trademark Review 1000 2022 - Ranked in Silver Tier for Trademark Prosecution and Strategy
+- Awards/Accolades: Legal 500 Asia Pacific - Gene has been ranked as Next Generation Partner for Intellectual Property: Local Firm in the 2019-2024 editions, World Trademark Review 1000 2022 - Ranked in Silver Tier for Trade mark Prosecution and Strategy.
 - URL of LinkedIn/Company Profile: <a href="https://www.twobirds.com/en/people/g/gene-kwek" target="_blank" rel="noopener">https://www.twobirds.com/en/people/g/gene-kwek</a>
 
 **Bridget Goh**
 
 - Job Title: Counsel
-- Years of Experience: 11+ years
+- Years of Experience: 12 years
 - Location: Singapore
 - IA/IP-Related Expertise: Trade Mark Agent Service, IP Watch, Branding Strategy, IP Portfolio Management, Contract Drafting
 - Certifications/Qualifications: LLB National University of Singapore, Advocate & Solicitor in Singapore (2012)
-- Awards/Accolades: Managing IP's IP Star 2022 - Rising Star (Trade mark strategy & counseling, Trade mark prosecution, Trade mark office proceedings)
+- Awards/Accolades: Managing IP's IP Stars 2021-2023 - Rising Star (Trade mark strategy & counseling, Trade mark prosecution, Trade mark office proceedings)
 - URL of LinkedIn/Company Profile: <a href="https://www.twobirds.com/en/people/b/bridget-goh" target="_blank" rel="noopener">https://www.twobirds.com/en/people/b/bridget-goh</a>
 
 
 **Audrey Lim**
 
 - Job Title: Counsel
-- Years of Experience: 10+ years
+- Years of Experience: 11 years
 - Location: Singapore
 - IA/IP-Related Expertise: Trade Mark Agent Service, IP Watch, Branding Strategy, IP Portfolio Management, Contract Drafting
 - Certifications/Qualifications: LLB Singapore Management University, Advocate & Solicitor in Singapore (2013)
-- Awards/Accolades: Legal 500 Asia Pacific 2023 - Rising Star (Intellectual Property: Local firms), Managing IP's IP Star 2022 - Rising Star (Trade mark strategy & counseling, Trade mark prosecution, Geographical Indications)
+- Awards/Accolades: The Legal 500 Asia Pacific 2022-2024 - Rising Star for IP, Managing IP's IP Stars 2021-2023 - Ranked as a Rising IP Star, Singapore Business Review 2023 - Awarded one of Singapore's most influential lawyers under 40: Audrey Lim is an expert in IP law, specialising in strategic brand advisory, brand protection and management across various global industries. She excels in handling global trademark matters, licensing agreements, franchise agreements, and liquidation matters involving IP assets. She also bears solid competence in contentious IP and domain name dispute matters. She demonstrates a deep understanding of local laws in the region and beyond and contributes thought leadership articles.
 - URL of LinkedIn/Company Profile: <a href="https://www.twobirds.com/en/people/a/audrey-lim" target="_blank" rel="noopener">https://www.twobirds.com/en/people/a/audrey-lim</a>
 
 **Hui Leng Tan**
 
 - Job Title: Senior Patent Attorney
-- Years of Experience: 10+ years
+- Years of Experience: 11 years
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search, IP Due Diligence, Contract Drafting
 - Certifications/Qualifications: Bachelor of Science (major in Biochemistry and minor in Computer Programming and Applications) National University of Singapore, Graduate Certificate in Intellectual Property (IP) National University of Singapore, Masters of Science in IP Management from National University of Singapore, Certified F&eacute;d&eacute;ration Internationale des Conseils en Propri&eacute;t&eacute; Industrielle (FICPI) under the South East Asian Drafting Course
-- Awards/Accolades: IAM Patent 1000 - Bronze Band (Patent Prosecution), Listed in Who's Who Legal: Patents
-- URL of LinkedIn/Company Profile: <a href="https://www.twobirds.com/en/people/h/hui-leng-tan" target="_blank" rel="noopener">https://www.twobirds.com/en/people/h/hui-leng-tan</a>
+- Awards/Accolades: IAM Patent 1000 2020-2023 - Recommended for Patent Prosecution.
+- URL of LinkedIn/Company Profile: [https://www.twobirds.com/en/people/h/hui-leng-tan] (https://www.twobirds.com/en/people/h/hui-leng-tan)
 
 **Martin Kwan**
 
 - Job Title: Senior Patent Attorney
-- Years of Experience: 10+ years
+- Years of Experience: 11 years
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search, IP Due Diligence, Contract Drafting
 - Certifications/Qualifications: Graduate Certificate in Intellectual Property from National University of Singapore, Bachelor's Degree (Electrical and Electronics engineering) Nanyang Technological University, Registered Singapore Patent Agent (since 2011)
+- Awards/Accolades: IAM Patent 1000 2022-2023 - Recommended for Patent Prosecution.
 - URL of LinkedIn/Company Profile: <a href="https://www.twobirds.com/en/people/m/martin-kwan" target="_blank" rel="noopener">https://www.twobirds.com/en/people/m/martin-kwan</a>
 
-
-**Yi Xin Tan**
+**Bryan Soon **
 
 - Job Title: Senior Associate
-- Years of Experience: 7 years
+- Years of Experience: >5 years
 - Location: Singapore
-- IA/IP-Related Expertise: Trade Mark Agent Service, Branding Strategy, IP Due Diligence, IP Portfolio Management, Contract Drafting
-- Certifications/Qualifications: LLB Singapore Management University, Advocate & Solicitor, Singapore (2016)
-- URL of LinkedIn/Company Profile: <a href="https://www.twobirds.com/en/people/y/yi-xin-tan" target="_blank" rel="noopener">https://www.twobirds.com/en/people/y/yi-xin-tan</a>
+- IA/IP-Related Expertise: Trade Mark Agent Service, Branding Strategy, IP Portfolio Management, IP Brokerage and Licensing, Dispute Resolution
+- Certifications/Qualifications: Advocate and Solicitor, Singapore (2019), LLB (Hons) Singapore Management University (2018)
+- URL of LinkedIn/Company Profile: Contract Drafting, Dispute Resolution
+<a href="https://twobirds.com/en/people/b/bryan-soon" target="_blank" rel="noopener">https://twobirds.com/en/people/b/bryan-soon</a>  
+
+**Cheryl Lim **
+
+- Job Title: Senior Associate
+- Years of Experience: >6 years
+- Location: Singapore
+- IA/IP-Related Expertise: Trademark Agent Service, Branding Strategy, IP Portfolio Management, Contract Drafting, IP Brokerage and Licensing
+- Certifications/Qualifications: Advocate and Solicitor, Singapore (2018), Singapore Management University, Bachelor of Laws
+- URL of LinkedIn/Company Profile: <a href="https://www.twobirds.com/en/people/c/cheryl-lim" target="_blank" rel="noopener">https://www.twobirds.com/en/people/c/cheryl-lim</a>
+
+
 
 ---
 <p>
 <a class='btn' href='https://form.gov.sg/643f4b88cdf7590012384891' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 23 August 2023
+Profile last updated on 8 May 2024
