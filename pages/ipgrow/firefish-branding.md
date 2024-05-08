@@ -5,7 +5,7 @@ permalink: /intellectual-property/ip-grow/firefish-branding/
 
 ## Firefish Branding
 
-Established since 1998, Firefish is an award-winning branding agency and consultancy with presences in Singapore, London, New York, Shanghai, Jakarta and Kuala Lumpur. We provide end-to-end comprehensive branding solutions covering brand consulting, brand audit, brand naming, brand strategy, employer branding to brand activation.
+Established since 1998, Firefish<sup>TM</sup> is an award-winning branding agency and consultancy with presences in Singapore, London, New York, Shanghai, Jakarta and Kuala Lumpur. We provide end-to-end comprehensive branding solutions covering brand consulting, brand audit, brand naming, brand strategy, employer branding to brand activation.
 
 Our proprietary branding framework, Brandgrammar™ is based on masters research work in National University of Singapore. Over the years, Brandgrammar™ has been developed, tested and proven in actual branding projects and shown to deliver transformative branding results across industries.
 
