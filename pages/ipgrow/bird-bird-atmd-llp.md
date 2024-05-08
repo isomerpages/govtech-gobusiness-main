@@ -266,7 +266,7 @@ With over 1,700 lawyers across 32 offices globally, Bird & Bird ATMD is well-pla
 - IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search, IP Due Diligence, Contract Drafting
 - Certifications/Qualifications: Bachelor of Science (major in Biochemistry and minor in Computer Programming and Applications) National University of Singapore, Graduate Certificate in Intellectual Property (IP) National University of Singapore, Masters of Science in IP Management from National University of Singapore, Certified F&eacute;d&eacute;ration Internationale des Conseils en Propri&eacute;t&eacute; Industrielle (FICPI) under the South East Asian Drafting Course
 - Awards/Accolades: IAM Patent 1000 2020-2023 - Recommended for Patent Prosecution.
-- URL of LinkedIn/Company Profile: [https://www.twobirds.com/en/people/h/hui-leng-tan] (https://www.twobirds.com/en/people/h/hui-leng-tan)
+- URL of LinkedIn/Company Profile: <a href="https://www.twobirds.com/en/people/h/hui-leng-tan" target="_blank" rel="noopener">https://www.twobirds.com/en/people/h/hui-leng-tan</a>
 
 **Martin Kwan**
 
@@ -278,7 +278,7 @@ With over 1,700 lawyers across 32 offices globally, Bird & Bird ATMD is well-pla
 - Awards/Accolades: IAM Patent 1000 2022-2023 - Recommended for Patent Prosecution.
 - URL of LinkedIn/Company Profile: <a href="https://www.twobirds.com/en/people/m/martin-kwan" target="_blank" rel="noopener">https://www.twobirds.com/en/people/m/martin-kwan</a>
 
-**Bryan Soon **
+**Bryan Soon**
 
 - Job Title: Senior Associate
 - Years of Experience: >5 years
@@ -288,7 +288,7 @@ With over 1,700 lawyers across 32 offices globally, Bird & Bird ATMD is well-pla
 - URL of LinkedIn/Company Profile: Contract Drafting, Dispute Resolution
 <a href="https://twobirds.com/en/people/b/bryan-soon" target="_blank" rel="noopener">https://twobirds.com/en/people/b/bryan-soon</a>  
 
-**Cheryl Lim **
+**Cheryl Lim**
 
 - Job Title: Senior Associate
 - Years of Experience: >6 years
@@ -296,7 +296,6 @@ With over 1,700 lawyers across 32 offices globally, Bird & Bird ATMD is well-pla
 - IA/IP-Related Expertise: Trademark Agent Service, Branding Strategy, IP Portfolio Management, Contract Drafting, IP Brokerage and Licensing
 - Certifications/Qualifications: Advocate and Solicitor, Singapore (2018), Singapore Management University, Bachelor of Laws
 - URL of LinkedIn/Company Profile: <a href="https://www.twobirds.com/en/people/c/cheryl-lim" target="_blank" rel="noopener">https://www.twobirds.com/en/people/c/cheryl-lim</a>
-
 
 
 ---

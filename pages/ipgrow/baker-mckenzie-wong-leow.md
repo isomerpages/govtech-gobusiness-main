@@ -164,7 +164,7 @@ Our Intellectual Property and Technology (IPTech) practice is consistently ranke
 - Location: Singapore
 - IA/IP-Related Expertise: IP Audit, IP Due Diligence, IP Portfolio Management, IP Strategy Consulting, Dispute Resolution
 - Certifications/Qualifications: Member of the Law Society of Singapore, Member of the Singapore Academy of Law 
-- Awards/Accolades: Next Generation Partner for Intellectual Property: Local Firms, Legal 500 Asia Pacific, Singapore 2024, Singapore�s 70 Most Influential Lawyers Aged Under 40, Singapore Business Review 2016, Silver Tier Individual (Enforcement and Litigation, Prosecution and Strategy), World Trademark Review (WTR) 1000 2024
+- Awards/Accolades: Next Generation Partner for Intellectual Property: Local Firms, Legal 500 Asia Pacific, Singapore 2024, Singapore's 70 Most Influential Lawyers Aged Under 40, Singapore Business Review 2016, Silver Tier Individual (Enforcement and Litigation, Prosecution and Strategy), World Trademark Review (WTR) 1000 2024
 - URL of LinkedIn/Company Profile: <a href="https://www.bakermckenzie.com/en/people/l/lim-ren-jun" target="_blank" rel="noopener">https://www.bakermckenzie.com/en/people/l/lim-ren-jun</a>
 
 ---
