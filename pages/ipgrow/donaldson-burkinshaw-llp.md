@@ -11,7 +11,7 @@ Donaldson & Burkinshaw LLP is a full-service law firm with one of Singapore's lo
 
 <b>Top focus areas for IA/IP services:</b> Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search
 
-<b>Intellectual property awards received:</b> Managing IP - Asia-Pacific Awards 2023 ; Winner of Singapore Patent Prosecution Firm of the Year 2023 ; IAM Patent - Winner of Global IP Awards 2023 Singapore Patent Firm of the Year ; Asia Legal Business - Shortlisted as finalist for Singapore Intellectual Property Law Firm of the Year 2023 ; IP Stars 2023 - Trade Mark Prosecution Practice in Singapore - Tier 1
+<b>Intellectual property awards received:</b> Managing IP - Asia-Pacific Awards 2023 - Winner of Singapore Patent Prosecution Firm of the Year 2023 ; IAM Patent - Winner of Global IP Awards 2023 Singapore Patent Firm of the Year ; Asia Legal Business - Shortlisted as finalist for Singapore Intellectual Property Law Firm of the Year 2023 ; IP Stars 2023 - Trade Mark Prosecution Practice in Singapore - Tier 1
 
 
 <b>Type of organization:</b> SME
