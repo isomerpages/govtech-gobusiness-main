@@ -83,7 +83,7 @@ We are a full service law firm.
 <a name='key-practice-experts'></a>
 ### Key practice experts
 
-**Han Wah Teng **
+**Han Wah Teng**
 
 - Job Title: Consultant
 - Years of Experience: 25 years
