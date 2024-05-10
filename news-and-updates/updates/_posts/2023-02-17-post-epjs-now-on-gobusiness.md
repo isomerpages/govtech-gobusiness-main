@@ -23,10 +23,10 @@ In addition to skills initiatives and resources, a list of EPJS’ Digital Servi
 
 Users can now access [EPJS](https://skillsfuture.gobusiness.gov.sg) and its [Digital Services](https://skillsfuture.gobusiness.gov.sg/e-services/) on GoBusiness. 
 
-They can also navigate to EPJS from the [SkillsFuture for Enterprise page](/skillsfuture-for-enterprise/?src=news_and_update), found under ‘Run and Grow a Business’ in the main navigation bar.
+They can also navigate to EPJS from the [SkillsFuture for Business page](https://skillsfuture.gobusiness.gov.sg), found under ‘Run and Grow a Business’ in the main navigation bar.
 
 ![screenshot of EPJS entry points](/images/news/EPJS entry points.jpg)
-<figcaption>Find EPJS from the home page, or from the SkillsFuture for Enterprise page, found under ‘Run and Grow a Business’ in the main navigation bar</figcaption>
+<figcaption>Find EPJS from the home page, or from the SkillsFuture for Business page, found under ‘Run and Grow a Business’ in the main navigation bar</figcaption>
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>

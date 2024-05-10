@@ -58,7 +58,7 @@ The [SkillsFuture Enterprise Credit](https://skillsfuture.gobusiness.gov.sg/supp
 
 The [Critical Infocomm Technology Resource Programme PLUS (CITREP+)](https://www.imda.gov.sg/imtalent/programmes/citrep-plus){:target="_blank"}{:rel="noopener"} is yet another resource you can consider. Under this initiative, employees can bolster their ICT skills and enjoy funding support for course and certification fees.   
 
-**Keen to learn more about upskilling? Check out GoBusiness’ [SkillsFuture for Enterprise](https://www.gobusiness.gov.sg/skillsfuture-for-enterprise/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}, which collates and organises the various skills development resources into a step-by-step guide for easy reference.**
+**Keen to learn more about upskilling? Check out GoBusiness’ [SkillsFuture for Business](https://www.gobusiness.gov.sg/skillsfuture-for-enterprise/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}, which collates and organises the various skills development resources into a step-by-step guide for easy reference.**
 
 **You can also turn to the [GoBusiness e-Adviser for Skills Training](https://eadviser.gobusiness.gov.sg/skillstraining?src=gobiz_blog){:target="_blank"}{:rel="noopener"}, which offers recommendations for training courses and initiatives for career upskilling that are personalised to your business’ needs.**
 
