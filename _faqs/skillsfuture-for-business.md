@@ -1,6 +1,6 @@
 ---
 title: SkillsFuture for Business
-permalink: https://skillsfuture.gobusiness.gov.sg/faq/
+permalink: https://www.skillsfuture.gobusiness.gov.sg/faq/
 ---
 
 
