@@ -24,7 +24,7 @@ For businesses needing help sourcing or selling their IP, head to [IP Brokerage 
 ---
 
 ### Connect with relevant service providers for IP marketplace services
-**40 service providers listed.**
+**1 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 

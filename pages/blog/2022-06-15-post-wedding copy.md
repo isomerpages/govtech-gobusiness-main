@@ -77,8 +77,6 @@ Today, Michelle is keeping her head up as Singapore enters an endemic state.
 “The plan for Arches & Co is to really just continue on our trajectory, to continue providing good service to our clients who believe in us,” she shares.
 
 
-**Are you like Michelle and need the latest updates on Safe Management Measures on hand? Check out the [sector-specific requirements](/covid/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} on GoBusiness for the latest updates.** 
-
 **With restrictions easing and events once again sprouting up across the island, use GoBusiness’ [e-Adviser for Events](/licences/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} to find out what the regulations are surrounding large-scale business-related events.**
 
 <em>This article is accurate as at 15 Jun 2022</em>
