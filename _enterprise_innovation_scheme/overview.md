@@ -215,7 +215,7 @@ Businesses seeking to undertake qualifying innovation projects may contact the r
         Nanyang Polytechnic
     </td>
     <td>
-        <a href="mailto:ryan_tan@nyp.edu.sg">ryan_tan@nyp.edu.sg</a>
+        <a href="mailto:Diana_sutanto@nyp.edu.sg">Diana_sutanto@nyp.edu.sg</a>
     </td>
 </tr>
 <tr>

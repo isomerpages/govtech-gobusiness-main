@@ -17,7 +17,7 @@ Claudian Caucus boasts a depth of expertise in novel technologies ranging from b
 
 <b>Address in Singapore:</b> 136A Hillview Ave, #08-06, Singapore 669606
 
-<b>Website:</b> <a href='www.claudiancaucus.com'>www.claudiancaucus.com</a>
+<b>Website:</b> <a href='https://www.claudiancaucus.com'>https://www.claudiancaucus.com</a>
 
 <a class='btn' href='https://form.gov.sg/660e01af0ea29407816e17e4' target='_blank' rel='noopener'>Get in touch</a>
 
@@ -150,7 +150,7 @@ Claudian Caucus boasts a depth of expertise in novel technologies ranging from b
 - Years of Experience: 9 years
 - Location: Singapore
 - IA/IP-Related Expertise: IP Due Diligence, IP Portfolio Management, IP Strategy Consulting, IP Brokerage and Licensing, IP Intelligence and Search
-- Certifications/Qualifications: FAdvocate & Solicitor of the Supreme Court of Singapore
+- Certifications/Qualifications: Advocate & Solicitor of the Supreme Court of Singapore
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/jonas-koh-572b39132/" target="_blank" rel="noopener">https://www.linkedin.com/in/jonas-koh-572b39132/</a>
 
 ---

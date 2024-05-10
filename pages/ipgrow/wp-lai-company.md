@@ -42,7 +42,7 @@ The Firm is associated with the Wenping Group of Intellectual Property Firms, wi
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $0</li>
 </ul>
 
 **Patent Agent Services**
@@ -62,7 +62,7 @@ The Firm is associated with the Wenping Group of Intellectual Property Firms, wi
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 91 to 105</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $0</li>
 </ul>
 
 **Trade Mark Agent Services**
@@ -72,7 +72,7 @@ The Firm is associated with the Wenping Group of Intellectual Property Firms, wi
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 1 to 250</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $0</li>
 </ul>
 
 ---
@@ -99,7 +99,7 @@ The Firm is associated with the Wenping Group of Intellectual Property Firms, wi
 <a name='testimonials'></a>
 ### Testimonials
 
-*"*Thanks for the support all along. I am deeply grateful for your invaluable assistance in securing this US patent. Your expertise, dedication, and meticulous attention to detail throughout this process have been remarkable. Thanks to your guidance and unwavering support, we successfully navigated the complex patent application process, culminating in the grant of our patent. This achievement represents a significant milestone for our team and strengthens our position in the industry, opening new doors and opportunities for innovation and growth. We are thankful for your outstanding support and wish to extend an invitation to you: please feel free to use our case as part of your professional portfolio. We are proud of the work we accomplished together and would be honored to serve as a testament to your expertise and the exceptional service you provide. - Managing Director, GNEY Software Pte Ltd.
+*"*Thanks for the support all along. I am deeply grateful for your invaluable assistance in securing this US patent. Your expertise, dedication, and meticulous attention to detail throughout this process have been remarkable. Thanks to your guidance and unwavering support, we successfully navigated the complex patent application process, culminating in the grant of our patent. This achievement represents a significant milestone for our team and strengthens our position in the industry, opening new doors and opportunities for innovation and growth. We are thankful for your outstanding support and wish to extend an invitation to you: please feel free to use our case as part of your professional portfolio. We are proud of the work we accomplished together and would be honored to serve as a testament to your expertise and the exceptional service you provide." - Managing Director, GNEY Software Pte Ltd.
 
 
 

@@ -15,7 +15,7 @@ FT Consulting also conducts monthly IP Business Clinic sessions for IPOS.
 
 <b>Year established in Singapore:</b> 2004
 
-<b>Top focus areas for IA/IP services:</b> Branding Strategy, Innovation Consultancy, IP Strategy Consulting, IP Training
+<b>Top focus areas for IA/IP services:</b> Trade Mark Agent Service, Branding Strategy, Innovation Consultancy, IP Strategy Consulting, IP Brokerage and Licensing
 
 <b>Type of organization:</b> SME
 
@@ -51,6 +51,16 @@ FT Consulting also conducts monthly IP Business Clinic sessions for IPOS.
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $10,000</li>
 </ul>
 
+**IP Brokerage and Licensing Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of transactions completed in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Brokerage and Licensing experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Brokerage and Licensing experts overseas: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $10,000</li>
+</ul>
+
 **IP Strategy Consulting Services**
 
 <ul>
@@ -67,7 +77,7 @@ FT Consulting also conducts monthly IP Business Clinic sessions for IPOS.
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of courses completed in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts overseas: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $2,500</li>
 </ul>
 
@@ -119,7 +129,7 @@ FT Consulting also conducts monthly IP Business Clinic sessions for IPOS.
 - Years of Experience: 25 years
 - Location: Singapore
 - IA/IP-Related Expertise: Branding Strategy, Innovation Consultancy, IP Strategy Consulting
-- Certifications/Qualifications: Senior PMC (Practising Management Consultant)-IPM Certified - from SBACC (Singapore Business Advisors & Consultants Council)
+- Certifications/Qualifications: Senior PMC (Practising Management Consultant) - IPM Certified - from SBACC (Singapore Business Advisors & Consultants Council)
 - Awards/Accolades: World's Leading IP Strategist Award
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/john-ong-9923b213" target="_blank" rel="noopener">https://www.linkedin.com/in/john-ong-9923b213</a>
 
@@ -129,7 +139,7 @@ FT Consulting also conducts monthly IP Business Clinic sessions for IPOS.
 - Years of Experience: 20 years
 - Location: Singapore
 - IA/IP-Related Expertise: Branding Strategy, Innovation Consultancy, IP Strategy Consulting, IP Training
-- Certifications/Qualifications: PMC (Practising Management Consultant) -IPM Certified - from SBACC (Singapore Business Advisors & Consultants Council), ACLP (Advanced Certificate in Learning and Performance)
+- Certifications/Qualifications: PMC (Practising Management Consultant) - IPM Certified - from SBACC (Singapore Business Advisors & Consultants Council), ACLP (Advanced Certificate in Learning and Performance)
 - Awards/Accolades: Listed in "IAM Strategy 300: The World's Leading IP Strategists", SkillsFuture Fellowships Award 2019
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/winston-chan-ftc" target="_blank" rel="noopener">https://www.linkedin.com/in/winston-chan-ftc</a>
 
@@ -138,7 +148,7 @@ FT Consulting also conducts monthly IP Business Clinic sessions for IPOS.
 - Job Title: Senior Consultant / Regional Manager
 - Years of Experience: 15 years
 - Location: Singapore
-- IA/IP-Related Expertise: Innovation Consultancy, IP Strategy Consulting, IP Training
+- IA/IP-Related Expertise: Innovation Consultancy, IP Strategy Consulting, IP Training, IP Brokerage and Licensing
 - Certifications/Qualifications: PMC (Practising Management Consultant) Certified from SBACC (Singapore Business Advisors & Consultants Council),  ACLP (Advanced Certificate in Learning and Performance)
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/robin-yeo-14a8925" target="_blank" rel="noopener">https://www.linkedin.com/in/robin-yeo-14a8925</a>
 
@@ -155,4 +165,4 @@ FT Consulting also conducts monthly IP Business Clinic sessions for IPOS.
 <p>
 <a class='btn' href='https://form.gov.sg/63feb158148e560012a595a6' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 23 August 2023
+Profile last updated on 24 April 2024
