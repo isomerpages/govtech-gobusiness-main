@@ -56,7 +56,7 @@ Once you’ve an idea of the subject and type of course you would like to send y
 
 ### 2. I’m not sure which subsidy or grant is applicable to me 
 
-From the [SkillsFuture Enterprise Credit](/enterprisejobskills/programmes-and-initiatives/upgrade-skills/skillsfuture-enterprise-credit/?src=gobiz_blog){:target="_blank"} to the Absentee Payroll Funding scheme, there are many government support options available to help you defray upskilling costs. 
+From the [SkillsFuture Enterprise Credit](https://skillsfuture.gobusiness.gov.sg/support-and-programmes/funding/skillsfuture-enterprise-credit-sfec/){:target="_blank"} to the Absentee Payroll Funding scheme, there are many government support options available to help you defray upskilling costs. 
 
 The SkillsFuture for Enterprise Guide compiled the main [grants and schemes available](/skillsfuture-for-enterprise/check-your-eligibility-for-subsidies-and-funding/?src=gobiz_blog){:target="_blank"}, with eligibility criteria clearly laid out for ease of reference. Additionally, the Guide provides instructions on how you can [defray the manpower costs incurred](/skillsfuture-for-enterprise/claim-absentee-payroll-funding/?src=gobiz_blog){:target="_blank"} when your employees are attending training programmes. 
 

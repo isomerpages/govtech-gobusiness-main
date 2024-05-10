@@ -52,7 +52,7 @@ There are stiff penalties for foreigners who work without the relevant work pass
 
 ### 2. Put up a job listing and interview candidates
 
-Once you have applied for all the administrative paperwork, you’re all set to meet your new potential employees! The next step would be to craft a clear job description for the position that needs to be filled. You can reference the [SkillsFuture Framework](/enterprisejobskills/programmes-and-initiatives/develop-human-capital/#skills-framework/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} which includes individual guidelines on how to write a job description for each of the relevant sectors.
+Once you have applied for all the administrative paperwork, you’re all set to meet your new potential employees! The next step would be to craft a clear job description for the position that needs to be filled. You can reference the [SkillsFuture Framework](https://skillsfuture.gobusiness.gov.sg/support-and-programmes/understand/skills-frameworks){:target="_blank"}{:rel="noopener"} which includes individual guidelines on how to write a job description for each of the relevant sectors.
 
 ![A man speaking to his interviewer at a job interview](/images/blog/content/HiringFirstEmployee 2.png)
 <figcaption>The interview segment is a key component of the hiring process, where employers get to determine if a candidate is a good cultural fit for their company (Image: Canva)</figcaption>
@@ -102,12 +102,12 @@ For starters, check out [SkillsFuture for Enterprise](/skillsfuture-for-enterpri
 
 If your business is just taking off and training costs might be an issue, there are many grants and training support schemes available. Under the [Enhanced Training Supports for SMEs (ETSS)](https://www.skillsfuture.gov.sg/initiatives/employers/enhanced-training-support-for-smes){:target="_blank"}{:rel="noopener"}, course fee funding can be subsidised up to 90 per cent. In most cases, course fee subsidies are automatically computed and companies will only need to pay the net course fee and GST to the training provider.
 
-The [SkillsFuture Enterprise Credits (SFEC)](https://www.gobusiness.gov.sg/enterprisejobskills/programmes-and-initiatives/redesign-jobs/skillsfuture-enterprise-credit/){:target="_blank"}{:rel="noopener"} also provides S$10,000 credit to further encourage businesses to embark on workforce transformation and training. Under the SFEC, an additional 90 per cent funding support is provided for out-of-pocket expenses when eligible enterprises send their employees for SSG-funded training courses.
+The [SkillsFuture Enterprise Credits (SFEC)](https://skillsfuture.gobusiness.gov.sg/support-and-programmes/funding/skillsfuture-enterprise-credit-sfec/){:target="_blank"}{:rel="noopener"} also provides S$10,000 credit to further encourage businesses to embark on workforce transformation and training. Under the SFEC, an additional 90 per cent funding support is provided for out-of-pocket expenses when eligible enterprises send their employees for SSG-funded training courses.
 
 ![Table providing an example computation of cost savings when using SFEC to offset training costs](/images/blog/content/HiringFirstEmployee 6.png)
 <figcaption>An example of how employers can tap on SFEC for subsidised courses</figcaption>
 
-No application is required for the SFEC. Enterprises that are eligible for SFEC will be notified by Enterprise Singapore in writing, and companies can find out their SFEC balance by logging in to the [SkillsFuture Enterprise Credit system](https://www.gobusiness.gov.sg/enterprisejobskills/digital-services/){:target="_blank"}{:rel="noopener"}.
+No application is required for the SFEC. Enterprises that are eligible for SFEC will be notified by Enterprise Singapore in writing, and companies can find out their SFEC balance by logging in to the [SkillsFuture Enterprise Credit system](https://skillsfuture.gobusiness.gov.sg/support-and-programmes/funding/skillsfuture-enterprise-credit-sfec/){:target="_blank"}{:rel="noopener"}.
 
 Alternatively, employers can train your employees via lessons through the [SkillsFuture Series](https://www.skillsfuture.gov.sg/series){:target="_blank"}{:rel="noopener"}, a curation of short, industry-relevant training programmes that focus on emerging skills in the Digital, Green, Care, and Industry 4.0 economic growth pillars. The programme comprises 3 proficiency levels, namely Basic, Intermediate, and Advanced, and it targets Singaporeans who are keen to improve their knowledge of these emerging sectors to stay relevant for the future.
 
@@ -115,7 +115,7 @@ For employers who would prefer for their workers to have more on-the-job learnin
 
 NACE is also launching a new level certification to help workers get fast-tracked skills certifications through the Workplace Skills Recognition (WPSR) programme. The WPL:READY mark certification helps certified companies to work with SSG’s appointed training partners to formally recognise the skills their workers trained on-the-job, without the need for further external training.
 
-Interested employers can find out more about the [certification process](https://www.nace.edu.sg/certification/processes-overview/){:target="_blank"}{:rel="noopener"} on the NACE website, and more information on the [Workplace Skills Recognition Programme](/enterprisejobskills/programmes-and-initiatives/learn-at-the-workplace/workplace-skills-recognition-programme/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} can be found on GoBusiness.
+Interested employers can find out more about the [certification process](https://www.nace.edu.sg/certification/processes-overview/){:target="_blank"}{:rel="noopener"} on the NACE website, and more information on the [Workplace Skills Recognition Programme](https://skillsfuture.gobusiness.gov.sg/support-and-programmes/workplace-skills-recognition-programme/){:target="_blank"}{:rel="noopener"} can be found on GoBusiness.
 
 For an extensive list of courses, visit the [SkillsFuture Singapore (SSG) website](https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseList.aspx?IsNew=False&IsPopular=False&IsFeatured=False){:target="_blank"}{:rel="noopener"}, to choose your desired training area from a wide range of SSG-funded courses such as Workforce Skills Qualification courses or short courses in emerging areas and Critical Core Skills (soft skills).
 

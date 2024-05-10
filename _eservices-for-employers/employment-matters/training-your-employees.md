@@ -23,7 +23,7 @@ Find them in our list of [grants](/gov-assist/grants/).
 
 The [SkillsFuture for Enterprise User Guide](/skillsfuture-for-enterprise/?src=eservices_training) provides business owners with 5 key steps to get started on their SkillsFuture journey.
 
-- [Apply for SkillsFuture Work-Study Programme](/enterprisejobskills/programmes-and-initiatives/recruit-talent/skillsfuture-work-study-programmes/)
+- [Apply for SkillsFuture Work-Study Programme](https://skillsfuture.gobusiness.gov.sg/support-and-programmes/skillsfuture-work-study-programmes/)
   <br>Recruit fresh graduates from polytechnics and the Institute of Technical Education (ITE) and register them for this work-study programme to prepare them for suitable job roles within your business.
 
 - [e-Adviser for Skills Training](https://eadviser.gobusiness.gov.sg/skillstraining?src=eservices_training){:target="_blank"}{:rel="noopener"}

@@ -41,7 +41,7 @@ Navigate the process of starting, running and growing a business with our handy 
 
 ### For skills training
 
-The [SkillsFuture for Enterprise User Guide](/skillsfuture-for-enterprise/?src=eservices_guidesforbiz) provides business owners with 5 key steps to get started on their SkillsFuture journey. You can also explore skills initiatives directly at [Enterprise Portal for Jobs and Skills (EPJS)](/enterprisejobskills/?src=eservices_guidesforbiz).
+The [SkillsFuture for Enterprise User Guide](/skillsfuture-for-enterprise/?src=eservices_guidesforbiz) provides business owners with 5 key steps to get started on their SkillsFuture journey. You can also explore skills initiatives directly at [Enterprise Portal for Jobs and Skills (EPJS)](https://skillsfuture.gobusiness.gov.sg).
 
 - [e-Adviser for Skills Training](https://eadviser.gobusiness.gov.sg/skillstraining?src=eservices_guidesforbiz){:target="_blank"}
   <br>For business owners to get personalised recommendations on skills training courses and SkillsFuture initiatives relevant to your business as part of the SkillsFuture Movement.
