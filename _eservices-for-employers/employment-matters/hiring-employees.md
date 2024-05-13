@@ -45,7 +45,7 @@ Learn more about them in our [Start-up Guide](/start-a-business/hire-employees/)
 - [Check employment pass application status](https://www.mom.gov.sg/eservices/services/check-work-pass-and-application-status){:target="_blank"}{:rel="noopener"}
   <br>Check the status of your application for an Employment Pass, Personalised Employment Pass, S Pass, Dependant's Pass, Long Term Visit Pass or Training Employment Pass.
 
-- [Apply, issue or cancel employment pass](https://www.mom.gov.sg/eservices/services/apply-for-a-new-ep-and-s-pass){:target="_blank"}{:rel="noopener"}
+- [Apply, issue or cancel employment pass](https://www.mom.gov.sg/passes-and-permits/employment-pass){:target="_blank"}{:rel="noopener"}
   <br>Apply for an Employment Pass or S Pass. You can also issue or cancel all pass types here, except Work Permit.
 
 - [Apply for interbank GIRO (work pass admin fees) (PDF, 596 KB)](https://www.mom.gov.sg/-/media/mom/documents/services-forms/passes/epol_ibgform.pdf){:target="_blank"}{:rel="noopener"}
@@ -95,7 +95,7 @@ Learn more about them in our [Start-up Guide](/start-a-business/hire-employees/)
 
 **Ministry of Manpower (MOM)**
 
-- [Amend Employees' Personal Particulars (PDF, 111 KB)](https://www.mom.gov.sg/-/media/mom/documents/services-forms/passes/amendment-of-pass-holder-personal-particulars-form.pdf){:target="_blank"}{:rel="noopener"}
+- [Amend Employees' Personal Particulars (PDF, 111 KB)](https://form.gov.sg/5ba84de965171a000fda5f3e){:target="_blank"}{:rel="noopener"}
   <br>Request form to amend a pass holder's personal particulars.
 
 - [Online Foreign Worker Address Service (OFWAS)](https://www.mom.gov.sg/eservices/services/ofwas){:target="_blank"}{:rel="noopener"}
