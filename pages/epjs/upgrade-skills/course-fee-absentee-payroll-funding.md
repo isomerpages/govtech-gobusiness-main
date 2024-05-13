@@ -5,7 +5,7 @@ permalink: /enterprisejobskills/programmes-and-initiatives/upgrade-skills/course
 
 ### Lower the cost of skills training with funding support from the Government
 
-All locally registered or incorporated organisations in Singapore are eligible for course fee and absentee payroll funding when you sponsor your Singapore Citizen, Permanent Resident or [Long Term Visitor Pass Plus (LTVP+)](http://www.skillsfuture.gov.sg/docs/default-source/resources/terms-conditions/enterprises-ssg-circular_rpd_2021_2_extension-of-funding-support-to-long-term-visit-pass-plus_ltvp-_holders.pdf) employees for training courses funded by SSG.
+All locally registered or incorporated organisations in Singapore are eligible for course fee and absentee payroll funding when you sponsor your Singapore Citizen, Permanent Resident or [Long Term Visitor Pass Plus (LTVP+)](https://www.skillsfuture.gov.sg/docs/default-source/resources/terms-conditions/enterprises-ssg-circular_rpd_2021_2_extension-of-funding-support-to-long-term-visit-pass-plus_ltvp-_holders.pdf) employees for training courses funded by SSG.
 
 To qualify for course fee and absentee payroll funding, your employees must meet the following criteria:
 

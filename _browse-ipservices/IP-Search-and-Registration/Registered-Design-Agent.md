@@ -24,7 +24,7 @@ The scope of protection you receive is determined by how you represent your prod
 ---
 
 ### Connect with relevant service providers for registered design agent
-**40 service providers listed.**
+**45 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
