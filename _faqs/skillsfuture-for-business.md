@@ -4,4 +4,4 @@ permalink: /faqs/skillsfuture-for-enterprise-faqs/
 ---
 
 
-<meta http-equiv="REFRESH" content="0;url=https://www.skillsfuture.gobusiness.gov.sg/faq/">
+<meta http-equiv="REFRESH" content="0;url=https://skillsfuture.gobusiness.gov.sg/faq/">
