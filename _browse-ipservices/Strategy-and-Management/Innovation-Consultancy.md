@@ -22,7 +22,7 @@ By working with an innovation consultant, your business can gain fresh perspecti
 ---
 
 ### Connect with relevant service providers for innovation consultancy services
-**40 service providers listed.**
+**26 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -107,17 +107,32 @@ A patent law agency offering certified services with fast turnaround times, at f
 
 #### EverEdge Global
 
-EverEdge provides specialist intangible asset advisory, valuation and corporate finance services.
+EverEdge helps companies unlock the value of intangible assets and reduce intangible asset risk.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 51 to 55</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 46 to 50</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $5,000</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> EverEdge is a global intangible asset advisory, valuation, and corporate finance specialist. To discuss how to identify, value and monetise your intangible assets, book a free one-hour consultation. </li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> To discuss how to identify, value and monetise your intangible assets, book a free one-hour consultation. </li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/63fc1cb344ce7f0012152941' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/everedge-global/){:target='_blank'}
+
+---
+
+#### Marks & Clerk Singapore LLP
+
+Marks & Clerk Singapore LLP is an award-winning firm of Registered Patent and Trade Mark Attorneys.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 11 - 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 41 to 45</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/648a7891d94807001192ec08' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/marks-clerk-singapore-llp/){:target='_blank'}
 
 ---
 
@@ -133,21 +148,6 @@ We inject keen business acumen into communication strategies, deliver successful
 </ul>
 
 <a class='btn' href='https://form.gov.sg/650a34d42b93e60011acdf6e' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/aprw-pte-ltd/){:target='_blank'}
-
----
-
-#### Marks & Clerk Singapore LLP
-
-Marks & Clerk Singapore LLP is an award-winning firm of Registered Patent and Trade Mark Attorneys.
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 11 - 20</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 11 to 15</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,000</li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/648a7891d94807001192ec08' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/marks-clerk-singapore-llp/){:target='_blank'}
 
 ---
 
@@ -199,7 +199,7 @@ PROTEUS-DT specialises in helping SMEs innovate through no-code technology
 
 #### Firefish Branding
 
-Leveraging NUS' research, Brandgrammar™, we provide SMEs a one-stop branding and marketing solution.
+Leveraging NUS' research, Brandgrammar<sup>TM</sup>, we provide SMEs a one-stop branding and marketing solution.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
@@ -240,7 +240,7 @@ Corporate Services
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $30,000</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free 1:1 consultation and problem diagnosis</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free 1-to-1 30-minute Consultation</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/646ecaa15f5cf200110c9575' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/think-sme-pte-ltd/){:target='_blank'}

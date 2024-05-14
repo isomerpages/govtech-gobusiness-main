@@ -23,13 +23,13 @@ Date: 29 February 2024, Thursday<br>
 Time: 10:00am- 5:00pm<br>
 Venue: Revenue House, Level 5, Multi Purpose Hall.
 
-Admission to the #SFFS Fair is free, and you may register at [https://go.gov.sg/sffs-fair](https://go.gov.sg/sffs-fair){:target="_blank"}{:rel="noopener"}.
+Admission to the #SFFS Fair is free.
 
 In addition, it is now the filing season for the Auto-Inclusion Scheme (AIS).
 
 Those who are already participating in the Auto-Inclusion Scheme (AIS), or have 5 employees or more in 2023, must submit your employees’ income information to IRAS by 1 Mar 2024. This is key to simplify tax filing for your employees. Failure to do so will result in penalties and/or prosecution.
  
-More information on AIS can be found at [go.gov.sg/aisforemployers](go.gov.sg/aisforemployers){:target="_blank"}{:rel="noopener"}.
+More information on AIS can be found at [https://www.go.gov.sg/aisforemployers](https://www.go.gov.sg/aisforemployers){:target="_blank"}{:rel="noopener"}.
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>

@@ -44,7 +44,7 @@ ii) Signed or confirmed any contract or purchase order with a pre-approved JR co
 
 ### How to apply:
 
-- Submit your application through the <a href="https://www.businessgrants.gov.sg/" target="_blank" rel="noopener">Business Grants Portal (BGP)</a> using this <a href="https://www.wsg.gov.sg/content/dam/ssg-wsg/wsg/psg_jr/step-by-step-application-guide-for-psg-jr_v09%28final%29.pdf" target="_blank" rel="noopener">step-by-step guide</a>. Do note that each UEN can only have one approved PSG-JR application.
+- Submit your application through the <a href="https://www.businessgrants.gov.sg/" target="_blank" rel="noopener">Business Grants Portal (BGP)</a> using this <a href="https://www.wsg.gov.sg/docs/default-source/programme/step-by-step-application-guide-for-psg-jr_v10.pdf" target="_blank" rel="noopener">step-by-step guide</a>. Do note that each UEN can only have one approved PSG-JR application.
 
 - You may also refer to <a href="https://www.gobusiness.gov.sg/browse-all-solutions-job-redesign-solutions/job-redesign-consultancy" target="_blank" rel="noopener">GoBusiness Gov Assist</a> for the list of pre-approved JR consultants and to engage them for quotations and PSG-JR proposals
 
