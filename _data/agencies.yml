@@ -103,7 +103,7 @@
 
 - title: Land Transport Authority (LTA)
   description: Online Contact Form
-  url: https://www.lta.gov.sg/content/ltagov/en/contact_us/contact_form.html
+  url: www.lta.gov.sg/content/ltagov/en/contact_us/contact_form.html
   url-new-tab: true
   protocol: https
 
