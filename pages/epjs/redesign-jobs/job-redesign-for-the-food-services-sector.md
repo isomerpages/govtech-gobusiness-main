@@ -41,12 +41,6 @@ The following resources are available to help you embark on and sustain job rede
 
 ---
 
-### Resources
-
-- <a href="https://www.wsg.gov.sg/content/dam/ssg-wsg/wsg/general/documents/fs-jr-quick-guide_20180704.pdf" target="_blank" rel="noopener">Food Services Job Redesign Quick Guide (PDF,2300KB)</a>
-
----
-
 ### TOOLKITS
 
 - <a href="https://www.wsg.gov.sg/programmes-and-initiatives/manpower-lean-productivity/job-redesign-for-the-food-services-sector.html" target="_blank" rel="noopener">Job Redesign Toolkit for the Food Services Sector</a>
