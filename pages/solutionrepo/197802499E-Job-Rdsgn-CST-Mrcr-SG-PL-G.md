@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/197802499E-Job-Rdsgn-CST-M
 
 **Description**
 
-Mercer is a pioneer of Job Redesign, having delivered over 20 Job Redesign projects since 2016. We have led sector-wide Job Redesign efforts for retailers, hotels, and healthcare operators, working together with both large MNCs and local firms. In these projects, we improved the way work is done for our clients by facilitating new technology implementation, business process optimization, and ultimately redesigning and uplifting jobs to improve business productivity and talent attraction.
+Mercer is a pioneer of Job Redesign, having delivered over 30 Job Redesign projects since 2016. We have led sector-wide Job Redesign efforts for retailers, hotels, accountancy sector and healthcare operators, working together with both large MNCs and local firms. We have also worked across both backend and front end roles covering roles across Customer Service, HR, Finance, Operations, Sales, etc. In these projects, we improved the way work is done for our clients by facilitating new technology implementation, business process optimization, and ultimately redesigning and uplifting jobs to improve business productivity and talent attraction.
 
 ## Solution Packages Option(s)
 

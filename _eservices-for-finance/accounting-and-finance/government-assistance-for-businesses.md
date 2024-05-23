@@ -27,11 +27,6 @@ Find out the full list of e-Services in our [Run and Grow guide](/run-and-grow/)
 - [Startup SG Founder](https://www.startupsg.gov.sg/programmes/4894/startup-sg-founder/venture-builder-amps-vb-amps){:target="_blank"}{:rel="noopener"}
   <br>Apply for this programme to train and develop entrepreneurial skills, and/or get funding.
 
-**Ministry of Manpower (MOM)**
-
-- [Lean Enterprise Development (LED) Scheme](https://www.mom.gov.sg/employment-practices/schemes-for-employers-and-employees/led-scheme){:target="_blank"}{:rel="noopener"}
-  <br>Apply for funding support to hire transitional foreign manpower.
-
 **National Parks Board (NParks)**
 
 - [Skyrise Greenery Incentive Scheme](https://www.nparks.gov.sg/skyrisegreenery/incentive-scheme){:target="_blank"}{:rel="noopener"}
@@ -39,7 +34,7 @@ Find out the full list of e-Services in our [Run and Grow guide](/run-and-grow/)
 
 **Prime Minister's Office (PMO)**
 
-- [Integrated Grant Management System](https://researchgrant.gov.sg/pages/index.aspx){:target="_blank"}{:rel="noopener"}
+- [Integrated Grant Management System](https://www.researchgrant.gov.sg/pages/index.aspx){:target="_blank"}{:rel="noopener"}
   <br>An integrated portal to apply for grants and find out about new grant calls.
 
 - [Central Gap Fund](https://www.nrf.gov.sg/funding-grants/central-gap-fund){:target="_blank"}{:rel="noopener"}
@@ -53,7 +48,7 @@ Find out the full list of e-Services in our [Run and Grow guide](/run-and-grow/)
 - <a href="https://www.sfa.gov.sg/e-services?type=food-farming&page=1" target="_blank" rel="noopener">Basic Capability Upgrading (BCU) Scheme</a>
   <br>Apply for co-funding support of equipment to help increase your farm's productivity.
 
-- [Productivity Enhancement Scheme](https://www.sfa.gov.sg/docs/default-source/tools-and-resources/resources-for-businesses/APFGuidelinesPE_vet){:target="_blank"}{:rel="noopener"}
+- [Productivity Enhancement Scheme](https://www.sfa.gov.sg/docs/default-source/e-service/food/apfformpe-v1_vet.doc){:target="_blank"}{:rel="noopener"}
   <br>Apply for co-funding support of automated, advanced and integrated farming systems to help farms increase productivity.
 
 **Singapore Tourism Board (STB)**

@@ -9,13 +9,13 @@ CHP Law LLC is a Singapore-based law firm that comprises an eclectic mix of lawy
 
 Together, we advocate a modern brand of legal practice - one that recognises how law does not exist in a vacuum and that legal advice must be both sound and effective.
 
-We work together with our clients every step of the way, providing elegant and creative legal solutions that are value- driven and cost-effective.
+We work together with our clients every step of the way, providing elegant and creative legal solutions that are value-driven and cost-effective.
 
 <b>Year established in Singapore:</b> 2019
 
 <b>Top focus areas for IA/IP services:</b> Contract Drafting, Dispute Resolution, IP Strategy Consulting, IP Due Diligence, IP Portfolio Management
 
-<b>Intellectual property awards received:</b> Singapore Best Law Firms 2023 (Special mention for IP) ; IAM 300 (Global List 2020, 2021, 2022)
+<b>Intellectual property awards received:</b> Singapore Best Law Firms 2023 (Special mention for IP); IAM 300 (Global List 2020, 2021, 2022)
 
 <b>Type of organization:</b> SME
 
