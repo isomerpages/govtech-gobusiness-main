@@ -40,16 +40,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Hrm Labs Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201725862C-HR-Shrd-SVCs-by-RcrutSG-G' target='_blank'>HR Shared Services by RecruitSG</a><br></td>
-<td>RECRUIT.COM.SG PTE. LTD.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201410040G-BIPO-HR-MGT-Systm-nd-Pyroll-Outsourcng-SVCs-v-1215380-G' target='_blank'>BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80</a><br></td>
-<td>BIPO Service Singapore Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201539815G-HRSS-&-Pyroll-Procssng-wth-QuckHR-G' target='_blank'>HRSS & Payroll Processing with QuickHR</a><br></td>
 <td>Acc Pro (Singapore) Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201725862C-HR-Shrd-SVCs-by-RcrutSG-G' target='_blank'>HR Shared Services by RecruitSG</a><br></td>
+<td>RECRUIT.COM.SG PTE. LTD.</td>
 </tr>
 </table>
 

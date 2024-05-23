@@ -96,4 +96,4 @@ De Mellows is a leading branding and marketing agency in Singapore and have work
 <p>
 <a class='btn' href='https://form.gov.sg/648fc056ef9c070011abf0e3' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 26 July 2023
+Profile last updated on 8 May 2024

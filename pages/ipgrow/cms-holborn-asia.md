@@ -51,7 +51,7 @@ Holborn Law LLC is in a Formal Law Alliance with CMS Cameron McKenna Nabarro Ols
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to Above $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 36 to 40</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  We charge based on the work required rather than strictly based on a minimum project fee.</li>
@@ -165,18 +165,18 @@ Holborn Law LLC is in a Formal Law Alliance with CMS Cameron McKenna Nabarro Ols
 - Awards/Accolades: IAM Patent 1000 - Leading Individual, WTR (Trade Marks) - listed for Individuals: prosecution and strategy (Silver)/ Individuals: transactions (Recommended)/ Individuals: enforcement and litigation (Silver), MIP IP Stars - Patent Star, WIPR Leaders - Patents/Trade Marks/ Technology, Asia IP - IP Expert
 - URL of LinkedIn/Company Profile: <a href="https://sg.linkedin.com/in/sheena-r-jacob-66b1695" target="_blank" rel="noopener">https://sg.linkedin.com/in/sheena-r-jacob-66b1695</a>
 
-**Denise Loh**
+**Sherman Poon**
 
-- Job Title: Senior Associate
-- Years of Experience: 10 years
+- Job Title: Associate
+- Years of Experience: 4 years
 - Location: Singapore
-- IA/IP-Related Expertise: Trade Mark Agent Service, IP Intelligence and Search, IP Due Diligence, IP Portfolio Management, Contract Drafting
-- Certifications/Qualifications: Advocate & Solicitor of Supreme Court Singapore, LL.B. Singapore Management University, International Trademark Association
-- Awards/Accolades: MIP IP Stars - Rising Star
-- URL of LinkedIn/Company Profile: <a href="https://sg.linkedin.com/in/denise-loh" target="_blank" rel="noopener">https://sg.linkedin.com/in/denise-loh</a>
+- IA/IP-Related Expertise: Trademark Agent Service, IP Intelligence and Search, IP Due Diligence, IP Portfolio Management, Contract Drafting
+- Certifications/Qualifications: Advocate & Solicitor of Supreme Court Singapore, LL.B. Singapore Management University
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/sherman-poon-35b738119" target="_blank" rel="noopener">https://www.linkedin.com/in/sherman-poon-35b738119</a>
+
 
 ---
 <p>
 <a class='btn' href='https://form.gov.sg/644886784ff9210011168207' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 23 August 2023
+Profile last updated on 24 April 2024
