@@ -76,10 +76,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>AFON Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201008943H-SAP-Busnss-On-SQL-&-HANA-v-100--G' target='_blank'>SAP Business One SQL & HANA Version 10.0 </a><br></td>
-<td>MPS Solutions Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201117204M-Mcrosoft-Dynmcs-365-Busnss-Cntrl-G' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
 <td>Microlabs Pte Ltd</td>
 </tr>
@@ -134,6 +130,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201415107H-Mtro-ERP-v-10-G' target='_blank'>Metro ERP Version 1.0</a><br></td>
 <td>METRO GROUP PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201611756K-Mcrosoft-Dynmcs-365-Busnss-Cntrl-v-Cloud-G' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud</a><br></td>
+<td>Dalstech Pte Ltd</td>
 </tr>
 </table>
 
