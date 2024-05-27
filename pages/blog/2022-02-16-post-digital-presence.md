@@ -81,7 +81,6 @@ To help you kickstart your social media journey, here’s a list of free content
 **Photo editing**
 - [GIMP](https://www.gimp.org/){:target="_blank"}{:rel="noopener"}
 - [Pixlr X](https://pixlr.com/x/){:target="_blank"}{:rel="noopener"}
-- [Photoscape X](http://x.photoscape.org/){:target="_blank"}{:rel="noopener"}
 
 <em> This article is accurate as at 16 Feb 2022</em>
 

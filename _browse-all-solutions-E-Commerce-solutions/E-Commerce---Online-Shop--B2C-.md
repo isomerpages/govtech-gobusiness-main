@@ -104,10 +104,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Cleverly SG Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201736986Z-Shopfy-G' target='_blank'>Shopify</a><br></td>
-<td>Shopify Commerce Singapore Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202036105K-Frmrt-v-30-G' target='_blank'>Fairmart Version 3.0</a><br></td>
 <td>Fairmart Technologies Pte Ltd</td>
 </tr>
@@ -140,20 +136,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Cococart Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201930699K-WLP-Dgtl-Ecommrc-Wb-Dv-WooCommrc-G' target='_blank'>WLP Digital Ecommerce Web Development (WooCommerce)</a><br></td>
-<td>W.L.P CONSULTANTS PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202011295C-WooCommrc-Dsgn-&-Dv-G' target='_blank'>WooCommerce Design & Development</a><br></td>
 <td>TECHZU ICHICODE PTE LTD</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/53322628K-Alph-Commrc-Boostr-Prmum-v-28-G' target='_blank'>Alpha eCommerce Booster Premium Version 2.8</a><br></td>
 <td>ALPHABET SIX MARKETING SINGAPORE</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201841781R-Cub3commrc-G' target='_blank'>Cub3commerce</a><br></td>
-<td>DUCB3 PTE LTD</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200908223H-Vrz-Dsgn-Ecommrc-SLNs--G' target='_blank'>Verz Design Ecommerce Solutions </a><br></td>
@@ -170,6 +158,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201608054D-Vu-Tch-Ecommrc-Wbst-Pckg-G' target='_blank'>Vue Tech Ecommerce Website Package</a><br></td>
 <td>VUE TECH PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201736986Z-Shopfy-G' target='_blank'>Shopify</a><br></td>
+<td>Shopify Commerce Singapore Pte Ltd</td>
 </tr>
 </table>
 

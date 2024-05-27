@@ -15,6 +15,6 @@ Council for Estate Agencies (CEA)
 <p>To conduct estate agency work such as marketing, buying, selling and/or leasing properties for third parties.</p>
  <h3>FAQ</h3>
  <ol>
- <li><strong>Where can I get the FAQ for Estate Agent Licence and Salesperson Registration?</strong><br />You can get the FAQ at <a href="https://va.ecitizen.gov.sg/cfp/customerPages/cea/explorefaq.aspx" target="_blank" rel="noopener">CEA (ecitizen.gov.sg)</a></li>
+ <li><strong>Where can I get the FAQ for Estate Agent Licence and Salesperson Registration?</strong><br />You can get the FAQ at <a href="https://www.cea.gov.sg/faq" target="_blank" rel="noopener">CEA (ecitizen.gov.sg)</a></li>
  </ol>
 

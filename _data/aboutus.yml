@@ -10,12 +10,6 @@
   url: /e-services/guides-for-biz/
   text: View out Guides for Businesses
 
-- image: <img src="/images/aboutus/Covid.svg" aria-hidden="true">
-  title: Get support during COVID-19
-  description: Stay up to date on COVID-19 related regulations, apply for exemptions and find out about Government support schemes to help your business through the pandemic.
-  url: /covid/
-  text: Find Out More
-
 - image: <img src="/images/aboutus/Licences.svg" aria-hidden="true">
   title: Apply for licences
   description: Apply for the licences and permits you need from multiple government agencies, with just one application. For new business owners, the Guided Journey feature takes you through a step-by-step process to find out the licences you need, and apply for them. This feature is currently for food services only.

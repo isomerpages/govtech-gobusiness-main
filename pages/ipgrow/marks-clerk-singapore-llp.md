@@ -12,7 +12,7 @@ We are one of the most reputable patent attorney firms in Singapore, having been
 
 <b>Year established in Singapore:</b> 1995
 
-<b>Top focus areas for IA/IP services:</b> Patent Agent Service, Trade Mark Agent Service, Freedom-to-Operate (FTO), IP Audit, IP Strategy Consulting
+<b>Top focus areas for IA/IP services:</b> IP Audit, IP Strategy Consulting, Trade Mark Agent Service, Freedom-to-Operate (FTO), Patent Agent Service
 
 <b>Intellectual property awards received:</b> Intellectual Asset Magazine (IAM) Patent (2023) - Gold Tier Firm for Patent Prosecution ; Intellectual Asset Magazine (IAM) Patent 1000 (2023) - 6 of the Top 1000 Patent Practitioners Worldwide ; Asia IP Magazine (2022) - Tier 1 Patent Prosecution Firm ; Managing IP Magazine Asia-Pacific Awards 2023 - Tier 1 Patent Prosecution ; Managing IP Magazine Asia-Pacific Awards - Singapore Patent Prosecution Firm of the Year - 2014, 2015, 2016, 2017, 2019 & 2022 
 
@@ -34,10 +34,10 @@ We are one of the most reputable patent attorney firms in Singapore, having been
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: Above 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $350</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 11 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts in Singapore: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts overseas: 11 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,000</li>
 </ul>
 
 **Freedom-to-Operate Services**
@@ -54,8 +54,8 @@ We are one of the most reputable patent attorney firms in Singapore, having been
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 11 to 15</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Innovation Consultancy IP experts in Singapore: 11 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 41 to 45</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Innovation Consultancy IP experts in Singapore: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Innovation Consultancy IP experts overseas: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,000</li>
 </ul>
@@ -74,19 +74,19 @@ We are one of the most reputable patent attorney firms in Singapore, having been
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects on database in previous calendar year: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects on database in previous calendar year: 16 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $0</li>
 </ul>
 
 **IP Intelligence and Search Services**
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 50</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: Above 1000</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts in Singapore: 11 to 20</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts overseas: 11 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,000</li>
 </ul>
 
@@ -124,17 +124,17 @@ We are one of the most reputable patent attorney firms in Singapore, having been
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: Above 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $350</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 11 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts in Singapore: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts overseas: 11 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,000</li>
 </ul>
 
 **Patent Agent Services**
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 1201 to 1300</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: Above 2000</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: 11 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,000</li>
@@ -144,7 +144,7 @@ We are one of the most reputable patent attorney firms in Singapore, having been
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate: $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 181 to 195</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: Above 300</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents in Singapore: 11 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents overseas: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $500</li>
@@ -238,16 +238,6 @@ We are one of the most reputable patent attorney firms in Singapore, having been
 - Awards/Accolades: Managing Intellectual Property - IP Rising Star, Managing Intellectual Property - IP Star, Asia IP - IP Expert, IAM Patent 1000 (Years 2022 &2023), IAM IP Strategy 300 (Years -2021 & 2022 & 2023) 
 - URL of LinkedIn/Company Profile: <a href="https://www.marks-clerk.com/our-people/james-kinnaird/" target="_blank" rel="noopener">https://www.marks-clerk.com/our-people/james-kinnaird/</a>
 
-**Magdelene Ong**
-
-- Job Title: Partner
-- Years of Experience: 22 years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, IP Audit, IP Portfolio Management, IP Strategy Consulting, IP Training
-- Certifications/Qualifications: BEng(Chem), Registered Singapore Patent Agent, Chartered UK Patent Attorney
-- Awards/Accolades: Managing Intellectual Property - IP Rising Star, Managing Intellectual Property - IP Star, Asia IP - IP Expert, IAM Patent 1000: Years -2020 & 2021, Who's Who Legal 
-- URL of LinkedIn/Company Profile: <a href="https://www.marks-clerk.com/our-people/ong-magdelene/" target="_blank" rel="noopener">https://www.marks-clerk.com/our-people/ong-magdelene/</a>
-
 **Jonas Lindsay**
 
 - Job Title: Partner
@@ -272,4 +262,4 @@ We are one of the most reputable patent attorney firms in Singapore, having been
 <p>
 <a class='btn' href='https://form.gov.sg/648a7891d94807001192ec08' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 26 July 2023
+Profile last updated on 24 April 2024

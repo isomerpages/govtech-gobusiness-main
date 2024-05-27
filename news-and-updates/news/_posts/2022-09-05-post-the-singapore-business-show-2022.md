@@ -26,7 +26,7 @@ The Business Show 2022 will be held in Singapore for the first time ever, gather
 
 Simon, who leads the GoBusiness team in GovTech’s Moments of Life (MOL) division, will share insights on GoBusiness’ features that help users start, run, and grow their businesses.
 
-Tickets to the event are free-of-charge. Simply [register to attend](https://registration.fortem-international.com/Forms/Form.aspx?FormRef=SBS92Visitor){:target="_blank"}{:rel="noopener"}, and visit the GoBusiness Booth (booth number 124) near the VIP lounge for a chance to win exclusive GoBusiness merchandise, and also get a live demonstration on how GoBusiness can help you and your business.
+Tickets to the event are free-of-charge. Simply register to attend, and visit the GoBusiness Booth (booth number 124) near the VIP lounge for a chance to win exclusive GoBusiness merchandise, and also get a live demonstration on how GoBusiness can help you and your business.
 
 ![Exclusive GoBusiness merchandise like coasters, nanopresso, and coffee pods](/images/news/Exclusive merchandise at GoBusiness booth.jpg)
 <figcaption>Stand a chance to win exclusive GoBusiness merchandise at the GoBusiness booth.</figcaption>

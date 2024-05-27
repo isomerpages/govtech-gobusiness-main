@@ -19,7 +19,7 @@ Learn more about them in our [Start-up Guide](/start-a-business/protect-your-ide
 - [Apply for ASEAN Patent Examination Co-operation (ASPEC)](https://www.aseanip.org/services/asean-patent-examination-co-operation-(aspec)/what-is-aspec){:target="_blank"}{:rel="noopener"}
   <br>Submit a request to join ASPEC, a regional acceleration programme that helps speed up the patent grant process.
 
-- [Apply for Patent Cooperation Treaty (PCT)](https://pct.wipo.int/authpage/signin.xhtml?goto=https%3A%2F%2Fpct.wipo.int%3A443%2FePCT%2F){:target="_blank"}{:rel="noopener"}
+- [Apply for Patent Cooperation Treaty (PCT)](https://pct.wipo.int/ePCT/){:target="_blank"}{:rel="noopener"}
   <br>File for an international application under PCT directly with IPOS. PCT facilitates patent protection for an invention in multiple countries through one application.
 
 - [IP Business Clinic](https://www.ipos.gov.sg/eservices/ip-clinics){:target="_blank"}{:rel="noopener"}
