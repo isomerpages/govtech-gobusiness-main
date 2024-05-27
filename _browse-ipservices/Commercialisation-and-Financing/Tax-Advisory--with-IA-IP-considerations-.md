@@ -22,7 +22,7 @@ By working with an experienced tax advisor, businesses can identify tax-saving o
 ---
 
 ### Connect with relevant service providers for tax advisory services (with IA/IP considerations)
-**40 service providers listed.**
+**9 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -45,7 +45,7 @@ Community of solvers combining innovative technologies to build trust and delive
 
 #### Baker McKenzie Wong & Leow
 
-Baker & McKenzie is one of the largest law firms globally with 77 offices in 46 countries.
+Baker & McKenzie is one of the largest law firms globally with 74 offices in 45 countries.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>

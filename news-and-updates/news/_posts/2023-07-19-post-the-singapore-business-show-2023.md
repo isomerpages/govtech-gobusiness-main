@@ -26,7 +26,7 @@ Time: 1.15 - 1.45pm<br>
 Venue: Keynote Theatre 1
 
 
-Tickets to the event are [free-of-charge](https://eventdata.uk/Forms/Form.aspx?FormRef=SBS83Visitor&TrackingCode=GovTech){:target="_blank"}{:rel="noopener"}. More information can be found at [https://www.singaporebusinessshow.com/](https://www.singaporebusinessshow.com/){:target="_blank"}{:rel="noopener"}
+Tickets to the event are free-of-charge. More information can be found at [https://www.singaporebusinessshow.com/](https://www.singaporebusinessshow.com/){:target="_blank"}{:rel="noopener"}
 
 
 <script src="/jquery/jquery.min.js"></script>

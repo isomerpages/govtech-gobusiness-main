@@ -52,10 +52,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Madsoft Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200706402C-Ntqutt-Cloud-Busnss-Sut-G' target='_blank'>Netiquette Cloud Business Suite</a><br></td>
-<td>Netiquette Software Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200601493C-OC-Sls-&-ACC-MGT-Systm-SAM-G' target='_blank'>OCi Sales & Accounting Management System (SAM)</a><br></td>
 <td>OCi System Pte Ltd</td>
 </tr>
@@ -80,16 +76,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>AFON Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201008943H-SAP-Busnss-On-SQL-&-HANA-v-100--G' target='_blank'>SAP Business One SQL & HANA Version 10.0 </a><br></td>
-<td>MPS Solutions Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201117204M-Mcrosoft-Dynmcs-365-Busnss-Cntrl-G' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
 <td>Microlabs Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201912702K-AM8ZE-ERP-VISTA-G' target='_blank'>AM8ZE ERP: VISTA</a><br></td>
-<td>AM8ZE PTE LTD</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200615630E-Mcrosoft-Dynmcs-365-Busnss-Cntrl-G' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
@@ -144,8 +132,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>METRO GROUP PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200402768K-SAP-Busnss-On,-v-for-HANA-G' target='_blank'>SAP Business One, version for HANA</a><br></td>
-<td>Inecom Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201611756K-Mcrosoft-Dynmcs-365-Busnss-Cntrl-v-Cloud-G' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud</a><br></td>
+<td>Dalstech Pte Ltd</td>
 </tr>
 </table>
 

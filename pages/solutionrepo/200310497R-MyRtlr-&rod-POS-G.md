@@ -24,43 +24,43 @@ MyRetailer Android POS is a powerful all in one point-of-sale solution with buil
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A Standalone</td>
-<td style='padding: 10px;'>$1,590.00</td>
-<td style='padding: 10px;'>$1,590.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DCS_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$1,000.00</td>
+<td style='padding: 10px;'>$1,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_MyRetailer_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B with Dashboard</td>
-<td style='padding: 10px;'>$2,590.00</td>
-<td style='padding: 10px;'>$2,590.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DCS_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$2,000.00</td>
+<td style='padding: 10px;'>$2,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_MyRetailer_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C with Unified Payments</td>
-<td style='padding: 10px;'>$2,150.00</td>
-<td style='padding: 10px;'>$2,150.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DCS_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$1,560.00</td>
+<td style='padding: 10px;'>$1,560.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_MyRetailer_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D with Dashboard & Unified Payments</td>
-<td style='padding: 10px;'>$2,950.00</td>
-<td style='padding: 10px;'>$2,950.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DCS_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$2,360.00</td>
+<td style='padding: 10px;'>$2,360.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_MyRetailer_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E with Unified Payments & Web Store</td>
-<td style='padding: 10px;'>$3,650.00</td>
-<td style='padding: 10px;'>$3,650.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DCS_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$3,060.00</td>
+<td style='padding: 10px;'>$3,060.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_MyRetailer_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 

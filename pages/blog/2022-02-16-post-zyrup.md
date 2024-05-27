@@ -15,7 +15,7 @@ When Joel Lim and his two business partners first decided to convert their digit
 
 “We were wondering, how do we even get started with the business? How do we start registering? How do we know what kind of things to look out for?” shares Joel. “All these things, we didn’t learn in school,” he adds. 
 
-“As any millennial or Gen Z person does, we went to Google and searched how to start a business in Singapore,” he recounts. That was when they discovered GoBusiness, where they found the [Start-up Guide](start-a-business/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} which gave them the stepping stones to start their business. 
+“As any millennial or Gen Z person does, we went to Google and searched how to start a business in Singapore,” he recounts. That was when they discovered GoBusiness, where they found the [Start-up Guide](/start-a-business/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} which gave them the stepping stones to start their business. 
 
 ### Establishing a business structure
 
