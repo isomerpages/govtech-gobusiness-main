@@ -125,7 +125,7 @@ Last but not least, employers should keep an organised payroll system to keep tr
 
 According to the [Employment Act](https://sso.agc.gov.sg/act/ema1968){:target="_blank"}{:rel="noopener"}, payslips should be issued within three working days of salary payment, and employers should keep clear employment records which consist of employee records and salary records. This helps employees better understand how their salary is calculated and helps minimise payment or salary disputes in the workplace.
 
-If you have sent your employees for SSG-funded training, you are eligible to apply for the [Absentee Payroll (AP) funding](https://www.gobusiness.gov.sg/skillsfuture-for-enterprise/claim-absentee-payroll-funding/){:target="_blank"}{:rel="noopener"}, a grant which helps to defray some manpower costs incurred.
+If you have sent your employees for SSG-funded training, you are eligible to apply for the [Absentee Payroll (AP) funding](https://skillsfuture.gobusiness.gov.sg/support-and-programmes/funding/absentee-payroll-funding){:target="_blank"}{:rel="noopener"}, a grant which helps to defray some manpower costs incurred.
 
 You will be asked to declare your employees’ hourly salary information (before CPF deduction) on the Enterprise Portal for Jobs and Skills for AP claim. AP funding is provided at a flat rate of S$4.50 per hour, capped at $100,000 for each organisation per calendar year.
 

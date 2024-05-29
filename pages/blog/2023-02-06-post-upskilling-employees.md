@@ -48,7 +48,7 @@ You can also turn to [LinkedIn Learning with Lynda](https://www.linkedin.com/lea
 From business courses to webinars, build learning paths with your employees customised to the skills they wish to acquire, and get insights into their progress to ensure that they’re on the right track. 
 
 ![SkillsFuture Enterprise Portal for Jobs & Skills homepage](/images/blog/content/UpskillingEmployees 2.jpg)
-<figcaption> Deepen your team’s knowledge of strategies for digital transformation with the SkillsFuture Digital Transformation & Innovation Programme (Source: <a href="https://skillsfuture.gobusiness.gov.sg/support-and-programmes/digital-transformation-innovation-programme/">Enterprise Portal for Jobs & Skills</a>) </figcaption>
+<figcaption> Deepen your team’s knowledge of strategies for digital transformation with the SkillsFuture Digital Transformation & Innovation Programme (Source: <a href="https://skillsfuture.gobusiness.gov.sg/support-and-programmes/digital-transformation-innovation-programme">Enterprise Portal for Jobs & Skills</a>) </figcaption>
 
 ### Get subsidies for training fees
 

@@ -30,7 +30,7 @@ Read on to discover how these tools can help you overcome some of the most commo
 ![Understanding skills needs for employee upskilling](/images/blog/content/TrainingChallenges 1.jpg)
 <figcaption> Before choosing a suitable employee training course, businesses should first seek to understand their skills needs  </figcaption>
 
-To avoid getting overwhelmed by the many different courses offered by different mediums, the SkillsFuture for Business Guide recommends starting by first [understanding your business’ needs](/skillsfuture-for-enterprise/understand-your-skills-needs/?src=gobiz_blog){:target="_blank"}. Here are some questions you can ask to shortlist suitable courses: 
+To avoid getting overwhelmed by the many different courses offered by different mediums, the SkillsFuture for Business Guide recommends starting by first [understanding your business’ needs](https://skillsfuture.gobusiness.gov.sg/get-started-here/understand-skills-needs){:target="_blank"}. Here are some questions you can ask to shortlist suitable courses: 
 
 **a. What are my skills needs?**
 
@@ -52,13 +52,13 @@ A [coffee roasting course](/gobusiness-blog/obrewculture?src=gobiz_blog){:target
 
 Other factors for consideration include the amount of time allotted for training, budget, as well as employee preference and learning style. 
 
-Once you’ve an idea of the subject and type of course you would like to send your employees for, you can then proceed to check out what courses are available out there. Use the Guide to [access a directory of SkillsFuture Singapore-funded courses](/skillsfuture-for-enterprise/identify-suitable-courses-and-initiatives/?src=gobiz_blog){:target="_blank"} or fill in your needs in the e-Adviser for recommendations on suitable courses. 
+Once you’ve an idea of the subject and type of course you would like to send your employees for, you can then proceed to check out what courses are available out there. Use the Guide to [access a directory of SkillsFuture Singapore-funded courses](https://skillsfuture.gobusiness.gov.sg/get-started-here/identify-suitable-courses-initiatives){:target="_blank"} or fill in your needs in the e-Adviser for recommendations on suitable courses. 
 
 ### 2. I’m not sure which subsidy or grant is applicable to me 
 
 From the [SkillsFuture Enterprise Credit](https://skillsfuture.gobusiness.gov.sg/support-and-programmes/funding/skillsfuture-enterprise-credit-sfec/){:target="_blank"} to the Absentee Payroll Funding scheme, there are many government support options available to help you defray upskilling costs. 
 
-The SkillsFuture for Business Guide compiled the main [grants and schemes available](/skillsfuture-for-enterprise/check-your-eligibility-for-subsidies-and-funding/?src=gobiz_blog){:target="_blank"}, with eligibility criteria clearly laid out for ease of reference. Additionally, the Guide provides instructions on how you can [defray the manpower costs incurred](/skillsfuture-for-enterprise/claim-absentee-payroll-funding/?src=gobiz_blog){:target="_blank"} when your employees are attending training programmes. 
+The SkillsFuture for Business Guide compiled the main [grants and schemes available](https://skillsfuture.gobusiness.gov.sg/support-and-programmes/funding/training-subsidies-for-employers){:target="_blank"}, with eligibility criteria clearly laid out for ease of reference. Additionally, the Guide provides instructions on how you can [defray the manpower costs incurred](https://skillsfuture.gobusiness.gov.sg/support-and-programmes/funding/absentee-payroll-funding){:target="_blank"} when your employees are attending training programmes. 
 
 ![e-Adviser for Skills Training](/images/blog/content/TrainingChallenges 2.jpg)
 <figcaption> The GoBusiness e-Adviser for Skills Training can provide personalised recommendations on suitable grants and subsidies  </figcaption>
@@ -76,7 +76,7 @@ Motivating employees was one of the main challenges CEOs faced when starting an 
 
 It is also important for employers to reassure staff that time will be set aside for them to properly engage in the training programme, without having them resort to working overtime.
 
-Check out the Guide for tips on [how to build a workplace learning culture](/skillsfuture-for-enterprise/build-a-workplace-learning-culture/?src=gobiz_blog){:target="_blank"}. Beyond recommending modular courses for upskilling in the workplace, the Guide also includes resources that you can approach if you would like additional advice on cultivating a mindset of lifelong learning in the workplace. 
+Check out the Guide for tips on [how to build a workplace learning culture](https://skillsfuture.gobusiness.gov.sg/get-started-here/build-workplace-learning-culture){:target="_blank"}. Beyond recommending modular courses for upskilling in the workplace, the Guide also includes resources that you can approach if you would like additional advice on cultivating a mindset of lifelong learning in the workplace. 
 
 **Let the SkillsFuture for Business step-by-step guide on GoBusiness help you kickstart your employee training journey!**
 

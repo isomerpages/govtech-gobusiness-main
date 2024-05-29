@@ -4,4 +4,4 @@ permalink: /skillsfuture-for-enterprise/identify-suitable-courses-and-initiative
 third_nav_title: SkillsFuture for Business
 ---
 
-<meta http-equiv='Refresh' content='0;url=https://skillsfuture.gobusiness.gov.sg/get-started-here/identify-suitable-courses-initiatives/'>
+<meta http-equiv='Refresh' content='0;url=https://skillsfuture.gobusiness.gov.sg/get-started-here/identify-suitable-courses-initiatives'>
