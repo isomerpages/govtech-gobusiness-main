@@ -26,7 +26,7 @@ KLC International Institute (KLCII) is a human capital development organisation 
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - KLC International Institute Pte Ltd</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'> </td>
-<td style='padding: 10px;'><a href='/images/psg/KLCII Case Studies_2024_new.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/KLCII_Case_Study.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

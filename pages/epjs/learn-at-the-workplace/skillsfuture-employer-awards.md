@@ -39,7 +39,7 @@ For further enquiries, please contact the appointed Programme Manager for the Sk
 
 ### Related Digital Services
 
-- <a href="https://www.skillsfuture.gov.sg/employerawards/faq" target="_blank" rel="noopener">Frequently Asked Questions</a>
+- <a href="https://www.skillsfuture.gov.sg/docs/default-source/initiatives/skillsfuture_employer_awards_faq_2023.pdf?sfvrsn=1e7797b6_3" target="_blank" rel="noopener">Frequently Asked Questions</a>
 
 {% include primary-btn.html href="https://programmes.enterprisejobskills.gov.sg/EmployerAwards/ProgrammeDetails.aspx" text="Apply Now" target="_blank" rel="noopener" %}
 

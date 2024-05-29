@@ -23,10 +23,31 @@ Synergix software is a web and browser-based digital solution built for local SM
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SYNERGIX Version TH6 - Package A: HRMS Standard</td>
-<td style='padding: 10px;'>$39,420.00</td>
-<td style='padding: 10px;'>$22,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Synergix_SYNERGIX_Version_TH6_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A: HRMS Standard (Up to 20 Employees)</td>
+<td style='padding: 10px;'>$19,430.00</td>
+<td style='padding: 10px;'>$10,080.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Synergix_Technologies_SYNERGIX_23052024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B: HRMS Standard (Up to 50 Employees)</td>
+<td style='padding: 10px;'>$24,430.00</td>
+<td style='padding: 10px;'>$14,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Synergix_Technologies_SYNERGIX_23052024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C: HRMS Standard (Up to 100 Employees)</td>
+<td style='padding: 10px;'>$31,650.00</td>
+<td style='padding: 10px;'>$21,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Synergix_Technologies_SYNERGIX_23052024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D: HRMS Standard (Over 100 Employees)</td>
+<td style='padding: 10px;'>$37,205.00</td>
+<td style='padding: 10px;'>$27,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Synergix_Technologies_SYNERGIX_23052024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +57,7 @@ Synergix software is a web and browser-based digital solution built for local SM
 
 ## Vendor Information
 
- Company Name: Synergix Technologies Pte Ltd<br>Web URL: www.synergixtech.com <br><br>Contact Hotline: 62755775 <br><br>Contact Email: marketing@synergixtech.com <br><br>
+ Company Name: Synergix Technologies Pte Ltd<br>Web URL: www.synergixtech.com <br>Contact Hotline: 62755775 <br>Contact Email: marketing@synergixtech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
