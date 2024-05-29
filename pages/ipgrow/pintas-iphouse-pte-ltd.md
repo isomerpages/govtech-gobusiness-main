@@ -5,7 +5,7 @@ permalink: /intellectual-property/ip-grow/pintas-iphouse-pte-ltd/
 
 ## Pintas-IPhouse Pte Ltd
 
-PINTAS is a multi-disciplinary intellectual property boutique firm that provides customized solutions relating to patents, trademarks, industrial design, copyrights, trade secrets and other forms of intellectual property assets. We have the vision and capabilities to help our clients to achieve business success through intellectual property rights. The essence of this vision is fully manifested in the company motto: “Today’s Asset, Tomorrow’s Value”. From concept to market, and every stage along the way, we protect, enforce, capitalize, and find ways to expand your intellectual property assets. We turn your ideas into valuable business assets.
+PINTAS is a multi-disciplinary intellectual property boutique firm that provides customized solutions relating to patents, trademarks, industrial design, copyrights, trade secrets and other forms of intellectual property assets. We have the vision and capabilities to help our clients to achieve business success through intellectual property rights. The essence of this vision is fully manifested in the company motto: "Today's Asset, Tomorrow's Value". From concept to market, and every stage along the way, we protect, enforce, capitalize, and find ways to expand your intellectual property assets. We turn your ideas into valuable business assets.
 
 <b>Year established in Singapore:</b> 2001
 
@@ -159,7 +159,7 @@ PINTAS is a multi-disciplinary intellectual property boutique firm that provides
 - Years of Experience: 40 years
 - Location: United Kingdom
 - IA/IP-Related Expertise: Patent agent Service, Registered Design Agent Service, Trademark Agent Service, Freedom-to-Operate (FTO), IP Strategy Consulting
-- Certifications/Qualifications: Member of the Litigation Committee of both the Chartered Institute of Patent Attorneys (CIPA) and the European Patent Institute (epi), Unified Patents Court – Authorised Representative, Intellectual Property Regulation Board- Higher Courts Litigation Certificate, Nottingham Trent University – Master of Laws Degree LLM in Intellectual Property Litigation, Chartered Institute of Patent Attorneys – UK and European Patent and Trademark Attorney
+- Certifications/Qualifications: Member of the Litigation Committee of both the Chartered Institute of Patent Attorneys (CIPA) and the European Patent Institute (epi), Unified Patents Court ï¿½ Authorised Representative, Intellectual Property Regulation Board- Higher Courts Litigation Certificate, Nottingham Trent University ï¿½ Master of Laws Degree LLM in Intellectual Property Litigation, Chartered Institute of Patent Attorneys ï¿½ UK and European Patent and Trademark Attorney
 - URL of LinkedIn/Company Profile: <a href="https://pintas-ip.com/our-team-members/#johnhepworth" target="_blank" rel="noopener">https://pintas-ip.com/our-team-members/#johnhepworth</a>  
 
 
