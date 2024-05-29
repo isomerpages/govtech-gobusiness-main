@@ -23,38 +23,35 @@ Bizsquare Management Consultants is a business consultancy firm, specialized in 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMM for Brand Awareness (FB + IG) 3 months</td>
-<td style='padding: 10px;'>$6,500.00</td>
-<td style='padding: 10px;'>$6,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bizsquare_DM_Bizsquare_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMM for Brand
+Awareness (FB+IG+LinkedIn+TikTok) for 3 months</td>
+<td style='padding: 10px;'>$10,040.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Bizsquare_DM_02052024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMM for Brand Awareness (Video) 4 months</td>
-<td style='padding: 10px;'>$6,500.00</td>
-<td style='padding: 10px;'>$6,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bizsquare_DM_Bizsquare_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - TikTok Live
+Streaming + TikTok SMM for Sales Generation for 3 months</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Bizsquare_DM_02052024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SMA for Lead Generation (FB + IG + Video) 4months</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bizsquare_DM_Bizsquare_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SMA + SM Video Marketing for
+Lead Generation (FB/IG/LinkedIn/TikTok) for 4 months</td>
+<td style='padding: 10px;'>$10,020.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Bizsquare_DM_02052024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - SMM & SMA (FB + IG) 5 months</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bizsquare_DM_Bizsquare_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - SMM for Brand Awareness (FB + IG + Video) 4months</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bizsquare_DM_Bizsquare_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - SMA + SMM for
+Lead Generation (FB/IG/LinkedIn/TikTok) for 4 months</td>
+<td style='padding: 10px;'>$10,160.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Bizsquare_DM_02052024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

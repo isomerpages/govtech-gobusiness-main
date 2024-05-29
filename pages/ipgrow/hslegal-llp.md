@@ -9,7 +9,7 @@ We are specialist intellectual property lawyers and agents. Our practice started
 
 <b>Year established in Singapore:</b> 1997
 
-<b>Top focus areas for IA/IP services:</b> Patent Agent Service,Registered Design Agent Service,Trade Mark Agent Service,Contract Drafting,Dispute Resolution
+<b>Top focus areas for IA/IP services:</b> Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Contract Drafting, Dispute Resolution
 
 <b>Type of organization:</b> SME
 
@@ -99,7 +99,7 @@ We are specialist intellectual property lawyers and agents. Our practice started
 <a name='industry-focus'></a>
 ### Industry focus
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Patent Agent Service</li><li style='line-height: 27px; margin: 0px 0px !important'>Registered Design Agent Service</li><li style='line-height: 27px; margin: 0px 0px !important'>Trade Mark Agent Service</li><li style='line-height: 27px; margin: 0px 0px !important'>Contract Drafting</li><li style='line-height: 27px; margin: 0px 0px !important'>Dispute Resolution</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Aerospace</li><li style='line-height: 27px; margin: 0px 0px !important'>Air Transport</li><li style='line-height: 27px; margin: 0px 0px !important'>Construction</li><li style='line-height: 27px; margin: 0px 0px !important'>Education</li><li style='line-height: 27px; margin: 0px 0px !important'>Electronics</li><li style='line-height: 27px; margin: 0px 0px !important'>Energy and Chemicals </li><li style='line-height: 27px; margin: 0px 0px !important'>Environmental Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Financial Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Food Manufacturing </li><li style='line-height: 27px; margin: 0px 0px !important'>Food Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Healthcare</li><li style='line-height: 27px; margin: 0px 0px !important'>Hotel</li><li style='line-height: 27px; margin: 0px 0px !important'>ICT and Media </li><li style='line-height: 27px; margin: 0px 0px !important'>Land Transport</li><li style='line-height: 27px; margin: 0px 0px !important'>Logistics</li><li style='line-height: 27px; margin: 0px 0px !important'>Marine and Offshore</li><li style='line-height: 27px; margin: 0px 0px !important'>Precision Engineering </li><li style='line-height: 27px; margin: 0px 0px !important'>Professional Services </li><li style='line-height: 27px; margin: 0px 0px !important'>Real Estate</li><li style='line-height: 27px; margin: 0px 0px !important'>Retail</li><li style='line-height: 27px; margin: 0px 0px !important'>Sea Transport</li><li style='line-height: 27px; margin: 0px 0px !important'>Security</li><li style='line-height: 27px; margin: 0px 0px !important'>Wholesale Trade</li></ul>
 
 ---
 <a name='office-locations'></a>
@@ -126,11 +126,11 @@ We are specialist intellectual property lawyers and agents. Our practice started
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trademark Agent Service, Contract Drafting, Dispute Resolution
 - Certifications/Qualifications: Advocate & Solicitor, Singapore, Registered Patent Agent, ISTMA (Institute of Singapore Registered Trademark Agents), LLB (Hons) National University of Singapore
-- Awards/Accolades: First President of Asian Patent Attorneys Association Singapore Group and served on the main Group Council as a Councillor and Vice-President, Panelist on Singapore Domain Name Dispute Resolution Policy Service, IP Adjudicator of Hearings and Mediation Division of IPOS, Served on Singapore's Franchise Advisory Committee, served as Advisory Committee Member of the National Patents and Innovation Centre
+- Awards/Accolades: First President of Asian Patent Attorneys Association - Singapore Group and served on the main Group Council as a Councillor and Vice-President, Panelist on Singapore Domain Name Dispute Resolution Policy Service, IP Adjudicator of Hearings and Mediation Division of IPOS, Served on Singapore's Franchise Advisory Committee, served as Advisory Committee Member of the National Patents and Innovation Centre
 - URL of LinkedIn/Company Profile: <a href="https://hslegal.com.sg/profile/" target="_blank" rel="noopener">https://hslegal.com.sg/profile/</a>  
 
 
-'**Tasneem Haq**
+**Tasneem Haq**
 
 - Job Title: Partner
 - Years of Experience: 25 years
@@ -142,19 +142,18 @@ We are specialist intellectual property lawyers and agents. Our practice started
 <a href="https://hslegal.com.sg/profile/" target="_blank" rel="noopener">https://hslegal.com.sg/profile/</a>  
 
 
-'**Ferzana Haq**
+**Ferzana Haq**
 
 - Job Title: Partner
 - Years of Experience: 20 years
 - Location: Singapore
 - IA/IP-Related Expertise: Registered Design Agent Service, Trademark Agent Service, IP Due Diligence, Dispute Resolution, Contract Drafting
 - Certifications/Qualifications: Advocate & Solicitor, Singapore, Solicitor of England and Wales, University of Oxford BA (Jurisprudence) and MA (Jurisprudence)
-- URL of LinkedIn/Company Profile: Contract Drafting, Dispute Resolution
-<a href="https://hslegal.com.sg/profile/" target="_blank" rel="noopener">https://hslegal.com.sg/profile/</a>  
+- URL of LinkedIn/Company Profile: <a href="https://hslegal.com.sg/profile/" target="_blank" rel="noopener">https://hslegal.com.sg/profile/</a>  
 
 
 ---
 <p>
 <a class='btn' href='https://form.gov.sg/65eeb8aae7798cdb742237ea' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 
+Profile last updated on 13 March 2024

@@ -101,4 +101,4 @@ We are the brand famous for making brands famous. Over the past 35 years, we hav
 <p>
 <a class='btn' href='https://form.gov.sg/646ec88fcdcda70012db33e8' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 26 July 2023
+Profile last updated on 13 March 2024

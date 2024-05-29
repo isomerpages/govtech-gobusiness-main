@@ -24,6 +24,10 @@ third_nav_title: Applications
 <td>Application is currently being processed.</td>
 </tr>
 <tr>
+<td><p id="status-border" class="blue">Pending Withdrawal</p></td>
+<td>Applicant has requested a withdrawal and agency is assessing the withdrawal request.</td>
+</tr>
+<tr>
 <td><p id="status-border" class="orange">Pending Payment</p></td>
 <td>Payment needs to be made on GoBusiness Dashboard or GoBusiness Licensing. This is usually for Stage 2 payment.</td>
 </tr>
@@ -57,7 +61,7 @@ third_nav_title: Applications
 </tr>
 <tr>
 <td><p id="status-border" class="grey">Withdrawn</p></td>
-<td>Withdrawal request is currently being processed.</td>
+<td>Application form has been withdrawn.</td>
 </tr>
 <tr>
 <td><p id="status-border" class="grey">Check SDL Page for Updates</p></td>

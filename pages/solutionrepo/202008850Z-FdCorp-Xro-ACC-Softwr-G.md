@@ -23,38 +23,38 @@ FidCorp, best-in-class Corporate Secretarial, Accounting and Tax company, is com
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FidCorp Xero Accounting Software - Package 1: Standard Subscription only</td>
-<td style='padding: 10px;'>$660.00</td>
-<td style='padding: 10px;'>$617.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Fidcorp_Annex_3_CR_wef_15dec22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1: Standard Subscription only</td>
+<td style='padding: 10px;'>$732.00</td>
+<td style='padding: 10px;'>$672.00</td>
+<td style='padding: 10px;'><a href='/images/psg/FidCorp_Services_Xero_02052024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FidCorp Xero Accounting Software - Package 2: Premium Subscription only</td>
-<td style='padding: 10px;'>$864.00</td>
-<td style='padding: 10px;'>$807.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Fidcorp_Annex_3_CR_wef_15dec22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2: Premium Subscription only</td>
+<td style='padding: 10px;'>$960.00</td>
+<td style='padding: 10px;'>$881.00</td>
+<td style='padding: 10px;'><a href='/images/psg/FidCorp_Services_Xero_02052024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FidCorp Xero Accounting Software - Package 3: Premium Subscription & Implementation</td>
-<td style='padding: 10px;'>$2,164.00</td>
-<td style='padding: 10px;'>$2,107.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Fidcorp_Annex_3_CR_wef_15dec22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3: Premium Subscription & Implementation</td>
+<td style='padding: 10px;'>$2,260.00</td>
+<td style='padding: 10px;'>$2,181.00</td>
+<td style='padding: 10px;'><a href='/images/psg/FidCorp_Services_Xero_02052024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FidCorp Xero Accounting Software - Package 4: Premium Subscription, Implementation & Training</td>
-<td style='padding: 10px;'>$2,564.00</td>
-<td style='padding: 10px;'>$2,307.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Fidcorp_Annex_3_CR_wef_15dec22_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4: Premium Subscription, Implementation & Training</td>
+<td style='padding: 10px;'>$2,660.00</td>
+<td style='padding: 10px;'>$2,581.00</td>
+<td style='padding: 10px;'><a href='/images/psg/FidCorp_Services_Xero_02052024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FidCorp Xero Accounting Software - Package 5: Premium Subscription, Implementation, Training & Migration</td>
-<td style='padding: 10px;'>$4,264.00</td>
-<td style='padding: 10px;'>$4,007.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Fidcorp_Annex_3_CR_wef_15dec22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5: Premium Subscription, Implementation, Training & Migration</td>
+<td style='padding: 10px;'>$4,610.00</td>
+<td style='padding: 10px;'>$3,231.00</td>
+<td style='padding: 10px;'><a href='/images/psg/FidCorp_Services_Xero_02052024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
