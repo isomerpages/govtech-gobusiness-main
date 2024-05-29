@@ -24,7 +24,7 @@ With a well-crafted IP strategy, your business is better placed to strengthen it
 ---
 
 ### Connect with relevant service providers for IP strategy consulting services
-**30 service providers listed.**
+**32 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -338,6 +338,21 @@ Adastra has been in existence since 2004 and is formed by a team of technical an
 
 ---
 
+#### Pintas-IPhouse Pte Ltd
+
+?PINTAS: Integrated IP Solutions for ASEAN.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $2,000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/664ac1ab738260e7583fd0c8' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/pintas-iphouse-pte-ltd/){:target='_blank'}
+
+---
+
 #### Intelleigen Legal 
 
 Intelleigen Legal LLC is a registered law firm based in Singapore.
@@ -389,7 +404,7 @@ Piece Future is an Intellectual Property bank offering various strategy services
 We are law firm with focus on IP law. We serve individuals and businesses of all sizes.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 11 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 11 - 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $400</li>
@@ -489,6 +504,21 @@ DDD provides customers with comprehensive domain name solutions, DDD.com is your
 </ul>
 
 <a class='btn' href='https://form.gov.sg/65d2b7190d9323466cd9c3a8' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ddd-technology-pte-ltd/){:target='_blank'}
+
+---
+
+#### MOI Law Corporation
+
+A boutique law firm specialising in IP, media, entertainment, technology, business and consumer laws.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $3,000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/64052e6d72c1ed0012f3609a' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/moi-law-corporation/){:target='_blank'}
 
 ---
 
