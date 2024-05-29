@@ -1,0 +1,1472 @@
+---
+title: 'Refrigerator'
+permalink: /browse-all-equipment-Retail/Refrigerator
+---
+
+## Refrigerator
+
+### Technical Requirements
+
+- Household refrigerator: Minimum 3-ticks and using refrigerant with GWP ≤ 15
+
+- Commercial refrigerator: Inverter technology
+
+Note: From 1st April 2025,  MEPS/MEPS to be implemented for commercial storage refrigerators. The technical criteria will be reviewed in 4Q2024.
+
+
+### Mode and Schedule of Payment 
+
+- Direct Purchase
+- Hire Purchase
+- Lease
+
+### Support Level and Conditions
+
+Up to 70% for SMEs, 30% for non-SMEs
+
+Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}
+
+### Pre-Approved Equipment Brands and Models
+
+
+- A-COOL - 260
+- A-COOL - 2DB
+- A-COOL - 2DBB
+- A-COOL - 2DT
+- A-COOL - 2DTF
+- A-COOL - 2DTT
+- A-COOL - 2SDBB
+- A-COOL - 370
+- A-COOL - 3DB
+- A-COOL - 3DBB
+- A-COOL - 3DT
+- A-COOL - 3DTF
+- A-COOL - 430L
+- A-COOL - 4DT
+- A-COOL - 4DTF
+- A-COOL - 530
+- A-COOL - SCPI-1220CH20
+- A-COOL - SCPI-1830CH20
+- A-COOL - SCPI-915CH20
+- A-COOL - SDW-200
+- A-COOL - SIVMC-6
+- A-COOL - SIVMC-8
+- ARCTICOOL  - ED0.5F-2M
+- ARCTICOOL  - ED1.0F-4M
+- ARCTICOOL  - ED1200F
+- ARCTICOOL  - ED1200F (600)
+- ARCTICOOL  - ED1500F
+- ARCTICOOL  - ED1500F (600)
+- ARCTICOOL  - ED1800F
+- ARCTICOOL  - ED1800F (600)
+- ARCTICOOL  - EG0.5F-2M
+- ARCTICOOL  - EG1.0F-4M
+- ARCTICOOL  - EG1200F
+- ARCTICOOL  - EG1200F (600)
+- ARCTICOOL  - EG1500F
+- ARCTICOOL  - EG1500F (600)
+- ARCTICOOL  - EG1800F
+- ARCTICOOL  - EG1800F (600)
+- Bosch  - KFN96PX91I
+- Bosch  - KGN36XI46
+- Bosch  - KGN56LB40O
+- Bosch - KDN55NL20O
+- Bosch - KGD86AI31U
+- Bosch - KGN56CI41J
+- Bosch - KGN56XI40
+- Bosch - KGN56XI40J
+- Bosch - KGN76CI30U
+- BRANDT - BFA1791NA
+- BRANDT - BFC8633XC
+- BRANDT - BFD8072NX
+- BRANDT - BFD8172NX
+- Carrier  - 2DGB-IVTH
+- Carrier  - 3DGB-IVTH
+- CUBE+  - C+1DC
+- CUBE+  - C+1DF
+- CUBE+  - C+2DC
+- CUBE+  - C+2DF
+- CUBE+  - C+3DC
+- CUBE+  - C+3DF
+- CUBE+  - IN-CRF-1275FR
+- CUBE+  - IN-CRF-1875F
+- CUBE+  - IN-CRF-1875FR
+- CUBE+  - IN-CRR-1275F
+- CUBE+  - IN-CRR-1275R
+- CUBE+  - IN-CRR-1875R
+- CUBE+  - IN-CRR-6175F
+- CUBE+  - IN-CRR-6175FR
+- CUBE+  - IN-CRR-6175R
+- CUBE+  - INCUF-1260F
+- CUBE+  - INCUF-1275F
+- CUBE+  - INCUF-1560F
+- CUBE+  - INCUF-1575F
+- CUBE+  - INCUF-1860F
+- CUBE+  - INCUF-1875F
+- CUBE+  - INCUR-1260R
+- CUBE+  - INCUR-1275R
+- CUBE+  - INCUR-1560R
+- CUBE+  - INCUR-1575R
+- CUBE+  - INCUR-1860R
+- CUBE+  - INCUR-1875R
+- Daiwa  - 201CD-EX
+- Daiwa  - 201F-EC
+- Daiwa  - 201HC-EX
+- Daiwa  - 201LCD-EX
+- Daiwa  - 201NHC-EX
+- Daiwa  - 201NYCD-EX
+- Daiwa  - 201NYSS-EX
+- Daiwa  - 201SS-EX
+- Daiwa  - 201YCD-EX
+- Daiwa  - 201YSS-EX
+- Daiwa  - 203CD-EX
+- Daiwa  - 203HC-EX
+- Daiwa  - 203LCD-EX
+- Daiwa  - 203LSS-EX
+- Daiwa  - 203NYSS-EX
+- Daiwa  - 203SS-EX
+- Daiwa  - 203YSS-EX
+- Daiwa  - 221CD-PF-EC
+- Daiwa  - 221LS1-EC
+- Daiwa  - 221YS1-EC
+- Daiwa  - 223LS1-EC
+- Daiwa  - 301CD-EX
+- Daiwa  - 301CD-NP-EX
+- Daiwa  - 301S1-EX
+- Daiwa  - 301S2-EX
+- Daiwa  - 301SS-EX
+- Daiwa  - 301SS-NP-EX
+- Daiwa  - 301YCD-EX
+- Daiwa  - 301YCD-NP-EX
+- Daiwa  - 301YS1-EX
+- Daiwa  - 301YS2-EX
+- Daiwa  - 301YSS-EX
+- Daiwa  - 301YSS-NP-EX
+- Daiwa  - 303CD-NP-EX
+- Daiwa  - 303S1-EX
+- Daiwa  - 303S2-EX
+- Daiwa  - 303SS-EX
+- Daiwa  - 303SS-NP-EX
+- Daiwa  - 303YS1-EX
+- Daiwa  - 303YS2-EX
+- Daiwa  - 303YSS-EX
+- Daiwa  - 303YSS-NP-EX
+- Daiwa  - 401CD-EX
+- Daiwa  - 401CD-NP-EX
+- Daiwa  - 401HC-EX
+- Daiwa  - 401HC-NP-EX
+- Daiwa  - 401S1-EX
+- Daiwa  - 401S2-EX
+- Daiwa  - 401SS-EX
+- Daiwa  - 401SS-NP-EX
+- Daiwa  - 401YCD-EX
+- Daiwa  - 401YCD-NP-EX
+- Daiwa  - 401YS1-EX
+- Daiwa  - 401YS2-EX
+- Daiwa  - 401YSS-EX
+- Daiwa  - 401YSS-NP-EX
+- Daiwa  - 403CD-EX
+- Daiwa  - 403CD-NP-EX
+- Daiwa  - 403HC-EX
+- Daiwa  - 403HC-NP-EX
+- Daiwa  - 403S1-EX
+- Daiwa  - 403S2-EX
+- Daiwa  - 403SS-EX
+- Daiwa  - 403SS-NP-EX
+- Daiwa  - 403YCD-EX
+- Daiwa  - 403YCD-NP-EX
+- Daiwa  - 403YS1-EX
+- Daiwa  - 403YS2-EX
+- Daiwa  - 403YSS-EX
+- Daiwa  - 403YSS-NP-EX
+- Daiwa  - 4061HC-EC
+- Daiwa  - 4061HC-NP-EC
+- Daiwa  - 4061S-R-EC
+- Daiwa  - 4071S-EC
+- Daiwa  - 4071SS-EC
+- Daiwa  - 4071SS-NP-EC
+- Daiwa  - 4161CD-EC
+- Daiwa  - 4161S-EC
+- Daiwa  - 4161SS-EC
+- Daiwa  - 4161SS-NP-EC
+- Daiwa  - 4171CD-EC
+- Daiwa  - 423CD-PF-EC
+- Daiwa  - 4261CD-NP-EC
+- Daiwa  - 441YAKP-EC
+- Daiwa  - 501CD-EX
+- Daiwa  - 501CD-NP-EX
+- Daiwa  - 501S1-4-EX
+- Daiwa  - 501S2-4-EX
+- Daiwa  - 501S2-EX
+- Daiwa  - 503CD-EX
+- Daiwa  - 503CD-NP-EX
+- Daiwa  - 503S1-4-EX
+- Daiwa  - 503S2-4-EX
+- Daiwa  - 503S2-EX
+- Daiwa  - 503SS-EX
+- Daiwa  - 503SS-NP-EX
+- Daiwa  - 503YCD-EX
+- Daiwa  - 503YS2-4-EX
+- Daiwa  - 503YS2-EX
+- Daiwa  - 503YSS-EX
+- Daiwa  - 5061HC-EC
+- Daiwa  - 5061HC-NP-EC
+- Daiwa  - 5061S-R-EC
+- Daiwa  - 5071HC-EC
+- Daiwa  - 5071S-EC
+- Daiwa  - 5071SS-EC
+- Daiwa  - 5161CD-EC
+- Daiwa  - 5161S-3-EC
+- Daiwa  - 5161S-EC
+- Daiwa  - 5161SS-EC
+- Daiwa  - 5161SS-NP-EC
+- Daiwa  - 5171CD-EC
+- Daiwa  - 5261CD-NP-EC
+- Daiwa  - 601CD-EX
+- Daiwa  - 601S2-EX
+- Daiwa  - 603CD-EX
+- Daiwa  - 603CD-NP-EX
+- Daiwa  - 603HC-EX
+- Daiwa  - 603S2-EX
+- Daiwa  - 603SS-EX
+- Daiwa  - 603YCD-EX
+- Daiwa  - 603YS2-EX
+- Daiwa  - 603YSS-EX
+- Daiwa  - 6061HC-EC
+- Daiwa  - 6061HC-NP-EC
+- Daiwa  - 6071S-EC
+- Daiwa  - 6161CD-EC
+- Daiwa  - 6161S-EC
+- Daiwa  - 6161SS-EC
+- Daiwa  - 6161SS-NP-EC
+- Daiwa  - 6171CD-EC
+- Daiwa  - 6261CD-NP-EC
+- Daiwa  - 7161CD-EC
+- Daiwa  - 7161S-EC
+- Daiwa  - 7171CD-EC
+- Daiwa  - 7261CD-NP-EC
+- Daiwa  - CF-07SHOF-B
+- Daiwa  - DFA603-L-EC
+- Daiwa  - DFA603-R-EC
+- Daiwa  - DKR-126-EC
+- Daiwa  - DKR-127-EC
+- Daiwa  - DKR-156-EC
+- Daiwa  - DKR-157-EC
+- Daiwa  - H-48F-EC
+- Daiwa  - ROP-301FCB-EC
+- Daiwa  - ROP-401FCB-EC
+- Daiwa  - ROP-603FCB-EC
+- De Dietrich - DFA179NXA
+- EKO - EKO_INVCF_1288
+- EKO - EKO_INVCF_1588
+- EKO - EKO_INVCF_1888
+- Electrolux  - EHE5224-B-A
+- Electrolux - EBE4500B-A
+- Electrolux - EBE4500B-G
+- Electrolux - EBE4500B-H
+- Electrolux - EHE5224B-A
+- Electrolux - ETB4600B-A
+- Electrolux - ETB4600B-G
+- Electrolux - ETB4600B-H
+- Electrolux - ETB5400B-A
+- Electrolux - ETB5400B-G
+- Electrolux - ETB5400B-H
+- Electrolux - ETE5720B-A
+- Electrolux - ETE5720B-G
+- Electrolux - EUM0500BD-SG
+- Electrolux - EUM0930BD-SG
+- Euro-Chill - EC-CC12070K
+- Euro-Chill - EC-CC15070K
+- Euro-Chill - EC-CC18070K
+- Euro-Chill - EC-CC9070K
+- Euro-Chill - EC-DCOD-1000SNM
+- Euro-Chill - EC-DCOD-1500SNM
+- Euro-Chill - EC-DFOD-1000SNM
+- Euro-Chill - EC-DFOD-1500SNM
+- Euro-Chill - EC-UC12680K
+- Euro-Chill - EC-UC19080K
+- Euro-Chill - EC-UC6480K
+- Euro-Chill - EC-UCF12680K
+- Euro-Chill - ECUF-12680K
+- Euro-Chill - ECUF-6480K
+- EuropAce - ER 5311U
+- EuropAce - ER 5371W
+- EuropAce - ER 5461W
+- EuropAce - ER 5501A
+- EuropAce - ER 7256W
+- Farfalla - FR-103R2
+- Farfalla - FR-47R2
+- FHIABA - S8990FR6
+- FHIABA - S8990TST6i
+- FHIABA - S8991TST3I
+- FHIABA - S8991TST6I
+- Fisher & Paykel - RB9064S1
+- Fisher & Paykel - RS6019BRU1
+- Fisher & Paykel - RS6019S2R1
+- Fisher & Paykel - RS6019S3RH1
+- Fisher & Paykel - RS6121SLK1
+- Fisher & Paykel - RS6121SRK1
+- Fisher & Paykel - RS7621SLK1
+- Fisher & Paykel - RS7621SRK1
+- Flomatic  - FC-F1200(E)
+- Flomatic  - FC-F1200L(E)
+- Flomatic  - FC-F1500(E)
+- Flomatic  - FC-F1500L(E)
+- Flomatic  - FC-F1800(E)
+- Flomatic  - FC-F1800L(E)
+- Flomatic  - FC-R1200(E)
+- Flomatic  - FC-R1200L(E)
+- Flomatic  - FC-R1500(E)
+- Flomatic  - FC-R1500L(E)
+- Flomatic  - FC-R1800(E)
+- Flomatic  - FC-R1800L(E)
+- Flomatic  - FC-RF1200(E)
+- Flomatic  - FC-RF1200L(E)
+- Flomatic  - FC-RF1500(E)
+- Flomatic  - FC-RF1500L(E)
+- Flomatic  - FC-RF1800(E)
+- Flomatic  - FC-RF1800L(E)
+- Flomatic  - FDR-F1210(E)
+- Flomatic  - FDR-F610(E)
+- Flomatic  - FDR-R1076(E)
+- Flomatic  - FDR-R376(E)
+- Flomatic  - FDR-R500(E)
+- Flomatic  - FUR-F1210(E)
+- Flomatic  - FUR-F1480(E)
+- Flomatic  - FUR-F610(E)
+- Flomatic  - FUR-F745(E)
+- Flomatic  - FUR-R1210(E)
+- Flomatic  - FUR-R1480(E)
+- Flomatic  - FUR-R1480L(E)
+- Flomatic  - FUR-R610(E)
+- Flomatic  - FUR-R745(E)
+- Flomatic  - FUR-RF1210(E)
+- Flomatic  - FUR-RF1480(E)
+- Flomatic  - FUR-RF610(E)
+- Flomatic  - FUR-RF745(E)
+- FUJITECH - MRF-453W
+- FUJITECH - MRF-541W
+- Gaggenau - RB492304
+- Gaggenau - RB492305
+- Gaggenau - RC462304
+- Gaggenau - RC472304
+- Galilei  - GRD-060RM
+- Galilei  - GRD-061PM
+- Galilei  - GRD-062FM
+- Galilei  - GRD-090RM
+- Galilei  - GRD-090RM-F
+- Galilei  - GRD-092PM2
+- Galilei  - GRD-094FM
+- Galilei  - GRD-120RM
+- Galilei  - GRD-120RM-F
+- Galilei  - GRD-121PM2
+- Galilei  - GRD-122PM2
+- Galilei  - GRD-124FM
+- Galilei  - GRD-124FM-F
+- Galilei  - GRD-150RM
+- Galilei  - GRD-150RM-F
+- Galilei  - GRD-151PM2
+- Galilei  - GRD-152PM2
+- Galilei  - GRD-154FMD
+- Galilei  - GRD-154FMD-F
+- Galilei  - GRD-180RM
+- Galilei  - GRD-182PM
+- Galilei  - GRD-186FMD
+- Galilei  - GRN-060RM
+- Galilei  - GRN-061PM
+- Galilei  - GRN-062FM
+- Galilei  - GRN-090RM
+- Galilei  - GRN-090RM-F
+- Galilei  - GRN-092PM2
+- Galilei  - GRN-094FM
+- Galilei  - GRN-094FM-F
+- Galilei  - GRN-120RM
+- Galilei  - GRN-121PM2
+- Galilei  - GRN-122PM2
+- Galilei  - GRN-124FM
+- Galilei  - GRN-124FMD-F
+- Galilei  - GRN-150RM
+- Galilei  - GRN-150RM-F
+- Galilei  - GRN-151PM2
+- Galilei  - GRN-152PM2
+- Galilei  - GRN-154FMD
+- Galilei  - GRN-180RM
+- Galilei  - GRN-182PM
+- Galilei  - GRN-186FMD
+- Galilei  - LRC-090RM
+- Galilei  - LRC-091FM
+- Galilei  - LRC-120RM
+- Galilei  - LRC-120RM-F
+- Galilei  - LRC-121PM
+- Galilei  - LRC-122FM
+- Galilei  - LRC-122FM-F
+- Galilei  - LRC-150RM
+- Galilei  - LRC-150RM-F
+- Galilei  - LRC-151PM
+- Galilei  - LRC-151PM-E
+- Galilei  - LRC-152FM
+- Galilei  - LRC-152FM-F
+- Galilei  - LRC-180RM
+- Galilei  - LRC-180RM-F
+- Galilei  - LRC-181PM
+- Galilei  - LRC-183FM
+- Galilei  - LRC-210RM
+- Galilei  - LRW-090RM
+- Galilei  - LRW-091FM
+- Galilei  - LRW-120RM
+- Galilei  - LRW-120RM-F
+- Galilei  - LRW-121PM
+- Galilei  - LRW-122FM
+- Galilei  - LRW-122FM-F
+- Galilei  - LRW-150RM
+- Galilei  - LRW-150RM-F
+- Galilei  - LRW-151PM
+- Galilei  - LRW-152FM
+- Galilei  - LRW-152FM-F
+- Galilei  - LRW-180RM
+- Galilei  - LRW-180RM-F
+- Galilei  - LRW-181PM
+- Galilei  - LRW-183FM
+- Galilei  - LRW-210RM
+- HCK - BC-130RBA
+- HCK - BC-330RD
+- Hitachi  - R-B570P7MS
+- Hitachi  - R-G500GS
+- Hitachi  - R-HV480NS
+- Hitachi  - R-HW530NS
+- Hitachi  - R-HW610NS
+- Hitachi  - R-M700AGP4MSX
+- Hitachi  - R-M700VAG9MSX
+- Hitachi  - R-SF45GS
+- Hitachi  - R-VG450P3MS-1
+- Hitachi  - R-VGX450PMS9
+- Hitachi  - R-VGX480PMS9
+- Hitachi  - R-VX410PMS9
+- Hitachi  - R-VX450PMS9
+- Hitachi  - R-VX480PMS9
+- Hitachi  - R-WB735P5MS
+- Hitachi  - R-XG450KS
+- Hitachi  - R-XG480KS
+- Hitachi - R-BG415P6MSX
+- Hitachi - R-GWC670TS
+- Hitachi - R-HV490RS
+- Hitachi - R-HW540RS
+- Hitachi - R-HW620RS
+- Hitachi - R-HWS480KS
+- Hitachi - R-V410P8MS
+- Hitachi - R-V450P8MS
+- Hitachi - R-V480P8MS
+- Hitachi - R-V560P7MS
+- Hitachi - R-V690P7MS
+- Hitachi - R-VG410P8MS
+- Hitachi - R-VG450P8MS
+- Hitachi - R-VG480P8MS
+- Hitachi - R-VG560P7MS
+- Hitachi - R-VG565P9MSX
+- Hitachi - R-VG690P7MS
+- Hitachi - R-VG695P9MSX
+- Hitachi - R-WB640V0MS
+- Hitachi - R-WXC620KS
+- Hitachi - R-WXC670KS
+- Hitachi - R-WXC740KS
+- Hitachi - R-ZXC740KS
+- Hoshizaki  - FT-120SDG-1
+- Hoshizaki  - FT-120SNG-1
+- Hoshizaki  - FT-150SDG-1
+- Hoshizaki  - FT-150SNG-1
+- Hoshizaki  - FT-180SDG-1
+- Hoshizaki  - FT-180SNG-1
+- Hoshizaki  - FT-90SDG-1
+- Hoshizaki  - FT-90SNG-1
+- Hoshizaki  - HF-120A-1
+- Hoshizaki  - HF-120A-2
+- Hoshizaki  - HF-120AT-1
+- Hoshizaki  - HF-120AT-2
+- Hoshizaki  - HF-150A3-1
+- Hoshizaki  - HF-150A3-2
+- Hoshizaki  - HF-150AT3-1
+- Hoshizaki  - HF-150AT3-2
+- Hoshizaki  - HF-180A3-1
+- Hoshizaki  - HF-180A3-2
+- Hoshizaki  - HF-180AT3-1
+- Hoshizaki  - HF-180AT3-2
+- Hoshizaki  - HF-63A-1
+- Hoshizaki  - HF-63AT-1
+- Hoshizaki  - HF-75A-1
+- Hoshizaki  - HF-75AT-1
+- Hoshizaki  - HR-120A-1
+- Hoshizaki  - HR-120AT-1
+- Hoshizaki  - HR-150A-1
+- Hoshizaki  - HR-150AT-1
+- Hoshizaki  - HR-180A-1
+- Hoshizaki  - HR-180AT-1
+- Hoshizaki  - HR-63A-1
+- Hoshizaki  - HR-63AT-1
+- Hoshizaki  - HR-75A-1
+- Hoshizaki  - HR-75AT-1
+- Hoshizaki  - RFT-120SDG-1
+- Hoshizaki  - RFT-120SNG-1
+- Hoshizaki  - RFT-150SDG-1
+- Hoshizaki  - RFT-150SNG-1
+- Hoshizaki  - RFT-180SDG-1
+- Hoshizaki  - RFT-180SNG-1
+- Hoshizaki  - RSC-120E
+- Hoshizaki  - RSC-120ET
+- Hoshizaki  - RSC-90E
+- Hoshizaki  - RSC-90ET
+- Hoshizaki  - RT-120SDG-1
+- Hoshizaki  - RT-120SNG-1
+- Hoshizaki  - RT-150SDG-1
+- Hoshizaki  - RT-150SNG-1
+- Hoshizaki  - RT-180SDG-1
+- Hoshizaki  - RT-180SNG-1
+- Hoshizaki  - RT-90SDG-1
+- Hoshizaki  - RT-90SNG-1
+- IISTIA  - UC1275A
+- IISTIA  - UC1575A
+- IISTIA  - UC1875A
+- IISTIA  - UF1275A
+- IISTIA  - UF1575A
+- IISTIA  - UF1875A
+- IISTIA  - UPC2A
+- IISTIA  - UPC4A
+- IISTIA  - UPCF2A
+- IISTIA  - UPF2A
+- IISTIA  - UPF4A
+- INNOTRICS - FD-417BA
+- io mabe - INO27JSPFFS
+- io mabe - IWO19JSPFSS
+- Kadeka  - KS106TL
+- Kadeka  - KS106TR
+- Kadeka  - KS140TL
+- Kadeka  - KS140TR
+- Kadeka  - KS194TL
+- Kadeka  - KS194TR
+- KANG JIE  - KJ126F-ES
+- KANG JIE  - KJ128F-ES
+- KANG JIE  - KJ156F-ES
+- KANG JIE  - KJ158F-ES
+- KANG JIE  - KJ186F-ES
+- KANG JIE  - KJ188F-ES
+- KANG JIE  - KJHF128-ES
+- KANG JIE  - KJHF78-ES
+- Kerry  - KR-190B-IVT
+- Kerry  - KR-249B-IVT
+- Kerry  - KR-2OPC-15-B
+- Kerry  - KR-2OPC-15-W
+- Kerry - KR-50XFIF-2D
+- Kerry - KR-63XFIF-2D
+- Kerry - KR-70XFIF-2D
+- Kerry - KR-80XFIF-2D
+- KINCO  - CK-CC120-60-EC
+- KINCO  - CK-CC120-75-EC
+- KINCO  - CK-CC150-60-EC
+- KINCO  - CK-CC150-75-EC
+- KINCO  - CK-CC180-60-EC
+- KINCO  - CK-CC180-75-EC
+- KINCO  - CK-CC90-60-EC
+- KINCO  - CK-CC90-75-EC
+- KINCO  - CK-CF120-60-EC
+- KINCO  - CK-CF120-75-EC
+- KINCO  - CK-CF150-60-EC
+- KINCO  - CK-CF150-75-EC
+- KINCO  - CK-CF180-60-EC
+- KINCO  - CK-CF180-75-EC
+- KINCO  - CK-CF90-60-EC
+- KINCO  - CK-CF90-75-EC
+- KINCO  - CK-UC120-EC
+- KINCO  - CK-UC140-EC
+- KINCO  - CK-UC62-EC
+- KINCO  - CK-UC70-EC
+- KINCO  - CK-UF120-EC
+- KINCO  - CK-UF140-EC
+- KINCO  - CK-UF62-EC
+- KINCO  - CK-UF70-EC
+- LG  - GB-B3442BE
+- LG  - GB-B3443PY
+- LG  - GB-B3449PZ
+- LG  - GF-B4539PZ
+- LG  - GS-B6267GV
+- LG  - GT-B3127PZ
+- LG  - GT-B4603PY
+- LG  - GT-T3867BM
+- LG  - GT-T3867PZ
+- LG - GB-B306PZ
+- LG - GB-B3442MC
+- LG - GB-B3443EP
+- LG - GB-B3862SG
+- LG - GB-B3863MN
+- LG - GB-B4059MT
+- LG - GB-B4059PZ
+- LG - GB-B4452PZ
+- LG - GB-B4452SE
+- LG - GB-B4453MC
+- LG - GB-B4459GV
+- LG - GF-B4544EP
+- LG - GF-B6012MC
+- LG - GF-B6014EV
+- LG - GS-B6269PZ
+- LG - GS-B6472MC
+- LG - GS-B6472PZ
+- LG - GS-B6473EP
+- LG - GS-B6473PY
+- LG - GS-L6013PZ
+- LG - GT-B3153BN
+- LG - GT-B3302PZ
+- LG - GT-B3303PY
+- LG - GT-B3722PZ
+- LG - GT-B3723PY
+- LG - GT-B3952BL
+- LG - GT-B3952BN
+- LG - GT-B3953EP
+- LG - GT-B4387PZ
+- LG - GT-B4783BL
+- LG - GT-B4783EP
+- LG - GT-B4783PZ
+- LG - GT-F3953EP
+- LG - GT-F4604EP
+- LG - GT-F4781BL
+- LG - GT-M5093BL
+- LG - GT-M5097PZ
+- LG - GT-M5967BL
+- LG - GT-T5107BM
+- Liebherr  - CBNef 5735
+- Liebherr  - Cnef 4315
+- Liebherr  - EKB 9271
+- Liebherr  - EKB 9471
+- Liebherr  - EKB 9671
+- Liebherr  - ICBNh 5173
+- Liebherr  - ICNh 5103
+- Liebherr  - ICNh 5123
+- Liebherr  - ICNh 5133
+- Liebherr  - ICNh 5173
+- Liebherr  - IRBh 5170
+- Liebherr  - IRBPh 5170
+- Liebherr  - SBNbsh5264
+- Liebherr  - SBNes 4265
+- Liebherr  - SBNsdh5264
+- Liebherr  - SCNsdh 5253
+- Liebherr  - SIKB 3550
+- Liebherr  - SKBbs 4350
+- Liebherr  - SKBes 4350
+- Liebherr  - SKBes 4360
+- Liebherr  - SRBbsh 5260
+- Liebherr  - SRBsdh 5260
+- Liebherr  - SUIK 1510
+- Liebherr  - SUIKo1550
+- Midea  - CE-BCD640WE-JT
+- Midea  - MDRB470MGD28
+- Midea  - MDRD86FGD01-SG
+- Midea  - MDRD86FGD34-SG
+- Midea  - MDRF698FIC28SG
+- Midea  - MDRF698FIC45SG
+- Midea  - MDRF698FIC46SG
+- Midea  - MDRS710FIE28SG
+- Midea  - MDRS710FIE61SG
+- Midea  - MDRS791MYC02SG
+- Midea  - MDRS791MYC28SG
+- Midea  - MDRS791MYC45SG
+- Midea  - MDRS791MYC46SG
+- Midea  - MDRT580MTB46-SG
+- Midea  - MRM640S
+- Miele  - K 14820 SD ed/cs
+- Miele  - K 2801 VI
+- Miele  - K 2901 Vi
+- Miele  - K 31222 Ui
+- Miele  - KF 37122 iD
+- Miele  - KFN 4375 DD edt/cs
+- Miele  - KFNS 7734 D
+- Miele  - KS 28463 D C bb
+- Miele  - KS 28463 D ed/cs
+- Miele  - KS 37472 iD
+- Miele  - KS 7743 E
+- Miele  - KS 7793 D
+- Miele  - KSv4783 ED edt/cs
+- Miele - KS 4783 ED edt/cs
+- Mitsubishi Electric  - MR-B46F-F-P
+- Mitsubishi Electric  - MR-B46F-F-P1
+- Mitsubishi Electric  - MR-B46F-W-P
+- Mitsubishi Electric  - MR-B46F-W-P1
+- Mitsubishi Electric  - MR-CGX41ES-GBR-P
+- Mitsubishi Electric  - MR-CGX41ES-GWH-P
+- Mitsubishi Electric  - MR-CGX46ES-GBR-P
+- Mitsubishi Electric  - MR-CGX46ES-GWH-P
+- Mitsubishi Electric  - MR-CGX56EP-GBK-P
+- Mitsubishi Electric  - MR-CGX56EP-GBR-P
+- Mitsubishi Electric  - MR-CGX56EP-GWH-P
+- Mitsubishi Electric  - MR-CGX56ET-GBK-P
+- Mitsubishi Electric  - MR-CGX56ET-GWH-P
+- Mitsubishi Electric  - MR-F55EG-BRW-P
+- Mitsubishi Electric  - MR-F55EG-SLW-P
+- Mitsubishi Electric  - MR-F55EG-SLW-P1
+- Mitsubishi Electric  - MR-F55EG-ST-P
+- Mitsubishi Electric  - MR-F55EG-ST-P1
+- Mitsubishi Electric  - MR-F55EG-W-P
+- Mitsubishi Electric  - MR-F62EG-BRW-P
+- Mitsubishi Electric  - MR-F62EG-SLW-P
+- Mitsubishi Electric  - MR-F62EG-SLW-P1
+- Mitsubishi Electric  - MR-F62EG-ST-P
+- Mitsubishi Electric  - MR-F62EG-ST-P1
+- Mitsubishi Electric  - MR-F62EG-W-P
+- Mitsubishi Electric  - MR-F62ET-BRW-P
+- Mitsubishi Electric  - MR-F62ET-ST-P
+- Mitsubishi Electric  - MR-FS51ES-BR-P
+- Mitsubishi Electric  - MR-FS51ES-SSL-P
+- Mitsubishi Electric  - MR-FX47EN-GBK-P
+- Mitsubishi Electric  - MR-FX47EN-GWH-P
+- Mitsubishi Electric  - MR-WX47LF-BR-P
+- Mitsubishi Electric  - MR-WX47LF-BR-P1
+- Mitsubishi Electric  - MR-WX47LF-F-P
+- Mitsubishi Electric  - MR-WX47LF-F-P1
+- Mitsubishi Electric  - MR-WX52F-BR-P
+- Mitsubishi Electric  - MR-WX52F-BR-P1
+- Mitsubishi Electric  - MR-WX52F-F-P
+- Mitsubishi Electric  - MR-WX52F-F-P1
+- Mitsubishi Electric  - MR-WX60F-BR-P
+- Mitsubishi Electric  - MR-WX60F-BR-P1
+- Mitsubishi Electric  - MR-WX60F-F-P
+- Mitsubishi Electric  - MR-WX60F-F-P1
+- Mitsubishi Electric  - MR-WX60F-W-P
+- Mitsubishi Electric  - MR-WX60F-W-P1
+- Mitsubishi Electric  - MR-WX70C-BR-P
+- Mitsubishi Electric  - MR-WX70C-BR-P1
+- Mitsubishi Electric  - MR-WX70C-F-P1
+- Mitsubishi Electric  - MR-WX70C-W-P
+- Mitsubishi Electric  - MR-WX70C-W-P1
+- Panasonic  - NR WY720Z
+- Panasonic  - NR XY680Y
+- Panasonic  - NR-BC360X
+- Panasonic  - NR-BV320X
+- Panasonic  - NR-BV361B
+- Panasonic  - NR-BW530X
+- Panasonic  - NR-BX468GKS1
+- Panasonic  - NR-BX468GWS1
+- Panasonic  - NR-BX468XSS1
+- Panasonic  - NR-BX471C
+- Panasonic  - NR-BX471G
+- Panasonic  - NR-BX471W
+- Panasonic  - NR-CW530H
+- Panasonic  - NR-CW530X
+- Panasonic  - NR-DZ601W
+- Panasonic  - NR-F503GT-N6
+- Panasonic  - NR-F503GT-NS
+- Panasonic  - NR-F503GT-T6
+- Panasonic  - NR-F503GT-TS
+- Panasonic  - NR-F503GT-W6
+- Panasonic  - NR-F503GT-WS
+- Panasonic  - NR-F503GT-X6
+- Panasonic  - NR-F603GT-N6
+- Panasonic  - NR-F603GT-NS
+- Panasonic  - NR-F603GT-SS
+- Panasonic  - NR-F603GT-T6
+- Panasonic  - NR-F603GT-TS
+- Panasonic  - NR-F603GT-W6
+- Panasonic  - NR-F603GT-WS
+- Panasonic  - NR-F603GT-X6
+- Panasonic  - NR-F654GT-SS
+- Panasonic  - NR-F654GT-X6
+- Panasonic  - NR-TL381
+- Panasonic  - NR-TX461
+- Panasonic  - NR-TX461B
+- Panasonic  - NR-TX461W
+- Panasonic  - NR-TZ601B
+- Panasonic  - NR-YW590Y
+- Panasonic  - SAR-CDV390C7L-SG
+- Panasonic  - SAR-CDV390LSG
+- Panasonic  - SAR-CDV490LSG
+- Panasonic  - SAR-CDV690LSG
+- Panasonic  - SRF-1281ES
+- Panasonic  - SRF-1581ES
+- Panasonic  - SRF-1881ES
+- Panasonic  - SRF-681ES
+- Panasonic  - SRF-681ES-L
+- Panasonic  - SRF-781ES
+- Panasonic  - SRF-781ES-L
+- Panasonic  - SRF-K1261B
+- Panasonic  - SRF-K1261SB
+- Panasonic  - SRF-K1263B
+- Panasonic  - SRF-K1263SB
+- Panasonic  - SRF-K1281B
+- Panasonic  - SRF-K1281SB
+- Panasonic  - SRF-K1283B
+- Panasonic  - SRF-K1283SB
+- Panasonic  - SRF-K1563B
+- Panasonic  - SRF-K1563SB
+- Panasonic  - SRF-K1583B
+- Panasonic  - SRF-K1583SB
+- Panasonic  - SRF-K1863B
+- Panasonic  - SRF-K1883B
+- Panasonic  - SRF-K661B
+- Panasonic  - SRF-K661LB
+- Panasonic  - SRF-K681B
+- Panasonic  - SRF-K681LB
+- Panasonic  - SRF-K683B
+- Panasonic  - SRF-K683LB
+- Panasonic  - SRF-K761B
+- Panasonic  - SRF-K761LB
+- Panasonic  - SRF-K781LB
+- Panasonic  - SRF-K783B
+- Panasonic  - SRF-K783LB
+- Panasonic  - SRF-K961B
+- Panasonic  - SRF-K961SB
+- Panasonic  - SRF-K963SB
+- Panasonic  - SRF-K981B
+- Panasonic  - SRF-K981SB
+- Panasonic  - SRF-K983SB
+- Panasonic  - SRR-1281ES
+- Panasonic  - SRR-1581ES
+- Panasonic  - SRR-1881ES
+- Panasonic  - SRR-681ES
+- Panasonic  - SRR-681ES-L
+- Panasonic  - SRR-781ES
+- Panasonic  - SRR-781ES-L
+- Panasonic  - SRR-K1261B
+- Panasonic  - SRR-K1261C2B
+- Panasonic  - SRR-K1261CSB
+- Panasonic  - SRR-K1261SB
+- Panasonic  - SRR-K1281B
+- Panasonic  - SRR-K1281C2B
+- Panasonic  - SRR-K1281CB
+- Panasonic  - SRR-K1281CSB
+- Panasonic  - SRR-K1281SB
+- Panasonic  - SRR-K1283C2B
+- Panasonic  - SRR-K1283CSB
+- Panasonic  - SRR-K1283SB
+- Panasonic  - SRR-K1561-3B
+- Panasonic  - SRR-K1561C2B
+- Panasonic  - SRR-K1561CSB
+- Panasonic  - SRR-K1561SB
+- Panasonic  - SRR-K1581B
+- Panasonic  - SRR-K1581C2B
+- Panasonic  - SRR-K1581CB
+- Panasonic  - SRR-K1581CSB
+- Panasonic  - SRR-K1581SB
+- Panasonic  - SRR-K1583C2B
+- Panasonic  - SRR-K1583CSB
+- Panasonic  - SRR-K1583SB
+- Panasonic  - SRR-K1861B
+- Panasonic  - SRR-K1861C2B
+- Panasonic  - SRR-K1863C4B
+- Panasonic  - SRR-K1881B
+- Panasonic  - SRR-K1881C2B
+- Panasonic  - SRR-K1883B
+- Panasonic  - SRR-K1883C2B
+- Panasonic  - SRR-K1883C4B
+- Panasonic  - SRR-K661B
+- Panasonic  - SRR-K661CB
+- Panasonic  - SRR-K661LB
+- Panasonic  - SRR-K681B
+- Panasonic  - SRR-K681CB
+- Panasonic  - SRR-K681LB
+- Panasonic  - SRR-K761B
+- Panasonic  - SRR-K761CB
+- Panasonic  - SRR-K761LB
+- Panasonic  - SRR-K781CB
+- Panasonic  - SRR-K781CLB
+- Panasonic  - SRR-K781LB
+- Panasonic  - SRR-K961B
+- Panasonic  - SRR-K961C2B
+- Panasonic  - SRR-K961CSB
+- Panasonic  - SRR-K961SB
+- Panasonic  - SRR-K981B
+- Panasonic  - SRR-K981C2B
+- Panasonic  - SRR-K981CSB
+- Panasonic  - SRR-K981SB
+- Panasonic  - SUF-1261ES
+- Panasonic  - SUF-1271ES
+- Panasonic  - SUF-1561ES
+- Panasonic  - SUF-1561ES(E)
+- Panasonic  - SUF-1571ES
+- Panasonic  - SUF-1861ES
+- Panasonic  - SUF-1871ES
+- Panasonic  - SUF-DK1261-3
+- Panasonic  - SUF-DK1271-3
+- Panasonic  - SUF-DK761-3
+- Panasonic  - SUF-DK771-3
+- Panasonic  - SUF-K1261B
+- Panasonic  - SUF-K1261SB
+- Panasonic  - SUF-K1261SB-R
+- Panasonic  - SUF-K1271B
+- Panasonic  - SUF-K1271SB
+- Panasonic  - SUF-K1271SB-R
+- Panasonic  - SUF-K1561B
+- Panasonic  - SUF-K1561SB
+- Panasonic  - SUF-K1561SB-R
+- Panasonic  - SUF-K1571B
+- Panasonic  - SUF-K1571SB-R
+- Panasonic  - SUF-K1861SB
+- Panasonic  - SUF-K1861SB-R
+- Panasonic  - SUF-K1871SB
+- Panasonic  - SUF-K1871SB-R
+- Panasonic  - SUF-K961B
+- Panasonic  - SUF-K971B
+- Panasonic  - SUR-1261ES
+- Panasonic  - SUR-1271ES
+- Panasonic  - SUR-1561ES
+- Panasonic  - SUR-1561ES(E)
+- Panasonic  - SUR-1571ES
+- Panasonic  - SUR-1571ES(E)
+- Panasonic  - SUR-1861ES
+- Panasonic  - SUR-1871ES
+- Panasonic  - SUR-DK1261-3
+- Panasonic  - SUR-DK1271-3
+- Panasonic  - SUR-DK1661-3
+- Panasonic  - SUR-DK1671-3
+- Panasonic  - SUR-DK761-3
+- Panasonic  - SUR-DK771-3
+- Panasonic  - SUR-K1261B
+- Panasonic  - SUR-K1261CB
+- Panasonic  - SUR-K1261CB-R
+- Panasonic  - SUR-K1261SB
+- Panasonic  - SUR-K1261SB-R
+- Panasonic  - SUR-K1271B
+- Panasonic  - SUR-K1271CB
+- Panasonic  - SUR-K1271CB-R
+- Panasonic  - SUR-K1271SB-R
+- Panasonic  - SUR-K1561B
+- Panasonic  - SUR-K1561CB
+- Panasonic  - SUR-K1561CB-R
+- Panasonic  - SUR-K1561SB
+- Panasonic  - SUR-K1561SB-R
+- Panasonic  - SUR-K1571B
+- Panasonic  - SUR-K1571CB
+- Panasonic  - SUR-K1571CB-R
+- Panasonic  - SUR-K1571SB-R
+- Panasonic  - SUR-K1861CSB
+- Panasonic  - SUR-K1861CSB-R
+- Panasonic  - SUR-K1861SB
+- Panasonic  - SUR-K1861SB-R
+- Panasonic  - SUR-K1871CSB
+- Panasonic  - SUR-K1871CSB-R
+- Panasonic  - SUR-K1871SB
+- Panasonic  - SUR-K1871SB-R
+- Panasonic  - SUR-K2161SB
+- Panasonic  - SUR-K2161SB-R
+- Panasonic  - SUR-K2171SB
+- Panasonic  - SUR-K2171SB-R
+- Panasonic - SUF-K1571SB
+- Panasonic - SUR-K1271SB
+- Panasonic - SUR-K1571SB
+
+- Polariz  - PGR-1000-TA-EC
+- Polariz  - PGR-1600-TA-EC
+- Polariz  - PGR-500-TA-EC
+- PowerPac  - PPBF555A
+- PRISM+  - FT4201SABI
+- PRISM+ - FT3301SABI
+- PRISM+ - FT3301SAIN
+- PRISM+ - FT4201GAGB
+- PRISM+ - FT4201SAIN
+- Ryker  - TF24101
+- Samsung  - RT62K7057BS
+- Samsung  - RB34T6054B1
+- Samsung  - RB45DG600EB1
+- Samsung  - RB45DG600ES9
+- Samsung  - RF59A70T3S9
+- Samsung  - RF59A70T4S9
+- Samsung  - RF60N9011SG
+- Samsung  - RL4004SBASL
+- Samsung  - RL4354RBABS
+- Samsung  - RR39M71357F
+- Samsung  - RR40B99C5AP
+- Samsung  - RS62R5006F8
+- Samsung  - RS64R5306M9
+- Samsung  - RT21M6211SG
+- Samsung  - RT21M6211SR
+- Samsung  - RT31CB5644C2
+- Samsung  - RT31CG5424S10
+- Samsung  - RT32K503ASL
+- Samsung  - RT35CB564422
+- Samsung  - RT35CG5444S10
+- Samsung  - RT35K553ASL
+- Samsung  - RT38K503ADX
+- Samsung  - RT38K503AUT
+- Samsung  - RT42CB668822
+- Samsung  - RT42CG6644S9
+- Samsung  - RT43K6037SL
+- Samsung  - RT43K6037UT
+- Samsung  - RT43K6057B1
+- Samsung  - RT46K6237BS
+- Samsung  - RT46K6237DX
+- Samsung  - RT46K6237SL
+- Samsung  - RT47CB668622
+- Samsung  - RT47CG6444S9
+- Samsung  - RT50K6257B1
+- Samsung  - RT50K6257S8
+- Samsung  - RT50K6257UT
+- Samsung  - RT53K6257BS
+- Samsung  - RT53K6257SL
+- Samsung  - RT53K6657B1
+- Samsung  - RT62K705JBS
+- Samsung  - RZ32T7443AP
+- Samsung  - RZ32T7445AP
+- Samsung - RL4354RBAS8
+- Samsung - RT31CG5424S9
+- Samsung - RT35CG5444S9
+- Sanden Intercool  - SPB 0300
+- Sanden Intercool  - SPB 0400
+- Sanden Intercool  - SPB 0500
+- Sanden Intercool  - SPB 1000
+- Sanden Intercool  - SPE 0300
+- Sanden Intercool  - SPE 0400
+- Sanden Intercool  - SPE 0500
+- Sanden Intercool  - SPE 0700
+- Sanden Intercool  - SPE 1200
+- SHARP  - qSJ-RF36E-DS
+- SHARP  - SJ-FB32E-DS
+- SHARP  - SJ-FB32E-S
+- SHARP  - SJ-FB34E-DS
+- SHARP  - SJ-FB34E-S
+- SHARP  - SJ-PG51P2-BK
+- SHARP  - SJ-PG51P2-DM
+- SHARP  - SJ-PG51P2-DS
+- SHARP  - SJ-PG55P2-BK
+- SHARP  - SJ-PG55P2-DM
+- SHARP  - SJ-PG55P2-DS
+- SHARP  - SJ-PG60P2-BK
+- SHARP  - SJ-PG60P2-DM
+- SHARP  - SJ-PG60P2-DS
+- SHARP  - SJ-PS51P-BK
+- SHARP  - SJ-PS51P-DS
+- SHARP  - SJ-PS55P-BK
+- SHARP  - SJ-PS55P-DS
+- SHARP  - SJ-PS60P-BK
+- SHARP  - SJ-RF22E-DS
+- SHARP  - SJ-RF22E-SL
+- SHARP  - SJ-RF25E-DS
+- SHARP  - SJ-RF25E-SL
+- SHARP  - SJ-RF30E-DS
+- SHARP  - SJ-RF30E-SL
+- SHARP  - SJ-RF33E-DS
+- SHARP  - SJ-RF33E-SL
+- SHARP  - SJ-RF36E-SL
+- SHARP  - SJ-RX30E-SL2
+- SHARP  - SJ-RX34E-SL2
+- SHARP  - SJ-RX38E-SL2
+- SHARP  - SJ-RX42E-SL2
+- SHARP  - SJ-SS60E-DS
+- SHARP  - SJ-SS60G-BK
+- SHARP  - SJ-VX57ES-DS
+- SHARP - SJ-PS60P-DS
+- SHARP - SJ-RF36E-DS
+- SHARP - SJ-VX57PG-BK
+- SHARP - SJ-VX57PG-DM
+- Singmah - LD-460W
+- Singmah - LG-1000M2WP
+- Singmah - LG-1200M3WP
+- Singmah - LG-1400M3WP
+- Singmah - LG-1800M4WP
+- Singmah - LG-882M2W
+- Singmah - LG-882M2WP
+- Singmah - LG-960M2WP
+- Singmah - LGZ-150W
+- Singmah - WD4-297H
+- SMEG  - FAB10HLCR5
+- SMEG  - FAB10HLRD5
+- SMEG  - FAB10HLWH5
+- SMEG  - FAB10HRBL5
+- SMEG  - FAB10HRCR5
+- SMEG  - FAB10HRDIT5
+- SMEG  - FAB10HRPB5
+- SMEG  - FAB10HRPG5
+- SMEG  - FAB10HRPK5
+- SMEG  - FAB10HRRD5
+- SMEG  - FAB10HRWH5
+- SMEG  - FAB28LBL5
+- SMEG  - FAB28LBL5UK
+- SMEG  - FAB28LCR5
+- SMEG  - FAB28LCR5UK
+- SMEG  - FAB28LDUJ5
+- SMEG  - FAB28LOR5
+- SMEG  - FAB28LPB5
+- SMEG  - FAB28LPB5UK
+- SMEG  - FAB28LPG5
+- SMEG  - FAB28LPK5
+- SMEG  - FAB28LRD5
+- SMEG  - FAB28LRD5UK
+- SMEG  - FAB28LSV5
+- SMEG  - FAB28LWH5
+- SMEG  - FAB28LWH5UK
+- SMEG  - FAB28LYW5
+- SMEG  - FAB28RBE5
+- SMEG  - FAB28RBL5
+- SMEG  - FAB28RBL5UK
+- SMEG  - FAB28RCR5
+- SMEG  - FAB28RCR5UK
+- SMEG  - FAB28RDBB5
+- SMEG  - FAB28RDBLV5
+- SMEG  - FAB28RDCC5
+- SMEG  - FAB28RDEG5
+- SMEG  - FAB28RDGC5
+- SMEG  - FAB28RDGM5
+- SMEG  - FAB28RDIT5
+- SMEG  - FAB28RDMC5
+- SMEG  - FAB28RDMM5
+- SMEG  - FAB28RDRB5
+- SMEG  - FAB28RDTP5
+- SMEG  - FAB28RDUJ5
+- SMEG  - FAB28RDUN5
+- SMEG  - FAB28RLI5
+- SMEG  - FAB28ROR5
+- SMEG  - FAB28RPB5
+- SMEG  - FAB28RPB5UK
+- SMEG  - FAB28RPG5
+- SMEG  - FAB28RPK5
+- SMEG  - FAB28RRD5
+- SMEG  - FAB28RRD5UK
+- SMEG  - FAB28RSV5
+- SMEG  - FAB28RWH5
+- SMEG  - FAB28RWH5UK
+- SMEG  - FAB28RYW5
+- SMEG  - FAB32LBL5
+- SMEG  - FAB32LBL5UK
+- SMEG  - FAB32LCR5
+- SMEG  - FAB32LCR5UK
+- SMEG  - FAB32LOR5
+- SMEG  - FAB32LPB5
+- SMEG  - FAB32LPB5UK
+- SMEG  - FAB32LPG5
+- SMEG  - FAB32LPG5UK
+- SMEG  - FAB32LPK5
+- SMEG  - FAB32LRD5
+- SMEG  - FAB32LRD5UK
+- SMEG  - FAB32LSV5
+- SMEG  - FAB32LWH5
+- SMEG  - FAB32LWH5UK
+- SMEG  - FAB32RBE5
+- SMEG  - FAB32RBL5
+- SMEG  - FAB32RBL5UK
+- SMEG  - FAB32RCR5
+- SMEG  - FAB32RCR5UK
+- SMEG  - FAB32RLI5
+- SMEG  - FAB32ROR5
+- SMEG  - FAB32RPB5
+- SMEG  - FAB32RPB5UK
+- SMEG  - FAB32RPG5
+- SMEG  - FAB32RPG5UK
+- SMEG  - FAB32RPK5
+- SMEG  - FAB32RRD5
+- SMEG  - FAB32RRD5UK
+- SMEG  - FAB32RSV5
+- SMEG  - FAB32RWH5
+- SMEG  - FAB32RWH5UK
+- SMEG  - FAB5LBL3
+- SMEG  - FAB5LBL5
+- SMEG  - FAB5LCR3
+- SMEG  - FAB5LCR5
+- SMEG  - FAB5LDUJ3
+- SMEG  - FAB5LDUJ5
+- SMEG  - FAB5LOR3
+- SMEG  - FAB5LOR5
+- SMEG  - FAB5LPB3
+- SMEG  - FAB5LPB5
+- SMEG  - FAB5LPG3
+- SMEG  - FAB5LPG5
+- SMEG  - FAB5LPK3
+- SMEG  - FAB5LPK5
+- SMEG  - FAB5LRD3
+- SMEG  - FAB5LRD5
+- SMEG  - FAB5LSV3
+- SMEG  - FAB5LSV5
+- SMEG  - FAB5LWH3
+- SMEG  - FAB5LWH5
+- SMEG  - FAB5RBL3
+- SMEG  - FAB5RBL5
+- SMEG  - FAB5RCR3
+- SMEG  - FAB5RCR5
+- SMEG  - FAB5RDGO3
+- SMEG  - FAB5RDGO5
+- SMEG  - FAB5RDUJ3
+- SMEG  - FAB5RDUJ5
+- SMEG  - FAB5ROR3
+- SMEG  - FAB5ROR5
+- SMEG  - FAB5RPB3
+- SMEG  - FAB5RPB5
+- SMEG  - FAB5RPG3
+- SMEG  - FAB5RPG5
+- SMEG  - FAB5RPK3
+- SMEG  - FAB5RPK5
+- SMEG  - FAB5RRD3
+- SMEG  - FAB5RRD5
+- SMEG  - FAB5RSV3
+- SMEG  - FAB5RSV5
+- SMEG  - FAB5RWH3
+- SMEG  - FAB5RWH5
+- SMEG  - FC60EN3XL
+- SMEG  - FC70EN3X
+- SMEG  - SBS63XNSG
+- SMEG - FAB10HLBL5
+- SMEG - FAB28RDGME5
+- SMEG - FAB5RDGME5
+- SOLID - 
+- SOLID  - S1DC-160B
+- SOLID  - S1DC-160W
+- SOLID  - S1DC-260B
+- SOLID  - S1DC-260W
+- SOLID  - S1DC-360B
+- SOLID  - S1DC-360W
+- SOLID  - S1DC-480B
+- SOLID  - S1DC-480W
+- SOLID  - S2DC-1200B
+- SOLID  - S2DC-1200W
+- SOLID  - SUCC-1260
+- SOLID  - SUCC-1270
+- SOLID  - SUCC-1560
+- SOLID  - SUCC-1570
+- SOLID  - SUCC-1860
+- SOLID  - SUCC-1870
+- SOLID  - SUCCF-1560
+- SOLID  - SUCCF-1570
+- SOLID  - SUCCF-1860
+- SOLID  - SUCCF-1870
+- SOLID  - SUCF-1260
+- SOLID  - SUCF-1270
+- SOLID  - SUCF-1560
+- SOLID  - SUCF-1570
+- SOLID  - SUCF-1860
+- SOLID  - SUCF-1870
+- SOLID  - SURC-1280
+- SOLID  - SURC-1880
+- SOLID  - SURC-680
+- SOLID  - SURCF-1280
+- SOLID  - SURCF-1880
+- SOLID  - SURF-1280
+- SOLID  - SURF-1880
+- SOLID  - SURF-680
+- SOLID - S1DC-310B
+- SOLID - S1DC-310W
+- SOLID - S1DC-410B
+- SOLID - S1DC-410W
+- SOLID - S1DC-510B
+- SOLID - S1DC-510W
+- SOLID - S1DF-200B
+- SOLID - S1DF-200W
+- SOLID - S1DF-400B
+- SOLID - S1DF-400W
+- SOLID - S1DF-500B
+- SOLID - S1DF-500W
+- SOLID - S2DC-1100B
+- SOLID - S2DC-1100W
+- SOLID - S2DC-800B
+- SOLID - S2DC-800W
+- SOLID - S2DF-1000B
+- SOLID - S2DF-1000W
+- SOLID - S3DC-1700B
+- SOLID - S3DC-1700W
+- SOLID - S3DF-1500B
+- SOLID - S3DF-1500W
+- SOLID COOL  - 
+- SOLID COOL  - SC-260
+- SOLID COOL  - SC-260L
+- SOLID COOL  - SC-2DB
+- SOLID COOL  - SC-2DBB
+- SOLID COOL  - SC-2DT
+- SOLID COOL  - SC-2DTF
+- SOLID COOL  - SC-2DTT
+- SOLID COOL  - SC-2SDBB
+- SOLID COOL  - SC-370
+- SOLID COOL  - SC-370L
+- SOLID COOL  - SC-3DB
+- SOLID COOL  - SC-3DBB
+- SOLID COOL  - SC-3DT
+- SOLID COOL  - SC-3DTF
+- SOLID COOL  - SC-4DT
+- SOLID COOL  - SC-4DTF
+- SOLID COOL  - SC-530
+- SOLID COOL  - SC-530L
+- SOLID COOL  - SCX1200C2
+- SOLID COOL  - SCX1200F2
+- SOLID COOL  - SCX1500C2
+- SOLID COOL  - SCX1500F2
+- SOLID COOL  - SCX1800C3
+- SOLID COOL  - SCX1800F3
+- SOLID COOL  - SCX2DC
+- SOLID COOL  - SCX2DF
+- SOLID COOL  - SCX4DC
+- SOLID COOL  - SCX4DF
+- SOLID COOL  - SCX6DC
+- SOLID COOL  - SCX6DF
+- SOLID COOL  - SXS-500Y
+- SOLID COOL  - SXS-700Y
+- Sub-Zero - ICBBI-36R/S/PH-LH
+- Sub-Zero - ICBBI-36R/S/PH-RH
+- Sub-Zero - ICBBI-36R/S/TH-LH
+- Sub-Zero - ICBBI-36R/S/TH-RH
+- Sub-Zero - ICBIC-24C-LH
+- Sub-Zero - ICBIC-24C-RH
+- Sub-Zero - ICBIC-24R-LH
+- Sub-Zero - ICBIC-24R-RH
+- Sub-Zero - ICBIC-30RID-LH
+- Sub-Zero - ICBIC-30RID-RH
+- Sub-Zero - ICBIC-36RID-LH
+- Sub-Zero - ICBIC-36RID-RH
+- Sub-Zero - ICBID-24RO
+- Sub-Zero - ICBID-30R
+- SunTrump  - KJA-FF1271
+- SunTrump  - KJA-FF771
+- SunTrump  - KJA-FR1271
+- SunTrump  - KJA-FR771
+- Superior  - 12060COMBI
+- Superior  - 12060FRNS
+- Superior  - 12076COMBI
+- Superior  - 12076FRNS
+- Superior  - 15060COMBI
+- Superior  - 15060FRNS
+- Superior  - 15076COMBI
+- Superior  - 15076FRNS
+- Superior  - 18060COMBI
+- Superior  - 18060FRNS
+- Superior  - 18076COMBI
+- Superior  - 18076FRNS
+- Superior  - 1GDCRNS
+- Superior  - 1GDCRNS-S
+- Superior  - 1GDFRNS
+- Superior  - 1GDFRNS-S
+- Superior  - 2DCOMBI
+- Superior  - 2DFRNS
+- Superior  - 2GDCRNS
+- Superior  - 2GDCRNS-SD
+- Superior  - 2GDFRNS
+- Superior  - 3GDCRNS
+- Superior  - 3GDFRNS
+- Superior  - 4DCOMBI
+- Superior  - 4DFRNS
+- Superior  - 9060FRNS
+- Superior  - 9076FRNS
+- Superior  - Flip-100
+- Superior  - Flip-250
+- Superior  - Flip-350
+- Superior  - Flip-600
+- Superior  - SGCF-156
+- Superior  - SGCF-336
+- Superior  - SGCF-396
+- Superior  - SGCF-500
+- Superior  - SGCF-700
+- Tecno  - TFR 1288-V2
+- Tecno  - TFR 330 Retro
+- Tecumseh  - PAC66Z-3L
+- Tecumseh  - PAC66Z-3XL
+- Teka  - TFI3 130 D
+- Toshiba  - GR-AG46SDZ
+- Toshiba  - GR-AG52SDZ
+- Toshiba  - GR-AG55SDZ
+- Toshiba  - GR-AG58SA(GG)
+- Toshiba  - GR-AG58SA(XK)
+- Toshiba  - GR-AG66SA(GG)
+- Toshiba  - GR-AG66SA(PGB)
+- Toshiba  - GR-AG66SA(XK)
+- Toshiba  - GR-RB410WE-PMX(06)
+- Toshiba  - GR-RB410WE-PMX(22)
+- Toshiba  - GR-RB410WE-PMX(30)
+- Toshiba  - GR-RB410WE-PMX(37)
+- Toshiba  - GR-RM631WE-PGX(A6)
+- Toshiba  - GR-RM631WE-PGX(B1)
+- Toshiba  - GR-RT559WE-PMX(06S)
+- Toshiba  - GR-RT559WE-PMX(21S)
+- Toshiba  - GR-RT559WE-PMX(22S)
+- Toshiba  - GR-RT559WE-PMX(37S)
+- Toshiba  - GR-RT559WE-PMX(57S)
+- Toshiba  - GR-RT624WE-PMX(06S)
+- Toshiba  - GR-RT624WE-PMX(21S)
+- Toshiba  - GR-RT624WE-PMX(22S)
+- Toshiba  - GR-RT624WE-PMX(37S)
+- Toshiba  - GR-RT624WE-PMX(57S)
+- Ty Brand  - RTGD-1DC-260-IVTH
+- Ty Brand  - RTGD-1DC-330-IVTH
+- Ty Brand  - RTGD-1DC-IVTH-B
+- Ty Brand  - RTGD-1DC-IVTH-W
+- Ty Brand  - RTGD-2DC-IVTH-B
+- Ty Brand  - RTGD-2DC-IVTH-W
+- Ty Brand  - RTGD-3DC-IVTH-B
+- Ty Brand  - RTGD-3DC-IVTH-W
+- UNICOOL  - LK-1000CC-IV
+- UNICOOL  - LKC2FL4-IV
+- UNICOOL  - LKC2FL5-IV
+- UNICOOL  - LKC2FS4-IV
+- UNICOOL  - LKC2FS5-IV
+- UNICOOL  - LKC3FL6-IV
+- UNICOOL  - LKC3FS6-IV
+- UNICOOL  - LKU2FF-IV
+- UNICOOL  - LKU4FF-IV
+- V-ZUG - CCO4T-51087
+- V-ZUG - CCO6T-51096
+- V-ZUG - CO6T-51098
+- V-ZUG - Jumbo T
+- Whirlpool  - TM500 VCC UI
+- Whirlpool  - TM500 VCC UI BL
+- YUDA  - YD-0217CS-IVTH
+- YUDA  - YD-0217FS-IVTH
+- YUDA  - YD-021CS-IVTH
+- YUDA  - YD-021CS-IVTH-BK
+- YUDA  - YD-021CS-IVTH-BK-FD
+- YUDA  - YD-021FS-IVTH
+- YUDA  - YD-021FS-IVTH-BK
+- YUDA  - YD-021FS-IVTH-BK-FD
+- YUDA  - YD-0224CS-IVTH
+- YUDA  - YD-0224FS-IVTH
+- YUDA  - YD-022CS-IVTH
+- YUDA  - YD-022CS-IVTH-BK
+- YUDA  - YD-022CS-IVTH-BK-FD
+- YUDA  - YD-022FS-IVTH
+- YUDA  - YD-022FS-IVTH-BK
+- YUDA  - YD-022FS-IVTH-BK-FD
+- YUDA  - YD-1GDF-UN-B
+- YUDA  - YD-1GDF-UN-W
+- YUDA  - YD-2GDC-IVT
+- YUDA  - YD-2GDC-UN-B
+- YUDA  - YD-2GDC-UN-W
+- YUDA  - YD-2GDF-IVT
+- YUDA  - YD-2GDF-UN-B
+- YUDA  - YD-2GDF-UN-W
+- YUDA  - YD-315UC-IVTH
+- YUDA  - YD-315UF-IVTH
+- YUDA  - YD-31UC-IVTH
+- YUDA  - YD-31UF-IVTH
+- YUDA  - YD-3GDC-IVT
+- YUDA  - YD-3GDC-UN-B
+- YUDA  - YD-3GDC-UN-W
+- YUDA  - YD-3GDF-IVT
+- YUDA  - YD-3GDF-UN-B
+- YUDA  - YD-3GDF-UN-W
+- YUDA  - YD-425UC-IVTH
+- YUDA  - YD-425UF-IVTH
+- YUDA  - YD-42UC-IVTH
+- YUDA  - YD-42UF-IVTH
+- YUDA  - YD-4DSCG
+- YUDA  - YD-525UC-IVTH
+- YUDA  - YD-525UF-IVTH
+- YUDA  - YD-52UC-IVTH
+- YUDA  - YD-52UF-IVTH
+- YUDA  - YD-580CSL-IVT
+- YUDA  - YD-625UC-IVTH
+- YUDA  - YD-625UF-IVTH
+- YUDA  - YD-62UC-IVTH
+- YUDA  - YD-62UF-IVTH
+- YUDA  - YD-6DSCG
+- YUDA  - YD-6OPC-IVT
+- YUDA  - YD-CF210-LT-IVT
+- YUDA  - YD-CF250LT-CS-100
+- YUDA  - YD-CF300-LT-IVT
+- YUDA  - YD-CF330LT-CS-100
+- YUDA  - YD-CF430LT-CS-100
+- YUDA  - YD-CF500LT-CS-100
+- YUDA  - YD-X50FIF-IVT
+- YUDA  - YD-X63FIF-BG-IVT
+- YUDA  - YD-X63FIF-IVT
+- YUDA  - YD-X65FIF-BG-IVT
+- YUDA  - YD-X70FIF-IVT
+- YUDA  - YD-X80FIF-BG-IVT
+- YUDA  - YD-X80FIF-IVT
+- YUDA - YD-022GDC-BB-IVT
+- YUDA - YD-022GDC-UN-BB-IVT
+- YUDA - YD-023GDC-BB-IVT
+- YUDA - YD-023GDC-UN-BB-IVT
+- YUDA - YD-450F-IVT
+- YUDA - YD-DT05-IVT
+- YUDA - YD-DT06-IVT
+- YUDA - YD-DT07-IVT
+- YUDA - YD-DT08-IVT
+
+
+
+<script src='/jquery/resize-tables.js'></script>

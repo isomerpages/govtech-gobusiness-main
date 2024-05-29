@@ -21,18 +21,14 @@ With a successful brand strategy, your business can enhance the appeal of its pr
 <img style='width:800px; height:auto;' src='/images/ipgrow/ipservices/Branding Strategy.png' aria-hidden='true'>
 <figcaption style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Did you know? Valuable brands tend to evoke various emotions and make us recall certain qualities. For example, these brands may prompt feelings of relaxation or excitement, and be associated with attributes like luxury and comfort.</figcaption>
 
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs branding strategy services?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice" url-new-tab=true text="Go to e-Adviser for IP Service"%}
-
 ---
 
 ### Connect with relevant service providers for branding strategy services
-**36 service providers listed.**
+**38 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
-If you wish to connect with multiple IA/IP service providers, please use the <a href="https://form.gov.sg/650798303f8acf0012c84520" target="_blank" rel="noopener">multi-provider form</a>.
-
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for branding strategy service providers" description="Find suitable service providers based on your industry, countries of interest, and preferences for service providers." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" url-new-tab=true text="Go to e-Adviser for IP Service Provider"%}
+{% include panels-featurelink-ipgrow.html ipTitle="branding strategy" secondTitle="branding strategies" %}
 
 #### Bird & Bird ATMD LLP
 
@@ -49,27 +45,12 @@ Bird & Bird ATMD is a leading full-service Singapore law firm in association wit
 
 ---
 
-#### Marks & Clerk Singapore LLP
-
-Marks & Clerk Singapore LLP is an award-winning firm of Registered Patent and Trade Mark Attorneys.
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> Above 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $350</li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/648a7891d94807001192ec08' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/marks-clerk-singapore-llp/){:target='_blank'}
-
----
-
 #### Prophet
 
 Prophet is a growth and transformation consulting firm dedicated to unlocking uncommon growth.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> Above 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $135,455</li>
@@ -80,12 +61,27 @@ Prophet is a growth and transformation consulting firm dedicated to unlocking un
 
 ---
 
+#### ZYIP Pte Ltd
+
+ZYIP has offices in Singapore and China to assist clients with protection of their IP
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> Above 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/65b1dc067ed92f9250f30b83' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/zyip-pte-ltd/){:target='_blank'}
+
+---
+
 #### LABBRAND
 
 We shape Global Brands, unlock Brand Value, and develop actionable strategies for Brand Experiences.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 41 to 45</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $30,000</li>
@@ -100,7 +96,7 @@ We shape Global Brands, unlock Brand Value, and develop actionable strategies fo
 Superminted is a brand management agency specialised in brand building and activation.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 31 to 35</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $28,000</li>
@@ -125,28 +121,12 @@ We are a specialist IP law firm, established in 2001, providing expert legal adv
 
 ---
 
-#### EverEdge Global
-
-EverEdge provides specialist intangible asset advisory, valuation and corporate finance services.
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 21 to 25</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $5,000</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> EverEdge is a global intangible asset advisory, valuation, and corporate finance specialist. To discuss how to identify, value and monetise your intangible assets, book a free one-hour consultation. </li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/63fc1cb344ce7f0012152941' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/everedge-global/){:target='_blank'}
-
----
-
 #### I Concept
 
 We are an integrated creative agency who works with clients to realise their company's visions.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 21 to 25</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $500</li>
@@ -157,12 +137,44 @@ We are an integrated creative agency who works with clients to realise their com
 
 ---
 
+#### Firefish Branding
+
+Leveraging NUS' research, Brandgrammar<sup>TM</sup>, we provide SMEs a one-stop branding and marketing solution.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 21 to 25</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $41,500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> No-obligations discovery call over Zoom. Or better still, in-person over coffee (on us).</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/64ed5e4dd8368600129020fc' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/firefish-branding/){:target='_blank'}
+
+---
+
+#### EverEdge Global
+
+EverEdge helps companies unlock the value of intangible assets and reduce intangible asset risk.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 16 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $5,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> To discuss how to identify, value and monetise your intangible assets, book a free one-hour consultation. </li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/63fc1cb344ce7f0012152941' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/everedge-global/){:target='_blank'}
+
+---
+
 #### Creativeans
 
 Creativeans is an award-winning design management and branding company.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 16 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $20,000</li>
@@ -177,7 +189,7 @@ Creativeans is an award-winning design management and branding company.
 We inject keen business acumen into communication strategies, deliver successful & bespoke solutions.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 16 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
@@ -192,7 +204,7 @@ We inject keen business acumen into communication strategies, deliver successful
 Strategic branding & design consultancy for start-ups to SMEs to MNCs with 25+ yrs. global experience.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 16 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $15,000</li>
@@ -202,12 +214,27 @@ Strategic branding & design consultancy for start-ups to SMEs to MNCs with 25+ y
 
 ---
 
+#### Marks & Clerk Singapore LLP
+
+Marks & Clerk Singapore LLP is an award-winning firm of Registered Patent and Trade Mark Attorneys.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 11 - 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 11 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/648a7891d94807001192ec08' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/marks-clerk-singapore-llp/){:target='_blank'}
+
+---
+
 #### PHOENIX
 
 "Empowering Brands, Inspiring Results" - Phoenix Design: Transforming brands with impact and results.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 11 to 15</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $18,000</li>
@@ -222,7 +249,7 @@ Strategic branding & design consultancy for start-ups to SMEs to MNCs with 25+ y
 A proven branding agency that can generate results .. guaranteed.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 11 to 15</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $30,000</li>
@@ -238,7 +265,7 @@ A proven branding agency that can generate results .. guaranteed.
 OOm is a one-stop digital marketing company that helps businesses to digitalise.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 11 to 15</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
@@ -253,7 +280,7 @@ OOm is a one-stop digital marketing company that helps businesses to digitalise.
 AKIN delivers insights, go-to-market strategies, brand and digital for end-to-end revenue generation.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 11 to 15</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $12,500</li>
@@ -261,21 +288,6 @@ AKIN delivers insights, go-to-market strategies, brand and digital for end-to-en
 </ul>
 
 <a class='btn' href='https://form.gov.sg/651b88ca94399a0011d39968' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/akin-by-techlyon/){:target='_blank'}
-
----
-
-#### Enso Consultancy
-
-Enso Consultancy boosts from double to triple revenue growth with proven strategies for SMEs online
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 11 to 15</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/65236f4b074ea80012e0a00c' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/enso-consultancy/){:target='_blank'}
 
 ---
 
@@ -306,26 +318,10 @@ Corporate Services
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $30,000</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free 1:1 consultation and problem diagnosis</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free 1-to-1 30-minute Consultation</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/646ecaa15f5cf200110c9575' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/think-sme-pte-ltd/){:target='_blank'}
-
----
-
-#### Crombie Consulting 
-
-The brand famous for making brands famous
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000-$25,000 based on project scope</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> 100% Obligation Free - Project Assessment Workshop - 60 minutes</li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/646ec88fcdcda70012db33e8' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/crombie-consulting/){:target='_blank'}
 
 ---
 
@@ -349,7 +345,7 @@ DCC prides itself on its experience and expertise in providing quality IP servic
 IPI is an innovation catalyst that creates opportunities for enterprises to grow beyond boundaries.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
@@ -364,7 +360,7 @@ IPI is an innovation catalyst that creates opportunities for enterprises to grow
 Katartizo, Singapore's premier digital marketing and creative agency, has served over 30 industries.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $5,000</li>
@@ -375,34 +371,34 @@ Katartizo, Singapore's premier digital marketing and creative agency, has served
 
 ---
 
-#### Firefish Branding
-
-Since 1998, Firefish is an award-winning branding agency and consultancy headquartered in Singapore.
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $20,000</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Get a complimentary consultation</li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/64ed5e4dd8368600129020fc' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/firefish-branding/){:target='_blank'}
-
----
-
 #### Deloitte & Touche Financial Advisory Services Pte Ltd
 
 Deloitte is a leading specialist in Intellectual Property Advisory with a broad spectrum of services.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $801 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $100,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> To be quoted upon review of work required</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/6565ab82991ea30012d09901' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/deloitte-touche-financial-advisory-services-pte-ltd/){:target='_blank'}
+
+---
+
+#### Crombie Consulting 
+
+The brand famous for making brands famous
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> 100% Obligation Free - Project Assessment Workshop - 60 minutes</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/646ec88fcdcda70012db33e8' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/crombie-consulting/){:target='_blank'}
 
 ---
 
@@ -411,7 +407,7 @@ Deloitte is a leading specialist in Intellectual Property Advisory with a broad 
 The firm is specializing in intellectual property, commercial law and dispute resolution.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $500</li>
@@ -422,27 +418,12 @@ The firm is specializing in intellectual property, commercial law and dispute re
 
 ---
 
-#### Harry Elias Partnership LLP
-
-A well-reputed multi-disciplinary law firm in Singapore.
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/6449b8a4ee16a90012572202' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/harry-elias-partnership-llp/){:target='_blank'}
-
----
-
 #### L.E.K. Consulting
 
 A global strategy consultancy helping clients to seize competitive advantage and amplify growth.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $801 to Above $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> No minimum project fee; Depending on project scope and approach, thus team and time needed</li>
@@ -457,7 +438,7 @@ A global strategy consultancy helping clients to seize competitive advantage and
 Nabyula helps fast-growing Professional Services companies establish authority in their niche.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $8,000</li>
@@ -473,7 +454,7 @@ Nabyula helps fast-growing Professional Services companies establish authority i
 Mandate Communications is a full service branding agency established in 1976
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $50,000</li>
@@ -488,7 +469,7 @@ Mandate Communications is a full service branding agency established in 1976
 Crownmercado: A creative powerhouse, innovating dynamic brand strategies in the digital sphere
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $40,000</li>
@@ -519,7 +500,7 @@ Specialized in a wide range of different intellectual property, Exy IP is your g
 Strategic communications agency, providing holistic marketing services.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $40,000</li>
@@ -534,7 +515,7 @@ Strategic communications agency, providing holistic marketing services.
 Versed in Strategy, Creative and Digital, the creative consulting agency helps businesses scale.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $15,000</li>
@@ -549,7 +530,7 @@ Versed in Strategy, Creative and Digital, the creative consulting agency helps b
 Soda+ is a full-service creative design studio focused on crafting meaningful brands+experiences.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $20,000</li>
@@ -580,13 +561,60 @@ JurisAsia LLC provides legal services globally through our exclusive association
 Gateway IP Services is a regional IP boutique which specialises in patents, trademarks, and designs.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $3,000</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/65112062020dec00122360e7' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/gateway-ip-services/){:target='_blank'}
+
+---
+
+#### Finnex Management Consulting
+
+FMC focuses on business & brand strategy, finance management & business matching in Australia, etc.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $100,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Complimentary Initial Consultation (1 hour)</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/65b85de4523cf95b78fcaeed' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/finnex-management-consulting/){:target='_blank'}
+
+---
+
+#### DDD Technology Pte Ltd
+
+DDD provides customers with comprehensive domain name solutions, DDD.com is your domain name manager.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> No minimum project fee; Depending on project scope and approach, thus team and time needed</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free Consultation</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/65d2b7190d9323466cd9c3a8' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ddd-technology-pte-ltd/){:target='_blank'}
+
+---
+
+#### AUGHT
+
+We are a communication design firm.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $4,000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/65d6b7b4cf6e2d15a5920f9e' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/aught/){:target='_blank'}
 
 ---
 

@@ -15,6 +15,10 @@ Our office is located in CBD and we offer a complimentary consultation on all ca
 
 <b>Top focus areas for IA/IP services:</b> Valuation (with IA/IP considerations)
 
+<b>Intellectual property awards received:</b> Best Business Valuation Services Company 2022 (Singapore) ; Best Business Valuation Services Company 2023 (South East Asia) ; 
+Best Business Valuation Services Company 2024 (Singapore)
+
+
 <b>Type of organization:</b> SME
 
 <b>Address in Singapore:</b> #04-01, 6A Shenton Way, Singapore 068815
@@ -35,10 +39,10 @@ Our office is located in CBD and we offer a complimentary consultation on all ca
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Less than $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $7,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $5,500</li>
 </ul>
 
 ---
@@ -82,4 +86,4 @@ Our office is located in CBD and we offer a complimentary consultation on all ca
 <p>
 <a class='btn' href='https://form.gov.sg/64d5eb027c3c4600111e1e8d' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 23 August 2023
+Profile last updated on 24 April 2024

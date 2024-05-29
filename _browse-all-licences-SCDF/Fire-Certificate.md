@@ -10,7 +10,7 @@ Singapore Civil Defence Force (SCDF)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/b8c7ab39-b25f-469c-82dc-37179902a28f" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/firecert" type="primary" %}
 
 <H3>Application Details</H3>
 

@@ -1,8 +1,8 @@
 - banner: <img style="width:410px; height:150px;" src="/images/grow/eventorganisers.jpg">
   title: For event organisers
-  is_new: false
   description: The Guide for Organising Events provides event organisers with tools to navigate the process of organising events in Singapore such as e-Adviser for Events and Events Proposal Box.
   url: /gobiz-guides/guide-for-organising-events/?src=run&grow_licences_fs
+  url-new-tab: true
   text: Go to Guide for Organising Events
 
 - banner: <img style="width:410px; height:150px;" src="/images/grow/puc.jpg">

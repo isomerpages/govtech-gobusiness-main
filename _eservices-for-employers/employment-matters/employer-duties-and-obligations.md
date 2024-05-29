@@ -40,7 +40,7 @@ Learn more about the Employment Act on [Ministry of Manpower's website](https://
 - [Apply for flexible work schedule](https://www.mom.gov.sg/employment-practices/flexible-work-schedule){:target="_blank"}{:rel="noopener"}
   <br>Apply if your company wants to be exempted from Employment Act requirements for overtime, rest day and public holiday pay.
 
-- [Maternity leave self assessment tool](https://aceonline.mom.gov.sg/iaces/emcl/MaternityLeave.aspx){:target="_blank"}{:rel="noopener"}
+- [Maternity leave self assessment tool](https://www.mom.gov.sg/employment-practices/leave/maternity-leave/calculate-maternity-leave){:target="_blank"}{:rel="noopener"}
   <br>Check your entitlement for maternity leave as a self-employed person.
 
 ### e-Services for managing employees

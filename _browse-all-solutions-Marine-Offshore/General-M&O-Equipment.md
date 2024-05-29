@@ -28,43 +28,43 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1474' target='_blank'>Automated Tools Management System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Automtd-Tools-Mgt-sys-Mrn-Offshor' target='_blank'>Automated Tools Management System</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1476' target='_blank'>Probing System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Probng-sys-Mrn-Offshor' target='_blank'>Probing System</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1480' target='_blank'>Robotic arms</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Robotc-rms-Mrn-Offshor' target='_blank'>Robotic arms</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1483' target='_blank'>Autonomous Mobile Robot</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Autonomous-Mobl-Robot-Mrn-Offshor' target='_blank'>Autonomous Mobile Robot</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1486' target='_blank'>Vertical Carousel</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Vrtcl-Crousl-Mrn-Offshor' target='_blank'>Vertical Carousel</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1489' target='_blank'>Laser Geometric Alignment System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Lsr-Gomtrc-Algnmnt-sys-Mrn-Offshor' target='_blank'>Laser Geometric Alignment System</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1490' target='_blank'>Digital Welding Equipment </a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Dgtl-Wldng-Eqt--Mrn-Offshor' target='_blank'>Digital Welding Equipment </a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1493' target='_blank'>Automatic Nut Splitter</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Automtc-Nut-Splttr-Mrn-Offshor' target='_blank'>Automatic Nut Splitter</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1494' target='_blank'>Battery-operated Torque Wrench</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Bttryoprtd-Torqu-Wrnch-Mrn-Offshor' target='_blank'>Battery-operated Torque Wrench</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1496' target='_blank'>Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Hc-Nut-Tnsonng-Hc-Torqung-Wrnch-Mrn-Offshor' target='_blank'>Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench</a><br></td>
 <td></td>
 </tr>
 </table>
