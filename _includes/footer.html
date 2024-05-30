@@ -161,14 +161,7 @@ other than
               functions/external_url.html -%}
               <p><a {{anchor}}>{{- link.title -}}</a></p>
             </li>
-            {%- endif -%} {%- endfor -%} {%- endif -%} {%- if site.data.footer.feedback and
-            site.data.footer.feedback != "" -%}
-            <li>
-              {%- assign url_input = site.data.footer.feedback -%} {%- include
-              functions/external_url.html -%}
-              <p><a {{anchor}}>Feedback</a></p>
-            </li>
-            {%- endif -%} {%- if site.data.footer.show_reach and
+            {%- endif -%} {%- endfor -%} {%- endif -%} {%- if site.data.footer.show_reach and
             site.data.footer.show_reach != "" -%}
             <li>
               {%- assign url_input = "https://www.reach.gov.sg/" -%} {%- include
@@ -202,6 +195,14 @@ other than
             <li>
               <p><a {{anchor}}>Terms of Use</a></p>
             </li>
+            {%- if site.data.footer.feedback and
+              site.data.footer.feedback != "" -%}
+              <li>
+                {%- assign url_input = site.data.footer.feedback -%} {%- include
+                functions/external_url.html -%}
+                <p><a {{anchor}}>Feedback</a></p>
+              </li>
+            {%- endif -%} 
             {%- if
               site.data.footer.faq and site.data.footer.faq != "" -%}
               <li>
