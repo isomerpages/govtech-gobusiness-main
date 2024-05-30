@@ -144,10 +144,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>ALPHABET SIX MARKETING SINGAPORE</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201841781R-Cub3commrc-G' target='_blank'>Cub3commerce</a><br></td>
-<td>DUCB3 PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200908223H-Vrz-Dsgn-Ecommrc-SLNs--G' target='_blank'>Verz Design Ecommerce Solutions </a><br></td>
 <td>Verz Design Pte Ltd</td>
 </tr>
