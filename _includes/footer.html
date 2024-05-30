@@ -161,7 +161,13 @@ other than
               functions/external_url.html -%}
               <p><a {{anchor}}>{{- link.title -}}</a></p>
             </li>
-            {%- endif -%} {%- endfor -%} {%- endif -%} 
+            {%- endif -%} {%- endfor -%} {%- endif -%} {%- if site.data.footer.feedback and
+            site.data.footer.feedback != "" -%}
+            <li>
+              {%- assign url_input = site.data.footer.feedback -%} {%- include
+              functions/external_url.html -%}
+              <p><a {{anchor}}>Feedback</a></p>
+            </li>
             {%- endif -%} {%- if site.data.footer.show_reach and
             site.data.footer.show_reach != "" -%}
             <li>
@@ -196,7 +202,8 @@ other than
             <li>
               <p><a {{anchor}}>Terms of Use</a></p>
             </li>
-            {%- if site.data.footer.faq and site.data.footer.faq != "" -%}
+            {%- if
+              site.data.footer.faq and site.data.footer.faq != "" -%}
               <li>
                 {%- assign url_input = site.data.footer.faq -%} {%- include
                 functions/external_url.html -%}
@@ -210,13 +217,6 @@ other than
                 <p><a {{anchor}}>Contact Us</a></p>
               </li>
               {%- endif -%} 
-              {%- if site.data.footer.feedback and
-                site.data.footer.feedback != "" -%}
-                <li>
-                  {%- assign url_input = site.data.footer.feedback -%} {%- include
-                  functions/external_url.html -%}
-                  <p><a {{anchor}}>Feedback</a></p>
-                </li>
           </ul>
         </div>
         {%- if social -%}
