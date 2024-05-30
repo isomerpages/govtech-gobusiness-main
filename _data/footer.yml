@@ -1,9 +1,9 @@
 show_reach: true
-faq: /faqs/popular/
-contact_us: /contact-us/
 copyright_agency: GoBusiness
 privacy_policy: /privacy/
 terms_of_use: /terms-of-use/
+faq: /faqs/popular/
+contact_us: /contact-us/
 
 navlinks:
   - title: Start a Business
