@@ -163,18 +163,6 @@ other than
             </li>
             {%- endif -%} {%- endfor -%} {%- endif -%} {%- if
             site.data.footer.faq and site.data.footer.faq != "" -%}
-            <li>
-              {%- assign url_input = site.data.footer.faq -%} {%- include
-              functions/external_url.html -%}
-              <p><a {{anchor}}>FAQ</a></p>
-            </li>
-            {%- endif -%} {%- if site.data.footer.contact_us and
-            site.data.footer.contact_us != "" -%}
-            <li>
-              {%- assign url_input = site.data.footer.contact_us -%} {%- include
-              functions/external_url.html -%}
-              <p><a {{anchor}}>Contact Us</a></p>
-            </li>
             {%- endif -%} {%- if site.data.footer.feedback and
             site.data.footer.feedback != "" -%}
             <li>
@@ -215,6 +203,18 @@ other than
             endif -%}
             <li>
               <p><a {{anchor}}>Terms of Use</a></p>
+            </li>
+            <li>
+              {%- assign url_input = site.data.footer.faq -%} {%- include
+              functions/external_url.html -%}
+              <p><a {{anchor}}>FAQ</a></p>
+            </li>
+            {%- endif -%} {%- if site.data.footer.contact_us and
+            site.data.footer.contact_us != "" -%}
+            <li>
+              {%- assign url_input = site.data.footer.contact_us -%} {%- include
+              functions/external_url.html -%}
+              <p><a {{anchor}}>Contact Us</a></p>
             </li>
           </ul>
         </div>
