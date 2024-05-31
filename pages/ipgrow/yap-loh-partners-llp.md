@@ -41,7 +41,7 @@ We want to help your business in the same way. So please reach out to us today!
 **Trade Mark Agent Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 1 to 250</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 0</li>
@@ -78,8 +78,8 @@ We want to help your business in the same way. So please reach out to us today!
 
 **Justin Tan**
 
-- Job Title: Partner
-- Years of Experience: 8 years
+- Job Title: Senior Partner
+- Years of Experience: 9 years
 - Location: Singapore
 - IA/IP-Related Expertise: Trade Mark Agent Service
 - Certifications/Qualifications: Advocate & Solicitor Supreme Court of Singapore, Bachelor of Laws (Honours) National University of Singapore, Master of IP & Innovation Management from Singapore University of Social Sciences, Singapore Certified Management Consultant (Tuv Sud)(TR 43), Certified Patent Valuation Analyst
@@ -89,4 +89,4 @@ We want to help your business in the same way. So please reach out to us today!
 <p>
 <a class='btn' href='https://form.gov.sg/643f50203b2d450011a60640' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 23 August 2023
+Profile last updated on 28 May 2024

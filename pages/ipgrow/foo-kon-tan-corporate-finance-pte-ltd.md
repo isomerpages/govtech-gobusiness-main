@@ -71,7 +71,7 @@ As part of the HLB network, Foo Kon Tan provides tailored solutions to meet busi
 - IA/IP-Related Expertise: Valuation (with IA/IP considerations), Dispute Resolution
 - Certifications/Qualifications: Member, Chartered Valuer and Appraiser (CVA), Institute of Chartered Valuers and Appraisers, Fellow, Institute of Singapore Chartered Accountants, Financial Forensic Professional, ISCA, Fellow, Institute of Chartered Accountants in England & Wales
 - Awards/Accolades: Panel Member, Panel of Financial Experts with Family Justice Courts, The Public Service Medal 2021, Friends of MCCY Award 2017, ISCA Outstanding Practitioner Award in 2016, Friend of the Law Society Award 2004
-- URL of LinkedIn/Company Profile: <a href="https://www.fookontan.com/Team/KON-YIN-TONG" target="_blank" rel="noopener">https://www.fookontan.com/Team/KON-YIN-TONG</a>
+- URL of LinkedIn/Company Profile: <a href="https://www.fookontan.com/cf/kon-yin-tong" target="_blank" rel="noopener">https://www.fookontan.com/cf/kon-yin-tong</a>
 
 **Pei Xuan, Lee**
 
@@ -80,7 +80,7 @@ As part of the HLB network, Foo Kon Tan provides tailored solutions to meet busi
 - Location: Singapore
 - IA/IP-Related Expertise: Valuation (with IA/IP considerations), Dispute Resolution
 - Certifications/Qualifications: Member, Chartered Valuer and Appraiser (CVA), Institute of Chartered Valuers and Appraisers, Member, Certified Practising Accountant (CPA Australia)
-- URL of LinkedIn/Company Profile: <a href="https://www.fookontan.com/Team/LEE-PEI-XUAN" target="_blank" rel="noopener">https://www.fookontan.com/Team/LEE-PEI-XUAN</a>
+- URL of LinkedIn/Company Profile: <a href="https://www.fookontan.com/cf/lee-pei-xuan" target="_blank" rel="noopener">https://www.fookontan.com/cf/lee-pei-xuan</a>
 
 ---
 <p>
