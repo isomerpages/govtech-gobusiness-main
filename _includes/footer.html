@@ -161,28 +161,7 @@ other than
               functions/external_url.html -%}
               <p><a {{anchor}}>{{- link.title -}}</a></p>
             </li>
-            {%- endif -%} {%- endfor -%} {%- endif -%} {%- if
-            site.data.footer.faq and site.data.footer.faq != "" -%}
-            <li>
-              {%- assign url_input = site.data.footer.faq -%} {%- include
-              functions/external_url.html -%}
-              <p><a {{anchor}}>FAQ</a></p>
-            </li>
-            {%- endif -%} {%- if site.data.footer.contact_us and
-            site.data.footer.contact_us != "" -%}
-            <li>
-              {%- assign url_input = site.data.footer.contact_us -%} {%- include
-              functions/external_url.html -%}
-              <p><a {{anchor}}>Contact Us</a></p>
-            </li>
-            {%- endif -%} {%- if site.data.footer.feedback and
-            site.data.footer.feedback != "" -%}
-            <li>
-              {%- assign url_input = site.data.footer.feedback -%} {%- include
-              functions/external_url.html -%}
-              <p><a {{anchor}}>Feedback</a></p>
-            </li>
-            {%- endif -%} {%- if site.data.footer.show_reach and
+            {%- endif -%} {%- endfor -%} {%- endif -%} {%- if site.data.footer.show_reach and
             site.data.footer.show_reach != "" -%}
             <li>
               {%- assign url_input = "https://www.reach.gov.sg/" -%} {%- include
@@ -192,7 +171,7 @@ other than
             {%- endif -%}
             <li>
               <p>
-                <a href="https://www.tech.gov.sg/report_vulnerability/"
+                <a href="https://www.tech.gov.sg/report_vulnerability/" class="hpgCard__link" target="_blank" rel="noopener"
                   >Report Vulnerability</a
                 >
               </p>
@@ -216,6 +195,30 @@ other than
             <li>
               <p><a {{anchor}}>Terms of Use</a></p>
             </li>
+            {%- if site.data.footer.contact_us and
+              site.data.footer.contact_us != "" -%}
+              <li>
+                {%- assign url_input = site.data.footer.contact_us -%} {%- include
+                functions/external_url.html -%}
+                <p><a {{anchor}}>Contact Us</a></p>
+              </li>
+            {%- endif -%} 
+            {%- if site.data.footer.feedback and
+              site.data.footer.feedback != "" -%}
+              <li>
+                {%- assign url_input = site.data.footer.feedback -%} {%- include
+                functions/external_url.html -%}
+                <p><a {{anchor}}>Feedback</a></p>
+              </li>
+            {%- endif -%} 
+            {%- if
+              site.data.footer.faq and site.data.footer.faq != "" -%}
+              <li>
+                {%- assign url_input = site.data.footer.faq -%} {%- include
+                functions/external_url.html -%}
+                <p><a {{anchor}}>FAQ</a></p>
+              </li>
+              {%- endif -%}
           </ul>
         </div>
         {%- if social -%}
@@ -359,16 +362,7 @@ other than
           {%- assign url_input = link.url -%} {%- include
           functions/external_url.html -%}
           <p><a {{anchor}}>{{- link.title -}}</a></p>
-          {%- endif -%} {%- endfor -%} {%- endif -%} {%- if site.data.footer.faq
-          and site.data.footer.faq != "" -%} {%- assign url_input =
-          site.data.footer.faq -%} {%- include functions/external_url.html -%}
-          <p><a {{anchor}}>FAQ</a></p>
-          {%- endif -%} {%- if site.data.footer.contact_us and
-          site.data.footer.contact_us != "" -%} {%- assign url_input =
-          site.data.footer.contact_us -%} {%- include
-          functions/external_url.html -%}
-          <p><a {{anchor}}>Contact Us</a></p>
-          {%- endif -%} {%- if site.data.footer.feedback and
+          {%- endif -%} {%- endfor -%} {%- endif -%} {%- if site.data.footer.feedback and
           site.data.footer.feedback != "" -%} {%- assign url_input =
           site.data.footer.feedback -%} {%- include functions/external_url.html
           -%}
@@ -380,7 +374,8 @@ other than
           <p><a {{anchor}} title="Link to reach.gov.sg">REACH</a></p>
           {%- endif -%}
           <p>
-            <a href="https://www.tech.gov.sg/report_vulnerability/"
+            {%- include functions/external_url.html -%}
+            <a href="https://www.tech.gov.sg/report_vulnerability/" class="hpgCard__link" target="_blank" rel="noopener"
               >Report Vulnerability</a
             >
           </p>
@@ -398,6 +393,16 @@ other than
           url_input = "/terms-of-use/" -%} {%- include
           functions/external_url.html -%} {%- endif -%}
           <p><a {{anchor}}>Terms of Use</a></p>
+          {%- if site.data.footer.faq
+          and site.data.footer.faq != "" -%} {%- assign url_input =
+          site.data.footer.faq -%} {%- include functions/external_url.html -%}
+          <p><a {{anchor}}>FAQ</a></p>
+          {%- endif -%} {%- if site.data.footer.contact_us and
+          site.data.footer.contact_us != "" -%} {%- assign url_input =
+          site.data.footer.contact_us -%} {%- include
+          functions/external_url.html -%}
+          <p><a {{anchor}}>Contact Us</a></p>
+          {%- endif -%} 
         </div>
       </div>
       <div class="row">
