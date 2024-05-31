@@ -11,12 +11,10 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 
 | **Scheduled Date** | **Remarks** |  
 
-| 24 May, 6pm - 8pm<br> 26 May, 9pm - 10pm | **ACRA** will be undergoing scheduled maintenance. **Name reservation application and business registration for Sole Proprietorship/Partnership, and information from ACRA for GoBusiness and Business Grants** will not be available during this period. |      
-| 25 May, 2pm - 27 May, 8am | **Application, amendment, renewal & cancellation of Ministry of Law (MINLAW) licences** will be unavailable during the upcoming scheduled maintenance. | 
-| 23 May, 8pm - 24 May 12am<br> 31 May, 10pm - 1 Jun, 2am | **Progressive Wage (PW) Mark Services** will be unavailable during the upcoming scheduled maintenance. | 
-
-      
-
+     
+| 31 May, 10pm -01 Jun, 6am<br>1 Jun, 10pm - 2 Jun, 6am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. | 
+| 1 Jun, 2pm - 3 Jun, 8am | **Application, amendment, renewal & cancellation of PSMD (MLAW) licences** will be unavailable during the upcoming scheduled maintenance. |
+| 2 Jun, 12am-2am | **Application, amendment, renewal & cancellation of Singapore Police Force (SPF) licences** will be unavailable during the upcoming scheduled maintenance. |
 
 
 <script src="/jquery/jquery.min.js"></script> <script src="/jquery/resize-tables.js"></script>
