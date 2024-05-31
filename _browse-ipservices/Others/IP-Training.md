@@ -122,7 +122,7 @@ Yusarn Audrey LLC is a boutique intellectual property (IP) and corporate commerc
 
 #### Pintas-IPhouse Pte Ltd
 
-?PINTAS: Integrated IP Solutions for ASEAN.
+PINTAS: Integrated IP Solutions for ASEAN.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>

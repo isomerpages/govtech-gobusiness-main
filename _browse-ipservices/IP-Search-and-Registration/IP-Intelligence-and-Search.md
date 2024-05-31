@@ -242,7 +242,7 @@ Baker & McKenzie is one of the largest law firms globally with 74 offices in 45 
 
 #### Pintas-IPhouse Pte Ltd
 
-?PINTAS: Integrated IP Solutions for ASEAN.
+PINTAS: Integrated IP Solutions for ASEAN.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>

@@ -140,7 +140,7 @@ PINTAS is a multi-disciplinary intellectual property boutique firm that provides
 - IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, IP Strategy Consulting, IP Intelligence and Search
 - Certifications/Qualifications: LLM (Cambridge), MBA (INSEAD), EMBA (Tsinghua), Advocate and Solicitor, Supreme Court of Singapore, Registered Patent Malaysia, Trademark, Industrial Design Agent. 
 - Awards/Accolades: IAM Strategy300 Recognition Awards 2023
-- URL of LinkedIn/Company Profile: <a href="https:// pintas-ip.com/our-team-members/#lokchoonhong" target="_blank" rel="noopener">https://pintas-ip.com/our-team-members/#lokchoonhong</a>
+- URL of LinkedIn/Company Profile: <a href="https://pintas-ip.com/our-team-members/#lokchoonhong" target="_blank" rel="noopener">https://pintas-ip.com/our-team-members/#lokchoonhong</a>
 
 **Patrick Chow**
 
@@ -159,7 +159,7 @@ PINTAS is a multi-disciplinary intellectual property boutique firm that provides
 - Years of Experience: 40 years
 - Location: United Kingdom
 - IA/IP-Related Expertise: Patent agent Service, Registered Design Agent Service, Trademark Agent Service, Freedom-to-Operate (FTO), IP Strategy Consulting
-- Certifications/Qualifications: Member of the Litigation Committee of both the Chartered Institute of Patent Attorneys (CIPA) and the European Patent Institute (epi), Unified Patents Court � Authorised Representative, Intellectual Property Regulation Board- Higher Courts Litigation Certificate, Nottingham Trent University � Master of Laws Degree LLM in Intellectual Property Litigation, Chartered Institute of Patent Attorneys � UK and European Patent and Trademark Attorney
+- Certifications/Qualifications: Member of the Litigation Committee of both the Chartered Institute of Patent Attorneys (CIPA) and the European Patent Institute (epi), Unified Patents Court Authorised Representative, Intellectual Property Regulation Board- Higher Courts Litigation Certificate, Nottingham Trent University Master of Laws Degree LLM in Intellectual Property Litigation, Chartered Institute of Patent Attorneys UK and European Patent and Trademark Attorney
 - URL of LinkedIn/Company Profile: <a href="https://pintas-ip.com/our-team-members/#johnhepworth" target="_blank" rel="noopener">https://pintas-ip.com/our-team-members/#johnhepworth</a>  
 
 
@@ -170,7 +170,7 @@ PINTAS is a multi-disciplinary intellectual property boutique firm that provides
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trademark Agent Service, Freedom-to-Operate (FTO), IP Strategy Consulting
 - Certifications/Qualifications: Registered Patent Agent in both Singapore and Malaysia, Bachelor of Engineering (Mechanical) degree from the National University of Singapore
-- URL of LinkedIn/Company Profile: <a href="https:// pintas-ip.com/our-team-members/#tay" target="_blank" rel="noopener">https://pintas-ip.com/our-team-members/#tay</a>
+- URL of LinkedIn/Company Profile: <a href="https://pintas-ip.com/our-team-members/#tay" target="_blank" rel="noopener">https://pintas-ip.com/our-team-members/#tay</a>
 
 
 **Jia Ee Lee**
