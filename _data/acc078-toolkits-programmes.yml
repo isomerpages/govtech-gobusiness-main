@@ -1,7 +1,7 @@
 - accordion:
   letter: a
   data:
-    - title: Adopt technology and digital solutions
+    - title: Adopt Technology to Digitise My Business
       content: |
         **A\*STAR Collaborative Commercialization Marketplace (ACCM)**
         <br>With more than 2000 companies onboard, companies can connect and advance common interests within and beyond their respective industry and markets.
@@ -13,10 +13,30 @@
 
         <a href="https://services2.imda.gov.sg/CTOaaS/" target="_blank" rel="noopener">Find Out More</a>
 
+        **Better Data-driven Business**
+        <br>The Better Data Driven Business (BDDB) programme helps SMEs gain valuable consumer insights, enhance their data analytics capability, and grow their businesses through the responsible use of data. The BDDB programme supports SMEs that are starting to learn to use data to generate insights.
+
+        <a href="https://www.imda.gov.sg/how-we-can-help/better-data-driven-business" target="_blank" rel="noopener">Find Out More</a>
+
         **Digital Leaders Programme**
         <br>The Digital Leaders Programme enables promising, high-potential local companies to become digital leaders by equipping them with digital capabilities and talent to transform their business models and capture new growth opportunities. More details in due course. 
 
         <a href="https://www.imda.gov.sg/digitalleadersprogramme" target="_blank" rel="noopener">Find Out More</a>
+
+        **Data Protection Essentials (DPE)**
+        <br>To support SMEs to adopt DPE one-stop professional service. DPE is designed to help SMEs acquire basic data protection and security practices to protect their customers' personal data and recover quickly in the event of a data breach
+
+        <a href="https://www.imda.gov.sg/how-we-can-help/data-protection-essentials" target="_blank" rel="noopener">Find Out More</a>
+
+        **Heartlands Go Digital**
+        <br>The Heartlands Go Digital initiative provides retail and F&B enterprises in the heartlands with affordable solutions including E-payment and digital commerce to help kickstart their transformation journey. 
+
+        <a href="https://www.enterprisesg.gov.sg/Grow-Your-Business/boost-capabilities/productivity-and-digitalisation/heartlands-go-digital" target="_blank" rel="noopener">Find Out More</a>
+
+        **IMDA Accreditation**
+        <br>This programme supports the growing and nurturing Singapore ICM technology ecosystem. 
+
+        <a href="https://www.imda.gov.sg/disg/programmes/2019/04/accreditation" target="_blank" rel="noopener">Find Out More</a>
 
         **Nationwide E-invoicing Initiative (InvoiceNow)**
         <br>The nationwide E-invoicing network (InvoiceNow) helps businesses improve efficiency, reduce cost, enjoy faster payment and stay green.
@@ -43,6 +63,11 @@
         <br>The SME Digital Tech Hub is a dedicated hub that provides specialist digital technology advisory to SMEs with more advanced digital needs, such as data analytics and cybersecurity.
 
         <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/sme-digital-tech-hub" target="_blank" rel="noopener">Find Out More</a>
+
+        **Tech@SG**
+        <br>Tech@SG aims to help fast-growing companies access the critical talent they need to grow and scale their business in Singapore and the region. The programme is jointly administered by the Singapore Economic Development Board (EDB) and Enterprise Singapore.
+
+        <a href="https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes/tech-sg.html" target="_blank" rel="noopener">Find Out More</a>
 
         **Wireless@Sg (Wireless@Sg for Business)**
         <br>Businesses and venue owners who want to provide free Wi-Fi to their patrons are encouraged to partner operators to extend Wireless@SG service within their premises on commercial arrangements.
@@ -80,10 +105,27 @@
 
         <a href="https://web.smu.edu.sg/spring/" target="_blank" rel="noopener">Find Out More</a>
 
+    - title: Help My Business in Sustainability Journey
+      content: |
+        **SkillsFuture Series**
+        <br>The SkillsFuture Series is a curated list of short, industry-relevant training programmes that focuses on emerging skills in the four economic growth pillars (Digital, Green, Care, and Industry 4.0)
+
+        <a href="/enterprisejobskills/programmes-and-initiatives/upgrade-skills/skillsfuture-series/" target="_blank" rel="noopener">Find Out More</a>
+
+        **Tourism Sustainability Programme**
+        <br>Aims to support tourism businesses' sustainability journeys at all stages of development.
+
+        <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/tsp.html" target="_blank" rel="noopener">Find Out More</a>
+
+        **A*STAR Collaborative Commercialization Marketplace (ACCM)**
+        <br>With more than 2000 companies onboard, companies can connect and advance common interests within and beyond their respective industry and markets.
+
+        <a href="https://www.a-star.edu.sg/Collaborate/Programmes-for-SMEs/A-STAR-Collaborative-Commerce-Marketplace" target="_blank" rel="noopener">Find Out More</a>
+
     - title: Hire, Train, and Upskill Employees
       content: |
         **Career Conversion Programmes <img src="/images/budget2024/budget2024.png" alt="Mentioned during the Budget 2024">**
-        <br>PCPs are career conversion programmes for mid-career PMETs to undergo skills conversion and move into new occupations or sectors that have good prospects and opportunites for progression. 
+        <br>PCPs are career conversion programmes for mid-career PMETs to undergo skills conversion and move into new occupations or sectors that have good prospects and opportunites for progression.
 
         <a href="https://www.wsg.gov.sg/home/employers-industry-partners/workforce-development-job-redesign/career-conversion-programmes-employers" target="_blank" rel="noopener">Find Out More</a>
 
@@ -197,6 +239,11 @@
         <br>A step-by-step guide for local SMEs in the Construction and Facilities Management sector on the digital solutions to adopt and relevant training for your employees at each stage of your growth.
 
         <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/industry-digital-plans/Construction-and-Facilities-Management-IDP" target="_blank" rel="noopener">Find Out More</a>
+
+        **Off-site Levy Scheme for Work Permit Holders**
+        <br>The Off-site Levy Scheme is to support the Built Environment sector's transformation and adoption of more productive technologies such as Design for Manufacturing and Assembly (DfMA).
+
+        <a href="https://www1.bca.gov.sg/buildsg/buildsg-transformation-fund/off-site-levy-scheme" target="_blank" rel="noopener">Find Out More</a>
 
     - title: Education
       content: |
