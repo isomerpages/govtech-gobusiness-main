@@ -54,7 +54,7 @@ From business courses to webinars, build learning paths with your employees cust
 
 Upskilling doesn’t always have to be costly - there are many grants and subsidies available to help defray training expenses! 
 
-The [SkillsFuture Enterprise Credit](https://skillsfuture.gobusiness.gov.sg/support-and-programmes/support-and-programmes/funding/skillsfuture-enterprise-credit-sfec/) scheme is one resource you can turn to to defray the cost of upskilling. With the aim of supporting workforce transformation and enterprise transformation, eligible businesses can claim up to $10,000 for selected programmes by various government agencies, as well as courses aligned to job redesign initiatives and Skills Frameworks by Workforce Singapore. 
+The [SkillsFuture Enterprise Credit](https://skillsfuture.gobusiness.gov.sg/support-and-programmes/funding/skillsfuture-enterprise-credit-sfec/) scheme is one resource you can turn to to defray the cost of upskilling. With the aim of supporting workforce transformation and enterprise transformation, eligible businesses can claim up to $10,000 for selected programmes by various government agencies, as well as courses aligned to job redesign initiatives and Skills Frameworks by Workforce Singapore. 
 
 The [Critical Infocomm Technology Resource Programme PLUS (CITREP+)](https://www.imda.gov.sg/imtalent/programmes/citrep-plus){:target="_blank"}{:rel="noopener"} is yet another resource you can consider. Under this initiative, employees can bolster their ICT skills and enjoy funding support for course and certification fees.   
 
