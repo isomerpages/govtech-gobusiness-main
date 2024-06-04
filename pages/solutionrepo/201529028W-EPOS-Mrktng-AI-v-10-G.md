@@ -23,17 +23,17 @@ EPOS Marketing AI brings innovative loyalty and customer relationship management
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(5 Users)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1 Outlet (Unlimited Users)</td>
 <td style='padding: 10px;'>$8,200.00</td>
-<td style='padding: 10px;'>$5,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOSMarkerting_29022024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$8,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOSMarkerting_02052024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(12 Users)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Multiple Outlets (Unlimited Users)</td>
 <td style='padding: 10px;'>$18,200.00</td>
 <td style='padding: 10px;'>$8,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOSMarkerting_29022024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOSMarkerting_02052024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

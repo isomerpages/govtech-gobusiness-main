@@ -49,7 +49,7 @@ Nexia Solutions Pte Ltd is an affiliate firm of Nexia Singapore PAC. Nexia Singa
 <a name='industry-focus'></a>
 ### Industry focus
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Construction, </li><li style='line-height: 27px; margin: 0px 0px !important'>Education, </li><li style='line-height: 27px; margin: 0px 0px !important'>Electronics, </li><li style='line-height: 27px; margin: 0px 0px !important'>Energy and Chemicals, </li><li style='line-height: 27px; margin: 0px 0px !important'>Financial Services, </li><li style='line-height: 27px; margin: 0px 0px !important'>Food Services, </li><li style='line-height: 27px; margin: 0px 0px !important'>Healthcare, </li><li style='line-height: 27px; margin: 0px 0px !important'>Marine and Offshore, </li><li style='line-height: 27px; margin: 0px 0px !important'>Precision Engineering, </li><li style='line-height: 27px; margin: 0px 0px !important'>Retail, </li><li style='line-height: 27px; margin: 0px 0px !important'>Wholesale Trade</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Construction</li><li style='line-height: 27px; margin: 0px 0px !important'>Education </li><li style='line-height: 27px; margin: 0px 0px !important'>Electronics </li><li style='line-height: 27px; margin: 0px 0px !important'>Energy and Chemicals </li><li style='line-height: 27px; margin: 0px 0px !important'>Financial Services </li><li style='line-height: 27px; margin: 0px 0px !important'>Food Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Healthcare </li><li style='line-height: 27px; margin: 0px 0px !important'>Marine and Offshore </li><li style='line-height: 27px; margin: 0px 0px !important'>Precision Engineering</li><li style='line-height: 27px; margin: 0px 0px !important'>Retail</li><li style='line-height: 27px; margin: 0px 0px !important'>Wholesale Trade</li></ul>
 
 ---
 <a name='office-locations'></a>
@@ -91,4 +91,4 @@ Nexia Solutions Pte Ltd is an affiliate firm of Nexia Singapore PAC. Nexia Singa
 <p>
 <a class='btn' href='https://form.gov.sg/650bb6434284830013f329a3' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 26 September 2023
+Profile last updated on 11 April 2024

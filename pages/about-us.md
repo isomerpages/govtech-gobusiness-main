@@ -15,10 +15,6 @@ Here's what you can do with GoBusiness:
 
 We are continuing to upgrade GoBusiness with more services to better support your business.
 
-### Partnerships and collaborations
-
-For organisations interested in working with GoBusiness to help businesses set up and operate, please [contact us](https://go.gov.sg/gobizcollab){:target="_blank"}{:rel="noopener"} with your proposal.
-
 ### Government e-Services for citizens
 
 GoBusiness connects you to Government e-Services and resources for businesses.

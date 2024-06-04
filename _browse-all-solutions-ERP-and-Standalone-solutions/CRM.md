@@ -32,10 +32,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>CalendarOne Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201330180E-Ebr-Loylty-Mrktng-Pltform--G' target='_blank'>Eber Loyalty Marketing Platform </a><br></td>
-<td>Eber Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201403211Z-QuckDsk-Mrktng-G' target='_blank'>QuickDesk Marketing</a><br></td>
 <td>QuickDesk Pte. Ltd.</td>
 </tr>
@@ -74,6 +70,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201718654M-CARDDIO-v-1-G' target='_blank'>CARDDIO Version 1</a><br></td>
 <td>Carddio Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201108056G-Zoho-CRM-G' target='_blank'>Zoho CRM</a><br></td>
+<td>Zoho Corporation Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201223262D-MEYZER360-CRM-v-2023-G' target='_blank'>MEYZER360 CRM Version 2023</a><br></td>
+<td>MEYZER BUSINESS ADVISORY PTE. LTD.</td>
 </tr>
 </table>
 

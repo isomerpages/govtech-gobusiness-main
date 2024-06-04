@@ -43,7 +43,7 @@ As part of the HLB network, Foo Kon Tan provides tailored solutions to meet busi
 <a name='industry-focus'></a>
 ### Industry focus
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Construction, </li><li style='line-height: 27px; margin: 0px 0px !important'>Education, </li><li style='line-height: 27px; margin: 0px 0px !important'>Financial Services, </li><li style='line-height: 27px; margin: 0px 0px !important'>Food Manufacturing, </li><li style='line-height: 27px; margin: 0px 0px !important'>Food Services, </li><li style='line-height: 27px; margin: 0px 0px !important'>Healthcare, </li><li style='line-height: 27px; margin: 0px 0px !important'>ICT and Media, </li><li style='line-height: 27px; margin: 0px 0px !important'>Professional Services, </li><li style='line-height: 27px; margin: 0px 0px !important'>Retail, </li><li style='line-height: 27px; margin: 0px 0px !important'>Wholesale Trade</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Construction</li><li style='line-height: 27px; margin: 0px 0px !important'>Education</li><li style='line-height: 27px; margin: 0px 0px !important'>Financial Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Food Manufacturing</li><li style='line-height: 27px; margin: 0px 0px !important'>Food Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Healthcare</li><li style='line-height: 27px; margin: 0px 0px !important'>ICT and Media</li><li style='line-height: 27px; margin: 0px 0px !important'>Professional Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Retail</li><li style='line-height: 27px; margin: 0px 0px !important'>Wholesale Trade</li></ul>
 
 ---
 <a name='office-locations'></a>
@@ -71,7 +71,7 @@ As part of the HLB network, Foo Kon Tan provides tailored solutions to meet busi
 - IA/IP-Related Expertise: Valuation (with IA/IP considerations), Dispute Resolution
 - Certifications/Qualifications: Member, Chartered Valuer and Appraiser (CVA), Institute of Chartered Valuers and Appraisers, Fellow, Institute of Singapore Chartered Accountants, Financial Forensic Professional, ISCA, Fellow, Institute of Chartered Accountants in England & Wales
 - Awards/Accolades: Panel Member, Panel of Financial Experts with Family Justice Courts, The Public Service Medal 2021, Friends of MCCY Award 2017, ISCA Outstanding Practitioner Award in 2016, Friend of the Law Society Award 2004
-- URL of LinkedIn/Company Profile: <a href="https://www.fookontan.com/Team/KON-YIN-TONG" target="_blank" rel="noopener">https://www.fookontan.com/Team/KON-YIN-TONG</a>
+- URL of LinkedIn/Company Profile: <a href="https://www.fookontan.com/cf/kon-yin-tong" target="_blank" rel="noopener">https://www.fookontan.com/cf/kon-yin-tong</a>
 
 **Pei Xuan, Lee**
 
@@ -80,10 +80,10 @@ As part of the HLB network, Foo Kon Tan provides tailored solutions to meet busi
 - Location: Singapore
 - IA/IP-Related Expertise: Valuation (with IA/IP considerations), Dispute Resolution
 - Certifications/Qualifications: Member, Chartered Valuer and Appraiser (CVA), Institute of Chartered Valuers and Appraisers, Member, Certified Practising Accountant (CPA Australia)
-- URL of LinkedIn/Company Profile: <a href="https://www.fookontan.com/Team/LEE-PEI-XUAN" target="_blank" rel="noopener">https://www.fookontan.com/Team/LEE-PEI-XUAN</a>
+- URL of LinkedIn/Company Profile: <a href="https://www.fookontan.com/cf/lee-pei-xuan" target="_blank" rel="noopener">https://www.fookontan.com/cf/lee-pei-xuan</a>
 
 ---
 <p>
 <a class='btn' href='https://form.gov.sg/64fea1c41d658d00128f3e12' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 26 September 2023
+Profile last updated on 11 April 2024

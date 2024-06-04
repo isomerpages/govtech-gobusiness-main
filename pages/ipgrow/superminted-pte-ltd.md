@@ -73,4 +73,4 @@ Superminted is an end-to-end brand management agency specialising in brand build
 <p>
 <a class='btn' href='https://form.gov.sg/649bd9c135b1520011bf08b6' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 26 July 2023
+Profile last updated on 11 April 2024

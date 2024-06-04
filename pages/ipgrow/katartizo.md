@@ -57,7 +57,7 @@ Having served over 30 industries and hundreds of brands, Katartizo's specialists
 <a name='industry-focus'></a>
 ### Industry focus
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Education, </li><li style='line-height: 27px; margin: 0px 0px !important'>Electronics, </li><li style='line-height: 27px; margin: 0px 0px !important'>Financial Services, </li><li style='line-height: 27px; margin: 0px 0px !important'>Food Services, </li><li style='line-height: 27px; margin: 0px 0px !important'>Healthcare, </li><li style='line-height: 27px; margin: 0px 0px !important'>Hotel, </li><li style='line-height: 27px; margin: 0px 0px !important'>ICT and Media, </li><li style='line-height: 27px; margin: 0px 0px !important'>Logistics, </li><li style='line-height: 27px; margin: 0px 0px !important'>Professional Services, </li><li style='line-height: 27px; margin: 0px 0px !important'>Real Estate, </li><li style='line-height: 27px; margin: 0px 0px !important'>Retail</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Education</li><li style='line-height: 27px; margin: 0px 0px !important'>Electronics</li><li style='line-height: 27px; margin: 0px 0px !important'>Financial Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Food Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Healthcare </li><li style='line-height: 27px; margin: 0px 0px !important'>Hotel</li><li style='line-height: 27px; margin: 0px 0px !important'>ICT and Media </li><li style='line-height: 27px; margin: 0px 0px !important'>Logistics</li><li style='line-height: 27px; margin: 0px 0px !important'>Professional Services </li><li style='line-height: 27px; margin: 0px 0px !important'>Real Estate </li><li style='line-height: 27px; margin: 0px 0px !important'>Retail</li></ul>
 
 ---
 <a name='office-locations'></a>
@@ -90,4 +90,4 @@ Having served over 30 industries and hundreds of brands, Katartizo's specialists
 <p>
 <a class='btn' href='https://form.gov.sg/64fad3758b89590011503dec' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 26 September 2023
+Profile last updated on 11 April 2024

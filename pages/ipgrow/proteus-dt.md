@@ -39,7 +39,7 @@ At PROTEUS-DT, we help businesses search for transformative digital solutions. O
 <a name='industry-focus'></a>
 ### Industry focus
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Construction,</li><li style='line-height: 27px; margin: 0px 0px !important'>Education,</li><li style='line-height: 27px; margin: 0px 0px !important'>Land Transport,</li><li style='line-height: 27px; margin: 0px 0px !important'>Logistics,</li><li style='line-height: 27px; margin: 0px 0px !important'>Real Estate,</li><li style='line-height: 27px; margin: 0px 0px !important'>Retail,</li><li style='line-height: 27px; margin: 0px 0px !important'>Wholesale Trade</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Construction</li><li style='line-height: 27px; margin: 0px 0px !important'>Education</li><li style='line-height: 27px; margin: 0px 0px !important'>Land Transport</li><li style='line-height: 27px; margin: 0px 0px !important'>Logistics</li><li style='line-height: 27px; margin: 0px 0px !important'>Real Estate</li><li style='line-height: 27px; margin: 0px 0px !important'>Retail</li><li style='line-height: 27px; margin: 0px 0px !important'>Wholesale Trade</li></ul>
 
 ---
 <a name='office-locations'></a>
@@ -82,4 +82,4 @@ At PROTEUS-DT, we help businesses search for transformative digital solutions. O
 <p>
 <a class='btn' href='https://form.gov.sg/652399f98969da0012503f60' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 25 October 2023
+Profile last updated on 11 April 2024

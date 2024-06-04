@@ -70,10 +70,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Everyday Corporate Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202008850Z-FdCorp-Xro-ACC-Softwr-G' target='_blank'>FidCorp Xero Accounting Software</a><br></td>
-<td>FidCorp Services Private Limited</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201836351D-AUTOCOUNT-ACC-SOFTWARE-v-2-G' target='_blank'>AUTOCOUNT ACCOUNTING SOFTWARE Version 2</a><br></td>
 <td>I SOFT BUSINESS SOLUTIONS PTE LTD</td>
 </tr>
@@ -90,20 +86,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>NORTH TRUST PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201705995K-Psoft-ACC-Systms-v-7-G' target='_blank'>Psoft Accounting Systems Version 7</a><br></td>
-<td>Psoft Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201408289W-Xro-G' target='_blank'>Xero</a><br></td>
-<td>RDC CORPORATE PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201809937E-Tsch-Globl-Xro-ACC-G' target='_blank'>Tisch Global - Xero Accounting</a><br></td>
 <td>Tisch Global Private Limited</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200311122E-TNB-Intut-Quckbooks-Onln-G' target='_blank'>TNB Intuit Quickbooks Online</a><br></td>
-<td>TNB GLOBAL OUTSOURCE PTE LTD</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200601747E-EZ-ACC-nd-Invntory-Softwr-G' target='_blank'>EZ Accounting and Inventory Software</a><br></td>
@@ -112,14 +96,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201334715D-XERO-CLOUD-ACC-SOFTWARE-G' target='_blank'>XERO CLOUD ACCOUNTING SOFTWARE</a><br></td>
 <td>W.L.P PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201810991G-Counto-DIY-v-1-G' target='_blank'>Counto DIY Version 1</a><br></td>
-<td>Xion.AI Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202111829G-Quckbook-Onln-G' target='_blank'>Quickbook Online</a><br></td>
-<td>IRIS CORPORATE SERVICES PTE. LTD.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201130282N-Xro-Cloud-ACC-SLNs-G' target='_blank'>Xero Cloud Accounting Solutions</a><br></td>
@@ -190,10 +166,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Agere Accounting & Advisory Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201525687E-CFOSg-QuckBooks-Cloud-ACC-G' target='_blank'>CFOSg QuickBooks Cloud Accounting</a><br></td>
-<td>Cloud Accounting & Consultancy Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201828446N-Hrvst-ACC-Xro-G' target='_blank'>Harvest Accounting - Xero</a><br></td>
 <td>Harvest Accounting Pte. Ltd.</td>
 </tr>
@@ -224,6 +196,34 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200200017N-Autocount-ACC-v-2-G' target='_blank'>Autocount Accounting Version 2</a><br></td>
 <td>Creative E-World Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200311122E-TNB-Intut-Quckbooks-Onln-G' target='_blank'>TNB Intuit Quickbooks Online</a><br></td>
+<td>TNB GLOBAL OUTSOURCE PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201525687E-CFOSg-QuckBooks-Cloud-ACC-G' target='_blank'>CFOSg QuickBooks Cloud Accounting</a><br></td>
+<td>Cloud Accounting & Consultancy Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200804595N-Xro-Cloud-ACC-Softwr-G' target='_blank'>Xero Cloud Accounting Software</a><br></td>
+<td>361 Degree Consultancy Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202008850Z-FdCorp-Xro-ACC-Softwr-G' target='_blank'>FidCorp Xero Accounting Software</a><br></td>
+<td>FidCorp Services Private Limited</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200914556R-Fnnco-Cloud-ACC-Softwr-G' target='_blank'>Financio Cloud Accounting Software</a><br></td>
+<td>Asian Business Software Solutions Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200504354M-MFP-Xro-ACC-Softwr-G' target='_blank'>MFP: Xero Accounting Software</a><br></td>
+<td>MFP Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201408289W-Xro-G' target='_blank'>Xero</a><br></td>
+<td>RDC CORPORATE PTE LTD</td>
 </tr>
 </table>
 

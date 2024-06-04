@@ -34,20 +34,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200208117Z-MuRho-Invntory-MGT-&-Sls-MGT-Systm-G' target='_blank'>MuRho Inventory Management & Sales Management System</a><br></td>
-<td>MuRho Pte Ltd </td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200910491M-Xntsys-Sls-nd-Invntory-MGT-SLN-G' target='_blank'>Xintesys Sales and Inventory Management Solution</a><br></td>
 <td>Xintesys Consultancy Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201206718K-ZETTAPPS-Invntory-&-Ordr-Procssng-G' target='_blank'>ZETTAPPS Inventory & Order Processing</a><br></td>
 <td>Zetta Solution Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201925817Z-Dskr-ERP-v-10-G' target='_blank'>Deskera ERP Version 10</a><br></td>
-<td>SF TECHNOLOGIES PTE. LTD.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200208117Z-MuRho-Invntory-MGT-nd-Sls-MGT-Systm-G' target='_blank'>MuRho Inventory Management and Sales Management System</a><br></td>
