@@ -132,7 +132,7 @@
 - title: Ministry of Manpower (MOM)
   description: Contact Centre
   tel: +65 6438 5122
-  url: service2.mom.gov.sg/efeedback/Forms/eFeedback.aspx
+  url: https://www.mom.gov.sg/contact-us/feedback-and-enquiries
   url-new-tab: true
   protocol: https
 
