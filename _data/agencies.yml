@@ -102,9 +102,10 @@
   protocol: https
 
 - title: Land Transport Authority (LTA)
-  description: Customer Service
-  tel: 1800 2255 582
-  email: LTA_L1@lta.gov.sg, lta_bus_licence@lta.gov.sg
+  description: Online Contact Form
+  url: www.lta.gov.sg/content/ltagov/en/contact_us/contact_form.html
+  url-new-tab: true
+  protocol: https
 
 - title: Ministry of Culture, Community and Youth (MCCY)
   description: Customer Service
@@ -131,7 +132,7 @@
 - title: Ministry of Manpower (MOM)
   description: Contact Centre
   tel: +65 6438 5122
-  url: service2.mom.gov.sg/efeedback/Forms/eFeedback.aspx
+  url: https://www.mom.gov.sg/contact-us/feedback-and-enquiries
   url-new-tab: true
   protocol: https
 

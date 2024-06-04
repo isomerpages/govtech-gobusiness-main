@@ -80,4 +80,4 @@ We have had experience in valuing patents in relation to technology and platform
 <p>
 <a class='btn' href='https://form.gov.sg/6513ce02020dec00126e08c8' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 25 October 2023
+Profile last updated on 8 May 2024

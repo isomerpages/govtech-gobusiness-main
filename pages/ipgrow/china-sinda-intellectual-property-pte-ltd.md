@@ -5,21 +5,21 @@ permalink: /intellectual-property/ip-grow/china-sinda-intellectual-property-pte-
 
 ## China Sinda Intellectual Property Pte. Ltd.
 
-Established in 1995, China Sinda Intellectual Property Limited is one of the largest and full-service intellectual property (IP) agency firms in China.
+Established in 2014, the Singapore office of China Sinda Intellectual Property is dedicated to excellence in Intellectual Property (IP) services. Our close-knit team includes six Singapore-qualified patent attorneys with deep expertise in a variety of fields, e.g., Engineering and Sciences, Artificial Intelligence and Machine Learning, ICT, Integrated Circuit Devices, Semiconductors, Optics & Photonics, Chemistry, and Materials Science.
 
-We have qualified Singapore and China patent attorneys to better serve clients from Singapore, China and other countries.
-
-We provide professional services to international and domestic clients on all aspects in IP field including patent drafting of patent specification, filing and prosecution of patents and trademarks, enforcement of patents, trademarks and copyrights in China, IP portfolio management, FTO opinion, patent landscape and comprehensive patent analysis / corporate patenting strategy advice.
+We offer a comprehensive suite of services tailored for both international and domestic clientele, encompassing all aspects of IP management. This includes patent portfolio management, prior art searches and the drafting and filing of patent specifications, to the prosecution of patents in Singapore and abroad. We assist clients with their Trademark and Registered Design portfolios, and we provide strategic global IP filing advice to safeguard and maximize the value of our clients' innovations.
 
 <b>Year established in Singapore:</b> 2014
 
-<b>Top focus areas for IA/IP services:</b> Patent Agent Service, IP Database, IP Intelligence and Search, IP Due Diligence, IP Portfolio Management
+<b>Top focus areas for IA/IP services:</b> Patent Agent Service, Registered Design Agent Service, IP Intelligence and Search, IP Due Diligence, IP Portfolio Management
 
 <b>Type of organization:</b> SME
 
-<b>Address in Singapore:</b> 133 Cecil Street, Keck Seng Tower, #12-01A, Singapore 069535
+<b>Address in Singapore:</b> 47 Scotts Road #13-03 Goldbell Towers, Singapore 228233
 
 <b>Website:</b> <a href='https://www.chinasinda.sg/'>https://www.chinasinda.sg/</a>
+
+<b>Offer:</b> First consultation is free for local start-ups and SMEs upon request.
 
 <a class='btn' href='https://form.gov.sg/6490fe43ac885100110f899f' target='_blank' rel='noopener'>Get in touch</a>
 
@@ -29,26 +29,6 @@ We provide professional services to international and domestic clients on all as
 <a name='ip-related-service-areas'></a>
 ### IA/IP service areas
 
-**Freedom-to-Operate Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 26 to 30</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 6 to 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: Above 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $600 hourly rate</li>
-</ul>
-
-**IP Database Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of users on database in previous calendar year: 1 to 500</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 6 to 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $600 hourly rate</li>
-</ul>
-
 **IP Due Diligence Services**
 
 <ul>
@@ -57,6 +37,16 @@ We provide professional services to international and domestic clients on all as
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $600 hourly rate</li>
+</ul>
+
+**IP Intelligence and Search Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 50</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts in Singapore: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts overseas: 21 to 40</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  Negotiable</li>
 </ul>
 
 **IP Portfolio Management Services**
@@ -89,16 +79,6 @@ We provide professional services to international and domestic clients on all as
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $600 hourly rate</li>
 </ul>
 
-**Trade Mark Agent Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 1 to 250</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 11 to 20</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $600 hourly rate</li>
-</ul>
-
 ---
 <a name='industry-focus'></a>
 ### Industry focus
@@ -119,10 +99,6 @@ We provide professional services to international and domestic clients on all as
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 60%</li><li style='line-height: 27px; margin: 0px 0px !important'>United States - 20%</li><li style='line-height: 27px; margin: 0px 0px !important'>Japan - 10%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Others - 10%</li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Small and medium-sized enterprises - 70%</li><li style='line-height: 27px; margin: 0px 0px !important'>Large enterprises - 10%</li><li style='line-height: 27px; margin: 0px 0px !important'>Government - 20%</li></ul>
-
 ---
 <a name='key-practice-experts'></a>
 ### Key practice experts
@@ -132,66 +108,13 @@ We provide professional services to international and domestic clients on all as
 - Job Title: Managing Director & Patent Attorney
 - Years of Experience: 20+ years
 - Location: Singapore
-- IA/IP-Related Expertise: Freedom-to-Operate (FTO), IP Database, IP Due Diligence, IP Portfolio Management
+- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, IP Intelligence and Search, IP Due Diligence, IP Portfolio Management
 - Certifications/Qualifications: Registered Singapore Patent Agent (Qualified since 2006), China Patent Agent (Qualified since 1993), Graduate Certificate in Intellectual Property Law at National University of Singapore, M. Eng. Nanyang Technological University, B. Eng. Mechanical Engineering at Tsinghua University
-- URL of LinkedIn/Company Profile: <a href="https://www.chinasinda.sg/" target="_blank" rel="noopener">https://www.chinasinda.sg/</a>
+- URL of LinkedIn/Company Profile: <a href="https://www.chinasinda.sg/team/" target="_blank" rel="noopener">https://www.chinasinda.sg/team/</a>
 
-**Shin Yuan, Tan**
-
-- Job Title: Deputy Managing Director & Patent Attorney
-- Years of Experience: 20+ years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search, IP Due Diligence, IP Portfolio Management
-- Certifications/Qualifications: Registered Singapore Registered Singapore Patent Agent (Qualified since 2003)ore Patent Agent (Qualified since 2003), LLM in Intellectual Property Law at University of Edinburgh, Graduate Certificate in Intellectual Property Law at National University of Singapore, B. Eng. Mechanical Engineering at National University of Singapore
-- URL of LinkedIn/Company Profile: <a href="https://www.chinasinda.sg/" target="_blank" rel="noopener">https://www.chinasinda.sg/</a>
-
-**Ai Luang, Chng**
-
-- Job Title: Director & Patent Attorney
-- Years of Experience: 20+ years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search, IP Due Diligence, IP Portfolio Management
-- Certifications/Qualifications: Registered Singapore Patent Agent (Qualified since 2011), B. Sc (Chemistry) at National University of Singapore
-- URL of LinkedIn/Company Profile: <a href="https://www.chinasinda.sg/" target="_blank" rel="noopener">https://www.chinasinda.sg/</a>
-
-**Hiang Teik, Tan**
-
-- Job Title: Director & Patent Attorney
-- Years of Experience: 15+ years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search, IP Due Diligence, IP Portfolio Management
-- Certifications/Qualifications: Registered Singapore Patent Agent (Qualified since 2014), PhD. in Electronic and Electrical Engineering at University of Leeds, B. Eng, Electronic and Electrical Engineering at University of Leeds
-- URL of LinkedIn/Company Profile: <a href="https://www.chinasinda.sg/" target="_blank" rel="noopener">https://www.chinasinda.sg/</a>
-
-**Kian Chiew, Seow**
-
-- Job Title: Of Counsel
-- Years of Experience: 15+ years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search, IP Due Diligence, IP Portfolio Management
-- Certifications/Qualifications: Registered Singapore Patent Agent (Qualified since 2014), M. Eng in Materials Science and Engineering at Massachusetts Institute of Technology (MIT), B. Eng. in Electrical Engineering at National University of Singapore
-- URL of LinkedIn/Company Profile: <a href="https://www.chinasinda.sg/" target="_blank" rel="noopener">https://www.chinasinda.sg/</a>
-
-**Wen Chin, Koh**
-
-- Job Title: Of Counsel
-- Years of Experience: 15+ years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search, IP Due Diligence, IP Portfolio Management
-- Certifications/Qualifications: Singapore Patent Agent (Qualified since 2015), Australia & New Zealand Patent Agent, Master of Industrial Property at University of Technology Sydney Australia, B. Eng. in Electrical & Electronic Engineering at University of Western Australia, B. Sci. in Computer Science at University of Western Australia
-- URL of LinkedIn/Company Profile: <a href="https://www.chinasinda.sg/" target="_blank" rel="noopener">https://www.chinasinda.sg/</a>
-
-**Wei Hsuan, Huang**
-
-- Job Title: Patent Attorney
-- Years of Experience: 7+ years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search, IP Due Diligence, IP Portfolio Management
-- Certifications/Qualifications: Registered Singapore Patent Agent (Qualified since 2021), PhD. in Mechanical / Biomedical Engineering at National University of Singapore, B. Eng. in Mechanical Engineering at National University of Singapore
-- URL of LinkedIn/Company Profile: <a href="https://www.chinasinda.sg/" target="_blank" rel="noopener">https://www.chinasinda.sg/</a>
 
 ---
 <p>
 <a class='btn' href='https://form.gov.sg/6490fe43ac885100110f899f' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 26 July 2023
+Profile last updated on 28 May 2024
