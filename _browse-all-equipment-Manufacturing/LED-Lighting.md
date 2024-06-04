@@ -21,8 +21,6 @@ Up to 70% for SMEs, 30% for non-SMEs
 
 ### Pre-Approved Equipment Brands and Models
 
-- BG34-018W/4KKT84FH
-- ST8A-0.6M 7.3W-865-EM
 - Beacon LED Lighting - A60E27N6-D
 - Beacon LED Lighting - A60E27N6-W
 - Beacon LED Lighting - C35E14N4-D
@@ -53,6 +51,7 @@ Up to 70% for SMEs, 30% for non-SMEs
 - Beacon LED Lighting - T8Y18NL05-W
 - Brite - BG23-018W/4KKT84FF
 - Brite - BG23-018W/6KKT84FF
+- Brite - BG34-018W/4KKT84FH
 - Brite - BG34-018W/6KKT84FH
 - BRITZ - LEDT8-24W4F
 - BRITZ - LEDT8-30W4F
@@ -126,6 +125,8 @@ Up to 70% for SMEs, 30% for non-SMEs
 - IKEA - LED2123S1
 - IKEA - LED2202G3K6
 - IKEA - LED2203G6K6
+- IKEA - LED2308C2
+- IKEA - LED2309G2
 - iLumston - WN-CL06-30W
 - iLumston - WN-CL06-30W-WW
 - iLumston - WN-CL06-45W-CW
@@ -178,6 +179,8 @@ Up to 70% for SMEs, 30% for non-SMEs
 - Megaman - YTT8A3-16W-S-6500K
 - Megaman - YTT8A3-8W-S
 - Megaman - YTT8AA4-15W-S-3000K
+- Megaman - YTT8AA4-15W-S-4000K
+- Megaman - YTT8AA4-15W-S-6500K
 - Megaman - YTT8AA4-7.5W
 - MIKA - T8-1200-GL-24W
 - MIKA - T8-1200-GL-32W
@@ -227,6 +230,7 @@ Up to 70% for SMEs, 30% for non-SMEs
 - Osram - LEDVALUE STICK 12W/840 (LL-15000h)
 - Osram - LEDVALUE STICK 12W/865 (LL-15000h)
 - Osram - ST8A-0.6M 7.3W-840-EM
+- Osram - ST8A-0.6M 7.3W-865-EM
 - Osram - ST8A-0.6M 7.5W/830
 - Osram - ST8A-0.6M 7.5W/840
 - Osram - ST8A-0.6M 7.5W/865
@@ -286,6 +290,7 @@ Up to 70% for SMEs, 30% for non-SMEs
 - Philips - 8718696687567
 - Philips - 8718696687581
 - Philips - 8718696687963
+- Philips - 8718696687987
 - Philips - 8718696688007
 - Philips - 8718696688021
 - Philips - 8718696688045
@@ -358,6 +363,8 @@ Up to 70% for SMEs, 30% for non-SMEs
 - Philips - 8718699717506
 - Philips - 8718699765194
 - Philips - 8718699765217
+- Philips - 8718699765231
+- Philips - 8718699765255
 - Philips - 8718699780791
 - Philips - 8718699783433
 - Philips - 8718699783457
@@ -391,11 +398,14 @@ Up to 70% for SMEs, 30% for non-SMEs
 - Philips - 8719514333635
 - Philips - 8719514333697
 - Philips - 8719514350687
+- Philips - 8719514350687 Updated
 - Philips - 8719514350700
 - Philips - 8719514350724
+- Philips - 8719514350724 Updated
 - Philips - 8719514350748
 - Philips - 8719514350762
 - Philips - 8719514350786
+- Philips - 8719514350786 Updated
 - Philips - 8719514377172
 - Philips - 8719514377295
 - Philips - 8719514377417
@@ -434,6 +444,10 @@ Up to 70% for SMEs, 30% for non-SMEs
 - Philips - 8720169238149 Updated
 - Philips - 8720169277083
 - Philips - 8720169277120
+- Philips - 8720169296442 LED PLC 6.9W 840 G24d-2
+- Philips - 8720169296480 LED PLC 8.9W 840 G24d-3
+- Philips - 8720169325890 LED PLC 6.9W 865 G24d-2
+- Philips - 8720169325913 LED PLC 8.9W 865 G24d-3
 - Philips - 929001165037
 - Philips - 9290011650A
 - Philips - 9290030099A MAS LEDBulb DT3.4
