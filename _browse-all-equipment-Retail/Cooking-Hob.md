@@ -75,6 +75,12 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Electrolux Professional  - MA1BCADOOO
 - Electrolux Professional  - MA1BCAEOOO
 - Electrolux Professional  - MCLBEAEDAO
+- Electrolux Professional - 371020
+- Electrolux Professional - 371021
+- Electrolux Professional - 371282
+- Electrolux Professional - 391277
+- Electrolux Professional - 391278
+- Electrolux Professional - 391353
 - Garland  - Instinct Hob 3.5
 - Garland  - Instinct Hob 5
 - Hatco  - IRNG-PB1-36
@@ -139,6 +145,8 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Mayer  - MMIH302HS
 - Mayer  - MMIH603FZ
 - MISTRAL Sia-Huat - (1112-MIC88TSI)
+- NOVA - NIC-3.5T
+- NOVA - NIC-5T
 - OZTI  - 7865.N1.80903.IS
 - RATIONAL  - iVario 2-XS
 - RATIONAL  - iVario Pro 2-S
@@ -157,6 +165,40 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Sia-Huat - (217BH-BT-180G6)
 - Sia-Huat - (217BH-BT-350A-G)
 - SmartChef  - BT-700D3T
+- Superior - Superior-28EA3
+- Superior - Superior-S-F-IC1P-3500-2R
+- Superior - Superior-S-F-IC1P-3500-4R
+- Superior - Superior-S-F-IC3P-3500-2R
+- Superior - Superior-S-F-IC3P-3500-4R
+- Superior - Superior-S-F-IC3P-3500-6R
+- Superior - Superior-S-SB-1
+- Superior - Superior-S-SB-2
+- Superior - Superior-S-WIC-1
+- Superior - Superior-S-WIC-2
+- Superior - Superior-TC-10EA
+- Superior - Superior-TT-FF-IC1P-3500
+- Superior - Superior-TT-FF-IC1P-3500-P
+- Superior - Superior-TT-FF-IC1P-4200
+- Superior - Superior-TT-FF-IC1P-4200-P
+- Superior - Superior-TT-FF-IC1P-5000
+- Superior - Superior-TT-FF-IC1P-5000-P
+- Superior - Superior-TT-FF-IC3P-5000-P
+- Superior - Superior-TT-F-IC1P-3500-2R-H
+- Superior - Superior-TT-F-IC1P-3500-2R-V
+- Superior - Superior-TT-F-IC1P-3500-4R
+- Superior - Superior-TT-F-IC3P-3500-2R-H
+- Superior - Superior-TT-F-IC3P-3500-2R-V
+- Superior - Superior-TT-F-IC3P-3500-4R
+- Superior - Superior-TT-F-IC3P-3500-6R
+- Superior - Superior-TT-SB-1P
+- Superior - Superior-TT-SB-3P
+- Superior - Superior-TT-W-IC1P-3500
+- Superior - Superior-TT-W-IC1P-3500-P
+- Superior - Superior-TT-W-IC1P-4200
+- Superior - Superior-TT-W-IC1P-4200-P
+- Superior - Superior-TT-W-IC1P-5000
+- Superior - Superior-TT-W-IC1P-5000-P
+- Superior - Superior-TT-W-IC3P-5000-P
 - TEKA - AFF 87601 MST
 - TEKA - IZF 65320 BK MSP
 - TEKA - IZF 68700 BK MST

@@ -172,7 +172,7 @@ Holborn Law LLC is in a Formal Law Alliance with CMS Cameron McKenna Nabarro Ols
 - Location: Singapore
 - IA/IP-Related Expertise: Trademark Agent Service, IP Intelligence and Search, IP Due Diligence, IP Portfolio Management, Contract Drafting
 - Certifications/Qualifications: Advocate & Solicitor of Supreme Court Singapore, LL.B. Singapore Management University
-- URL of LinkedIn/Company Profile: [https://www.linkedin.com/in/sherman-poon-35b738119](https://www.linkedin.com/in/sherman-poon-35b738119)
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/sherman-poon-35b738119" target="_blank" rel="noopener">https://www.linkedin.com/in/sherman-poon-35b738119</a>
 
 
 ---

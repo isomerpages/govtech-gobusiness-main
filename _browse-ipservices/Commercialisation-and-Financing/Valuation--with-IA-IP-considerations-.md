@@ -23,7 +23,7 @@ One major benefit of valuation services that incorporate IA/IP considerations is
 ---
 
 ### Connect with relevant service providers for valuation services (with IA/IP considerations)
-**28 service providers listed.**
+**30 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -87,6 +87,21 @@ Business Advisors to Growing Businesses.
 </ul>
 
 <a class='btn' href='https://form.gov.sg/643c8ea40423fa0011283fac' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/rsm-singapore/){:target='_blank'}
+
+---
+
+#### Lim & Young Appraisal
+
+Lim & Young Appraisal provides specialized, professional and cost-effective valuation services.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 36 to 40</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $6,000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/664ac4c9c82f928f6464ef3b' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/lim-young-appraisal/){:target='_blank'}
 
 ---
 
@@ -156,11 +171,10 @@ Fair valuation of businesses, financial instruments, ESOS options, and intellect
 Professional service provider with comprehensive IA/IP valuation experience by qualified valuers
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 11 to 15</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $8,000</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> -</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/642242cfb69f640012f5b8c5' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/cushman-wakefield-vhs-pte-ltd/){:target='_blank'}
@@ -456,6 +470,21 @@ Audit, assurance, tax, valuation, risk and governance, corporate recovery, IT in
 </ul>
 
 <a class='btn' href='https://form.gov.sg/650bb6434284830013f329a3' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/nexia-solutions-pte-ltd/){:target='_blank'}
+
+---
+
+#### Grant Thornton Singapore Private Limited
+
+We go beyond business as usual, so you can too.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/6653e255bd207e36db9b8de8' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/grant-thornton-singapore-private-limited/){:target='_blank'}
 
 ---
 
