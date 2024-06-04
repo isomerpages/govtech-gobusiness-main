@@ -8,6 +8,8 @@ preview: |
 image: /images/news/EPJS-Launch.jpg
 ---
 
+Note: This article was first published on 17 Feb 2023. As of 5 Jun 2024, SkillsFuture for Enterprise and Enterprise Portal for Jobs and Skills have moved to [SkillsFuture for Business](https://skillsfuture.gobusiness.gov.sg){:target='_blank'}{:rel='noopener'}. 
+
 ![Graphic showing the logos for GoBusiness Singapore and Enterprise Portal for Jobs and Skills](/images/news/EPJS-Launch.jpg)
 
 Starting from 18 February 2023, the Enterprise Portal for Jobs and Skills (EPJS) will be moving to GoBusiness.
@@ -21,7 +23,7 @@ In addition to skills initiatives and resources, a list of EPJS’ Digital Servi
 
 ### Find EPJS on GoBusiness
 
-Users can now access [EPJS](https://skillsfuture.gobusiness.gov.sg) and its [Digital Services](https://skillsfuture.gobusiness.gov.sg/e-services/) on GoBusiness. 
+Users can now access [EPJS](https://skillsfuture.gobusiness.gov.sg){:target='_blank'}{:rel='noopener'} and its [Digital Services](https://skillsfuture.gobusiness.gov.sg/e-services/){:target='_blank'}{:rel='noopener'} on GoBusiness. 
 
 They can also navigate to EPJS from the [SkillsFuture for Business page](https://skillsfuture.gobusiness.gov.sg), found under ‘Run and Grow a Business’ in the main navigation bar.
 

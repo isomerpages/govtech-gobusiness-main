@@ -49,7 +49,7 @@ Helping employees with upskilling can bring about a myriad of benefits: providin
 
 Furthering upskilling efforts also helps employees stay relevant in the job market, as training courses offer an excellent opportunity for workers to increase employee engagement, and keep up with prevailing trends and skills within your industry. 
 
-If you’re looking to groom young talent, check out the [SkillsFuture Work-Study Programmes (WSP)](https://skillsfuture.gobusiness.gov.sg/support-and-programmes), which supports fresh graduates from polytechnics and the Institute of Technical Education, as well as mid-career individuals. Under this initiative, WSP trainees will get the opportunity to receive the training they need from both host employers and Institutes of Higher Learning (IHLs), to get ahead in their selected fields. 
+If you’re looking to groom young talent, check out the [SkillsFuture Work-Study Programmes (WSP)](https://skillsfuture.gobusiness.gov.sg/support-and-programmes/skillsfuture-work-study-programmes), which supports fresh graduates from polytechnics and the Institute of Technical Education, as well as mid-career individuals. Under this initiative, WSP trainees will get the opportunity to receive the training they need from both host employers and Institutes of Higher Learning (IHLs), to get ahead in their selected fields. 
 
 This can also help your business forge closer bonds with IHLs and training partners, while equipping fresh graduates with the skills they need to fit roles within your company. 
 

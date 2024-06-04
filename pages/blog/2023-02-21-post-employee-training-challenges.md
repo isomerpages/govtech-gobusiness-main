@@ -19,9 +19,9 @@ For instance, [an article by Human Resource Executive](https://hrexecutive.com/h
 
 Addressing these challenges are paramount for companies to continue thriving, and employers can start by taking the lead to send their staff for employee development programmes. But how can they overcome some of the aforementioned challenges? 
 
-GoBusiness is here to help! The [SkillsFuture for Business Guide](https://skillsfuture.gobusiness.gov.sg){:target="_blank"} provides step-by-step instructions to guide business owners through the process of skills development. 
+GoBusiness is here to help! The [SkillsFuture for Business Guide](https://skillsfuture.gobusiness.gov.sg/get-started-here){:target="_blank"}{:rel="noopener"} provides step-by-step instructions to guide business owners through the process of skills development. 
 
-Meanwhile, the newly launched [e-Adviser for Skills Training](https://eadviser.gobusiness.gov.sg/skillstraining?src=gobiz_blog){:target="_blank"}{:rel="noopener"} can provide business owners with personalised recommendations to help them along this journey! 
+Meanwhile, the newly launched [e-Adviser for Skills Training](https://eadviser.gobusiness.gov.sg/skillstraining){:target="_blank"}{:rel="noopener"} can provide business owners with personalised recommendations to help them along this journey! 
 
 Read on to discover how these tools can help you overcome some of the most common challenges faced by employers in the employee upskilling journey:
 
