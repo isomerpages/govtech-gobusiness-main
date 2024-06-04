@@ -12,7 +12,7 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 | **Scheduled Date** | **Remarks** |  
 
      
-| 31 May, 10pm - 01 Jun, 6am<br>1 Jun, 10pm - 2 Jun, 6am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. | 
+| 31 May, 10pm -01 Jun, 6am<br>1 Jun, 10pm - 2 Jun, 6am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. | 
 | 1 Jun, 2pm - 3 Jun, 8am | **Application, amendment, renewal & cancellation of PSMD (MLAW) licences** will be unavailable during the upcoming scheduled maintenance. |
 | 2 Jun, 12am-2am | **Application, amendment, renewal & cancellation of Singapore Police Force (SPF) licences** will be unavailable during the upcoming scheduled maintenance. |
 
