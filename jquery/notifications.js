@@ -7,7 +7,6 @@ const custom_notifications = [
   //multiple services
     // "<b>[Attention: System Maintenance]</b> GoBusiness Portal is temporarily refining our search capabilities for a better experience. Please bear with us as you may encounter some limitations in searching for records during this time. We apologise for the inconvenience caused.",
   "<b>[Attention: System Maintenance]</b> Certain GoBusiness services will be unavailable due to upcoming maintenance. Please check our <B><u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>maintenance schedule</a></u></B> for details.",
-  "<b>[Attention: System Maintenance for NEA]</b> All NEA Licences & Submission of Returns on GoBusiness Portal will be unavailable from 23 May 3PM to 27 May 10AM for maintenance.",
   "<b>[Attention] </b> SkillsFuture for Enterprise and Enterprise Portal for Jobs and Skills have been moved to a new URL on GoBusiness for an improved user experience."
 ];
 
