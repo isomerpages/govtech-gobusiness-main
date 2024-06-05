@@ -29,7 +29,7 @@ SkillsFuture Singapore (SSG)
  <a href="https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/edutrust-certification-scheme" target="_blank" rel="noopener">https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/edutrust-certification-scheme</a>.<br>
  <p><strong>Contact Information</strong></p>
  For more information, please refer to the following website:<br>
- <a href="http://www.ssg-wsg.gov.sg/about/contact-us.html" target="_blank" rel="noopener">http://www.ssg-wsg.gov.sg/about/contact-us.html</a><br>
+ <a href="https://www.skillsfuture.gov.sg/Contact" target="_blank" rel="noopener">https://www.skillsfuture.gov.sg/Contact</a><br>
 
 <strong>Additional Information</strong>
 

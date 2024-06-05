@@ -20,7 +20,7 @@ GoBusiness has launched the [e-Adviser for Skills Training](https://eadviser.gob
 
 Business owners simply need to answer a few questions about their business needs to get a personalised set of recommendations on skills training courses.
 
-To get started on your SkillsFuture journey, check out the [5 key steps](/skillsfuture-for-enterprise/?src=news_and_update).
+To get started on your SkillsFuture journey, check out the [5 key steps](https://skillsfuture.gobusiness.gov.sg/get-started-here){:target="_blank"}{:rel="noopener"}.
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
