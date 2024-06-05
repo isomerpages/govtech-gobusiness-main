@@ -72,9 +72,6 @@ Learn more about them in our [Start-up Guide](/start-a-business/hire-employees/)
 - [Employment / S Pass Self-Assessment Tool (SAT)](https://service2.mom.gov.sg/efeedback/Forms/eFeedbackWithReferrer.aspx?option=20){:target="_blank"}{:rel="noopener"}
   <br>Submit an enquiry form about Work Permit matters.
 
-- [iSubmit](https://service2.mom.gov.sg/isubmit/Forms/iSubmitForm.aspx){:target="_blank"}{:rel="noopener"}
-  <br>Submit documents or requests to the Work Pass Division. Before you submit, refer to [this list](https://www.mom.gov.sg/eservices/services/isubmit#what-can-i-submit-using-online-forms-or-eservices) of request types no longer accepted on iSubmit.
-
 - [Work Permit Online (WPOL)](https://wponline.mom.gov.sg/WPOLLoginController?action=WPOLLoginAction&actionType=WPOLCorpPassLoginCOYBehalf){:target="_blank"}{:rel="noopener"}
   <br>Apply for a Work Permit online. You can also issue, renew, reinstate, replace or cancel Work Permits here.
 
