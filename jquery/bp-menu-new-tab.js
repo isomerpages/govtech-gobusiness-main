@@ -8,7 +8,7 @@ const listOfLinks = [
   "For event organisers",
   "For new food service business owners",
   "Dashboard",
-  "SkillsFuture for Enterprise",
+  "SkillsFuture for Business",
   "Intellectual Property",
   "Skills Development Levy"
 ];
