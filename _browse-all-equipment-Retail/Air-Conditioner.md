@@ -11,17 +11,17 @@ permalink: /browse-all-equipment-Retail/Air-Conditioner
 
 - Minimum 3-ticks for 3-phase variable refrigerant flow (VRF) models 
 
-Note: From 1st April 2025, the Minimum Energy Performance Standards (MEPS) will be raised to 5-tick for multi-split/ 4-tick for single split. The technical eligibility criteria will be reviewed in 4Q2024.
+Note: From 1st April 2025, the Minimum Energy Performance Standards (MEPS) will be raised to 5-tick for multi-split/ 4-tick for single split. The technical eligibility criteria will be reviewed in 4Q2024. This line has  been modified.
 
 ### Mode and Schedule of Payment 
 
 - Direct Purchase
 - Hire Purchase
 - Lease
+- Credit card
 
 ### Support Level and Conditions
 
-Up to 70% for SMEs, 30% for non-SMEs
 
 Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}
 
