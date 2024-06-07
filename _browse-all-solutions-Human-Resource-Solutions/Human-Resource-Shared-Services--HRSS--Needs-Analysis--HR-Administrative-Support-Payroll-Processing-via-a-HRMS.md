@@ -36,10 +36,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Frontier e-HR Pte Ltd </td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201512065D-HRM-Lbs-Shrd-SVC-G' target='_blank'>HRM Labs Shared Service</a><br></td>
-<td>Hrm Labs Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201539815G-HRSS-&-Pyroll-Procssng-wth-QuckHR-G' target='_blank'>HRSS & Payroll Processing with QuickHR</a><br></td>
 <td>Acc Pro (Singapore) Pte. Ltd.</td>
 </tr>

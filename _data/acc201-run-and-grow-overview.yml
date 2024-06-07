@@ -11,10 +11,10 @@
   text: View Licences and Permits
 
 - banner: <img src="/images/grow/rungrow_overview_epjs_panel.png">
-  title: SkillsFuture for Enterprise
+  title: SkillsFuture for Business
   description: Level up your employees with skills training.
-  url: /skillsfuture-for-enterprise/?src=rungrow_overview
-  text: View SkillsFuture for Enterprise
+  url: https://skillsfuture.gobusiness.gov.sg
+  text: View SkillsFuture for Business
 
 - banner: <img src="/images/grow/rungrow_overview_accreditation_panel.png">
   title: Accreditation

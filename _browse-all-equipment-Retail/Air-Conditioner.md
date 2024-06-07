@@ -27,6 +27,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 
 ### Pre-Approved Equipment Brands and Models
 
+
 - Daikin - MKM100VVMG
 - Daikin - MKM50VVMG
 - Daikin - MKM75VVMG
@@ -128,14 +129,18 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Midea - MAS-1S09E
 - Midea - MCE-2M16E
 - Midea - MCE-4M28E
+- Midea - MDV-V28WDHN1(SG)
+- Midea - MDV-V36WDHN1(SG)
 - Midea - MKC-2M15E
 - Midea - MKC-3M22E
 - Midea - MKC-4M27E
-- Midea - MDV-V28WDHN1(SG)
-- Midea - MDV-V36WDHN1(SG)
+- Midea - MMY-MUP1401T8P-SG
 - Midea - MVC-M252WV2GN1(G)
 - Midea - MVC-M280WV2GN1(G)
 - Midea - MVC-M335WV2GN1(G)
+- Midea - MVC-M400WV2GN1(G)
+- Midea - MVC-M450WV2GN1(G)
+- Midea - MVC-M560WV2GN1(G)
 - Mitsubishi Electric - FDC280CKXZA2-S8
 - Mitsubishi Electric - MUY-GP10VF
 - Mitsubishi Electric - MXY-2H20VF
@@ -192,7 +197,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Mitsubishi Electric - PUMY-CP225YKM-PA
 - Mitsubishi Electric - PUMY-CP225YKM-PA-BS
 - Mitsubishi Electric - SUY-ZM50VA-SG
-- Mitsubishi Heavy Industries - FDC280CKXZA2-S8
 - Mitsubishi Heavy Industries - FDC335CKXZA2
 - Mitsubishi Heavy Industries - FDC400CKXZA2
 - Mitsubishi Heavy Industries - FDCS335CKXZA2
