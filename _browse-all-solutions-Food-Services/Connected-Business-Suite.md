@@ -24,12 +24,12 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>APPZGATE SOLUTIONS PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201529028W-EPOS-Intgrtd-Dgtl-SLN-for-F&B-FS' target='_blank'>EPOS Integrated Digital Solution for F&B</a><br></td>
-<td>EPOS Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201814201R-Wcom-ONE-Busnss-Hub-v-11-FS' target='_blank'>Wecome ONE Business Hub Version 1.1</a><br></td>
 <td>WECOME PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201529028W-EPOS-Intgrtd-Dgtl-SLN-for-F&B-FS' target='_blank'>EPOS Integrated Digital Solution for F&B</a><br></td>
+<td> EPOS Pte Ltd</td>
 </tr>
 </table>
 

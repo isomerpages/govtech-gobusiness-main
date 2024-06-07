@@ -21,7 +21,7 @@ Established in 2007, Max Lewis Consultants Pte Ltd is a professional firm specia
 
 <a class='btn' href='https://form.gov.sg/640e7c7002fada001204d744' target='_blank' rel='noopener'>Get in touch</a>
 
-{% include overview.html anchorlinks=site.data.ov013_1a-ipgrow-company-profile %}
+{% include overview.html anchorlinks=site.data.ov013_2-ipgrow-company-profile %}
 
 ---
 <a name='ip-related-service-areas'></a>
@@ -88,11 +88,20 @@ Established in 2007, Max Lewis Consultants Pte Ltd is a professional firm specia
 
 *"Mr. Tan has assisted with the set-up of documentation and benchmarking for game development service fees and IP license fee billing. His work on the transfer pricing benchmarking studies was exceptional. He conducted in-depth research and analysis to ensure that our pricing was aligned with industry standards, providing insightful recommendations that helped us improve our transfer pricing strategies. Albert's work was of the highest quality. He was reliable, and a pleasure to work with."* - Sean McGarth, Finance Manager, Might Bear Games Pte Ltd.
 
-*"I am extremely delighted to recommend Albert of Max Lewis Consultants based on my experience. Our company engaged Mr. Tan to perform a certification review for our renewal of the Major Exporter Scheme in June 2022. I am pleased and would like to recommend him for future GST Assisted Self-Help-Kit certification."* - Chen Yi Ju, Manager, Realtek Singapore Pte Ltd.
+*"We hired Max Lewis for our IPR valuation. Albert was extremely responsive prior and all throughout the engagement. Very straightforward and forthcoming, met all deliverables in the timeline committed to, highly knowledgeable, and willing to go above and beyond for our company. Easy recommendation to anyone looking for a IPR valuator amongst their other services they offer (i.e. transfer pricing, tax, business valuation, etc.)."* - Ryan Fong, CFO/CRO, eCOM Registry Holdings Pte Ltd
 
-*"It was our privileged to work with Albert Tan for the past several months that he served as a business and finance consultant in our company. I have been consistently impressed by Albert's attitude towards his work and his performance on the job."* - Jean Wang, Founder/Chairman, MQJC Technology Pte Ltd.
+*"Albert made good suggestions during the valuation process, took a very sensible approach and completed the work in good time despite the heavy workload. He is also quick to attend to our queries. We are very happy with his service and especially his quick turnaround and ability to connect with our business needs."* - Ong Ming Hwee, CFO, Transmarco Concepts Pte Ltd
 
 
+
+
+---
+<a name='case-studies'></a>
+### Case studies
+
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://www.maxlewis.com.sg/our-services/business-valuation-services/" target="_blank" rel="noopener">case study 1</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.maxlewis.com.sg/our-services/intangible-assets-valuation/" target="_blank" rel="noopener">case study 2</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.maxlewis.com.sg/our-services/derivatives-valuation/" target="_blank" rel="noopener">case study 3</a>
+
+</li></ul>
 
 ---
 <a name='key-practice-experts'></a>
@@ -112,4 +121,4 @@ Established in 2007, Max Lewis Consultants Pte Ltd is a professional firm specia
 <p>
 <a class='btn' href='https://form.gov.sg/640e7c7002fada001204d744' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 13 March 2024
+Profile last updated on 28 May 2024
