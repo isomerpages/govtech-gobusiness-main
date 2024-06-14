@@ -1,0 +1,6 @@
+collections:
+  browse-all-solutions-E-Commerce-solutions:
+    output: true
+    order:
+      - back-to-all-psg-solutions.md
+      - E-Commerce---Online-Shop--B2C-.md
