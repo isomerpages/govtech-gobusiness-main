@@ -1,9 +1,0 @@
-collections:
-  browse-all-solutions-Cyber-Security-solutions:
-    output: true
-    order:
-      - back-to-all-psg-solutions.md
-      - Managed-Detection-and-Response.md
-      - Unified-Threat-Management.md
-      - EndPoint-Protection-Platform.md
-      - Applicant-Sourcing-and-Tracking-System.md

@@ -1,8 +1,0 @@
-collections:
-  browse-all-solutions-Logistics:
-    output: true
-    order:
-      - back-to-all-psg-solutions.md
-      - Freight-Management.md
-      - Transport-Management.md
-      - Warehouse-Management.md

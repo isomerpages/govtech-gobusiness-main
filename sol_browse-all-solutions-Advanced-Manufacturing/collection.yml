@@ -1,8 +1,0 @@
-collections:
-  browse-all-solutions-Advanced-Manufacturing:
-    output: true
-    order:
-      - back-to-all-psg-solutions.md
-      - Computer-aided-design-Computer-aided-manufacturing--CAD-CAM-.md
-      - Equipment-Monitoring-and-Manufacturing-Data-Collection.md
-      - General-Advanced-Manufacturing-Equipment.md
