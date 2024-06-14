@@ -1,0 +1,10 @@
+collections:
+  browse-all-solutions-Accountancy:
+    output: true
+    order:
+      - back-to-all-psg-solutions.md
+      - Corporate-Secretariat-Management.md
+      - External-Audit-Management.md
+      - Practice-Management-System.md
+      - External-Audit-Management-[Audit-Confirmation].md
+      - Taxation-Management.md

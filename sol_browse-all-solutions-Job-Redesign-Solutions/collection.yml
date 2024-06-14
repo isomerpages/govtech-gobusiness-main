@@ -1,0 +1,6 @@
+collections:
+  browse-all-solutions-Job-Redesign-Solutions:
+    output: true
+    order:
+      - back-to-all-psg-solutions.md
+      - Job-Redesign-Consultancy.md

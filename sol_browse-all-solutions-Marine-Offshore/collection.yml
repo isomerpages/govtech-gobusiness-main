@@ -1,0 +1,6 @@
+collections:
+  browse-all-solutions-Marine-Offshore:
+    output: true
+    order:
+      - back-to-all-psg-solutions.md
+      - General-M&O-Equipment.md
