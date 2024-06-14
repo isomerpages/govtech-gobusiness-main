@@ -10,7 +10,7 @@ National Environment Agency (NEA)
 
 {% include spcp-text.html type="cp" %}
 
-<p><b>All NEA Licences & Submission of Returns on GoBusiness Portal will be unavailable from 23 May 3PM to 27 May 10AM for maintenance. We apologise for the inconvenience caused.</b></p>
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/hazardoussubstanceslicence" type="primary" %}
 
 <H3>Application Details</H3>
 
@@ -28,12 +28,12 @@ National Environment Agency (NEA)
 <strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br>Licence Fees (Hazardous Substances Licence): $525, valid for one year.<br>Licence Fees (Temporary Hazardous Substances Licence): $135, valid for three months.</p>
-<p><strong>BizSAFE programme<br></strong>bizSAFE is a nationally recognised capability building programme designed to help companies build workplace safety and health capabilities. This programme is offered by Workplace Safety and Health Council and you can learn more about bizSAFE <a target="">here</a>.</p>
+<p><strong>BizSAFE programme<br></strong>bizSAFE is a nationally recognised capability building programme designed to help companies build workplace safety and health capabilities. This programme is offered by Workplace Safety and Health Council and you can learn more about bizSAFE <a href="https://www.tal.sg/wshc/programmes/bizsafe/about-bizsafe" target="_blank" rel="noopener">here</a>.</p>
 
 <H3>Documents Needed</H3>
 
 <ul>
-<li><strong>Industrial Siting Consultation (ISC)</strong><br>Industrial Siting Consultation (ISC) reply from Development Control Department (DCD), NEA for the proposed use of industrial premises to store and use the Hazardous Substance. Application for the ISC can be submitted through Industrial Allocation System (IAS) at <a href="https://e-services.nea.gov.sg/IAS/" target="_blank" rel="noopener">https://e-services.nea.gov.sg/IAS/</a>. For more information, please visit <a href="https://www.nea.gov.sg/our-services/development-control/guidelines-for-building-plan-submission/industrial-siting-consultation" target="_blank" rel="noopener">https://www.nea.gov.sg/our-services/development-control/guidelines-for-building-plan-submission/industrial-siting-consultation</a>.<br><br></li>
+<li><strong>Industrial Allocation Approval</strong><br>Clearance on use of industrial premises from Development Control Department (NEA).&nbsp;<br><br></li>
 <li><strong>No-Objection Letter from the owner of premises or supplier</strong><br>Consent from the third-party owner of PCD approved chemical warehouse, if you intend to store hazardous substances at their premises OR Consent from supplier if the HS is to be taken back at the end of each day for safekeeping<br><br></li>
 <li><strong>Emergency Response Plan</strong><br>Details of emergency action plan to mitigate a spill/ release of hazardous substances with the following elements. (i.e. Emergency contact numbers, list of clean-up equipment, containment measures, engaged TIWCs and recovery process, detailed site layout and floor plan)<br><br></li>
 <li><strong>Certificate for 'Manage Hazardous Substances'</strong><br>To upload the MHS certificate as proof of completion of the 'Manage Hazardous Substances' module under the WSQ Specialist Diploma in Occupational Hygiene or 'Management of Hazardous Substances' course conducted by NEA. If applicant has not taken the course, please submit a Letter of Undertaking to attend and pass the MHS course within 3 months from Licence Start Date<br><br></li>

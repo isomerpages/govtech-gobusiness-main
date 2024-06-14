@@ -8,7 +8,7 @@ third_nav_title: National Environment Agency (NEA)
 
 National Environment Agency (NEA)
 
-<p><b>All NEA Licences & Submission of Returns on GoBusiness Portal will be unavailable from 23 May 3PM to 27 May 10AM for maintenance. We apologise for the inconvenience caused.</b></p>
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/aquaticfacilitylicence" type="primary" %}
 
 <H3>Application Details</H3>
 
