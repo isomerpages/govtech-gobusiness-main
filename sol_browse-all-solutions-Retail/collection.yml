@@ -1,6 +1,0 @@
-collections:
-  browse-all-solutions-Retail:
-    output: true
-    order:
-      - back-to-all-psg-solutions.md
-      - Integrated-POS--with-Mobile-features-.md
