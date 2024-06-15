@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/201230283H-RvnPOS-Entrprs-
 
 **Description**
 
-RavenPOS offers enhanced retail management solution for the retail sector with full integration to cloud system to consolidate sales across multiple channels or outlets, ability to segregate customer, inventory and sales reporting on channel/outlet level,  full cloud based accounting suite to assist business owners to gain holistic view of the company’s financial health
+RavenPOS offers enhanced retail management solution for the retail sector with full integration to cloud system to consolidate sales across multiple channels or outlets, ability to segregate customer, inventory and sales reporting on channel/outlet level,  full cloud based accounting suite to assist business owners to gain holistic view of the company's financial health
 
 ## Solution Packages Option(s)
 

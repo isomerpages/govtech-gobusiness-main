@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/201322157W-DM-MdOn-SEO-SEM
 
 **Description**
 
-Businesses benefit from MediaOne’s decade of success in digital marketing and website optimisation. The consultancy is a Google and Meta Business Partner that offers comprehensive solutions including SEO, SEM, Social Media Marketing (SMM) and Advertising (SMA). With experience in complex campaigns for large enterprises, MediaOne has customised these PSG packages specially for SMEs. This enables businesses to effectively achieve marketing goals and ROI and connect with their audience.
+Businesses benefit from MediaOne's decade of success in digital marketing and website optimisation. The consultancy is a Google and Meta Business Partner that offers comprehensive solutions including SEO, SEM, Social Media Marketing (SMM) and Advertising (SMA). With experience in complex campaigns for large enterprises, MediaOne has customised these PSG packages specially for SMEs. This enables businesses to effectively achieve marketing goals and ROI and connect with their audience.
 
 ## Solution Packages Option(s)
 
