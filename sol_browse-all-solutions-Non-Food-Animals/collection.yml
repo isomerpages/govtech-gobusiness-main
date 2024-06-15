@@ -1,6 +1,0 @@
-collections:
-  browse-all-solutions-Non-Food-Animals:
-    output: true
-    order:
-      - back-to-all-psg-solutions.md
-      - General-Non-Food-Equipment.md
