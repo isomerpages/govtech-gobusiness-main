@@ -36,10 +36,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>Megasafe Technology Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201230283H-RvnPOS-Prsonl-Wllnss-MGT-Systm-v-12-G' target='_blank'>RavenPOS Personal Wellness Management System Version 12</a><br></td>
-<td>Nspire Group Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200900723K-Butc-cntrlzd-v-G' target='_blank'>Beautec centralized version</a><br></td>
 <td>Beautec Pte Ltd</td>
 </tr>

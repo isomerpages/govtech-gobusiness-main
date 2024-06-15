@@ -30,7 +30,7 @@ TRUEBLU CRM is a unique Customer Relationship Management (CRM) tool that is inte
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Intermediate Package - 1 license</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Intermediate Package – 1 license</td>
 <td style='padding: 10px;'>$8,000.00</td>
 <td style='padding: 10px;'>$1,800.00</td>
 <td style='padding: 10px;'><a href='/images/psg/Active_Interactions_Trueblu_CRM_23052024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
