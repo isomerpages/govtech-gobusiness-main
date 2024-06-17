@@ -10,8 +10,7 @@ Urban Redevelopment Authority (URA)
 
 {% include spcp-text.html type="sp" %}
 
-{% include licence-apply-button.html %}
-<a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=41" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=41" type="primary" %}
 <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-size: 18px; color: #313840;">
 <img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;">
 <span style="font-weight: bold; font-family: hknova-bold; font-size: 18px; ">Please use desktop / laptop to apply for this licence.</span><br>
