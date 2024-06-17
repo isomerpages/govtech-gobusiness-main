@@ -1,10 +1,10 @@
 ---
-title: Home Office Scheme (URA)
+title: URA - Home Office Scheme (for private residential properties)
 permalink: /browse-all-licences/urban-redevelopment-authority-(ura)/home-office-scheme-(for-private-residential-properties)
 third_nav_title: Urban Redevelopment Authority (URA)
 ---
 
-## Apply for Home Office Scheme (URA)
+## Apply for URA - Home Office Scheme (for private residential properties)
 
 Urban Redevelopment Authority (URA)
 
