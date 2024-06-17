@@ -1,10 +1,10 @@
 ---
-title: Home Office Scheme (URA)
-permalink: /browse-all-licences/Urban-Redevelopment-Authority-(URA)/Home-Office-Scheme-(URA)
+title: URA - Home Office Scheme (for private residential properties)
+permalink: /browse-all-licences/urban-redevelopment-authority-(ura)/home-office-scheme-(for-private-residential-properties)
 third_nav_title: Urban Redevelopment Authority (URA)
 ---
 
-## Apply for Home Office Scheme (URA)
+## Apply for URA - Home Office Scheme (for private residential properties)
 
 Urban Redevelopment Authority (URA)
 
@@ -22,5 +22,5 @@ Urban Redevelopment Authority (URA)
 <H3>Application Details</H3>
 
 <p>(Applicable to Home Office registration in a private residential property only)</p>
- <p>To set up a Home Office in a private residential property, homeowners must meet the Terms & Conditions of the Home Office Scheme. The business must satisfy the Home Office Performance Criteria and does not fall under the List of Businesses not permitted under the scheme. For more details, please refer to <a href="https://www.ura.gov.sg/Corporate/Guidelines/Home-Business/Home-Office-Scheme" target="_blank" rel="noopener">Home Office Guidelines</a>.</p>
+ <p>To set up a Home Office in a private residential property, homeowners must meet the Terms & Conditions of the URA - Home Office Scheme (for private residential properties). The business must satisfy the Home Office Performance Criteria and does not fall under the List of Businesses not permitted under the scheme. For more details, please refer to <a href="https://www.ura.gov.sg/Corporate/Guidelines/Home-Business/Home-Office-Scheme" target="_blank" rel="noopener">Home Office Guidelines</a>.</p>
 
