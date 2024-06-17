@@ -10,7 +10,9 @@ Urban Redevelopment Authority (URA)
 
 {% include spcp-text.html type="sp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/homeofficeschemeura" type="primary" %}
+{% include licence-apply-button.html %}
+<a class="btn" id = "desktopNotice" href="https://dashboard.gobusiness.gov.sg/task-details/homeofficeschemeura" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>
+
 <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-size: 18px; color: #313840;">
 <img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;">
 <span style="font-weight: bold; font-family: hknova-bold; font-size: 18px; ">Please use desktop / laptop to apply for this licence.</span><br>
