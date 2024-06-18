@@ -29,6 +29,12 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 ### Pre-Approved Equipment Brands and Models
 
 
+- ACAL - ACAL-126FG
+- ACAL - ACAL-127FG
+- ACAL - ACAL-156FG
+- ACAL - ACAL-157FG
+- ACAL - ACAL-2UFG
+- ACAL - ACAL-4UFG
 - A-COOL - 260
 - A-COOL - 2DB
 - A-COOL - 2DBB
@@ -669,6 +675,13 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Midea  - MDRS791MYC46SG
 - Midea  - MDRT580MTB46-SG
 - Midea  - MRM640S
+- Midea - MDRD143FGB01-SG
+- Midea - MDRD143FGB30-SG
+- Midea - MDRD143FGB32-SG
+- Midea - MDRD143FGB48-SG
+- Midea - MDRD88FGD01-SG
+- Midea - MDRD88FGD30-SG
+- Midea - MDRD88FGD32-SG
 - Miele  - K 14820 SD ed/cs
 - Miele  - K 2801 VI
 - Miele  - K 2901 Vi
@@ -733,6 +746,13 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Mitsubishi Electric  - MR-WX70C-F-P1
 - Mitsubishi Electric  - MR-WX70C-W-P
 - Mitsubishi Electric  - MR-WX70C-W-P1
+- Mitsubishi Electric - MR-CGX46EX-GBR-P
+- Mitsubishi Electric - MR-CGX46EX-GWH-P
+- Mitsubishi Electric - MR-F62EX-BRW-P
+- Mitsubishi Electric - MR-F62EX-ST-P
+- Mitsubishi Electric - MR-WX60G-BR-P
+- Mitsubishi Electric - MR-WX60G-F-P
+- Mitsubishi Electric - MR-WX60G-W-P
 - Panasonic  - NR WY720Z
 - Panasonic  - NR XY680Y
 - Panasonic  - NR-BC360X
@@ -953,12 +973,15 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Polariz  - PGR-500-TA-EC
 - PowerPac  - PPBF555A
 - PRISM+  - FT4201SABI
+- PRISM+ - FS6001SBBI
+- PRISM+ - FS6001SBIN
 - PRISM+ - FT3301SABI
 - PRISM+ - FT3301SAIN
 - PRISM+ - FT4201GAGB
 - PRISM+ - FT4201SAIN
 - Ryker  - TF24101
-- Samsung  - RT62K7057BS
+- Samsung  - 
+RT62K7057BS
 - Samsung  - RB34T6054B1
 - Samsung  - RB45DG600EB1
 - Samsung  - RB45DG600ES9
@@ -1198,7 +1221,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - SMEG - FAB10HLBL5
 - SMEG - FAB28RDGME5
 - SMEG - FAB5RDGME5
-- SOLID - 
 - SOLID  - S1DC-160B
 - SOLID  - S1DC-160W
 - SOLID  - S1DC-260B
@@ -1255,7 +1277,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - SOLID - S3DC-1700W
 - SOLID - S3DF-1500B
 - SOLID - S3DF-1500W
-- SOLID COOL  - 
 - SOLID COOL  - SC-260
 - SOLID COOL  - SC-260L
 - SOLID COOL  - SC-2DB
@@ -1288,10 +1309,21 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - SOLID COOL  - SCX6DF
 - SOLID COOL  - SXS-500Y
 - SOLID COOL  - SXS-700Y
+- Sub-Zero - GR-RT735WE-PGX(XK)
+- Sub-Zero - GR-RT835WE-PGX(XK)
 - Sub-Zero - ICBBI-36R/S/PH-LH
 - Sub-Zero - ICBBI-36R/S/PH-RH
 - Sub-Zero - ICBBI-36R/S/TH-LH
 - Sub-Zero - ICBBI-36R/S/TH-RH
+- Sub-Zero - ICBCL3650UID
+- Sub-Zero - ICBCL3650UID/S/P/L
+- Sub-Zero - ICBCL3650UID/S/P/R
+- Sub-Zero - ICBCL3650UID/S/T/L
+- Sub-Zero - ICBCL3650UID/S/T/R
+- Sub-Zero - ICBCL4250S
+- Sub-Zero - ICBCL4250S/O
+- Sub-Zero - ICBCL4250S/S/P
+- Sub-Zero - ICBCL4250S/S/T
 - Sub-Zero - ICBIC-24C-LH
 - Sub-Zero - ICBIC-24C-RH
 - Sub-Zero - ICBIC-24R-LH
@@ -1371,6 +1403,8 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Toshiba  - GR-RT624WE-PMX(22S)
 - Toshiba  - GR-RT624WE-PMX(37S)
 - Toshiba  - GR-RT624WE-PMX(57S)
+- Toshiba - GR-RT735WE-PGX(GG)
+- Toshiba - GR-RT835WE-PGX(PGB)
 - Ty Brand  - RTGD-1DC-260-IVTH
 - Ty Brand  - RTGD-1DC-330-IVTH
 - Ty Brand  - RTGD-1DC-IVTH-B
@@ -1466,7 +1500,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - YUDA - YD-DT06-IVT
 - YUDA - YD-DT07-IVT
 - YUDA - YD-DT08-IVT
-
 
 
 <script src='/jquery/resize-tables.js'></script>
