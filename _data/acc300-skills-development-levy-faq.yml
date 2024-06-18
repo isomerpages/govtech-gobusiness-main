@@ -409,8 +409,7 @@
 
     - title: I did not receive/misplace the NOA, how do I retrieve a copy?
       content: |
-       You can retrieve a copy of the NOA via GoBusiness under the notification tab.
-       
-       {% include button.html text="Login to GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg" type="primary" %}
+        You can retrieve a copy of the NOA via [GoBusiness](https://dashboard.gobusiness.gov.sg/sdl){:target="_blank"}{:rel="noopener"} under the notification tab.
+           
 
 
