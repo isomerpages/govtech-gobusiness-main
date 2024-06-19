@@ -44,10 +44,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Craft Creative Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201900904K-DM-Dgtl-M-Dgtl-Mrktng-PKG-v-01-G' target='_blank'>DM Digital M Digital Marketing Packages Version 0.1</a><br></td>
-<td>Digital M Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201215396N-DM-I-Concpt-Innovton-Dgtl-Mrktng-v-10-G' target='_blank'>DM I Concept Innovation Digital Marketing Version 1.0</a><br></td>
 <td>I Concept Innovation Pte Ltd</td>
 </tr>
@@ -88,10 +84,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>OC Digital Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201410722E-DM-Busnss-Thrust-Dgtl-Mrktng-PKG-v-DM01-G' target='_blank'>DM Business Thrust Digital Marketing Packages Version DM01</a><br></td>
-<td>Business Thrust Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201605009E-DM-SEOcty-Dgtl-Mrktng-G' target='_blank'>DM SEOciety Digital Marketing</a><br></td>
 <td>SEOciety Pte Ltd</td>
 </tr>
@@ -110,10 +102,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201529110M-DM-2Stllons-Complt-Dgtl-Mrktng-PKG-G' target='_blank'>DM 2Stallions Complete Digital Marketing Packages</a><br></td>
 <td>2STALLIONS PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201713785N-DM-APEC-SLNs-Dgtl-Mrktng-PKG-G' target='_blank'>DM APEC Solutions Digital Marketing Packages</a><br></td>
-<td>APEC SOLUTIONS PTE. LTD.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201915397K-DM-Rogu-Dgtl-Mrktng-PKG-G' target='_blank'>DM Rogue Digital Marketing Packages</a><br></td>
@@ -230,6 +218,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202205403H-DM-Bluhv-CST-Dgtl-Mrktng-PKG-v-22-32-G' target='_blank'>DM Bluehive Consulting Digital Marketing Packages Version 22 - 3.2</a><br></td>
 <td>Bluehive Consulting Asia Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201900904K-DM-Dgtl-M-Dgtl-Mrktng-PKG-v-01-G' target='_blank'>DM Digital M Digital Marketing Packages Version 0.1</a><br></td>
+<td>Digital M Pte. Ltd.</td>
 </tr>
 </table>
 
