@@ -60,7 +60,7 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Automtd-Lbllng-Mchn--Eng-Srvcs' target='_blank'>Automated Labelling Machine </a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Smutomtd-Automtd-Fllng-Mchn-Eng-Srvcs' target='_blank'>Semi-automated / Automated Filling Machine</a><br></td>
 <td></td>
 </tr>
 <tr>
