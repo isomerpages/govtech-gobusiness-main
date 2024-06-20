@@ -16,7 +16,7 @@ permalink: /enterprisejobskills/digital-services/
 </tr>
 <tr>
 <td style="width:30%;"><a href="https://conversion.mycareersfuture.gov.sg/portal/programlisting.aspx?source=PCP" target="_blank" rel="noopener">Career Conversion Programme Application Portal</a></td>
-<td style="width:auto;">The Career Conversion Programmes application portal is for Professionals, Managers, Executives and Technicians, including Mid-career switchers to apply to undergo skills conversion and move into new occupations or sectors</td>
+<td style="width:auto;">WSG's CCPs provide employers with salary support of up to 90% to reskill mid-career new hires or existing employees into growth jobs roles with good longer-term prospects.</td>
 </tr>
 <tr>
 <td style="width:30%;"><a href="https://www.myskillsfuture.gov.sg/content/portal/en/ecert/ecert_verify.html" target="_blank" rel="noopener">Check E-Cert Validity</a></td>
