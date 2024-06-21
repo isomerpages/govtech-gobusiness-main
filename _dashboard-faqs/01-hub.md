@@ -11,6 +11,8 @@ permalink: /dashboard-faqs/
 
 {% include panels-featurelink.html panels=site.data.faqdb000-localforeign %}
 
+----
+
 ### Licences
 
 {% include panels-featurelink.html panels=site.data.faqdb001-licences %}
