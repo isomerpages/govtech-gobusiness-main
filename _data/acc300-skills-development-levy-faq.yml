@@ -125,7 +125,7 @@
           - An employee who is a domestic servant, chauffeur or gardener wholly and exclusively employed by an individual outside of that individual's trade, business, profession or vocation. 
           - An employee who does not render any services in Singapore for at least a month. This excludes employees who are on leave for that month.
 
-        - A matriculated or registered student of any of the following institutions, who is employed for the training approved by the institution in question:
+        - A matriculated or registered student of any of the following institutions, who is employed for the training, such as internship, approved by the institution in question:
           1. Institute of Technical Education
           2. Nanyang Polytechnic
           3. Nanyang Technological University
@@ -267,7 +267,7 @@
       content: |
         Employers can pay monthly SDL via CPF EZPay or GoBusiness.
 
-        - CPF EZPay. You will be able to use the SDL auto computation feature to compute your employee's SDL payable based on the remuneration information for all Singapore Citizen and Singapore Permanent Resident employees. You will need to input the SDL payable for foreign employees in CPF EZPay. You will only be able to make payment for 1 month per transaction. For more details, please refer to Section – Auto-computation of Skills Development Levy (SDL) via CPF EZPay.
+        - CPF EZPay. You will be able to use the SDL auto computation feature to compute your employee's SDL payable based on the remuneration information for all Singapore Citizen and Singapore Permanent Resident employees. You will need to input the SDL payable for foreign employees in CPF EZPay. You will only be able to make payment for 1 month per transaction. For more details, please refer to Section - Auto-computation of Skills Development Levy (SDL) via CPF EZPay.
         
         Payment made via CPF Board takes approximately two months for the transaction to be reflected in SSG's records.
 
@@ -283,7 +283,7 @@
         
         For GoBusiness, please ensure to select the Relevant Month(s) for backpayment.
         
-        For CPF EZPay, you will only be able to make backpayment for <u>1 month</u> per transaction.
+        For CPF EZPay, you will only be able to make backpayment for <u>1 month per transaction.</u>
         
         If you have received a Notice of Assessment (NOA) or mailer from SSG, do make payments for SDL via GoBusiness by selecting the Relevant Month(s) for the period indicated in the NOA or mailer.
     
@@ -346,6 +346,7 @@
         You can also make back-payments for SDL via CPF EZPay. There are 2 options available:
         
         (A) Via Employee Database where the system can auto compute the SDL payable based on the Month Paid For indicated (for relevant month from Oct 2008 onwards only).
+        
         (B) Via ad hoc CPF payments based on the Month Paid For indicated and there will not be any auto-computation.
         
         However, do note that for CPF EZPay, you will only be able to make backpayment for <u>1 month per transaction.</u>
@@ -375,7 +376,7 @@
         
         Please note that SDL is a mandatory levy payable by all employers for both local and foreign employees rendering services in Singapore.
         
-        You can proceed to [make payment via GoBusiness](https://dashboard.gobusiness.gov.sg/sdl/make-payment){:target="_blank"}{:rel="noopener"}.
+        Please proceed to [make payment only via GoBusiness](https://dashboard.gobusiness.gov.sg/sdl/make-payment){:target="_blank"}{:rel="noopener"}.
 
     - title: I have been making monthly SDL contributions to CPFB (or SSG). Can I ignore this NOA?
       content: |
