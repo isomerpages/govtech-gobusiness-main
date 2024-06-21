@@ -1,5 +1,5 @@
 ---
-title: Foreign users
+title: Singpass Foreign user Account (Business) users
 permalink: /dashboard-faqs/account-access/foreign-users
 third_nav_title: Account access
 ---
@@ -10,7 +10,7 @@ third_nav_title: Account access
 
 {% include letter-accordion.html accordions=site.data.acc103b-account-access-foreign letter="a" %}
 
-### Singpass Foreign Account (Business)
+### Singpass Foreign user Account
 
 {% include letter-accordion.html accordions=site.data.acc103b-account-access-foreign letter="b" %}
 
