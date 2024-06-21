@@ -57,9 +57,9 @@
         </tr>
         </table>
 
-        <p><sup>#</sup> The legal requirement for SDL contributions by employers was introduced via gazette in Oct 1979. For employers who need to know the rates earlier than 1 July 2000, they may contact SSG for direct assistance.</p>
-
         <sup>*</sup> Prior to 1 October 2008, an employer does not have to contribute SDL for employees whose monthly remuneration is above the salary ceiling. However, with effect from 1 October 2008, an employer will have to contribute SDL even if the monthly remuneration exceeds the salary ceiling. This is because the revised SDL regulations stipulate that the contribution is up to the first $4,500 of monthly remuneration.
+
+        <p><sup>#</sup> The legal requirement for SDL contributions by employers was introduced via gazette in Oct 1979. For employers who need to know the rates earlier than 1 July 2000, they may contact SSG for direct assistance.</p>
 
         The Government will review the levy rate regularly and any revision will take into account the need to maintain workforce and industry competitiveness through continuous skills upgrading and development.
         
@@ -68,12 +68,12 @@
   data:
     - title: Who do I contact for further enquiries?
       content: |
-        You can contact SkillsFuture Singapore (SSG) through their [feedback portal](https://service-portal.skillsfuture.gov.sg/){:target="_blank"}{:rel="noopener"} or call our helpdesk at [6785 5785](tel:+65 6785 5785).
+        You can contact SkillsFuture Singapore (SSG) through their [feedback portal](https://service-portal.skillsfuture.gov.sg/){:target="_blank"}{:rel="noopener"}.
 
 - accordion:
   letter: c
   data:
-    - title: Who is required to pay SDL?
+    - title: Who is liable to pay SDL?
       content: |
         All employers are required to pay SDL for their employees.
  
@@ -99,7 +99,7 @@
       content: |
         Both the SDL and FWL serve different purposes.
 
-        SDL contributions are channelled to the Skills Development Fund which is used to build a national Continuing Education and Training (CET) system and provide financial assistance for employers to send their employees for training under the national CET system.
+        SDL contributions are channelled to the Skills Development Fund which is used to build a national Continuing Education and Training (CET) system and provide financial assistance for employers to send their employees for training under the national CET system. Your foreign workers can benefit from the improvement of training facilities as well as the wide variety of courses available as SSG had used the moneys of the fund to improve the whole training ecosystem in Singapore.
 
         FWL is a levy imposed via the Ministry of Manpower for the administration of foreign workers with work permits.
         
@@ -111,9 +111,9 @@
 
     - title: Is SDL payable for directors or partners for the remuneration paid to them?
       content: |
-        SDL is not applicable on the fees paid to its directors. However, SDL is payable on directors' remuneration if the director is an employee of the company.
-        
-        SDL is not payable on the remuneration paid to its partners.
+        SDL is payable on directors' remuneration if the director is an employee of the company. SDL is also payable on the wages paid to the employee(s) employed by the partnership. 
+ 
+        However, SDL is not payable on the fees paid to its directors or remuneration paid to its partners. 
 
     - title: Is a self-employed person required to pay SDL on account of his earnings from his business?
       content: |
@@ -125,7 +125,7 @@
           - An employee who is a domestic servant, chauffeur or gardener wholly and exclusively employed by an individual outside of that individual's trade, business, profession or vocation. 
           - An employee who does not render any services in Singapore for at least a month. This excludes employees who are on leave for that month.
 
-        - A matriculated or registered student of any of the following institutions, who is employed for the training approved by the institution in question:
+        - A matriculated or registered student of any of the following institutions, who is employed for the training, such as internship, approved by the institution in question:
           1. Institute of Technical Education
           2. Nanyang Polytechnic
           3. Nanyang Technological University
@@ -141,16 +141,18 @@
         
         -  A matriculated or registered student of any overseas tertiary education institution who is required by the institution to undergo training in Singapore for a period of not more than 6 months. The exemption of SDL is subject to the condition that the employer of the student submits to SkillsFuture Singapore (SSG) a letter issued by the overseas tertiary education institution which confirms that:
           1. The student is a matriculated or registered student of the institution; and
-          2. The student is required by the institution to undergo training in Singapore.
+          2. The student is required by the institution to undergo training in Singapore such as internship.
         
         -  A registered student (other than a student who has completed his "A" level examinations) of any school registered under the Education Act (Cap. 87) and who is employed during the gazetted school holidays.
         - Students of Government schools, excluding tertiary institutions, working during their scheduled school holidays.
         -  'N' & 'O' level Government school students working during the scheduled school holidays.
         -  'A' level students working during scheduled school holidays before their "A" level examinations.
+        
+        Please submit a declaration/NOO of your computed monthly SDL payable excluding these exempted employees for the relevant months where your records differ from SSG. Please retain all supporting documents as SSG may request to review them.
 
     - title: Do employers need to pay SDL for part-time employees?
       content: |
-        Yes, SDL is payable for both full-time and part-time employees.
+        Yes, SDL is payable for both full-time and part-time employees including employees on temporary contract.
 
     - title: Do employers need to pay SDL for employees whose length of employment is less than a month?
       content: |
@@ -263,23 +265,27 @@
 
     - title: How do I make payment for SDL?
       content: |
-        Employers can pay SDL via the following options:
+        Employers can pay monthly SDL via CPF EZPay or GoBusiness.
 
-        - CPF EZPay. You will be able to use the SDL auto computation feature to compute your employee's SDL payable based on the remuneration information. This feature can also be used to pay SDL for your foreign employees. For more details, please refer to Section 7 - Auto-computation of Skills Development Levy (SDL) via CPF EZPay.
-        <br>Payment made via CPF Board takes approximately two months for the transaction to be reflected in SSG's records.
+        - CPF EZPay. You will be able to use the SDL auto computation feature to compute your employee's SDL payable based on the remuneration information for all Singapore Citizen and Singapore Permanent Resident employees. You will need to input the SDL payable for foreign employees in CPF EZPay. You will only be able to make payment for 1 month per transaction. For more details, please refer to Section - Auto-computation of Skills Development Levy (SDL) via CPF EZPay.
+        
+        Payment made via CPF Board takes approximately two months for the transaction to be reflected in SSG's records.
 
-        - Employers making back-payments or with only foreign employees can make payment through [SDL payment service](https://dashboard.gobusiness.gov.sg/sdl/make-payment){:target="_blank"}{:rel="noopener"} on GoBusiness.
-        <br>Payment made via the GoBusiness will take up to two weeks to be reflected in SSG's records.
-
-    - title: Can I pay in instalments for SDL?
-      content: |
-        Employers who have difficulty paying the outstanding SDL in one lump sum may submit a request for instalment payments via [SkillsFuture Singapore (SSG)'s feedback portal](https://service-portal.skillsfuture.gov.sg/){:target="_blank"}{:rel="noopener"}.
-
-        Information required includes the amount of outstanding SDL payable, reasons for the employer's inability to pay in one lump sum, and the number of instalments required.
-    
+        Employers making back-payments or with only foreign employees can make payment through SDL payment service on GoBusiness.
+        
+        Payment made via the GoBusiness will take up to two weeks to be reflected in SSG's records.
+        
+        If you have received a Notice of Assessment (NOA) or mailer from SSG, do make payments for SDL via GoBusiness by selecting the Relevant Month(s) for the period indicated in the NOA or mailer.
+ 
     - title: What should I do if I have forgotten to pay, or have been underpaying SDL?
       content: |
-        Employers have to make a back-payment for the whole period that they have not been paying or have been underpaying. They may make a lump sum payment to the CPF Board or SkillsFuture Singapore (SSG) immediately.
+        Employers have to make a back-payment for the whole period that they have not been paying or have been underpaying. They may make payment through SDL payment service on GoBusiness or CPF Board immediately.
+        
+        For GoBusiness, please ensure to select the Relevant Month(s) for backpayment.
+        
+        For CPF EZPay, you will only be able to make backpayment for <u>1 month per transaction.</u>
+        
+        If you have received a Notice of Assessment (NOA) or mailer from SSG, do make payments for SDL via GoBusiness by selecting the Relevant Month(s) for the period indicated in the NOA or mailer.
     
     - title: What happens if I do not pay SDL on time?
       content: |
@@ -300,10 +306,6 @@
       content: |
         Any person who hinders or obstructs SSG or any officer, employee or agent of SSG acting in the discharge of its or his duties under the SDL Act or any regulations made thereunder may be subject to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-    - title: What can I do if I'm not sure how to make payment on GoBusiness Dashboard?
-      content: |
-        For help transacting SDL on GoBusiness Dashboard, head to the [Dashboard SDL FAQ](/dashboard-faqs/).
-
 - accordion:
   letter: f
   data:
@@ -317,23 +319,39 @@
 
         <img src='/images/sdl-Auto-Computation-2.png' aria-hidden='true'>
 
+    - title: Do I need to round off the SDL amount to be paid for the foreign employees?
+      content: |
+        No, you should indicate the actual amount payable under the "Skills Development Levy (SDL) – For foreign employees" field when submitting the details. CPF EZPay will sum up the total SDL amount payable (for both your local and foreign employees) and the final amount will be rounded down to the nearest dollar at the confirmation and payment page.
+ 
+        <img src='/images/sdl-Rounding-Off.png' aria-hidden='true'>
+  
     - title: How do employers calculate SDL for months with bonus pay-outs or allowances?
       content: |
-        The bonus pay-outs or allowances should be added to the monthly salary and employers should use the total sum to determine the SDL for their employees. For example, if the employee's salary for Dec 2014 is $3,000 and the bonus paid in Dec 2014 is $1,000, SDL should be calculated based on $4,000 ($3,000 +$1,000). In this scenario, SDL payable is $10 ($4,000 x 0.25%).
+        The bonus pay-outs or allowances should be added to the monthly salary and employers should use the total sum to determine the SDL for their employees. For example, if the employee's salary for Dec 2023 is $3,000 and the bonus paid in Dec 2023 is $1,000, SDL should be calculated based on $4,000 ($3,000 +$1,000). In this scenario, SDL payable is $10 ($4,000 x 0.25%).
 
     - title: What should I do if I do not want the system to auto-compute the SDL amount?
       content: |
         We strongly encourage the use of the auto-computation feature which improves your convenience in making SDL contributions.
- 
+        
         To disable the auto-computation during the online submission, employers can edit the "SDL To be Paid" field or set the SDL payable option to "No" for certain employees who do not require SDL contributions.
+        
+        Thereafter, please submit a declaration of your computed monthly SDL payable excluding these exempted employees for the relevant months via GoBusiness.
         
         Please retain all supporting documents as per your declaration as SkillsFuture Singapore (SSG) may request for them subsequently.
 
     - title: Can I make back-payments for SDL?
       content: |
-        Employers can make back-payments for SDL directly to SkillsFuture Singapore (SSG) by [logging in to GoBusiness](https://dashboard.gobusiness.gov.sg/sdl){:target="_blank"}{:rel="noopener"}. Head to Levy > Skills Development Levy (SDL) and click on the Make Payment/Declaration button.
+        Employers can make back-payments for SDL directly by [logging in to GoBusiness](https://dashboard.gobusiness.gov.sg){:target="_blank"}{:rel="noopener"}. Head to Levy > Skills Development Levy (SDL) and click on the Make Payment/Declaration button.
         
-        You can also make back-payments for SDL via CPF EZPay.
+        You can also make back-payments for SDL via CPF EZPay. There are 2 options available:
+        
+        (A) Via Employee Database where the system can auto compute the SDL payable based on the Month Paid For indicated (for relevant month from Oct 2008 onwards only).
+        
+        (B) Via ad hoc CPF payments based on the Month Paid For indicated and there will not be any auto-computation.
+        
+        However, do note that for CPF EZPay, you will only be able to make backpayment for <u>1 month per transaction.</u>
+        
+        If you have received a Notice of Assessment (NOA) or mailer from SSG, do make payments for SDL via GoBusiness by selecting the Relevant Month(s) for the period indicated in the NOA or mailer.
 
     - title: How do I indicate employees who are exempted from SDL?
       content: |
@@ -341,15 +359,13 @@
  
         <img src='/images/sdl-Employee-Exemption.png' aria-hidden='true'>
 
+        Please submit a declaration of your computed monthly SDL payable excluding these affected employees for the relevant months via GoBusiness.
+        
+        Please retain all supporting documents as per your declaration as SSG may request for them subsequently.
+
     - title: Where can I get technical assistance for the auto-computation feature?
       content: |
-        Employers can refer to the [user guide](https://cpf.gov.sg/CPFEZPayquickguide){:target="_blank"}{:rel="noopener"} on using CPF EZPay. For techncial asssistance, please contact CPF Board at [6220 2340](tel:+65 6220 2340) or write to them at [CPFB](https://www.cpf.gov.sg/eSvc/Web/FeedbackSubscription/Index){:target="_blank"}{:rel="noopener"}.
-
-    - title: Do I need to round off the SDL amount to be paid for the foreign employees?
-      content: |
-        No, you should indicate the actual amount payable under the "Skills Development Levy (SDL) - For foreign employees" field when submitting the details. CPF EZPay will sum up the total SDL amount payable (for both your local and foreign employees) and the final amount will be rounded down to the nearest dollar at the confirmation and payment page.
- 
-        <img src='/images/sdl-Foreign-Employee.png' aria-hidden='true'>
+        Employers can refer to the [user guide](https://cpf.gov.sg/CPFEZPayquickguide){:target="_blank"}{:rel="noopener"} on using CPF EZPay. For technical asssistance, please contact CPF Board at [6220 2340](tel:+65 6220 2340) or write to them at [CPFB](https://www.cpf.gov.sg/eSvc/Web/FeedbackSubscription/Index){:target="_blank"}{:rel="noopener"}.
 
 - accordion:
   letter: g
@@ -360,7 +376,7 @@
         
         Please note that SDL is a mandatory levy payable by all employers for both local and foreign employees rendering services in Singapore.
         
-        You can proceed to [make payment via GoBusiness](https://dashboard.gobusiness.gov.sg/sdl/make-payment){:target="_blank"}{:rel="noopener"}.
+        Please proceed to [make payment only via GoBusiness](https://dashboard.gobusiness.gov.sg/sdl/make-payment){:target="_blank"}{:rel="noopener"}.
 
     - title: I have been making monthly SDL contributions to CPFB (or SSG). Can I ignore this NOA?
       content: |
@@ -378,14 +394,23 @@
 
     - title: The estimated outstanding SDL payable in the SDL NOA is different from my own records. What should I do?
       content: |
-        If your calculated SDL payable differs from the amount stated, please [file Notice of Objection via GoBusiness](https://dashboard.gobusiness.gov.sg/sdl/file-notice-of-object){:target="_blank"}{:rel="noopener"}.
+        If your calculated SDL payable differs from the amount stated, please [file a Notice of Objection via GoBusiness](https://dashboard.gobusiness.gov.sg/sdl/file-notice-of-object){:target="_blank"}{:rel="noopener"}.
 
     - title: Why do I need to file a Notice of Objection (NOO)?
       content: |
-        You do not need to file NOO if you agree with the amount payable in the NOA. Please file NOO only if you disagree with the amount.
+        You do not need to file NOO if you agree with the amount payable in the NOA. Please file a NOO only if you disagree with the amount.
         
         Please note that there are penalties for providing false returns or information.
         
         View more information/details on [NOO in the Dashboard SDL FAQ](/dashboard-faqs/sdl-notice-of-objection/).
+
+    - title: What if I don't pay the amount stated in the NOA and I don't want to submit NOO?
+      content: |
+       Please note that SDL is a mandatory statutory requirement under the SDL Act and SSG has the power to verify information and call for returns under Section 15 of the SDL Act.
+
+    - title: I did not receive/misplace the NOA, how do I retrieve a copy?
+      content: |
+        You can retrieve a copy of the NOA via [GoBusiness](https://dashboard.gobusiness.gov.sg/sdl){:target="_blank"}{:rel="noopener"} under the notification tab.
+           
 
 
