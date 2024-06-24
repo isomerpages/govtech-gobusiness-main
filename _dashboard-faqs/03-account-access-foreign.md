@@ -6,7 +6,7 @@ third_nav_title: Account access
 
 {% include notice.html notice=site.data.dbfaq_foreignaccountnotice%} 
 
-### General
+### General / Singpass Foreign user Account (Business)
 
 {% include letter-accordion.html accordions=site.data.acc103b-account-access-foreign letter="a" %}
 
