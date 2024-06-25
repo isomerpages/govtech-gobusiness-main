@@ -1,110 +1,80 @@
 - accordion:
   letter: a
   data:
-    - title: Where can I register for a Singpass for Foreign user Account?
+    - title: How do I log in to GoBusiness Dashboard?
       content: |
-        If you don't have a Singapore government-issued ID but need to apply for licenses in your own name, register as a foreign individual user.
-
-        **NParks**
-        [Create an account with this form to apply for NParks licences.](https://avs-eservices.nparks.gov.sg/eservices/sfa-registration){:target="_blank"}{:rel="noopener"}
-    - title: What to expect after I have registered for a Singpass Foreign user Account (individual)?
+        For Singpass Foreign Account (Business) users:
+        
+        Step 1: Click on the Log In button at the top right hand corner of the screen.
+        
+        Step 2: Log in as an Individual User or Business User.
+        
+        Step 3: Sign in with your Singpass account to access the GoBusiness Dashboard.
+    - title: What is Singpass Foreign user Account for foreign entities?
       content: |
-        Step 1:
-        After registering, the licensing agency will take a few days to process it. If you have any queries during this time, please contact the licensing agency.
+        A Singpass Foreign user Account is a Singpass account that allows foreign users to transact with selected government digital services in Singapore. This includes accessing digital services on GoBusiness Dashboard.
 
-        Step 2: 
-        Once your registration is successful,you will receive an email from Singpass with the subject ""Registration of Singpass Account (Foreign Users)"" at your registered email address with a System generated User ID (e.g. Y1234567A).
-        Enter the User ID in the link provided and set up your password accordingly.
-
-        Step 3:
-        You will receive a second email with an encrypted PDF file containing an OTP (open the file using your registered Foreign ID number). 
-
-        Step 4:
-        Install the Singpass App via the link provided
-        Use the OTP to perform onboarding in the Singpass App.
-
-        Step 5: 
-        Congratulations! You can now log in to GoBusiness Dashboard!
-    - title: Will I have to register with GoBusiness if I already have a SFA issued by another organization?
+        For Business licensing matters, you will be automatically issued a Singpass Foreign user Account by Corppass when you register a Corppass user account. In this case, you do not need to apply for a Singpass Foreign user Account with GoBusiness.
+    - title: How do I sign up for a Singpass Foreign Account for my business?
       content: |
-        Yes.
+        If you are a foreign user representing a company with no presence in Singapore, please apply for a Singpass Foreign user Account on the [Corppass Website](https://www.corppass.gov.sg/corppass/registration/nonuen/nonsingpass/registrationdetails){:target="_blank"}{:rel="noopener"}.
 
-        Singpass Foreign user Accounts can be issued by different organisations (e.g. IRAS). However, that account can only be used to access the digital services of that organisation that issued the account to you.
-
-        Register with the same details that you used to register for your Singpass for Foreign user Account.
-
-        If you have a Singpass Foreign user Account ID issued by another organisation and you wish to access GoBusiness' digital services for licensing matters, please approach your desired licensing agency (at the top of the page) and ensure that the following details matches your current account:
-
-        - Name
-        - Email Address
-        - Foreign ID Number
-        - Foreign ID expiry date
-        - Country where ID was issued
-
+        Step 1: Click on Services at the left hand corner of the top banner.
+        
+        Step 2: Select Register for Corppass.
+        
+        Step 3: Select Foreign Entity and [register via Foreign ID](https://www.corppass.gov.sg/corppass/registration/nonuen/nonsingpass/registrationdetails){:target="_blank"}{:rel="noopener"}.
+    - title: I'm looking to transact on GoBusiness as a foreign user, but I do not have an entity. Will I be able to do that?
+      content: |
+        You will have to register as a foreign individual user. Please refer to the [Account Access for Foreign Individual Users](https://www.gobusiness.gov.sg/dashboard-faqs/account-access/foreign-individual-users) section for assistance.
 - accordion:
   letter: b
   data:
-    - title: What is Singpass Foreign user Account for individuals?
+    - title: Should I log in as an Individual or Business User?
       content: |  
-        A Singpass Foreign user Account (SFA) is a Singpass account that allows foreign users to transact with selected government digital services in Singapore. This includes accessing digital services on GoBusiness Dashboard.
-
-        The new Singpass Foreign user Account has to be activated within 30 days from date of issuance. The account will be terminated if no action is taken.
-    - title: Who is eligible to apply for a Singpass for Foreign User Account?
+        If you are acting on behalf of your business, you will require a Business User account, if you are acting in your own name, you will require an Individual User account.
+    - title: Why can't I see the approved licences that I applied for previously on GoBusiness Licensing?
       content: |  
-        Foreign individuals who do not have a Singapore Government-issued ID will be eligible to apply for a Singpass for Foreign user Account with GoBusiness, if you need to transact with us digitally for Individual licences.
-    - title: How to reset my Singpass Foreign user Account password?
-      content: |  
-        If you need to reset your SFA password, please visit [Singpass' Request for New Password (Foreigner)](https://www.singpass.gov.sg/home/ui/online-reset-password/sfa) page.
-
-        For further enquiries or assistance, you can contact Singpass.
-    - title: How do I log in to GoBusiness Dashboard?
-      content: |  
-        For Singpass Foreign user Account (Individual) users:
- 
-        Step 1: Click on the Log In button at the top right hand corner of the screen.
-        Step 2: Log in as an Individual User or Business User.
-        Step 3: Sign in with your Singpass account to access the GoBusiness Dashboard.
-- accordion:
-  letter: c
-  data:
+        We are migrating licences from GoBusiness Licensing to GoBusiness Dashboard. If you do not see an application you made previously, it may not be currently supported by GoBusiness Dashboard.
     - title: Why can't I apply for a certain licence?
       content: |  
         Not all licences are available on GoBusiness Dashboard yet. We are progressively bringing them over.
-  
         The [Apply Licence](https://dashboard.gobusiness.gov.sg/add-tasks) page will inform you which platform you should be using in this transitional period. Please note that a separate GoBusiness Licensing account is required for licences that are only available on GoBusiness Licensing.
+    - title: How can I manage my Singpass Foreign user Account access to GoBusiness?
+      content: |  
+        If you are transacting as a Business User, your Corppass Administrator of your entity can [log in to Corppass](https://www.corppass.gov.sg/cpauth/login/homepage?URL=%2F&TAM_OP=login){:target="_blank"}{:rel="noopener"} to create and manage your entity's Singpass Foreign user Account access. 
+        
+        If you are transacting as an Individual User, please contact the government agency you registered with.
+
 - accordion:
-  letter: d
+  letter: c
   data:
     - title: Why does GoBusiness request personal identifiable information from me when I first sign in?
       content: |  
-        GoBusiness collects your information on your first login to pre-fill your application forms for your convenience. The information will be linked to your account, and no one else will be able to retrieve that information.
+        GoBusiness collects your information on your first login to pre-fill your application forms, personalise your experience and get your applications processed. The information will be linked to your account, and no one else will be able to retrieve that information.
     - title: Do I have to fill in all the information requested by GoBusiness to enter the dashboard?
       content: |  
         No. If you do not have all the required information, you can click on the Complete Later button at the bottom, but do note that you will not be able to start applying for licences until you have filled in all your information. If you try to apply for a licence first, you will be prompted to complete your profile.
 - accordion:
-  letter: e
+  letter: d
   data:
-    - title: How can I manage my Singpass Foreign user Account access to GoBusiness?
+    - title: How do I edit the details in my profile?
       content: |  
-        If you have registered with GoBusiness, you will be able to log in. Contact us if you require assistance.
-
-        You are also able to edit the details of your Singpass Foreign user Account in the My Account page within GoBusiness at [https://dashboard.gobusiness.gov.sg/profile](https://dashboard.gobusiness.gov.sg/profile).
-
-        If you wish to close your Singpass for Foreign user Account on GoBusiness, please contact your licensing agency for assistance. Additionally, your account will be terminated after 2 years of inactivity
-    - title: How do I edit my Singpass Foreign user Account details in My Account?
-      content: |  
-        Click on the account menu at the top right corner, and select [My Account](https://dashboard.gobusiness.gov.sg/profile).
-
+        Click on the account menu at the top right corner, and select My Account.
+ 
         Sections that you can edit will be indicated by an Edit Details button.
-    - title: What details can I edit on My Account?
-    content: |  
-      Any changes made in your account will also be updated into your Singpass for Foreign user Account. 
-
+    - title: What details can I edit on My Profile?
+      content: |  
         You will be able to edit your:
-        - Salutation
-        - Contact number
-        - Email
-        - Address 
-        - Foreign ID number and expiry date (with at least 180 days of remaining validity)
-
-        If you change your Foreign ID, you will be logged out and lose access to your current licences and applications. We strongly advise using a government issued ID that won't expire.
+          - Salutation
+          - Contact number
+          - Email
+          - Business Address
+    - title: How do I update my company details on GoBusiness?
+      content: |  
+        We collect certain information from Singpass and Corppass, such as your entity's details. To change these details, please contact [Corppass](https://www.corppass.gov.sg/corppass/common/contactus){:target="_blank"}{:rel="noopener"}.
+ 
+        Once the update on Singpass and Corppass is successful, the information in GoBusiness will be updated on your next login.
+    - title: How do I update my Foreign ID Number, Type or Expiry Date?
+      content: |  
+        If you are a **Business User**, please contact Corppass to change your Foreign ID number, Type or Expiry Date. Once the update is successful, the information on GoBusiness will be updated on your next login.
