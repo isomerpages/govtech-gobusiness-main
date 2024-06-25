@@ -4,7 +4,7 @@ permalink: /dashboard-faqs/account-access/foreign-individual-users
 third_nav_title: Account access
 ---
 
-{% include notice.html notice=site.data.dbfaq_foreignaccountnotice%} 
+{% include notice.html notice=site.data.dbfaq_foreignaccountindividualnotice%} 
 
 ### Register for a Singpass Foreign user Account
 
