@@ -1,20 +1,37 @@
 - accordion:
   letter: a
   data:
-    - title: How do I log in to GoBusiness Dashboard?
+    - title: What to expect after I have registered for a Singpass Foreign user Account (individual)?
       content: |
-        For Singpass Foreign Account (Business) users:
-        
-        Step 1: Click on the Log In button at the top right hand corner of the screen.
-        
-        Step 2: Log in as an Individual User or Business User.
-        
-        Step 3: Sign in with your Singpass account to access the GoBusiness Dashboard.
-    - title: What is Singpass Foreign user Account for foreign entities?
-      content: |
-        A Singpass Foreign user Account is a Singpass account that allows foreign users to transact with selected government digital services in Singapore. This includes accessing digital services on GoBusiness Dashboard.
+        Step 1:
+        The licensing agency will take a few days to process your registration. If you have any queries during this time, please contact the licensing agency.
 
-        For Business licensing matters, you will be automatically issued a Singpass Foreign user Account by Corppass when you register a Corppass user account. In this case, you do not need to apply for a Singpass Foreign user Account with GoBusiness.
+        Step 2: 
+        After successful registration, you will receive an email from Singpass with the subject "Registration of Singpass Account (Foreign Users)" at your registered email address. This email will contain a system-generated User ID. 
+        You will need to enter the User ID in the provided link and set up your password accordingly.
+
+        Step 3:
+        Subsequently, you will receive a second email with an encrypted PDF file containing an OTP. You should open the file using your registered Foreign ID number.
+
+        Step 4:
+        Install the Singpass App using the provided link and complete the onboarding with the OTP.
+
+        Step 5: 
+        Congratulations! You can now log in to GoBusiness Dashboard!
+    - title: Do I need to register with GoBusiness if I already have a Singpass Foreign user Account issued by another organization?
+      content: |
+        Yes, you will need to register with GoBusiness.
+
+        A Singpass Foreign user Account can be issued by different organisations, such as IRAS. However, this account is only valid for accessing the digital services of the specific organisation that issued it to you.
+
+
+        If you already have a Singpass Foreign user Account ID issued by another organisation and you want to access GoBusiness' digital services for licensing matters, please ensure that the following details in your registration match your current account:
+
+        - Name
+        - Email Address
+        - Foreign ID Number
+        - Foreign ID expiry date
+        - Country where ID was issued
     - title: How do I sign up for a Singpass Foreign Account for my business?
       content: |
         If you are a foreign user representing a company with no presence in Singapore, please apply for a Singpass Foreign user Account on the [Corppass Website](https://www.corppass.gov.sg/corppass/registration/nonuen/nonsingpass/registrationdetails){:target="_blank"}{:rel="noopener"}.
