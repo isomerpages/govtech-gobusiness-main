@@ -11,20 +11,20 @@ To apply for licenses in your own name without a Singapore government-issued ID,
 **NParks**
 <br>To apply for NParks licences, please complete this form: [NParks Licence Application Form](https://avs-eservices-uat.nparks.gov.sg/eservices/sfa-registration)
 
-{% include letter-accordion.html accordions=site.data.acc103c-account-access-foreign-individual letter="a" %}
+{% include letter-accordion.html accordions=site.data.acc103c-account-access-foreign-individua-business letter="a" %}
 
 ### About Singpass Foreign Account
 
-{% include letter-accordion.html accordions=site.data.acc103c-account-access-foreign-individual letter="b" %}
+{% include letter-accordion.html accordions=site.data.acc103c-account-access-foreign-individual-business letter="b" %}
 
 ### Singpass Foreign user Account on GoBusiness
 
-{% include letter-accordion.html accordions=site.data.acc103c-account-access-foreign-individual letter="c" %}
+{% include letter-accordion.html accordions=site.data.acc103c-account-access-foreign-individual-business letter="c" %}
 
 ### First Time Sign In
 
-{% include letter-accordion.html accordions=site.data.acc103c-account-access-foreign-individual letter="d" %}
+{% include letter-accordion.html accordions=site.data.acc103c-account-access-foreign-individual-business letter="d" %}
 
 ### My Account on GoBusiness
 
-{% include letter-accordion.html accordions=site.data.acc103c-account-access-foreign-individual letter="e" %}
+{% include letter-accordion.html accordions=site.data.acc103c-account-access-foreign-individual-business letter="e" %}
