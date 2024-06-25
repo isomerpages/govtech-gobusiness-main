@@ -2,6 +2,6 @@ show: true
 button: false
 title: "Problems accessing Dashboard or GoBusiness Licensing as a Business user?"
 content: |
-  Check with your Corppass admin about granting access to MTI 'GoBusiness Portal' and MTI 'LicenceOne' e-services for your Corppass account.
+  If you see this error message when logging in: “You do not have a valid account or you are not authorised to access Corppass”. Check with your Corppass admin about granting access to MTI 'GoBusiness Portal' e-service for your Corppass account.
   
   <br><br>It is also recommended that you be assigned the MTI 'LICENCEONE' e-service to access the GoBusiness Licensing portal.
