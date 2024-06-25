@@ -8,6 +8,11 @@ third_nav_title: Account access
 
 ### Register for a Singpass Foreign user Account
 
+To apply for licenses in your own name without a Singapore government-issued ID, individuals should register as foreign individual users.
+
+**NParks**
+To apply for NParks licences, please complete this form: [NParks Licence Application Form](https://avs-eservices-uat.nparks.gov.sg/eservices/sfa-registration)
+
 {% include letter-accordion.html accordions=site.data.acc103c-account-access-foreign-individual letter="a" %}
 
 ### About Singpass Foreign Account
