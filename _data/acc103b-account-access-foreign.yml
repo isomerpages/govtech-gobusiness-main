@@ -10,15 +10,19 @@
         Step 3: Sign in with your Singpass account to access the GoBusiness Dashboard.
     - title: What is Singpass Foreign user Account for foreign entities?
       content: |
-        "A Singpass Foreign user Account is a Singpass account that allows foreign users to transact with selected government digital services in Singapore. This includes accessing digital services on GoBusiness Dashboard.
+        A Singpass Foreign user Account is a Singpass account that allows foreign users to transact with selected government digital services in Singapore. This includes accessing digital services on GoBusiness Dashboard.
 
-        For Business licensing matters, you will be automatically issued a Singpass Foreign user Account by Corppass when you register a Corppass user account. In this case, you do not need to apply for a Singpass Foreign user Account with GoBusiness."
+        For Business licensing matters, you will be automatically issued a Singpass Foreign user Account by Corppass when you register a Corppass user account. In this case, you do not need to apply for a Singpass Foreign user Account with GoBusiness.
     - title: How do I sign up for a Singpass Foreign Account for my business?
       content: |
         If you are a foreign user representing a company with no presence in Singapore, please apply for a Singpass Foreign user Account on the [Corppass Website](https://www.corppass.gov.sg/corppass/registration/nonuen/nonsingpass/registrationdetails){:target="_blank"}{:rel="noopener"}.
+
+        Step 1: Click on Services at the left hand corner of the top banner.
+        Step 2: Select Register for Corppass.
+        Step 3: Select Foreign Entity and [register via Foreign ID](https://www.corppass.gov.sg/corppass/registration/nonuen/nonsingpass/registrationdetails){:target="_blank"}{:rel="noopener"}.
     - title: I'm looking to transact on GoBusiness as a foreign user, but I do not have an entity. Will I be able to do that?
       content: |
-        You will have to [register as a foreign individual user](https://dashboard.gobusiness.gov.sg/register-singpass-foreign-account). Please refer to the [Account Access for Foreign Individual Users](https://gobusiness.gov.sg/foreign-account-individual) section for assistance.
+        You will have to [register as a foreign individual user](https://www.gobusiness.gov.sg/dashboard-faqs/account-access/foreign-individual-users). Please refer to the [Account Access for Foreign Individual Users](https://www.gobusiness.gov.sg/dashboard-faqs/account-access/foreign-individual-users) section for assistance.
 - accordion:
   letter: b
   data:
