@@ -42,7 +42,7 @@
         The [Apply Licence](https://dashboard.gobusiness.gov.sg/add-tasks) page will inform you which platform you should be using in this transitional period. Please note that a separate GoBusiness Licensing account is required for licences that are only available on GoBusiness Licensing.
     - title: How can I manage my Singpass Foreign user Account access to GoBusiness?
       content: |  
-        If you are transacting as a Business User, your Corppass Administrator of your entity can [log in to Corppass](https://www.corppass.gov.sg/cpauth/login/homepage?URL=%2F&TAM_OP=login) to create and manage your entity's Singpass Foreign user Account access. 
+        If you are transacting as a Business User, your Corppass Administrator of your entity can [log in to Corppass](https://www.corppass.gov.sg/cpauth/login/homepage?URL=%2F&TAM_OP=login){:target="_blank"}{:rel="noopener"} to create and manage your entity's Singpass Foreign user Account access. 
         
         If you are transacting as an Individual User, please contact the government agency you registered with.
 
@@ -63,7 +63,6 @@
         Click on the account menu at the top right corner, and select My Account.
  
         Sections that you can edit will be indicated by an Edit Details button.
-
     - title: What details can I edit on My Profile?
       content: |  
         You will be able to edit your:
@@ -71,8 +70,11 @@
           - Contact number
           - Email
           - Business Address
-    - title: Why can't I update my company details on GoBusiness?
+    - title: How do I update my company details on GoBusiness?
       content: |  
-        We collect certain information from Singpass and Corppass, such as your entity's details. To change these details, please contact Corppass.
+        We collect certain information from Singpass and Corppass, such as your entity's details. To change these details, please contact [Corppass](https://www.corppass.gov.sg/corppass/common/contactus){:target="_blank"}{:rel="noopener"}.
  
         Once the update on Singpass and Corppass is successful, the information in GoBusiness will be updated on your next login.
+    - title: How do I update my Foreign ID Number, Type or Expiry Date?
+      content: |  
+        If you are a **Business User**, please contact Corppass to change your Foreign ID number, Type or Expiry Date. Once the update is successful, the information on GoBusiness will be updated on your next login.
