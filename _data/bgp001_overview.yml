@@ -1,0 +1,27 @@
+- image: <img style="margin:29px 0 0 29px" src="/images/grow/bgp/Apply New Grant.svg" aria-hidden="true">
+  title: Apply for a BGP grant
+  description: Get an overview of the grant application process.
+  url: /business-grants-portal/apply-for-a-bgp-grant/
+  url-new-tab: true
+  text: View Apply for a BGP grant
+
+- image: <img style="margin:29px 0 0 29px" src="/images/grow/bgp/Change Request.svg" aria-hidden="true">
+  title: File a change request
+  description: Steps for making amendments to your application.
+  url: /business-grants-portal/file-a-change-request/
+  url-new-tab: true
+  text: View File a change request
+
+- image: <img style="margin:29px 0 0 29px" src="/images/grow/bgp/File Claim.svg" aria-hidden="true">
+  title: File a claim
+  description: Steps for claiming from your approved grant amount.
+  url: /business-grants-portal/file-a-change-request/
+  url-new-tab: true
+  text: View File a claim
+
+- image: <img style="margin:29px 0 0 29px" src="/images/grow/bgp/faq.svg" aria-hidden="true">
+  title: Additional help
+  description: Still have questions? Head to the Business Grants Portal FAQ.
+  url: /business-grants-portal-faq/
+  url-new-tab: true
+  text: View BGP FAQ
