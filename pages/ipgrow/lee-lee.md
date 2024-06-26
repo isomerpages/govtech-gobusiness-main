@@ -15,8 +15,7 @@ Chambers 2023 describes Lee & Lee as having "strong reputation in litigation and
 
 <b>Top focus areas for IA/IP services:</b> Patent Agent Service, Trade Mark Agent Service, IP Due Diligence, Contract Drafting, Dispute Resolution
 
-<b>Intellectual property awards received:</b> Chambers, Asia-Pacific Guide 2023 - Band 3 in "Intellectual Property: Domestic: Litigation" ; Asian Legal Business, Asia IP Rankings 2023 - Tier 1 in "Copyright/Trademarks" and "Patents" ; Asia IP Patent Rankings 2023 - Tier 2 in "Patent Contentious" ; World Trademark Review, WTR 1000 2023 - Bronze in "Firms: Enforcement & Litigation" and "Firms: Prosecution & Strategy" ; IAM - Bronze for "Litigation" in Patent 1000 (2023)
-
+<b>Intellectual property awards received:</b> Chambers, Asia-Pacific Guide 2023 - Band 3 in "Intellectual Property: Domestic: Litigation" ; Asian Legal Business, Asia IP Rankings 2022 - Tier 1 in "Copyright/Trademarks" and "Patents" ; Asia IP, Patent Rankings 2022 - Tier 2 in "Patent Contentious" ; World Trademark Review, WTR 1000 2023 - Bronze in "Firms: Enforcement & Litigation" and "Firms: Prosecution & Strategy" ; Managing IP, IP Stars Awards 2022 - Tier 3 in "Trademark Contentious" and "Trademark Prosecution"
 
 <b>Type of organization:</b> SME
 
@@ -164,34 +163,34 @@ Chambers 2023 describes Lee & Lee as having "strong reputation in litigation and
 <a name='key-practice-experts'></a>
 ### Key practice experts
 
-**Tee Jim, Tan, S.C.**
+**Tee Jim, Tan**
 
 - Job Title: Senior Partner and Head of Intellectual Property Department
-- Years of Experience: 44 years
+- Years of Experience: 43 years
 - Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Dispute Resolution, IP Training, IP Due Diligence, Trade Mark Agent Service
+- IA/IP-Related Expertise: Trade Mark Agent Service, IP Due Diligence, Dispute Resolution, IP Training
 - Certifications/Qualifications: LL.B. (Hons) University of Singapore 1979, LL.M. University of London 1983, Admitted to the Singapore Bar 1980, Appointed Senior Counsel of the Supreme Court of Singapore 1999, Singapore Registered Patent Agent
-- Awards/Accolades: Chambers (Asia-Pacific Guide 2023) Band 1 in "Intellectual Property: Domestic: Litigation", World Trademark Review WTR 1000 2023 - Silver for "Individuals: Enforcement & Litigation", Managing IP - IP Stars Awards 2023 - Recipient of "Patent Star" and "Trade Mark Star" awards
+- Awards/Accolades: Chambers (Asia-Pacific Guide 2023) Band 1 in "Intellectual Property: Domestic: Litigation", World Trademark Review WTR 1000 2023 - Silver for "Individuals: Enforcement & Litigation", Managing IP - IP Stars Awards 2022 - Recipient of "Patent Star" and "Trade Mark Star"
 - URL of LinkedIn/Company Profile: <a href="https://www.leenlee.com.sg/tant" target="_blank" rel="noopener">https://www.leenlee.com.sg/tant</a>
 
-**Zechariah, Chan, PBM**
+**Zechariah, Chan**
 
 - Job Title: Partner, Intellectual Property
-- Years of Experience: 21 years
+- Years of Experience: 20 years
 - Location: Singapore
 - IA/IP-Related Expertise: Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, Contract Drafting, Dispute Resolution
 - Certifications/Qualifications: LL.B. (Hons) National University of Singapore 1999, Admitted to the Singapore Bar 2000, Accredited Senior Mediator at Law Society of Singapore, Accredited Associate Mediator at Singapore Mediation Centre
-- Awards/Accolades: World Trademark Review WTR 1000 2023 - Recommended for "Individuals: Transactions", WhosWhoLegal 2023 - Recommended for "Franchising" and "Southeast Asia " Franchising" categories in 2023
+- Awards/Accolades: World Trademark Review WTR 1000 2023 - Recommended for "Individuals: Transactions", WhosWhoLegal 2022 - Recommended in Global Leader and National Leader categories for Franchising, Singapore Judiciary - Outstanding Court Volunteer Award 2021
 - URL of LinkedIn/Company Profile: <a href="https://www.leenlee.com.sg/chanz" target="_blank" rel="noopener">https://www.leenlee.com.sg/chanz</a>
 
 **Maurice, Cheong**
 
 - Job Title: Partner, Intellectual Property
-- Years of Experience: 26 years
+- Years of Experience: 25 years
 - Location: Singapore
-- IA/IP-Related Expertise: IP Audit, Contract Drafting, Dispute Resolution, IP Due Diligence, Registered Design Agent Service
+- IA/IP-Related Expertise: Patent Agent Service, IP Audit, IP Due Diligence, Contract Drafting, Dispute Resolution
 - Certifications/Qualifications: LL.B. University of London 1995, LL.M. National University of Singapore 2003, Admitted to the Bar of England and Wales 1996, Admitted to the Singapore Bar 1998 
-- Awards/Accolades: World Trademark Review WTR 1000 2023 - Bronze for "Individuals: Enforcement & Litigation", IAM, Patent 1000 2023 - Recommended for "Individuals: Transactions", Recommended "IP Expert" in the 2022 Singapore IP Experts list
+- Awards/Accolades: World Trademark Review WTR 1000 2023 - Bronze for "Individuals: Enforcement & Litigation", IAM, Patent 1000 2022 - Recommended for "Individuals: Transactions", Asia IP, IP Experts 2022 - Named as a Singapore IP Expert
 - URL of LinkedIn/Company Profile: <a href="https://www.leenlee.com.sg/cheongm" target="_blank" rel="noopener">https://www.leenlee.com.sg/cheongm</a>
 
 **de Souza, Christopher**
@@ -221,18 +220,10 @@ Chambers 2023 describes Lee & Lee as having "strong reputation in litigation and
 - Certifications/Qualifications: LL.B. (Hons) National University of Singapore 2016, Admitted to the Singapore Bar 2017
 - URL of LinkedIn/Company Profile: <a href="https://www.leenlee.com.sg/lee-basil" target="_blank" rel="noopener">https://www.leenlee.com.sg/lee-basil</a>
 
-**Chongshuo, Yan**
-
-- Job Title: Partner, Intellectual Property
-- Years of Experience: 8 years
-- Location: Singapore
-- IA/IP-Related Expertise: Contract Drafting, Dispute Resolution, IP Due Diligence 
-- Certifications/Qualifications: LL.B. (Cum Laude) Singapore Management University 2015, Admitted to the Singapore Bar 2016, Certified Information Privacy Professional (Asia) (CIPP/A) of the International Association of Privacy Professionals (IAPP)
-- URL of LinkedIn/Company Profile: <a href="https://www.leenlee.com.sg/chongshuo-yan/" target="_blank" rel="noopener">https://www.leenlee.com.sg/chongshuo-yan/</a>  
 
 
 ---
 <p>
 <a class='btn' href='https://form.gov.sg/643f93073b2d450011b0ab79' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 18 June 2024
+Profile last updated on 23 August 2023
