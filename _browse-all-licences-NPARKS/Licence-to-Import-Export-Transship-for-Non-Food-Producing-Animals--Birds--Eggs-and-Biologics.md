@@ -15,7 +15,7 @@ National Parks Board (NPARKS)
 <b>For foreign Individual</b>, you will be required to login using the SingPass Foreign Account (SFA) in order to apply for this licence.<br/> 
 You may click on this <a href="https://avs-eservices.nparks.gov.sg/eservices/sfa-registration">link</a> to apply for a SFA account if you do not have one.<br/>
 
-This licence is required if you intend to:<br/>
+This licence is required if you intend to:<br/>
 1) import/export/tranship live pet animals and birds;<br/>
 2) import/tranship veterinary biologics*; or<br/>
 3) export the carcass of any pet animal or bird.<br/>
@@ -47,7 +47,7 @@ AVS | Homepage (nparks.gov.sg).<br/>
 3) Valid rabies serology test report<br/>
 4) Photo showing clearly the face and body of the dog (mandatory only for mixed/cross breed)<br/>
 <br/>
-<p>If your animal(s) require quarantine, please indicate the Quarantine Reservation Code (e.g QRC2017XXXXXX) in the application.  Application will be processed according to documents uploaded via Quarantine Management System (QMS).<br/></p>
+<p>If your animal(s) require quarantine, please indicate the Quarantine Reservation Code (e.g QRC2017XXXXXX) in the application. Application will be processed according to documents uploaded via Quarantine Management System (QMS).<br/></p>
 *No supporting documents required. Application will be processed according to documents uploaded via Quarantine Management System (QMS).<br/>
 <br/>
 
