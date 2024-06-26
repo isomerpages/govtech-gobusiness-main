@@ -166,6 +166,7 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - TECO - AEMB4E/AEMV4E-2P-55KW
 - TECO - AEMB4E/AEMV4E-2P-75KW
 - TECO - AEMB4E/AEMV4E-4P-11kW
+- TECO - AEMB4E/AEMV4E-4P-45kW
 - TECO - AEMB4E/AEMV4E-4P-55kW
 - TECO - AEMB4E/AEMV4E-4P-75KW
 - TECO - AEMB4E/AEMV4E-4P-90KW
@@ -241,6 +242,8 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - WEG - W21_IE4_90KW_4P
 - WEG - W22_IE4_15KW_2P
 - WEG - W22_IE4_22KW_4P
+- Wilo -  WE4-180M-4
+- Wilo -  WE4-225M-4
 
 
 
