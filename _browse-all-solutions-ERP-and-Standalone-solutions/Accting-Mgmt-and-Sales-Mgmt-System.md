@@ -50,10 +50,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Accounts101 Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199204515R-Monyworks-G' target='_blank'>Moneyworks</a><br></td>
-<td>Advanced Micro Control Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202138250K-SQL-Account-v-5-G' target='_blank'>SQL Account Version 5</a><br></td>
 <td>Apscom Solutions Pte Ltd</td>
 </tr>
@@ -86,20 +82,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>NORTH TRUST PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201408289W-Xro-G' target='_blank'>Xero</a><br></td>
-<td>RDC CORPORATE PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201809937E-Tsch-Globl-Xro-ACC-G' target='_blank'>Tisch Global - Xero Accounting</a><br></td>
 <td>Tisch Global Private Limited</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200601747E-EZ-ACC-nd-Invntory-Softwr-G' target='_blank'>EZ Accounting and Inventory Software</a><br></td>
 <td>User Basic Software Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201334715D-XERO-CLOUD-ACC-SOFTWARE-G' target='_blank'>XERO CLOUD ACCOUNTING SOFTWARE</a><br></td>
-<td>W.L.P PTE LTD</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201130282N-Xro-Cloud-ACC-SLNs-G' target='_blank'>Xero Cloud Accounting Solutions</a><br></td>
@@ -216,6 +204,18 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202008850Z-FdCorp-Xro-ACC-Softwr-G' target='_blank'>FidCorp Xero Accounting Software</a><br></td>
 <td>FidCorp Services Private Limited</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200914556R-Fnnco-Cloud-ACC-Softwr-G' target='_blank'>Financio Cloud Accounting Software</a><br></td>
+<td>Asian Business Software Solutions Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200504354M-MFP-Xro-ACC-Softwr-G' target='_blank'>MFP: Xero Accounting Software</a><br></td>
+<td>MFP Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201408289W-Xro-G' target='_blank'>Xero</a><br></td>
+<td>RDC CORPORATE PTE LTD</td>
 </tr>
 </table>
 
