@@ -16,6 +16,4 @@ Now that you've registered your business, the next thing you must have to transa
 - Customise digital service access of individual users within the entity
 - Authorise third party service providers to transact on your behalf for selected digital services
 
-### There are two ways to register for a Corppass Administrator Account
-
 {% include panels-featurelink.html panels=site.data.rgp010d_corppass-admin %}

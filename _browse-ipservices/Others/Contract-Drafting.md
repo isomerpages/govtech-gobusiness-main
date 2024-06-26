@@ -26,7 +26,7 @@ In the context of intangible assets (IA) and IP, having a well-written contract 
 ---
 
 ### Connect with relevant service providers for contract drafting services (with IA/IP considerations)
-**42 service providers listed.**
+**44 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -170,6 +170,21 @@ We are a specialist IP law firm, established in 2001, providing expert legal adv
 
 ---
 
+#### Allen & Gledhill LLP
+
+Allen & Gledhill is a regional law firm providing legal services to premier clients since 1902.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 46 to 50</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to Above $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> Case by case</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/642b86d1d88e0800129def29' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/allen-gledhill-llp/){:target='_blank'}
+
+---
+
 #### Joyce A. Tan & Partners LLC
 
 Founded in 1998 with a strong international outlook and has been active in cross-border transactions.
@@ -257,6 +272,36 @@ Business lawyers, for businesses. Expert legal advice for corporate, employment,
 </ul>
 
 <a class='btn' href='https://form.gov.sg/65cad40116a0c0b769481765' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/xavier-associates-llc/){:target='_blank'}
+
+---
+
+#### CTLC Law Corporation
+
+Full service law firm with strong IP/IT and technology practice
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 16 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $350</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/6632ec6983afe4776d1968c3' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ctlc-law-corporation/){:target='_blank'}
+
+---
+
+#### Pintas-IPhouse Pte Ltd
+
+PINTAS: Integrated IP Solutions for ASEAN.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 16 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/664ac1ab738260e7583fd0c8' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/pintas-iphouse-pte-ltd/){:target='_blank'}
 
 ---
 
@@ -541,28 +586,13 @@ Intelleigen Legal LLC is a registered law firm based in Singapore.
 We are law firm with focus on IP law. We serve individuals and businesses of all sizes.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 11 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 11 - 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $400</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/643f4c8bd1a2d80012eef672' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/alpha-omega-law-corporation/){:target='_blank'}
-
----
-
-#### Allen & Gledhill LLP
-
-Allen & Gledhill is a regional law firm providing legal services to premier clients since 1902.
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to Above $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> Case by case</li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/642b86d1d88e0800129def29' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/allen-gledhill-llp/){:target='_blank'}
 
 ---
 
@@ -633,7 +663,7 @@ We relentlessly eliminate redundant processes to save costs and time for you.
 
 #### Baker McKenzie Wong & Leow
 
-Baker & McKenzie is one of the largest law firms globally with 77 offices in 46 countries.
+Baker & McKenzie is one of the largest law firms globally with 74 offices in 45 countries.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>

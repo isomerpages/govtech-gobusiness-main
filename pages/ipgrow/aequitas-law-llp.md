@@ -141,4 +141,4 @@ At Aequitas we give you the right legal advice at the right time to protect your
 <p>
 <a class='btn' href='https://form.gov.sg/64c709e15ed383001239085b' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 23 August 2023
+Profile last updated on 8 May 2024

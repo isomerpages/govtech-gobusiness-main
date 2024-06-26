@@ -44,14 +44,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Craft Creative Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201900904K-DM-Dgtl-M-Dgtl-Mrktng-PKG-v-01-G' target='_blank'>DM Digital M Digital Marketing Packages Version 0.1</a><br></td>
-<td>Digital M Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201213801E-DM-Hshmt-Dgtl-Enblmnt-PKG-G' target='_blank'>DM Hashmeta Digital Enablement Packages</a><br></td>
-<td>Hashmeta Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201215396N-DM-I-Concpt-Innovton-Dgtl-Mrktng-v-10-G' target='_blank'>DM I Concept Innovation Digital Marketing Version 1.0</a><br></td>
 <td>I Concept Innovation Pte Ltd</td>
 </tr>
@@ -84,20 +76,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>welovesupermom pte ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202005828Z-DM-Gt-Customrs-Dgtl-Mrktng-PKG-v-v102-G' target='_blank'>DM Get Customers Digital Marketing Packages Version v1.02</a><br></td>
-<td>Get Customers Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201535836W-DM-AKS-TECH-DIGITAL-MARKETING-PACKAGES-v-10-G' target='_blank'>DM AKS TECH DIGITAL MARKETING PACKAGES Version 1.0</a><br></td>
 <td>Aks Tech Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201222016W-DM-OC-Dgtl-Dgtl-Mrktng-PKG-G' target='_blank'>DM OC Digital Digital Marketing Packages</a><br></td>
 <td>OC Digital Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201410722E-DM-Busnss-Thrust-Dgtl-Mrktng-PKG-v-DM01-G' target='_blank'>DM Business Thrust Digital Marketing Packages Version DM01</a><br></td>
-<td>Business Thrust Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201605009E-DM-SEOcty-Dgtl-Mrktng-G' target='_blank'>DM SEOciety Digital Marketing</a><br></td>
@@ -118,10 +102,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201529110M-DM-2Stllons-Complt-Dgtl-Mrktng-PKG-G' target='_blank'>DM 2Stallions Complete Digital Marketing Packages</a><br></td>
 <td>2STALLIONS PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201713785N-DM-APEC-SLNs-Dgtl-Mrktng-PKG-G' target='_blank'>DM APEC Solutions Digital Marketing Packages</a><br></td>
-<td>APEC SOLUTIONS PTE. LTD.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201915397K-DM-Rogu-Dgtl-Mrktng-PKG-G' target='_blank'>DM Rogue Digital Marketing Packages</a><br></td>
@@ -222,6 +202,26 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201325568H-DM-Bzsqur-Dgtl-Mrktng-Sut-PKG-G' target='_blank'>DM Bizsquare Digital Marketing Suite Packages</a><br></td>
 <td>Bizsquare Management Consultants Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200617554M-DM-OOm-Dgtl-Prformnc-Mrktng-Pckg-G' target='_blank'>DM OOm Digital Performance Marketing Package</a><br></td>
+<td>OOm Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201322157W-DM-MdOn-SEO-SEM-SMM-SMA-Dgtl-Mrktng-Boost-Up-v-3-G' target='_blank'>DM MediaOne SEO | SEM | SMM | SMA Digital Marketing Boost Up Version 3</a><br></td>
+<td>MediaOne Business Group Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201134148Z-DM-Clck-Md-Dgtl-Mrktng-PKG-G' target='_blank'>DM iClick Media Digital Marketing Packages</a><br></td>
+<td>iClick Media Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202205403H-DM-Bluhv-CST-Dgtl-Mrktng-PKG-v-22-32-G' target='_blank'>DM Bluehive Consulting Digital Marketing Packages Version 22 - 3.2</a><br></td>
+<td>Bluehive Consulting Asia Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201900904K-DM-Dgtl-M-Dgtl-Mrktng-PKG-v-01-G' target='_blank'>DM Digital M Digital Marketing Packages Version 0.1</a><br></td>
+<td>Digital M Pte. Ltd.</td>
 </tr>
 </table>
 

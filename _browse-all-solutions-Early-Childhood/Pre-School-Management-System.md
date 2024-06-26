@@ -35,6 +35,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/201100789H-LttlLvs-45-EC' target='_blank'>LittleLives 4.5</a><br></td>
 <td>LittleLives Inc Pte. Ltd.</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201304337W-Td-SMART-IT-SLN-for-PrSCH-EC' target='_blank'>Taidii SMART IT Solution for Preschool</a><br></td>
+<td>Taidii Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

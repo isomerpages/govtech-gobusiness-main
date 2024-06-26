@@ -27,7 +27,7 @@ If you prefer to engage a professional to analyse IP information for you, head t
 ---
 
 ### Connect with relevant service providers for IP database services
-**13 service providers listed.**
+**12 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -157,7 +157,7 @@ Allen & Gledhill is a regional law firm providing legal services to premier clie
 
 #### Baker McKenzie Wong & Leow
 
-Baker & McKenzie is one of the largest law firms globally with 77 offices in 46 countries.
+Baker & McKenzie is one of the largest law firms globally with 74 offices in 45 countries.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
@@ -167,21 +167,6 @@ Baker & McKenzie is one of the largest law firms globally with 77 offices in 46 
 </ul>
 
 <a class='btn' href='https://form.gov.sg/646ff4ec3017a20011b004d1' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/baker-mckenzie-wong-leow/){:target='_blank'}
-
----
-
-#### China Sinda Intellectual Property Pte. Ltd.
-
-We are the representative office of the first foreign IP firm under SG Government IP Hub Master Plan.
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of users on database in previous calendar year:</b> 1 to 500</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $600 hourly rate</li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/6490fe43ac885100110f899f' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/china-sinda-intellectual-property-pte-ltd/){:target='_blank'}
 
 ---
 
