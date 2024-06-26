@@ -26,35 +26,35 @@ Studio Manager is an enterprise retail POS and CRM solution that integrates mark
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A</td>
 <td style='padding: 10px;'>$5,400.00</td>
 <td style='padding: 10px;'>$5,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ARCHER_LOGIC_Studio_Manager_23052024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/ARCHER_LOGIC_Studio_Manager_13062024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B</td>
 <td style='padding: 10px;'>$10,080.00</td>
 <td style='padding: 10px;'>$10,080.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ARCHER_LOGIC_Studio_Manager_23052024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/ARCHER_LOGIC_Studio_Manager_13062024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C</td>
 <td style='padding: 10px;'>$15,320.00</td>
 <td style='padding: 10px;'>$15,320.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ARCHER_LOGIC_Studio_Manager_23052024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/ARCHER_LOGIC_Studio_Manager_13062024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D</td>
 <td style='padding: 10px;'>$17,240.00</td>
 <td style='padding: 10px;'>$17,240.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ARCHER_LOGIC_Studio_Manager_23052024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/ARCHER_LOGIC_Studio_Manager_13062024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E</td>
 <td style='padding: 10px;'>$21,040.00</td>
 <td style='padding: 10px;'>$18,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ARCHER_LOGIC_Studio_Manager_23052024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/ARCHER_LOGIC_Studio_Manager_13062024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

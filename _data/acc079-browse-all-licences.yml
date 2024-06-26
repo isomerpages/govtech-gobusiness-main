@@ -2720,13 +2720,13 @@
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Urban-Redevelopment-Authority-(URA)/Change-of-Use-Approval">View Licence Details</a>
 
         -----
-        **Home Office Scheme (URA)**
+        **URA - Home Office Scheme (for private residential properties)**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 150px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/sp-mini.png" alt="For Individual Users"> For Individual Users </span>
 
         To set up a Home Office in a private residential property, homeowners must meet the Terms & Conditions of the Home Office Scheme. The business must satisfy the Home Office Performance Criteria and does not fall under the List of Businesses not permitted under the scheme.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=41" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Urban-Redevelopment-Authority-(URA)/Home-Office-Scheme-(URA)" style="margin-left: 1em;">View Licence Details</a>
+        <a class="primary-btn" id = "desktopNotice" href="https://dashboard.gobusiness.gov.sg/task-details/homeofficeschemeura" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a><a id="desktopNotice" href="/browse-all-licences/urban-redevelopment-authority-(ura)/home-office-scheme-(for-private-residential-properties)" style="margin-left: 1em;">View Licence Details</a>
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Urban-Redevelopment-Authority-(URA)/Home-Office-Scheme-(URA)">View Licence Details</a>
 
         -----

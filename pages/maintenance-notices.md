@@ -12,8 +12,12 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 | **Scheduled Date** | **Remarks** |  
 
 
-| 07 Jun, 10pm - 08 Jun, 8am <br> 08 Jun, 8pm - 09 Jun, 8am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. | 
-| 08 Jun, 12am - 2pm <br>09 Jun, 12am - 2pm | **Bizfile** will be unavailable due to scheduled maintenance. Name reservation application and business registration for Sole Proprietorship/Partnership, and information from ACRA for GoBusiness will be unavailable during this period. |  
-   
+| 26 Jun, 6pm - 11:59pm | **Application, amendment, renewal & cancellation of National Environmental Agency (NEA) licences** will be unavailable during the upcoming scheduled maintenance. |       
+| 26 Jun, 8pm - 11pm | **Application, amendment, renewal & cancellation of Infocomm Media Development Authority (IMDA) licences** will be unavailable during the upcoming scheduled maintenance. |      
+| 27 Jun, 4:30pm - 6:30pm<br>3 Jul, 4:30pm - 6:30pm | **GoBusiness Dashboard** will be unavailable due to scheduled maintenance. All services may not be available during this period. |     
+| 28 Jun, 10pm - 29 Jun, 8am<br>29 Jun, 8pm - 30 Jun, 12pm | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |  
+| 29 Jun, 12am - 30 Jun, 12am | **Application, amendment, renewal & cancellation of Singapore Police Force (SPF) licences** will be unavailable during the upcoming scheduled maintenance. |      
+
+
 
 <script src="/jquery/jquery.min.js"></script> <script src="/jquery/resize-tables.js"></script>
