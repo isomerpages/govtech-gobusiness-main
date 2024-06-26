@@ -50,10 +50,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Accounts101 Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199204515R-Monyworks-G' target='_blank'>Moneyworks</a><br></td>
-<td>Advanced Micro Control Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202138250K-SQL-Account-v-5-G' target='_blank'>SQL Account Version 5</a><br></td>
 <td>Apscom Solutions Pte Ltd</td>
 </tr>
@@ -92,10 +88,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200601747E-EZ-ACC-nd-Invntory-Softwr-G' target='_blank'>EZ Accounting and Inventory Software</a><br></td>
 <td>User Basic Software Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201334715D-XERO-CLOUD-ACC-SOFTWARE-G' target='_blank'>XERO CLOUD ACCOUNTING SOFTWARE</a><br></td>
-<td>W.L.P PTE LTD</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201130282N-Xro-Cloud-ACC-SLNs-G' target='_blank'>Xero Cloud Accounting Solutions</a><br></td>

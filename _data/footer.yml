@@ -1,8 +1,10 @@
-faq: /faqs/popular/
-contact_us: /contact-us/
+show_reach: true
 copyright_agency: GoBusiness
 privacy_policy: /privacy/
 terms_of_use: /terms-of-use/
+faq: /faqs/popular/
+contact_us: /contact-us/
+feedback: /contact-us/
 
 navlinks:
   - title: Start a Business
@@ -31,8 +33,8 @@ navlinks:
         url: /business-grants-portal/
       - title: Licences and Permits
         url: /licences/
-      - title: SkillsFuture for Enterprise
-        url: /skillsfuture-for-enterprise/
+      - title: SkillsFuture for Business
+        url: 'https://skillsfuture.gobusiness.gov.sg/'
       - title: Accreditation
         url: /accreditation/
       - title: Intellectual Property
