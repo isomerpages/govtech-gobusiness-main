@@ -35,6 +35,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/202015121Z-EPrmtToWork-BC' target='_blank'>E-Permit-To-Work</a><br></td>
 <td>DigitalBuild Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201600202R-CSG-Novd-SftyHSE-BC' target='_blank'>CSG - Novade Safety-HSE</a><br></td>
+<td>CSG Software Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201606906Z-Hubbl-Sfty-MGT-Systm-BC' target='_blank'>Hubble Safety Management System</a><br></td>
+<td>Hubble Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
