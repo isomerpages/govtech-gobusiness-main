@@ -15,7 +15,7 @@ Chambers 2023 describes Lee & Lee as having "strong reputation in litigation and
 
 <b>Top focus areas for IA/IP services:</b> Patent Agent Service, Trade Mark Agent Service, IP Due Diligence, Contract Drafting, Dispute Resolution
 
-<b>Intellectual property awards received:</b> Chambers, Asia-Pacific Guide 2023 - Band 3 in "Intellectual Property: Domestic: Litigation" ; Asian Legal Business, Asia IP Rankings 2023 - Tier 1 in "Copyright/Trademarks" and "Patents" ; Asia IP Patent Rankings 2023 - Tier 2 in "Patent Contentious" ; World Trademark Review, WTR 1000 2023 - Bronze in "Firms: Enforcement & Litigation" and "Firms: Prosecution & Strategy" ; IAM - Bronze for "Litigation" in Patent 1000 (2023)
+<b>Intellectual property awards received:</b> Chambers, Asia-Pacific Guide 2023 - Band 3 in "Intellectual Property: Domestic: Litigation" ; Asian Legal Business, Asia IP Rankings 2023 - Tier 1 in "Copyright/Trademarks" and "Patents" ; Asia IP Patent Rankings 2023 - Tier 2 in "Patent Contentious", "Trademark Contentious" and "Copyright categories"; World Trademark Review, WTR 1000 2023 - Bronze in "Firms: Enforcement & Litigation" and "Firms: Prosecution & Strategy" ; IAM - Bronze for "Litigation" in Patent 1000 (2023)
 
 
 <b>Type of organization:</b> SME
@@ -181,7 +181,7 @@ Chambers 2023 describes Lee & Lee as having "strong reputation in litigation and
 - Location: Singapore
 - IA/IP-Related Expertise: Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, Contract Drafting, Dispute Resolution
 - Certifications/Qualifications: LL.B. (Hons) National University of Singapore 1999, Admitted to the Singapore Bar 2000, Accredited Senior Mediator at Law Society of Singapore, Accredited Associate Mediator at Singapore Mediation Centre
-- Awards/Accolades: World Trademark Review WTR 1000 2023 - Recommended for "Individuals: Transactions", WhosWhoLegal 2023 - Recommended for "Franchising" and "Southeast Asia " Franchising" categories in 2023
+- Awards/Accolades: World Trademark Review WTR 1000 2023 - Recommended for "Individuals: Transactions", WhosWhoLegal 2023 - Recommended for "Franchising" and "Southeast Asia - Franchising" categories in 2023
 - URL of LinkedIn/Company Profile: <a href="https://www.leenlee.com.sg/chanz" target="_blank" rel="noopener">https://www.leenlee.com.sg/chanz</a>
 
 **Maurice, Cheong**
