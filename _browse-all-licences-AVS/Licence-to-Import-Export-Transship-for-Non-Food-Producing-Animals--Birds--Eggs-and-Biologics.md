@@ -6,7 +6,7 @@ third_nav_title: Animal & Veterinary Service (AVS)
 
 ## Apply for Licence to Import/Export/Transship for Non-Food Producing Animals, Birds, Eggs and Biologics
 
-National Parks Board (NPARKS)
+Animal & Veterinary Service (AVS)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/ietnonfood" type="primary" %}
 
