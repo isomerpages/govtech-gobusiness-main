@@ -1,7 +1,7 @@
 - accordion:
   letter: a
   data:
-    - title: What to expect after I have registered for a Singpass Foreign user Account (individual)?
+    - title: What happens after I have registered for a Singpass Foreign User Account (Individual)?
       content: |
         Step 1:
         The licensing agency will take a few days to process your registration. If you have any queries during this time, please contact the licensing agency.
@@ -44,7 +44,7 @@
     - title: Who is eligible to apply for a Singpass for Foreign User Account?
       content: |  
         Foreign individuals who do not have a Singapore Government-issued ID will be eligible to apply for a Singpass for Foreign user Account with GoBusiness, if you need to transact with us digitally for Individual licences.
-    - title: How to reset my Singpass Foreign user Account password?
+    - title: How do I reset my Singpass Foreign user Account password?
       content: |  
        To reset your SFA password, visit the [Singpass' Request for New Password (Foreigner)](https://www.singpass.gov.sg/home/ui/online-reset-password/sfa){:target="_blank"}{:rel="noopener"} page. For additional assistance or inquiries, please contact Singpass.
     - title: How can I access the GoBusiness Dashboard as a Singpass Foreign user Account (Individual) user?
@@ -62,7 +62,9 @@
   data:
     - title: Why can't I apply for a certain licence?
       content: |  
-        Certain licenses may not be currently available on the GoBusiness Dashboard. We are gradually migrating them to the platform. The [Apply Licence](https://dashboard.gobusiness.gov.sg/add-tasks) page will indicate the appropriate platform to use during this transition. Please be aware that licenses exclusively available on GoBusiness Licensing necessitate a separate GoBusiness Licensing account.
+        Certain licenses may not be currently available on the GoBusiness Dashboard. We are gradually migrating them to the platform. The [Apply Licence](https://dashboard.gobusiness.gov.sg/add-tasks) page will indicate the appropriate platform to use during this transition.
+        
+        Please be aware that licenses exclusively available on GoBusiness Licensing necessitate a separate GoBusiness Licensing account.
 
 - accordion:
   letter: d
@@ -70,9 +72,11 @@
     - title: Why does GoBusiness require my personal identifiable information during the initial sign-in process?
       content: |  
         GoBusiness collects your information during your initial login to pre-fill your application forms for your convenience. This information is linked to your account and cannot be accessed by anyone else.
-    - title: Must I provide all the requested information to access the GoBusiness dashboard?
+    - title: Must I provide all the requested information to access the GoBusiness Dashboard?
       content: |  
-        No, you are not obligated to provide all the requested information immediately. However, if you lack certain details, you can click on the "Complete Later" button at the bottom. It's important to note that you will be unable to commence license applications until all your information is provided. If you attempt to apply for a license without completing your profile, you will be prompted to do so.
+        No, you are not obligated to provide all the requested information immediately. However, if you lack certain details, you can click on the "Complete Later" button at the bottom.
+        
+        It's important to note that you will be unable to commence license applications until all your information is provided. If you attempt to apply for a license without completing your profile, you will be prompted to do so.
 
 - accordion:
   letter: e
@@ -84,7 +88,7 @@
         You can also modify the details of your Singpass Foreign user Account within the ["My Account"](https://dashboard.gobusiness.gov.sg/profile]) page on GoBusiness.
 
         To deactivate your Singpass Foreign user Account on GoBusiness, kindly reach out to your licensing agency for support. Furthermore, please note that your account will be terminated after 2 years of inactivity.
-    - title: How can I edit the details of my Singpass Foreign user Account in the My Account profile?
+    - title: How can I edit the details of my Singpass Foreign user Account?
       content: |  
         Click on the account menu at the top right corner, and select [My Account](https://dashboard.gobusiness.gov.sg/profile).
  

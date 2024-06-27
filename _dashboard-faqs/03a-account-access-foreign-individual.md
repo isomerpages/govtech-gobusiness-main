@@ -9,7 +9,10 @@ third_nav_title: Account access
 To apply for licenses in your own name without a Singapore government-issued ID, individuals should register as foreign individual users.
 
 **NParks**
-<br>To apply for NParks licences, please complete this form: [NParks Licence Application Form](https://avs-eservices.nparks.gov.sg/eservices/sfa-registration)
+<br>[Account Registration Form (NParks licences)](https://avs-eservices.nparks.gov.sg/eservices/sfa-registration)
+<br>To apply for NParks licences, please complete this form.
+
+<br><br>Information for other government agencies will be added here in the coming months.
 
 {% include letter-accordion.html accordions=site.data.acc103c-account-access-foreign-business letter="a" %}
 
