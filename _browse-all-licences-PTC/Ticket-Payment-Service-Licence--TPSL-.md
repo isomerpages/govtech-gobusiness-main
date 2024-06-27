@@ -36,7 +36,7 @@ This is prescribed in the PTC Ticket Payment Service Regulations.</p>
 <li><strong>Proposal for licence</strong></li>
 <li><strong>Other supporting documents</strong><br>
 <p><Strong>File format</Strong>: doc, docx, pdf, xls, xlsx<br>
-<Strong>Maximum upload per application</Strong>: 10 MB</li></ul>
+<Strong>Maximum upload per application</Strong>: 10 MB
 
 <H3>Requirements</H3>
 
