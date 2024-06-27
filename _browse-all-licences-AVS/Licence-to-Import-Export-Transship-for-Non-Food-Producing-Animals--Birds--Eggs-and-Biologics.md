@@ -1,7 +1,7 @@
 ---
 title: Licence to Import/Export/Transship for Non-Food Producing Animals, Birds, Eggs and Biologics
-permalink: /browse-all-licences/National-Parks-Board-(NPARKS)/Licence-to-Import-Export-Transship-for-Non-Food-Producing-Animals--Birds--Eggs-and-Biologics
-third_nav_title: National Parks Board (NPARKS)
+permalink: /browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-to-Import-Export-Transship-for-Non-Food-Producing-Animals--Birds--Eggs-and-Biologics
+third_nav_title: Animal & Veterinary Service (AVS)
 ---
 
 ## Apply for Licence to Import/Export/Transship for Non-Food Producing Animals, Birds, Eggs and Biologics
