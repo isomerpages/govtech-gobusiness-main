@@ -73,19 +73,26 @@
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-for-Veterinary-Centre">View Licence Details</a>
 
         -----
+        **Licence to Import/Export/Transship for Non-Food Producing Animals, Birds, Eggs and Biologics**
+
+        <p>This licence is required if you intend to:</p>
+        <p>1) import/export/tranship live pet animals and birds;</p>
+        <p>2) import/tranship veterinary biologics*; or</p>
+        <p>3) export the carcass of any pet animal or bird.</p>
+        <p>*Please note that export of veterinary biologics does not require a licence.</p><br/>
+        
+        <b>For foreign Individual</b>, you will be required to login using the SingPass Foreign Account (SFA) in order to apply for this licence.<br/>
+        You may click on this <a href="https://avs-eservices.nparks.gov.sg/eservices/sfa-registration">link</a> to apply for a SFA account if you do not have one.<br/>
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/ietnonfood" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-to-Import-Export-Transship-for-Non-Food-Producing-Animals--Birds--Eggs-and-Biologics">View Licence Details</a>
+
+        -----
         **Licence to Import or Export Ornamental Fish**
 
         <p>The Licence to Import or Export Ornamental Fish is issued by Animal & Veterinary Service to traders who wishes to import, export or transship ornamental fish.</p>
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/importexportornamentalfish" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-to-Import-or-Export-Ornamental-Fish">View Licence Details</a>
 
-        -----
-        **Licence to Import/Export/Transship Animals, Birds, Eggs and Biologics**
-
-        <p>The Licence to Import/Export/Transship Animals, Birds, Eggs and Biologics may be issued by either Animal & Veterinary Service, a cluster of National Parks Board or Singapore Food Agency. This licence is required if you intend to import/export/tranship animals, birds or their products into/out from Singapore. In the case of veterinary biologics, a licence is required for their import/transshipment. Export of veterinary biologics does not require a licence.</p>
-
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301030000131" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-to-Import-Export-Transship-Animals--Birds--Eggs-and-Biologics" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-to-Import-Export-Transship-Animals--Birds--Eggs-and-Biologics">View Licence Details</a>
         
         -----
         **Licence to Manufacture and Process Feed for Non-food Producing Animals**
@@ -2143,6 +2150,14 @@
 
         <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000175" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-for-Import-Transhipment-of-Fresh-Fruits-and-Vegetables" style="margin-left: 1em;">View Licence Details</a>
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-for-Import-Transhipment-of-Fresh-Fruits-and-Vegetables">View Licence Details</a>
+        
+        -----
+        **Licence to Import/Export/Transship Animals, Birds, Eggs and Biologics**
+
+        <p>The Licence to Import/Export/Transship Animals, Birds, Eggs and Biologics may be issued by either Animal & Veterinary Service, a cluster of National Parks Board or Singapore Food Agency. This licence is required if you intend to import/export/tranship animals, birds or their products into/out from Singapore. In the case of veterinary biologics, a licence is required for their import/transshipment. Export of veterinary biologics does not require a licence.</p>
+
+        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301030000131" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-to-Import-Export-Transship-Animals--Birds--Eggs-and-Biologics" style="margin-left: 1em;">View Licence Details</a>
+        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-to-Import-Export-Transship-Animals--Birds--Eggs-and-Biologics">View Licence Details</a>
 
         -----
         **Licence to Import Poultry**
