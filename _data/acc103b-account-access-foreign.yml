@@ -8,21 +8,14 @@
         Step 1: Click on the Log In button at the top right hand corner of the screen.
         Step 2: Log in as an Individual User or Business User.
         Step 3: Sign in with your Singpass account to access the GoBusiness Dashboard.
-    - title: How do I log out?
+    - title: What is Singpass Foreign user Account for foreign entities?
       content: |
-        Click on the icon at the top right corner of your screen and select Log Out. Do note that you will be automatically logged out after 20 minutes of inactivity.
-    - title: Why did I get logged out of GoBusiness?
-      content: |
-        For security reasons, the system automatically logs you out if you are inactive for 20 minutes.
-    - title: What is a Singpass Foreign Account? How can I sign up?
-      content: |
-        If you are a foreign user representing a company with no presence in Singapore, please apply for a Singpass Foreign User account on the [Corppass Website](https://www.corppass.gov.sg/corppass/registration/nonuen/nonsingpass/registrationdetails){:target="_blank"}{:rel="noopener"}.
-        Step 1: Click on Services at the left hand corner of the top banner.
-        Step 2: Select Register for Corppass.
-        Step 3: Select Foreign Entity and [register via Foreign ID](https://www.corppass.gov.sg/corppass/registration/nonuen/nonsingpass/registrationdetails){:target="_blank"}{:rel="noopener"}.
+        "A Singpass Foreign user Account is a Singpass account that allows foreign users to transact with selected government digital services in Singapore. This includes accessing digital services on GoBusiness Dashboard.
+
+        For Business licensing matters, you will be automatically issued a Singpass Foreign user Account by Corppass when you register a Corppass user account. In this case, you do not need to apply for a Singpass Foreign user Account with GoBusiness."
     - title: I'm looking to transact on GoBusiness as a foreign user, but I do not have an entity. Will I be able to do that?
       content: |
-        No, we currently only support Singpass Foreign Account for Business.
+        You will have to [register as a foreign individual user](/account-access-foreign). Please refer to the [Account Access for Foreign Individual Users](/account-access-foreign) section for assistance.
     - title: I'm still having trouble signing in. What can I do?
       content: |
         Please ensure you are logging in as a Business User. You can refer to [this page on the Corppass website for more info](https://www.corppass.gov.sg/corppass/common/findoutmore){:target="_blank"}{:rel="noopener"} or contact our help desk if you face other issues.
@@ -31,7 +24,7 @@
   data:
     - title: Should I log in as an Individual or Business User?
       content: |  
-        If you are using a Singpass Foreign Account, you should log in as a Business User.
+        If you are acting on behalf of your business, you will require a Business User account, if you are acting in your own name, you will require an Individual User account.
     - title: Why can't I see the approved licences that I applied for previously on GoBusiness Licensing?
       content: |  
         We are migrating licences from GoBusiness Licensing to GoBusiness Dashboard. If you do not see an application you made previously, it may not be currently supported by GoBusiness Dashboard.
@@ -39,9 +32,12 @@
       content: |  
         Not all licences are available on GoBusiness Dashboard yet. We are progressively bringing them over.
         The [Apply Licence](https://dashboard.gobusiness.gov.sg/add-tasks) page will inform you which platform you should be using in this transitional period. Please note that a separate GoBusiness Licensing account is required for licences that are only available on GoBusiness Licensing.
-    - title: How can I manage my entity's Singpass Foreign Account access to GoBusiness?
+    - title: How can I manage my Singpass Foreign user Account access to GoBusiness?
       content: |  
-        As a Corppass Administrator of your entity, you can [log in to Corppass](https://www.corppass.gov.sg/cpauth/login/homepage?URL=%2F&TAM_OP=login) to create and manage your entity's Singpass Foreign Account access.
+        "If you are transacting as a Business User, your Corppass Administrator of your entity can [log in to Corppass](https://www.corppass.gov.sg/cpauth/login/homepage?URL=%2F&TAM_OP=login) to create and manage your entity's Singpass Foreign user Account access. 
+
+        If you are transacting as an Individual User, please contact the government agency you registered with."
+
 - accordion:
   letter: c
   data:

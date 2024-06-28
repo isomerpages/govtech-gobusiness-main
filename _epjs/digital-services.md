@@ -77,3 +77,5 @@ To report any irregularities, please contact [audit@ssg.gov.sg](mailto:audit@ssg
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/epjs-bp-menu-new-tab.js"></script>
+=======
+<meta http-equiv='Refresh' content='0;url=https://skillsfuture.gobusiness.gov.sg/e-services'>
