@@ -31,7 +31,7 @@
         1. Inform your Corppass admin about granting access to MTI 'GoBusiness' e-Service for the Corppass account of employees who are authorised to view SDL records
         2. Perform a review of the current users who have access to MTI 'GoBusiness' e-Service' and remove personnel who do not need to access SDL services
         3. Visit [here](/sdl-e-services/) for SDL digital services
-        4. Should you require any clarification, please contact SSG Helpdesk at [6785 5785](tel:+65 6785 5785) or feedback portal at [https://service-portal.skillsfuture.gov.sg/s/feedback/](https://service-portal.skillsfuture.gov.sg/s/feedback/){:target="_blank"}{:rel="noopener"}.
+        4. Should you require any clarification, please contact SSG feedback portal at [https://service-portal.skillsfuture.gov.sg/s/feedback/](https://service-portal.skillsfuture.gov.sg/s/feedback/){:target="_blank"}{:rel="noopener"}.
     
 - accordion:
   letter: b
@@ -76,7 +76,7 @@
 
         5.) Subsequent sections will be populated with the relevant periods and SDL records, where available. For the Relevant Period with SSG Records section, you will need to confirm the SDL payable and make a declaration if your records differ. For the Relevant Period Without SSG Records section, you will need to provide your computation before making payment as SSG will not have your records for the last 2 to 3 months.
 
-        6.) If your internal records differ from SSG's SDL records, select "I would like to submit a declaration for relevant period with SSG records" in the declaration section. Thereafter, indicate your own records in the available SDL fields and attach the "Declaration Form" (insert url: https://go.gov.sg/sdl-declaration-form) as a supporting document. If your internal records have no discrepancies with SSG's SDL records, select "I agree with SSG's records".
+        6.) If your internal records differ from SSG's SDL records, select "I would like to submit a declaration for relevant period with SSG records" in the declaration section. Thereafter, indicate your own records in the available SDL fields and attach the ["Declaration Form"](https://go.gov.sg/sdl-declaration-form){:target="_blank"}{:rel="noopener"} as a supporting document. If your internal records have no discrepancies with SSG's SDL records, select "I agree with SSG's records".
 
         7.) Proceed to make payment either via online payment  (stripe/ credit card) through GoBusiness; or offline payment (bank transfer or PayNow) where payment instructions will be communicated separately over email from SSG.
 
@@ -131,29 +131,23 @@
 
         Click on the Retrieve SDL Records button after selecting the month(s) range.
 
-        5.) Depending on your selected Relevant period, "Relevant Period with SSG Records" section (refers to period where wage data from Government's records for all your local and foreign employees are available to derive your SDL Payable) or "Relevant Period without SSG Records" section or both sections will be displayed. "SDL Paid" refers to the amount of SDL you have previously paid for the relevant period.
-        
-        6.) When the Relevant Period Without SSG Records section is displayed, you will only be able to see an amount in SDL Paid if you have previously made payment for this relevant period. The Revised SDL Paid for the Relevant Period Without SDL Records section is an optional field and can be left blank unless your SDL Paid records differ from ours. However, it is mandatory to provide your computed Outstanding SDL Payable for Relevant Period Without SSG Records.
-
-        7.) In the Provision of Employer Records (for GoBusiness to confirm) section, select the period that you would like to submit a declaration.
-        The list of values for “I would like to submit a declaration” will be populated via GoBusiness and SSG, depending on the applicable date range. 
-
-        "I would like to submit a declaration for Relevant Period with SSG records"<br>
-        "I would like to submit a declaration for Relevant Period without SSG records"<br>
-        "I would like to submit a declaration for both Relevant Periods with and without SSG records"<br>
+        5.) In the Provision of Employer Records section, select the from the list of values in the dropdown:
+        "I would like to submit a declaration for Relevant Period with SSG records"
         "I agree with SSG's records"
 
-        8.) If you have selected to submit a declaration, you are required to fill in your own monthly computation in the [Declaration Form template](https://go.gov.sg/sdl-declaration-form){:target="_blank"}{:rel="noopener"} as a supporting document for the relevant period selected and upload the template. You are also required to fill in your aggregated SDL Payable, SDL Paid and Outstanding SDL Payable for the full relevant period. The figures should match what's in your Declaration Form - this is quite confusing.. are we trying to say that what's filled up in "declaration form" section should match with the supporting document in "Upload Declaration Form"?.
+        6.) If you have selected to submit a declaration, you are required to fill in your own monthly computation in the Declaration Form template (https://go.gov.sg/sdl-declaration-form) as a supporting document for the relevant period selected and upload the template. You are also required to fill in your aggregated Outstanding SDL Payable for the full relevant period. This should match what is declared in your Declaration Form.
 
-        9.) Select the payment mode before clicking Review Form to proceed to the Declaration Review page.
+        7.) Select the payment mode before clicking Review Form to proceed to the Declaration Review page.
 
-        10.) Once you have verified the details shown in the Review page, you may proceed to submit with and without payment, depending on whether there is any outstanding SDL payable.
+        8.) Once you have verified the details shown in the Review page, you may proceed to submit with and without payment, depending on whether there is any outstanding SDL payable.
 
     - title: How do I submit online declaration on non-liability of SDL via GoBusiness for my employees who are exempted from SDL?
       content: |
         You no longer need to submit declaration of non-liability of SDL for each affected employee. Instead, you will need to submit a declaration/NOO of your computed monthly SDL payable excluding these affected employees for the relevant months where your records differ from ours after receiving a mailer/NOA. Please retain all supporting documents as SSG may request to review them.
 
         To submit a declaration if you disagree with our calculation, you will be able to correct the amount by filling and submitting the Declaration Form template via our SDL Payment & Declaration form.
+
+        To submit an NOO if you disagree with the NOA amount and SSG will review and inform you of the NOO outcome. 
     
     - title: Why do I need to complete the SDL Declaration Form?
       content: |
@@ -162,11 +156,7 @@
     - title: How do I complete the SDL Declaration Form template?
       content: |
         The Declaration Form template is an Excel form. Please verify the monthly SDL payable for the relevant months for all your employees, including local and foreign employees in Singapore. You will also need to seek your organisation's authorised representative's approval to verify the information stated in the form.
-
-    - title: Must I submit declaration on Outstanding SDL Payable through GoBusiness?
-      content: |
-        Yes, you will need to.
-
+        
 - accordion:
   letter: d
   data:
@@ -263,4 +253,4 @@
       content: |
         You can email your updated SDL contact information to [SDL@ssg.gov.sg](mailto:SDL@ssg.gov.sg).
 
-        Please contact SkillsFuture Singapore (SSG) through our [feedback portal](https://service-portal.skillsfuture.gov.sg/){:target="_blank"}{:rel="noopener"} or our hotline at [6785 5785](tel:+65 6785 5785) if you have enquiries.
+        Please contact SkillsFuture Singapore (SSG) through our [feedback portal](https://service-portal.skillsfuture.gov.sg/){:target="_blank"}{:rel="noopener"} if you have enquiries.
