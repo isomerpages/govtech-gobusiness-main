@@ -28,7 +28,7 @@ permalink: /dashboard-faqs/
 
 ----
 
-### Levies
+### Skills Development Levy (SDL)
 
 {% include panels-featurelink.html panels=site.data.faqdb006-dashboard-sdl %}
 
