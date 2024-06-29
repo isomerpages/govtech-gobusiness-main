@@ -1,5 +1,5 @@
 ---
-title: Foreign users
+title: Singpass Foreign user Account (Business)
 permalink: /dashboard-faqs/account-access/foreign-users
 third_nav_title: Account access
 ---
