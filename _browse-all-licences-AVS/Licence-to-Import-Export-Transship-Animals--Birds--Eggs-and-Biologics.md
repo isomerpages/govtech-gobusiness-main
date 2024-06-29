@@ -1,12 +1,12 @@
 ---
 title: Licence to Import/Export/Transship Animals, Birds, Eggs and Biologics
-permalink: /browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-to-Import-Export-Transship-Animals--Birds--Eggs-and-Biologics
-third_nav_title: Singapore Food Agency (SFA)
+permalink: /browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-to-Import-Export-Transship-Animals--Birds--Eggs-and-Biologics
+third_nav_title: Animal & Veterinary Service (AVS)
 ---
 
 ## Apply for Licence to Import/Export/Transship Animals, Birds, Eggs and Biologics
 
-Singapore Food Agency (SFA)
+Animal & Veterinary Service (AVS)
 
 {% include licence-apply-button.html %}
 <a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301030000131" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>
