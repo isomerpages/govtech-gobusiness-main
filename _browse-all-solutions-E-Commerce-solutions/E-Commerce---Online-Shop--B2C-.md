@@ -68,10 +68,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Simpliify Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199602373D-A2000-WbShop-B2C-v-2-G' target='_blank'>A2000 WebShop (B2C) Version 2</a><br></td>
-<td>A2000 Solutions Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201329629H-ECommrc-MPD-Pckg-v-20-G' target='_blank'>E-Commerce MPD Package Version 2.0</a><br></td>
 <td>MediaPlus Digital Pte Ltd</td>
 </tr>
@@ -114,10 +110,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201135968W-OS-Stor-ECommrc-v-30-G' target='_blank'>OS Store E-Commerce Version 3.0</a><br></td>
 <td>Orfeostory Pte Ltd </td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201210099C-Lmond-Commrc-SLN-G' target='_blank'>Lemonade eCommerce Solution</a><br></td>
-<td>Lemonade IT Solutions Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201736601Z-Wbsntls-Ecommrc-Wb-Dv-G' target='_blank'>Websentials Ecommerce Web Development</a><br></td>

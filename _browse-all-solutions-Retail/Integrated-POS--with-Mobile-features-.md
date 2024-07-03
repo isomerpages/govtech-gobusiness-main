@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Retail/Integrated-POS--with-Mobile-features-
 
 **Support Level and Conditions**
 
-Up to `50% for SMEs, N.A. for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
@@ -46,10 +46,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201529028W-EPOS-Enhncd-POS-v-20-G' target='_blank'>EPOS Enhanced POS Version 2.0</a><br></td>
 <td>EPOS Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201230283H-RvnPOS-Entrprs-Rtl-Busnss-Sut-v-12-G' target='_blank'>RavenPOS Enterprise Retail Business Suite Version 12</a><br></td>
-<td>Nspire Group Pte Ltd</td>
 </tr>
 </table>
 
