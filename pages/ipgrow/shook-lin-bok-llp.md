@@ -25,6 +25,16 @@ Shook Lin & Bok LLP is a leading full service Singapore law Firm with an Asian p
 <a name='ip-related-service-areas'></a>
 ### IA/IP service areas
 
+**Branding Strategy Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 11 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  Depends on scope of work</li>
+</ul>
+
 **Contract Drafting Services**
 
 <ul>
@@ -92,6 +102,16 @@ Shook Lin & Bok LLP is a leading full service Singapore law Firm with an Asian p
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  Depends on scope of work</li>
+</ul>
+
+**IP Strategy Consulting Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Strategy Consulting experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Strategy Consulting experts overseas: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  Depends on scope of work</li>
 </ul>
 
@@ -172,35 +192,35 @@ Shook Lin & Bok LLP is a leading full service Singapore law Firm with an Asian p
 **Jevon Louis**
 
 - Job Title: Partner
-- Years of Experience: 19 years
+- Years of Experience: 20 years
 - Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, IP Intelligence and Search, IP Audit, Contract Drafting, Dispute Resolution
+- IA/IP-Related Expertise: Patent Agent Service, IP Audit, Dispute Resolution, IP Intelligence and Search, Freedom-to-Operate (FTO)
 - Certifications/Qualifications: LLB (Hons); Advocate & Solicitor of Supreme Court of Singapore, B.Eng (Mechanical), Graduate Certificate in IP
-- Awards/Accolades: IAM Patent 1000 2018 - 2020 and 2022 as a leading individual for patent litigation and patent-related transactions, Asia IP 2021 as an IP Expert, Managing IP as an IP Star for Patents since 2020, Asialaw Leading Lawyers 2022/23 as a Notable Practitioner in intellectual property, WTR 1000 2022 as a leading individual for trademark enforcement and litigation and trademark-related transactions
+- Awards/Accolades: IAM Patent 1000 (2018 - 2020 and 2022 - 2023) as a leading individual for patent litigation and patent-related transactions, Asia IP (2021 and 2023) as an IP Expert, Managing IP (since 2020) as an IP Star for patents, Asialaw Leading Lawyers (since 2022) as a Notable Practitioner in intellectual property, WTR 1000 (since 2022) as a leading individual for trademark enforcement and litigation and trademark-related transactions, Benchmark Litigation Asia-Pacific as a 'Future Star' in Singapore for Intellectual property and was awarded "Singapore Practitioner of the Year" at the Managing IP Asia Pacific Awards 2023
 - URL of LinkedIn/Company Profile: <a href="https://www.shooklin.com/en/our-partners/jevon-louis" target="_blank" rel="noopener">https://www.shooklin.com/en/our-partners/jevon-louis</a>
 
-**Kristen Lim**
 
-- Job Title: Patent Attorney, Head, IP Strategy & Registration
-- Years of Experience: 16 years
+**Jaswin Khosa**
+
+- Job Title: Partner
+- Years of Experience: 9 years
 - Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, IP Due Diligence, IP Portfolio Management
-- Certifications/Qualifications: Singapore Registered Patent Attorney
-- URL of LinkedIn/Company Profile: <a href="https://www.shooklin.com/en/our-partners/kristen-lim" target="_blank" rel="noopener">https://www.shooklin.com/en/our-partners/kristen-lim</a>
+- IA/IP-Related Expertise: Trade Mark Agent Service, IP Portfolio Management, Branding Strategy, IP Watch, IP Strategy Consulting
+- Certifications/Qualifications: Advocate & Solicitor, Singapore, 2015
+- URL of LinkedIn/Company Profile: <a href="https://www.shooklin.com/en/our-partners/jaswin-khosa" target="_blank" rel="noopener">https://www.shooklin.com/en/our-partners/jaswin-khosa</a>
 
-
-**Alvin Tan**
+**Kai Lang Kuek**
 
 - Job Title: Senior Associate
 - Years of Experience: 5 years
 - Location: Singapore
-- IA/IP-Related Expertise: Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, IP Strategy Consulting, Dispute Resolution
-- Certifications/Qualifications: LLB (Hons); Advocate & Solicitor, Supreme Court of Singapore
-- Awards/Accolades: WTR 1000: World Trademark Review 2021 edition - Rising Star: recognised as "a rising star with fresh and inventive strategies when it comes to filing and contentious matters", IP Stars 2022: Rising Star 2022, WTR 1000: World Trademark Review 2023 edition as a leading individual for trademark prosecution and strategy
-- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/alvin-tan-638711186/?originalSubdomain=sg" target="_blank" rel="noopener">https://www.linkedin.com/in/alvin-tan-638711186/?originalSubdomain=sg</a>
+- IA/IP-Related Expertise: Registered Design Agent Service, Contract Drafting, IP Training, IP Due Diligence
+- Certifications/Qualifications: Advocate & Solicitor, Supreme Court of Singapore, 2019
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/kuekkailiang/" target="_blank" rel="noopener">https://www.linkedin.com/in/kuekkailiang/</a>
+
 
 ---
 <p>
 <a class='btn' href='https://form.gov.sg/642b82aad11e700013de2c97' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 23 August 2023
+Profile last updated on 18 June 2024
