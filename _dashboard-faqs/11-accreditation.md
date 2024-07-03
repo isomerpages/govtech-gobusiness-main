@@ -1,5 +1,5 @@
 ---
-title: Accreditation
+title: Progressive Wage (PW) Mark
 permalink: /dashboard-faqs/accreditation/
 third_nav_title: Accreditation
 ---

@@ -3,7 +3,12 @@
   url: /dashboard-faqs/account-access/local-users?src=faqdb_hub
   text: View questions
 
-- title: Foreign users 
-  description: For users who log into GoBusiness with a "Singpass Foreign Account".
+- title: Singpass Foreign user Account (Business) users	
+  description: For users applying for licenses on behalf of an entity that is not registered in Singapore.
   url: /dashboard-faqs/account-access/foreign-users?src=faqdb_hub
   text: View questions
+
+- title: Singpass Foreign user Account (Individual) users	
+  description: For users without a Singapore government-issued ID and are applying licences for a foreign entity.
+  url: /dashboard-faqs/account-access/foreign-users-individual?src=faqdb_hub
+  text: View questions 
