@@ -14,15 +14,15 @@ From funding support to references and programs for building capabilities, skill
 
 Find out with e-Adviser for Government Assistance, a free online tool to help you select the relevant assistance schemes for your business. Simply answer a few questions about your business needs to get our recommendations.
 
+{% include button.html text="Go to e-Adviser for Government Assistance" src="
+https://eadviser.gobusiness.gov.sg/govassist?src=about_govassist
+" type="primary" %}
+
 <p>
 <div class="bp-youtube">
   <iframe src="https://www.youtube.com/embed/9-U_83QxBBc" title="GoBusiness Gov Assist e-Adviser" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
 </div>
 </p>
-
-{% include button.html text="Go to e-Adviser for Government Assistance" src="
-https://eadviser.gobusiness.gov.sg/govassist?src=about_govassist
-" type="primary" %}
 
 ### Types of assistance schemes
 
