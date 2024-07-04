@@ -96,10 +96,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Carbonate Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199609132G-SYNERGIX-v-TH6-G' target='_blank'>SYNERGIX Version TH6</a><br></td>
-<td>Synergix Technologies Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201700241Z-cutOffc-ERP-v-20-G' target='_blank'>cuteOffice ERP Version 2.0</a><br></td>
 <td>Cutech Infocomm Solutions Pte. Ltd.</td>
 </tr>
