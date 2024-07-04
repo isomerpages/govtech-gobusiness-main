@@ -32,10 +32,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Innosys Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200307927R-LOGON-FMS-G' target='_blank'>iLOGON (iFMS)</a><br></td>
-<td>KEYfields Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200103109D-SYSFREIGHT-v-1001-G' target='_blank'>SYSFREIGHT Version 10.01</a><br></td>
 <td>SYSMAGIC SOFTWARE SOLUTION PTE LTD</td>
 </tr>

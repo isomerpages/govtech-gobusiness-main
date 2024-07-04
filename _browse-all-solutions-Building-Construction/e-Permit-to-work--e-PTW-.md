@@ -37,6 +37,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201600202R-CSG-Novd-SftyHSE-BC' target='_blank'>CSG - Novade Safety-HSE</a><br></td>
+<td>.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201600202R-CSG-Novd-SftyHSE-BC' target='_blank'>CSG - Novade Safety-HSE</a><br></td>
 <td>CSG Software Pte Ltd</td>
 </tr>
 <tr>

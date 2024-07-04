@@ -28,10 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200604333Z-VsonMn-BC' target='_blank'>VisionMan</a><br></td>
-<td>ECS Techno_Sys (Asia Pacific) Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201938906W-FcltyBot-BC' target='_blank'>FacilityBot</a><br></td>
 <td>FacilityBot Pte Ltd</td>
 </tr>
