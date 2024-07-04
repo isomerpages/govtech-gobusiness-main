@@ -5,11 +5,13 @@ permalink: /intellectual-property/ip-grow/riverstone-sg-pte-ltd/
 
 ## Riverstone SG Pte Ltd
 
-Valueteam is a leading specialized valuation consulting firm in Singapore for clients across various industries. Valueteam delivers top-notch valuation services s to help businesses identify and monetize their business and intangible assets that help them grow. Valueteam tailored services, commitment to excellence, and one-stop valuation services have helped it earn a reputation as one of Singapore's most trusted and reliable consulting firms. Whether you need guidance on intangibles or business, we have the expertise and experience to help you achieve your goals. Valueteam has always been at the forefront of offering best-in-class valuation services that enable our clients to make informed decisions and introduce innovative business practices for continued growth and success. We provide company valuation, intangible valuation, patent valuation, customer valuation, contract valuation, ESOP valuation, M&A valuation, startup valuation, and many more. Call us now for a free consultation.
+Valueteam Valuation, a leading specialised business valuation and IP Valuation consulting firm in Singapore, stands out for its comprehensive range of services. From company valuation to IPs intangible valuation, patent valuation, customer valuation, contract valuation, ESOP valuation, M&A valuation, startup valuation, and more, we cover all aspects of business and IP valuation. Our commitment to providing tailored, expert services and our reputation as one of Singapore's most trusted and reliable consulting firms set us apart. Call us now for a free consultation. 
+
+Valueteam delivers top-notch expert company valuation services, including IP valuation, to help businesses identify and monetize their business and intangible assets through our expert valuation services in Singapore that help them grow. Valueteam tailored services, commitment to excellence, and one-stop valuation services have helped it earn a reputation as one of Singapore's most trusted and reliable consulting firms. Whether you need guidance on IP Valuation or company business, we have the expertise and experience to help you achieve your goals.
 
 <b>Year established in Singapore:</b> 2014
 
-<b>Top focus areas for IA/IP services:</b> Innovation Consultancy, IP Strategy Consulting, Valuation (with IA/IP considerations), IP Training
+<b>Top focus areas for IA/IP services:</b> Valuation (with IA/IP considerations)
 
 <b>Type of organization:</b> SME
 
@@ -84,7 +86,7 @@ Valueteam is a leading specialized valuation consulting firm in Singapore for cl
 - Job Title: CEO
 - Years of Experience: 16 years
 - Location: Singapore
-- IA/IP-Related Expertise: Valuation (with IA/IP considerations), IP Training
+- IA/IP-Related Expertise: Valuation (with IA/IP considerations), IP Training, Innovation Consultancy
 - Certifications/Qualifications: CVA, MBA
 - URL of LinkedIn/Company Profile: <a href="https://www.valueteam.com.sg" target="_blank" rel="noopener">https://www.valueteam.com.sg</a>
 
@@ -92,4 +94,4 @@ Valueteam is a leading specialized valuation consulting firm in Singapore for cl
 <p>
 <a class='btn' href='https://form.gov.sg/64a392bd6b65df0012e48d50' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 26 July 2023
+Profile last updated on 18 June 2024

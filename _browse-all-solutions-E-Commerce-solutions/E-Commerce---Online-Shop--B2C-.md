@@ -64,16 +64,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>PIXEL MECHANICS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201822015H-3D-Omn-Commrc-G' target='_blank'>3D Omni Commerce</a><br></td>
-<td>3D BRAND AGENCY PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201415816M-Smplfys-Ecommrc-v-1-G' target='_blank'>Simpliify's E-commerce Version 1</a><br></td>
 <td>Simpliify Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199602373D-A2000-WbShop-B2C-v-2-G' target='_blank'>A2000 WebShop (B2C) Version 2</a><br></td>
-<td>A2000 Solutions Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201329629H-ECommrc-MPD-Pckg-v-20-G' target='_blank'>E-Commerce MPD Package Version 2.0</a><br></td>
@@ -120,10 +112,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Orfeostory Pte Ltd </td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201210099C-Lmond-Commrc-SLN-G' target='_blank'>Lemonade eCommerce Solution</a><br></td>
-<td>Lemonade IT Solutions Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201736601Z-Wbsntls-Ecommrc-Wb-Dv-G' target='_blank'>Websentials Ecommerce Web Development</a><br></td>
 <td>Websentials Pte Ltd</td>
 </tr>
@@ -144,10 +132,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>ALPHABET SIX MARKETING SINGAPORE</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201841781R-Cub3commrc-G' target='_blank'>Cub3commerce</a><br></td>
-<td>DUCB3 PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200908223H-Vrz-Dsgn-Ecommrc-SLNs--G' target='_blank'>Verz Design Ecommerce Solutions </a><br></td>
 <td>Verz Design Pte Ltd</td>
 </tr>
@@ -166,6 +150,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201736986Z-Shopfy-G' target='_blank'>Shopify</a><br></td>
 <td>Shopify Commerce Singapore Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201822015H-3D-Omn-Commrc-G' target='_blank'>3D Omni Commerce</a><br></td>
+<td>3D BRAND AGENCY PTE LTD</td>
 </tr>
 </table>
 

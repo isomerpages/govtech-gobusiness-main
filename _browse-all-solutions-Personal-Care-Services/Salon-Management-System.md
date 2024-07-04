@@ -32,16 +32,8 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>ANTSCOLONY PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200100911R-Studo-Mngr-v-8-G' target='_blank'>Studio Manager Version 8</a><br></td>
-<td>ARCHER LOGIC (S) PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200503951K-MEGAPOS-Buty-&-Wllnss-G' target='_blank'>MEGAPOS Beauty & Wellness</a><br></td>
 <td>Megasafe Technology Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201230283H-RvnPOS-Prsonl-Wllnss-MGT-Systm-v-12-G' target='_blank'>RavenPOS Personal Wellness Management System Version 12</a><br></td>
-<td>Nspire Group Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200900723K-Butc-cntrlzd-v-G' target='_blank'>Beautec centralized version</a><br></td>
@@ -52,8 +44,8 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>SEQUOIA PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200809939C-WESS-Wllnss-MGT-Softwr-v-20-G' target='_blank'>WESS - Wellness Management Software Version 2.0</a><br></td>
-<td>Refine Solutions Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200100911R-Studo-Mngr-v-9-G' target='_blank'>Studio Manager Version 9</a><br></td>
+<td>ARCHER LOGIC (S) PTE LTD</td>
 </tr>
 </table>
 

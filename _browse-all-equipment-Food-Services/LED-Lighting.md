@@ -23,8 +23,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 
 ### Pre-Approved Equipment Brands and Models
 
-- BG34-018W/4KKT84FH
-- ST8A-0.6M 7.3W-865-EM
 - Beacon LED Lighting - A60E27N6-D
 - Beacon LED Lighting - A60E27N6-W
 - Beacon LED Lighting - C35E14N4-D
@@ -55,6 +53,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Beacon LED Lighting - T8Y18NL05-W
 - Brite - BG23-018W/4KKT84FF
 - Brite - BG23-018W/6KKT84FF
+- Brite - BG34-018W/4KKT84FH
 - Brite - BG34-018W/6KKT84FH
 - BRITZ - LEDT8-24W4F
 - BRITZ - LEDT8-30W4F
@@ -128,11 +127,21 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - IKEA - LED2123S1
 - IKEA - LED2202G3K6
 - IKEA - LED2203G6K6
+- IKEA - LED2308C2
+- IKEA - LED2309G2
+- IKEA - LED2310C3
+- IKEA - LED2311G3
+- IKEA - LED2312G5
+- IKEA - LED2329G3
 - iLumston - WN-CL06-30W
 - iLumston - WN-CL06-30W-WW
 - iLumston - WN-CL06-45W-CW
 - iLumston - WN-CL06-45W-DL
+- iLumston - YC-SYM24
+- iLumston - YC-SYM24CW
+- iLumston - YC-SYM24WW
 - INDALED - PD-BWRL 27W-A
+- IWILL - IW-T8-14W
 - KGR - KGRT8-8W1200MM
 - LEDVANCE - LED PERFORMANCE FILA CLA 7.5W/827
 - LEDVANCE - LED PERFORMANCE FILA CLA 7W/827
@@ -153,6 +162,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Megaman - A60S1-9.6W-F-E27-6500K
 - Megaman - A60S1-D-8.7W-E-E27-3000K
 - Megaman - G45F7-CL-D-4.2W-E-E27-2700K
+- Megaman - G45F8-M-D-4.2W-E-E27-2800K
 - Megaman - G95F8-M-D-8.5W-E-E27-2800K
 - Megaman - LC1404CS-E14-2700K
 - Megaman - LC1404TP-E14-2700K
@@ -173,6 +183,9 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Megaman - YTP38B1-9W-G24-4000K
 - Megaman - YTP38B1-9W-G24-6500K
 - Megaman - YTT100X1-HPB-30W-E27
+- Megaman - YTT100Z1-HPB-30W-E27-3000K
+- Megaman - YTT100Z1-HPB-30W-E27-4000K
+- Megaman - YTT100Z1-HPB-30W-E27-6500K
 - Megaman - YTT80Z1-HPB-20W-E27-3000K
 - Megaman - YTT80Z1-HPB-20W-E27-4000K
 - Megaman - YTT80Z1-HPB-20W-E27-6500K
@@ -180,6 +193,8 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Megaman - YTT8A3-16W-S-6500K
 - Megaman - YTT8A3-8W-S
 - Megaman - YTT8AA4-15W-S-3000K
+- Megaman - YTT8AA4-15W-S-4000K
+- Megaman - YTT8AA4-15W-S-6500K
 - Megaman - YTT8AA4-7.5W
 - MIKA - T8-1200-GL-24W
 - MIKA - T8-1200-GL-32W
@@ -229,6 +244,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Osram - LEDVALUE STICK 12W/840 (LL-15000h)
 - Osram - LEDVALUE STICK 12W/865 (LL-15000h)
 - Osram - ST8A-0.6M 7.3W-840-EM
+- Osram - ST8A-0.6M 7.3W-865-EM
 - Osram - ST8A-0.6M 7.5W/830
 - Osram - ST8A-0.6M 7.5W/840
 - Osram - ST8A-0.6M 7.5W/865
@@ -288,6 +304,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Philips - 8718696687567
 - Philips - 8718696687581
 - Philips - 8718696687963
+- Philips - 8718696687987
 - Philips - 8718696688007
 - Philips - 8718696688021
 - Philips - 8718696688045
@@ -299,6 +316,10 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Philips - 8718696732021
 - Philips - 8718696732045
 - Philips - 8718696732069
+- Philips - 8718696743317 MAS LEDTUBE HF 1200MM HE 16.5W 840 T5
+- Philips - 8718696743331 MAS LEDTUBE HF 1200MM HE 16.5W 865 T5
+- Philips - 8718696743379 MAS LEDtube HF 1500MM HE 20W 840 T5
+- Philips - 8718696743393 MAS LEDtube HF 1500MM HE 20W 865 T5
 - Philips - 8718696765265
 - Philips - 8718696765302
 - Philips - 8718696765326
@@ -360,6 +381,8 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Philips - 8718699717506
 - Philips - 8718699765194
 - Philips - 8718699765217
+- Philips - 8718699765231
+- Philips - 8718699765255
 - Philips - 8718699780791
 - Philips - 8718699783433
 - Philips - 8718699783457
@@ -392,12 +415,23 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Philips - 8719514324756
 - Philips - 8719514333635
 - Philips - 8719514333697
+- Philips - 8719514334373 MAS HE T5 20W 830
+- Philips - 8719514334397 MAS HE T5 20W 840
+- Philips - 8719514334410 MAS HE T5 20W 865
+- Philips - 8719514339729 MAS LEDtube 1200mm UE 13.5W 840 T8
+- Philips - 8719514339743 MAS LEDtube 1200mm UE 13.5W 865 T8
+- Philips - 8719514339767 MAS LEDtube 1500mm UE 20W 840 T8
+- Philips - 8719514339781 MAS LEDtube 1500mm UE 20W 865 T8
 - Philips - 8719514350687
+- Philips - 8719514350687 Updated
 - Philips - 8719514350700
 - Philips - 8719514350724
+- Philips - 8719514350724 Updated
 - Philips - 8719514350748
+- Philips - 8719514350748 Updated
 - Philips - 8719514350762
 - Philips - 8719514350786
+- Philips - 8719514350786 Updated
 - Philips - 8719514377172
 - Philips - 8719514377295
 - Philips - 8719514377417
@@ -436,6 +470,16 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Philips - 8720169238149 Updated
 - Philips - 8720169277083
 - Philips - 8720169277120
+- Philips - 8720169281707 MAS LEDtube 1200mm UE 11.9W 840 T8 EELA
+- Philips - 8720169281721 MAS LEDtube 1200mm UE 11.9W 865 T8 EELA
+- Philips - 8720169296442 LED PLC 6.9W 840 G24d-2
+- Philips - 8720169296466 LED PLC 8.9W 830 G24d-3
+- Philips - 8720169296480 LED PLC 8.9W 840 G24d-3
+- Philips - 8720169325890 LED PLC 6.9W 865 G24d-2
+- Philips - 8720169325913 LED PLC 8.9W 865 G24d-3
+- Philips - 872016935914 MAS HO 8W830 T8
+- Philips - 872016935938 MAS HO 8W840 T8
+- Philips - 872016935976 MAS HO 8W865 T8
 - Philips - 929001165037
 - Philips - 9290011650A
 - Philips - 9290030099A MAS LEDBulb DT3.4
@@ -491,7 +535,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - VIVE - VI-T8-30WDL
 - VIVE - VI-T8-30WWW
 - VIVE - VI-TL-4WE14CF
-
 
 
 <script src='/jquery/resize-tables.js'></script>

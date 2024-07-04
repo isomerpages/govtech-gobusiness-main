@@ -22,7 +22,7 @@ By working with an experienced tax advisor, businesses can identify tax-saving o
 ---
 
 ### Connect with relevant service providers for tax advisory services (with IA/IP considerations)
-**40 service providers listed.**
+**10 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -45,7 +45,7 @@ Community of solvers combining innovative technologies to build trust and delive
 
 #### Baker McKenzie Wong & Leow
 
-Baker & McKenzie is one of the largest law firms globally with 77 offices in 46 countries.
+Baker & McKenzie is one of the largest law firms globally with 74 offices in 45 countries.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
@@ -160,6 +160,21 @@ Audit, assurance, tax, valuation, risk and governance, corporate recovery, IT in
 </ul>
 
 <a class='btn' href='https://form.gov.sg/650bb6434284830013f329a3' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/nexia-solutions-pte-ltd/){:target='_blank'}
+
+---
+
+#### Grant Thornton Singapore Private Limited
+
+We go beyond business as usual, so you can too.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/6653e255bd207e36db9b8de8' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/grant-thornton-singapore-private-limited/){:target='_blank'}
 
 ---
 

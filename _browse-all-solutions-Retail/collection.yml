@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - back-to-all-psg-solutions.md
-      - Enhanced-Retail-Management-System.md
-      - Retail-Analytics.md
+      - Integrated-POS--with-Mobile-features-.md

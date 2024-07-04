@@ -127,14 +127,19 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - Midea - MAS-1S09E
 - Midea - MCE-2M16E
 - Midea - MCE-4M28E
+- Midea - MDV-V28WDHN1(SG)
+- Midea - MDV-V36WDHN1(SG)
 - Midea - MKC-2M15E
 - Midea - MKC-3M22E
 - Midea - MKC-4M27E
-- Midea - MDV-V28WDHN1(SG)
-- Midea - MDV-V36WDHN1(SG)
+- Midea - MMY-MUP1401T8P-SG
 - Midea - MVC-M252WV2GN1(G)
 - Midea - MVC-M280WV2GN1(G)
 - Midea - MVC-M335WV2GN1(G)
+- Midea - MVC-M400WV2GN1(G)
+- Midea - MVC-M450WV2GN1(G)
+- Midea - MVC-M500WV2GN1(G)
+- Midea - MVC-M560WV2GN1(G)
 - Mitsubishi Electric - FDC280CKXZA2-S8
 - Mitsubishi Electric - MUY-GP10VF
 - Mitsubishi Electric - MXY-2H20VF
@@ -191,7 +196,6 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - Mitsubishi Electric - PUMY-CP225YKM-PA
 - Mitsubishi Electric - PUMY-CP225YKM-PA-BS
 - Mitsubishi Electric - SUY-ZM50VA-SG
-- Mitsubishi Heavy Industries - FDC280CKXZA2-S8
 - Mitsubishi Heavy Industries - FDC335CKXZA2
 - Mitsubishi Heavy Industries - FDC400CKXZA2
 - Mitsubishi Heavy Industries - FDCS335CKXZA2
@@ -222,6 +226,8 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - Samsung - AJ045DCJ2KF/SP
 - Samsung - AJ065DCJ3KF/SP
 - Samsung - AJ070DCJ4KF/SP
+- TCL - FMA-18I3HD/DVO
+- TCL - FMA-27I4HD/DVO
 - Toshiba - MCY-MHP0805HT8-SG
 - Toshiba - MMY-MAP0807T8P-SG
 - Toshiba - MMY-MAP1007T8P-SG
