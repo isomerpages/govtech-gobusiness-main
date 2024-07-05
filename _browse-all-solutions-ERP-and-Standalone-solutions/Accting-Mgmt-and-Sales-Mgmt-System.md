@@ -202,10 +202,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>361 Degree Consultancy Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202008850Z-FdCorp-Xro-ACC-Softwr-G' target='_blank'>FidCorp Xero Accounting Software</a><br></td>
-<td>FidCorp Services Private Limited</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200914556R-Fnnco-Cloud-ACC-Softwr-G' target='_blank'>Financio Cloud Accounting Software</a><br></td>
 <td>Asian Business Software Solutions Pte Ltd</td>
 </tr>
