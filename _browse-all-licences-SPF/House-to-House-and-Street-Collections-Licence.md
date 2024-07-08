@@ -73,7 +73,7 @@ To conduct a door-to-door collection of recyclable items such as old newspapers,
 <li>
 <strong>I am raising funds indoor within my own company premises, do I still need to apply for a House to House and Street Collections licence?
 </strong><br>
-Even within the premises of your company, indoor funds-raising or collections activities, you are required to apply for a House to House and Street Collections licence. Under the House to House and Street Collections Act, the definition of “house” includes a place of business.
+Even within the premises of your company, indoor funds-raising or collections activities, you are required to apply for a House to House and Street Collections licence. Under the House to House and Street Collections Act, the definition of "house" includes a place of business.
 </li>
 
 <li>
@@ -126,7 +126,7 @@ An applicant is required to submit an online application via GoBusiness Licensin
 <li>
 <strong>What other documents do I need to submit for my House to House and Street Collections application?
 </strong><br>
-The applicant needs to furnish a ‘Memorandum of Agreement (MOA) between the main organiser of the fund raising event and the beneficiary (to be signed by both parties) before the application can be processed. The application will take at least ten working days to process upon the receipt of the MOA and all other required supporting documents.
+The applicant needs to furnish a ï¿½Memorandum of Agreement (MOA) between the main organiser of the fund raising event and the beneficiary (to be signed by both parties) before the application can be processed. The application will take at least ten working days to process upon the receipt of the MOA and all other required supporting documents.
 <br><br>
 Failure to submit all the required documents will result in the rejection of the submitted application.
 </li>
