@@ -7,7 +7,7 @@
 
         <p>A Certificate of Freedom from Disease within Singapore from Animal & Veterinary Service will be required if the country/region to which you intend to export animal/bird products requires certification that Singapore is free from specific animal disease(s) of concern, to facilitate the export.</p>
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/freedomfromdisease" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Certificate-of-Freedom-From-Disease-Within-Singapore">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/ccf3cdfb-9f8f-4e6d-b3a2-909afe8786dd" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Certificate-of-Freedom-From-Disease-Within-Singapore">View Licence Details</a>
 
         -----
         **Free Sale Certificate (Non Food Producing Animal Feed)**
@@ -15,9 +15,9 @@
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
         <p>This certificate allows exporters to obtain an endorsement for their animal feed products meant for non-food producing animals intended for export.</p>
-        
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/fea242ac-ffba-4b7b-856f-39ebe0e9f6cf" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Free-Sale-Certificate-(Non-Food-Producing-Animal-Feed)">View Licence Details</a>
-        
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/b854c84a-b576-4cd1-802f-94ce501c696d" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Free-Sale-Certificate-(Non-Food-Producing-Animal-Feed)">View Licence Details</a>
+
         -----
         **Free Sale Certificate (Vaccine)**
 
@@ -26,7 +26,6 @@
         <p>The Free Sale Certificate for Vaccine allows exporters to get Animal & Veterinary Service endorsement for their vaccine intended for export.</p>
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/freesalevaccine" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Free-Sale-Certificate-(Vaccine)">View Licence Details</a>
-
 
         -----
         **Health Certificate for Export of Ornamental Fish**
@@ -73,27 +72,20 @@
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-for-Veterinary-Centre">View Licence Details</a>
 
         -----
-        **Licence to Import/Export/Transship for Non-Food Producing Animals, Birds, Eggs and Biologics**
-
-        <p>This licence is required if you intend to:</p>
-        <p>1) import/export/tranship live pet animals and birds;</p>
-        <p>2) import/tranship veterinary biologics*; or</p>
-        <p>3) export the carcass of any pet animal or bird.</p>
-        <p>*Please note that export of veterinary biologics does not require a licence.</p><br/>
-        
-        <b>For foreign Individual</b>, you will be required to login using the SingPass Foreign Account (SFA) in order to apply for this licence.<br/>
-        You may click on this <a href="https://avs-eservices.nparks.gov.sg/eservices/sfa-registration">link</a> to apply for a SFA account if you do not have one.<br/>
-
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/ietnonfood" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-to-Import-Export-Transship-for-Non-Food-Producing-Animals--Birds--Eggs-and-Biologics">View Licence Details</a>
-
-        -----
         **Licence to Import or Export Ornamental Fish**
 
         <p>The Licence to Import or Export Ornamental Fish is issued by Animal & Veterinary Service to traders who wishes to import, export or transship ornamental fish.</p>
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/importexportornamentalfish" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-to-Import-or-Export-Ornamental-Fish">View Licence Details</a>
 
-        
+        -----
+        **Licence to Import/Export/Transship Animals, Birds, Eggs and Biologics**
+
+        <p>The Licence to Import/Export/Transship Animals, Birds, Eggs and Biologics may be issued by either Animal & Veterinary Service, a cluster of National Parks Board or Singapore Food Agency. This licence is required if you intend to import/export/tranship animals, birds or their products into/out from Singapore. In the case of veterinary biologics, a licence is required for their import/transshipment. Export of veterinary biologics does not require a licence.</p>
+
+        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301030000131" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-to-Import-Export-Transship-Animals--Birds--Eggs-and-Biologics" style="margin-left: 1em;">View Licence Details</a>
+        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-to-Import-Export-Transship-Animals--Birds--Eggs-and-Biologics">View Licence Details</a>
+
         -----
         **Licence to Manufacture and Process Feed for Non-food Producing Animals**
 
@@ -123,7 +115,7 @@
 
         <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1705261400000006" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-to-Treat-Animals-and-Birds" style="margin-left: 1em;">View Licence Details</a>
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-to-Treat-Animals-and-Birds">View Licence Details</a>
-        
+
         -----
         **Registration to Import Feed for Non-food producing animals**
 
@@ -159,22 +151,21 @@
 
         <p>To display any outdoor signs such as an advertisement or directional sign, signboard billboard, balloon signs or banner, you need to apply for a licence from BCA.<br><br>Click <a href="https://www1.bca.gov.sg/regulatory-info/outdoor-advertisement-licensing/outdoor-advertising-sign-signboard/how-to-apply-for-an-outdoor-advertising-sign-signboard-licence" rel="noopener noreferrer" target="_blank">here</a> on how to apply and <a href="https://www.ura.gov.sg/corporate/guidelines/circulars/dc19-16" rel="noopener noreferrer" target="_blank">here</a> to check the display guidelines for events in the Central area.</p>
 
-        <a class="primary-btn" href="https://eservices.bca.gov.sg/advertisementlicence" target="_blank" rel="noopener">Apply on BCA</a>&emsp;<a href = "/browse-all-licences/Building-and-Construction-Authority-(BCA)/Advertising-Sign--Signboard-Licence">View Licence Details</a>
-        
+        <a class="btn" href="https://eservices.bca.gov.sg/advertisementlicence" target="_blank" rel="noopener">Apply on BCA</a>&emsp;<a href = "/browse-all-licences/Building-and-Construction-Authority-(BCA)/Advertising-Sign--Signboard-Licence">View Licence Details</a>
+
         -----
         **Amusement Rides Permit**
 
-        <p>Permits from BCA are required if you are:<br>- Operating a new or existing amusement ride<br>- Installing works for an amusement ride<br>- Performing modification works for an amusement ride.</p> 
-        <p>Before application of permits, you are required to consult BCA. More information about pre-application consultation and the permit application process can be found <a href="https://www1.bca.gov.sg/regulatory-info/amusement-rides/permit-application" target="_blank" rel="noopener">here</a>.</p>
+        The Amusement Rides Safety Act (Chapter 6A) defines an amusement ride as any mechanised or power-driven device that carries patrons on a fixed or restricted course, or within a defined area, designed for the primary purpose of giving them amusement, thrills, or excitment, and is available for use by members of the public. This definition will not cover devices that are meant primarily for transport purposes, such as monorails, trams, sky trains and amphibious vehicles.
 
-        <a class="primary-btn" href="https://www1.bca.gov.sg/regulatory-info/amusement-rides" target="_blank" rel="noopener">Apply on BCA</a>&emsp;<a href = "/browse-all-licences/Building-and-Construction-Authority-(BCA)/Amusement-Rides-Permit">View Licence Details</a>
+        <a class="btn" href="https://www1.bca.gov.sg/regulatory-info/amusement-rides/amusement-rides-legislation" target="_blank" rel="noopener">Apply on BCA</a>&emsp;<a href = "/browse-all-licences/Building-and-Construction-Authority-(BCA)/Amusement-Rides-Permit">View Licence Details</a>
 
         -----
         **Permit to Erect Temporary Building**
 
         <p>A person/owner who intends to erect any temporary/makeshift structure is required to apply for a Temporary Building Permit. The application must reach BCA 3 weeks before the construction of the temporary building.</p>
 
-        <a class="primary-btn" href="https://www1.bca.gov.sg/regulatory-info/temporary-buildings-application/application-for-a-permit-to-erect-temporary-building" target="_blank" rel="noopener">Apply on BCA</a>&emsp;<a href = "/browse-all-licences/Building-and-Construction-Authority-(BCA)/Permit-to-Erect-Temporary-Building">View Licence Details</a>
+        <a class="btn" href="https://www1.bca.gov.sg/regulatory-info/temporary-buildings-application/application-for-a-permit-to-erect-temporary-building" target="_blank" rel="noopener">Apply on BCA</a>&emsp;<a href = "/browse-all-licences/Building-and-Construction-Authority-(BCA)/Permit-to-Erect-Temporary-Building">View Licence Details</a>
 
         -----
         **Structural and Building Plans Requirements for Rooftop Solar PV Installation**
@@ -185,8 +176,7 @@
         (c) the solar panels also function as a roof shelter, covering an area that exceeds 10 square metres; or
         (d) any other new building works, as defined under the Building Control Act.
 
-        <a class="primary-btn" href="https://corenet.gov.sg/general/e-info.aspx" target="_blank" rel="noopener">Apply on BCA</a>&emsp;<a href = "/browse-all-licences/Building-and-Construction-Authority-(BCA)/Structural-and-Building-Plans-Requirements-for-Rooftop-Solar-PV-Installation">View Licence Details</a>
-
+        <a class="btn" href="https://corenet.gov.sg/general/e-info.aspx" target="_blank" rel="noopener">Apply on BCA</a>&emsp;<a href = "/browse-all-licences/Building-and-Construction-Authority-(BCA)/Structural-and-Building-Plans-Requirements-for-Rooftop-Solar-PV-Installation">View Licence Details</a>
 
     - title: Board of Architects (BOA)
       content: |
@@ -194,7 +184,7 @@
 
         For providing architectural services that require submission of plans and certificates to authorities regulating buildings.
 
-        <a class="primary-btn" href="https://www.boa.gov.sg/register/application-forms/" target="_blank" rel="noopener">Apply on BOA</a>&emsp;<a href = "/browse-all-licences/Board-of-Architects-(BOA)/Licence-to-Supply-Architectural-Services">View Licence Details</a>
+        <a class="btn" href="https://www.boa.gov.sg/register/application-forms/" target="_blank" rel="noopener">Apply on BOA</a>&emsp;<a href = "/browse-all-licences/Board-of-Architects-(BOA)/Licence-to-Supply-Architectural-Services">View Licence Details</a>
 
 - accordion:
   letter: c
@@ -205,21 +195,21 @@
 
         Any organisation whose principal place of business is in Singapore and which intends to operate aircraft for the purpose of public transport shall hold an Air Operator Certificate (AOC).
 
-        <a class="primary-btn" href="https://www.caas.gov.sg/operations-safety/air-operations/singapore-air-operators/air-operator-certificate" target="_blank" rel="noopener">Apply on CAAS</a>&emsp;<a href = "/browse-all-licences/Civil-Aviation-Authority-of-Singapore-(CAAS)/Air-Operator-Certificate">View Licence Details</a>
-       
+        <a class="btn" href="https://www.caas.gov.sg/operations-safety/air-operations/singapore-air-operators/air-operator-certificate" target="_blank" rel="noopener">Apply on CAAS</a>&emsp;<a href = "/browse-all-licences/Civil-Aviation-Authority-of-Singapore-(CAAS)/Air-Operator-Certificate">View Licence Details</a>
+
         -----
         **Air Traffic Controller Licence**
 
         All qualified ATCOs shall be in possession of a valid air traffic controller licence before they can provide any air traffic service. A person shall not provide an air traffic control service unless he holds an air traffic control licence with a valid rating and a current medical certificate.
 
-        <a class="primary-btn" href="https://www.caas.gov.sg/personnel-licences-training/air-traffic-controller" target="_blank" rel="noopener">Apply on CAAS</a>&emsp;<a href = "/browse-all-licences/Civil-Aviation-Authority-of-Singapore-(CAAS)/Air-Traffic-Controller-Licence">View Licence Details</a>
-        
+        <a class="btn" href="https://www.caas.gov.sg/personnel-licences-training/air-traffic-controller" target="_blank" rel="noopener">Apply on CAAS</a>&emsp;<a href = "/browse-all-licences/Civil-Aviation-Authority-of-Singapore-(CAAS)/Air-Traffic-Controller-Licence">View Licence Details</a>
+
         -----
         **Aircraft Maintenance Engineer**
 
         An Aircraft Maintenance Engineer (AME) is a certified professional who is licensed by CAAS and authorised by a CAAS-approved Maintenance Organisation (AMO) to carry out inspection, repair, testing and/or maintenance work on aircraft and aircraft components.
 
-        <a class="primary-btn" href="https://www.caas.gov.sg/personnel-licences-training/aircraft-maintenance-engineer" target="_blank" rel="noopener">Apply on CAAS</a>&emsp;<a href = "/browse-all-licences/Civil-Aviation-Authority-of-Singapore-(CAAS)/Aircraft-Maintenance-Engineer">View Licence Details</a>
+        <a class="btn" href="https://www.caas.gov.sg/personnel-licences-training/aircraft-maintenance-engineer" target="_blank" rel="noopener">Apply on CAAS</a>&emsp;<a href = "/browse-all-licences/Civil-Aviation-Authority-of-Singapore-(CAAS)/Aircraft-Maintenance-Engineer">View Licence Details</a>
 
         -----
         **Aircraft Maintenance Organisation**
@@ -228,7 +218,7 @@
 
         Any Maintenance, Repair and Overhaul (MRO) company which intends to provide its services to an owner and/or operator of a Singapore registered aircraft will need to hold the Singapore Airworthiness Requirements Part 145 (SAR-145) - Maintenance Organisation Approval.
 
-        <a class="primary-btn" href="https://www.caas.gov.sg/operations-safety/aircraft/maintenance-repair-overhaul" target="_blank" rel="noopener">Apply on CAAS</a>&emsp;<a href = "/browse-all-licences/Civil-Aviation-Authority-of-Singapore-(CAAS)/Aircraft-Maintenance-Organisation">View Licence Details</a>
+        <a class="btn" href="https://www.caas.gov.sg/operations-safety/aircraft/maintenance-repair-overhaul" target="_blank" rel="noopener">Apply on CAAS</a>&emsp;<a href = "/browse-all-licences/Civil-Aviation-Authority-of-Singapore-(CAAS)/Aircraft-Maintenance-Organisation">View Licence Details</a>
 
         -----
         **Clearance for Aerial Photography/Videography**
@@ -259,8 +249,8 @@
 
         A flight crew licence is required before you can operate as a pilot of a Singapore-registered aircraft. Various categories of such licences, and their associated ratings, determine the type of aircraft and flights that you can operate in Singapore.
 
-        <a class="primary-btn" href="https://www.caas.gov.sg/personnel-licences-training/flight-crew" target="_blank" rel="noopener">Apply on CAAS</a>&emsp;<a href = "/browse-all-licences/Civil-Aviation-Authority-of-Singapore-(CAAS)/Flight-Crew-Licence">View Licence Details</a>
-        
+        <a class="btn" href="https://www.caas.gov.sg/personnel-licences-training/flight-crew" target="_blank" rel="noopener">Apply on CAAS</a>&emsp;<a href = "/browse-all-licences/Civil-Aviation-Authority-of-Singapore-(CAAS)/Flight-Crew-Licence">View Licence Details</a>
+
         -----
         **Glare and/or Height Control Requirements for Rooftop Solar PV Installation**
 
@@ -286,14 +276,14 @@
         c.Evacuating the aircraft from an area of impending danger, or in cases of force majeure.
         d.Flying aircraft that does not have a valid Certificate of Airworthiness in Singapore airspace for such purposes as flight test, post-maintenance functional flight check, aircraft handling flights,etc.
 
-        <a class="primary-btn" href="https://www.caas.gov.sg/operations-safety/aircraft/permit-to-fly" target="_blank" rel="noopener">Apply on CAAS</a>&emsp;<a href = "/browse-all-licences/Civil-Aviation-Authority-of-Singapore-(CAAS)/Permit-to-fly">View Licence Details</a>
+        <a class="btn" href="https://www.caas.gov.sg/operations-safety/aircraft/permit-to-fly" target="_blank" rel="noopener">Apply on CAAS</a>&emsp;<a href = "/browse-all-licences/Civil-Aviation-Authority-of-Singapore-(CAAS)/Permit-to-fly">View Licence Details</a>
 
         -----
         **Permits for Carriage of Dangerous Goods**
 
         The permit issued by CAAS applies to all civil aircraft flying to, from or over the Republic of Singapore and to Singapore registered aircraft wherever they may be. This permit, if given, is subject to air operators' compliance with ICAO Annex 18 and the latest edition of the ICAO Technical Instructions for the Safe Transport of Dangerous Goods by Air.
 
-        <a class="primary-btn" href="https://www.caas.gov.sg/operations-safety/carriage-of-dangerous-goods/" target="_blank" rel="noopener">Apply on CAAS</a>&emsp;<a href = "/browse-all-licences/Civil-Aviation-Authority-of-Singapore-(CAAS)/Permits-for-Carriage-of-Dangerous-Goods">View Licence Details</a>
+        <a class="btn" href="https://www.caas.gov.sg/operations-safety/carriage-of-dangerous-goods/" target="_blank" rel="noopener">Apply on CAAS</a>&emsp;<a href = "/browse-all-licences/Civil-Aviation-Authority-of-Singapore-(CAAS)/Permits-for-Carriage-of-Dangerous-Goods">View Licence Details</a>
 
     - title: Council for Estate Agencies (CEA)
       content: |
@@ -301,7 +291,7 @@
 
         To conduct estate agency work such as marketing, buying, selling and/or leasing properties for third parties.
 
-        <a class="primary-btn" href="http://www.cea.gov.sg/" target="_blank" rel="noopener">Apply on CEA</a>&emsp;<a href = "/browse-all-licences/Council-for-Estate-Agencies-(CEA)/Estate-Agent-Licence-and-Salesperson-Registration">View Licence Details</a>
+        <a class="btn" href="http://www.cea.gov.sg/" target="_blank" rel="noopener">Apply on CEA</a>&emsp;<a href = "/browse-all-licences/Council-for-Estate-Agencies-(CEA)/Estate-Agent-Licence-and-Salesperson-Registration">View Licence Details</a>
 
     - title: Central Narcotics Bureau (CNB)
       content: |
@@ -323,63 +313,35 @@
 
         <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=271" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Central-Narcotics-Bureau-(CNB)/Permit-Administration-and-Control-System(PATROL)" style="margin-left: 1em;">View Licence Details</a>
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Central-Narcotics-Bureau-(CNB)/Permit-Administration-and-Control-System(PATROL)">View Licence Details</a>
-    
-    - title: Cyber Security Agency of Singapore (CSA)
+
+    - title: Cyber Security Agency (CSA)
       content: |
         **Cybersecurity Labelling Scheme for IoT (Level 1)**
 
         <p>The Cybersecurity Labelling Scheme for IoT is launched by the Cyber Security Agency of Singapore (CSA) as part of efforts to improve Internet of Things (IoT) security, raise overall cyber hygiene levels and better secure Singapore's Cyberspace.</p><p>Under the scheme, smart consumer devices will be rated according to their levels of cybersecurity provisions, and a label will be issued to the smart device, enabling consumers to identify smart products with better cybersecurity provisions.</p><p>For more information, please visit https://www.csa.gov.sg/cls or kindly contact cls_iot@csa.gov.sg.</p>
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/csaiot1" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-IoT-(Level-1)">View Licence Details</a>
+        <a class="btn" href="https://dashboard-staging.l1t.molb.gov.sg/task-details/440277c8-a005-46de-a754-2523a75d47a3" target="_blank" rel="noopener">Apply on CSA</a>&emsp;<a href = "/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-IoT-(Level-1)">View Licence Details</a>
 
         -----
         **Cybersecurity Labelling Scheme for IoT (Level 2)**
 
         <p>The Cybersecurity Labelling Scheme for IoT is launched by the Cyber Security Agency of Singapore (CSA) as part of efforts to improve Internet of Things (IoT) security, raise overall cyber hygiene levels and better secure Singapore's Cyberspace.</p><p>Under the scheme, smart consumer devices will be rated according to their levels of cybersecurity provisions, and a label will be issued to the smart device, enabling consumers to identify smart products with better cybersecurity provisions.</p><p>For more information, please visit https://www.csa.gov.sg/cls or kindly contact cls_iot@csa.gov.sg.</p>
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/csaiot2" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-IoT-(Level-2)">View Licence Details</a>
+        <a class="btn" href="https://dashboard-staging.l1t.molb.gov.sg/task-details/af16f89d-2c0a-4a49-8078-46adc6fcdf83" target="_blank" rel="noopener">Apply on CSA</a>&emsp;<a href = "/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-IoT-(Level-2)">View Licence Details</a>
 
         -----
         **Cybersecurity Labelling Scheme for IoT (Level 3)**
 
         <p>The Cybersecurity Labelling Scheme for IoT is launched by the Cyber Security Agency of Singapore (CSA) as part of efforts to improve Internet of Things (IoT) security, raise overall cyber hygiene levels and better secure Singapore's Cyberspace.</p><p>Under the scheme, smart consumer devices will be rated according to their levels of cybersecurity provisions, and a label will be issued to the smart device, enabling consumers to identify smart products with better cybersecurity provisions.</p><p>For more information, please visit https://www.csa.gov.sg/cls or kindly contact cls_iot@csa.gov.sg.</p>
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/csaiot3" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-IoT-(Level-3)">View Licence Details</a>
+        <a class="btn" href="https://dashboard-staging.l1t.molb.gov.sg/task-details/f041a8c4-0ea1-4f5c-97b6-7bbb8b086a8d" target="_blank" rel="noopener">Apply on CSA</a>&emsp;<a href = "/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-IoT-(Level-3)">View Licence Details</a>
 
         -----
         **Cybersecurity Labelling Scheme for IoT (Level 4)**
 
         <p>The Cybersecurity Labelling Scheme for IoT is launched by the Cyber Security Agency of Singapore (CSA) as part of efforts to improve Internet of Things (IoT) security, raise overall cyber hygiene levels and better secure Singapore's Cyberspace.</p><p>Under the scheme, smart consumer devices will be rated according to their levels of cybersecurity provisions, and a label will be issued to the smart device, enabling consumers to identify smart products with better cybersecurity provisions.</p><p>For more information, please visit https://www.csa.gov.sg/cls or kindly contact cls_iot@csa.gov.sg.</p>
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/csaiot4" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-IoT-(Level-4)">View Licence Details</a>
-
-        -----
-        **Cybersecurity Labelling Scheme for Medical Devices (Level 1)**
-
-        <p><b>Please note that this form is exclusively intended for the CLS(MD) sandbox phase applicants; any submissions received will be considered solely for the sandbox phase, and processing refunds could pose challenges. For more details on the CLS(MD) sandbox phase, please contact cls_md@csa.gov.sg.</b></p><p>The Cybersecurity Labelling Scheme for Medical Devices is a joint initiative by the Cyber Security Agency of Singapore (CSA), Ministry of Health (MOH), Health Sciences Authority (HSA), and Synapxe as part of efforts to improve the visibility of medical devices security, raise overall cyber hygiene levels.</p><p>Under the scheme, medical devices will be rated according to their levels of cybersecurity provisions, and a label will be issued to the medical device, enabling the general public and healthcare providers to identify medical devices with appropriate cybersecurity provisions and make informed purchasing decisions.</p><p>For more information, please visit https://www.csa.gov.sg/cls or kindly contact cls_iot@csa.gov.sg.</p>
-
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/67ae8f06-5962-44ad-8098-98bee4ae5c39" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;[View Licence Details](/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-Medical-Devices-(Level-1))
-
-        -----
-        **Cybersecurity Labelling Scheme for Medical Devices (Level 2)**
-
-        <p><b>Please note that this form is exclusively intended for the CLS(MD) sandbox phase applicants; any submissions received will be considered solely for the sandbox phase, and processing refunds could pose challenges. For more details on the CLS(MD) sandbox phase, please contact cls_md@csa.gov.sg.</b></p><p>The Cybersecurity Labelling Scheme for Medical Devices is a joint initiative by the Cyber Security Agency of Singapore (CSA), Ministry of Health (MOH), Health Sciences Authority (HSA), and Synapxe as part of efforts to improve the visibility of medical devices security, raise overall cyber hygiene levels.</p><p>Under the scheme, medical devices will be rated according to their levels of cybersecurity provisions, and a label will be issued to the medical device, enabling the general public and healthcare providers to identify medical devices with appropriate cybersecurity provisions and make informed purchasing decisions.</p><p>For more information, please visit https://www.csa.gov.sg/cls or kindly contact cls_iot@csa.gov.sg.</p>
-
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/9b9b00ef-ccbf-456b-9612-c9e7926e80b4" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;[View Licence Details](/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-Medical-Devices-(Level-2))
-
-        -----
-        **Cybersecurity Labelling Scheme for Medical Devices (Level 3)**
-
-        <p><b>Please note that this form is exclusively intended for the CLS(MD) sandbox phase applicants; any submissions received will be considered solely for the sandbox phase, and processing refunds could pose challenges. For more details on the CLS(MD) sandbox phase, please contact cls_md@csa.gov.sg.</b></p><p>The Cybersecurity Labelling Scheme for Medical Devices is a joint initiative by the Cyber Security Agency of Singapore (CSA), Ministry of Health (MOH), Health Sciences Authority (HSA), and Synapxe as part of efforts to improve the visibility of medical devices security, raise overall cyber hygiene levels.</p><p>Under the scheme, medical devices will be rated according to their levels of cybersecurity provisions, and a label will be issued to the medical device, enabling the general public and healthcare providers to identify medical devices with appropriate cybersecurity provisions and make informed purchasing decisions.</p><p>For more information, please visit https://www.csa.gov.sg/cls or kindly contact cls_iot@csa.gov.sg.</p>
-
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/24169ca8-1359-4dca-80be-295c0ac45c0f" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;[View Licence Details](/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-Medical-Devices-(Level-3))
-
-        -----
-        **Cybersecurity Labelling Scheme for Medical Devices (Level 4)**
-
-        <p><b>Please note that this form is exclusively intended for the CLS(MD) sandbox phase applicants; any submissions received will be considered solely for the sandbox phase, and processing refunds could pose challenges. For more details on the CLS(MD) sandbox phase, please contact cls_md@csa.gov.sg.</b></p><p>The Cybersecurity Labelling Scheme for Medical Devices is a joint initiative by the Cyber Security Agency of Singapore (CSA), Ministry of Health (MOH), Health Sciences Authority (HSA), and Synapxe as part of efforts to improve the visibility of medical devices security, raise overall cyber hygiene levels.</p><p>Under the scheme, medical devices will be rated according to their levels of cybersecurity provisions, and a label will be issued to the medical device, enabling the general public and healthcare providers to identify medical devices with appropriate cybersecurity provisions and make informed purchasing decisions.</p><p>For more information, please visit https://www.csa.gov.sg/cls or kindly contact cls_iot@csa.gov.sg.</p>
-
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/8b0150f7-664c-41e2-8822-8cefe6ae3dd8" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;[View Licence Details](/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-Medical-Devices-(Level-4))
+        <a class="btn" href="https://dashboard-staging.l1t.molb.gov.sg/task-details/0fb92cee-f840-49e6-82d4-5db1027e68db" target="_blank" rel="noopener">Apply on CSA</a>&emsp;<a href = "/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-IoT-(Level-4)">View Licence Details</a>
 
     - title: Cybersecurity Services Regulation Office (CSRO)
       content: |
@@ -419,7 +381,7 @@
 
         Any person that intends to manufacture COMA-scheduled goods or their parts thereof would need to apply to be registered under the COMA.
 
-        &emsp;[View Licence Details](/browse-all-licences/Economic-Development-Board-(EDB)/Certificate-of-Registration-Under-The-Control-of-Manufacture-Act)
+        &emsp;<a href = "/browse-all-licences/Economic-Development-Board-(EDB)/Certificate-of-Registration-Under-The-Control-of-Manufacture-Act">View Licence Details</a>
 
         -----
         **Licence Under The Manufacture of Optical Discs Act**
@@ -428,7 +390,7 @@
 
         Any person that intends to manufacture optical discs as defined under the Manufacture of Optical Discs Act "MODA" in Singapore, for sale or other commercial purpose, must first obtain a valid MODA license from the Registrar of Optical Discs.
 
-        &emsp;[View Licence Details](/browse-all-licences/Economic-Development-Board-(EDB)/Licence-Under-The-Manufacture-of-Optical-Discs-Act)
+        &emsp;<a href = "/browse-all-licences/Economic-Development-Board-(EDB)/Licence-Under-The-Manufacture-of-Optical-Discs-Act">View Licence Details</a>
 
     - title: Energy Market Authority (EMA)
       content: |
@@ -473,16 +435,6 @@
 
     - title: Enterprise Singapore (EnterpriseSG)
       content: |
-        **Representative Office**
-
-        <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
-
-        <p>Foreign entities that are keen to explore opportunities in the region may wish to set up a Representative Office (RO) in Singapore.</p>
-        <p>Foreign entities from the manufacturing, international trading, wholesale, trade and trade-related business sectors that are keen on exploring the viability of doing business in Singapore or are interested in using Singapore as a launch pad into the Asia Pacific, may wish to set-up a Representative Office (RO). By setting up an RO, it allows a foreign entity to assess the business environment in Singapore before deciding to set up a permanent establishment.</p>
-
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/roms" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Enterprise-Singapore-(EnterpriseSG)/Representative-Office">View Licence Details</a>
-
-        -----      
         **Rubber Licence**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
@@ -526,14 +478,14 @@
         <li>Trade.</li>
         </ol>
 
-        <a class="primary-btn" href="https://ilinked.hdb.gov.sg/retailerlink/change-company-name" target="_blank" rel="noopener">Apply on HDB</a>&emsp;<a href = "/browse-all-licences/Housing-&-Development-Board-(HDB)/Change-of-Company's-Name-for-HDB-Commercial-Tenants">View Licence Details</a>
+        <a class="btn" href="https://ilinked.hdb.gov.sg/retailerlink/change-company-name" target="_blank" rel="noopener">Apply on HDB</a>&emsp;<a href = "/browse-all-licences/Housing-&-Development-Board-(HDB)/Change-of-Company's-Name-for-HDB-Commercial-Tenants">View Licence Details</a>
 
         -----
         **Home Office Scheme (HDB)**
 
         <p>HDB's Home Office Scheme is applicable for HDB residential flats and living quarters of the HDB commercial property. Only the owner(s) or other authorised persons approved by HDB to stay in the flat or living quarters (i.e. authorised occupier / tenants) are allowed to apply for the Home Office Scheme (HOS).</p>
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/hdbhomeofficescheme" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Housing-&-Development-Board-(HDB)/Home-Office-Scheme-(HDB)">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/8e48b279-ad32-4f90-8d74-f10eea62323b" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Housing-&-Development-Board-(HDB)/Home-Office-Scheme-(HDB)">View Licence Details</a>
 
     - title: Hotels Licensing Board (HLB)
       content: |
@@ -573,7 +525,7 @@
 
         You should apply for an Amateur Station Licence if you are a qualified radio amateur intending to operate radio-communication equipment solely for pleasure and for the furtherance of radio-communication techniques and not for pecuniary gain.
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/ea392104-00c3-4b75-9ad4-6d6c91006540" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Amateur-Station-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/14daa514-357a-41a4-889c-e61fa66ab124" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Amateur-Station-Licence">View Licence Details</a>
 
         -----
         **Application for Confirmation of Conformity (COFC)**
@@ -633,7 +585,7 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        For conducting research and development activities, testing, experiments or demonstrations in radio communications/radio communications equipment.
+        You should apply for an Experimental Station Licence if you intend to conduct research and development activities, testing, experiments, or demonstrations in radiocommunication / using radiocommunication equipment.
 
         <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=27" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Experimental-Station-Licence" style="margin-left: 1em;">View Licence Details</a>
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Experimental-Station-Licence">View Licence Details</a>
@@ -748,6 +700,22 @@
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/General-Radio-comm-Station-(Radiodetermination-Station)">View Licence Details</a>
 
         -----
+        **General Radio-communication Station Licence**
+
+        <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
+
+        You should apply for a General Radio-communication Station Licence to transmit and receive radio-communication messages by any of the following means:
+        - Base or fixed station
+        - Base or fixed station - Free Space Optics
+        - Mobile station
+        - Fixed link or relay station
+        - Radio-determination station
+        - Coast station
+        - Aeronautical station
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/253ead30-118e-4cbc-b4ca-7ec4132a8913" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/General-Radio-communication-Station-Licence">View Licence Details</a>
+
+        -----
         **Localised Private Network (Multi-Channel Radiocom Networks and Systems)**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
@@ -761,18 +729,30 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        For establishing and providing Localised Private Network services (such as use of walkie talkie services within a localised area).
+        You should apply for a Localised Private Network Licence if you intend to operate a radio-communication network (such as walkie talkie network) within a localised area. This means the coverage of the network is confined to a specific location.
+        
+        Examples of a localised area include:
+        - A compound (including buildings, roads and car parks) within the same postal code.
+        - A construction site within one land lot number.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=32" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Localised-Private-Network-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Localised-Private-Network-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/f563791d-1214-46ab-a3d5-77654859c29c" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Localised-Private-Network-Licence">View Licence Details</a>
 
         -----
         **Localised Radio-Communication Station Licence**
 
-        For the operation of remote control devices, local area paging devices, transceivers (CB walkie talkies), telemetry or alarm systems or both, wireless data or voice systems (e.g wireless LAN) and any other radio-communication equipment as may be authorised by the Info-communications Media Development Authority (IMDA).
+        <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=28" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Localised-Radio-Communication-Station-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Localised-Radio-Communication-Station-Licence">View Licence Details</a>
+        You should apply for a Localised Radio-communication Station Licence to operate any of the following equipment:
+        - Radio frequency remote control devices
+        - Local area paging devices
+        - Wireless microphones
+        - Transceivers
+        - Telemetry systems
+        - Alarm systems
+        - Wireless data or voice systems
+        - Any other radio-communication equipment as authorised by IMDA
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/167f206a-4a77-42cc-8302-c26b5b583811" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Localised-Radio-Communication-Station-Licence">View Licence Details</a>
 
         -----
         **Nationwide TV Service Licence**
@@ -819,18 +799,16 @@
 
         For operating a press in Singapore to print documents such as pamphlets, maps, charts, newspapers and magazines but not invoices, name cards, letter heads, etc.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=14" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Printing-Press-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Printing-Press-Licence">View Licence Details</a>
+        <a class="btn" href="https://dashboard-staging.l1t.molb.gov.sg/task-details/df2119c1-968c-41f3-b97b-9368c9696502" target="_blank" rel="noopener">Apply on IMDA</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Printing-Press-Licence">View Licence Details</a>
 
         -----
         **Public Mobile Network**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        For establishing and providing telecommunication services to public using multiple high power base or fixed or repeater stations.
-        
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10062" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Public-Mobile-Network" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Public-Mobile-Network">View Licence Details</a>
+        You should apply for a Public Mobile Network Licence if you intend to set up a public mobile network to establish and provide telecommunication services to public.
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/7b3e2537-9691-475a-b8dc-80b687a4512a" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Public-Mobile-Network">View Licence Details</a>
 
         -----
         **Radio Service Licence**
@@ -875,10 +853,13 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        For transmitting and/or receiving messages or data by means of satellite communications.
+        You should apply for a Satellite Communication Station Licence if you intend to transmit, receive, or transmit and receive messages through satellites, with the following types of stations for satellite communication:
+        - Portable Satellite Communication Terminal
+        - Very Small Aperture Terminal (VSAT)
+        - Earth Station
+        - Tracking, Telemetry and Command (TT&C) Earth Station
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=33" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Satellite-Communication-Station-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Satellite-Communication-Station-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/ba5dce53-6923-4d58-b030-4e077208539e" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Satellite-Communication-Station-Licence">View Licence Details</a>
 
         -----
         **Services-Based Operator (Class) Licence**
@@ -903,10 +884,20 @@
         -----
         **Ship Station Licence**
 
-        The Ship Station Licence is issued for the operation of the radio-communication equipment installed on-board ships registered in Singapore.
+        You should apply for a Ship Station Licence if you have radio-communication equipment installed on board ships registered in Singapore.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10015" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Ship-Station-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Ship-Station-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/daa38001-002b-4869-b75f-c73afdad5b09" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Ship-Station-Licence">View Licence Details</a>
+
+        -----
+        **Ship Station Operator's Certificate of Competency**
+
+        <span style="background: #EEF0F2; border-radius: 3px; width: 150px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/sp-mini.png" alt="For Individual Users"> For Individual Users </span>
+
+        You should apply for a Ship Station Operator's Certificate of Competency if you wish to operate all the sub-systems and equipment of Global Maritime Distress and Safety Systems on board a Singapore registered ship:
+        - General Operator's Certificate (GOC)
+        - Restricted Operator's Certificate (ROC)
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/5996a61d-6164-4ad8-a9a4-aaed8bf4ff19" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Ship-Station-Operator's-Certificate-of-Competency">View Licence Details</a>
 
         -----
         **Simplified Equipment Registration (SER)**
@@ -1025,10 +1016,9 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        For establishing and providing Wide Area Private Network services (such as use of walkie talkie services within a non-localised area).
+        You should apply for a Wide-Area Private Network Licence if you intend to establish and operate the network or provide wide area private network services (such as use of walkie talkie services within a non-localised area).
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=34" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Wide-Area-Private-Network-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Wide-Area-Private-Network-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/c3375fbd-250b-4b15-b5b5-7a974588bddc" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Wide-Area-Private-Network-Licence">View Licence Details</a>
 
     - title: Intellectual Property Office of Singapore (IPOS)
       content: |
@@ -1058,7 +1048,7 @@
 
         Application for Registration as a Foreign Patent Agent under rule 10B or for Renewal of Registration as a Foreign Patent Agent under Rule 10C of the Patents (Patent Agents) Rules 2001.
 
-        <a class="primary-btn" href="https://www.ipos.gov.sg/docs/default-source/default-document-library/form-h.docx" target="_blank" rel="noopener">Apply on IPOS</a>&emsp;<a href = "/browse-all-licences/Intellectual-Property-Office-of-Singapore-(IPOS)/Patent-Agent-Form-H-(Registration--Renewal-of-Registration-as-a-Foreign-Patent-Agent)">View Licence Details</a>
+        <a class="btn" href="https://www.ipos.gov.sg/docs/default-source/default-document-library/form-h.docx" target="_blank" rel="noopener">Apply on IPOS</a>&emsp;<a href = "/browse-all-licences/Intellectual-Property-Office-of-Singapore-(IPOS)/Patent-Agent-Form-H-(Registration--Renewal-of-Registration-as-a-Foreign-Patent-Agent)">View Licence Details</a>
 
     - title: Inland Revenue Authority of Singapore (IRAS)
       content: |
@@ -1082,7 +1072,7 @@
 
         Submission to obtain approval/clearance for Change of Use proposals and proposed Addition/Alteration of existing parking places and lots.
 
-        <a class="primary-btn" href="https://www.lta.gov.sg/content/ltagov/en/industry_innovations/industry_matters/development_construction_resources/vehicle_parking/requirements_for_vehicle_parking_proposals.html" target="_blank" rel="noopener">Apply on LTA</a>&emsp;<a href = "/browse-all-licences/Land-Transport-Authority-(LTA)/Application-for-Change-of-Use-and-Parking-Layout-to-Existing-Developments">View Licence Details</a>
+        <a class="btn" href="https://www.lta.gov.sg/content/ltagov/en/industry_innovations/industry_matters/development_construction_resources/vehicle-parking-proposals/codes_forms_and_epayment_services.html" target="_blank" rel="noopener">Apply on LTA</a>&emsp;<a href = "/browse-all-licences/Land-Transport-Authority-(LTA)/Application-for-Change-of-Use-and-Parking-Layout-to-Existing-Developments">View Licence Details</a>
 
         -----
         **Building Works & Restricted Activities in Railway Protection Zone**
@@ -1091,7 +1081,7 @@
 
         Required for any development or building works within the railway corridor and railway protection zone.
 
-        [View Submission Guide](https://www.lta.gov.sg/content/dam/ltagov/industry_innovations/industry_matters/development_construction_resources/Building_Works_Restricted_Activities_in_Railway_Protection_Zone/Codes_of_Practice_Standards_Specifications_Guides_Forms/Guide_to_carrying_out_restricted_activities_within_railway_protection_and_safety_zones.pdf){:target="_blank"}{:rel="noopener"}
+        <a class="btn" href="https://www.lta.gov.sg/content/ltagov/en/industry_innovations/industry_matters/development_construction_resources/building-works---restricted-activities-in-railway-protection-zon/Codes_of_practice_standards_specifications_guides_and_forms.html" target="_blank" rel="noopener">Apply on LTA</a>&emsp;<a href = "/browse-all-licences/Land-Transport-Authority-(LTA)/Building-Works-&-Restricted-Activities-in-Railway-Protection-Zone">View Licence Details</a>
 
         -----
         **Bus Driver's Vocational Licence (BDVL) / Bus Attendant Vocational Licence (BAVL)**
@@ -1125,7 +1115,7 @@
 
         Effective from 1 Nov 2010, it is mandatory for the Land Transport Authority (LTA) to be notified of any works on any roads pursuant to Section 115 of the Road Traffic Act.
 
-        <a class="primary-btn" href="https://prompt.lta.gov.sg/WebUIPWAS/Login.aspx" target="_blank" rel="noopener">Apply on LTA</a>&emsp;<a href = "/browse-all-licences/Land-Transport-Authority-(LTA)/Notification-of-Road-Closure">View Licence Details</a>
+        <a class="btn" href="https://prompt.lta.gov.sg/WebUIPWAS/Login.aspx" target="_blank" rel="noopener">Apply on LTA</a>&emsp;<a href = "/browse-all-licences/Land-Transport-Authority-(LTA)/Notification-of-Road-Closure">View Licence Details</a>
 
         -----
         **Omnibus Driver's Vocational Licence**
@@ -1144,7 +1134,7 @@
 
         Effective from 1 Nov 2010, the administration of vehicles which exceed the width and length requirements is transferred from Traffic Police to Land Transport Authority (LTA). This will be managed by LTA through LTA.PROMPT, together with the notification regime for overweight vehicles.
 
-        <a class="primary-btn" href="https://prompt.lta.gov.sg/WebUIPWAS/Login.aspx" target="_blank" rel="noopener">Apply on LTA</a>&emsp;<a href = "/browse-all-licences/Land-Transport-Authority-(LTA)/Permit-for-Vehicle-Movement">View Licence Details</a>
+        <a class="btn" href="https://prompt.lta.gov.sg/WebUIPWAS/Login.aspx" target="_blank" rel="noopener">Apply on LTA</a>&emsp;<a href = "/browse-all-licences/Land-Transport-Authority-(LTA)/Permit-for-Vehicle-Movement">View Licence Details</a>
 
         -----
         **Permit to Work on Public Streets**
@@ -1153,7 +1143,7 @@
 
         An application has to be submitted to the Authority for permission to carry out works on public streets after the necessary pre-consultation approvals have been obtained from the relevant authorities or agencies.
 
-        <a class="primary-btn" href="https://prompt.lta.gov.sg/WebUIPWAS/Home/FaqInfo?faqType=Works" target="_blank" rel="noopener">Apply on LTA</a>&emsp;<a href = "/browse-all-licences/Land-Transport-Authority-(LTA)/Permit-to-Work-on-Public-Streets">View Licence Details</a>
+        <a class="btn" href="https://prompt.lta.gov.sg/WebUIPWAS/Home/FaqInfo?faqType=Works" target="_blank" rel="noopener">Apply on LTA</a>&emsp;<a href = "/browse-all-licences/Land-Transport-Authority-(LTA)/Permit-to-Work-on-Public-Streets">View Licence Details</a>
 
         -----
         **Taxi Driver's Vocational Licence (TDVL) / Private Hire Car Driver's Vocational Licence (PDVL)**
@@ -1176,84 +1166,84 @@
 
         Overseas insurers in designated countries may apply for approval to provide direct marine, aviation and transit (MAT) insurance in Singapore.
 
-        <a class="primary-btn" href="https://www.mas.gov.sg/regulation/Insurance/Approved-MAT-Insurer-Apply-for-Approval" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Application-for-Approved-MAT-Insurers">View Licence Details</a>
+        <a class="btn" href="https://www.mas.gov.sg/regulation/Insurance/Approved-MAT-Insurer-Apply-for-Approval" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Application-for-Approved-MAT-Insurers">View Licence Details</a>
 
         -----
         **Application for Authorised Reinsurers**
 
         Overseas insurers may apply for authorisation to carry on life and/or general reinsurance business in Singapore.
 
-        <a class="primary-btn" href="https://www.mas.gov.sg/regulation/Insurance/Authorised-Reinsurer-Apply-for-Authorisation" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Application-for-Authorised-Reinsurers">View Licence Details</a>
+        <a class="btn" href="https://www.mas.gov.sg/regulation/Insurance/Authorised-Reinsurer-Apply-for-Authorisation" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Application-for-Authorised-Reinsurers">View Licence Details</a>
 
         -----
         **Application for Bank Representative Office**
 
         Bank representative offices are registered under section 13A of the Banking Act (Cap. 19). A bank representative office may carry out liaison work, market research or feasibility studies, but is not allowed to transact any business in Singapore. The registration of a bank representative office does not imply that the applicant will qualify for a banking licence in future.
 
-        <a class="primary-btn" href="https://www.mas.gov.sg/regulation/Banking/set-up-bank-representative-office" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Application-for-Bank-Representative-Office">View Licence Details</a>
+        <a class="btn" href="https://www.mas.gov.sg/regulation/Banking/set-up-bank-representative-office" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Application-for-Bank-Representative-Office">View Licence Details</a>
 
         -----
         **Application for Insurance Brokers**
 
         Insurance brokers are registered under section 35X of the Insurance Act (Cap. 142). A person who wishes to conduct insurance broking activities may be registered as a direct insurance broker, general reinsurance broker or life reinsurance broker. Insurance brokers act on behalf of clients and assist clients to arrange insurance contracts relating to general insurance business, general reinsurance business or life reinsurance business.
 
-        <a class="primary-btn" href="https://www.mas.gov.sg/regulation/forms-and-templates/application-for-registration-as-an-insurance-broker" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Application-for-Insurance-Brokers">View Licence Details</a>
+        <a class="btn" href="https://www.mas.gov.sg/regulation/forms-and-templates/application-for-registration-as-an-insurance-broker" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Application-for-Insurance-Brokers">View Licence Details</a>
 
         -----
         **Application for Insurance Representative Office**
 
         Direct insurers and reinsurers need to apply for approval if they wish to set up a representative office in Singapore. Representative offices are not allowed to carry on or solicit insurance business in Singapore and can only carry on activities approved by MAS.
 
-        <a class="primary-btn" href="https://www.mas.gov.sg/regulation/Insurance/For-Insurers-Setting-up-a-Representative-Office" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Application-for-Insurance-Representative-Office">View Licence Details</a>
+        <a class="btn" href="https://www.mas.gov.sg/regulation/Insurance/For-Insurers-Setting-up-a-Representative-Office" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Application-for-Insurance-Representative-Office">View Licence Details</a>
 
         -----
         **Application for Merchant Bank**
 
         Financial institutions (FIs) wishing to conduct banking business in Singapore must meet MAS' admission criteria and receive written authorisation from MAS to set up a wholesale bank or merchant bank in Singapore.
 
-        <a class="primary-btn" href="https://www.mas.gov.sg/regulation/Banking/Licensing-and-Authorisation-for-Banking-Business" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Application-for-Merchant-Bank">View Licence Details</a>
+        <a class="btn" href="https://www.mas.gov.sg/regulation/Banking/Licensing-and-Authorisation-for-Banking-Business" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Application-for-Merchant-Bank">View Licence Details</a>
 
         -----
         **Capital Markets Services Licence**
 
         Capital Markets Intermediaries are licensed under section 82 of the Securities and Futures Act (Cap. 289) to carry out any or all of the regulated activities specified in the Second Schedule to the Securities and Futures Act.
 
-        <a class="primary-btn" href="https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Securities-Futures-and-Funds-Management.aspx" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Capital-Markets-Services-Licence">View Licence Details</a>
+        <a class="btn" href="https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Securities-Futures-and-Funds-Management.aspx" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Capital-Markets-Services-Licence">View Licence Details</a>
 
         -----
         **Commercial Bank Licence**
 
         Setting up commercial banks in Singapore.
 
-        <a class="primary-btn" href="https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Commercial-Banks.aspx" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Commercial-Bank-Licence">View Licence Details</a>
+        <a class="btn" href="https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Commercial-Banks.aspx" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Commercial-Bank-Licence">View Licence Details</a>
 
         -----
         **Financial Adviser's Licence**
 
         Financial advisers are licensed under section 6 of the Financial Advisers Act (Cap. 110) to provide any or all of the financial advisory services specified in the Second Schedule to the Financial Advisory Services. Currently, these services include advising others on investment products, advising others by issuing research reports concerning investment products, marketing of collective investment schemes and arranging life policies.
 
-        <a class="primary-btn" href="https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Financial-Advisers.aspx" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Financial-Adviser's-Licence">View Licence Details</a>
+        <a class="btn" href="https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Financial-Advisers.aspx" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Financial-Adviser's-Licence">View Licence Details</a>
 
         -----
         **Insurer Licence**
 
         Insurers in Singapore comprise licensed insurers, authorised reinsurers, approved marine, aviation and transit (MAT) insurers and foreign insurers. Insurance brokers in Singapore comprise registered insurance brokers, approved MAT insurance brokers and approved reinsurance brokers.
 
-        <a class="primary-btn" href="https://www.mas.gov.sg/regulation/Insurance/Types-of-Insurers-in-Singapore" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Insurer-Licence">View Licence Details</a>
+        <a class="btn" href="https://www.mas.gov.sg/regulation/Insurance/Types-of-Insurers-in-Singapore" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Insurer-Licence">View Licence Details</a>
 
         -----
         **Major Payment Institution Licence**
 
         Major payment institutions are licensed and regulated under the Payment Services Act ("PS Act") to provide payment services without being subject to the specified thresholds.
 
-        <a class="primary-btn" href="https://www.mas.gov.sg/regulation/payments/major-payment-institution-licence" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Major-Payment-Institution-Licence">View Licence Details</a>
+        <a class="btn" href="https://www.mas.gov.sg/regulation/payments/major-payment-institution-licence" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Major-Payment-Institution-Licence">View Licence Details</a>
 
         -----
         **Money-Changer's Licence**
 
         Money-changing licensees are licensed and regulated under the Payment Services Act ("PS Act") to conduct only money-changing services i.e. the service of buying or selling foreign currency notes.
 
-        <a class="primary-btn" href="https://www.mas.gov.sg/regulation/payments/money-changing-licence" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Money-Changer's-Licence">View Licence Details</a>
+        <a class="btn" href="https://www.mas.gov.sg/regulation/payments/money-changing-licence" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Money-Changer's-Licence">View Licence Details</a>
 
         -----
         **Standard Payment Institution Licence**
@@ -1262,14 +1252,14 @@
 
         Standard payment institutions are licensed and regulated under the Payment Services Act ("PS Act") to provide payment services below the specified thresholds.
 
-        <a class="primary-btn" href="https://www.mas.gov.sg/regulation/payments/standard-payment-institution-licence" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Standard-Payment-Institution-Licence">View Licence Details</a>
+        <a class="btn" href="https://www.mas.gov.sg/regulation/payments/standard-payment-institution-licence" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Standard-Payment-Institution-Licence">View Licence Details</a>
 
         -----
         **Trust Business Licence**
 
         Licensed Trust Companies are licensed under section 3 of the Trust Companies Act (Cap. 336) to carry out trust business specified in the First Schedule to the Trust Companies Act. Trust business refers to: a. the provision of services with respect to the creation of an express trust; b. acting as trustee in relation to an express trust; c. arranging for any person to act as trustee in respect of an express trust; d. the provision of trust administration services in relation to an express trust.
 
-        <a class="primary-btn" href="https://www.mas.gov.sg/regulation/capital-markets/Trust-Business-Licence" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Trust-Business-Licence">View Licence Details</a>
+        <a class="btn" href="https://www.mas.gov.sg/regulation/capital-markets/Trust-Business-Licence" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Trust-Business-Licence">View Licence Details</a>
 
     - title: Ministry of Culture, Community and Youth (MCCY)
       content: |
@@ -1289,7 +1279,7 @@
          -Organisation must have at least 3 governing board members, of whom at least two must be Singapore citizens or permanent residents; and
          -Purposes or objects of the organisation must be beneficial wholly or substantially to the community in Singapore.
 
-        <a class="primary-btn" href="https://www.charities.gov.sg/Pages/Charities-and-IPCs/Register-as-a-Charity/Before-You-Begin.aspx#" target="_blank" rel="noopener">Apply on MCCY</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Culture--Community-and-Youth-(MCCY)/Registering-A-New-Charity-or-IPC-Status">View Licence Details</a>
+        <a class="btn" href="https://www.charities.gov.sg/Pages/Charities-and-IPCs/Register-as-a-Charity/Before-You-Begin.aspx#" target="_blank" rel="noopener">Apply on MCCY</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Culture--Community-and-Youth-(MCCY)/Registering-A-New-Charity-or-IPC-Status">View Licence Details</a>
 
     - title: Ministry of Home Affairs (MHA)
       content: |
@@ -1303,7 +1293,7 @@
         3. Any trade union registered or required to be registered under any written law relating to trade unions for the time being in Singapore...
         
 
-        <a class="primary-btn" href="https://www.ros.mha.gov.sg/" target="_blank" rel="noopener">Apply on MHA</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Home-Affairs-(MHA)/Registry-of-Societies">View Licence Details</a>
+        <a class="btn" href="https://www.ros.mha.gov.sg/" target="_blank" rel="noopener">Apply on MHA</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Home-Affairs-(MHA)/Registry-of-Societies">View Licence Details</a>
 
     - title: Ministry of Law (MINLAW)
       content: |
@@ -1353,8 +1343,9 @@
 
         For businesses that conduct regulated dealing (in precious stones, precious metals, precious products or asset-backed tokens) or as an intermediary for regulated dealing.
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/psmd" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Law-(MINLAW)/Registration-of-Precious-Stones-and-Precious-Metals-Dealers">View Licence Details</a>
-        
+        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=273" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Ministry-of-Law-(MINLAW)/Registration-of-Precious-Stones-and-Precious-Metals-Dealers" style="margin-left: 1em;">View Licence Details</a>
+        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Ministry-of-Law-(MINLAW)/Registration-of-Precious-Stones-and-Precious-Metals-Dealers">View Licence Details</a>
+
     - title: Ministry of Education (MOE)
       content: |
         **Certificate of Registration of School**
@@ -1374,7 +1365,7 @@
 
         For the examination of the human body, or any matter derived from the human body. This licence is not needed if the premises are a) maintained by Government or National University of Singapore. b) forms part of the premises of a licensed private hospital.
 
-        <a class="primary-btn" href="https://www.moh.gov.sg/licensing-and-regulation/information-for-laboratories" target="_blank" rel="noopener">Apply on MOH</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Health-(MOH)/Clinical-Laboratory-Licence">View Licence Details</a>
+        <a class="btn" href="https://www.moh.gov.sg/licensing-and-regulation/information-for-laboratories" target="_blank" rel="noopener">Apply on MOH</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Health-(MOH)/Clinical-Laboratory-Licence">View Licence Details</a>
 
         -----
         **Clinical X-Ray Laboratory Licence**
@@ -1383,7 +1374,7 @@
 
         Clinical X-Ray Laboratory
 
-        <a class="primary-btn" href="https://www.moh.gov.sg/licensing-and-regulation/information-for-laboratories" target="_blank" rel="noopener">Apply on MOH</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Health-(MOH)/Clinical-X-Ray-Laboratory-Licence">View Licence Details</a>
+        <a class="btn" href="https://www.moh.gov.sg/licensing-and-regulation/information-for-laboratories" target="_blank" rel="noopener">Apply on MOH</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Health-(MOH)/Clinical-X-Ray-Laboratory-Licence">View Licence Details</a>
 
         -----
         **Community Health Centre**
@@ -1392,7 +1383,7 @@
 
         Community Health Centre is a facility that provides auxiliary services* (such as diabetic eye/foot screening, dietary counselling, blood glucose monitoring, etc.) to support the General Practitioners to better manage their patients with chronic medical conditions.
 
-        <a class="primary-btn" href="https://elis.moh.gov.sg/elis/index.do?task=home" target="_blank" rel="noopener">Apply on MOH</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Health-(MOH)/Community-Health-Centre">View Licence Details</a>
+        <a class="btn" href="https://elis.moh.gov.sg/elis/index.do?task=home" target="_blank" rel="noopener">Apply on MOH</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Health-(MOH)/Community-Health-Centre">View Licence Details</a>
 
         -----
         **Dental Clinic Licence**
@@ -1403,7 +1394,7 @@
         1. for the diagnosis or treatment of persons suffering from, or believed to be suffering from, any disease, injury or disability of mind or body; or
         2. for curing or alleviating any abnormal condition of the human body by the application of any apparatus, equipment, instrument or device requiring the use of electricity, heat or light
 
-        <a class="primary-btn" href="https://elis.moh.gov.sg/elis/index.do?task=home" target="_blank" rel="noopener">Apply on MOH</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Health-(MOH)/Dental-Clinic-Licence">View Licence Details</a>
+        <a class="btn" href="https://elis.moh.gov.sg/elis/index.do?task=home" target="_blank" rel="noopener">Apply on MOH</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Health-(MOH)/Dental-Clinic-Licence">View Licence Details</a>
 
         -----
         **Hospital Licence**
@@ -1412,7 +1403,7 @@
 
         For providing lodging, treatment and care of persons who require medical treatment or who are suffering from any disease.
 
-        <a class="primary-btn" href="https://elis.moh.gov.sg/elis/index.do?task=home" target="_blank" rel="noopener">Apply on MOH</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Health-(MOH)/Hospital-Licence">View Licence Details</a>
+        <a class="btn" href="https://elis.moh.gov.sg/elis/index.do?task=home" target="_blank" rel="noopener">Apply on MOH</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Health-(MOH)/Hospital-Licence">View Licence Details</a>
 
         -----
         **Medical Clinic Licence**
@@ -1423,7 +1414,7 @@
         1. for the diagnosis or treatment of persons suffering from, or believed to be suffering from, any disease, injury or disability of mind or body; or
         2. for curing or alleviating any abnormal condition of the human body by the application of any apparatus, equipment, instrument or device requiring the use of electricity, heat or light
 
-        <a class="primary-btn" href="https://elis.moh.gov.sg/elis/index.do?task=home" target="_blank" rel="noopener">Apply on MOH</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Health-(MOH)/Medical-Clinic-Licence">View Licence Details</a>
+        <a class="btn" href="https://elis.moh.gov.sg/elis/index.do?task=home" target="_blank" rel="noopener">Apply on MOH</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Health-(MOH)/Medical-Clinic-Licence">View Licence Details</a>
 
         -----
         **Nursing Home Licence**
@@ -1432,7 +1423,7 @@
 
         For nursing persons suffering or convalescing from any sickness, injury or infirmity.
 
-        <a class="primary-btn" href="https://elis.moh.gov.sg/elis/index.do?task=home" target="_blank" rel="noopener">Apply on MOH</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Health-(MOH)/Nursing-Home-Licence">View Licence Details</a>
+        <a class="btn" href="https://elis.moh.gov.sg/elis/index.do?task=home" target="_blank" rel="noopener">Apply on MOH</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Health-(MOH)/Nursing-Home-Licence">View Licence Details</a>
 
         -----
         **Termination of Pregnancy (TOP)**
@@ -1441,7 +1432,7 @@
 
         Hospitals and medical clinics that intend to provide services for TOP are required to apply for status as an approved institution for TOP.
 
-        <a class="primary-btn" href="https://elis.moh.gov.sg/elis/index.do?task=home" target="_blank" rel="noopener">Apply on MOH</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Health-(MOH)/Termination-of-Pregnancy-(TOP)">View Licence Details</a>
+        <a class="btn" href="https://elis.moh.gov.sg/elis/index.do?task=home" target="_blank" rel="noopener">Apply on MOH</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Health-(MOH)/Termination-of-Pregnancy-(TOP)">View Licence Details</a>
 
     - title: Ministry of Manpower (MOM)
       content: |
@@ -1480,7 +1471,7 @@
 
         All foreigners who intend to work in Singapore must have a valid pass (commonly known as a work visa) before they start work. If you are engaging foreigners to work in Singapore, you must ensure that they hold a valid pass. Find out which pass is suitable, if they are eligible and how to apply.
 
-        <a class="primary-btn" href="http://www.mom.gov.sg/passes-and-permits" target="_blank" rel="noopener">Apply on MOM</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Manpower-(MOM)/Work-passes-and-permits">View Licence Details</a>
+        <a class="btn" href="http://www.mom.gov.sg/passes-and-permits" target="_blank" rel="noopener">Apply on MOM</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Manpower-(MOM)/Work-passes-and-permits">View Licence Details</a>
 
     - title: Maritime and Port Authority (MPA)
       content: |
@@ -1490,14 +1481,14 @@
 
         All bunker surveying companies in Singapore must be accredited by the Singapore Accreditation Council (SAC).
 
-        <a class="primary-btn" href="https://www.mpa.gov.sg/port-marine-ops/marine-services/bunkering/bunkering-licence-application-guidelines" target="_blank" rel="noopener">Apply on MPA</a>&emsp;<a href = "/browse-all-licences/Maritime-and-Port-Authority-(MPA)/Accreditation-Scheme-for-Bunker-Surveying-Companies">View Licence Details</a>
+        <a class="btn" href="https://www.mpa.gov.sg/port-marine-ops/marine-services/bunkering/bunkering-licence-application-guidelines" target="_blank" rel="noopener">Apply on MPA</a>&emsp;<a href = "/browse-all-licences/Maritime-and-Port-Authority-(MPA)/Accreditation-Scheme-for-Bunker-Surveying-Companies">View Licence Details</a>
 
         -----
         **Advanced Powered Pleasure Craft Driving Licence**
 
         Pleasure craft of 24 metres in length and above shall be handled by those who hold a valid Advance Powered Pleasure Craft Driving Licence (APPCDL) issued by MPA.
 
-        <a class="primary-btn" href="https://www.mpa.gov.sg/port-marine-ops/harbourcraft-and-pleasure-craft-regulations/licensing-of-pleasure-craft" target="_blank" rel="noopener">Apply on MPA</a>&emsp;<a href = "/browse-all-licences/Maritime-and-Port-Authority-(MPA)/Advanced-Powered-Pleasure-Craft-Driving-Licence">View Licence Details</a>
+        <a class="btn" href="https://www.mpa.gov.sg/port-marine-ops/harbourcraft-and-pleasure-craft-regulations/licensing-of-pleasure-craft" target="_blank" rel="noopener">Apply on MPA</a>&emsp;<a href = "/browse-all-licences/Maritime-and-Port-Authority-(MPA)/Advanced-Powered-Pleasure-Craft-Driving-Licence">View Licence Details</a>
 
         -----
         **Bunker Convention Certificate**
@@ -1506,7 +1497,7 @@
 
         With effect from 21 Nov 08, any ship having a gross tonnage greater than 1,000 that enters or leaves the port of Singapore is required to carry on board a Bunker Convention Certificate (BCC), to attest that insurance or other financial security to cover liability for bunker oil pollution damage is in place.
 
-        <a class="primary-btn" href="https://www.mpa.gov.sg/singapore-registry-of-ships/register-with-srs/statutory-certificates" target="_blank" rel="noopener">Apply on MPA</a>&emsp;<a href = "/browse-all-licences/Maritime-and-Port-Authority-(MPA)/Bunker-Convention-Certificate">View Licence Details</a>
+        <a class="btn" href="https://www.mpa.gov.sg/singapore-registry-of-ships/register-with-srs/statutory-certificates" target="_blank" rel="noopener">Apply on MPA</a>&emsp;<a href = "/browse-all-licences/Maritime-and-Port-Authority-(MPA)/Bunker-Convention-Certificate">View Licence Details</a>
 
         -----
         **Bunkering Licence (Bunker Supplier)**
@@ -1515,21 +1506,21 @@
 
         A company shall possess a valid Bunkering Licence (Bunker Supplier) issued by the Maritime and Port Authority of Singapore (MPA) in order to supply bunkers to vessels in the Port of Singapore using its own delivery documents.
 
-        <a class="primary-btn" href="https://www.mpa.gov.sg/port-marine-ops/marine-services/bunkering/bunkering-licence-application-guidelines" target="_blank" rel="noopener">Apply on MPA</a>&emsp;<a href = "/browse-all-licences/Maritime-and-Port-Authority-(MPA)/Bunkering-Licence-(Bunker-Supplier)">View Licence Details</a>
+        <a class="btn" href="https://www.mpa.gov.sg/port-marine-ops/marine-services/bunkering/bunkering-licence-application-guidelines" target="_blank" rel="noopener">Apply on MPA</a>&emsp;<a href = "/browse-all-licences/Maritime-and-Port-Authority-(MPA)/Bunkering-Licence-(Bunker-Supplier)">View Licence Details</a>
 
         -----
         **Harbour Craft Licence**
 
         Any vessel operating in port must possess a valid harbour craft licence.
 
-        <a class="primary-btn" href="https://www.mpa.gov.sg/port-marine-ops/harbourcraft-and-pleasure-craft-regulations/licensing-of-harbour-craft-pleasure-craft/licensing-requirement-applications" target="_blank" rel="noopener">Apply on MPA</a>&emsp;<a href = "/browse-all-licences/Maritime-and-Port-Authority-(MPA)/Harbour-Craft-Licence">View Licence Details</a>
+        <a class="btn" href="https://www.mpa.gov.sg/port-marine-ops/harbourcraft-and-pleasure-craft-regulations/licensing-of-harbour-craft-pleasure-craft/licensing-requirement-applications" target="_blank" rel="noopener">Apply on MPA</a>&emsp;<a href = "/browse-all-licences/Maritime-and-Port-Authority-(MPA)/Harbour-Craft-Licence">View Licence Details</a>
 
         -----
         **Harbour Craft Manning Licence**
 
         All personnel operating harbour craft must possess a valid harbour craft manning licence.
 
-        <a class="primary-btn" href="https://www.mpa.gov.sg/port-marine-ops/harbourcraft-and-pleasure-craft-regulations/licensing-of-harbour-craft-pleasure-craft/applying-or-renewing-the-port-limit-manning-licence" target="_blank" rel="noopener">Apply on MPA</a>&emsp;<a href = "/browse-all-licences/Maritime-and-Port-Authority-(MPA)/Harbour-Craft-Manning-Licence">View Licence Details</a>
+        <a class="btn" href="https://www.mpa.gov.sg/port-marine-ops/harbourcraft-and-pleasure-craft-regulations/licensing-of-harbour-craft-pleasure-craft/applying-or-renewing-the-port-limit-manning-licence" target="_blank" rel="noopener">Apply on MPA</a>&emsp;<a href = "/browse-all-licences/Maritime-and-Port-Authority-(MPA)/Harbour-Craft-Manning-Licence">View Licence Details</a>
 
         -----
         **Permit to Break-up a Vessel in Port**
@@ -1538,7 +1529,7 @@
 
         Vessels that need to be broken up in port require written permission from the Port Master.
 
-        <a class="primary-btn" href="https://www.mpa.gov.sg/port-marine-ops/harbourcraft-and-pleasure-craft-regulations/launching-laying-up-breaking-up-a-vessel/breaking-up-of-a-vessel-in-port" target="_blank" rel="noopener">Apply on MPA</a>&emsp;<a href = "/browse-all-licences/Maritime-and-Port-Authority-(MPA)/Permit-to-Break-up-a-Vessel-in-Port">View Licence Details</a>
+        <a class="btn" href="https://www.mpa.gov.sg/port-marine-ops/harbourcraft-and-pleasure-craft-regulations/launching-laying-up-breaking-up-a-vessel/breaking-up-of-a-vessel-in-port" target="_blank" rel="noopener">Apply on MPA</a>&emsp;<a href = "/browse-all-licences/Maritime-and-Port-Authority-(MPA)/Permit-to-Break-up-a-Vessel-in-Port">View Licence Details</a>
 
         -----
         **Permit to Launch a New Vessel in Port**
@@ -1547,7 +1538,7 @@
 
         Vessels more than 15 metres long require written permission from the Port Master before they can be launched in port.
 
-        <a class="primary-btn" href="https://www.mpa.gov.sg/port-marine-ops/harbourcraft-and-pleasure-craft-regulations/launching-laying-up-breaking-up-a-vessel/launching-of-a-new-vessel-in-port" target="_blank" rel="noopener">Apply on MPA</a>&emsp;<a href = "/browse-all-licences/Maritime-and-Port-Authority-(MPA)/Permit-to-Launch-a-New-Vessel-in-Port">View Licence Details</a>
+        <a class="btn" href="https://www.mpa.gov.sg/port-marine-ops/harbourcraft-and-pleasure-craft-regulations/launching-laying-up-breaking-up-a-vessel/launching-of-a-new-vessel-in-port" target="_blank" rel="noopener">Apply on MPA</a>&emsp;<a href = "/browse-all-licences/Maritime-and-Port-Authority-(MPA)/Permit-to-Launch-a-New-Vessel-in-Port">View Licence Details</a>
 
         -----
         **Permit to Lay-Up a Vessel in Port**
@@ -1556,21 +1547,21 @@
 
         Vessels that need to be laid up in port require written permission from the Port Master.
 
-        <a class="primary-btn" href="https://www.mpa.gov.sg/port-marine-ops/harbourcraft-and-pleasure-craft-regulations/launching-laying-up-breaking-up-a-vessel/laying-up-of-a-vessel-in-port" target="_blank" rel="noopener">Apply on MPA</a>&emsp;<a href = "/browse-all-licences/Maritime-and-Port-Authority-(MPA)/Permit-to-Lay-Up-a-Vessel-in-Port">View Licence Details</a>
+        <a class="btn" href="https://www.mpa.gov.sg/port-marine-ops/harbourcraft-and-pleasure-craft-regulations/launching-laying-up-breaking-up-a-vessel/laying-up-of-a-vessel-in-port" target="_blank" rel="noopener">Apply on MPA</a>&emsp;<a href = "/browse-all-licences/Maritime-and-Port-Authority-(MPA)/Permit-to-Lay-Up-a-Vessel-in-Port">View Licence Details</a>
 
         -----
         **Pleasure Craft**
 
         Pleasure craft means any craft which is intended for use within the port exclusively for sport or pleasure purposes, but does not include any craft which is used to carry passengers on sightseeing tours within the port for which each such passenger is charged a separate and distinct fare. All pleasure craft to be used in Singapore port waters must be licensed.
 
-        <a class="primary-btn" href="https://www.mpa.gov.sg/port-marine-ops/harbourcraft-and-pleasure-craft-regulations/licensing-of-pleasure-craft" target="_blank" rel="noopener">Apply on MPA</a>&emsp;<a href = "/browse-all-licences/Maritime-and-Port-Authority-(MPA)/Pleasure-Craft">View Licence Details</a>
+        <a class="btn" href="https://www.mpa.gov.sg/port-marine-ops/harbourcraft-and-pleasure-craft-regulations/licensing-of-pleasure-craft" target="_blank" rel="noopener">Apply on MPA</a>&emsp;<a href = "/browse-all-licences/Maritime-and-Port-Authority-(MPA)/Pleasure-Craft">View Licence Details</a>
 
         -----
         **Pleasure Craft Driving licence**
 
         The Powered Pleasure Driving Licence (PPCDL) is required for driving engine- powered/jet-propelled pleasure craft (with SZ or SZH licence prefixes) of less than 24 metres within the port limits.
 
-        <a class="primary-btn" href="https://www.mpa.gov.sg/port-marine-ops/harbourcraft-and-pleasure-craft-regulations/licensing-of-pleasure-craft" target="_blank" rel="noopener">Apply on MPA</a>&emsp;<a href = "/browse-all-licences/Maritime-and-Port-Authority-(MPA)/Pleasure-Craft-Driving-licence">View Licence Details</a>
+        <a class="btn" href="https://www.mpa.gov.sg/port-marine-ops/harbourcraft-and-pleasure-craft-regulations/licensing-of-pleasure-craft" target="_blank" rel="noopener">Apply on MPA</a>&emsp;<a href = "/browse-all-licences/Maritime-and-Port-Authority-(MPA)/Pleasure-Craft-Driving-licence">View Licence Details</a>
 
     - title: Ministry of Social and Family Development (MSF)
       content: |
@@ -1580,6 +1571,15 @@
 
         <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10063" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Ministry-of-Social-and-Family-Development-(MSF)/Licence-for-Residential-Care-Facilities" style="margin-left: 1em;">View Licence Details</a>
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Ministry-of-Social-and-Family-Development-(MSF)/Licence-for-Residential-Care-Facilities">View Licence Details</a>
+
+        -----
+        **SDNTrust Accreditation**
+
+        <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
+
+        For dating agencies providing dating services.
+
+        <a class="btn" href="https://www.sdn.sg/fordatingindustry/Pages/SDNTrustAccreditationFramework.aspx" target="_blank" rel="noopener">Apply on MSF</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Social-and-Family-Development-(MSF)/SDNTrust-Accreditation">View Licence Details</a>
 
     - title: Majlis Ugama Islam Singapura (MUIS)
       content: |
@@ -1615,9 +1615,9 @@
       content: |
         **Fund raising Permit**
 
-        A House to House and Street Collections licence (HHSC) is required if one promotes a collection by way of appealing to the public, made by means of visits from house to house or of soliciting in streets or other places or by both such means, for money or other property.
+        Under the House to House and Streets Collection Act, all public fund-raising activities that involve house-to-house and street collections are required to be licensed by the Singapore Police Force's Licensing Division.
 
-        <a class="btn" href="https://e-services.ncss.gov.sg/Login?ReturnUrl=%2F" target="_blank" rel="noopener">Apply on NCSS</a>&emsp;[View Licence Details](/browse-all-licences/National-Council-of-Social-Service-(NCSS)/Fund-raising-Permit)
+        <a class="btn" href="https://www.ncss.gov.sg/GatewayPages/Social-Service-Organisations/Funding,-Schemes-and-Common-Services/Benefit-Schemes/Fund-Raising-Permit" target="_blank" rel="noopener">Apply on NCSS</a>&emsp;<a href = "/browse-all-licences/National-Council-of-Social-Service-(NCSS)/Fund-raising-Permit">View Licence Details</a>
 
     - title: National Environment Agency (NEA)
       content: |
@@ -1627,7 +1627,14 @@
 
         All Public Health Pesticide/Repellent Products intended for use against the five vectors (namely mosquitos, flies, cockroaches, rodents and rat fleas) have to be registered prior to local sales in Singapore under the Control of Vectors and Pesticides Act.
 
-        <a class="primary-btn" href="https://www.nea.gov.sg/our-services/pest-control/registration-of-control-of-public-health-pesticides-and-repellents-against-vectors" target="_blank" rel="noopener">Apply on NEA</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/Application-for-Registration-of-Public-Health-Pesticide-&-Repellents-Against-Vectors">View Licence Details</a>
+        <a class="btn" href="https://www.nea.gov.sg/our-services/pest-control/registration-of-control-of-public-health-pesticides-and-repellents-against-vectors" target="_blank" rel="noopener">Apply on NEA</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/Application-for-Registration-of-Public-Health-Pesticide-&-Repellents-Against-Vectors">View Licence Details</a>
+
+        -----
+        **Aquatic Facility Lab Result Submission**
+
+        <p>Aquatic Facility Lab Result Submission</p>
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/aquaticfacilitylabresultsubmission" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/Aquatic-Facility-Lab-Result-Submission">View Licence Details</a>
 
         -----
         **Aquatic Facility Licence**
@@ -1644,6 +1651,15 @@
         <p>Businesses offering general cleaning services at premises or any public places will need to be licensed. Applicants should not provide cleaning services until the licence is granted.</p>
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/cleaningbusinesslicence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/Cleaning-Business-Licence">View Licence Details</a>
+
+        -----
+        **Enhanced Clean Mark Accreditation Scheme**
+
+        <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
+
+        To raise the overall standards and professionalism of the cleaning industry through better employment practices and productivity initiatives, together with a new accreditation requirement on progressive wages.
+
+        <a class="btn" href="https://www.nea.gov.sg/programmes-grants/schemes/enhanced-clean-mark-accreditation" target="_blank" rel="noopener">Apply on NEA</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/Enhanced-Clean-Mark-Accreditation-Scheme">View Licence Details</a>
 
         -----
         **Environmental Control Coordinator Certificate of Registration**
@@ -1675,7 +1691,7 @@
         -----
         **Fumigation Permit**
 
-        <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
+        <span style="background: #EEF0F2; border-radius: 3px; width: 150px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/sp-mini.png" alt="For Individual Users"> For Individual Users </span>
 
         <p>Companies who have fumigators licensed by NEA to carry out fumigation by means of Hydrogen Cyanide, Methyl Bromide and/or Hydrogen Phosphide.</p>
 
@@ -1686,7 +1702,7 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 150px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/sp-mini.png" alt="For Individual Users"> For Individual Users </span>
 
-        For individuals wishing to become licensed fumigators.
+        <p>For individuals who wish to become licensed fumigators (to carry out fumigation by means of Methyl Bromide, Hydrogen Phosphide or Hydrogen Cyanide).</p>
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/fumigatorlicence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/Fumigator-Licence">View Licence Details</a>
 
@@ -1697,7 +1713,7 @@
 
         To operate a funeral parlour with embalming facilities and crematoria.
 
-        <a class="primary-btn" href="https://www.nea.gov.sg/our-services/after-death/facilities-and-services" target="_blank" rel="noopener">Apply on NEA</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/Funeral-Parlour-Licence">View Licence Details</a>
+        <a class="btn" href="https://www.nea.gov.sg/our-services/after-death/facilities-and-services" target="_blank" rel="noopener">Apply on NEA</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/Funeral-Parlour-Licence">View Licence Details</a>
 
         -----
         **General Waste Collector Licence**
@@ -1706,7 +1722,8 @@
 
         For collecting solid waste/refuse commercially.
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/generalwastecollectorlicence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/General-Waste-Collector-Licence">View Licence Details</a>
+        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=57" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/General-Waste-Collector-Licence" style="margin-left: 1em;">View Licence Details</a>
+        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/General-Waste-Collector-Licence">View Licence Details</a>
 
         -----
         **General Waste Disposal Facility Licence**
@@ -1715,7 +1732,15 @@
 
         Construct or operate a general waste disposal facility.
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/generalwastedisposalfacilitylicence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/General-Waste-Disposal-Facility-Licence">View Licence Details</a>
+        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=225" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/General-Waste-Disposal-Facility-Licence" style="margin-left: 1em;">View Licence Details</a>
+        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/General-Waste-Disposal-Facility-Licence">View Licence Details</a>
+
+        -----
+        **Hawker Stall Licence**
+
+        <p>Stallholder in hawker centres.</p>
+
+        <a class="btn" href="https://www.nea.gov.sg/our-services/hawker-management/overview" target="_blank" rel="noopener">Apply on NEA</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/Hawker-Stall-Licence">View Licence Details</a>
 
         -----
         **Hazardous Substances (HS) Licence**
@@ -1724,7 +1749,8 @@
 
         Any person who wishes to import, use, storage and supply of hazardous substances controlled under the Environmental Protection And Management Act.
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/hazardoussubstanceslicence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/Hazardous-Substances-(HS)-Licence">View Licence Details</a>
+        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=172" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Hazardous-Substances-(HS)-Licence" style="margin-left: 1em;">View Licence Details</a>
+        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Hazardous-Substances-(HS)-Licence">View Licence Details</a>
 
         -----
         **Hazardous Substances (HS) Permit**
@@ -1733,7 +1759,8 @@
 
         Any person who wishes to purchase, store and /or use of hazardous substances controlled under the Environmental Protection And Management (Hazardous Substances) Regulations.
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/hazardoussubstancespermit" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/Hazardous-Substances-(HS)-Permit">View Licence Details</a>
+        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=173" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Hazardous-Substances-(HS)-Permit" style="margin-left: 1em;">View Licence Details</a>
+        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Hazardous-Substances-(HS)-Permit">View Licence Details</a>
 
         -----
         **Hazardous Substances (HS) Transport Approval**
@@ -1742,7 +1769,8 @@
 
         Any existing HS licence holder who wishes to transport hazardous substances in quantities exceeding those specified in the Environmental Protection And Management (Hazardous Substances) Regulations.
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/hazardoussubstancestransportapproval" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/Hazardous-Substances-(HS)-Transport-Approval">View Licence Details</a>
+        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=174" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Hazardous-Substances-(HS)-Transport-Approval" style="margin-left: 1em;">View Licence Details</a>
+        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Hazardous-Substances-(HS)-Transport-Approval">View Licence Details</a>
 
         -----
         **IR1 - Licence to manufacture, possess for sale or deal in irradiating apparatus or radioactive materials**
@@ -1761,7 +1789,6 @@
         This licence is required for applicants intending to buy, purchase, keep, store, possess for use or use ionising irradiating apparatus, radiaoctive materials or devices containing radioactive materials
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/6afdb82d-d554-4228-a42b-bcfa5b7561ca" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/IR2---Licence-to-keep--possess-for-use-(other-than-sale)-or-use-irradiating-apparatus-or-radioactive-materials">View Licence Details</a>
-
 
         -----
         **IR3 - Licence to handle and transport radioactive materials**
@@ -1796,7 +1823,7 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        Licence to manufacture, possess for sale or deal in non-ionising irradiating apparatus.
+        Licence to manufacture, possess for sale or deal in non-ionising irradiating apparatus. 
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/7beea98c-9a1b-4050-9526-645a51333079" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/N1---Licence-to-manufacture--possess-for-sale-or-deal-in-non-ionising-radiation-irradiating-apparatus">View Licence Details</a>
 
@@ -1807,7 +1834,7 @@
 
         Licence to keep, possess or use non-ionising radiation irradiating apparatus 
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/23be94d6-7629-4f62-823b-756c812cc3c2" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/N2---Licence-to-keep--or-possess-for-use-non-ionising-radiation-irradiating-apparatus">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/fe6a3592-fbd9-45c8-b057-fea838716dd8" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/N2---Licence-to-keep--or-possess-for-use-non-ionising-radiation-irradiating-apparatus">View Licence Details</a>
 
         -----
         **N3 - Licence to use laser**
@@ -1816,7 +1843,7 @@
 
         Licence to use laser
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/ff0864a0-72f9-4b2c-a60a-5aa1c06eb415" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/N3---Licence-to-use-laser">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/72959b24-ff2f-4f2e-b046-765fa92d5aed" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/N3---Licence-to-use-laser">View Licence Details</a>
 
         -----
         **N4A/B - Licence to import or export a consignment of non-ionising radiation irradiating apparatus**
@@ -1868,7 +1895,7 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 150px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/sp-mini.png" alt="For Individual Users"> For Individual Users </span>
 
-        <p>Employees of Vector Control Operators would have to be licensed as Vector Control Technicians or&nbsp;certified as&nbsp;Vector Control Workers to conduct any vector control activity.</p>
+        <p>Employees of Vector Control Operators would have to be licensed as Vector Control Technicians or certified as Vector Control Workers to conduct any vector control activity.</p>
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/vectorcontroltechnicianlicence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/Vector-Control-Technician-Licence">View Licence Details</a>
 
@@ -1888,7 +1915,7 @@
 
         For factories to apply for a written permission to discharge trade effluent into a watercourse.
 
-        <a class="primary-btn" href="https://www.nea.gov.sg/our-services/pollution-control/water-quality/allowable-limits-for-trade-effluent-discharge-to-watercourse-or-controlled-watercourse" target="_blank" rel="noopener">Apply on NEA</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/Written-Permission-to-Discharge-Trade-Effluent-into-a-Watercourse">View Licence Details</a>
+        <a class="btn" href="https://www.nea.gov.sg/our-services/pollution-control/water-quality/allowable-limits-for-trade-effluent-discharge-to-watercourse-or-controlled-watercourse" target="_blank" rel="noopener">Apply on NEA</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/Written-Permission-to-Discharge-Trade-Effluent-into-a-Watercourse">View Licence Details</a>
 
     - title: National Parks Board (NPARKS)
       content: |
@@ -1896,14 +1923,28 @@
 
         <p>The CITES Permit allows importers, exporters and re-exporters to get National Parks Board approval for CITES specimens intended for import, export and re-export. This permit is required for both commercial consignments and personal effects.</p>
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/cites" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/CITES-Permit">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/6e9e9f1a-9d36-4033-b8ea-d77aa90fe61c" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/CITES-Permit">View Licence Details</a>
+
+        -----
+        **Licence to Import/Export/Transship for Non-Food Producing Animals, Birds, Eggs and Biologics**
+
+        <p>This licence is required if you intend to:</p>
+        <p>1) import/export/tranship live pet animals and birds;</p>
+        <p>2) import/tranship veterinary biologics*; or</p>
+        <p>3) export the carcass of any pet animal or bird.</p>
+        <p>*Please note that export of veterinary biologics does not require a licence.</p><br/>
+        
+        <b>For foreign Individual</b>, you will be required to login using the SingPass Foreign Account (SFA) in order to apply for this licence.<br/>
+        You may click on this <a href="https://avs-eservices.nparks.gov.sg/eservices/sfa-registration">link</a> to apply for a SFA account if you do not have one.<br/>
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/ietnonfood" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/Licence-to-Import-Export-Transship-for-Non-Food-Producing-Animals--Birds--Eggs-and-Biologics">View Licence Details</a>
 
         -----
         **Non-CITES Certificate**
 
         <p>The Non-CITES Certificate allows individual or commercial exporters/re-exporters to get National Parks Board approval for commercial export/re-export of non-CITES specimens such as non-CITES ostrich skins and its manufactured products.</p>
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/noncites" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/Non-CITES-Certificate">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/5c77d64f-923e-4343-9a7c-47bd8c5c4904" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/Non-CITES-Certificate">View Licence Details</a>
 
         -----
         **Phytosanitary Certification**
@@ -1912,34 +1953,34 @@
 
         <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201212070000112" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/National-Parks-Board-(NPARKS)/Phytosanitary-Certification" style="margin-left: 1em;">View Licence Details</a>
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/National-Parks-Board-(NPARKS)/Phytosanitary-Certification">View Licence Details</a>
-        
+
         -----
         **Pre-signed CITES Permit**
 
         <p>A pre-signed CITES permit is issued for tourist manufactured products made from CITES reptilian/non-reptilian species, like handbags, wallets/purses, belts, key holder/chains etc. A retailer of such products may apply for pre-signed CITES permits.</p>
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/presignedcites" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/Pre-signed-CITES-Permit">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/582ae6b4-12e8-44e2-8d04-9e961103e811" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/Pre-signed-CITES-Permit">View Licence Details</a>
 
         -----
         **Pre-signed non-CITES Certificate**
 
-        <p>The Pre-signed non-CITES Certificate allows exporters and re-exporters to get National Parks Board approval for exporting and re-exporting tourist manufactured products made from non-CITES wildlife such as non-CITES ostrich skins and its manufactured products. A retailer of such products may apply for Pre-signed non-CITES Certificate. These permits are pre-approved with no quantity of products listed. The retailer will have to indicate on the Pre-signed non-CITES Certificate, the quantity for the items and complete the consignee details, when a walk-in customer makes a purchase.</p>
+        <p>The Pre-signed non-CITES Certificate allows exporters and re-exporters to get National Parks Board approval for exporting and re-exporting tourist manufactured products made from non-CITES wildlife such as non-CITES ostrich skins and its manufactured products. A retailer of such products may apply for Pre-signed non-CITES Certificate. These permits are pre-approved with no quantity of products listed. The retailer will have to indicate on the Pre-signed non-CITES Certificate, the quantity for the items and complete the consignee details, when a walk-in customer makes a purchase. </p>
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/presignednoncites" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/Pre-signed-non-CITES-Certificate">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/e19059a0-3e1c-44b8-8ffc-6601b5a662fd" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/Pre-signed-non-CITES-Certificate">View Licence Details</a>
 
         -----
         **Stock Card Application Form**
 
         <p>This stock card will be needed for exporter and re-exporters to facilitate their Export or Re-Export CITES permit application. For expired CITES export/re-port CITES permit, please apply for manual increment to credit the stock back to the respectively stock card.</p>
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/313d4f49-06b3-4368-ac1b-ffaea83426cb" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/Stock-Card-Application-Form">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/ec7a1c8b-6482-4c9e-9668-d97158bd5eb0" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/Stock-Card-Application-Form">View Licence Details</a>
 
         -----
         **Usage of Premises in Parks**
 
         <p>To use any premises in the parks for an event, you need approval from NParks.</p>
 
-        <a class="primary-btn" href="https://www2.vbs.nparks.gov.sg/vbs/" target="_blank" rel="noopener">Apply on NPARKS</a>&emsp;<a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/Usage-of-Premises-in-Parks">View Licence Details</a>
+        <a class="btn" href="https://www2.vbs.nparks.gov.sg/vbs/" target="_blank" rel="noopener">Apply on NPARKS</a>&emsp;<a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/Usage-of-Premises-in-Parks">View Licence Details</a>
 
 - accordion:
   letter: p
@@ -1950,7 +1991,7 @@
 
         The Professional Engineers Act provides for professional engineers to team up with allied professionals to form multi-discipline corporations and partnerships to supply professional engineering services in Singapore. The details on multi-discipline and corporate practices are contained in Part VI of the Professional Engineers Act, and Part IV of the Professional Engineers Rules.
 
-        <a class="primary-btn" href="https://www.peb.gov.sg/lc_commonqueries.aspx" target="_blank" rel="noopener">Apply on PEB</a>&emsp;<a href = "/browse-all-licences/Professional-Engineers-Board-(PEB)/Licence-to-Supply-Professional-Engineering-Services">View Licence Details</a>
+        <a class="btn" href="https://www.peb.gov.sg/lc_commonqueries.aspx" target="_blank" rel="noopener">Apply on PEB</a>&emsp;<a href = "/browse-all-licences/Professional-Engineers-Board-(PEB)/Licence-to-Supply-Professional-Engineering-Services">View Licence Details</a>
 
     - title: Public Transport Council (PTC)
       content: |
@@ -1968,11 +2009,11 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        This is to inform all stakeholders and event organisers that they are required to seek PUB approval before holding any events or works at Marina Reservoir.
+        This is to inform all stakeholders and event organisers that they are required to seek PUB approval before holding any events or works at Marina Reservoir. 
         
         The completed Event Permit Application form and required supporting documents must be submitted in full to PUB at least five (5) weeks before event set-up. Any late or incomplete submission may result in the event not being able to take place on the scheduled date.
 
-        <a class="primary-btn" href="https://form.gov.sg/61552febb79fa60012336dca" target="_blank" rel="noopener">Apply on PUB</a>&emsp;<a href = "/browse-all-licences/Public-Utilities-Board-(PUB)/Event-Permit-Application-for-Use-of-Reservoir">View Licence Details</a>
+        <a class="btn" href="https://form.gov.sg/61552febb79fa60012336dca" target="_blank" rel="noopener">Apply on PUB</a>&emsp;<a href = "/browse-all-licences/Public-Utilities-Board-(PUB)/Event-Permit-Application-for-Use-of-Reservoir">View Licence Details</a>
 
         -----
         **Plumber Licence**
@@ -1981,7 +2022,7 @@
 
         Application to be a Licensed Plumber to carry out water service and sanitary plumbing works.
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/bd699b8c-5570-4d32-82ed-d8671af7d6d1" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Public-Utilities-Board-(PUB)/Plumber-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/f20067e5-4c94-42f7-bee6-3a134cf58531" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Public-Utilities-Board-(PUB)/Plumber-Licence">View Licence Details</a>
 
         -----
         **Written Approval for the Discharge of Trade Effluent Into the Public Sewer**
@@ -1997,9 +2038,9 @@
       content: |
         **Application for Temporary Fire Permit / Fire Safety Certificate**
 
-        A building owner may apply and obtain a Temporary Fire Permit (TFP) for a limited period to occupy or use the premises, prior to obtaining the FSC. The TFP is only issued on condition that the fire safety works of the project has been satisfactorily completed with very minor outstanding issues left to be complied with. The timeframe to obtain the FSC after issuance of the TFP will depend on the size, type and complexity of the project. Normally, a maximum of 6 months will be granted. 
+        A building owner may apply and obtain a Temporary Fire Permit (TFP) for a limited period to occupy or use the premises, prior to obtaining the FSC. The TFP is only issued on condition that the fire safety works of the project has been satisfactorily completed with very minor outstanding issues left to be complied with. The timeframe to obtain the FSC after issuance of the TFP will depend on the size, type and complexity of the project. Normally, a maximum of 6 months will be granted.
 
-        <a class="primary-btn" href="https://www.scdf.gov.sg/home/fire-safety/permits-and-certifications/fire-safety-certificate-temporary-fire-permit" target="_blank" rel="noopener">Apply on SCDF</a>&emsp;<a href = "/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Application-for-Temporary-Fire-Permit---Fire-Safety-Certificate">View Licence Details</a>
+        <a class="btn" href="https://www.scdf.gov.sg/home/fire-safety/permits-and-certifications/fire-safety-certificate-temporary-fire-permit" target="_blank" rel="noopener">Apply on SCDF</a>&emsp;<a href = "/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Application-for-Temporary-Fire-Permit---Fire-Safety-Certificate">View Licence Details</a>
 
         -----
         **Fire Certificate**
@@ -2010,14 +2051,14 @@
         
         For First Application and Renewal of Fire Certificate shall be made via the new application platform.
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/firecert" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Fire-Certificate">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/659ae823-a84d-408b-8ad7-ae196755b966" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Fire-Certificate">View Licence Details</a>
 
         -----
         **Lodgement of Minor Addition / Alteration Works (Minor A&A)**
 
         Minor Addition / Alteration to fire safety works refers to the erection or delection of internal partitions (including alteration to fire protection system). The erection of internal partitions should only involve materials of lightweight non-combustible construction and must not affect the fire compartmentation and means of escape provisions, or pose additional fire hazard to the building.
 
-        <a class="primary-btn" href="https://www.scdf.gov.sg/home/fire-safety/plans-and-consultations/minor-addition-alteration-works" target="_blank" rel="noopener">Apply on SCDF</a>&emsp;<a href = "/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Lodgement-of-Minor-Addition---Alteration-Works-(Minor-A&A)">View Licence Details</a>
+        <a class="btn" href="https://www.scdf.gov.sg/home/fire-safety/plans-and-consultations/minor-addition-alteration-works" target="_blank" rel="noopener">Apply on SCDF</a>&emsp;<a href = "/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Lodgement-of-Minor-Addition---Alteration-Works-(Minor-A&A)">View Licence Details</a>
 
         -----
         **Petroleum & Flammable Material Import Licence**
@@ -2026,14 +2067,14 @@
 
         Any person who wishes to import petroleum or flammable materials is required to obtain an import license from SCDF.
 
-        <a class="primary-btn" href="https://eservices1.scdf.gov.sg/fisops/SCDF-ESERVICES.action?app=FMIBAPP" target="_blank" rel="noopener">Apply on SCDF</a>&emsp;<a href = "/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Petroleum-&-Flammable-Material-Import-Licence">View Licence Details</a>
+        <a class="btn" href="https://eservices1.scdf.gov.sg/fisops/SCDF-ESERVICES.action?app=FMIBAPP" target="_blank" rel="noopener">Apply on SCDF</a>&emsp;<a href = "/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Petroleum-&-Flammable-Material-Import-Licence">View Licence Details</a>
 
         -----
         **Petroleum & Flammable Material Pipeline Licence**
 
         The Fire Safety Act (FSA) regulates the conveyance of Petroleum and Flammable Materials (P&FM) in pipelines. Anyone who intends to convey P&FM in pipeline running outside premises boundaries is required to obtain a licence from SCDF.
 
-        <a class="primary-btn" href="https://eservices1.scdf.gov.sg/fisops/SCDF-ESERVICES.action?app=FMPBAPP" target="_blank" rel="noopener">Apply on SCDF</a>&emsp;<a href = "/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Petroleum-&-Flammable-Material-Pipeline-Licence">View Licence Details</a>
+        <a class="btn" href="https://eservices1.scdf.gov.sg/fisops/SCDF-ESERVICES.action?app=FMPBAPP" target="_blank" rel="noopener">Apply on SCDF</a>&emsp;<a href = "/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Petroleum-&-Flammable-Material-Pipeline-Licence">View Licence Details</a>
 
         -----
         **Petroleum / Flammable Materials Storage Licence**
@@ -2058,7 +2099,7 @@
 
         Any person who wishes to commence or carry out any proposed fire safety works in any building shall apply in accordance with the Regulations made under the Fire Safety Act to the Fire Safety and Shelter Department (FSSD) for approval of the plans of the fire safety works. Such plans shall be prepared and submitted by Qualified Persons (QPs) who are registered architects or professional engineers.
 
-        <a class="primary-btn" href="https://www.scdf.gov.sg/home/fire-safety/plans-and-consultations/plan-approval" target="_blank" rel="noopener">Apply on SCDF</a>&emsp;<a href = "/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Plan-Approval-for-Fire-Safety-Works">View Licence Details</a>
+        <a class="btn" href="https://www.scdf.gov.sg/home/fire-safety/plans-and-consultations/plan-approval" target="_blank" rel="noopener">Apply on SCDF</a>&emsp;<a href = "/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Plan-Approval-for-Fire-Safety-Works">View Licence Details</a>
 
         -----
         **Submission Requirements to SCDF for Rooftop Solar PV Installation**
@@ -2067,7 +2108,7 @@
         a. Plan approval; or
         b. Minor addition and alteration (MAA) works.
 
-        <a class="primary-btn" href="https://corenet.gov.sg/general/e-info.aspx" target="_blank" rel="noopener">Apply on SCDF</a>&emsp;<a href = "/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Submission-Requirements-to-SCDF-for-Rooftop-Solar-PV-Installation">View Licence Details</a>
+        <a class="btn" href="https://corenet.gov.sg/general/e-info.aspx" target="_blank" rel="noopener">Apply on SCDF</a>&emsp;<a href = "/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Submission-Requirements-to-SCDF-for-Rooftop-Solar-PV-Installation">View Licence Details</a>
 
         -----
         **Temporary Change of Use Permit**
@@ -2150,14 +2191,6 @@
 
         <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000175" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-for-Import-Transhipment-of-Fresh-Fruits-and-Vegetables" style="margin-left: 1em;">View Licence Details</a>
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-for-Import-Transhipment-of-Fresh-Fruits-and-Vegetables">View Licence Details</a>
-        
-        -----
-        **Licence to Import/Export/Transship Animals, Birds, Eggs and Biologics**
-
-        <p>The Licence to Import/Export/Transship Animals, Birds, Eggs and Biologics may be issued by either Animal & Veterinary Service, a cluster of National Parks Board or Singapore Food Agency. This licence is required if you intend to import/export/tranship animals, birds or their products into/out from Singapore. In the case of veterinary biologics, a licence is required for their import/transshipment. Export of veterinary biologics does not require a licence.</p>
-
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301030000131" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-to-Import-Export-Transship-Animals--Birds--Eggs-and-Biologics" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-to-Import-Export-Transship-Animals--Birds--Eggs-and-Biologics">View Licence Details</a>
 
         -----
         **Licence to Import Poultry**
@@ -2258,14 +2291,14 @@
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Registration-to-Import-Animal-Feed">View Licence Details</a>
 
         -----
-        **Registration to Import Live Frogs for Human Consumption**
+        **Registration to Import Live Frogs for Consumption or Fish Feeding**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        <p>The Registration to Import Live Frogs for Human Consumption is issued by Singapore Food Agency. This registration is issued to importers to import live frogs intended for human consumption.</p>
+        <p>The Registration to Import Live Frogs for Human Consumption or Ornamental Fish Feeding may be issued by either Animal & Veterinary Service, a cluster of National Parks Board or Singapore Food Agency. This registration is issued to importers to import live frogs.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1309261101000025" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Registration-to-Import-Live-Frogs-for-Human-Consumption" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Registration-to-Import-Live-Frogs-for-Human-Consumption">View Licence Details</a>
+        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1309261101000025" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Registration-to-Import-Live-Frogs-for-Consumption-or-Fish-Feeding" style="margin-left: 1em;">View Licence Details</a>
+        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Registration-to-Import-Live-Frogs-for-Consumption-or-Fish-Feeding">View Licence Details</a>
 
         -----
         **Registration to Import Processed Food Products and Food Appliances**
@@ -2319,7 +2352,7 @@
 
         <p>SLA rents out vacant State lands and buildings through Temporary Occupation Licences (TOLs) and Tenancy Agreements (TAs). TOLs are generally for a short fixed term or can be on a monthly or yearly renewable basis. TAs are for fixed terms, up to a maximum of three years per term.</p>
 
-        <a class="primary-btn" href="https://app.sla.gov.sg/TOL/Account/Login?ReturnUrl=%2ftol%2f" target="_blank" rel="noopener">Apply on SLA</a>&emsp;<a href = "/browse-all-licences/Singapore-Land-Authority-(SLA)/Temporary-Occupation-Licences">View Licence Details</a>
+        <a class="btn" href="https://app1.sla.gov.sg/TOL/Account/Login?ReturnUrl=%2ftol%2f" target="_blank" rel="noopener">Apply on SLA</a>&emsp;<a href = "/browse-all-licences/Singapore-Land-Authority-(SLA)/Temporary-Occupation-Licences">View Licence Details</a>
 
     - title: Singapore Police Force (SPF)
       content: |
@@ -2332,13 +2365,6 @@
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/7d410f41-a932-4ba2-b81a-f0ec471f1b61" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Amendment-to-Existing-Employee-Record-(Update-Details-of-Registered-Employee)">View Licence Details</a>
 
         -----
-        **Public Entertainment Licence**
-
-        Unless exempted, a public entertainment or arts entertainment licence is required under the Public Entertainments (PEA) Act 1958, for any entertainment that is provided in any place to which the public or any class of public has access, whether gratuitously or otherwise. Any person who provides or assists in providing any public entertainment without a license shall be liable on conviction to a fine not exceeding $10,000.
-
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/publicentertainment" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Public-Entertainment-Licence">View Licence Details</a>
-
-        -----
         **Approval for a Blasting Operation**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
@@ -2347,6 +2373,7 @@
         
         You will need to obtain the approval from the Licensing Officer before commencing the blasting operation. 
         
+
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/6f74b664-d42b-46ec-9b49-8e6605865e0f" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Approval-for-a-Blasting-Operation-">View Licence Details</a>
 
         -----
@@ -2358,7 +2385,7 @@
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/4eeba687-8b63-4ea8-b303-0079a44fda8c" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Approval-for-Debt-Collector">View Licence Details</a>
 
-        -----       
+        -----
         **Approval to conduct a Fireworks Display**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
@@ -2378,16 +2405,9 @@
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/class5temporaryliquorlicence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Class-5---Temporary-Liquor-Licence">View Licence Details</a>
 
         -----
-        **Explosive Licence**
-
-        Under the Arms and Explosives Act 1913, a licence is required for the Possession, Control, Supply,  Manufacture of Explosives or to Conduct Fireworks Display, Blasting or Disposal of Explosives 
-
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/e7bc93a3-46e5-49b2-a679-54dc29b4c4d7" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Explosive-Licence">View Licence Details</a>
-
-        -----
         **Explosive Precursor Licence**
 
-        Under the Arms and Explosives Act 1913, a licence is required for the Possession, Control, Supply, Manufacture or Storage of Explosive Precursors 
+        Under the Arms and Explosives Act 1913, a licence is required for the Possession, Control, Supply, Manufacture or Storage of Explosive Precursors
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/9cb70ebd-fe95-4366-bd32-51bda1a1579b" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Explosive-Precursor-Licence">View Licence Details</a>
 
@@ -2403,10 +2423,9 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        A House to House and Street Collections licence (HHSC) is required if one promotes a collection by way of appealing to the public, made by means of visits from house to house or of soliciting in streets or other places or by both such means, for money or other property.
+        A House to House and Street Collections licence is required if one promotes a collection by way of appealing to the public, made by means of visits from house to house or of soliciting in streets or other places or by both such means, for money or other property.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=217" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/House-to-House-and-Street-Collections-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/House-to-House-and-Street-Collections-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/house-house-street-collections" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/House-to-House-and-Street-Collections-Licence">View Licence Details</a>
 
         -----
         **Licence for Debt Collection Business**
@@ -2453,6 +2472,27 @@
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/27040004-16dc-48c0-b9c5-2fbe216c2bb3" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Licence-to-Remove-Explosives">View Licence Details</a>
 
         -----
+        **Licence to Transport Explosive Precursors**
+
+        Under the Arms and Explosives Act 1913, a Licence to Transport is required for the transport of any Guns, Explosives or Explosive Precursors. 
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/2998eb03-dc40-457a-b2be-bef58b9ac98b" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Licence-to-Transport-Explosive-Precursors">View Licence Details</a>
+
+        -----
+        **Licence to Transport Guns, Gun Parts or Accessories**
+
+        Under the Arms and Explosives Act 1913, a licence is required for the Possession, Control, Supply, Repair, Manufacture of Gun or weapon or to Operate an Armoury or a Shooting Range.
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/976c13bf-5786-4ae1-84fc-6981b34750b1" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Licence-to-Transport-Guns--Gun-Parts-or-Accessories">View Licence Details</a>
+
+        -----
+        **Licence to Transport Weapons**
+
+        Under the Arms and Explosives Act 1913, a licence is required for the Possession, Control, Supply, Repair, Manufacture of Gun or weapon or to Operate an Armoury or a Shooting Range.
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/687b6529-f333-44eb-9f23-aa41945811ee" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Licence-to-Transport-Weapons">View Licence Details</a>
+
+        -----
         **Liquor Consumption Permit**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 150px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/sp-mini.png" alt="For Individual Users"> For Individual Users </span>
@@ -2471,14 +2511,14 @@
 
         An extension hours liquor licence always rides on a valid liquor licence or temporary liquor licence. It cannot be valid by itself, without an accompanying liquor licence or temporary liquor licence. The extension hours period applied for can only be within the validity period of the liquor licence. An applicant may apply for both a new liquor/temporary liquor licence, and extension hours liquor licence at the same time.
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/9a352202-38fd-41db-8db6-735ad630afa7" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a id = "desktopNotice" href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Liquor-Licence---Extension-of-Operating-Hours">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/9a352202-38fd-41db-8db6-735ad630afa7" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Liquor-Licence---Extension-of-Operating-Hours">View Licence Details</a>
 
         -----
         **Liquor Licence (Class 1A, 1B, 2A, 2B, 3A, 3B, 4)**
 
         Under the Liquor Control (Supply and Consumption) Act 2015, any supply of liquor in Singapore will require a liquor licence issued by the Licensing Officer. "Liquor" is defined as a beverage and or substance, containing more than 0.5% ethanol by mass or volume.
 
-        <a class="btn" href="https://dashboard.gobusiness.gov.sg/task-details/liquor-licence-class-1a-1b-2a-2b-3a-3b-4" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a id = "desktopNotice" href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Liquor-Licence-(Class-1A--1B--2A--2B--3A--3B--4)">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/liquor-licence-class-1a-1b-2a-2b-3a-3b-4" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Liquor-Licence-(Class-1A--1B--2A--2B--3A--3B--4)">View Licence Details</a>
 
         -----
         **Massage Establishment Licence**
@@ -2490,6 +2530,16 @@
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/massageestablishmentlicence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Massage-Establishment-Licence">View Licence Details</a>
 
         -----
+        **Massage Establishment Licence- Employee Registration**
+
+        <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
+
+        Under the Massage Establishments (ME) Act, the licensee of a licensed ME(Cat I, Cat II and Provisional Cat I) is required to seek the prior approval of the Licensing Officer before the employee is allowed to work in the Massage Establishment.
+
+        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=44" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Massage-Establishment-Licence--Employee-Registration" style="margin-left: 1em;">View Licence Details</a>
+        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Massage-Establishment-Licence--Employee-Registration">View Licence Details</a>
+
+        -----
         **Notice of Intention to Organise an Event**
 
         As stipulated in the Public Order Act 2017, event organisers are required to submit to the Police a Notice of Intention to Organise an Event if they expect the number of people participating in or attending the event to exceed the following crowd size at any time during the event:
@@ -2499,15 +2549,14 @@
         
         Please note that the notice must be submitted no less than 28 days before the event. Upon receiving the Notice, the Police will assess the information provided and inform the event organiser whether the event is declared to be a Special Event and work with the event organiser to implement appropriate security measures for the event. Should the application not be submitted within 28 days, it may not be processed in time and event cannot proceed.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=231" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Notice-of-Intention-to-Organise-an-Event" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Notice-of-Intention-to-Organise-an-Event">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/organise-event" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Notice-of-Intention-to-Organise-an-Event">View Licence Details</a>
 
         -----
         **Notification to conduct donation/lucky draw**
 
         For conducting donation/lucky draw.
 
-        <a class="primary-btn" href="https://www.police.gov.sg/Advisories/Donation-Draw-and-Lucky-Draw" target="_blank" rel="noopener">Apply on SPF</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Notification-to-conduct-donation-lucky-draw">View Licence Details</a>
+        <a class="btn" href="https://www.police.gov.sg/Advisories/Donation-Draw-and-Lucky-Draw" target="_blank" rel="noopener">Apply on SPF</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Notification-to-conduct-donation-lucky-draw">View Licence Details</a>
 
         -----
         **Notification to Police of Exempted Massage Establishment**
@@ -2521,15 +2570,12 @@
         -----
         **Police Permit for Assembly or Procession**
 
-        <span style="background: #EEF0F2; border-radius: 3px; width: 150px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/sp-mini.png" alt="For Individual Users"> For Individual Users </span>
-
         Under the Public Order Act, a Police Permit is required for an assembly, procession or public talk that is held by one or more persons in a public place if the intention is to:
         (a) Demonstrate support for or opposition to the views or actions of any person, group of persons or any government;
         (b) Publicise a cause or campaign; or
         (c) Mark or commemorate any event.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=241" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Police-Permit-for-Assembly-or-Procession" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Police-Permit-for-Assembly-or-Procession">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/assembly-procession" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Police-Permit-for-Assembly-or-Procession">View Licence Details</a>
 
         -----
         **Police Permit for Public Talk**
@@ -2539,8 +2585,7 @@
         (b) Publicise a cause or campaign; or
         (c) Mark or commemorate any event.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=242" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Police-Permit-for-Public-Talk" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Police-Permit-for-Public-Talk">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/public-talk" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Police-Permit-for-Public-Talk">View Licence Details</a>
 
         -----
         **Private Investigation Agency Licence**
@@ -2549,11 +2594,10 @@
 
         Companies are required to have a Private Investigation Agency (PIA) Licence if they are providing private investigation services and taking on assignments as defined in Section 5 of the Private Security Industry Act Cap 2007. Only Companies with Private Investigation Agency (PIA) licence can accept assignments from clients.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=42" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Private-Investigation-Agency-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Private-Investigation-Agency-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/private-investigation-agency" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Private-Investigation-Agency-Licence">View Licence Details</a>
 
         -----
-        **Private Investigator's Licence (PI)**
+        **Private Investigator Licence**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 150px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/sp-mini.png" alt="For Individual Users"> For Individual Users </span>
 
@@ -2564,23 +2608,30 @@
         (d) obtaining and giving information as to the location or recovery of lost or stolen property; or
         (e) Obtaining evidence to be used...
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=243" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Private-Investigator's-Licence-(PI)" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Private-Investigator's-Licence-(PI)">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/private-investigator" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Private-Investigator-Licence">View Licence Details</a>
+
+        -----
+        **Public Entertainment Licence**
+
+        Unless exempted, a public entertainment or arts entertainment licence is required under the Public Entertainments (PEA) Act 1958, for any entertainment that is provided in any place to which the public or any class of public has access, whether gratuitously or otherwise. Any person who provides or assists in providing any public entertainment without a license shall be liable on conviction to a fine not exceeding $10,000.
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/publicentertainment" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Public-Entertainment-Licence">View Licence Details</a>
 
         -----
         **Public Entertainment Licence - Notification to Police of Exempted Public Entertainments or Arts Entertainment**
 
-        Licence is not required for the listed public entertainments or arts entertainment activities provided that the organiser adheres to the exemption conditions. Otherwise, organiser is to apply for the appropriate public entertainment or arts entertainment licence.
+        <p>Activities that fall within the list of public entertainment activities that are exempted from licencing are required to submit a notification to SPF. Following which, these public entertainment activities can be organised provided that the organiser complies to the <a href="https://www.police.gov.sg/-/media/Spf/Images/Licences/01aExempted-Public-Entertainment-or-Arts-Entertainment-Activities.pdf?la=en&hash=1FCE5061A5FAE5E2001FD9C3AF709516FEDAC6A6" target="_blank" rel="noopener">exemption conditions</a>. Organisers are required to apply for the appropriate Public Entertainment or Arts entertainment licence if exmeption conditions cannot be complied with.</p>
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/notificationtopoliceofexemptedpeae" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Public-Entertainment-Licence---Notification-to-Police-of-Exempted-Public-Entertainments-or-Arts-Entertainment">View Licence Details</a>
 
         -----
-        **Registration for In-House Employer (RIHE)**
+        **Registration for In-House Employer**
+
+        <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
         An "In-house Employer" means any individual authorised by his/her company in employing a licensed security officer to perform the job functions of a security officer at their own premises.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=244" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Registration-for-In-House-Employer-(RIHE)" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Registration-for-In-House-Employer-(RIHE)">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/in-house-employer" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Registration-for-In-House-Employer">View Licence Details</a>
 
         -----
         **Secondhand Goods and Dealers Licence**
@@ -2589,7 +2640,7 @@
 
         Dealers who deal in the secondhand goods listed in the Schedule are required to register with Police before commencing operations. The registration will be based on the location where the dealing in secondhand goods takes place. If the business operations comprise several branches or Uniform Resource Locator (URLs for Internet dealing) or different points of dealing in secondhand goods (for itinerant businesses), each branch, URL or point of dealing will require a separate registration.
 
-        <a class="primary-btn" href="https://www.police.gov.sg/e-Services/Police-Licences/Secondhand-Goods-Dealers-Licence" target="_blank" rel="noopener">Apply on SPF</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Secondhand-Goods-and-Dealers-Licence">View Licence Details</a>
+        <a class="btn" href="https://www.police.gov.sg/e-Services/Police-Licences/Secondhand-Goods-Dealers-Licence" target="_blank" rel="noopener">Apply on SPF</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Secondhand-Goods-and-Dealers-Licence">View Licence Details</a>
 
         -----
         **Security Agency Licence**
@@ -2677,7 +2728,7 @@
 
         Non-Renewable Temporary Oc?cupation Licence (NRTOL) is an application for events held on Orchard Road Pedestrian Mall (State Land) on short-term, temporary basis. A Place Management Committee comprising STB, LTA, SLA, URA, NParks, SPF, NEA is formed to shape Orchard Road into a lifestyle destination, and to ensure that the events held on Orchard Road are of good quality and congruent with the image of Orchard Road as a premier shopping and lifestyle destination.
 
-        <a class="primary-btn" href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/licensing-overview/non-renewable-temporary-occupation-licence.html" target="_blank" rel="noopener">Apply on STB</a>&emsp;<a href = "/browse-all-licences/Singapore-Tourism-Board-(STB)/Non-Renewable-Temporary-Occupation-Licence-(NRTOL)">View Licence Details</a>
+        <a class="btn" href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/licensing-overview/non-renewable-temporary-occupation-licence.html" target="_blank" rel="noopener">Apply on STB</a>&emsp;<a href = "/browse-all-licences/Singapore-Tourism-Board-(STB)/Non-Renewable-Temporary-Occupation-Licence-(NRTOL)">View Licence Details</a>
 
         -----
         **Safe Management Measures for MICE Event**
@@ -2686,14 +2737,14 @@
 
         Safe Management Measures for MICE Event
 
-        <a class="primary-btn" href="https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-MICE.html" target="_blank" rel="noopener">Apply on STB</a>&emsp;<a href = "/browse-all-licences/Singapore-Tourism-Board-(STB)/Safe-Management-Measures-for-MICE-Event">View Licence Details</a>
+        <a class="btn" href="https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-MICE.html" target="_blank" rel="noopener">Apply on STB</a>&emsp;<a href = "/browse-all-licences/Singapore-Tourism-Board-(STB)/Safe-Management-Measures-for-MICE-Event">View Licence Details</a>
 
         -----
         **Tourist Guide Licence**
 
-        A tourist guide is an individual  who personally provides any guiding services to a tourist for remuneration.
+        A tourist guide is an individual who personally provides any guiding services to a tourist for remuneration.
 
-        <a class="primary-btn" href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/licensing-overview/tourist-guide-licence.html" target="_blank" rel="noopener">Apply on STB</a>&emsp;<a href = "/browse-all-licences/Singapore-Tourism-Board-(STB)/Tourist-Guide-Licence">View Licence Details</a>
+        <a class="btn" href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/licensing-overview/tourist-guide-licence.html" target="_blank" rel="noopener">Apply on STB</a>&emsp;<a href = "/browse-all-licences/Singapore-Tourism-Board-(STB)/Tourist-Guide-Licence">View Licence Details</a>
 
         -----
         **Travel Agent Licence**
@@ -2704,25 +2755,22 @@
         
         You can visit the Travel Agents and Tourist Guides Licensing System (TRUST) website for more information.
 
-        <a class="primary-btn" href="https://trust.stb.gov.sg/public/public/ta-application-preamble" target="_blank" rel="noopener">Apply on STB</a>&emsp;<a href = "/browse-all-licences/Singapore-Tourism-Board-(STB)/Travel-Agent-Licence">View Licence Details</a>
+        <a class="btn" href="https://trust.stb.gov.sg/public/public/ta-application-preamble" target="_blank" rel="noopener">Apply on STB</a>&emsp;<a href = "/browse-all-licences/Singapore-Tourism-Board-(STB)/Travel-Agent-Licence">View Licence Details</a>
 
-- accordion:
-  letter: u
-  data:
-    - title: Urban Redevelopment Authority (URA)
+    - title: Singapore Tourism Board (URA)
       content: |
         **Approval for Additions & Alterations to a Conserved Building**
 
         You will need approval from Urban Redevelopment Authority before you can carry out any Additions & Alterations to your conserved building.
 
-        <a class="primary-btn" href="https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Planning-Permission/using-CORENET-eSS" target="_blank" rel="noopener">Apply on URA</a>&emsp;<a href = "/browse-all-licences/Urban-Redevelopment-Authority-(URA)/Approval-for-Additions-&-Alterations-to-a-Conserved-Building">View Licence Details</a>
+        <a class="btn" href="https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Planning-Permission/using-CORENET-eSS" target="_blank" rel="noopener">Apply on URA</a>&emsp;<a href = "/browse-all-licences/Singapore-Tourism-Board-(URA)/Approval-for-Additions-&-Alterations-to-a-Conserved-Building">View Licence Details</a>
 
         -----
         **Category 3 Works for Conserved Buildings**
 
         Apply for Category 3 Works for Conserved Buildings if you are installing solar panels without any additional works within Conserved Buildings. Applications for such Category 3 works can be made by owners and contractors.
 
-        <a class="primary-btn" href="https://www.ura.gov.sg/cmrWeb/" target="_blank" rel="noopener">Apply on URA</a>&emsp;<a href = "/browse-all-licences/Urban-Redevelopment-Authority-(URA)/Category-3-Works-for-Conserved-Buildings">View Licence Details</a>
+        <a class="btn" href="https://www.ura.gov.sg/cmrWeb/" target="_blank" rel="noopener">Apply on URA</a>&emsp;<a href = "/browse-all-licences/Singapore-Tourism-Board-(URA)/Category-3-Works-for-Conserved-Buildings">View Licence Details</a>
 
         -----
         **Change of Use Approval**
@@ -2730,18 +2778,18 @@
         If you want to change the use of a property (e.g. from a shop to a restaurant, or from a restaurant to a pub), you may need to apply for planning permission for Change of Use from URA.
         Before signing a tenancy or purchase agreement of the property, you should check if your intended use for that property can be allowed, and obtain Change of Use Approval if it is required.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=40" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Urban-Redevelopment-Authority-(URA)/Change-of-Use-Approval" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Urban-Redevelopment-Authority-(URA)/Change-of-Use-Approval">View Licence Details</a>
+        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=40" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Tourism-Board-(URA)/Change-of-Use-Approval" style="margin-left: 1em;">View Licence Details</a>
+        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Tourism-Board-(URA)/Change-of-Use-Approval">View Licence Details</a>
 
         -----
-        **URA - Home Office Scheme (for private residential properties)**
+        **Home Office Scheme (URA)**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 150px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/sp-mini.png" alt="For Individual Users"> For Individual Users </span>
 
         To set up a Home Office in a private residential property, homeowners must meet the Terms & Conditions of the Home Office Scheme. The business must satisfy the Home Office Performance Criteria and does not fall under the List of Businesses not permitted under the scheme.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://dashboard.gobusiness.gov.sg/task-details/homeofficeschemeura" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a><a id="desktopNotice" href="/browse-all-licences/urban-redevelopment-authority-(ura)/home-office-scheme-(for-private-residential-properties)" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Urban-Redevelopment-Authority-(URA)/Home-Office-Scheme-(URA)">View Licence Details</a>
+        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=41" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Tourism-Board-(URA)/Home-Office-Scheme-(URA)" style="margin-left: 1em;">View Licence Details</a>
+        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Tourism-Board-(URA)/Home-Office-Scheme-(URA)">View Licence Details</a>
 
         -----
         **Housing Developer's Licence**
@@ -2750,20 +2798,19 @@
 
         Developers undertaking a housing project with more than four units are required to obtain a housing developer's licence from the Controller of Housing before commencing construction works.
 
-        <a class="primary-btn" href="https://www.ura.gov.sg/Corporate/Guidelines/Developers/Housing-Developers/Housing-Developers/Apply-housing-developer-licence" target="_blank" rel="noopener">Apply on URA</a>&emsp;<a href = "/browse-all-licences/Urban-Redevelopment-Authority-(URA)/Housing-Developer's-Licence">View Licence Details</a>
+        <a class="btn" href="https://www.ura.gov.sg/Corporate/Guidelines/Developers/Housing-Developers/Housing-Developers/Apply-housing-developer-licence" target="_blank" rel="noopener">Apply on URA</a>&emsp;<a href = "/browse-all-licences/Singapore-Tourism-Board-(URA)/Housing-Developer's-Licence">View Licence Details</a>
 
         -----
         **Planning Permission**
 
         Your Qualified Person has to apply to URA for planning permission through CORENET if your application falls within any of the scenarios.
 
-        <a class="primary-btn" href="https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Planning-Permission/using-CORENET-eSS" target="_blank" rel="noopener">Apply on URA</a>&emsp;<a href = "/browse-all-licences/Urban-Redevelopment-Authority-(URA)/Planning-Permission">View Licence Details</a>
+        <a class="btn" href="https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Planning-Permission/using-CORENET-eSS" target="_blank" rel="noopener">Apply on URA</a>&emsp;<a href = "/browse-all-licences/Singapore-Tourism-Board-(URA)/Planning-Permission">View Licence Details</a>
 
         -----
         **Signage Proposal for a Conserved Building**
 
         You will need approval from Urban Redevelopment Authority if you wish to install business signs on your conserved building.
 
-        <a class="primary-btn" href="https://www.ura.gov.sg/Corporate/Guidelines/Conservation/Signage" target="_blank" rel="noopener">Apply on URA</a>&emsp;<a href = "/browse-all-licences/Urban-Redevelopment-Authority-(URA)/Signage-Proposal-for-a-Conserved-Building">View Licence Details</a>
-
+        <a class="btn" href="https://www.ura.gov.sg/Corporate/Guidelines/Conservation/Signage" target="_blank" rel="noopener">Apply on URA</a>&emsp;<a href = "/browse-all-licences/Singapore-Tourism-Board-(URA)/Signage-Proposal-for-a-Conserved-Building">View Licence Details</a>
 
