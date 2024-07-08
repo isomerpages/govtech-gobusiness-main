@@ -8,14 +8,7 @@ third_nav_title: Singapore Police Force (SPF)
 
 Singapore Police Force (SPF)
 
-{% include licence-apply-button.html %}
-<a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=242" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>
-<div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-size: 18px; color: #313840;">
-<img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;">
-<span style="font-weight: bold; font-family: hknova-bold; font-size: 18px; ">Please use desktop / laptop to apply for this licence.</span><br>
-<span style="font-family: hknova-regular;">You can only view application details and make payment via mobile. Please use GoBusiness Licensing on desktop to use all features.</span><br><br>
-<a id="mobileNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=242" target="_blank" rel="noopener">Continue to GoBusiness Licencing anyway</a>
-</div>
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/public-talk" type="primary" %}
 
 <H3>Application Details</H3>
 
@@ -25,36 +18,36 @@ Singapore Police Force (SPF)
 <h3>FAQ</h3>
 
 <ol>
-  <li>
-    <strong>Where can I get more information about the Police Permit for Public Talk?</strong><br>        
+<li>
+<strong>Where can I get more information about the Police Permit for Public Talk?</strong><br> 
 More information can be found at the 
-<a href="https://www.police.gov.sg/e-Services/Police-Permit" target="_blank" rel="noopener">SPF website</a>
-  </li>
-
-
-  <li>
-    <strong>When should I submit the public talk application?
-</strong><br>        
-Permit application with sufficient information shall be submitted at least 14 working days before the date of the event.  
+<a href=”https://www.police.gov.sg/e-Services/Police-Permit” target=”_blank” rel=”noopener”>SPF website</a>
 </li>
 
-  <li>
-    <strong>What is a "public place", "public assembly" and "public procession"?
-</strong><br>        
+
+<li>
+<strong>When should I submit the public talk application?
+</strong><br> 
+Permit application with sufficient information shall be submitted at least 14 working days before the date of the event. 
+</li>
+
+<li>
+<strong>What is a "public place", "public assembly" and "public procession"?
+</strong><br> 
 Public place refers to any place (whether open-air or enclosed) to which members of public have access.
 </li>
 
-  <li>
-    <strong>What is a "public place", "public assembly" and "public procession"?
-</strong><br>        
+<li>
+<strong>What is a "public place", "public assembly" and "public procession"?
+</strong><br> 
 Public place refers to any place (whether open-air or enclosed) to which members of public have access.<br><br>
 Public assembly refers to an assembly held in a public place or to which members of the public in general are invited, induced or permitted to attend.<br><br>
 A public procession refers to a march, parade or other procession (whether or not involving the use of vehicles or other conveyances) in, to or from a public place.
 </li>
 
-  <li>
-    <strong>What is the penalty for conducting or participating in an illegal assembly or procession?
-</strong><br>        
+<li>
+<strong>What is the penalty for conducting or participating in an illegal assembly or procession?
+</strong><br> 
 Unless exempted, a Police Permit is required under the Public Order Act 2009 for holding a public assembly, procession or talk. For conducting an illegal assembly or procession, the organiser is liable to:<br>
 - A fine not exceeding $5,000 for organising an assembly or procession without a Police Permit; and<br>
 - For repeat offenders, fine not exceeding $10,000 or imprisonment for a term not exceeding six months or both.<br><br>
@@ -65,8 +58,8 @@ For participating in an illegal assembly or procession, the participant is liabl
 </li>
 
 <li>
-    <strong>What are the events that do not require a Police Permit?
-</strong><br>        
+<strong>What are the events that do not require a Police Permit?
+</strong><br> 
 A Police Permit is not required if the exemption requirements under the Public Order (Exempt Assemblies and Processions) 2009 are satisfied.
 <br><br>
 Please refer to the Public Order (Exempt Assemblies and Processions) Order 2009 for the full list of exemption requirements.
@@ -74,8 +67,8 @@ Please refer to the Public Order (Exempt Assemblies and Processions) Order 2009 
 
 
 <li>
-    <strong>How soon can the application be processed?
-</strong><br>        
+<strong>How soon can the application be processed?
+</strong><br> 
 The normal processing time is about 14 working days from the receipt of the application and the necessary supporting documents.
 <br><br>
 For events that involves lane/ road closure, a road closure permit is required from the Traffic Police. You need to submit the road closure application at least 21 days before the date of event to the Traffic Police.
@@ -91,22 +84,22 @@ Fees: $22 for 1 day; and<br />$44 for 7 days held within 3 months</p>
 
 <H3>Documents Needed</H3>
 
-<ul>
-<li><strong>Floor plan</strong><br>
-File format: pdf, jpg, jpeg, gif, png, doc, docx<br>
-Maximum upload per application: 2 MB
-</li>
-<li><strong>CV Curriculum vitae of the speaker</strong><br>
-File format: pdf, jpg, jpeg, gif, png, doc, docx<br>
-Maximum upload per application: 2 MB
-</li>
-<li><strong>Program</strong><br>
-File format: pdf, jpg, jpeg, gif, png, doc, docx<br>
-Maximum upload per application: 2 MB
-</li>
-<li><strong>Synopsis</strong><br>
-File format: pdf, jpg, jpeg, gif, png, doc, docx<br>
-Maximum upload per application: 2 MB
-</li>
+<ul> 
+<li><strong>Floor plan</strong><br> 
+File format: pdf, jpg, jpeg, gif, png, doc, docx<br> 
+Maximum upload per application: 2 MB 
+</li> 
+<li><strong>CV Curriculum vitae of the speaker</strong><br> 
+File format: pdf, jpg, jpeg, gif, png, doc, docx<br> 
+Maximum upload per application: 2 MB 
+</li> 
+<li><strong>Program</strong><br> 
+File format: pdf, jpg, jpeg, gif, png, doc, docx<br> 
+Maximum upload per application: 2 MB 
+</li> 
+<li><strong>Synopsis</strong><br> 
+File format: pdf, jpg, jpeg, gif, png, doc, docx<br> 
+Maximum upload per application: 2 MB 
+</li> 
 </ul>
 
