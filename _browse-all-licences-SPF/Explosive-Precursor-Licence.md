@@ -12,5 +12,5 @@ Singapore Police Force (SPF)
 
 <H3>Application Details</H3>
 
-Under the Arms and Explosives Act 1913, a licence is required for the Possession, Control, Supply, Manufacture or Storage of Explosive Precursors 
+Under the Arms and Explosives Act 1913, a licence is required for the Possession, Control, Supply, Manufacture or Storage of Explosive Precursors
 
