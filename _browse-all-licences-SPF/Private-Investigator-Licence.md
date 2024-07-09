@@ -23,7 +23,7 @@ Singapore Police Force (SPF)
 <strong>Where can I get the FAQ for Private Investigator's Licence?
 </strong><br> 
 More information can be found at the 
-<a href=”https://www.police.gov.sg/e-Services/Police-Licences/Security-Officer-Licence” target=”_blank” rel=”noopener”>SPF website</a>
+<a href="https://www.police.gov.sg/e-Services/Police-Licences/Security-Officer-Licence" target="_blank" rel="noopener">SPF website</a>
 </li>
 </ol>
 
