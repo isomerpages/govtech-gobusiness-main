@@ -2,6 +2,7 @@ collections:
   dashboard-faqs:
     output: true
     order:
+      - 01-hub.md
       - 02-apply-new-licence.md
       - 03-find-approved-licences.md
       - 04-view-licence-statuses.md
@@ -11,12 +12,12 @@ collections:
       - 8a-third-party-bizuser.md
       - 8b-third-party-individualuser.md
       - 09-accreditation.md
+      - 10-about.md
       - 09a-sdl-on-gobusiness.md
       - 09b-sdl-payment-and-declaration.md
       - 09c-sdl-refund.md
       - 09d-sdl-notice-of-objection.md
       - 09e-sdl-notifications.md
-      - 10-about.md
       - 11-account-access.md
       - 12-contact-helpdesk.md
 
