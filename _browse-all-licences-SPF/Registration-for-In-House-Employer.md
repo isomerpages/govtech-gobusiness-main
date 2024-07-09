@@ -1,10 +1,10 @@
 ---
-title: Registration for In-House Employer
-permalink: /browse-all-licences/Singapore-Police-Force-(SPF)/Registration-for-In-House-Employer
+title: Registered In-House Employer
+permalink: /browse-all-licences/Singapore-Police-Force-(SPF)/Registered-In-House-Employer
 third_nav_title: Singapore Police Force (SPF)
 ---
 
-## Apply for Registration for In-House Employer
+## Apply for Registered In-House Employer
 
 Singapore Police Force (SPF)
 
