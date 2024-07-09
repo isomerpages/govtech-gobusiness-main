@@ -20,7 +20,7 @@ Singapore Police Force (SPF)
 </div>
 <H3>Application Details</H3>
 
-<p>A House to House and Street Collections licence(HHSC) is required if one promotes a collection by way of appealing to the public, made by means of visits from house to house or of soliciting in streets or other places or by both such means, for money or other property</p>
+<p>A House to House and Street Collections licence (HHSC) is required if one promotes a collection by way of appealing to the public, made by means of visits from house to house or of soliciting in streets or other places or by both such means, for money or other property</p>
 
 <h3>FAQ</h3>
 
