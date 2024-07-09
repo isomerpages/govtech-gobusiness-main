@@ -1,6 +1,6 @@
 ---
-title: Private Investigator's Licence
-permalink: /browse-all-licences/Singapore-Police-Force-(SPF)/Private-Investigator's-Licence
+title: Private Investigator Licence
+permalink: /browse-all-licences/Singapore-Police-Force-(SPF)/Private-Investigator-Licence
 third_nav_title: Singapore Police Force (SPF)
 ---
 
