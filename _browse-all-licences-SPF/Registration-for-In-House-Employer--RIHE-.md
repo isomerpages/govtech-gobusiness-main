@@ -1,10 +1,10 @@
 ---
-title: Registration for In-House Employer
-permalink: /browse-all-licences/Singapore-Police-Force-(SPF)/Registration-for-In-House-Employer
+title: Registered In-House Employer
+permalink: /browse-all-licences/Singapore-Police-Force-(SPF)/Registered-In-House-Employer
 third_nav_title: Singapore Police Force (SPF)
 ---
 
-## Apply for Registration for In-House Employer
+## Apply for Registered In-House Employer
 
 Singapore Police Force (SPF)
 
@@ -13,8 +13,9 @@ Singapore Police Force (SPF)
 <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-size: 18px; color: #313840;">
 <img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;">
 <span style="font-weight: bold; font-family: hknova-bold; font-size: 18px; ">Please use desktop / laptop to apply for this licence.</span><br>
-<span style="font-family: hknova-regular;">You can only view application details and make payment via mobile. Please use GoBusiness Dashboard on desktop to use all features.</span><br><br>
-<a id="mobileNotice" href="https://dashboard.gobusiness.gov.sg/task-details/in-house-employer" target="_blank" rel="noopener">Continue to GoBusiness Dashboard anyway</a>
+<span style="font-family: hknova-regular;">You can only view application details and make payment via mobile. Please use GoBusiness Licensing on desktop to use all features.</span><br><br>
+<a id="mobileNotice" href="https://dashboard.gobusiness.gov.sg/task-details/in-house-employer
+" target="_blank" rel="noopener">Continue to GoBusiness Licencing anyway</a>
 </div>
 
 <H3>Application Details</H3>
