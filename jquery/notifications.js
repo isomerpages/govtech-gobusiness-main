@@ -7,7 +7,8 @@ const custom_notifications = [
   //multiple services
     // "<b>[Attention: System Maintenance]</b> GoBusiness Portal is temporarily refining our search capabilities for a better experience. Please bear with us as you may encounter some limitations in searching for records during this time. We apologise for the inconvenience caused.",
   "<b>[Attention: System Maintenance]</b> Certain GoBusiness services will be unavailable due to upcoming maintenance. Please check our <B><u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>maintenance schedule</a></u></B> for details.",
-  "<b>[Attention] </b> From 5 June 2024, SkillsFuture for Enterprise and Enterprise Portal for Jobs and Skills have been moved to a new URL on GoBusiness for an improved user experience."
+  "<b>[Attention] </b> From 5 June 2024, SkillsFuture for Enterprise and Enterprise Portal for Jobs and Skills have been moved to a new URL on GoBusiness for an improved user experience.",
+  "<b>[Attention: System Maintenance]</b> Starting-a-Business Service Journey will be unavailable due to scheduled maintenance from 10 July to 31 July 2024 2024 6pm. We apologise for the inconvenience caused."
 ];
 
 
