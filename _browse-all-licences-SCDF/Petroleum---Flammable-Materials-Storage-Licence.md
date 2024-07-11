@@ -114,26 +114,15 @@ Alternatively, you may choose to make off-line payment at HQ SCDF's counter via 
 <li>
 <strong>Who can I contact for further details?</strong><br>
 For further clarification, you may contact Licensing Officers at the following contact nos. :<br>
-Email: Johnson_Wong@scdf.gov.sg<br>
-Name: Johnson Wong<br>
-Designation: Storage Licensing Specialist<br>
-Department: Central Enforcement Department<br>
-Contact: 68481432<br><br>
+Email: KOH_WEN_XI@SCDF.GOV.SG<br>
+Name:  Ms Koh Wen Xi<br>
+Designation: SSO P&FM Licensing<br>
+Contact: 6848 1428<br><br>
 
-Email: K_Mahaintharan@scdf.gov.sg<br>
-Name: Mr K Mahaintharan<br>
-Designation: Asst Team Leader Import and Transport<br>
-Department: Central Enforcement Department<br>
-Contact: 68481429<br><br>
-
-Email: Muhathir_Mohamad@scdf.gov.sg<br>
-Name: Muhathir Mohamad<br>
-Designation: Senior Licensing Officer<br>
-Department: Central Enforcement Department<br>
-Contact: 68481442<br><br>
-Central Tel line: 68481472
-<br>
-Fax:  68481494
+Email: Ng_HUAN_CHAO@SCDF.GOV.SG<br>
+Name: Mr Ng Huan Chao<br>
+Designation: SSO P&FM High Risk Premise<br>
+Contact: 6848 1468<br><br>
 </li>
 
 
