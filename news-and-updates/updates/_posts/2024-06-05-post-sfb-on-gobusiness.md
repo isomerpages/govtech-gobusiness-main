@@ -1,8 +1,6 @@
 ---
 layout: post
-title: Newly revamped SkillsFuture for Business now open
-permalink: /news-and-updates/updates/sfb-on-gobusiness
-published: true
+title: Newly revamped SkillsFuture for Business now New SkillsFuture for Business to serve enterprises’ upskilling needs with improved features
 preview: |
   Experience a refreshed SkillsFuture for Business (formerly the Enterprise Portal for Jobs & Skills and SkillsFuture for Enterprise) on GoBusiness 
 image: /images/news/SFBonGobiz.png
