@@ -107,7 +107,7 @@ Lim & Young Appraisal provides specialized, professional and cost-effective valu
 
 #### Brand Finance
 
-
+Brand Finance is the world’s leading brand valuation consultancy.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> </li>

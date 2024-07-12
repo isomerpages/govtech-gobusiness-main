@@ -493,7 +493,7 @@ Adastra has been in existence since 2004 and is formed by a team of technical an
 
 #### Sterling IP 
 
-
+Strategic, commercially focused patent and FTO advice for the pharmaceutical/biotech sectors.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> </li>

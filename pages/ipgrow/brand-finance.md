@@ -29,6 +29,8 @@ Brand Finance is a regulated accountancy firm and the first to be certified by i
 <a name='ip-related-service-areas'></a>
 ### IA/IP service areas
 
+
+
 ---
 <a name='industry-focus'></a>
 ### Industry focus
@@ -40,7 +42,7 @@ Brand Finance is a regulated accountancy firm and the first to be certified by i
 ### Office locations
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: United Kingdom
- - Regional Office(S): Australia, United States and Singapore</li></ul>
+<br>- Regional Office(S): Australia, United States and Singapore</li></ul>
 
 ---
 <a name='client-segments'></a>
@@ -54,7 +56,7 @@ Brand Finance is a regulated accountancy firm and the first to be certified by i
 <a name='key-practice-experts'></a>
 ### Key practice experts
 
-**Alex, Haigh**
+**Alex Haigh**
 
 - Job Title: Managing Director
 - Years of Experience: 11 years
