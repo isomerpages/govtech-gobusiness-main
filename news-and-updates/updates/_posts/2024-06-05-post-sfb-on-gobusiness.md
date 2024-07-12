@@ -13,6 +13,7 @@ image: /images/news/SFBonGobiz.png
 ![](/images/news/SFBonGobiz.png)
 Experience a refreshed SkillsFuture for Business (formerly the Enterprise Portal for Jobs & Skills and SkillsFuture for Enterprise) on GoBusiness 
 
+
 ---
 
 The Enterprise Portal for Jobs & Skills and SkillsFuture for Enterprise have been revamped and consolidated into the new SkillsFuture for Business on GoBusiness. It remains as the  one-stop resource portal for your organisation’s upskilling needs.
