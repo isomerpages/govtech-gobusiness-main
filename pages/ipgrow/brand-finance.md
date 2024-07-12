@@ -5,7 +5,7 @@ permalink: /intellectual-property/ip-grow/brand-finance/
 
 ## Brand Finance
 
-Brand Finance is the world’s leading brand valuation consultancy. Bridging the gap between marketing and finance for more than 25 years, Brand Finance evaluates the strength of brands and quantifies their financial value to help organisations of all kinds make strategic decisions.
+Brand Finance is the world's leading brand valuation consultancy. Bridging the gap between marketing and finance for more than 25 years, Brand Finance evaluates the strength of brands and quantifies their financial value to help organisations of all kinds make strategic decisions.
 
 Headquartered in London, Brand Finance has offices in over 20 countries, offering services on six continents. Every year, Brand Finance conducts more than 6,000 brand valuations, supported by original market research, and publishes over 100 reports that rank brands across all sectors and countries.
 
