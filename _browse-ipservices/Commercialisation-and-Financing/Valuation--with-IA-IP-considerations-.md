@@ -107,16 +107,16 @@ Lim & Young Appraisal provides specialized, professional and cost-effective valu
 
 #### Brand Finance
 
-Brand Finance is the world’s leading brand valuation consultancy.
+Brand Finance is the world's leading brand valuation consultancy.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> </li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 36 to 40</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> Varies according to project scope.</li>
 </ul>
 
-<a class='btn' href='' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/brand-finance/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/66860a3d16e5c60fb729e36e' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/brand-finance/){:target='_blank'}
 
 ---
 
