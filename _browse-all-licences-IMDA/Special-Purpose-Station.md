@@ -28,6 +28,6 @@ Infocomm Media Development Authority (IMDA)
 <H3>Documents Needed</H3>
 
 <ul>
- <li><strong>Justification</strong></li>
- </ul>
+<li><strong>Justification</strong></li>
+</ul>
 
