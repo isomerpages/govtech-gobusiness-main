@@ -13,8 +13,8 @@
   text: Go to e-Adviser for Starting a business
 
 - image: <img src="/images/start/questionmark-icon.png" aria-hidden="true">
-title: I'm not sure which business structure to choose
-description: Use this e-Adviser to get recommendations for a suitable business structure, based on your business requirements.
-url: https://eadviser.gobusiness.gov.sg/businessstructure/?src=startup_guide
-url-new-tab: true
-text: Go to e-Adviser for Business Structure
+  title: I'm not sure which business structure to choose
+  description: Use this e-Adviser to get recommendations for a suitable business structure, based on your business requirements.
+  url: https://eadviser.gobusiness.gov.sg/businessstructure/?src=startup_guide
+  url-new-tab: true
+  text: Go to e-Adviser for Business Structure
