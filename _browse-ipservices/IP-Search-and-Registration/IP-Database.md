@@ -27,7 +27,7 @@ If you prefer to engage a professional to analyse IP information for you, head t
 ---
 
 ### Connect with relevant service providers for IP database services
-**12 service providers listed.**
+**13 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -50,7 +50,7 @@ Questel is a true end-to-end intellectual property solutions provider.
 
 #### ZYIP Pte Ltd
 
-ZYIP has offices in Singapore and China to assist clients with protection of their IP
+ZYIP has offices in Singapore and China to assist clients with protection of their IP.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
@@ -172,7 +172,7 @@ Baker & McKenzie is one of the largest law firms globally with 74 offices in 45 
 
 #### Exy Intellectual Property
 
-Specialized in a wide range of different intellectual property, Exy IP is your go-to IP experts
+Specialized in a wide range of different intellectual property, Exy IP is your go-to IP experts.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
@@ -212,6 +212,21 @@ Adastra has been in existence since 2004 and is formed by a team of technical an
 </ul>
 
 <a class='btn' href='https://form.gov.sg/6549c84b96770c00113cbe05' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/adastra-ip-pte-ltd/){:target='_blank'}
+
+---
+
+#### Sterling IP 
+
+Strategic, commercially focused patent and FTO advice for the pharmaceutical/biotech sectors.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of users on database in previous calendar year:</b> 1 to 500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/6678de4e1927e2b0d7df7cba' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/sterling-ip/){:target='_blank'}
 
 ---
 
