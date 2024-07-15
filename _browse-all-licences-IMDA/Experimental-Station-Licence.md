@@ -21,19 +21,8 @@ Infocomm Media Development Authority (IMDA)
 
 <H3>Application Details</H3>
 
-<p>For conducting research and development activities, testing, experiments or demonstrations in radio communications/radio communications equipment.</p>
-
-<strong>Additional Information</strong>
-
-<p><strong>Fee</strong><br />Licence Fee: To be determined</p>
-
-<H3>Documents Needed</H3>
-
-<ul>
- <li><strong>Purpose of Application</strong></li>
- </ul>
-
-<H3>Requirements</H3>
-
-Applicant must be ACRA registered company/business
+<p>You require an Experimental Station Licence if you intend to conduct research and development activities, testing, experiments, or demonstrations in radiocommunication / using radiocommunication equipment.
+</p><p>
+For more information on the Experimental Station Licence, please access <a href="https://iris.imda.gov.sg/application/experimental-station-licence">https://iris.imda.gov.sg/application/experimental-station-licence</a>.
+</p>
 
