@@ -26,7 +26,7 @@ IP portfolio management enables your business to identify cost-saving opportunit
 ---
 
 ### Connect with relevant service providers for IP portfolio management services
-**46 service providers listed.**
+**47 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
