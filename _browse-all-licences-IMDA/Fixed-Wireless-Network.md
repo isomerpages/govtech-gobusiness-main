@@ -30,8 +30,8 @@ Infocomm Media Development Authority (IMDA)
 <H3>Documents Needed</H3>
 
 <ul>
-<li><strong>Purpose of proposed network and supporting documents</strong></li>
-</ul>
+ <li><strong>Purpose of proposed network and supporting documents</strong></li>
+ </ul>
 
 <H3>Requirements</H3>
 

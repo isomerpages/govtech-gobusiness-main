@@ -61,7 +61,7 @@ Prophet is a growth and transformation consulting firm dedicated to unlocking un
 
 #### ZYIP Pte Ltd
 
-ZYIP has offices in Singapore and China to assist clients with protection of their IP
+ZYIP has offices in Singapore and China to assist clients with protection of their IP.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
@@ -184,7 +184,7 @@ AKIN delivers insights, go-to-market strategies, brand and digital for end-to-en
 
 #### Proteus-DT
 
-PROTEUS-DT specialises in helping SMEs innovate through no-code technology
+PROTEUS-DT specialises in helping SMEs innovate through no-code technology.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
@@ -387,7 +387,7 @@ INDEE has deep capabilities and experience to help clients bring their technolog
 
 #### Exy Intellectual Property
 
-Specialized in a wide range of different intellectual property, Exy IP is your go-to IP experts
+Specialized in a wide range of different intellectual property, Exy IP is your go-to IP experts.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
