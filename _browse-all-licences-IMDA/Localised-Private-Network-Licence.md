@@ -18,4 +18,3 @@ Infocomm Media Development Authority (IMDA)
 </p><p>
 For more information on the Localised Private Network Licence, please access <a href="https://iris.imda.gov.sg/application/localised-private-network-licence">https://iris.imda.gov.sg/application/localised-private-network-licence</a>.
 </p>
-
