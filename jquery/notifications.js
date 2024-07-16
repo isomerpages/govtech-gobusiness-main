@@ -5,12 +5,8 @@ const custom_notifications = [
   //1 system downtime only
   //"<b>[Attention: System Maintenance]</b> Application, amendment, renewal & cancellation of Infocomm Media Development Authority (IMDA) licences will be unavailable due to maintenance on 07 Nov from 3:30pm to 11:59pm. Please view the <u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>upcoming maintenance schedule</a></u> for details. We apologise for the inconvenience caused."
   //multiple services
-    // "<b>[Attention: System Maintenance]</b> Application Status and Licence Information Updates will be unavailable due to scheduled maintenance from 12 July to 15 July 2024 2024 6pm. We apologise for the inconvenience caused.",
-  "<b>[Attention: System Maintenance]</b> GoBusiness Portal is temporarily refining our search capabilities for a better experience. Please bear with us as you may encounter some limitations in searching for records during this time. We apologise for the inconvenience caused.",
-  "<b>[Attention: System Maintenance]</b> Certain GoBusiness services will be unavailable due to upcoming maintenance. Please check our <B><u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>maintenance schedule</a></u></B> for details.",
+  "<b>[Attention: System Maintenance]</b> Certain GoBusiness services will be unavailable due to upcoming maintenance, including all transactions for some IMDA licences which will be unavailable due to urgent maintenance from 16 July 2024, 11:00am to 5:00pm. Please check our <B><u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>maintenance schedule</a></u></B> for details.",
   "<b>[Attention] </b> From 5 June 2024, SkillsFuture for Enterprise and Enterprise Portal for Jobs and Skills have been moved to a new URL on GoBusiness for an improved user experience.",
-  "<b>[Attention: System Maintenance]</b> Starting-a-Business Service Journey will be unavailable due to scheduled maintenance from 10 July to 31 July 2024 6pm. We apologise for the inconvenience caused.",
-  "<b>[Attention: System Maintenance]</b> All transactions for these IMDA licences will be unavailable due to urgent maintenance from 16 July 2024, 11:00am to 5:00pm. Applications for these licences saved as draft will also be removed during the maintenance.<br>- Localised Private Network Licence<br>- General Radio-comm (Mobile Station)<br>- General Radio-comm Station (Base or Fixed Station)<br>- General Radio-comm Station (Fixed Link or Relay Station)<br>- General Radio-comm Station (Radiodetermination Station)."
 ];
 
 
