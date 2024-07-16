@@ -5,7 +5,7 @@ const custom_notifications = [
   //1 system downtime only
   //"<b>[Attention: System Maintenance]</b> Application, amendment, renewal & cancellation of Infocomm Media Development Authority (IMDA) licences will be unavailable due to maintenance on 07 Nov from 3:30pm to 11:59pm. Please view the <u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>upcoming maintenance schedule</a></u> for details. We apologise for the inconvenience caused."
   //multiple services
-  "<b>[Attention: System Maintenance]</b> Certain GoBusiness services will be unavailable due to upcoming maintenance, including all transactions for some IMDA licences which will be unavailable due to urgent maintenance from 16 July 2024, 11:00am to 5:00pm. Please check our <B><u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>maintenance schedule</a></u></B> for details.",
+  "<b>[Attention: System Maintenance]</b> Certain GoBusiness services will be unavailable due to upcoming maintenance. Please check our <B><u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>maintenance schedule</a></u></B> for details.",
   "<b>[Attention] </b> From 5 June 2024, SkillsFuture for Enterprise and Enterprise Portal for Jobs and Skills have been moved to a new URL on GoBusiness for an improved user experience.",
 ];
 
