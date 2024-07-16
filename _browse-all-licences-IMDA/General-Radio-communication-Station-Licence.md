@@ -10,7 +10,7 @@ Infocomm Media Development Authority (IMDA)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/f47caae2-3e50-4233-ac65-7bba6667e21c" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/generalradiocomm" type="primary" %}
 
 <H3>Application Details</H3>
 
