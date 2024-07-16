@@ -24,7 +24,7 @@ With a successful brand strategy, your business can enhance the appeal of its pr
 ---
 
 ### Connect with relevant service providers for branding strategy services
-**44 service providers listed.**
+**45 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -63,7 +63,7 @@ Prophet is a growth and transformation consulting firm dedicated to unlocking un
 
 #### ZYIP Pte Ltd
 
-ZYIP has offices in Singapore and China to assist clients with protection of their IP
+ZYIP has offices in Singapore and China to assist clients with protection of their IP.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
@@ -462,9 +462,24 @@ Boutique SG law firm with Big Law? lawyers focused on emerging technology and th
 
 ---
 
+#### Brand Finance
+
+Brand Finance is the world's leading brand valuation consultancy.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> Varies according to project scope.</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/66860a3d16e5c60fb729e36e' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/brand-finance/){:target='_blank'}
+
+---
+
 #### Crombie Consulting 
 
-The brand famous for making brands famous
+The brand famous for making brands famous.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
@@ -527,7 +542,7 @@ Nabyula helps fast-growing Professional Services companies establish authority i
 
 #### Mandate Communications (S) Pte Ltd
 
-Mandate Communications is a full service branding agency established in 1976
+Mandate Communications is a full service branding agency established in 1976.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
@@ -542,7 +557,7 @@ Mandate Communications is a full service branding agency established in 1976
 
 #### Crown Mercado Alliance Pte Ltd
 
-Crownmercado: A creative powerhouse, innovating dynamic brand strategies in the digital sphere
+Crownmercado: A creative powerhouse, innovating dynamic brand strategies in the digital sphere.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
@@ -558,7 +573,7 @@ Crownmercado: A creative powerhouse, innovating dynamic brand strategies in the 
 
 #### Exy Intellectual Property
 
-Specialized in a wide range of different intellectual property, Exy IP is your go-to IP experts
+Specialized in a wide range of different intellectual property, Exy IP is your go-to IP experts.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
