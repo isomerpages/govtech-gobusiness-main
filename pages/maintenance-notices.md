@@ -7,6 +7,8 @@ permalink: /maintenance-notices/
 
 Kindly note the following scheduled maintenance. We apologise for the inconvenience caused.
 
+GoBusiness Portal is temporarily refining our search capabilities for a better experience. Please bear with us as you may encounter some limitations in searching for records during this time. 
+
 ### 2024 
 
 | **Scheduled Date** | **Remarks** |  
