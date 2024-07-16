@@ -21,7 +21,7 @@ Users can now take advantage of the improved layout to effectively explore the f
 
 The portal also features an enhanced [Course Directory for Business](https://skillsfuture.gobusiness.gov.sg/course-directory/search){:rel='noopener'}. Equipped with more comprehensive filters, it can better help employers narrow down their search and find suitable courses according to their needs and criteria.
 
-Each course page also includes concise and key information to help users better understand the course scope. With these improvements, the Enterprise Course Directory now makes SFEC-eligible programmes more searchable and easier to shortlist.
+Each course page also includes concise and key information to help users better understand the course scope. With these improvements, the Course Directory for Business now makes SFEC-eligible programmes more searchable and easier to shortlist.
 
 Users may still access related digital services such as checking SkillsFuture Enterprise Credit (SFEC) balance or  submitting Absentee Payroll claims via the e-Services tab.  
 
