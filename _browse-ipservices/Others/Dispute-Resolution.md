@@ -93,7 +93,7 @@ Our focus is to protect, enforce and commercialize our clients' intellectual pro
 
 #### ZYIP Pte Ltd
 
-ZYIP has offices in Singapore and China to assist clients with protection of their IP
+ZYIP has offices in Singapore and China to assist clients with protection of their IP.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
@@ -139,7 +139,7 @@ Allen & Gledhill is a regional law firm providing legal services to premier clie
 
 #### Yusarn Audrey LLC
 
-Yusarn Audrey LLC is a boutique intellectual property (IP) and corporate commercial law firm
+Yusarn Audrey LLC is a boutique intellectual property (IP) and corporate commercial law firm.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
@@ -248,7 +248,7 @@ Ghows LLC is a Singapore law practice recognised within the industry for its exp
 Donaldson & Burkinshaw LLP provides IP services and practises the full spectrum of IP law.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 11 - 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of cases completed in previous calendar year:</b> 16 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $600</li>
@@ -568,7 +568,7 @@ A full-service law firm that provides legal advice on corporate, IP, family, and
 
 #### CTLC Law Corporation
 
-Full service law firm with strong IP/IT and technology practice
+Full service law firm with strong IP/IT and technology practice.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
