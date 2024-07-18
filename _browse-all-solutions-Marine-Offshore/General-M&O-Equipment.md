@@ -16,9 +16,9 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 
 
-<a href='https://skillsfuture.gobusiness.gov.sg/course-directory/courses/TGS-2022016842'  target='_blank' rel='noopener'>1. Assess Confined Space for Safe Entry and Work</a><br>
-<a href='https://skillsfuture.gobusiness.gov.sg/course-directory/courses/TGS-2021010419'  target='_blank' rel='noopener'>2. Database Systems, Design and Management</a><br>
-<a href='https://skillsfuture.gobusiness.gov.sg/course-directory/courses/TGS-2011500682'  target='_blank' rel='noopener'>3. Apply Project Management Skills</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2022016842'  target='_blank' rel='noopener'>1. Assess Confined Space for Safe Entry and Work</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2021010419'  target='_blank' rel='noopener'>2. Database Systems, Design and Management</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2011500682'  target='_blank' rel='noopener'>3. Apply Project Management Skills</a><br>
 
 ## Pre-Approved Solutions
 
