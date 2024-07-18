@@ -16,9 +16,9 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 
 
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2021006302'  target='_blank' rel='noopener'>1. Business Environment Analysis</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2022017269'  target='_blank' rel='noopener'>2. Customer Relationship Management Operations</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2022015630'  target='_blank' rel='noopener'>3. WSQ Inventory Management</a><br>
+<a href='https://skillsfuture.gobusiness.gov.sg/course-directory/courses/TGS-2021006302'  target='_blank' rel='noopener'>1. Business Environment Analysis</a><br>
+<a href='https://skillsfuture.gobusiness.gov.sg/course-directory/courses/TGS-2022017269'  target='_blank' rel='noopener'>2. Customer Relationship Management Operations</a><br>
+<a href='https://skillsfuture.gobusiness.gov.sg/course-directory/courses/TGS-2022015630'  target='_blank' rel='noopener'>3. WSQ Inventory Management</a><br>
 
 ## Pre-Approved Solutions
 

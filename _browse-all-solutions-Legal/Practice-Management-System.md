@@ -16,9 +16,9 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 
 
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2020506177'  target='_blank' rel='noopener'>1. Perform Online Collaboration</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2022014139'  target='_blank' rel='noopener'>2. Digital Workplace: Business Process and Workflow Automation - Design and Manage</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2019501791'  target='_blank' rel='noopener'>3. NICF-Certified Associate in Project Management </a><br>
+<a href='https://skillsfuture.gobusiness.gov.sg/course-directory/courses/TGS-2020506177'  target='_blank' rel='noopener'>1. Perform Online Collaboration</a><br>
+<a href='https://skillsfuture.gobusiness.gov.sg/course-directory/courses/TGS-2022014139'  target='_blank' rel='noopener'>2. Digital Workplace: Business Process and Workflow Automation - Design and Manage</a><br>
+<a href='https://skillsfuture.gobusiness.gov.sg/course-directory/courses/TGS-2019501791'  target='_blank' rel='noopener'>3. NICF-Certified Associate in Project Management </a><br>
 
 ## Pre-Approved Solutions
 
