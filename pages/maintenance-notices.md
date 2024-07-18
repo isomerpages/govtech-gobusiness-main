@@ -14,9 +14,10 @@ GoBusiness Portal is temporarily refining our search capabilities for a better e
 
     
 | 10 July - 31 July, 6pm | **Starting-a-Business Service Journey** will be unavailable due to scheduled maintenance. We apologise for the inconvenience caused. |    
-| 17 Jul, 6pm - 7:30pm | **Application, amendment, renewal & cancellation of National Environmental Agency (NEA) licences** will be unavailable during the upcoming scheduled maintenance. |       
-| 17 Jul, 7:15pm - 9:15pm | **Application, amendment, renewal & cancellation of Singapore Police Force (SPF) licences** will be unavailable during the upcoming scheduled maintenance. |     
-| 17 Jul, 8pm - 11pm | **Application, amendment, renewal & cancellation of Infocomm Media Development Authority (IMDA) licences** will be unavailable during the upcoming scheduled maintenance. |      
+| 19 Jul, 10pm - 20 Jul, 8am<br>20 Jul, 8pm - 21 July, 8am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |  
+| 20 Jul, 9pm - 21 Jul, 12pm | **Application, amendment, renewal & cancellation of National Environmental Agency (NEA) licences** will be unavailable during the upcoming scheduled maintenance. |       
+| 28 Jul, 12am - 8am | **MyInfo data retrieval for FIN holders** will be unavailable during the upcoming scheduled maintenance. |      
+
 
 
 
