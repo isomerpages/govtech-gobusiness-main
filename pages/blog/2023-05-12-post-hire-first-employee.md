@@ -117,7 +117,7 @@ NACE is also launching a new level certification to help workers get fast-tracke
 
 Interested employers can find out more about the [certification process](https://www.nace.edu.sg/certification/processes-overview/){:target="_blank"}{:rel="noopener"} on the NACE website, and more information on the [Workplace Skills Recognition Programme](https://skillsfuture.gobusiness.gov.sg/support-and-programmes/workplace-skills-recognition-programme/){:target="_blank"}{:rel="noopener"} can be found on GoBusiness.
 
-For an extensive list of courses, visit the [SkillsFuture Singapore (SSG) website](https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseList.aspx?IsNew=False&IsPopular=False&IsFeatured=False){:target="_blank"}{:rel="noopener"}, to choose your desired training area from a wide range of SSG-funded courses such as Workforce Skills Qualification courses or short courses in emerging areas and Critical Core Skills (soft skills).
+For an extensive list of courses, visit the [SkillsFuture Singapore (SSG) website](https://skillsfuture.gobusiness.gov.sg/course-directory/search){:target="_blank"}{:rel="noopener"}, to choose your desired training area from a wide range of SSG-funded courses such as Workforce Skills Qualification courses or short courses in emerging areas and Critical Core Skills (soft skills).
 
 ### 6. Keep a tidy payroll
 
