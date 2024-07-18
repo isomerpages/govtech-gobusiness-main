@@ -20,9 +20,9 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
-<a href='https://skillsfuture.gobusiness.gov.sg/course-directory/courses/TGS-2020503728'  target='_blank' rel='noopener'>1. Apply Workplace Safety and Health in Logistics and Transportation</a><br>
-<a href='https://skillsfuture.gobusiness.gov.sg/course-directory/courses/TGS-2022016047'  target='_blank' rel='noopener'>2. Artificial Intelligence (AI) Object Detection</a><br>
-<a href='https://skillsfuture.gobusiness.gov.sg/course-directory/courses/TGS-2019504063'  target='_blank' rel='noopener'>3. Transport Operations</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2020503728'  target='_blank' rel='noopener'>1. Apply Workplace Safety and Health in Logistics and Transportation</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2022016047'  target='_blank' rel='noopener'>2. Artificial Intelligence (AI) Object Detection</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2019504063'  target='_blank' rel='noopener'>3. Transport Operations</a><br>
 
 ## Pre-Approved Solutions
 
