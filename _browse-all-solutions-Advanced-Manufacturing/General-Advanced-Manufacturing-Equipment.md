@@ -16,9 +16,9 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 
 
-<a href='https://skillsfuture.gobusiness.gov.sg/course-directory/courses/TGS-2010506600'  target='_blank' rel='noopener'>1. Apply CNC Machining Technology</a><br>
-<a href='https://skillsfuture.gobusiness.gov.sg/course-directory/courses/TGS-2022013027'  target='_blank' rel='noopener'>2. Manage Manufacturing Productivity Improvement</a><br>
-<a href='https://skillsfuture.gobusiness.gov.sg/course-directory/courses/TGS-2011500478'  target='_blank' rel='noopener'>3. Apply Teamwork in the Workplace</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2010506600'  target='_blank' rel='noopener'>1. Apply CNC Machining Technology</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2022013027'  target='_blank' rel='noopener'>2. Manage Manufacturing Productivity Improvement</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2011500478'  target='_blank' rel='noopener'>3. Apply Teamwork in the Workplace</a><br>
 
 ## Pre-Approved Solutions
 
