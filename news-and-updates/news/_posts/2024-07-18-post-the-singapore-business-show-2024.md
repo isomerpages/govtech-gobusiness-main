@@ -26,7 +26,7 @@ Time: 2.45pm<br>
 Venue: Keynote Theatre 1
 
 
-Tickets to the event are free-of-charge. More information can be found at the [Asia Business Show website](https://www.asiabusinessshow.com/?utm_source=PTN_GoBusiness){:target="_blank"}{:rel="noopener"}
+Tickets to the event are free-of-charge. More information can be found at [The Asia Business Show website](https://www.asiabusinessshow.com/?utm_source=PTN_GoBusiness){:target="_blank"}{:rel="noopener"}
 
 
 <script src="/jquery/jquery.min.js"></script>
