@@ -18,7 +18,7 @@ Formerly the Singapore Business Show, the Asia Business Show aims to help SMEs a
 
 Meet the GoBusiness team at **Booth 1140** to find out more about the go-to government platform for businesses and its newest features. The team will also be on hand to provide live demonstrations and answer queries.
 
-In addition, visitors can also learn more about GoBusines at the keynote speech by Chong Wai Yin, Director (GoBusiness) at the Ministry of Trade and Industry.  Her sharing will highlight the platform’s role in simplifying digital business interactions with the Singapore Government, and how the platform’s features can help businesses in Singapore navigate their journey more seamlessly.
+In addition, visitors can also learn more about GoBusiness at the keynote speech by Chong Wai Yin, Director (GoBusiness) at the Ministry of Trade and Industry.  Her sharing will highlight the platform’s role in simplifying digital business interactions with the Singapore Government, and how the platform’s features can help businesses in Singapore navigate their journey more seamlessly.
 
 **Keynote details**<br>
 Date: 29 August 2024<br>
@@ -26,7 +26,7 @@ Time: 2.45pm<br>
 Venue: Keynote Theatre 1
 
 
-Tickets to the event are free-of-charge. More information can be found at [Asia Business Show website](https://www.asiabusinessshow.com/?utm_source=PTN_GoBusiness){:target="_blank"}{:rel="noopener"}
+Tickets to the event are free-of-charge. More information can be found at the [Asia Business Show website](https://www.asiabusinessshow.com/?utm_source=PTN_GoBusiness){:target="_blank"}{:rel="noopener"}
 
 
 <script src="/jquery/jquery.min.js"></script>
