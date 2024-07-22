@@ -5,18 +5,21 @@ permalink: /maintenance-notices/
 
 ## Upcoming scheduled maintenance
 
-Kindly note the following scheduled maintenance. We apologise for the inconvenience caused.
+Kindly note the following scheduled maintenance. We apologise for the inconvenience caused. 
+GoBusiness Portal is temporarily refining our search capabilities for a better experience. Please bear with us as you may encounter some limitations in searching for records during this time.
 
 ### 2024 
 
 | **Scheduled Date** | **Remarks** |  
 
+    
+| 10 July - 31 July, 6pm | **Starting-a-Business Service Journey** will be unavailable due to scheduled maintenance. We apologise for the inconvenience caused. |    
+| 19 Jul, 10pm - 20 Jul, 8am<br>20 Jul, 8pm - 21 July, 8am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |  
+| 20 Jul, 9pm - 21 Jul, 12pm | **Application, amendment, renewal & cancellation of National Environmental Agency (NEA) licences** will be unavailable during the upcoming scheduled maintenance. |       
+| 28 Jul, 12am - 8am | **MyInfo data retrieval for FIN holders** will be unavailable during the upcoming scheduled maintenance. |      
 
-| 12 Jun, 6pm - 11:59pm | **Application, amendment, renewal & cancellation of National Environmental Agency (NEA) licences** will be unavailable during the upcoming scheduled maintenance. |       
-| 12 Jun, 8pm - 11pm | **Application, amendment, renewal & cancellation of Infocomm Media Development Authority (IMDA) licences** will be unavailable during the upcoming scheduled maintenance. |      
-| 12 Jun, 7:15pm - 9:15pm<br>12 Jun, 10pm - 13 Jun, 7am | **Application, amendment, renewal & cancellation of Singapore Police Force (SPF) licences** will be unavailable during the upcoming scheduled maintenance. |      
-| 12 Jun, 9pm - 13 Jun, 12am<br>13 Jun, 10pm - 14 Jun, 5am<br>14 Jun, 10pm - 15 Jun, 5am | **ACRA** will be unavailable due to scheduled maintenance. Name reservation application and business registration for Sole Proprietorship/Partnership, and information from ACRA for GoBusiness will be unavailable during this period. |  
-| 14 Jun, 10pm - 15 Jun, 8am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. | 
+
+
 
 
 <script src="/jquery/jquery.min.js"></script> <script src="/jquery/resize-tables.js"></script>

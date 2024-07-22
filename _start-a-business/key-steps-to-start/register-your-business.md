@@ -13,7 +13,7 @@ third_nav_title: Key Steps to Start
 Registering a business involves two transactions: applying for a business name followed by business registration. Go to [Step 3](/start-a-business/reserve-your-business-name/) (Reserve your business name) to find out how to apply for a business name.
 Once the name has been approved, you can proceed with business registration.
 
-### There are three ways to register your business
+### To register your business
 
 {% include panels-featurelink.html panels=site.data.rgp010c_business-register %}
 

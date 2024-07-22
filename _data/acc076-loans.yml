@@ -3,7 +3,7 @@
   data:
     - title: Improve My Financial Management
       content: |
-        **Enhanced Enterprise Financing Scheme - sme Working Capital Loan <img src="/images/budget2024/budget2024.png" alt="Mentioned during the Budget 2024">**
+        **Enhanced Enterprise Financing Scheme - SME Working Capital Loan <img src="/images/budget2024/budget2024.png" alt="Mentioned during the Budget 2024">**
         <br>Extending support for SMEs to finance their operational cashflow needs. Maximum loan quantum increased to $500,000.
 
         <a href="https://www.enterprisesg.gov.sg/financial-support/enterprise-financing-scheme---sme-working-capital" target="_blank" rel="noopener">Find Out More</a>
@@ -17,6 +17,13 @@
         <br>Extension of support to include the adoption of green solutions till March 2026.
 
         <a href="https://www.enterprisesg.gov.sg/financial-support/enterprise-financing-scheme---green" target="_blank" rel="noopener">Find Out More</a>
+
+    - title: Help My Business in Sustainability Journey
+      content: |
+        **Sustainable Loan Grant Scheme**
+        <br>Supports companies to obtain sustainable and transition financing by defraying the expenses of engaging independent service providers to validate the sustainability credentials of the loans. Offsets up to S$125,000 of expenses incurred from external reviews of eligible green, social, sustainability, sustainability-linked as well as transition loans, and promotes the adoption of internationally recognised standards and taxonomies.
+
+        <a href="https://www.mas.gov.sg/schemes-and-initiatives/sustainable-loan-grant-scheme" target="_blank" rel="noopener">Find Out More</a>
 
 - accordion:
   letter: b

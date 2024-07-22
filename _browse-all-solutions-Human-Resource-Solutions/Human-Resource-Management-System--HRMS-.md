@@ -40,10 +40,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Enable Business Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200711480W-AI-INFOTECH-Cloud-HRMS-v-80-G' target='_blank'>(A.I.) INFO-TECH Cloud HRMS Version 8.0</a><br></td>
-<td>Info-Tech Systems Integrators Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200202453M-ASURIX-HRMS-G' target='_blank'>ASURIX HRMS</a><br></td>
 <td>Net Solutions Pte Ltd</td>
 </tr>
@@ -100,8 +96,20 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Carbonate Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199609132G-SYNERGIX-v-TH6-G' target='_blank'>SYNERGIX Version TH6</a><br></td>
-<td>Synergix Technologies Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201700241Z-cutOffc-ERP-v-20-G' target='_blank'>cuteOffice ERP Version 2.0</a><br></td>
+<td>Cutech Infocomm Solutions Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202135719C-Employmnt-Hro-G' target='_blank'>Employment Hero</a><br></td>
+<td>Employment Hero Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201323996K-Adptv-Py-v-2025-G' target='_blank'>Adaptive Pay Version 2025</a><br></td>
+<td>Adaptive Cloud Systems Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200711480W-AI-INFOTECH-Cloud-HRMS-v-80-G' target='_blank'>(A.I.) INFO-TECH Cloud HRMS Version 8.0</a><br></td>
+<td>Info-Tech Systems Integrators Pte Ltd</td>
 </tr>
 </table>
 

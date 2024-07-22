@@ -26,7 +26,6 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 
 ### Pre-Approved Equipment Brands and Models
 
-
 - Daikin - MKM100VVMG
 - Daikin - MKM50VVMG
 - Daikin - MKM75VVMG
@@ -139,6 +138,7 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - Midea - MVC-M335WV2GN1(G)
 - Midea - MVC-M400WV2GN1(G)
 - Midea - MVC-M450WV2GN1(G)
+- Midea - MVC-M500WV2GN1(G)
 - Midea - MVC-M560WV2GN1(G)
 - Mitsubishi Electric - FDC280CKXZA2-S8
 - Mitsubishi Electric - MUY-GP10VF
@@ -226,6 +226,8 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - Samsung - AJ045DCJ2KF/SP
 - Samsung - AJ065DCJ3KF/SP
 - Samsung - AJ070DCJ4KF/SP
+- TCL - FMA-18I3HD/DVO
+- TCL - FMA-27I4HD/DVO
 - Toshiba - MCY-MHP0805HT8-SG
 - Toshiba - MMY-MAP0807T8P-SG
 - Toshiba - MMY-MAP1007T8P-SG

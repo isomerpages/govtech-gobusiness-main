@@ -1,7 +1,7 @@
 - title: About GoBusiness Dashboard
-  url: /dashboard-faqs/about/
+  url: /dashboard-faqs/about/?src=faqdb_hub
   text: View questions
 
 - title: Contact Helpdesk
   url: /dashboard-faqs/contact-helpdesk/?src=faqdb_hub
-  text: View Contact Us page
+  text: Contact Us

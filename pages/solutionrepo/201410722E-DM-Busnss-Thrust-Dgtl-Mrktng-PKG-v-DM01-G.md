@@ -26,7 +26,7 @@ Business Thrust specialises in digital marketing and offers SEO and SEM services
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEO+SEM (6 months)</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Business_Thrust_DMBusinessThrust_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Business_Thrust_DMBusinessThrust_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

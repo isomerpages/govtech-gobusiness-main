@@ -23,7 +23,7 @@ One major benefit of valuation services that incorporate IA/IP considerations is
 ---
 
 ### Connect with relevant service providers for valuation services (with IA/IP considerations)
-**30 service providers listed.**
+**31 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -62,7 +62,7 @@ EverEdge helps companies unlock the value of intangible assets and reduce intang
 
 #### ZYIP Pte Ltd
 
-ZYIP has offices in Singapore and China to assist clients with protection of their IP
+ZYIP has offices in Singapore and China to assist clients with protection of their IP.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
@@ -105,12 +105,27 @@ Lim & Young Appraisal provides specialized, professional and cost-effective valu
 
 ---
 
+#### Brand Finance
+
+Brand Finance is the world's leading brand valuation consultancy.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 36 to 40</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> Varies according to project scope.</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/66860a3d16e5c60fb729e36e' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/brand-finance/){:target='_blank'}
+
+---
+
 #### Valuing IP Pte Ltd
 
 Redefining Assets , At Valuing IP, we make your Intangibles, Tangible!
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 11 - 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 21 to 25</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $3,000</li>
@@ -123,7 +138,7 @@ Redefining Assets , At Valuing IP, we make your Intangibles, Tangible!
 
 #### PricewaterhouseCoopers Singapore Pte. Ltd.
 
-Community of solvers combining innovative technologies to build trust and deliver sustained outcomes
+Community of solvers combining innovative technologies to build trust and deliver sustained outcomes.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
@@ -168,7 +183,7 @@ Fair valuation of businesses, financial instruments, ESOS options, and intellect
 
 #### Cushman & Wakefield VHS Pte Ltd
 
-Professional service provider with comprehensive IA/IP valuation experience by qualified valuers
+Professional service provider with comprehensive IA/IP valuation experience by qualified valuers.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
@@ -213,7 +228,7 @@ The leading independent provider of risk and financial advisory solutions.
 
 #### FSC Valuers Pte Ltd
 
-We specialise in appraising your IA/IP for various purposes-S19B, transaction, FRS and tax compliance
+We specialise in appraising your IA/IP for various purposes-S19B, transaction, FRS and tax compliance.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
@@ -383,7 +398,7 @@ Boutique law firm specialising in international tax, transfer pricing and intern
 
 #### Yusarn Audrey LLC
 
-Yusarn Audrey LLC is a boutique intellectual property (IP) and corporate commercial law firm
+Yusarn Audrey LLC is a boutique intellectual property (IP) and corporate commercial law firm.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>

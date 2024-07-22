@@ -28,7 +28,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 
 ### Pre-Approved Equipment Brands and Models
 
-
 - Daikin - MKM100VVMG
 - Daikin - MKM50VVMG
 - Daikin - MKM75VVMG
@@ -141,6 +140,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Midea - MVC-M335WV2GN1(G)
 - Midea - MVC-M400WV2GN1(G)
 - Midea - MVC-M450WV2GN1(G)
+- Midea - MVC-M500WV2GN1(G)
 - Midea - MVC-M560WV2GN1(G)
 - Mitsubishi Electric - FDC280CKXZA2-S8
 - Mitsubishi Electric - MUY-GP10VF
@@ -228,6 +228,8 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Samsung - AJ045DCJ2KF/SP
 - Samsung - AJ065DCJ3KF/SP
 - Samsung - AJ070DCJ4KF/SP
+- TCL - FMA-18I3HD/DVO
+- TCL - FMA-27I4HD/DVO
 - Toshiba - MCY-MHP0805HT8-SG
 - Toshiba - MMY-MAP0807T8P-SG
 - Toshiba - MMY-MAP1007T8P-SG
@@ -248,5 +250,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Tosot - TR32SAC21CUD
 - Tosot - TR32SAC28CUD
 - Tosot - TR32SAC32CUD
+
 
 <script src='/jquery/resize-tables.js'></script>

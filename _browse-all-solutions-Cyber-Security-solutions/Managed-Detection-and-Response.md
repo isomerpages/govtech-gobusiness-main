@@ -32,10 +32,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201504939N-Grn-Rdr-Eml-Scurty-G' target='_blank'>Green Radar Email Security</a><br></td>
-<td>Netpluz Asia Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200304779D-TERRA-EMAIL-PROTECTION-v-10-G' target='_blank'>TERRA EMAIL PROTECTION Version 1.0</a><br></td>
 <td>TERRA SYSTEMS PTE LTD</td>
 </tr>

@@ -28,10 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199905895D-MEVO-DMS-83-WT' target='_blank'>MEVO DMS 8.3</a><br></td>
-<td>MEVO Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201224387N-EzySlsOrdr-v-30-WT' target='_blank'>EzySalesOrder Version 3.0</a><br></td>
 <td>WINAPP SOLUTIONS PTE LTD</td>
 </tr>

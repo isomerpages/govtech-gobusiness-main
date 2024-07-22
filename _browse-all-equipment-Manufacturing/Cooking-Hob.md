@@ -79,6 +79,35 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - Electrolux Professional - 391277
 - Electrolux Professional - 391278
 - Electrolux Professional - 391353
+- Electrolux Professional - 600883
+- Electrolux Professional - 600885
+- Electrolux Professional - 600901
+- Electrolux Professional - 600903
+- Electrolux Professional - 600905
+- FBK - FBKCZC-11A
+- FBK - FBKCZC-11B
+- FBK - FBKCZC-11C
+- FBK - FBKCZC-11W
+- FBK - FBKCZC-12A20
+- FBK - FBKCZC-12A25
+- FBK - FBKCZC-12A30
+- FBK - FBKCZC-13A
+- FBK - FBKCZC-13B20
+- FBK - FBKCZC-13B25
+- FBK - FBKCZC-13D
+- FBK - FBKCZC-13S
+- FBK - FBKCZC-17D
+- FBK - FBKCZC-19A5
+- FBK - FBKCZC-19A8
+- FBK - FBKCZC-19D
+- FBK - FBKCZC-34C
+- FBK - FBKCZC-TDL
+- FBK - FBKCZC-TIC3.5
+- FBK - FBKCZC-TIC5
+- FBK - FBKCZC-TIW
+- FBK - FBKMDC-MLD-TGS30-S
+- FBK - FBKMDC-SD-G30D1-STG-S
+- FBK - FBKMDC-SD-G30DA-STG-S
 - Garland  - Instinct Hob 3.5
 - Garland  - Instinct Hob 5
 - Hatco  - IRNG-PB1-36
@@ -155,6 +184,7 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - ROLLER GRILL Sia-Huat  - (238SD-PIS30)
 - ROLLER GRILL Sia-Huat - (238SD-PID700)
 - ROLLER GRILL Sia-Huat - (238SD-PIW30)
+- SAFICO PRO - 217BH-HBE350A
 - SAFICO PRO Sia-Huat  - (1101SF-CB-28A)
 - SAFICO PRO Sia-Huat - (1101SF-ABB-18T)
 - SAFICO PRO Sia-Huat - (1101SF-AT-25A)
