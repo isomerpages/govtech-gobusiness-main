@@ -187,20 +187,22 @@
 
     - title: What equipment are currently not supported under EEG (Advanced)?
       content: | 
-        Installation/Purchase of the following would not be supported under EEG (Advanced).<br>
+        Installation/Purchase of the following would not be supported under EEG (Advanced):<br>
           a)	Vehicles<br>
-          b)	Bespoke equipment (e.g. specialised production equipment) that requires Measurement & Verification to ascertain if there is energy efficiency improvement.<br>
-          c)	Key equipment in systems* that require Measurement & Verification at system level for legislation compliance or Green Mark Scheme (or equivalent government scheme)<br>
-          d)	Blackbox solutions (i.e. software or hardware devices whose functioning cannot be explained by applying mainstream engineering knowledge and theories for EE improvements)<br>
-          e)	Non-EE equipment, including monitoring devices and equipment that reduce carbon emission but does not reduce energy consumption (e.g. solar PV Panel, wind turbine)<br>
-          f)	International vessels
+          b)	Key equipment in systems* that require Measurement & Verification at system level for legislation compliance or Green Mark Scheme (or equivalent government scheme)<br>
+          c)	Blackbox solutions (i.e. software or hardware devices whose functioning cannot be explained by applying mainstream engineering knowledge and theories for EE improvements)<br>
+          d)	Non-EE equipment, including monitoring devices and equipment that reduce carbon emission but does not reduce energy consumption (e.g. solar PV Panel, wind turbine)<br>
+          e)	International vessels<br>
 
-          <sup>*</sup> For chilled water plant retrofit that shall comply with NEA's minimum energy efficiency standards (MEES), EEG (Advanced) can support chilled water system replacement/new installation that<br>
+          <sup>*</sup> For chilled water system that do not need to comply with NEA's Minimum Energy Efficiency Standards (MEES), replacement of standalone key equipment of chilled water plant (e.g. chiller, cooling towers) can be supported under EEG(Advanced).<br>
+
+          For chilled water system that shall comply with NEA's MEES, EEG (Advanced) can support chilled water system replacement/new installation that<br>
+
             (1a) can meet or exceed MEES performance standard before MEES comes into effect, or<br>
             (1b) exceed MEES performance standard after MEES comes into effect, whichever applies at the point of the first EEG(Advanced) submission; and<br>
             (2) is installed with M&V sensors/meters to facilitate post retrofit system efficiency determination for compliance with MEES. The cost of M&V sensors/meters would not be funded under EEG(Advanced).
 
-          Applicant shall refer to the <a href='/images/eeg/third-party-assessment-report.docx' target="_blank" rel="noopener">third-party assessment form</a> for details.  
+          Applicant shall refer to the <a href='/images/eeg/EEG Advanced Third-party assessment report (July 2024).docx' target="_blank" rel="noopener">third-party assessment form</a> for details.  
 
     - title: How is the grant support for the EEG (Advanced) calculated?
       content: |
