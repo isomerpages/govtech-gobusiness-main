@@ -8,7 +8,7 @@ third_nav_title: Infocomm Media Development Authority (IMDA)
 
 Infocomm Media Development Authority (IMDA)
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/daa38001-002b-4869-b75f-c73afdad5b09" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/shipstation" type="primary" %}
 
 <H3>Application Details</H3>
 
