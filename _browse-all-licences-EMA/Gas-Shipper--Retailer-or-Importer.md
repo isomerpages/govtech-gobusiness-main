@@ -42,15 +42,14 @@ e) any other relevant codes of practice under Section 62 of the Gas Act.</li>
 
 <strong>Additional Information</strong>
 
-<p><strong>Fees</strong><br />
-The annual licence fee is payable each April for the Financial Year starting 1 April. The initial licence fee payable upon issuance of the licence is pro-rated based on the number of days remaining in the current Financial Year.<br>
-You may contact EMA directly if you require further details on the fees for each licence class.</p>
+<p>The annual licence fee is payable each April for the Financial Year starting 1 April. The initial licence fee payable upon issuance of the licence is pro-rated based on the number of days remaining in the current Financial Year.</p>
+<p>You may contact EMA directly if you require further details on the fees for each licence class.</p>
 
 <H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Audited statements, balance sheets, cash flow statements and credit statement</strong><br>
-Audited past profit and loss statements, balance sheets and cash flow statements of the Applicant or the significant shareholders for the last 2 full financial years or since incorporation if less than 2 years and credit statement or credit rating, including any history of bankruptcy or financial distress.<br /><br />For new applications: Newly incorporated companies which could not provide any audited statements, balance sheets, cash flow statements and credit statement may alternatively submit a 5-year projected financial statements, critical assumptions on the financial projection, proposed capital structure and an expense breakdown.
+Past 2 years' audited financial statements which could include income statements, balance sheets, cash flow statements and credit statement or credit rating (if any), including any history of bankruptcy or financial distress<br /><br />For new applications: Newly incorporated companies which could not provide any audited statements, balance sheets, cash flow statements and credit statement may alternatively submit a 5-year projected financial statements, critical assumptions on the financial projection, proposed capital structure and an expense breakdown.
 <br>File format: doc, docx, jpeg, jpg, pdf, png, xls, xlsx
 <br>Maximum upload per application: 7 MB</li>
 
