@@ -1,12 +1,12 @@
 ---
 title: Change of Use Approval
-permalink: /browse-all-licences/Singapore-Tourism-Board-(URA)/Change-of-Use-Approval
-third_nav_title: Singapore Tourism Board (URA)
+permalink: /browse-all-licences/Urban-Redevelopment-Authority-(URA)/Change-of-Use-Approval
+third_nav_title: Urban Redevelopment Authority (URA)
 ---
 
 ## Apply for Change of Use Approval
 
-Singapore Tourism Board (URA)
+Urban Redevelopment Authority (URA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/changeofuseura" type="primary" %}
 
