@@ -26,7 +26,7 @@ AIO-Software is a specialized tool designed to streamline and optimize the hirin
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AIO-Software</td>
 <td style='padding: 10px;'>$6,750.00</td>
 <td style='padding: 10px;'>$6,750.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/AIO_Software_13062024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/AIO_Software_13062024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

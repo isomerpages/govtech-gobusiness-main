@@ -84,10 +84,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Winspire Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201309175Z-SAP-Busnss-On-v-100-G' target='_blank'>SAP Business One Version 10.0</a><br></td>
-<td>Axxis Consulting (S) Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200703060H-Sg-300-InvocNOW-G' target='_blank'>Sage 300 InvoiceNOW</a><br></td>
 <td>Databit Pte Ltd</td>
 </tr>
@@ -118,10 +114,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/199602373D-A2000ERP-v-12-G' target='_blank'>A2000ERP Version 12</a><br></td>
 <td>A2000 Solutions Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200507412D-SAGE-300-G' target='_blank'>SAGE 300</a><br></td>
-<td>SEG IT Services Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200415297M-Sg-300-Advncd-Edton-v-2022-G' target='_blank'>Sage 300 Advanced Edition Version 2022</a><br></td>
