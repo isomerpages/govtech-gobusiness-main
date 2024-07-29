@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Automtc-Sd-Plug-Trnspl
 
 **Description**
 
-A machine that completes transplantation.
+Automatic Seed Plug Transplanter (Stationary or moving) designed to automate the transplantation of seed plugs into the ground or planting systems. It should significantly speed up the planting process, improve accuracy, and reduce labor costs by mechanically picking up seedlings from trays and precisely placing them in predetermined locations.
 
 ## Solution Packages Option(s)
 

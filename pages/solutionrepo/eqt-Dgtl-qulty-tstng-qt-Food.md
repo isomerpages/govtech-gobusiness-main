@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Dgtl-qulty-tstng-qt-Fo
 
 **Description**
 
-Quality testing equipment in measuring the produce quality and freshness
+Quality testing equipment used to measure the quality and freshness of produce.
 
 ## Solution Packages Option(s)
 

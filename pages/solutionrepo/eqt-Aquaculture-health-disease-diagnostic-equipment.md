@@ -1,15 +1,15 @@
 ---
-title: 'Aeration System/ Oxygenation System'
-permalink: /productivity-solutions-grant/solutionrepo/eqt-Arton-sys-Oxygnton-sys-Food
+title: 'Aquaculture health and disease diagnostic equipment'
+permalink: /productivity-solutions-grant/solutionrepo/eqt-Aquaculture-health-disease-diagnostic-equipment
 ---
 
-## Aeration System/ Oxygenation System
+## Aquaculture health and disease diagnostic equipment
 
 ## Overview
 
 **Description**
 
-For even distribution compressed air/ oxygen to maintain or increase dissolved oxygen concentration for both agriculture and aquaculture systems.
+Lab equipment to support farm level health monitoring and disease investigation. This includes microscope, PCR machine, bacteria quantification system etc.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ For even distribution compressed air/ oxygen to maintain or increase dissolved o
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aeration System/ Oxygenation System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aquaculture health and disease diagnostic equipment</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

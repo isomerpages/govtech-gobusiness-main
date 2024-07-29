@@ -1,6 +1,7 @@
 ---
 title: 'Job Redesign Consultancy - Cadence HR Consulting Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/202411311E-Job-Rdsgn-CST-Cdnc-HR-CST-PL-G
+
 ---
 
 ## Job Redesign Consultancy - Cadence HR Consulting Pte Ltd

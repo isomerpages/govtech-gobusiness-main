@@ -1,15 +1,15 @@
 ---
-title: 'Farm Washing System'
+title: 'Egg Washing System'
 permalink: /productivity-solutions-grant/solutionrepo/eqt-Frm-Wshng-sys-Food
 ---
 
-## Farm Washing System
+## Egg Washing System
 
 ## Overview
 
 **Description**
 
-Washing system equipped with a combination of spray nozzles and brushes to wash produce.
+A washing system equipped with a combination of spray nozzles and brushes to wash eggs and remove dust, manure, feathers, etc.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Washing system equipped with a combination of spray nozzles and brushes to wash 
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Farm Washing System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Egg Washing System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

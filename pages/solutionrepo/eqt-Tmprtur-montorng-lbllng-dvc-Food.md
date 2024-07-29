@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Tmprtur-montorng-lblln
 
 **Description**
 
-Accurate infrared temperature monitoring and labelling devices that improves product quality and increases productivity
+Accurate infrared temperature monitoring and labelling devices that improves product quality and increase productivity
 
 ## Solution Packages Option(s)
 
