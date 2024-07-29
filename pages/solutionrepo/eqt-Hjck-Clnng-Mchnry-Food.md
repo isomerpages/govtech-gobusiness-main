@@ -1,15 +1,15 @@
 ---
-title: 'Hi-jack Cleaning Machinery'
+title: 'High Pressure Water Jet Cleaning Machinery'
 permalink: /productivity-solutions-grant/solutionrepo/eqt-Hjck-Clnng-Mchnry-Food
 ---
 
-## Hi-jack Cleaning Machinery
+## High Pressure Water Jet Cleaning Machinery
 
 ## Overview
 
 **Description**
 
-Hi-jack cleaning machine for sterilisation and cleaning of production facilities
+Equipment used for general cleaning of farm production facilities/areas.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Hi-jack cleaning machine for sterilisation and cleaning of production facilities
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hi-jack Cleaning Machinery</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>High Pressure Water Jet Cleaning Machinery</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

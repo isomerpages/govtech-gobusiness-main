@@ -43,7 +43,7 @@ The Digital Retail ecommerce solution entails end-to-end solution for SMEs. It c
 
 ## Vendor Information
 
- Company Name: ACCSS Digital Pte Ltd<br>Web URL: www.accss.asia <br>Contact Hotline: 97806890 <br>Contact Email: geraldine.png@accss.asia <br>
+ Company Name: ACCSS Digital Pte Ltd<br>Web URL: www.accss.asia <br>Contact Hotline: 98502209 <br>Contact Email: geraldine.png@accss.asia <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

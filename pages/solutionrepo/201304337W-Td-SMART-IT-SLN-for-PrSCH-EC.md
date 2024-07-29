@@ -26,35 +26,35 @@ Taidii SMART integrated preschool management system provides innovation solution
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii School Management Smart IT Solution (Basic)</td>
 <td style='padding: 10px;'>$4,100.00</td>
 <td style='padding: 10px;'>$4,100.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Taidii_SMART_IT_23052024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Taidii_SMART_IT_23052024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii School Management Smart IT Solution (Economy)</td>
 <td style='padding: 10px;'>$7,100.00</td>
 <td style='padding: 10px;'>$7,100.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Taidii_SMART_IT_23052024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Taidii_SMART_IT_23052024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii School Management Smart IT Solution (Standard)</td>
 <td style='padding: 10px;'>$8,900.00</td>
 <td style='padding: 10px;'>$8,900.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Taidii_SMART_IT_23052024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Taidii_SMART_IT_23052024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii School Management Smart IT Solution (Advance)</td>
 <td style='padding: 10px;'>$10,100.00</td>
 <td style='padding: 10px;'>$10,100.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Taidii_SMART_IT_23052024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Taidii_SMART_IT_23052024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii School Management Smart IT Solution (Premium)								</td>
 <td style='padding: 10px;'>$11,900.00</td>
 <td style='padding: 10px;'>$11,900.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Taidii_SMART_IT_23052024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Taidii_SMART_IT_23052024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

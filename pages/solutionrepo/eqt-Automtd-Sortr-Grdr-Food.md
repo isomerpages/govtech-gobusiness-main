@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Automtd-Sortr-Grdr-Foo
 
 **Description**
 
-Automatic graders to sort produce by species/ sizes/ weight while minimizing the impact on the produce.
+A machine designed to automate the sorting of produce by species/sizes/weight and/or identify defects while minimizing the impact on the produce.
 
 ## Solution Packages Option(s)
 
