@@ -8,23 +8,16 @@ third_nav_title: Urban Redevelopment Authority (URA)
 
 Urban Redevelopment Authority (URA)
 
-{% include licence-apply-button.html %}
-<a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=40" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>
-<div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-size: 18px; color: #313840;">
-<img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;">
-<span style="font-weight: bold; font-family: hknova-bold; font-size: 18px; ">Please use desktop / laptop to apply for this licence.</span><br>
-<span style="font-family: hknova-regular;">You can only view application details and make payment via mobile. Please use GoBusiness Licensing on desktop to use all features.</span><br><br>
-<a id="mobileNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=40" target="_blank" rel="noopener">Continue to GoBusiness Licencing anyway</a>
-</div>
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/changeofuseura" type="primary" %}
 
 <H3>Application Details</H3>
 
 <p>If you want to change the use of a property (e.g. from a shop to a restaurant, or from a restaurant to a pub), you may need to apply for planning permission for Change of Use from URA.</p>
- <p>Before signing a tenancy or purchase agreement of the property, you should check if your intended use for that property can be allowed, and obtain Change of Use Approval if it is required.</p>
- <p>If you are using SLA property on short term tenancy or HDB's commercial property, you are required to seek consent from SLA and HDB, respectively. No further approval from URA is needed if the proposal falls under one of the allowable uses. For more information, please refer to <a href="https://www.ura.gov.sg/Corporate/Guidelines/Circulars/dc15-05" target="_blank" rel="noopener">Circular No : URA/PB/2015/05-DCG</a> </a>for SLA properties and <a href="https://www.ura.gov.sg/Corporate/Guidelines/Circulars/dc11-05" target="_blank" rel="noopener">Circular No : URA/PB/2011/05-DCG</a> for HDB commercial premises.</p>
- <h3>FAQ</h3>
- <ol>
- <li><strong>Where can I find out more about Change of Use for my property?<br /></strong>You may refer to <a href="https://www.ura.gov.sg/Corporate/Property/Business/Change-Use-of-Property-for-Business" target="_blank" rel="noopener">Change Use of Property for Business</a>.</li>
- <li><strong>I am wondering if my proposal qualifies under the Change of Use Lodgment scheme, where I can lodge my application for instant approval at a reduced cost compared to a Change of UseApplication. Where can I find out more about Change of Use Lodgment?</strong><br />You may refer to <a href="https://www.ura.gov.sg/Corporate/Property/Business/Change-Use-of-Property-for-Business" target="_blank" rel="noopener">Change of Use Lodgment</a>.</li>
- </ol>
+<p>Before signing a tenancy or purchase agreement of the property, you should check if your intended use for that property can be allowed, and obtain Change of Use Approval if it is required.</p>
+<p>If you are using SLA property on short term tenancy or HDB's commercial property, you are required to seek consent from SLA and HDB, respectively. No further approval from URA is needed if the proposal falls under one of the allowable uses. For more information, please refer to <a href="https://www.ura.gov.sg/Corporate/Guidelines/Circulars/dc15-05" target="_blank" rel="noopener">Circular No : URA/PB/2015/05-DCG</a> for SLA properties and <a href="https://www.ura.gov.sg/Corporate/Guidelines/Circulars/dc11-05" target="_blank" rel="noopener">Circular No : URA/PB/2011/05-DCG</a> for HDB commercial premises.</p>
+<h3>FAQ</h3>
+<ol>
+<li><strong>Where can I find out more about Change of Use for my property?<br></strong>You may refer to <a href="https://www.ura.gov.sg/Corporate/Property/Business/Change-Use-of-Property-for-Business" target="_blank" rel="noopener">Change Use of Property for Business</a>.</li>
+<li><strong>I am wondering if my proposal qualifies under the Change of Use Lodgment scheme, where I can lodge my application for instant approval at a reduced cost compared to a Change of UseApplication. Where can I find out more about Change of Use Lodgment?</strong><br>You may refer to <a href="https://www.ura.gov.sg/Corporate/Property/Business/Change-Use-of-Property-for-Business" target="_blank" rel="noopener">Change of Use Lodgment</a>.</li>
+</ol>
 
