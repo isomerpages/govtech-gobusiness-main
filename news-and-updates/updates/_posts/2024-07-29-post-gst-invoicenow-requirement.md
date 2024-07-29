@@ -21,6 +21,7 @@ To allow businesses sufficient lead time to prepare, the GST InvoiceNow Requirem
 - From 1 April 2026, for all new voluntary GST-registrants, regardless of incorporation date or business constitution. 
 
 A soft launch will commence from 1 May 2025 for early adopters<sup>1</sup> that wish to transmit invoice data to IRAS using InvoiceNow solutions. 
+
 <sup>1</sup> Includes existing GST-registered businesses as well as any other businesses applying for GST registration on/after 1 May 2025.
 
 There are plans to progressively implement the GST InvoiceNow Requirement for the remaining GST-registered businesses. IRAS will continue to consult industry partners and carefully review the feedback received before announcing further details. Although the initial phases primarily impact new voluntary registrants, all existing GST-registered businesses should remain mindful of these dates should they decide to set up new businesses or companies and apply for voluntary GST registration.
