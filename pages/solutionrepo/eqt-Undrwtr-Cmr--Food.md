@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Undrwtr-Cmr--Food
 
 **Description**
 
-Underwater cameras to have closer monitoring of the livestock activity in water (like feeding) and early detection of abnormlities like disease so that prompt mitigating measures can be carried out. 
+Underwater cameras for closer monitoring of the livestock activity in water (eg. feeding) and early detection of abnormalities/disease so that prompt mitigating measures can be carried out. 
 
 ## Solution Packages Option(s)
 

@@ -26,7 +26,7 @@ Financio is a cloud accounting software, designed for today's smart businesses. 
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premier Plan</td>
 <td style='padding: 10px;'>$1,200.00</td>
 <td style='padding: 10px;'>$900.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/ABSS_Financio_Cloud_23052024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/ABSS_Financio_Cloud_23052024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

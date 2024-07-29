@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Automtd-Slughtrng-Eqt-
 
 **Description**
 
-Automated line to slaughter livestock from cutting, deskinning and deboning lines, etc
+A machine that automates the entire or part of the slaughter of livestock (including cutting, defeathering, deskinning and deboning).
 
 ## Solution Packages Option(s)
 
