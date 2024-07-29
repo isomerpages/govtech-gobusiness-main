@@ -38,6 +38,7 @@ Businesses can also use features within InvoiceNow solutions, like receiving ale
 We encourage businesses to come onboard early and plan ahead for the adoption of InvoiceNow solutions or make changes to your in-house accounting systems to be compatible with GST InvoiceNow Requirement. There are four steps to doing so:
 
 <ins>From now</ins>
+
 Step 1: Ensure that your solution is InvoiceNow-enabled
 - For businesses with existing accounting or finance solutions, or businesses that are planning to purchase one, check whether your preferred solution is listed on [IMDA's pre-approved e-invoicing solution provider list](https://www.imda.gov.sg/how-we-can-help/nationwide-e-invoicing-framework/peppol-ready-accounting-erp-solution-providers){:target="_blank"}{:rel="noopener"}. For large enterprises using your own in-house solutions, get in touch with an [IMDA pre-approved Access Point Provider (AP)](https://www.imda.gov.sg/how-we-can-help/nationwide-e-invoicing-framework/access-point-providers){:target="_blank"}{:rel="noopener"} to help you to connect to the InvoiceNow network.
 
@@ -45,6 +46,7 @@ Step 2: Register for InvoiceNow and Obtain your Peppol ID
 - Approach your Solution Provider and/or AP to register your business in the [SG Peppol Directory](https://www.peppoldirectory.sg/){:target="_blank"}{:rel="noopener"} with your UEN and obtain your Peppol ID. 
 
 <ins>From May 2025</ins>
+
 Step 3: Ensure that your InvoiceNow solution is connected to IRAS’ System via Application Programming Interface (API) technology
 - Contact your Solution Provider and/or AP to ensure that your InvoiceNow solution is connected to IRAS via API.
 
