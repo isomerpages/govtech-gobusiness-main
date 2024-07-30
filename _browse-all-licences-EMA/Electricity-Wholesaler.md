@@ -85,4 +85,3 @@ Besides applying for the above electricity licence(s), he will also need to regi
 <H3>Requirements</H3>
 
 Applicant must be ACRA registered company/business
-
