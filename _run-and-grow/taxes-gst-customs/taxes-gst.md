@@ -65,7 +65,7 @@ There are plans to progressively implement the GST InvoiceNow Requirement for th
 
 A soft launch will commence from 1 May 2025 for early adopters<sup>1</sup> that wish to transmit invoice data to IRAS using InvoiceNow solutions. Click to read more about the GST InvoiceNow requirement.
 
-<sup>1</sup> Includes existing GST-registered businesses as well as any other businesses applying for GST registration on/after 1 May 2025.
+<sup>1</sup> <small>Includes existing GST-registered businesses as well as any other businesses applying for GST registration on/after 1 May 2025.</small>
 
 We encourage businesses to plan ahead for the adoption of InvoiceNow solutions or make changes to your in-house accounting systems to be compatible with GST InvoiceNow Requirement. There are 4 steps to doing so:
 
