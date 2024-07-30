@@ -63,7 +63,7 @@ If you intend to register for GST voluntarily, you will be required to transmit 
 
 There are plans to progressively implement the GST InvoiceNow Requirement for the remaining GST-registered businesses. IRAS will continue to consult industry partners and carefully review the feedback received before announcing further details. 
 
-A soft launch will commence from 1 May 2025 for early adopters<sup>1</sup> that wish to transmit invoice data to IRAS using InvoiceNow solutions. Click to read more about the GST InvoiceNow requirement.
+A soft launch will commence from 1 May 2025 for early adopters<sup>1</sup> that wish to transmit invoice data to IRAS using InvoiceNow solutions. Click to read more about the [GST InvoiceNow requirement](https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-invoicenow-requirement){:target="_blank"}{:rel="noopener"}.
 
 <sup>1</sup> <small>Includes existing GST-registered businesses as well as any other businesses applying for GST registration on/after 1 May 2025.</small>
 
