@@ -432,7 +432,8 @@
 
         Required for trading in wholesale electricity market through electricity generated or load reduction.
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/electricitywholesaler" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Energy-Market-Authority-(EMA)/Electricity-Wholesaler">View Licence Details</a>
+        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=282" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Energy-Market-Authority-(EMA)/Electricity-Wholesaler" style="margin-left: 1em;">View Licence Details</a>
+        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Energy-Market-Authority-(EMA)/Electricity-Wholesaler">View Licence Details</a>
 
         -----
         **Gas Shipper, Retailer or Importer**
@@ -441,7 +442,8 @@
 
         Required for the importation, transportation or retailing of natural gas via gas pipeline network.
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/gasshipperretailerorimporter" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Energy-Market-Authority-(EMA)/Gas-Shipper--Retailer-or-Importer">View Licence Details</a>
+        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=283" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Energy-Market-Authority-(EMA)/Gas-Shipper--Retailer-or-Importer" style="margin-left: 1em;">View Licence Details</a>
+        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Energy-Market-Authority-(EMA)/Gas-Shipper--Retailer-or-Importer">View Licence Details</a>
 
     - title: Enterprise Singapore (EnterpriseSG)
       content: |
@@ -783,9 +785,10 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        You should apply for a Public Mobile Network Licence if you intend to set up a public mobile network to establish and provide telecommunication services to public.
-
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/publicmobilenetwork" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Public-Mobile-Network">View Licence Details</a>
+        For establishing and providing telecommunication services to public using multiple high power base or fixed or repeater stations.
+        
+        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10062" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Public-Mobile-Network" style="margin-left: 1em;">View Licence Details</a>
+        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Public-Mobile-Network">View Licence Details</a>
 
         -----
         **Radio Service Licence**
@@ -858,9 +861,10 @@
         -----
         **Ship Station Licence**
 
-        You should apply for a Ship Station Licence if you have radio-communication equipment installed on board ships registered in Singapore.
+        The Ship Station Licence is issued for the operation of the radio-communication equipment installed on-board ships registered in Singapore.
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/shipstation" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Ship-Station-Licence">View Licence Details</a>
+        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10015" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Ship-Station-Licence" style="margin-left: 1em;">View Licence Details</a>
+        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Ship-Station-Licence">View Licence Details</a>
 
         -----
         **Simplified Equipment Registration (SER)**
@@ -2680,18 +2684,13 @@
         <a class="primary-btn" href="https://www.ura.gov.sg/cmrWeb/" target="_blank" rel="noopener">Apply on URA</a>&emsp;<a href = "/browse-all-licences/Urban-Redevelopment-Authority-(URA)/Category-3-Works-for-Conserved-Buildings">View Licence Details</a>
 
         -----
-         **Change of Use Approval**
+        **Change of Use Approval**
 
-        <p>If you want to change the use of a property (e.g. from a shop to a restaurant, or from a restaurant to a pub), you may need to apply for planning permission for Change of Use from URA. Before signing a tenancy or purchase agreement of the property, you should check if your intended use for that property can be allowed, and obtain Change of Use Approval if it is required.</p>
+        If you want to change the use of a property (e.g. from a shop to a restaurant, or from a restaurant to a pub), you may need to apply for planning permission for Change of Use from URA.
+        Before signing a tenancy or purchase agreement of the property, you should check if your intended use for that property can be allowed, and obtain Change of Use Approval if it is required.
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/changeofuseura" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Urban-Redevelopment-Authority-(URA)/Change-of-Use-Approval">View Licence Details</a>
-
-        -----
-        **Change of Use Approval (Renewal)**
-
-        <p>If you want to change the use of a property (e.g. from a shop to a restaurant, or from a restaurant to a pub), you may need to apply for planning permission for Change of Use from URA. Before signing a tenancy or purchase agreement of the property, you should check if your intended use for that property can be allowed, and obtain Change of Use Approval if it is required.</p>
-
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/changeofuserenewalura" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Urban-Redevelopment-Authority-(URA)/Change-of-Use-Approval-(Renewal)">View Licence Details</a>
+        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=40" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Urban-Redevelopment-Authority-(URA)/Change-of-Use-Approval" style="margin-left: 1em;">View Licence Details</a>
+        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Urban-Redevelopment-Authority-(URA)/Change-of-Use-Approval">View Licence Details</a>
 
         -----
         **URA - Home Office Scheme (for private residential properties)**
