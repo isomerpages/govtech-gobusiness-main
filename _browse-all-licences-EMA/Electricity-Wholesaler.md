@@ -38,7 +38,7 @@ The Licensee shall be subject to and shall comply with any codes of practice and
 </ol>
 <p><strong>For Demand Side Participation</strong></p>
 <ol>
-<li><strong>1) Do I need to apply for this licence?</strong><br>
+<li><strong>Do I need to apply for this licence?</strong><br>
 Any person who wishes to engage in the following:<br>
 (a) Demand response service in the wholesale electricity market; and/or<br>
 (b) Interruptible load service in the wholesale electricity market<br>
