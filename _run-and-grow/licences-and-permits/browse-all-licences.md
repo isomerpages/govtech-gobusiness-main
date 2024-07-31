@@ -1,5 +1,5 @@
 ---
-title: Browse all licences
+title: Browse licences by Agency
 permalink: /licences/find-licence-by-agency/
 third_nav_title: Licences and Permits
 ---
