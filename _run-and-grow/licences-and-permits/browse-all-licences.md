@@ -1,5 +1,5 @@
 ---
-title: Browse all licences
+title: Browse all licences (new)
 permalink: /licences/browse-all-licences/
 third_nav_title: Licences and Permits
 anchorlinks:
@@ -14,11 +14,11 @@ anchorlinks:
 
 ---
 
-## Browse all licences
+## Browse all licences (new)
 
-Select a government agency to see its licences and apply for them.
+{% include overview-licence.html notice=site.data.ov018-licence-browse-all %}
 
-This is a list of licences you can apply for. If you are looking to renew a licence, you can [find licences to renew or amend here](/licences/renew-amend-licence/?src=lic_list_writeup). If you’re not sure which licences you need, browse our [list of e-Advisers for licences](/licences/find-licence-by-sector/?src=lic_list_writeup) to get licence recommendations.
+---
 
 {% include overview.html anchorlinks=page.anchorlinks %}
 
