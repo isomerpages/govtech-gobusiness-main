@@ -144,7 +144,7 @@ This solution is supported by Singapore Food Agency (SFA).
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Plltng-Mchn-Food' target='_blank'>Pelleting Machine</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Plltng-Mchn-Food' target='_blank'>Feed Pelleting Machine</a><br></td>
 <td></td>
 </tr>
 <tr>
@@ -224,7 +224,7 @@ This solution is supported by Singapore Food Agency (SFA).
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Tmprtur-montorng-lbllng-dvc-Food' target='_blank'>Temperature montoring/ labelling device</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Tmprtur-montorng-lbllng-dvc-Food' target='_blank'>Temperature monitoring/ labelling device</a><br></td>
 <td></td>
 </tr>
 <tr>

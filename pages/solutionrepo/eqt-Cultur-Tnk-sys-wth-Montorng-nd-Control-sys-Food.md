@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Cultur-Tnk-sys-wth-Mon
 
 **Description**
 
-Cultivation system with monitoring and control system
+Cultivation system with monitoring, alert and control system.
 
 ## Solution Packages Option(s)
 
