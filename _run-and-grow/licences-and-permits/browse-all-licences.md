@@ -1,5 +1,5 @@
 ---
-title: Browse all licences (new)
+title: Search all licences (new)
 permalink: /licences/browse-all-licences/
 third_nav_title: Licences and Permits
 anchorlinks:
@@ -14,7 +14,7 @@ anchorlinks:
 
 ---
 
-## Browse all licences (new)
+## Search all licences (new)
 
 {% include overview-licence.html notice=site.data.ov018-licence-browse-all %}
 
