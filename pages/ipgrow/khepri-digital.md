@@ -79,7 +79,7 @@ If you need a performance-oriented and fast-moving marketing partner, you have f
 <a name='key-practice-experts'></a>
 ### Key practice experts
 
-** Dekai Wah**
+**Dekai Wah**
 
 - Job Title: Manager
 - Years of Experience: 6 years
