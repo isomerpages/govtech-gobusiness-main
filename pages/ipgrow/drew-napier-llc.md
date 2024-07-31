@@ -133,9 +133,7 @@ Drew & Napier is the preferred choice of foreign and domestic governments, gover
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), Registered Design Agent Service, IP Intelligence and Search, IP Due Diligence
 - Certifications/Qualifications: Hastings College of the Law, University of California, J.D., 1994, University of California, Berkeley, B.A., English, 1990, San Jose State University, B.S., Electrical Engineering, cum laude, 1998, Patent Attorney, U.S. Patent and Trademark Office (1998), Attorney-at-Law, Registered to Practice in U.S. Jurisdictions of: California (1994),District of Columbia (2004),New York (2006),Certified to Appear in U.S. federal courts of: U.S. Court of Appeals, Federal Circuit, U.S. Court of Appeals, 9th Circuit, U.S. District Courts, N.D., C.D., E.D., S.D. of California
-
-- URL of LinkedIn/Company Profile: 
-<a href="https://www.linkedin.com/in/patrickwduncan/" target="_blank" rel="noopener">https://www.linkedin.com/in/patrickwduncan/</a>  
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/patrickwduncan/" target="_blank" rel="noopener">https://www.linkedin.com/in/patrickwduncan/</a>  
 
 **Jiawei Koh**
 
@@ -144,7 +142,7 @@ Drew & Napier is the preferred choice of foreign and domestic governments, gover
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search, IP Due Diligence, Dispute Resolution
 - Certifications/Qualifications: Bachelor of Engineering, Nanyang Technological University 2007, Graduate Certificate in Intellectual Property Law, 2011, Registered Singapore Patent Agent 2019
-- URL of LinkedIn/Company Profile: [https://sg.linkedin.com/in/koh-jiawei-84ab4644] (https://sg.linkedin.com/in/koh-jiawei-84ab4644)  
+- URL of LinkedIn/Company Profile: <a href="https://sg.linkedin.com/in/koh-jiawei-84ab4644" target="_blank" rel="noopener">https://sg.linkedin.com/in/koh-jiawei-84ab4644</a> 
 
 **Tony Yeo**
 
@@ -164,7 +162,7 @@ Drew & Napier is the preferred choice of foreign and domestic governments, gover
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Trademark Agent Service, Freedom-to-Operate (FTO), IP Portfolio Management, Dispute Resolution
 - Certifications/Qualifications: LL.B. (Hons), National University of Singapore (1998), Admitted to the Singapore Bar (1999)
-- Awards and Accolades: The Legal 500 Asia Pacific Intellectual Property 2024 - Recommended lawyer for 5 consecutive years,  Managing IP Voted as IP Star 2023 - Trade mark Star for 6 consecutive years |   Voted as Top 250 Women in IP 2019, World Trade Mark Review 1000 Enforcement and Litigation 2024 - Silver band for 5 consecutive years, Recommended Lawyer (2018 and 2019) Prosecution and Strategy 2024 - Silver band for 5 consecutive years Transactions 2024 - Recommended Lawyer for 5 consecutive years, IAM Patent 1000 Prosecution 2023 - Recommended Lawyer (2022 to 2023, 2019), Silver band in 2020 and 2021, Recommended Lawyer in 2019 Transactions 2023 - Recommended Lawyer for 4 consecutive years, Asia IP Experts Identified as a leading IP lawyer in Singapore in 2023 Leading individual in Trade Mark for 6 consecutive years (2013 to 2018).
+- Awards and Accolades: The Legal 500 Asia Pacific Intellectual Property 2024 - Recommended lawyer for 5 consecutive years,  Managing IP Voted as IP Star 2023 - Trade mark Star for 6 consecutive years, Voted as Top 250 Women in IP 2019, World Trade Mark Review 1000 Enforcement and Litigation 2024 - Silver band for 5 consecutive years, Recommended Lawyer (2018 and 2019) Prosecution and Strategy 2024 - Silver band for 5 consecutive years Transactions 2024 - Recommended Lawyer for 5 consecutive years, IAM Patent 1000 Prosecution 2023 - Recommended Lawyer (2022 to 2023, 2019), Silver band in 2020 and 2021, Recommended Lawyer in 2019 Transactions 2023 - Recommended Lawyer for 4 consecutive years, Asia IP Experts Identified as a leading IP lawyer in Singapore in 2023 Leading individual in Trade Mark for 6 consecutive years (2013 to 2018).
 - URL of LinkedIn/Company Profile: <a href="https://www.drewnapier.com/Our-Lawyers/Lim-Siau-Wen" target="_blank" rel="noopener">https://www.drewnapier.com/Our-Lawyers/Lim-Siau-Wen</a>  
 
 **Yvonne Tang**
