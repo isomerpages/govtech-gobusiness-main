@@ -106,22 +106,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Neu Media Technology LLP</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201539815G-Intut-Quckbooks-Onln-Full-Trnsformton-PKG-G' target='_blank'>Intuit Quickbooks Online Full Transformation Packages</a><br></td>
-<td>Acc Pro (Singapore) Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201713604G-AutoCount-ACC-G' target='_blank'>AutoCount Accounting</a><br></td>
-<td>Autocount (S) Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201525687E-CFOsg-XERO-Cloud-ACC-G' target='_blank'>CFOsg XERO Cloud Accounting</a><br></td>
-<td>Cloud Accounting & Consultancy Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/53295423L-ABSSMYOB-Prmr-G' target='_blank'>ABSS(MYOB) Premier</a><br></td>
-<td>E-Click Solutions</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201426811M-Bmboo-S-Xro-G' target='_blank'>Bamboo Sea: Xero</a><br></td>
 <td>Bamboo Sea Pte Ltd</td>
 </tr>
@@ -178,10 +162,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>TIMCOLE PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201222896R-Monyworks-v-9-G' target='_blank'>Moneyworks Version 9</a><br></td>
-<td>Ostendo Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201539815G-Acc-Pro-Xro-G' target='_blank'>Acc Pro : Xero</a><br></td>
 <td>Acc Pro (Singapore) Pte. Ltd.</td>
 </tr>
@@ -200,10 +180,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200804595N-Xro-Cloud-ACC-Softwr-G' target='_blank'>Xero Cloud Accounting Software</a><br></td>
 <td>361 Degree Consultancy Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202008850Z-FdCorp-Xro-ACC-Softwr-G' target='_blank'>FidCorp Xero Accounting Software</a><br></td>
-<td>FidCorp Services Private Limited</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200914556R-Fnnco-Cloud-ACC-Softwr-G' target='_blank'>Financio Cloud Accounting Software</a><br></td>

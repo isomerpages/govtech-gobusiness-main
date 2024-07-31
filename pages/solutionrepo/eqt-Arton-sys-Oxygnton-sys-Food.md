@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Arton-sys-Oxygnton-sys
 
 **Description**
 
-For better water quality management by evenly distribute compressed air/ oxygen to increase dissolved oxygen concentration.
+For even distribution compressed air/ oxygen to maintain or increase dissolved oxygen concentration for both agriculture and aquaculture systems.
 
 ## Solution Packages Option(s)
 

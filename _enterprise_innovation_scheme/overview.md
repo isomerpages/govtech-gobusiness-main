@@ -67,7 +67,7 @@ An option to convert up to $100,000 of the total qualifying expenditure across a
 </tr>
 <tr>
     <td> 
-        Training<br><br><a href="http://www.go.gov.sg/eis-training" target="_blank" rel="noopener">List of eligible courses</a>
+        Training<br><br><a href="https://skillsfuture.gobusiness.gov.sg/course-directory/search" target="_blank" rel="noopener">List of eligible courses</a>
     </td>
     <td>
         <ul>

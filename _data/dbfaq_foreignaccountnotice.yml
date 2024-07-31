@@ -2,6 +2,7 @@ show: true
 button: false
 title: "Problems accessing Dashboard as a Foreign Account user?"
 content: |
-  For business users, register for a Corppass Account for a foreign entity. Please also ensure that you have access to MTI 'GoBusiness Portal' e-service for your Corppass account.
+  For business users, register for a Corppass Account for a foreign entity.<br>
+  Please also ensure that you have access to MTI 'GoBusiness Portal' e-service for your Corppass account.
 
-  <br><br>For individual users, please refer to the [Account Access for Foreign Individual Users](/account-access/foreign-users) for assistance.
+  <br><br>For individual users, please refer to the <a href="/dashboard-faqs/account-access/foreign-users-individual">Singpass Foreign user Account (Individual)</a> section for assistance.
