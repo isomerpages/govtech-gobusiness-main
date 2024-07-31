@@ -126,7 +126,7 @@ Drew & Napier is the preferred choice of foreign and domestic governments, gover
 <a name='key-practice-experts'></a>
 ### Key practice experts
 
-**Patrick William Duncan**
+'**Patrick William Duncan**
 
 - Job Title: Senior Patent Associate
 - Years of Experience: 26 years
@@ -135,7 +135,7 @@ Drew & Napier is the preferred choice of foreign and domestic governments, gover
 - Certifications/Qualifications: Hastings College of the Law, University of California, J.D., 1994, University of California, Berkeley, B.A., English, 1990, San Jose State University, B.S., Electrical Engineering, cum laude, 1998, Patent Attorney, U.S. Patent and Trademark Office (1998), Attorney-at-Law, Registered to Practice in U.S. Jurisdictions of: California (1994),District of Columbia (2004),New York (2006),Certified to Appear in U.S. federal courts of: U.S. Court of Appeals, Federal Circuit, U.S. Court of Appeals, 9th Circuit, U.S. District Courts, N.D., C.D., E.D., S.D. of California
 
 - URL of LinkedIn/Company Profile: 
-<a href="https://www.linkedin.com/in/patrickwduncan/" target="_blank" rel="noopener">https://www.linkedin.com/in/patrickwduncan/</a>  
+[https://www.linkedin.com/in/patrickwduncan/](https://www.linkedin.com/in/patrickwduncan/)  
 
 **Jiawei Koh**
 
@@ -153,9 +153,9 @@ Drew & Napier is the preferred choice of foreign and domestic governments, gover
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Trademark Agent Service, Freedom-to-Operate (FTO), Dispute Resolution, IP Portfolio Management
 - Certifications/Qualifications: LL.B. (Hons), National University of Singapore, Admitted to the Singapore Bar (1992)
-- Awards and Accolades: Chambers Asia-Pacific Intellectual Property: Domestic: Litigation 2024 ñ Band 1 for 6 consecutive years, The Legal 500 Asia Pacific Intellectual Property 2024 - Hall of Fame for 5 consecutive years, Asian Legal Business Asia Top 15 IP Lawyers 2023 ñ Named as one of Asia's top 15 IP lawyers for 3 consecutive years, Managing IP Voted as IP Star 2023 ñ Trade mark Star for 10 consecutive years, Patent Star for 10 consecutive years, Asialaw Leading Lawyers Intellectual Property 2023/24 - Elite Practitioner for 7 consecutive years
+- Awards and Accolades: Chambers Asia-Pacific Intellectual Property: Domestic: Litigation 2024 - Band 1 for 6 consecutive years, The Legal 500 Asia Pacific Intellectual Property 2024 - Hall of Fame for 5 consecutive years, Asian Legal Business Asia Top 15 IP Lawyers 2023 - Named as one of Asia's top 15 IP lawyers for 3 consecutive years, Managing IP Voted as IP Star 2023 - Trade mark Star for 10 consecutive years, Patent Star for 10 consecutive years, Asialaw Leading Lawyers Intellectual Property 2023/24 - Elite Practitioner for 7 consecutive years
 - URL of LinkedIn/Company Profile: 
-<a href="https://www.drewnapier.com/Our-Lawyers/Tony-Yeo" target="_blank" rel="noopener">https://www.drewnapier.com/Our-Lawyers/Tony-Yeo</a>  
+[https://www.drewnapier.com/Our-Lawyers/Tony-Yeo](https://www.drewnapier.com/Our-Lawyers/Tony-Yeo)  
 
 **Siau Wen, Lim**
 
@@ -164,8 +164,8 @@ Drew & Napier is the preferred choice of foreign and domestic governments, gover
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Trademark Agent Service, Freedom-to-Operate (FTO), IP Portfolio Management, Dispute Resolution
 - Certifications/Qualifications: LL.B. (Hons), National University of Singapore (1998), Admitted to the Singapore Bar (1999)
-- Awards and Accolades: The Legal 500 Asia Pacific Intellectual Property 2024 ñ Recommended lawyer for 5 consecutive years,  Managing IP Voted as IP Star 2023 ñ Trade mark Star for 6 consecutive years |   Voted as Top 250 Women in IP 2019, World Trade Mark Review 1000 Enforcement and Litigation 2024 ñ Silver band for 5 consecutive years, Recommended Lawyer (2018 and 2019) Prosecution and Strategy 2024 ñ Silver band for 5 consecutive years Transactions 2024 ñ Recommended Lawyer for 5 consecutive years, IAM Patent 1000 Prosecution 2023 ñ Recommended Lawyer (2022 to 2023, 2019), Silver band in 2020 and 2021, Recommended Lawyer in 2019 Transactions 2023 ñ Recommended Lawyer for 4 consecutive years, Asia IP Experts Identified as a leading IP lawyer in Singapore in 2023 Leading individual in Trade Mark for 6 consecutive years (2013 to 2018).
-- URL of LinkedIn/Company Profile: <a href="https://www.drewnapier.com/Our-Lawyers/Lim-Siau-Wen" target="_blank" rel="noopener">https://www.drewnapier.com/Our-Lawyers/Lim-Siau-Wen</a>  
+- Awards and Accolades: The Legal 500 Asia Pacific Intellectual Property 2024 - Recommended lawyer for 5 consecutive years,  Managing IP Voted as IP Star 2023 - Trade mark Star for 6 consecutive years |   Voted as Top 250 Women in IP 2019, World Trade Mark Review 1000 Enforcement and Litigation 2024 - Silver band for 5 consecutive years, Recommended Lawyer (2018 and 2019) Prosecution and Strategy 2024 - Silver band for 5 consecutive years Transactions 2024 - Recommended Lawyer for 5 consecutive years, IAM Patent 1000 Prosecution 2023 - Recommended Lawyer (2022 to 2023, 2019), Silver band in 2020 and 2021, Recommended Lawyer in 2019 Transactions 2023 - Recommended Lawyer for 4 consecutive years, Asia IP Experts Identified as a leading IP lawyer in Singapore in 2023 Leading individual in Trade Mark for 6 consecutive years (2013 to 2018).
+- URL of LinkedIn/Company Profile: [https://www.drewnapier.com/Our-Lawyers/Lim-Siau-Wen](https://www.drewnapier.com/Our-Lawyers/Lim-Siau-Wen)  
 
 **Yvonne Tang**
 
@@ -174,7 +174,7 @@ Drew & Napier is the preferred choice of foreign and domestic governments, gover
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Trademark Agent Service, Dispute Resolution, IP Portfolio Management, IP Due Diligence
 - Certifications/Qualifications: LL.B. (Hons), National University of Singapore (1998), Admitted to the Singapore Bar (1999), Admitted as a Solicitor in England and Wales (2004)
-- Awards and Accolades: Chambers Asia-Pacific Intellectual Property: Domestic: Litigation 2024 ñ Band 3 for 3 consecutive years, The Legal 500 Asia Pacific Intellectual Property 2024 ñ Recommended Lawyer for 7 consecutive years, Managing IP Voted as IP Star 2023 ñ Trade mark Star for 5 consecutive years Identified as Top 250 Women in IP for 3 consecutive years (2020 to 2022), World Trade Mark Review 1000  Enforcement and Litigation 2024 ñ Gold band for 2 consecutive years, Silver band (2020 to 2022), Recommended Lawyer (2018 and 2019) Prosecution and Strategy 2024 ñ Gold band for 2 consecutive years, Silver band (2020 to 2022) Transactions 2024 ñ Recommended Lawyer for 5 consecutive years, IAM Patent 1000 Prosecution 2023 ñ Highly Recommended Lawyer for 2 consecutive years, Silver band (2020 to 2021), Recommended Lawyer in 2019 Transactions 2023 ñ Recommended Lawyer for 4 consecutive years
+- Awards and Accolades: Chambers Asia-Pacific Intellectual Property: Domestic: Litigation 2024 - Band 3 for 3 consecutive years, The Legal 500 Asia Pacific Intellectual Property 2024 - Recommended Lawyer for 7 consecutive years, Managing IP Voted as IP Star 2023 - Trade mark Star for 5 consecutive years Identified as Top 250 Women in IP for 3 consecutive years (2020 to 2022), World Trade Mark Review 1000  Enforcement and Litigation 2024 - Gold band for 2 consecutive years, Silver band (2020 to 2022), Recommended Lawyer (2018 and 2019) Prosecution and Strategy 2024 - Gold band for 2 consecutive years, Silver band (2020 to 2022) Transactions 2024 - Recommended Lawyer for 5 consecutive years, IAM Patent 1000 Prosecution 2023 - Highly Recommended Lawyer for 2 consecutive years, Silver band (2020 to 2021), Recommended Lawyer in 2019 Transactions 2023 - Recommended Lawyer for 4 consecutive years
 - URL of LinkedIn/Company Profile: [https://www.drewnapier.com/Our-Lawyers/Yvonne-Tang]( https://www.drewnapier.com/Our-Lawyers/Yvonne-Tang)
 
 **Meryl Koh**
@@ -184,8 +184,8 @@ Drew & Napier is the preferred choice of foreign and domestic governments, gover
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), Dispute Resolution, Contract Drafting, IP Portfolio Management
 - Certifications/Qualifications: LL.B / B.Com (Accounting) (Distinction), University of New South Wales, Australia (2007), Admitted as an Australian Lawyer in the Supreme Court of New South Wales (2008), Admitted to the Singapore Bar (2011)
-- Awards and Accolades: Chambers Asia-Pacific Intellectual Property: Domestic: Litigation 2024 ñ Band 3 for 3 consecutive years, The Legal 500 Asia Pacific Intellectual Property 2024 ñ Next Generation Partner for 8 consecutive years Dispute Resolution 2024 ñ Recommended Lawyer for 3 consecutive years International Arbitration 2022 ñ Recommended Lawyer, Who's Who Legal Global Guide: IP - Patents 2023 ñ Recommended Lawyer for 3 consecutive years Global Guide: Life Sciences - Patent Litigation 2023 ñ Recommended Lawyer for 3 consecutive years, Asian Legal Business Singapore Rising Star 2022 Recognised as being amongst the next generation of leading Singapore's lawyers (Dec 2022 issue), Asian Legal Business Identified as one of 40 bright legal minds in the region under the age of 40 ñ "40 Under 40 list" (October 2019 issue)
-- URL of LinkedIn/Company Profile: <a href="https://www.drewnapier.com/Our-Lawyers/Meryl-Koh" target="_blank" rel="noopener">https://www.drewnapier.com/Our-Lawyers/Meryl-Koh</a>
+- Awards and Accolades: Chambers Asia-Pacific Intellectual Property: Domestic: Litigation 2024 - Band 3 for 3 consecutive years, The Legal 500 Asia Pacific Intellectual Property 2024 - Next Generation Partner for 8 consecutive years Dispute Resolution 2024 - Recommended Lawyer for 3 consecutive years International Arbitration 2022 - Recommended Lawyer, Who‚Äôs Who Legal Global Guide: IP - Patents 2023 - Recommended Lawyer for 3 consecutive years Global Guide: Life Sciences - Patent Litigation 2023 - Recommended Lawyer for 3 consecutive years, Asian Legal Business Singapore Rising Star 2022 Recognised as being amongst the next generation of leading Singapore‚Äôs lawyers (Dec 2022 issue), Asian Legal Business Identified as one of 40 bright legal minds in the region under the age of 40 - ‚Äú40 Under 40 list‚Äù (October 2019 issue)
+- URL of LinkedIn/Company Profile: [https://www.drewnapier.com/Our-Lawyers/Meryl-Koh](https://www.drewnapier.com/Our-Lawyers/Meryl-Koh)
 
 **Hong Lei**
 
@@ -194,7 +194,7 @@ Drew & Napier is the preferred choice of foreign and domestic governments, gover
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search, IP Portfolio Management, IP Due Diligence
 - Certifications/Qualifications: Patent Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search, IP Portfolio Management, IP Due Diligence, Registered Singapore Patent Agent
-- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/lei-hong-04766771/ " target="_blank" rel="noopener">https://www.linkedin.com/in/lei-hong-04766771/</a>
+- URL of LinkedIn/Company Profile: [https://www.linkedin.com/in/lei-hong-04766771/](https://www.linkedin.com/in/lei-hong-04766771/ )
 
 **Melanie Yun**
 
@@ -203,7 +203,8 @@ Drew & Napier is the preferred choice of foreign and domestic governments, gover
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search, IP Portfolio Management, Dispute Resolution
 - Certifications/Qualifications: Registered Singapore Patent Agent, Attorney-at-Law, Registered to Practice in U.S. Jurisdictions of New York
-- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/melanie-yun-69abbb217/" target="_blank" rel="noopener">https://www.linkedin.com/in/melanie-yun-69abbb217/</a>
+- URL of LinkedIn/Company Profile: [https://www.linkedin.com/in/melanie-yun-69abbb217/](https://www.linkedin.com/in/melanie-yun-69abbb217/)
+
 
 
 ---
