@@ -7,6 +7,11 @@ anchorlinks:
     anchor_text: 'Animals & Veterinary Services'
   - anchor: '#arts-media'
     anchor_text: 'Arts & Media'
+  - anchor: '#aviation'
+    anchor_text: 'Aviation'
+  - anchor: '#building-and-construction'
+    anchor_text: 'Building & Construction'
+
 ---
 
 ## Find and apply for licences by agency
@@ -15,7 +20,7 @@ Select a government agency to see its licences and apply for them.
 
 This is a list of licences you can apply for. If you are looking to renew a licence, you can [find licences to renew or amend here](/licences/renew-amend-licence/?src=lic_list_writeup). If you’re not sure which licences you need, browse our [list of e-Advisers for licences](/licences/find-licence-by-sector/?src=lic_list_writeup) to get licence recommendations.
 
-{% include overview.html anchorlinks=page.anchorlinks %}}
+{% include overview.html anchorlinks=page.anchorlinks %}
 
 <a name="animals-veterinary-services"></a>
 
@@ -27,30 +32,36 @@ This is a list of licences you can apply for. If you are looking to renew a lice
 - [Licence for Animal Exhibition](https://dashboard.gobusiness.gov.sg/task-details/animalexhibition)
 - [Licence for Animal Research Facility](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1706211300000021)
 - [Licence for Pet Shop](https://dashboard.gobusiness.gov.sg/task-details/petshop)
-- [Licence for Veterinary Centre]
-- [Licence to Import/Export/Transship for Non-Food Producing Animals, Birds, Eggs and Biologics]
-- [Licence to Import or Export Ornamental Fish]
-- [Licence to Manufacture and Process Feed for Non-food Producing Animals]
-- [Licence to Possess Veterinary Biologics]
-- [Licence to Treat Animals and Birds]
-- [Registration to Import Feed for Non-food producing animals]
-- [Registration to Import Live Frogs for Ornamental Fish Feeding Only]
-- [Veterinary Certificate]
+- [Licence for Veterinary Centre](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1708181600000042)
+- [Licence to Import/Export/Transship for Non-Food Producing Animals, Birds, Eggs and Biologics](https://dashboard.gobusiness.gov.sg/task-details/ietnonfood)
+- [Licence to Import or Export Ornamental Fish](https://dashboard.gobusiness.gov.sg/task-details/importexportornamentalfish)
+- [Licence to Manufacture and Process Feed for Non-food Producing Animals](https://dashboard.gobusiness.gov.sg/task-details/mpfnfpa)
+- [Licence to Possess Veterinary Biologics](https://dashboard.gobusiness.gov.sg/task-details/lpvb)
+- [Licence to Treat Animals and Birds](https://dashboard.gobusiness.gov.sg/task-details/lpvb)
+- [Registration to Import Feed for Non-food producing animals](https://dashboard.gobusiness.gov.sg/task-details/importfeedfornonfoodproducinganimals)
+- [Registration to Import Live Frogs for Ornamental Fish Feeding Only](https://dashboard.gobusiness.gov.sg/task-details/importfrogforornamentalfish)
+- [Veterinary Certificate](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201212070000113)
 
 <a name="arts-media"></a>
 
 ## Arts & Media
-[Arts Entertainment Licence](https://dashboard.gobusiness.gov.sg/task-details/artsentertainmentlicence)
+- [Arts Entertainment Licence](https://dashboard.gobusiness.gov.sg/task-details/artsentertainmentlicence)
+- Computer Online Service Licence(https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10068)
+- Film (Distribution/Exhibition) Licence(https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=15)
+- Nationwide TV Service Licence(https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10064)
+- Newspaper Permit(https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=13)
+- Niche Television Service Licence(https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10065)
+- Printing Press Licence(https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=14)
+- Registration Form C for Class Licensable Broadcasting Services(https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10066)
+- Subscription International Television Service Licence(https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=16)
 
-Computer Online Service Licence
+<a name="aviation"></a>
 
-- Film (Distribution/Exhibition) Licence
-- Nationwide TV Service Licence
-- Newspaper Permit
-- Niche Television Service Licence
-- Printing Press Licence
-- Registration Form C for Class Licensable Broadcasting Services
-- Subscription International Television Service Licence
+## Aviation
+
+<a name="building-and-construction"></a>
+
+## Building & Construction
 
 
 
