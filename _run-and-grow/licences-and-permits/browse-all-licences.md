@@ -32,14 +32,16 @@ This is a list of licences you can apply for. If you are looking to renew a lice
 
 ## Arts & Media
 [Arts Entertainment Licence](https://dashboard.gobusiness.gov.sg/task-details/artsentertainmentlicence)
+
 Computer Online Service Licence
-Film (Distribution/Exhibition) Licence
-Nationwide TV Service Licence
-Newspaper Permit
-Niche Television Service Licence
-Printing Press Licence
-Registration Form C for Class Licensable Broadcasting Services
-Subscription International Television Service Licence
+
+- Film (Distribution/Exhibition) Licence
+- Nationwide TV Service Licence
+- Newspaper Permit
+- Niche Television Service Licence
+- Printing Press Licence
+- Registration Form C for Class Licensable Broadcasting Services
+- Subscription International Television Service Licence
 
 ## C
 
