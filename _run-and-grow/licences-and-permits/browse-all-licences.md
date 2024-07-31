@@ -1,6 +1,6 @@
 ---
-title: Browse licences by Agency
-permalink: /licences/find-licence-by-agency/
+title: Browse all licences
+permalink: /licences/browse-all-licences/
 third_nav_title: Licences and Permits
 ---
 
@@ -12,13 +12,34 @@ This is a list of licences you can apply for. If you are looking to renew a lice
 
 {% include overview-licence.html notice=site.data.ov018-licence-browse-all %}
 
-## A
+## Animals & Veterinary Services
+- [Certificate of Freedom From Disease Within Singapore](https://dashboard.gobusiness.gov.sg/task-details/freedomfromdisease)
+- [Free Sale Certificate (Non Food Producing Animal Feed)](https://dashboard.gobusiness.gov.sg/task-details/fea242ac-ffba-4b7b-856f-39ebe0e9f6cf)
+- [Free Sale Certificate (Vaccine)](https://dashboard.gobusiness.gov.sg/task-details/freesalevaccine)
+- [Health Certificate for Export of Ornamental Fish](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201212070000111)
+- [Licence for Animal Exhibition](https://dashboard.gobusiness.gov.sg/task-details/animalexhibition)
+- [Licence for Animal Research Facility](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1706211300000021)
+- [Licence for Pet Shop](https://dashboard.gobusiness.gov.sg/task-details/petshop)
+- [Licence for Veterinary Centre]
+- [Licence to Import/Export/Transship for Non-Food Producing Animals, Birds, Eggs and Biologics]
+- [Licence to Import or Export Ornamental Fish]
+- [Licence to Manufacture and Process Feed for Non-food Producing Animals]
+- [Licence to Possess Veterinary Biologics]
+- [Licence to Treat Animals and Birds]
+- [Registration to Import Feed for Non-food producing animals]
+- [Registration to Import Live Frogs for Ornamental Fish Feeding Only]
+- [Veterinary Certificate]
 
-{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="a" %}
-
-## B
-
-{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="b" %}
+## Arts & Media
+[Arts Entertainment Licence](https://dashboard.gobusiness.gov.sg/task-details/artsentertainmentlicence)
+Computer Online Service Licence
+Film (Distribution/Exhibition) Licence
+Nationwide TV Service Licence
+Newspaper Permit
+Niche Television Service Licence
+Printing Press Licence
+Registration Form C for Class Licensable Broadcasting Services
+Subscription International Television Service Licence
 
 ## C
 
