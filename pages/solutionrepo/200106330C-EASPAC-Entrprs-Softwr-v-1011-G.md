@@ -23,38 +23,38 @@ EASPAC Enterprise Software for the past 20 years has established itself as a rel
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3 Users</td>
-<td style='padding: 10px;'>$24,700.00</td>
-<td style='padding: 10px;'>$23,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/1_pdfsam_20220259_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Single User</td>
+<td style='padding: 10px;'>$19,225.00</td>
+<td style='padding: 10px;'>$13,225.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Prosperage_EASPAC_01082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>5 Users</td>
-<td style='padding: 10px;'>$28,500.00</td>
-<td style='padding: 10px;'>$27,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/2_pdfsam_20220259_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3 Users (Cloud)</td>
+<td style='padding: 10px;'>$21,825.00</td>
+<td style='padding: 10px;'>$13,225.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Prosperage_EASPAC_01082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 Users</td>
-<td style='padding: 10px;'>$39,500.00</td>
-<td style='padding: 10px;'>$37,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/3_pdfsam_20220259_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3 Users</td>
+<td style='padding: 10px;'>$23,025.00</td>
+<td style='padding: 10px;'>$13,225.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Prosperage_EASPAC_01082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>5 Users (Cloud)</td>
-<td style='padding: 10px;'>$24,000.00</td>
-<td style='padding: 10px;'>$23,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/4_pdfsam_20220259_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$24,825.00</td>
+<td style='padding: 10px;'>$13,225.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Prosperage_EASPAC_01082024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 Users (Cloud)</td>
-<td style='padding: 10px;'>$33,000.00</td>
-<td style='padding: 10px;'>$31,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/5_pdfsam_20220259_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>5 Users</td>
+<td style='padding: 10px;'>$26,825.00</td>
+<td style='padding: 10px;'>$13,225.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Prosperage_EASPAC_01082024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

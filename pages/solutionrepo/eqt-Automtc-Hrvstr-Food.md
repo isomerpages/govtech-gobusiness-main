@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Automtc-Hrvstr-Food
 
 **Description**
 
-A machine used to harvest produce automatically, equipped with a control unit, counter and/or cutting system, to streamline the harvesting process by minimizing manual labour and enhancing manpower productivity. 
+A machine used to harvest produce automatically, equipped with a control unit, counter and/or cutting system, to streamline the harvesting process by minimizing manual labour and enhancing manpower productivity.
 
 ## Solution Packages Option(s)
 

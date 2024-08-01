@@ -28,35 +28,35 @@ Harvest Accounting is a digital-first accounting firm that is passionate about s
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software</td>
 <td style='padding: 10px;'>$670.00</td>
 <td style='padding: 10px;'>$670.00</td>
-<td style='padding: 10px;'><a href='/images/psg/HarvestAccounting_Xero_28122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/HarvestAccounting_Xero_01082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software, Setup</td>
-<td style='padding: 10px;'>$2,350.00</td>
-<td style='padding: 10px;'>$2,350.00</td>
-<td style='padding: 10px;'><a href='/images/psg/HarvestAccounting_Xero_28122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$2,670.00</td>
+<td style='padding: 10px;'>$2,270.00</td>
+<td style='padding: 10px;'><a href='/images/psg/HarvestAccounting_Xero_01082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software, Setup, Trg</td>
-<td style='padding: 10px;'>$3,150.00</td>
-<td style='padding: 10px;'>$3,150.00</td>
-<td style='padding: 10px;'><a href='/images/psg/HarvestAccounting_Xero_28122023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$3,670.00</td>
+<td style='padding: 10px;'>$3,070.00</td>
+<td style='padding: 10px;'><a href='/images/psg/HarvestAccounting_Xero_01082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software, Setup, Migrate</td>
-<td style='padding: 10px;'>$3,470.00</td>
-<td style='padding: 10px;'>$3,470.00</td>
-<td style='padding: 10px;'><a href='/images/psg/HarvestAccounting_Xero_28122023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$3,870.00</td>
+<td style='padding: 10px;'>$3,070.00</td>
+<td style='padding: 10px;'><a href='/images/psg/HarvestAccounting_Xero_01082024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software, Setup, Migrate, Trg</td>
-<td style='padding: 10px;'>$4,270.00</td>
-<td style='padding: 10px;'>$4,270.00</td>
-<td style='padding: 10px;'><a href='/images/psg/HarvestAccounting_Xero_28122023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$4,870.00</td>
+<td style='padding: 10px;'>$3,870.00</td>
+<td style='padding: 10px;'><a href='/images/psg/HarvestAccounting_Xero_01082024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
