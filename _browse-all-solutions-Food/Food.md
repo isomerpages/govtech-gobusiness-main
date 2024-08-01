@@ -76,7 +76,7 @@ This solution is supported by Singapore Food Agency (SFA).
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Crt-Try-wshng-mchn-Food' target='_blank'>Crate/ Tray washing machine</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-automatic-washer-sanitizer' target='_blank'>Automatic washer/sanitizer</a><br></td>
 <td></td>
 </tr>
 <tr>
@@ -96,15 +96,15 @@ This solution is supported by Singapore Food Agency (SFA).
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Frm-Procssng-Mchn-Food' target='_blank'>Farm Processing Machine</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Frm-Procssng-Mchn-Food' target='_blank'>Farm Produce Processing Machine</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Frm-Wshng-sys-Food' target='_blank'>Farm Washing System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Frm-Wshng-sys-Food' target='_blank'>Egg Washing System</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Enhncd-dsnfcton-systm-Food' target='_blank'>Enhanced disinfection system</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Enhncd-dsnfcton-systm-Food' target='_blank'>Enhanced disinfection/decontamination system</a><br></td>
 <td></td>
 </tr>
 <tr>
@@ -112,7 +112,7 @@ This solution is supported by Singapore Food Agency (SFA).
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Hjck-Clnng-Mchnry-Food' target='_blank'>Hi-jack Cleaning Machinery</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Hjck-Clnng-Mchnry-Food' target='_blank'>High Pressure Water Jet Cleaning Machinery</a><br></td>
 <td></td>
 </tr>
 <tr>
@@ -140,7 +140,7 @@ This solution is supported by Singapore Food Agency (SFA).
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Psturston-Eqt-Plnt-Food' target='_blank'>Pasteurisation Equipment/ Plant</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Psturston-Eqt-Plnt-Food' target='_blank'>Milk Pasteurisation Equipment/ Plant</a><br></td>
 <td></td>
 </tr>
 <tr>
@@ -152,7 +152,7 @@ This solution is supported by Singapore Food Agency (SFA).
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Robot-Clnr--Food' target='_blank'>Robot Cleaner </a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Robot-Clnr--Food' target='_blank'>Automated Cleaning Robot/System </a><br></td>
 <td></td>
 </tr>
 <tr>
@@ -168,7 +168,7 @@ This solution is supported by Singapore Food Agency (SFA).
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Vcuum-Coolr-Eqt-Food' target='_blank'>Vacuum Cooler Equipment</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Vcuum-Coolr-Eqt-Food' target='_blank'>Cooler Equipment / Walk-in Cold Room</a><br></td>
 <td></td>
 </tr>
 <tr>
@@ -200,7 +200,7 @@ This solution is supported by Singapore Food Agency (SFA).
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-HVAC-systm-Food' target='_blank'>HVAC system</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-HVAC-systm-Food' target='_blank'>Heating, Ventilation and Air-conditioning (HVAC) system</a><br></td>
 <td></td>
 </tr>
 <tr>
@@ -228,7 +228,19 @@ This solution is supported by Singapore Food Agency (SFA).
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Fsh-fry-qurntn-tnk-systm-Food' target='_blank'>Fish fry quarantine tank system</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Fsh-fry-qurntn-tnk-systm-Food' target='_blank'>Aquaculture fry quarantine tank system</a><br></td>
+<td></td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Waste-discharge-treatment-system' target='_blank'>Waste / discharge treatment system</a><br></td>
+<td></td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Aquaculture-health-disease-diagnostic-equipment' target='_blank'>Aquaculture health and disease diagnostic equipment</a><br></td>
+<td></td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Automated-feed-manufacturing-system' target='_blank'>Automated Feed Manufacturing System</a><br></td>
 <td></td>
 </tr>
 </table>

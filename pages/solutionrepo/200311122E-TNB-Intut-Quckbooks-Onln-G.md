@@ -26,35 +26,35 @@ TNB supports Quickbooks online software and users can access QuickBooks from PC,
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simple Start</td>
 <td style='padding: 10px;'>$965.00</td>
 <td style='padding: 10px;'>$965.00</td>
-<td style='padding: 10px;'><a href='https://gobusiness.gov.sg/images/psg/TNB_GLOBAL_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/TNB_GLOBAL_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic Level</td>
 <td style='padding: 10px;'>$2,465.00</td>
 <td style='padding: 10px;'>$2,465.00</td>
-<td style='padding: 10px;'><a href='https://gobusiness.gov.sg/images/psg/TNB_GLOBAL_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/TNB_GLOBAL_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advance Level</td>
 <td style='padding: 10px;'>$3,965.00</td>
 <td style='padding: 10px;'>$3,965.00</td>
-<td style='padding: 10px;'><a href='https://gobusiness.gov.sg/images/psg/TNB_GLOBAL_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/TNB_GLOBAL_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Level</td>
 <td style='padding: 10px;'>$4,815.00</td>
 <td style='padding: 10px;'>$4,815.00</td>
-<td style='padding: 10px;'><a href='https://gobusiness.gov.sg/images/psg/TNB_GLOBAL_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/TNB_GLOBAL_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Full Transformation (large)</td>
 <td style='padding: 10px;'>$7,965.00</td>
 <td style='padding: 10px;'>$7,965.00</td>
-<td style='padding: 10px;'><a href='https://gobusiness.gov.sg/images/psg/TNB_GLOBAL_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/TNB_GLOBAL_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

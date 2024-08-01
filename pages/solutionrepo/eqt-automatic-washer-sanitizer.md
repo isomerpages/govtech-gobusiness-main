@@ -1,15 +1,15 @@
 ---
-title: 'Crate/ Tray washing machine'
-permalink: /productivity-solutions-grant/solutionrepo/eqt-Crt-Try-wshng-mchn-Food
+title: 'Automatic washer/sanitizer'
+permalink: /productivity-solutions-grant/solutionrepo/eqt-automatic-washer-sanitizer
 ---
 
-## Crate/ Tray washing machine
+## Automatic washer/sanitizer
 
 ## Overview
 
 **Description**
 
-A machine used to wash crates and trays used for farming.
+A machine designed for the cleaning of growing equipment (tanks, hydroponics trough, barrels, crates, trays etc.) used for farming. This equipment ensures thorough washing and sanitization, promoting hygiene and cleanliness in agricultural operations by efficiently removing dirt, residues, and potential contaminants.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A machine used to wash crates and trays used for farming.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Crate/ Tray washing machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic washer/sanitizer</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
