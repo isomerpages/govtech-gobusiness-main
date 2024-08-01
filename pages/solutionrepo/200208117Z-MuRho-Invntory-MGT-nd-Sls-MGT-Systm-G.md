@@ -26,21 +26,21 @@ MuRho is a leading home-grown provider of inventory & sales order management sys
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter Pack A (SaaS with hardware)</td>
 <td style='padding: 10px;'>$6,000.00</td>
 <td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Murho_InventoryAndSales_21032024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Murho_InventoryAndSales_01082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter Pack B (Perpetual license on cloud with hardware)</td>
 <td style='padding: 10px;'>$8,000.00</td>
 <td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Murho_InventoryAndSales_21032024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Murho_InventoryAndSales_01082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter Pack C (Perpetual license on cloud with hardware)</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Murho_InventoryAndSales_21032024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$9,140.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Murho_InventoryAndSales_01082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

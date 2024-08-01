@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Collcton-syss-Food
 
 **Description**
 
-An automatic collector used to collect produce eggs, which can reduce the egg damage rate.
+Automatic collector used to collect eggs, which can also reduce the egg damage rate.
 
 ## Solution Packages Option(s)
 

@@ -24,30 +24,23 @@ Quickbooks is an universal accounting software that provides a complete list of 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution A (Software only)</td>
-<td style='padding: 10px;'>$603.60</td>
-<td style='padding: 10px;'>$540.00</td>
-<td style='padding: 10px;'><a href='/images/psg/CloudAccounting_CFOsg_28122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$636.00</td>
+<td style='padding: 10px;'>$600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CloudAccounting_CFOsg_01082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution B (Software + Setup)</td>
-<td style='padding: 10px;'>$3,003.60</td>
-<td style='padding: 10px;'>$2,940.00</td>
-<td style='padding: 10px;'><a href='/images/psg/CloudAccounting_CFOsg_28122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$3,036.00</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CloudAccounting_CFOsg_01082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution C (Software + Setup + Training Plus)</td>
-<td style='padding: 10px;'>$4,403.60</td>
-<td style='padding: 10px;'>$4,340.00</td>
-<td style='padding: 10px;'><a href='/images/psg/CloudAccounting_CFOsg_28122023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution D (Software + Setup Plus + Training Plus)</td>
-<td style='padding: 10px;'>$5,803.60</td>
-<td style='padding: 10px;'>$5,740.00</td>
-<td style='padding: 10px;'><a href='/images/psg/CloudAccounting_CFOsg_28122023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$4,436.00</td>
+<td style='padding: 10px;'>$3,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CloudAccounting_CFOsg_01082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
