@@ -22,9 +22,9 @@ collections:
       - business-grants-portal/faq.md
       - licences-and-permits/.keep
       - licences-and-permits/about.md
-      - licences-and-permits/browse-licences-by-agency.md
       - licences-and-permits/find-licence-by-sector.md
       - licences-and-permits/browse-all-licences.md
+      - licences-and-permits/browse-licences-by-agency.md
       - licences-and-permits/renew-amend-licence.md
       - licences-and-permits/submit-returns.md
       - licences-and-permits/faq.md
