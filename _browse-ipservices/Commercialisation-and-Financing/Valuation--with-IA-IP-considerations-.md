@@ -23,7 +23,7 @@ One major benefit of valuation services that incorporate IA/IP considerations is
 ---
 
 ### Connect with relevant service providers for valuation services (with IA/IP considerations)
-**31 service providers listed.**
+**32 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -346,6 +346,22 @@ The local valuation specialists of Intangible Assets and Intellectual Property i
 </ul>
 
 <a class='btn' href='https://form.gov.sg/64d5eb027c3c4600111e1e8d' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/business-valuation-singapore/){:target='_blank'}
+
+---
+
+#### Savills Valuation and Professional Services (S) Pte. Ltd.
+
+Experienced valuers for various assets including IA/IP, PPE, equity, debt and financial instrument.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Discount and free consultation will be assessed on a case-by-case basis.</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/669dc2ddd1b78cf997a37127' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/savills-valuation-and-professional-services--s--pte-ltd/){:target='_blank'}
 
 ---
 
