@@ -82,7 +82,7 @@ We will be with you on every step of your journey to create, optimise and protec
 - Location: Singapore
 - IA/IP-Related Expertise: Valuation (with IA/IP considerations), Dispute Resolution
 - Certifications/Qualifications: Chartered Valuer and Appraiser (Singapore), Chartered Accountant (Singapore), Chartered Financial Analyst (USA)
-- URL of LinkedIn/Company Profile: <a href="https:// www.linkedin.com/in/chuanjie/" target="_blank" rel="noopener">https:// www.linkedin.com/in/chuanjie/</a>
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/chuanjie/" target="_blank" rel="noopener">https:// www.linkedin.com/in/chuanjie/</a>
 
 **Wei Lin Wong**
 - Job Title: Manager
@@ -90,7 +90,7 @@ We will be with you on every step of your journey to create, optimise and protec
 - Location: Singapore
 - IA/IP-Related Expertise: Valuation (with IA/IP considerations)
 - Certifications/Qualifications: Chartered Valuer and Appraiser (Singapore), Association of Chartered Certified Accountants
-- URL of LinkedIn/Company Profile: <a href="https:// linkedin.com/in/wei-lin-wong-903131aa" target="_blank" rel="noopener">https:// linkedin.com/in/wei-lin-wong-903131aa</a>
+- URL of LinkedIn/Company Profile: <a href="https://linkedin.com/in/wei-lin-wong-903131aa" target="_blank" rel="noopener">https:// linkedin.com/in/wei-lin-wong-903131aa</a>
 
 
 ---

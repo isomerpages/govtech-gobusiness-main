@@ -191,7 +191,7 @@ Drew & Napier is the preferred choice of foreign and domestic governments, gover
 - Years of Experience: 10 years
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search, IP Portfolio Management, IP Due Diligence
-- Certifications/Qualifications: Patent Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search, IP Portfolio Management, IP Due Diligence, Registered Singapore Patent Agent
+- Certifications/Qualifications: Ph. D in Engineering, Registered Singapore Patent Agent
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/lei-hong-04766771/ " target="_blank" rel="noopener">https://www.linkedin.com/in/lei-hong-04766771/</a>
 
 **Melanie Yun**
