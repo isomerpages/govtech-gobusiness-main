@@ -1,12 +1,12 @@
 collections:
-  run-and-grow:
+  licences-and-permits:
     output: true
     order:
       - about.md
       - find-licence-by-sector.md
       - browse-all-licences.md
-      - renew-amend-licence.md
       - browse-licences-by-agency.md
+      - renew-amend-licence.md
       - submit-returns.md
       - faq.md
 
