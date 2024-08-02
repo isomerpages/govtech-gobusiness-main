@@ -91,7 +91,7 @@ Humankind Design is a research and design studio that works with businesses to r
 - Location: Singapore
 - IA/IP-Related Expertise: Branding Strategy
 - Certifications/Qualifications: Practising Management Consultant by Singapore Business Advisors & Consultants Council, Certified Brand Specialist by Level C, Business Innovation by IDEO U, Designing a Business by IDEO U, Designing Strategy by IDEO U
-- URL of LinkedIn/Company Profile: <a href="https://linkedin.com/in/juhus" target="_blank" rel="noopener">https:// linkedin.com/in/juhus</a>
+- URL of LinkedIn/Company Profile: <a href="https://linkedin.com/in/juhus" target="_blank" rel="noopener">https://linkedin.com/in/juhus</a>
 
 **Jemima, Song**
 - Job Title: Design Director
