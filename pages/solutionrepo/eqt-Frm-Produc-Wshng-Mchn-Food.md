@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Frm-Produc-Wshng-Mchn-
 
 **Description**
 
-A machine to wash produce before packing, it effectively separates the impurities and degrade the residual pesticides.
+A machine to wash produce before packaging, it effectively separates the impurities and degrade the residual pesticides.
 
 ## Solution Packages Option(s)
 

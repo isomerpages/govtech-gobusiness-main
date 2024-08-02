@@ -24,23 +24,23 @@ ZETTAPPS is an integrated Accounting, Order Processing, and Multi Currencies ERP
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - SME</td>
-<td style='padding: 10px;'>$13,800.00</td>
-<td style='padding: 10px;'>$12,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zetta_ZETTAPPSFinance_&_Order_Processing_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$13,860.00</td>
+<td style='padding: 10px;'>$11,010.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zetta_FinanceOrder_01082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - Premium</td>
-<td style='padding: 10px;'>$16,800.00</td>
-<td style='padding: 10px;'>$15,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zetta_ZETTAPPSFinance_&_Order_Processing_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$16,860.00</td>
+<td style='padding: 10px;'>$12,850.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zetta_FinanceOrder_01082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C - Enterprise</td>
-<td style='padding: 10px;'>$19,800.00</td>
-<td style='padding: 10px;'>$18,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zetta_ZETTAPPSFinance_&_Order_Processing_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$20,160.00</td>
+<td style='padding: 10px;'>$12,850.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zetta_FinanceOrder_01082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

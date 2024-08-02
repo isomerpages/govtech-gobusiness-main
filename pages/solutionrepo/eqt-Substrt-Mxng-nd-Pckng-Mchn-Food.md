@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Substrt-Mxng-nd-Pckng-
 
 **Description**
 
-A machine that mix and fill substrate bags with various nutrients that's necessary for growing of crops.
+A machine to mix and fill substrate bags/planting trays with various growing substrates/media that are necessary for growing of crops.
 
 ## Solution Packages Option(s)
 
