@@ -4,11 +4,14 @@ title: Implementation of GST InvoiceNow Requirement for GST-Registered Businesse
 permalink: /news-and-updates/updates/gst-invoicenow-requirement
 preview: |
   Implementation of GST InvoiceNow Requirement for GST-Registered Businesses
+image: /images/news/news_gst_invoicenow.jpg
 ---
 
 ### Implementation of GST InvoiceNow Requirement for GST-Registered Businesses
 
 ---
+
+![Implementation of GST InvoiceNow Requirement for GST-Registered Businesses](/images/news/news_gst_invoicenow.jpg)
 
 InvoiceNow is the nationwide e-invoicing network that enables companies of all sizes to process invoices in a more efficient manner, reducing business costs and shortening payment cycles. InvoiceNow operates on the open standard Peppol framework, which directly transmits e-invoices in a standard digital format across different finance systems. It was introduced by the Infocomm Media Development Authority ("IMDA") in 2019.
 
