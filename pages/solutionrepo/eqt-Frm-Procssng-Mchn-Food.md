@@ -1,15 +1,15 @@
 ---
-title: 'Farm Processing Machine'
+title: 'Farm Produce Processing Machine'
 permalink: /productivity-solutions-grant/solutionrepo/eqt-Frm-Procssng-Mchn-Food
 ---
 
-## Farm Processing Machine
+## Farm Produce Processing Machine
 
 ## Overview
 
 **Description**
 
-Integrated processing system to process produce into value-added products
+Standalone or integrated processing system to process produce into value-added products. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Integrated processing system to process produce into value-added products
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Farm Processing Machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Farm Produce Processing Machine</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

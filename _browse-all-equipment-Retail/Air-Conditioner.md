@@ -40,22 +40,32 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Daikin - RXMUQ5AVEG
 - Daikin - RXMUQ6AVEG
 - Daikin - RXQ10AYM
+- Daikin - RXQ10AYMG
 - Daikin - RXQ10AYMW
 - Daikin - RXQ12AYM
+- Daikin - RXQ12AYMG
 - Daikin - RXQ12AYMW
 - Daikin - RXQ6AYM
+- Daikin - RXQ6AYMG
 - Daikin - RXQ6AYMW
 - Daikin - RXUQ10AYM
+- Daikin - RXUQ10AYMG
 - Daikin - RXUQ10AYMW
 - Daikin - RXUQ12AYM
+- Daikin - RXUQ12AYMG
 - Daikin - RXUQ12AYMW
 - Daikin - RXUQ14AYM
+- Daikin - RXUQ14AYMG
 - Daikin - RXUQ14AYMW
 - Daikin - RXUQ16AYM
+- Daikin - RXUQ16AYMG
 - Daikin - RXUQ16AYMW
+- Daikin - RXUQ16AYMWG
 - Daikin - RXUQ6AYM
+- Daikin - RXUQ6AYMG
 - Daikin - RXUQ6AYMW
 - Daikin - RXUQ8AYM
+- Daikin - RXUQ8AYMG
 - Daikin - RXUQ8AYMW
 - Enovatek Energy - EES-ADC09GW-XA-32R+5
 - Enovatek Energy - EES-ADC12GW-XA-32R+5

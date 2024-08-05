@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Automtc-Sd-Sowng-Mchn-
 
 **Description**
 
-A machine that sow seeds at a specified depth and position and ensures uniform and consistent seed distribution
+Automatic Seed Sowing Machine designed to streamline the sowing process, ensuring uniform seed placement at optimal depths and spacing. It may include an automatic substrate mixer and tray filling machines as part of an integrated system.
 
 ## Solution Packages Option(s)
 

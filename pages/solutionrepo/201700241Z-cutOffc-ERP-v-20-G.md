@@ -27,28 +27,28 @@ This innovative solution revolutionizes HR management with its user-friendly, cl
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>cuteOffice ERP HRM 2.0 (25 employees) </td>
 <td style='padding: 10px;'>$6,200.00</td>
 <td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Cutech_cuteOffice_13062024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Cutech_cuteOffice_13062024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>cuteOffice ERP HRM 2.0 (50 employees)</td>
 <td style='padding: 10px;'>$9,900.00</td>
 <td style='padding: 10px;'>$9,600.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Cutech_cuteOffice_13062024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Cutech_cuteOffice_13062024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>cuteOffice ERP HRM 2.0 (100 employees)</td>
 <td style='padding: 10px;'>$13,600.00</td>
 <td style='padding: 10px;'>$13,600.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Cutech_cuteOffice_13062024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Cutech_cuteOffice_13062024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>cuteOffice ERP HRM 2.0 (150 employees) </td>
 <td style='padding: 10px;'>$19,800.00</td>
 <td style='padding: 10px;'>$19,800.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Cutech_cuteOffice_13062024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Cutech_cuteOffice_13062024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
