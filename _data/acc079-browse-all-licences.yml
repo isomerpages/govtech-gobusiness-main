@@ -2554,8 +2554,7 @@
 
         Companies are required to have Security Agency (SA) Licence if they are providing security officers to their clients as defined in Section 13 of the Private Security Industry Act Cap 250A. Only Companies with Security Agency (SA) licence can accept assignments from clients.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=46" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Security-Agency-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Security-Agency-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/security-agency" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Security-Agency-Licence">View Licence Details</a>
 
         -----
         **Security Clearance for Special Worker (Add New Employee)**
@@ -2578,8 +2577,7 @@
         d) in respect of any public place or...
         
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=245" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Security-Officer's-Licence-(SO)" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Security-Officer's-Licence-(SO)">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/security-officer" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Security-Officer-Licence">View Licence Details</a>
 
         -----
         **Security Service Provider Licence**
