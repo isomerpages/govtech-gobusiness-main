@@ -3,7 +3,7 @@ layout: post
 title: Implementation of GST InvoiceNow Requirement for GST-Registered Businesses
 permalink: /news-and-updates/updates/gst-invoicenow-requirement
 preview: |
-  Implementation of GST InvoiceNow Requirement for GST-Registered Businesses
+  Implementation of GST InvoiceNow Requirement for GST-Registered Businesses (requires short desc for preview)
 image: /images/news/news_gst_invoicenow.jpg
 ---
 
