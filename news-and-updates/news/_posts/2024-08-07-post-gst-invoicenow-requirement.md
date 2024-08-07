@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New GST InvoiceNow Requirement for GST-registered businesses
-permalink: /news-and-updates/updates/gst-invoicenow-requirement
+permalink: /news-and-updates/news/gst-invoicenow-requirement
 preview: |
   GST-registered businesses are now required to share invoice data with IRAS using InvoiceNow solutions. This change will be rolled out progressively from 1 November 2025.
 image: /images/news/news_gst_invoicenow.jpg
