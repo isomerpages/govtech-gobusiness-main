@@ -49,10 +49,35 @@ Learn more about your company's Corporate Income Tax filing obligations from thi
 
 You will need to register for GST if:
 
-- Your taxable turnover for the past 12 months has exceeded $1 million or
+- Your taxable turnover for the past calendar year has exceeded $1 million or
 - You can reasonably expect your taxable turnover in the next 12 months to exceed $1 million
 
 If your yearly taxable turnover does not exceed $1 million, you may still choose to [voluntarily register for GST](https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/factors-to-consider-before-registering-voluntarily-for-gst){:target="_blank"}{:rel="noopener"} after carefully considering the obligations and responsibilities of being GST-registered.
+
+### GST InvoiceNow Requirement
+
+If you intend to register for GST voluntarily, you will be required to share invoice data with IRAS using InvoiceNow solutions via the InvoiceNow network. This new requirement will be implemented in phases:
+
+- From 1 November 2025, for newly incorporated companies (i.e. companies that are incorporated within 6 months from the time they submit their application for GST registration) that register for GST voluntarily.
+- From 1 April 2026, for all new voluntary GST-registrants, regardless of incorporation date or business constitution. 
+
+The GST InvoiceNow Requirement will be implemented in future for the remaining GST-registered businesses. IRAS will continue to consult industry partners and carefully review the feedback before announcing further details. 
+
+A soft launch will commence from 1 May 2025 for early adopters<sup>1</sup> that wish to share invoice data with IRAS using InvoiceNow solutions. Click to read more about the [GST InvoiceNow requirement](https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-invoicenow-requirement){:target="_blank"}{:rel="noopener"}.
+
+<sup>1</sup> <small>Includes existing GST-registered businesses as well as any other businesses applying for GST registration on/after 1 May 2025.</small>
+
+We encourage businesses to plan ahead for the adoption of InvoiceNow solutions or make changes to your in-house accounting systems to be compatible with the GST InvoiceNow Requirement. There are 4 steps:
+
+<ins>From now</ins>
+- Step 1: Ensure that your solution is InvoiceNow-enabled
+- Step 2: Register for InvoiceNow and obtain your Peppol ID
+
+<ins>From May 2025</ins>
+- Step 3: Ensure that your InvoiceNow solution is connected to IRAS’ system via Application Programming Interface (API) technology
+- Step 4: Activate the feature to transmit invoice data to IRAS
+
+For more information on coming onboard early, please visit [IRAS' website](https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-invoicenow-requirement#heading4){:target="_blank"}{:rel="noopener"}. 
 
 ### How to calculate my taxable turnover?
 
