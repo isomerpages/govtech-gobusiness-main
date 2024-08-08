@@ -33,6 +33,9 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Electrolux  - EDH804H3WB
 - Electrolux  - EDH804H5WB
 - Electrolux  - EDH903R9WB
+- Electrolux Professional  - TD6-14
+- Electrolux Professional  - TD6-20
+- Electrolux Professional  - TD6-7
 - Imesa  - GL ES 10 EC
 - Imesa  - GL ES 14 EC
 - Imesa  - GL ES 18 EC

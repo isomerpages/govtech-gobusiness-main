@@ -1,15 +1,15 @@
 ---
-title: 'Vacuum Cooler Equipment'
+title: 'Cooler Equipment / Walk-in Cold Room'
 permalink: /productivity-solutions-grant/solutionrepo/eqt-Vcuum-Coolr-Eqt-Food
 ---
 
-## Vacuum Cooler Equipment
+## Cooler Equipment / Walk-in Cold Room
 
 ## Overview
 
 **Description**
 
-A system that rapidly cools from produce to extend shelf life and be more energy efficient. 
+This includes vacuum cooler equipment for rapid cooling of produce to extend shelf life, as well as industrial-grade air blower units used to cool the post-harvest processing room. Also includes walk-in cold room meant for post-harvest products.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A system that rapidly cools from produce to extend shelf life and be more energy
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vacuum Cooler Equipment</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cooler Equipment / Walk-in Cold Room</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

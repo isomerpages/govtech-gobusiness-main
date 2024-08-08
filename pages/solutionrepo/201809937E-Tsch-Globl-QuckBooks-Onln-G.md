@@ -23,38 +23,38 @@ Tisch Global Corporate Advisory is offering QuickBooks Online , a seamless cloud
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic Package (Subscription and Basic Setup)</td>
-<td style='padding: 10px;'>$1,517.00</td>
-<td style='padding: 10px;'>$1,415.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_QuickBooks_Online_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic Package (Subscription Only)</td>
+<td style='padding: 10px;'>$540.00</td>
+<td style='padding: 10px;'>$540.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_QuickBooks_Online_01082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite Package (Subscription, Setup and Training)</td>
-<td style='padding: 10px;'>$2,017.00</td>
-<td style='padding: 10px;'>$1,915.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_QuickBooks_Online_26102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite Package (Subscription, Basic Setup and Training)</td>
+<td style='padding: 10px;'>$1,290.00</td>
+<td style='padding: 10px;'>$1,290.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_QuickBooks_Online_01082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Package (Subscription, Setup, Basic Migration and Training)</td>
-<td style='padding: 10px;'>$3,642.00</td>
-<td style='padding: 10px;'>$3,540.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_QuickBooks_Online_26102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Package (Subscription, Basic Setup, Migration and Training)</td>
+<td style='padding: 10px;'>$2,415.00</td>
+<td style='padding: 10px;'>$2,415.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_QuickBooks_Online_01082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Medium Package (Subscription, Setup, Training, Detailed Migration & Customisation)</td>
-<td style='padding: 10px;'>$6,142.00</td>
-<td style='padding: 10px;'>$6,040.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_QuickBooks_Online_26102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Medium Package (Subscription, Customised Setup, Migration and Training)</td>
+<td style='padding: 10px;'>$2,977.50</td>
+<td style='padding: 10px;'>$2,977.50</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_QuickBooks_Online_01082024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Large Package (Subscription, Setup, Training, Detailed Migration & Customisation)</td>
-<td style='padding: 10px;'>$8,142.00</td>
-<td style='padding: 10px;'>$7,290.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_QuickBooks_Online_26102023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Large Package (Subscription, Customised Setup, Customised Migration and Training)</td>
+<td style='padding: 10px;'>$4,140.00</td>
+<td style='padding: 10px;'>$4,140.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_QuickBooks_Online_01082024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

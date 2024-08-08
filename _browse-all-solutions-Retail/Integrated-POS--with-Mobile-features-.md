@@ -48,8 +48,8 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>EPOS Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201230283H-RvnPOS-Entrprs-Rtl-Busnss-Sut-v-12-G' target='_blank'>RavenPOS Enterprise Retail Business Suite Version 12</a><br></td>
-<td>Nspire Group Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201224387N-EZYSALES-RETAIL-POS-v-10-G' target='_blank'>EZYSALES RETAIL POS Version 1.0</a><br></td>
+<td>WINAPP SOLUTIONS PTE LTD</td>
 </tr>
 </table>
 

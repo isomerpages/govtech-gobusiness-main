@@ -24,37 +24,37 @@ Quickbooks is a One-stop Solution for all accounting needs. With the help of Qui
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Subscription Only</td>
-<td style='padding: 10px;'>$740.00</td>
-<td style='padding: 10px;'>$740.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zenit_Quickbook_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$888.00</td>
+<td style='padding: 10px;'>$788.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zenit_Quickbook_01082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Setup & Subscription</td>
-<td style='padding: 10px;'>$2,940.00</td>
-<td style='padding: 10px;'>$2,940.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zenit_Quickbook_26102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$3,588.00</td>
+<td style='padding: 10px;'>$2,588.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zenit_Quickbook_01082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Setup, Subscription & Training</td>
-<td style='padding: 10px;'>$3,740.00</td>
-<td style='padding: 10px;'>$3,740.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zenit_Quickbook_26102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$4,788.00</td>
+<td style='padding: 10px;'>$3,388.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zenit_Quickbook_01082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Setup, Subscription, Training & Opening Balance Input</td>
-<td style='padding: 10px;'>$4,540.00</td>
-<td style='padding: 10px;'>$4,540.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zenit_Quickbook_26102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$6,988.00</td>
+<td style='padding: 10px;'>$3,788.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zenit_Quickbook_01082024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Setup, Subscription, Training & Migration of Past Year Data</td>
-<td style='padding: 10px;'>$7,740.00</td>
-<td style='padding: 10px;'>$7,740.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zenit_Quickbook_26102023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$8,588.00</td>
+<td style='padding: 10px;'>$3,788.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zenit_Quickbook_01082024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

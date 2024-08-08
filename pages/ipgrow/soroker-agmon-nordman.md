@@ -199,35 +199,30 @@ Soroker Agmon Nordman is a foreign law firm founded by Jonathan Agmon in Singapo
 - Awards/Accolades: Listed as IP Experts for Patents, Trademarks, Licensing & Franchising with ASIAIP, Trade Mark Star 2023 (Singapore) with IPSTAR, Recommended as Global Leader for IP-Trademarks 2022, as National Leader for Southeast Asia-Patents 2022 and Trademarks 2022 with WWL, Bronze (Singapore) with WTR1000, Chambers Global 2023 Band 3 (Intellectual Property)
 - URL of LinkedIn/Company Profile: <a href="https://sanlaw.legal/team-member/jonathan-agmon-2" target="_blank" rel="noopener">https://sanlaw.legal/team-member/jonathan-agmon-2</a>
 
-**Jocelyn Toh**
+**Yi Xun Ng**
 
-- Job Title: Advocate & Solicitor
-- Years of Experience: 6 years
+- Job Title: Associate
+- Years of Experience: 4 years
 - Location: Singapore
 - IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, Branding Strategy, Contract Drafting
 - Certifications/Qualifications: Solicitor in Singapore
-- URL of LinkedIn/Company Profile: <a href="https://sanlaw.legal/team-member/jocelyn_toh" target="_blank" rel="noopener">https://sanlaw.legal/team-member/jocelyn_toh</a>
+- URL of LinkedIn/Company Profile: <a href="https://sanlaw.legal/team-member/yi-xun_ng-2-2/" target="_blank" rel="noopener">https://sanlaw.legal/team-member/yi-xun_ng-2-2/</a>
 
-**Edy Rusbandi**
 
+**Liangshu Huang**
 - Job Title: Patent Associate
-- Years of Experience: 7 years
+- Years of Experience: 10 years
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Watch, IP Audit, Dispute Resolution
-- Certifications/Qualifications: Certified Patent Valuation Analyst (CPVA)
-- URL of LinkedIn/Company Profile: <a href="https://sanlaw.legal/team-member/edy-rusbandi" target="_blank" rel="noopener">https://sanlaw.legal/team-member/edy-rusbandi</a>
+- Certifications/Qualifications: Graduate Certificate in Intellectual Property Law, National University of Singapore
+- URL of LinkedIn/Company Profile: <a href="https://sanlaw.legal/team-member/liangshu-huang-2-2-2/" target="_blank" rel="noopener">https://sanlaw.legal/team-member/liangshu-huang-2-2-2/</a>
 
-**Stephanie Chan**
 
-- Job Title: Associate
-- Years of Experience: 2 years
-- Location: Singapore
-- IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Portfolio Management, Contract Drafting
-- Certifications/Qualifications: Solicitor in Singapore
-- URL of LinkedIn/Company Profile: <a href="https://sanlaw.legal/team-member/stephanie-chan" target="_blank" rel="noopener">https://sanlaw.legal/team-member/stephanie-chan</a>
+
+
 
 ---
 <p>
 <a class='btn' href='https://form.gov.sg/64211b0687c432001261c163' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 10 Jul 2024
