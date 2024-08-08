@@ -695,14 +695,7 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        You should apply for a Localised Radio-communication Station Licence to operate any of the following equipment:
-        - Local area paging devices
-        - Radio frequency remote control devices
-        - Telemetry or alarm systems or both
-        - Transceivers (CB walkies talkies)
-        - Wireless data or voice systems
-        - Wireless microphones
-        - Any other radio-communication equipment as authorised by IMDA
+        For operating a multi-channel radio-communication network (such as walkie talkie network) on a shared-use basis and within a localised area.
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/lpnmulti" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Localised-Private-Network-(Multi-Channel-Radiocom-Networks-and-Systems)">View Licence Details</a>
 
@@ -722,13 +715,11 @@
         -----
         **Localised Radio-Communication Station Licence**
 
-        <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
-
         You should apply for a Localised Radio-communication Station Licence to operate any of the following equipment:
         - Local area paging devices
         - Radio frequency remote control devices
         - Telemetry or alarm systems or both
-        - Transceivers
+        - Transceivers (CB walkies talkies)
         - Wireless data or voice systems
         - Wireless microphones
         - Any other radio-communication equipment as authorised by IMDA
