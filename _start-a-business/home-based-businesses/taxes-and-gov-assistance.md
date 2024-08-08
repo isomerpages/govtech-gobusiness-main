@@ -40,7 +40,7 @@ Read more about [GST registration](https://www.iras.gov.sg/irashome/GST/Non-GST-
 
 If you are intending to register for GST voluntarily, you will be required to share invoice data with IRAS using InvoiceNow solutions via the InvoiceNow network. 
 
-This new requirement will be implemented from 1 November 2025, starting with newly incorporated companies that register for GST voluntarily. 
+This new requirement will be implemented in phases from 1 November 2025, starting with newly incorporated companies that register for GST voluntarily. 
 
 For more information on the GST InvoiceNow requirements and deadlines, please visit [IRAS' website](https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-invoicenow-requirement){:target="_blank"}{:rel="noopener"}.
 
