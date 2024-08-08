@@ -14,9 +14,9 @@ Register for an account with the links below, if you wish to apply for licences 
 
 **IMDA**
 <br>[Account Registration Form (IMDA licences)](https://go.gov.sg/imda-sfa)
-<br>To apply for NParks licences, please complete this form.
+<br>To apply for IMDA licences, please complete this form.
 
-<br>Other government agencies will be added here in the coming months. For non-Singapore based businesses and entities, please click here.
+<br>Other government agencies will be added here in the coming months. For non-Singapore based businesses and entities, please [click here](/dashboard-faqs/account-access/foreign-users).
 
 {% include letter-accordion.html accordions=site.data.acc103c-account-access-foreign-business letter="a" %}
 
