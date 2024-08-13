@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Convyor-sys-for-trnspo
 
 **Description**
 
-A conveyor system designed to automates farming operations (production, feeding, post-harvesting processing, packing, manure collection etc.) and/or integrate various stages of the farm-to-pack process with the purpose of reducing manual labour and improving operational flow.
+A conveyor system designed to automate farming operations (production, feeding, post-harvesting processing, packing, manure collection etc.) and/or integrate various stages of the farm-to-pack process with the purpose of reducing manual labour and improving operational flow.
 
 ## Solution Packages Option(s)
 

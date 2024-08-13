@@ -40,32 +40,20 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Andre Corporate Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201608167D-Mcrosoft-Dynmcs-365-Busnss-Cntrl-G' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
-<td>Illum (9) Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200703060H-Sg-300-InvocNOW-G' target='_blank'>Sage 300 InvoiceNOW</a><br></td>
+<td>Databit Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201109918E-SAP-Busnss-On-v-10-G' target='_blank'>SAP Business One Version 10</a><br></td>
 <td>Integrated Information Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200610863D-Mdsoft-SLNs-GST-API-v-320-G' target='_blank'>Madsoft Solutions GST API Version 320</a><br></td>
-<td>Madsoft Solutions Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200601493C-OC-Sls-&-ACC-MGT-Systm-SAM-G' target='_blank'>OCi Sales & Accounting Management System (SAM)</a><br></td>
-<td>OCi System Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200603587Z-Mllon-ACC-nd-Stock-Control-Systm-v-3-G' target='_blank'>Million Accounting and Stock Control System Version 3</a><br></td>
+<td>Rockbell International Software Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200106330C-EASPAC-Entrprs-Softwr-v-1011-G' target='_blank'>EASPAC Enterprise Software Version 10.1.1</a><br></td>
 <td>Prosperage Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201723943H-REACH-MOIBOO-v-26-G' target='_blank'>REACH MOIBOO Version 2.6</a><br></td>
-<td>Reach Process Outsourcing Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199700712E-Glob3-ERP-V56-G' target='_blank'>Globe3 ERP V5.6</a><br></td>
-<td>TNO Systems Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201206718K-ZETTAPPS-Fnnc-&-Ordr-Procssng-v-45-G' target='_blank'>ZETTAPPS Finance & Order Processing Version 4.5</a><br></td>
@@ -76,48 +64,48 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>AFON Systems Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201009691D-Sg-300Cloud-v-2024-G' target='_blank'>Sage 300Cloud Version 2024</a><br></td>
+<td>ACSOLV CONSULT PTE. LTD.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201117204M-Mcrosoft-Dynmcs-365-Busnss-Cntrl-G' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
 <td>Microlabs Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200615630E-Mcrosoft-Dynmcs-365-Busnss-Cntrl-G' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
-<td>Winspire Solutions Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201723943H-REACH-MOIBOO-v-28-G' target='_blank'>REACH MOIBOO Version 2.8</a><br></td>
+<td>Reach Process Outsourcing Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200703060H-Sg-300-InvocNOW-G' target='_blank'>Sage 300 InvoiceNOW</a><br></td>
-<td>Databit Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200603587Z-Mllon-ACC-nd-Stock-Control-Systm-v-3-G' target='_blank'>Million Accounting and Stock Control System Version 3</a><br></td>
-<td>Rockbell International Software Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200610863D-Mdsoft-SLNs-GST-API-v-320-G' target='_blank'>Madsoft Solutions GST API Version 320</a><br></td>
+<td>Madsoft Solutions Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201323996K-Adptv-BzApp-v-5-G' target='_blank'>Adaptive BizApp Version 5</a><br></td>
 <td>Adaptive Cloud Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201009691D-Sg-300Cloud-v-2024-G' target='_blank'>Sage 300Cloud Version 2024</a><br></td>
-<td>ACSOLV CONSULT PTE. LTD.</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200601493C-OC-Sls-&-ACC-MGT-Systm-SAM-v-11-G' target='_blank'>OCi Sales & Accounting Management System (SAM) Version 11</a><br></td>
+<td>OCi System Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/198000012M-Sg-300-Advnc-Edton-G' target='_blank'>Sage 300 Advance Edition</a><br></td>
-<td>The World Management Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199204792N-IT-Infnty-Sg-300-v-IT-Infnty-Sg-300-G' target='_blank'>IT Infinity Sage 300 Version IT Infinity Sage 300</a><br></td>
-<td>IT Infinity Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200415297M-Sg-300-Advncd-Edton-v-2022-G' target='_blank'>Sage 300 Advanced Edition Version 2022</a><br></td>
+<td>COMPTRAC SYSTEMS TECHNOLOGY PTE LTD</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/199609132G-Synrgx-Sls,-ACC,-Invntory-G' target='_blank'>Synergix Sales, Accounting, Inventory</a><br></td>
 <td>Synergix Technologies Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199602373D-A2000ERP-v-12-G' target='_blank'>A2000ERP Version 12</a><br></td>
-<td>A2000 Solutions Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/199700712E-Glob3-ERP-v-56-G' target='_blank'>Globe3 ERP Version 5.6</a><br></td>
+<td>TNO Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200415297M-Sg-300-Advncd-Edton-v-2022-G' target='_blank'>Sage 300 Advanced Edition Version 2022</a><br></td>
-<td>COMPTRAC SYSTEMS TECHNOLOGY PTE LTD</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/199204792N-IT-Infnty-Sg-300-v-IT-Infnty-Sg-300-G' target='_blank'>IT Infinity Sage 300 Version IT Infinity Sage 300</a><br></td>
+<td>IT Infinity Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/198000012M-Sg-300-Advnc-Edton-G' target='_blank'>Sage 300 Advance Edition</a><br></td>
+<td>The World Management Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201415107H-Mtro-ERP-v-10-G' target='_blank'>Metro ERP Version 1.0</a><br></td>
@@ -126,6 +114,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201611756K-Mcrosoft-Dynmcs-365-Busnss-Cntrl-v-Cloud-G' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud</a><br></td>
 <td>Dalstech Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/199602373D-A2000ERP-v-12-G' target='_blank'>A2000ERP Version 12</a><br></td>
+<td>A2000 Solutions Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201608167D-Mcrosoft-Dynmcs-365-Busnss-Cntrl-G' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
+<td>Illum (9) Pte Ltd</td>
 </tr>
 </table>
 

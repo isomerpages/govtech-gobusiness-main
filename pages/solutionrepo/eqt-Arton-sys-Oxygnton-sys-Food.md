@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Arton-sys-Oxygnton-sys
 
 **Description**
 
-For even distribution compressed air/ oxygen to maintain or increase dissolved oxygen concentration for both agriculture and aquaculture systems.
+For even distribution of compressed air/oxygen to maintain or increase dissolved oxygen concentration for both agriculture and aquaculture systems.
 
 ## Solution Packages Option(s)
 
