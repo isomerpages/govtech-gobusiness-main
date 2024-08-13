@@ -224,9 +224,11 @@
   protocol: https
 
 - title: Urban Redevelopment Authority (URA)
-  description: Customer Service Hotline
+  description: Feedback and Enquiry Form
   tel: +65 6223 4811
-  email: ura_dcd@ura.gov.sg
+  url: www.ura.gov.sg/feedbackWeb/
+  url-new-tab: true
+  protocol: https
 
 - title: WorkForce Singapore (WSG)
   description: WSG Service Portal
