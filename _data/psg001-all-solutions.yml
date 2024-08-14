@@ -249,6 +249,7 @@
         <p>These are the refreshed solutions launched in Oct 2024 to help enterprises be Cyber Essentials Ready. Enterprises are encouraged to adopt the integrated package to ensure that cyber hygiene measures are in line with the Cyber Essentials Mark.</p>
         <br>
         <table>
+        <tr>
         <th></th>
         <th><b>Assets</b></th>
         <th><b>Secure/Protect</b></th>
@@ -257,6 +258,8 @@
         <th><b>Respond</b></th>
         <th><b>Solutions</b></th>
         <td>Integrated Package</td>
+        </tr>
+        <tr>
         <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
         <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg" alt="Checked"></td>
         <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
@@ -297,7 +300,7 @@
         <table>
         <tr>
         <td>Managed Detection and Response</td>
-        <td><a href="/browse-all-solutions-Cyber-Security-solutions/Managed-Detection-and-Response">Managed Detection and Response">View</a></td>
+        <td><a href="/browse-all-solutions-Cyber-Security-solutions/Managed-Detection-and-Response">View</a></td>
         </tr>
         <tr>
         <td>Unified Threat Management</td>
