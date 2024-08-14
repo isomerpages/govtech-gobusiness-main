@@ -245,9 +245,72 @@
         - <a href='/browse-all-solutions-E-Commerce-solutions/E-Commerce---Online-Shop--B2C-'>E-Commerce - Online Shop (B2C)</a>
     - title: Cyber Security solutions
       content: |
-        - <a href='/browse-all-solutions-Cyber-Security-solutions/Managed-Detection-and-Response'>Managed Detection and Response</a>
-        - <a href='/browse-all-solutions-Cyber-Security-solutions/Unified-Threat-Management'>Unified Threat Management</a>
-        - <a href='/browse-all-solutions-Cyber-Security-solutions/Endpoint-Protection-Platform'>Endpoint Protection Platform</a>
+      <b>Cyber Essentials Ready</b><br>
+      <p>These are the refreshed solutions launched in Oct 2024 to help enterprises be Cyber Essentials Ready. Enterprises are encouraged to adopt the integrated package to ensure that cyber hygiene measures are in line with the Cyber Essentials Mark.</p>
+
+        <br>
+        <table>
+        <tr>
+        <th></th>
+        <th><b>Assets</b></th>
+        <th><b>Secure/Protect</b></th>
+        <th><b>Update</b></th>
+        <th><b>Backup</b></th>
+        <th><b>Respond</b></th>
+        <th><b>Solutions</b></th>
+        </tr>
+        <tr>
+        <td>Integrated Package</td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg" alt="Checked"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg" alt="Checked"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
+        <td><a href="/browse-all-solutions-ERP-and-Standalone-solutions/Accting-Mgmt--Inventory-Mgmt-and-Sales-Mgmt-System">View</a></td>
+        </tr>
+        <tr>
+        <td>Virus/Malware Protection</td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg" alt="Checked"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
+        <td><a href="/browse-all-solutions-ERP-and-Standalone-solutions/Accting-Mgmt-and-Sales-Mgmt-System">View</a></td>
+        </tr>
+        <tr>
+        <td>Firewall</td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg" alt="Checked"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg" alt="Checked"></td>
+        <td><a href="/browse-all-solutions-ERP-and-Standalone-solutions/Inventory-Mgmt-and-Sales-Mgmt-System">View</a></td>
+        </tr>
+        <td>Backup</td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg" alt="Checked"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
+        <td><a href="/browse-all-solutions-ERP-and-Standalone-solutions/Inventory-Mgmt-and-Sales-Mgmt-System">View</a></td>
+        </tr>
+        </table>
+        <br>
+        <b>Other Solutions</b><br>
+        <p>These solutions will be phased out on 30 June 2025</p>
+        <table>
+        <tr>
+        <td>Managed Detection and Response</td>
+        <td><a href="/browse-all-solutions-Cyber-Security-solutions/Managed-Detection-and-Response'>Managed Detection and Response">View</a></td>
+        </tr>
+        <tr>
+        <td>Unified Threat Management</td>
+        <td><a href="/browse-all-solutions-Cyber-Security-solutions/Unified-Threat-Management'>Unified Threat Management">View</a></td>
+        </tr>
+        <tr>
+        <td>Endpoint Protection Platform</td>
+        <td><a href="/browse-all-solutions-Cyber-Security-solutions/Endpoint-Protection-Platform'>Endpoint Protection Platform">View</a></td>
+        </tr>
+        </table>
 - accordion:
   letter: c
   data:
