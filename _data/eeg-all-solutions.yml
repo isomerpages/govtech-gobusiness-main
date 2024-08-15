@@ -22,11 +22,10 @@
         - <a href='/browse-all-equipment-Manufacturing/Refrigerator'>Refrigerator</a>
         - <a href='/browse-all-equipment-Manufacturing/Water-Heater'>Water Heater</a>
 
-        <p>To streamline the application process, NEA is calling a RFI for certain equipment categories to be whitelisted by equipment brand and model instead of technical requirements. This RFI is meant to collect information on eligible brands and models to be supported under the EEG. Vendors are encouraged participate in the exercise to include their equipment in the pre-approved list via this [link](https://form.gov.sg/668f9429c6fc442e8781efd6). This RFI will close on 19 Sep 2024.</p>
+        To streamline the application process, NEA is calling a RFI for certain equipment categories to be whitelisted by equipment brand and model instead of technical requirements. This RFI is meant to collect information on eligible brands and models to be supported under the EEG. Vendors are encouraged participate in the exercise to include their equipment in the pre-approved list via this <a href="https://form.gov.sg/668f9429c6fc442e8781efd6" target="_blank" rel="noopener">link</a>.This RFI will close on 19 Sep 2024.
 
-        More information on the RFI can be found [here](https://go.gov.sg/eeg-rfi-nea-aug24-faq).
-        <a href="https://go.gov.sg/eeg-rfi-nea-aug24-faq" target="_blank" rel="noopener">here</a>
-
+        More information on the RFI can be found <a href="https://go.gov.sg/eeg-rfi-nea-aug24-faq" target="_blank" rel="noopener">here</a>.
+        
     - title: Retail
       content: |
         - <a href='/browse-all-equipment-Retail/Air-Conditioner'>Air-Conditioner</a>
