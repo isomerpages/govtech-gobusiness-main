@@ -668,7 +668,7 @@
 
         <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10081" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/General-Equipment-Registration-by-Certification-Bodies-(GER-CB)" style="margin-left: 1em;">View Licence Details</a>
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/General-Equipment-Registration-by-Certification-Bodies-(GER-CB)">View Licence Details</a>
-
+        
         -----
         **General Operator's Certificate of Competency**
 
@@ -678,7 +678,7 @@
 
         <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10074" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/General-Operator's-Certificate-of-Competency" style="margin-left: 1em;">View Licence Details</a>
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/General-Operator's-Certificate-of-Competency">View Licence Details</a>
-
+        
         -----
         **General Radio-communication Station Licence**
 
@@ -725,10 +725,16 @@
         -----
         **Localised Radio-Communication Station Licence**
 
-        For the operation of remote control devices, local area paging devices, transceivers (CB walkie talkies), telemetry or alarm systems or both, wireless data or voice systems (e.g wireless LAN) and any other radio-communication equipment as may be authorised by the Info-communications Media Development Authority (IMDA).
+        You should apply for a Localised Radio-communication Station Licence to operate any of the following equipment:
+        - Local area paging devices
+        - Radio frequency remote control devices
+        - Telemetry or alarm systems or both
+        - Transceivers (CB walkies talkies)
+        - Wireless data or voice systems
+        - Wireless microphones
+        - Any other radio-communication equipment as authorised by IMDA
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=28" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Localised-Radio-Communication-Station-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Localised-Radio-Communication-Station-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/localisedradiocomm" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Localised-Radio-Communication-Station-Licence">View Licence Details</a>
 
         -----
         **Nationwide TV Service Licence**
@@ -779,14 +785,13 @@
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Printing-Press-Licence">View Licence Details</a>
 
         -----
-        **Public Mobile Network**
+        **Public Mobile Network Licence**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        For establishing and providing telecommunication services to public using multiple high power base or fixed or repeater stations.
-        
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10062" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Public-Mobile-Network" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Public-Mobile-Network">View Licence Details</a>
+        You should apply for a Public Mobile Network Licence if you intend to set up a public mobile network to establish and provide telecommunication services to public.
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/publicmobilenetwork" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Public-Mobile-Network-Licence">View Licence Details</a>
 
         -----
         **Radio Service Licence**
@@ -825,7 +830,7 @@
 
         <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10075" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Restricted-Operator's-Certificate-of-Competency" style="margin-left: 1em;">View Licence Details</a>
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Restricted-Operator's-Certificate-of-Competency">View Licence Details</a>
-
+        
         -----
         **Satellite Communication Station Licence**
 
