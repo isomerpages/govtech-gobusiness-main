@@ -19,7 +19,7 @@ Currently, we are on the panel of both the Whole-of-Government (WOG) Creative Se
 
 <b>Address in Singapore:</b> 1008 Toa Payoh North, #03-18, Singapore 318996
 
-<b>Website:</b> <a href='https://www.mandatecomms.sg'>www.mandatecomms.sg</a>
+<b>Website:</b> <a href='https://www.mandatecomms.sg'>https://www.mandatecomms.sg</a>
 
 <a class='btn' href='https://form.gov.sg/647d2fe50590a40012eee7a3' target='_blank' rel='noopener'>Get in touch</a>
 

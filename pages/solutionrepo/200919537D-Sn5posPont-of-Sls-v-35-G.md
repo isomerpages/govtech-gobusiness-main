@@ -26,7 +26,7 @@ San5pos solution is a simple and feature rich cloud-based point of sales system.
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic Package</td>
 <td style='padding: 10px;'>$4,400.00</td>
 <td style='padding: 10px;'>$4,400.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Sanfive_San5pos_09052024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Sanfive_San5pos_09052024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

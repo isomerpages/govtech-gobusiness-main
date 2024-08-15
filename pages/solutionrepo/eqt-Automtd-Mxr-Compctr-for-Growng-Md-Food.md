@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Automtd-Mxr-Compctr-fo
 
 **Description**
 
-Automated mixer/ compacter to handle a variety of growing media as well as various degrees of  thorough mixing to meet growing requirements.
+A standalone automated mixer/compacter that can efficiently handle diverse growing media (e.g soil, peat substrates), offering varying mixing intensities to fulfill specific cultivation needs of the farm.
 
 ## Solution Packages Option(s)
 

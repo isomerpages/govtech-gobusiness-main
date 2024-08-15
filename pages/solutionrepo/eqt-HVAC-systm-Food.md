@@ -1,15 +1,15 @@
 ---
-title: 'HVAC system'
+title: 'Heating, Ventilation and Air-conditioning (HVAC) system'
 permalink: /productivity-solutions-grant/solutionrepo/eqt-HVAC-systm-Food
 ---
 
-## HVAC system
+## Heating, Ventilation and Air-conditioning (HVAC) system
 
 ## Overview
 
 **Description**
 
-Heating, Ventilation and Air-conditioning (HVAC) system used for moving air between indoor and outdoor areas, along with heating and cooling buildings. 
+A system used to move air between indoor and outdoor areas and provide heating and air-conditioning to regulate temperature, humidity and air quality within an enclosed space. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Heating, Ventilation and Air-conditioning (HVAC) system used for moving air betw
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HVAC system</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Heating, Ventilation and Air-conditioning (HVAC) system</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
