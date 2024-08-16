@@ -14,14 +14,14 @@ Animal & Veterinary Service (AVS)
 
 <H3>Application Details</H3>
 
-<p>A veterinary centre licence from Nparks/AVS is required to operate and maintain a premise as a veterinary clinic or hospital.</p> 
-<p>It is the licensee''s responsibility to: adhere to the vet centre licensing conditions, keep informed of and to observe all relevant statutory requirements, and ensure that the veterinary surgeons under his employ are licensed by Nparks/AVS and comply with the conditions of licensing or any directives that may be issued by the Director-General from time to time.</p> 
-<p>The veterinary centre is subject to inspection by the Nparks/AVS..</p> 
-<h3>FAQs</h3> 
-<ol> 
-<li><strong>When can I arrange for inspection?</strong><br />If the application and relevant documents are in order, an inspection visit will be arranged with the centre.<br /><br /></li> 
-<li><strong>Supporting documents required for submission?</strong><br />The following documents are required for the submission.<br />1) Layout plan<br />2) Letter of Approval to use the Premises (URA, HDB or JTC)<br />3) Fire Safety and Shelter Dept (if not HDB premise)<br />4) LTA (if more than 150 square meters)<br />5) Letter of Authorization from the Veterinary Manager<br /><br /></li> 
-<li><strong>Who could be the Emergency Contact Person?</strong><br />The emergency contact person should be familiar with the clinic operations, preferably the Veterinary Manager.</li> 
+<p>A veterinary centre licence from NPARKS/AVS is required to operate and maintain a premise as a veterinary clinic or hospital.</p>
+<p>It is the licensee''s responsibility to: adhere to the vet centre licensing conditions, keep informed of and to observe all relevant statutory requirements, and ensure that the veterinary surgeons under his employ are licensed by NPARKS/AVS and comply with the conditions of licensing or any directives that may be issued by the Director-General from time to time.</p>
+<p>The veterinary centre is subject to inspection by the NPARKS/AVS..</p>
+<h3>FAQs</h3>
+<ol>
+<li><strong>When can I arrange for inspection?</strong><br />If the application and relevant documents are in order, an inspection visit will be arranged with the centre.<br /><br /></li>
+<li><strong>Supporting documents required for submission?</strong><br />The following documents are required for the submission.<br />1) Layout plan<br />2) Letter of Approval to use the Premises (URA, HDB or JTC)<br />3) Fire Safety and Shelter Dept (if not HDB premise)<br />4) LTA (if more than 150 square meters)<br />5) Letter of Authorization from the Veterinary Manager<br /><br /></li>
+<li><strong>Who could be the Emergency Contact Person?</strong><br />The emergency contact person should be familiar with the clinic operations, preferably the Veterinary Manager.</li>
 </ol>
 
 <strong>Additional Information</strong>
