@@ -31,10 +31,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/201224387N-EzySlsOrdr-v-30-WT' target='_blank'>EzySalesOrder Version 3.0</a><br></td>
 <td>WINAPP SOLUTIONS PTE LTD</td>
 </tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201308767Z-KEEPITAL-Sls-MGT-Busnss-SLN-v-3-WT' target='_blank'>KEEPITAL Sales Management Business Solution Version 3</a><br></td>
-<td>Keep Pte Ltd</td>
-</tr>
 </table>
 
 {% include banner-psg-survey.html %}

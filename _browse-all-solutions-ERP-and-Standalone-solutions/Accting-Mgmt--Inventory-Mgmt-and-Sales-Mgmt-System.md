@@ -40,14 +40,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Andre Corporate Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200703060H-Sg-300-InvocNOW-G' target='_blank'>Sage 300 InvoiceNOW</a><br></td>
-<td>Databit Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201109918E-SAP-Busnss-On-v-10-G' target='_blank'>SAP Business One Version 10</a><br></td>
-<td>Integrated Information Systems Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200603587Z-Mllon-ACC-nd-Stock-Control-Systm-v-3-G' target='_blank'>Million Accounting and Stock Control System Version 3</a><br></td>
 <td>Rockbell International Software Pte Ltd</td>
 </tr>
@@ -122,6 +114,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201608167D-Mcrosoft-Dynmcs-365-Busnss-Cntrl-G' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
 <td>Illum (9) Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200305559E-Mcrosoft-Dynmcs-365-Busnss-Cntrl-v-22-G' target='_blank'>Microsoft Dynamics 365 Business Central Version 22</a><br></td>
+<td>MSC Consulting (S) Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201224387N-SAP-Busnss-On-v-100-G' target='_blank'>SAP Business One Version 10.0</a><br></td>
+<td>WINAPP SOLUTIONS PTE LTD</td>
 </tr>
 </table>
 
