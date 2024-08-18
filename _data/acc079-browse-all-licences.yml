@@ -44,14 +44,13 @@
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/animalexhibition" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-for-Animal-Exhibition">View Licence Details</a>
 
         -----
-        **Licence for Animal Research Facility**
+         **Licence for Animal Research Facility**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        <p>Research facilities that intends to use animals for scientific purposes to apply for and obtain a licence from AVS before commencement of work on animals.</p>
+        <p>Research facilities that intends to use animals for scientific purposes to apply for and obtain a licence from NPARKS/AVS before commencement of work on animals.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1706211300000021" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-for-Animal-Research-Facility" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-for-Animal-Research-Facility">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/animalresearchfacility" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-for-Animal-Research-Facility">View Licence Details</a>
 
         -----
         **Licence for Pet Shop**
@@ -67,10 +66,9 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        <p>A veterinary centre licence from AVS is required to operate and maintain a premise as a veterinary clinic or hospital.</p>
+        <p>A veterinary centre licence from NPARKS/AVS is required to operate and maintain a premise as a veterinary clinic or hospital.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1708181600000042" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-for-Veterinary-Centre" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-for-Veterinary-Centre">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/veterinarycentre" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-for-Veterinary-Centre">View Licence Details</a>
 
         -----
         **Licence to Import/Export/Transship for Non-Food Producing Animals, Birds, Eggs and Biologics**
@@ -92,7 +90,6 @@
         <p>The Licence to Import or Export Ornamental Fish is issued by Animal & Veterinary Service to traders who wishes to import, export or transship ornamental fish.</p>
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/importexportornamentalfish" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-to-Import-or-Export-Ornamental-Fish">View Licence Details</a>
-
         
         -----
         **Licence to Manufacture and Process Feed for Non-food Producing Animals**
@@ -117,13 +114,10 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 150px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/sp-mini.png" alt="For Individual Users"> For Individual Users </span>
 
-        A veterinary licence from AVS is required to practise veterinary medicine in Singapore.
-        
-        American Veterinary Medical Association (AVMA) or the Australasian Veterinary Boards Council (AVBC) accredited universities are generally acceptable for licensing in Singapore as well as RCVS-accredited veterinary schools in the UK. Veterinary degrees from the United Kingdom, Australia, New Zealand and veterinary degrees from US veterinary schools (AVMA-accredited) are generally recognisable. Membership...
+        <p>A veterinary licence from NPARKS/AVS is required to practise veterinary medicine in Singapore. American Veterinary Medical Association (AVMA) or the Australasian Veterinary Boards Council (AVBC) accredited universities are generally acceptable for licensing in Singapore as well as RCVS-accredited veterinary schools in the UK. Veterinary degrees from the United Kingdom, Australia, New Zealand and veterinary degrees from US veterinary schools (AVMA-accredited) are generally recognisable. Membership to the Royal College of Veterinary Surgeons (MRCVS) obtained by virtue of EU Directive 2005/36/EC is not recognised.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1705261400000006" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-to-Treat-Animals-and-Birds" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-to-Treat-Animals-and-Birds">View Licence Details</a>
-        
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/treatanimalsandbirds" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-to-Treat-Animals-and-Birds">View Licence Details</a>
+
         -----
         **Registration to Import Feed for Non-food producing animals**
 
