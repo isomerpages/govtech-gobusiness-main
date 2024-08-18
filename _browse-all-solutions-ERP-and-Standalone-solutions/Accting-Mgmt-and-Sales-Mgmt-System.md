@@ -197,6 +197,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/201300570R-Xro-ACC-Systm-G' target='_blank'>Xero Accounting System</a><br></td>
 <td>EBOS SG PTE. LTD.</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201333490K-ABA-–-Xro-ACC-Softwr-G' target='_blank'>ABA – Xero Accounting Software</a><br></td>
+<td>Abundant Accounting Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

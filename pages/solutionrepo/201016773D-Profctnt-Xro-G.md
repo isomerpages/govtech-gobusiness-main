@@ -38,8 +38,8 @@ Profectant streamlines and modernizes accounting processes using Xero software a
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Profectant Premium Package</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>$4,330.73</td>
+<td style='padding: 10px;'>$3,880.73</td>
 <td style='padding: 10px;'><a href='/images/psg/PROFECTANT_Xero_15082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>

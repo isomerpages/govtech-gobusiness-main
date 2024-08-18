@@ -13,7 +13,7 @@ INFO-TECH Cloud HRMS Version 8.0 offers all companies to GO Digital and helps pr
 
 1. Transforming HR Software to Cloud
 2. Integrated Software enables overall view of the workforce & productivity, performance & efficiency
-3. Help HR handle company's compliance challenges and better manage resources.
+3. Help HR handle company’s compliance challenges and better manage resources.
 4. Affordable HR Software, modular design enable company to implement integrated HR Software by modules.
 
 ## Solution Packages Option(s)
