@@ -24,7 +24,7 @@ Cost of equipment capped at $15,500 per unit
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autonomous Robotic Servers</td>
 <td style='padding: 10px;'>$15,500.00</td>
-<td style='padding: 10px;'>1. Solution must be able to automate the process of food delivery and/or collection of crockery<br>2. Capacity load of at least 20kg<br>3. Speed of at least 0.5m/second<br>4. Hardware, software, set up (i.e mapping and programming) and training costs can all be included</td>
+<td style='padding: 10px;'>1. Solution must be able to automate the process of food delivery and/or collection of crockery<br>2. Capacity load of at least 20kg<br>3. Speed of at least `50%m/second<br>4. Hardware, software, set up (i.e mapping and programming) and training costs can all be included</td>
 </tr>
 </table>
 

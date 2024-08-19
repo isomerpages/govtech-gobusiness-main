@@ -31,6 +31,10 @@ This solution is supported by ACRA.
 <td><a href='/productivity-solutions-grant/solutionrepo/201915150N-BluMg-Consol-v-NA-G' target='_blank'>BlueMeg Console Version NA</a><br></td>
 <td>BlueMeg Technologies Pte. Ltd.</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201400612Z-SntroWb-G' target='_blank'>SentroWeb</a><br></td>
+<td>Ingenique Solutions Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
