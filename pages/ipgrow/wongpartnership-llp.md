@@ -99,8 +99,8 @@ We are a signatory of the United Nations Global Compact (UNGC), supporting its T
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  1 to 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: Please contact us for further details</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  </li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  Please contact us for further details</li>
 </ul>
 
 **Registered Design Agent Services**
@@ -109,8 +109,8 @@ We are a signatory of the United Nations Global Compact (UNGC), supporting its T
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate: 1 to 15</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents in Singapore: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents overseas: Please contact us for further details</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): </li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): Please contact us for further details</li>
 </ul>
 
 **Trade Mark Agent Services**
@@ -119,8 +119,8 @@ We are a signatory of the United Nations Global Compact (UNGC), supporting its T
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  751 to 1000</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 11 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: Please contact us for further details</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  </li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  Please contact us for further details</li>
 </ul>
 
 ---
