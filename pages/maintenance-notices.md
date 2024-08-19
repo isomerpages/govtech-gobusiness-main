@@ -13,6 +13,8 @@ GoBusiness Portal is temporarily refining our search capabilities for a better e
 | **Scheduled Date** | **Remarks** |  
 
     
+
+| 19 Aug, 6:30pm - 20 Aug, 6am | **All transactions for Registration of Precious Stones and Precious Metals Dealers (MINLAW)** will be unavailable during the upcoming scheduled maintenance. | 
 | 19 Aug, 8pm - 20 Aug, 6am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |  
 | 21 Aug, 6pm - 11:59pm | **Application, amendment, renewal & cancellation of National Environmental Agency (NEA) licences** will be unavailable during the upcoming scheduled maintenance. |       
 | 21 Aug, 8pm - 11pm | **Application, amendment, renewal & cancellation of Infocomm Media Development Authority (IMDA) licences** will be unavailable during the upcoming scheduled maintenance. |      
