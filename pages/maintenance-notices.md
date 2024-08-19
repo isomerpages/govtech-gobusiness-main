@@ -13,10 +13,12 @@ GoBusiness Portal is temporarily refining our search capabilities for a better e
 | **Scheduled Date** | **Remarks** |  
 
     
-| 16 Aug, 7pm - 19 Aug, 6am | **All transactions for the following National Parks Board (NPARKS) licences** will be unavailable during the upcoming scheduled.<br>-Licence to Treat Animals and Birds<br>-Veterinary Centre Licence<br>-Animal Research Facility (ARF) Licence  |     
-| 16 Aug, 10pm - 17 Aug, 6am<br>17 Aug, 8pm - 18 Aug, 8am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |       
-| 17 Aug, 2pm - 19 Aug, 7am | **MyInfo data retrieval for FIN holders** will be unavailable during the upcoming scheduled maintenance. |     
 
+| 19 Aug, 6:30pm - 20 Aug, 6am | **All transactions for Registration of Precious Stones and Precious Metals Dealers (MINLAW)** will be unavailable during the upcoming scheduled maintenance. | 
+| 19 Aug, 8pm - 20 Aug, 6am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |  
+| 21 Aug, 6pm - 11:59pm | **Application, amendment, renewal & cancellation of National Environmental Agency (NEA) licences** will be unavailable during the upcoming scheduled maintenance. |       
+| 21 Aug, 8pm - 11pm | **Application, amendment, renewal & cancellation of Infocomm Media Development Authority (IMDA) licences** will be unavailable during the upcoming scheduled maintenance. |      
+| 30 Aug, 10pm - 31 Aug, 2am | **Progressive Wage (PW) Mark Services** will be unavailable during the upcoming scheduled maintenance. | 
 
 
 
