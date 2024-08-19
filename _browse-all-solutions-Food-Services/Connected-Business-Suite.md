@@ -31,6 +31,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td><a href='/productivity-solutions-grant/solutionrepo/201529028W-EPOS-Intgrtd-Dgtl-SLN-for-F&B-FS' target='_blank'>EPOS Integrated Digital Solution for F&B</a><br></td>
 <td> EPOS Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200816700E-LFSut-v-1-FS' target='_blank'>LFSuite Version 1</a><br></td>
+<td>LEVELFIVE SOLUTIONS PTE. LTD.</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
