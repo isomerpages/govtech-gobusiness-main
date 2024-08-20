@@ -22,7 +22,7 @@ A machine designed for the cleaning of growing equipment (tanks, hydroponics tro
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic washer/sanitizer</td>
 <td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px;'>Holding Period of 1 year</td>
 </tr>
 </table>
 
