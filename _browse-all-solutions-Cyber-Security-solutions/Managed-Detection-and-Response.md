@@ -40,10 +40,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>VGC TECHNOLOGY PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201611915W-Mcrosoft-365-Dfndr-G' target='_blank'>Microsoft 365 Defender</a><br></td>
-<td>ACLOUD PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/199405327E-Mcrosoft-Cybrscurty-Mngd-SVC-G' target='_blank'>Microsoft Cybersecurity Managed Service</a><br></td>
 <td>NTC INTEGRATION PTE LTD</td>
 </tr>
@@ -54,6 +50,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200102135C-Morphsc-G' target='_blank'>Morphisec</a><br></td>
 <td>EQCOMS Technology Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201026975M-Mcrosoft-365-CybrScurty-Pckg-G' target='_blank'>Microsoft 365 CyberSecurity Package</a><br></td>
+<td>Axiom IT Solutions Pte. Ltd.</td>
 </tr>
 </table>
 

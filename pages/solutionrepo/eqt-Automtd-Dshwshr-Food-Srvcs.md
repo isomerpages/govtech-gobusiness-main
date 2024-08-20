@@ -28,7 +28,7 @@ Cost of equipment capped at $5,000 per unit
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Dishwasher</td>
 <td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>1. Minimum water tank capacity of 15 litres</td>
+<td style='padding: 10px;'>1. Minimum  water tank capacity of 15 litres</td>
 </tr>
 </table>
 
