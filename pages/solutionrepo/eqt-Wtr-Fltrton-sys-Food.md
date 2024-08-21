@@ -22,7 +22,7 @@ A system for filtration of water used for farming to improve growing conditions,
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Water Filtration System</td>
 <td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px;'>Holding Period of 1 year</td>
 </tr>
 </table>
 
