@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Mnur-Trtmnt-sys-Food
 
 **Description**
 
-A treatment system that results in a final product which is germ-free and allows an easy control of exhaust air and odour, e.g. Aerobic/ Anaerobic fermentation system/ composting system
+A system that treats manure to reduce mass/ control pathogens / concentrate or reduce nutrients / produce by-products such as energy, and allows for effective odour emissions control. This includes composting, pyrolysis, gasification or anaerobic digestion systems.
 
 ## Solution Packages Option(s)
 
@@ -22,7 +22,7 @@ A treatment system that results in a final product which is germ-free and allows
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Manure Treatment System</td>
 <td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px;'>Holding Period of 1 year</td>
 </tr>
 </table>
 

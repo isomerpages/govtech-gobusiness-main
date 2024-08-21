@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Inoculton-Cbnt-Lmnr-fl
 
 **Description**
 
-For cultivation of mushrooms and other fungi. The laminar flow cabinet provides laboratory conditions and minimises/ prevents contamination. 
+For cultivation of mushrooms and other fungi. The laminar flow cabinet provides laboratory conditions and minimises/ prevents contamination during the upstream cultivation process. 
 
 ## Solution Packages Option(s)
 
@@ -22,7 +22,7 @@ For cultivation of mushrooms and other fungi. The laminar flow cabinet provides 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Inoculation Cabinet (Laminar flow cabinet)</td>
 <td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px;'>Holding Period of 1 year</td>
 </tr>
 </table>
 

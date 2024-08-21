@@ -19,10 +19,7 @@ collections:
       - General-Equipment-Registration--GER-.md
       - General-Equipment-Registration-by-Certification-Bodies--GER-CB-.md
       - General-Operator's-Certificate-of-Competency.md
-      - General-Radio-comm--Mobile-Station-.md
-      - General-Radio-comm-Station--Base-or-Fixed-Station-.md
-      - General-Radio-comm-Station--Fixed-Link-or-Relay-Station-.md
-      - General-Radio-comm-Station--Radiodetermination-Station-.md
+      - General-Radio-communication-Station-Licence.md
       - Localised-Private-Network--Multi-Channel-Radiocom-Networks-and-Systems-.md
       - Localised-Private-Network-Licence.md
       - Localised-Radio-Communication-Station-Licence.md
@@ -31,7 +28,7 @@ collections:
       - Niche-Television-Service-Licence.md
       - Postal-Services-Operations-Licence.md
       - Printing-Press-Licence.md
-      - Public-Mobile-Network.md
+      - Public-Mobile-Network-Licence.md
       - Radio-Service-Licence.md
       - Registration-for-Internet-Access-Service-Providers-and-Resellers-Class-Licence.md
       - Registration-Form-C-for-Class-Licensable-Broadcasting-Services.md

@@ -10,6 +10,7 @@
         - <a href='/browse-all-solutions-Accountancy/Practice-Management-System'>Practice Management System</a>
         - <a href='/browse-all-solutions-Accountancy/External-Audit-Management-[Audit-Confirmation]'>External Audit Management [Audit Confirmation]</a>
         - <a href='/browse-all-solutions-Accountancy/Taxation-Management'>Taxation Management</a>
+        - <a href='/browse-all-solutions-Accountancy/Data-Analytics-Tools'>Data Analytics Tools</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Advanced Manufacturing
@@ -31,8 +32,8 @@
         - <a href='/browse-all-solutions-Building-Construction/e-Permit-to-work--e-PTW-'>e-Permit-to-work (e-PTW)</a>
         - <a href='/browse-all-solutions-Building-Construction/Quantity-Surveying-and-Valuation'>Quantity Surveying and Valuation</a>
         - <a href='/browse-all-solutions-Building-Construction/Coordination-Tools-and-Collaboration-Platform'>Coordination Tools and Collaboration Platform</a>
-        - <a href='/browse-all-solutions-Building-Construction/FM-Workflow-Automation'>FM Workflow Automation</a>
         - <a href='/browse-all-solutions-Building-Construction/3D-Modelling--Immersive-Visualisation-Analysis'>3D Modelling, Immersive Visualisation & Analysis</a>
+        - <a href='/browse-all-solutions-Building-Construction/FM-Workflow-Automation'>FM Workflow Automation</a>
         - <a href='/browse-all-solutions-Building-Construction/Integrated-and-Smart-Worksite-Monitoring-and-Inspection'>Integrated and Smart Worksite Monitoring and Inspection</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
@@ -110,7 +111,6 @@
         **IT Solution**
         - <a href='/browse-all-solutions-Logistics/Freight-Management'>Freight Management</a>
         - <a href='/browse-all-solutions-Logistics/Transport-Management'>Transport Management</a>
-        - <a href='/browse-all-solutions-Logistics/Warehouse-Management'>Warehouse Management</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Marine & Offshore
@@ -155,14 +155,6 @@
         - <a href='/browse-all-solutions-Retail/Integrated-POS--with-Mobile-features-'>Integrated POS (with Mobile features)</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
-    - title: Security
-      content: |
-        
-        **IT Solution**
-        - <a href='/browse-all-solutions-Security/Automated-Visitor-Management'>Automated Visitor Management</a>
-        - <a href='/browse-all-solutions-Security/Mobile-Enabled-Patrol-and-Incident-Management'>Mobile-Enabled Patrol and Incident Management</a>
-
-        View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Wholesale Trade
       content: |
         
@@ -181,6 +173,7 @@
         - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-E-scheduling-System'>Human Resource E-scheduling System</a>
         - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-Shared-Services--HRSS--Needs-Analysis--HR-Administrative-Support-Payroll-Processing-via-a-HRMS'>Human Resource Shared Services (HRSS) Needs Analysis, HR Administrative Support & Payroll Processing via a HRMS</a>
         - <a href='/browse-all-solutions-Human-Resource-Solutions/Applicant-Sourcing-and-Tracking-System'>Applicant Sourcing and Tracking System</a>
+        - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-E-Scheduling-System'>Human Resource E-Scheduling System</a>
     - title: ERP and Standalone solutions
       content: |
         <b>Enterprise Resource Planning (ERP) System</b><br>
@@ -256,10 +249,11 @@
       content: |
         - <a href='/browse-all-solutions-Cyber-Security-solutions/Managed-Detection-and-Response'>Managed Detection and Response</a>
         - <a href='/browse-all-solutions-Cyber-Security-solutions/Unified-Threat-Management'>Unified Threat Management</a>
-        - <a href='/browse-all-solutions-Cyber-Security-solutions/EndPoint-Protection-Platform'>EndPoint Protection Platform</a>
+        - <a href='/browse-all-solutions-Cyber-Security-solutions/Endpoint-Protection-Platform'>Endpoint Protection Platform</a>
 - accordion:
   letter: c
   data:
     - title: Job Redesign Solutions
       content: |
         - <a href='/browse-all-solutions-Job-Redesign-Solutions/Job-Redesign-Consultancy'>Job Redesign Consultancy</a>
+        - <a href='/browse-all-solutions-Job-Redesign-Solutions/Job-Redesign'>Job Redesign</a>

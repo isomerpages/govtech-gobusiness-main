@@ -24,37 +24,37 @@ AutoCount Accounting is a fully integrated accounting and inventory management s
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic (1 User)</td>
-<td style='padding: 10px;'>$4,140.00</td>
-<td style='padding: 10px;'>$3,940.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_International_Software_Autocount_Accounting_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$4,320.00</td>
+<td style='padding: 10px;'>$4,320.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_International_Software_Autocount_01082024_Desensitised_Annex3_Part1.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic (3 Users)</td>
-<td style='padding: 10px;'>$5,340.00</td>
-<td style='padding: 10px;'>$5,140.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_International_Software_Autocount_Accounting_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$5,920.00</td>
+<td style='padding: 10px;'>$5,920.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_International_Software_Autocount_01082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pro (3 Users)</td>
-<td style='padding: 10px;'>$6,840.00</td>
-<td style='padding: 10px;'>$6,240.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_International_Software_Autocount_Accounting_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$7,520.00</td>
+<td style='padding: 10px;'>$6,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_International_Software_Autocount_01082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium (5 Users)</td>
-<td style='padding: 10px;'>$10,240.00</td>
-<td style='padding: 10px;'>$9,340.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_International_Software_Autocount_Accounting_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium (2 Users)</td>
+<td style='padding: 10px;'>$9,120.00</td>
+<td style='padding: 10px;'>$7,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_International_Software_Autocount_01082024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium (10 Users)</td>
-<td style='padding: 10px;'>$13,240.00</td>
-<td style='padding: 10px;'>$12,340.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_International_Software_Autocount_Accounting_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium (3 Users)</td>
+<td style='padding: 10px;'>$9,920.00</td>
+<td style='padding: 10px;'>$7,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_International_Software_Autocount_01082024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

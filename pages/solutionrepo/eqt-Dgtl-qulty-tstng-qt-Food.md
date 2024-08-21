@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Dgtl-qulty-tstng-qt-Fo
 
 **Description**
 
-Quality testing equipment in measuring the produce quality and freshness
+Quality testing equipment used to measure the quality and freshness of produce.
 
 ## Solution Packages Option(s)
 
@@ -22,7 +22,7 @@ Quality testing equipment in measuring the produce quality and freshness
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital quality testing equipment</td>
 <td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px;'>Holding Period of 1 year</td>
 </tr>
 </table>
 

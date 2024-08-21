@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Automtd-Irrgton-&-Dosn
 
 **Description**
 
-Automated irrigation & dosing with help of timers, sensors or computers or mechanical appliances.
+Automated irrigation & dosing systems for nutrient solution or agri-chemicals with help of timers, sensors using fully computerised systems or mechanical analog appliances.
 
 ## Solution Packages Option(s)
 
@@ -22,7 +22,7 @@ Automated irrigation & dosing with help of timers, sensors or computers or mecha
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Irrigation & Dosing System</td>
 <td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px;'>Holding Period of 1 year</td>
 </tr>
 </table>
 

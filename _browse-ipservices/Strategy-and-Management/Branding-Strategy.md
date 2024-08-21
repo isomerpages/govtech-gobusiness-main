@@ -24,7 +24,7 @@ With a successful brand strategy, your business can enhance the appeal of its pr
 ---
 
 ### Connect with relevant service providers for branding strategy services
-**39 service providers listed.**
+**47 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -63,7 +63,7 @@ Prophet is a growth and transformation consulting firm dedicated to unlocking un
 
 #### ZYIP Pte Ltd
 
-ZYIP has offices in Singapore and China to assist clients with protection of their IP
+ZYIP has offices in Singapore and China to assist clients with protection of their IP.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
@@ -306,6 +306,51 @@ Enso Consultancy boosts from double to triple revenue growth with proven strateg
 
 ---
 
+#### Louken
+
+Specialize in strategy, IP optimization, branding, market entry, and digital solutions to drive value.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 11 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $100,000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/6660302c490c8aab152e6f99' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/louken/){:target='_blank'}
+
+---
+
+#### Shook Lin & Bok LLP
+
+Shook Lin & Bok LLP is a leading full service law firm with an Asian presence and global reach.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 11 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> Depends on scope of work</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/642b82aad11e700013de2c97' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/shook-lin-bok-llp/){:target='_blank'}
+
+---
+
+#### Khepri Digital
+
+Khepri Digital is a Google Partner Marketing Agency, doing Paid Ads & Search Engine Optimisation.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 11 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,500</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/66a860855e2ce104f4b12534' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/khepri-digital/){:target='_blank'}
+
+---
+
 #### FT Consulting Pte. Ltd.
 
 FT Consulting is an Asia-centric business consulting firm helping companies grow their business.
@@ -345,7 +390,7 @@ Corporate Services
 DCC prides itself on its experience and expertise in providing quality IP services around the world.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 11 - 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $2,000</li>
@@ -401,9 +446,55 @@ Deloitte is a leading specialist in Intellectual Property Advisory with a broad 
 
 ---
 
+#### Capex Consulting
+
+A consulting firm, focus in supporting multiple sectoral businesses with transformation strategies.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/665d86803237e9829faacd8b' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/capex-consulting/){:target='_blank'}
+
+---
+
+#### Collyer Law LLC
+
+Boutique SG law firm with Big Law? lawyers focused on emerging technology and the innovation economy.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> Depends on scope of work</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Book a free 30 min to 1 hour consultation with us.</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/6670e1f49fb163f0b89735fd' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/collyer-law-llc/){:target='_blank'}
+
+---
+
+#### Brand Finance
+
+Brand Finance is the world's leading brand valuation consultancy.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> Varies according to project scope.</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/66860a3d16e5c60fb729e36e' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/brand-finance/){:target='_blank'}
+
+---
+
 #### Crombie Consulting 
 
-The brand famous for making brands famous
+The brand famous for making brands famous.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
@@ -466,7 +557,7 @@ Nabyula helps fast-growing Professional Services companies establish authority i
 
 #### Mandate Communications (S) Pte Ltd
 
-Mandate Communications is a full service branding agency established in 1976
+Mandate Communications is a full service branding agency established in 1976.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
@@ -481,7 +572,7 @@ Mandate Communications is a full service branding agency established in 1976
 
 #### Crown Mercado Alliance Pte Ltd
 
-Crownmercado: A creative powerhouse, innovating dynamic brand strategies in the digital sphere
+Crownmercado: A creative powerhouse, innovating dynamic brand strategies in the digital sphere.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
@@ -497,7 +588,7 @@ Crownmercado: A creative powerhouse, innovating dynamic brand strategies in the 
 
 #### Exy Intellectual Property
 
-Specialized in a wide range of different intellectual property, Exy IP is your go-to IP experts
+Specialized in a wide range of different intellectual property, Exy IP is your go-to IP experts.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
@@ -630,6 +721,38 @@ We are a communication design firm.
 </ul>
 
 <a class='btn' href='https://form.gov.sg/65d6b7b4cf6e2d15a5920f9e' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/aught/){:target='_blank'}
+
+---
+
+#### Kairos Global Pte. Ltd.
+
+Founded in 2007, We are a boutique financial management and branding strategy consultancy company.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $20,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> We may maximize your benefits by integrating our branding strategy and brand audit services with cash flow projection and scenario analysis in merger and acquisition under EDG grant funding support.</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/665d673d6d0909e9ec2f2765' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/kairos-global-pte-ltd/){:target='_blank'}
+
+---
+
+#### Humankind Design
+
+Research and design studio | Brand strategy | Brand identity | Sprints | Customer Insights
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $2,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free brand consultation 30 mins call.</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/669e0074fc8b1217e440b40f' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/humankind-design/){:target='_blank'}
 
 ---
 

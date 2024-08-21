@@ -10,7 +10,7 @@
         - File a Notice of Objection (NOO)
         - View SDL notification history
         - View SDL payment history
-        - Compute SDL with online [SDL calculator](https://go.gov.sg/sdl-calculator){:target="_blank"}{:rel="noopener"}
+        - Compute actual SDL with online [SDL calculator](https://go.gov.sg/sdl-calculator){:target="_blank"}{:rel="noopener"}
         
         For SDL policy-related enquiries, please refer to the [SDL general FAQ](/skills-development-levy-faqs/)
 
@@ -19,6 +19,8 @@
         CPF EZPay is for employers to pay for employees' monthly SDL, together with their CPF contributions. You can also use it to pay for foreign employees in the same transaction.
 
         The SDL payment service on GoBusiness is for employers who have forgotten to pay / underpaid their SDL, or who only have foreign employees.
+
+        If you have received a Notice of Assessment (NOA) or mailer from SSG, do make payments for SDL via GoBusiness by selecting the Relevant Month(s) for the period indicated in the NOA or mailer.
 
     - title: Who will be able to access SDL on GoBusiness?
       content: |
@@ -29,14 +31,14 @@
         1. Inform your Corppass admin about granting access to MTI 'GoBusiness' e-Service for the Corppass account of employees who are authorised to view SDL records
         2. Perform a review of the current users who have access to MTI 'GoBusiness' e-Service' and remove personnel who do not need to access SDL services
         3. Visit [here](/sdl-e-services/) for SDL digital services
-        4. Should you require any clarification, please contact SSG Helpdesk at [6785 5785](tel:+65 6785 5785) or feedback portal at [https://service-portal.skillsfuture.gov.sg/s/feedback/](https://service-portal.skillsfuture.gov.sg/s/feedback/){:target="_blank"}{:rel="noopener"}.
+        4. Should you require any clarification, please contact SSG feedback portal at [https://service-portal.skillsfuture.gov.sg/s/feedback/](https://service-portal.skillsfuture.gov.sg/s/feedback/){:target="_blank"}{:rel="noopener"}.
     
 - accordion:
   letter: b
   data:
     - title: How do I view the outstanding Skills Development Levy (SDL) amount that I am required to pay?
       content: |
-        You can log in to [GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/login){:target="_blank"}{:rel="noopener"} as a Business User and view the outstanding SDL payable via the [SDL page](https://dashboard.gobusiness.gov.sg/sdl){:target="_blank"}{:rel="noopener"}.
+        You can log in to [GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/login){:target="_blank"}{:rel="noopener"} as a Business User and view the outstanding SDL amount via the [SDL page](https://dashboard.gobusiness.gov.sg/sdl){:target="_blank"}{:rel="noopener"}.
 
     - title: How do I view a monthly breakdown of the SDL payable, SDL paid and outstanding SDL payable?
       content: |
@@ -74,7 +76,7 @@
 
         5.) Subsequent sections will be populated with the relevant periods and SDL records, where available. For the Relevant Period with SSG Records section, you will need to confirm the SDL payable and make a declaration if your records differ. For the Relevant Period Without SSG Records section, you will need to provide your computation before making payment as SSG will not have your records for the last 2 to 3 months.
 
-        6.) If your internal records differ from SSG's SDL records, select "I would like to submit a declaration for..." in the declaration section. Thereafter, indicate your own records in the available SDL fields and attach the "Declaration Form" (insert url: https://go.gov.sg/sdl-declaration-form) as a supporting document. If your internal records have no discrepencies with SSG's SDL records, select "I agree with SSG's records".
+        6.) If your internal records differ from SSG's SDL records, select "I would like to submit a declaration for relevant period with SSG records" in the declaration section. Thereafter, indicate your own records in the available SDL fields and attach the ["Declaration Form"](https://go.gov.sg/sdl-declaration-form){:target="_blank"}{:rel="noopener"} as a supporting document. If your internal records have no discrepancies with SSG's SDL records, select "I agree with SSG's records".
 
         7.) Proceed to make payment either via online payment  (stripe/ credit card) through GoBusiness; or offline payment (bank transfer or PayNow) where payment instructions will be communicated separately over email from SSG.
 
@@ -96,6 +98,11 @@
         PayNow
         Bill Reference Number: [GoBusiness SubmissionID]
         You may reference the payment instructions sent by SSG after submission of payment and declaration form
+
+    - title: I have paid but I forgot to put in the GoBusiness SubmissionID/ put in the wrong number.
+      content: | 
+        Please send SSG the proof of payment, such as payment reference number or a screenshot of the payment and the correct reference number, through our feedback portal.
+
         
 - accordion:
   letter: c
@@ -106,7 +113,9 @@
 
     - title: When do I need to submit the declaration on Outstanding SDL Payable for my employees?
       content: |
-        You will need to submit the SDL Declaration Form when your calculated SDL payable differs from the amount stated in our records.
+        You will need to submit the SDL Declaration Form when your calculated SDL payable differs from the amount stated in our record after receiving a mailer from SSG.
+
+        If you already received a NOA for the period, you will not be able to submit declaration. Instead, please submit an NOO if you do not agree with the amount stated in the NOA. 
 
     - title: The SDL amounts shown is different from my records. What should I do?
       content: |
@@ -118,33 +127,29 @@
 
         3.) Review the Applicant and Company Detail in the General Information page and update contact information, if necessary. Click Next to go to the next page.
 
-        4.) In Application Details, select the full month(s) you are making outstanding SDL payment and/or declaration. For example, if you are making payment for July and August 2022, select 01/07/2022 for Start Date, and 31/08/2022 for End Date.
+        4.) In Application Details, select the full month(s) as indicated in the mailer. For example, if you are making payment/declaration for January to December 2023, select 01/01/2023 for Start Date, and 31/12/2023 for End Date.
 
         Click on the Retrieve SDL Records button after selecting the month(s) range.
 
-        5.) Depending on your selected Relevant period, "Relevant Period with SSG Records" section (refers to period where wage data from Government's records for all your local and foreign employees are available to derive your SDL Payable) or "Relevant Period without SSG Records" section or both sections will be displayed. "SDL Paid" refers to the amount of SDL you have previously paid for the relevant period.
-        
-        6.) When the Relevant Period Without SSG Records section is displayed, you will only be able to see an amount in SDL Paid if you have previously made payment for this relevant period. The Revised SDL Paid for the Relevant Period Without SDL Records section is an optional field and can be left blank unless your SDL Paid records differ from ours. However, it is mandatory to provide your computed Outstanding SDL Payable for Relevant Period Without SSG Records.
-
-        7.) In the Provision of Employer Records (for GoBusiness to confirm) section, select the period that you would like to submit a declaration.
-        The list of values for “I would like to submit a declaration” will be populated via GoBusiness and SSG, depending on the applicable date range. 
-
-        "I would like to submit a declaration for Relevant Period with SSG records"<br>
-        "I would like to submit a declaration for Relevant Period without SSG records"<br>
-        "I would like to submit a declaration for both Relevant Periods with and without SSG records"<br>
+        5.) In the Provision of Employer Records section, select the from the list of values in the dropdown:
+        <br>
+        "I would like to submit a declaration for Relevant Period with SSG records"
+        <br>
         "I agree with SSG's records"
 
-        8.) If you have selected to submit a declaration, you are required to fill in your own monthly computation in the [Declaration Form template](https://go.gov.sg/sdl-declaration-form){:target="_blank"}{:rel="noopener"} as a supporting document for the relevant period selected and upload the template. You are also required to fill in your aggregated SDL Payable, SDL Paid and Outstanding SDL Payable for the full relevant period. The figures should match what's in your Declaration Form - this is quite confusing.. are we trying to say that what's filled up in "declaration form" section should match with the supporting document in "Upload Declaration Form"?.
+        6.) If you have selected to submit a declaration, you are required to fill in your own monthly computation in the Declaration Form template (https://go.gov.sg/sdl-declaration-form) as a supporting document for the relevant period selected and upload the template. You are also required to fill in your aggregated Outstanding SDL Payable for the full relevant period. This should match what is declared in your Declaration Form.
 
-        9.) Select the payment mode before clicking Review Form to proceed to the Declaration Review page.
+        7.) Select the payment mode before clicking Review Form to proceed to the Declaration Review page.
 
-        10.) Once you have verified the details shown in the Review page, you may proceed to submit with and without payment, depending on whether there is any outstanding SDL payable.
+        8.) Once you have verified the details shown in the Review page, you may proceed to submit with and without payment, depending on whether there is any outstanding SDL payable.
 
     - title: How do I submit online declaration on non-liability of SDL via GoBusiness for my employees who are exempted from SDL?
       content: |
-        You no longer need to submit declaration of non-liability of SDL for each affected employee. Instead, you will need to submit a declaration of your computed monthly SDL payable excluding these affected employees for the relevant months where your records differ from ours. Please retain all supporting documents as SSG may request to review them.
+        You no longer need to submit declaration of non-liability of SDL for each affected employee. Instead, you will need to submit a declaration/NOO of your computed monthly SDL payable excluding these affected employees for the relevant months where your records differ from ours after receiving a mailer/NOA. Please retain all supporting documents as SSG may request to review them.
 
         To submit a declaration if you disagree with our calculation, you will be able to correct the amount by filling and submitting the Declaration Form template via our SDL Payment & Declaration form.
+
+        To submit an NOO if you disagree with the NOA amount and SSG will review and inform you of the NOO outcome. 
     
     - title: Why do I need to complete the SDL Declaration Form?
       content: |
@@ -152,12 +157,8 @@
 
     - title: How do I complete the SDL Declaration Form template?
       content: |
-        The Declaration Form template is an Excel form. Please verify the monthly SDL payable for the relevant months for all your employees, including local and foreign employees in Singapore. You will also need to seek your organisation’s authorised representative’s approval to verify the information stated in the form.
-
-    - title: Must I submit declaration on Outstanding SDL Payable through GoBusiness?
-      content: |
-        Yes, you will need to.
-
+        The Declaration Form template is an Excel form. Please verify the monthly SDL payable for the relevant months for all your employees, including local and foreign employees in Singapore. You will also need to seek your organisation's authorised representative's approval to verify the information stated in the form.
+        
 - accordion:
   letter: d
   data:
@@ -176,14 +177,6 @@
       content: |
         To submit a refund request on GoBusiness, fill up the form via Levy > Skills Development Levy (SDL) > [Apply for a Refund](https://dashboard.gobusiness.gov.sg/sdl/request-refund){:target="_blank"}{:rel="noopener"}. You will be required to indicate your Corporate PayNow ID, the period and refund amount.
 
-        Conditions for refund:
-
-        1) The relevant period indicated in your request form must be reflected in our records. You may check whether the payment record has been reflected by clicking on Download Details under the Outstanding SDL Payable section on the SDL page. 
-
-        2) Refund will only be allowed unless there is a nett overpayment (a negative "-" Outstanding SDL Payable) shown on the Outstanding SDL Payable section on the SDL page.
-
-        3) There must be overpaid SDL shown in the relevant months that you have indicated in your refund request.
-    
     - title: How do I know the status of my refund request?
       content: |
         Log in to [GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/login){:target="_blank"}{:rel="noopener"} and view the status of your refund request under the Notifications tab on the [SDL page](https://dashboard.gobusiness.gov.sg/sdl){:target="_blank"}{:rel="noopener"}.
@@ -191,6 +184,14 @@
     - title: How will I receive my refund?
       content: |
         The refund will be credited to your provided Corporate PayNow ID.
+
+    - title: Can I select other modes of refund besides Corporate PayNow?
+      content: |
+        No, only corporate PayNow ID will be used for refund.
+
+    - title: What supporting documents do I need to submit when I request for refund?
+      content: |
+        Payroll Report/Register. Please retain all supporting documents as SSG may request to review them.
 
 - accordion:
   letter: f
@@ -201,7 +202,7 @@
 
     - title: Why do I need to file a Notice of Objection (NOO)?
       content: |
-        You only need to [file a NOO](https://dashboard.gobusiness.gov.sg/sdl/file-notice-of-object){:target="_blank"}{:rel="noopener"} if you disagree with the outstanding SDL payable amount shown on the [SDL page](https://dashboard.gobusiness.gov.sg/sdl){:target="_blank"}{:rel="noopener"}.
+        You only need to [file a NOO](https://dashboard.gobusiness.gov.sg/sdl/file-notice-of-object){:target="_blank"}{:rel="noopener"} if you disagree with the outstanding SDL payable amount shown on the Notice of Assessment.
 
     - title: The outstanding SDL payable in the SDL Notice of Assessment (NOA) is different from my own records. What should I do?
       content: |
@@ -225,6 +226,24 @@
         
         <img src='/images/sdl-outstandingpayment.png' aria-hidden='true'>
 
+    - title: What should I do after submitting the NOO? What supporting documents do I need to retain for SSG's future checks, if any?
+      content: |
+        If SSG needs any clarification regarding the information you have provided in your NOO, SSG will contact you. Please retain all supporting documents.
+
+        Under the SDL Act and Regulations, every employer liable to pay SDL shall prepare and keep the following: Employee's full name, gender, age, address, identity card number, nature of employment, rate and amount of wages, date of commencement and cessation of employment, and such other records for SSG to ascertain the levy payable by such employer.
+
+        SSG may also request for records such as the CPFB's Record of Payment (Form 90 / 90A) as evidence of SDL payment.
+
+    - title: When should I make the payment for the amount I declared in the NOO? 
+      content: |
+        Please wait for SSG to inform you of the outcome of the NOO before making payment. Once the outcome is available, please proceed to make payment via GoBusiness.
+    
+    - title: I need time to prepare the records. When do I need to submit the NOO? Can SSG grant an extension?
+      content: |
+        Regulation 10(2) of the SDL Regulations requires your organisation's NOO, if any, to be lodged within two (2) months after the date of service of your NOA.
+
+        SSG may accept late NOO submissions, to be assessed on a case-to-case basis, provided that there is a reasonable cause for the delay.
+
 - accordion:
   letter: g
   data:
@@ -236,4 +255,4 @@
       content: |
         You can email your updated SDL contact information to [SDL@ssg.gov.sg](mailto:SDL@ssg.gov.sg).
 
-        Please contact SkillsFuture Singapore (SSG) through our [feedback portal](https://service-portal.skillsfuture.gov.sg/){:target="_blank"}{:rel="noopener"} or our hotline at [6785 5785](tel:+65 6785 5785) if you have enquiries.
+        Please contact SkillsFuture Singapore (SSG) through our [feedback portal](https://service-portal.skillsfuture.gov.sg/){:target="_blank"}{:rel="noopener"} if you have enquiries.
