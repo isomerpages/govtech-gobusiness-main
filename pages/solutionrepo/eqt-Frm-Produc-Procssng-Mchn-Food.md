@@ -22,7 +22,7 @@ Standalone or Integrated processing system to process produce into value-added p
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Farm Produce Processing Machine</td>
 <td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px;'>Holding Period of 1 year</td>
 </tr>
 </table>
 

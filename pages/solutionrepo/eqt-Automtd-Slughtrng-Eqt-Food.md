@@ -22,7 +22,7 @@ A machine that automates the entire or part of the slaughter of livestock (inclu
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Slaughtering Equipment</td>
 <td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px;'>Holding Period of 1 year</td>
 </tr>
 </table>
 
