@@ -234,7 +234,6 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - WEG - W21_IE4_22KW_4P
 - WEG - W21_IE4_30KW_2P
 - WEG - W21_IE4_30KW_4P
-- WEG - W21_IE4_37KW_4P
 - WEG - W21_IE4_45KW_4P
 - WEG - W21_IE4_4KW_2P
 - WEG - W21_IE4_5.5KW_2P
