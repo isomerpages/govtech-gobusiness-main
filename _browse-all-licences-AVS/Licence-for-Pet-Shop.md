@@ -31,7 +31,7 @@ Animal & Veterinary Service (AVS)
 <li><strong>Approval from URA/HDB</strong><br />File Format: DOC,DOCX,GIF,JPEG,JPG,PDF,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
 <li><strong>Layout plan</strong><br />File Format: DOC,DOCX,GIF,JPEG,JPG,PDF,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
 <li><strong>Lease / Tenancy agreement</strong><br />File Format: DOC,DOCX,GIF,JPEG,JPG,PDF,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
-<li><strong>Medisave Statement</strong><br />File Format: DOC,DOCX,GIF,JPEG,JPG,PDF,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+<li><strong>MediSave Statement</strong><br />File Format: DOC,DOCX,GIF,JPEG,JPG,PDF,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
 <li><strong>Others</strong><br />File Format: DOC,DOCX,GIF,JPEG,JPG,PDF,XLS,XLSX<br />Maximum upload per application: 2MB</li>
 </ul>
 
