@@ -153,7 +153,7 @@ We are a signatory of the United Nations Global Compact (UNGC), supporting its T
 - Job Title: Head of the Intellectual Property, Technology & Data Group
 - Years of Experience: 26 years
 - Location: Singapore
-- IA/IP-Related Expertise: Trademark Agent Service, IP Portfolio Management, Contract Drafting, Dispute Resolution, Patent Agent Service
+- IA/IP-Related Expertise: Trade Mark Agent Service, IP Portfolio Management, Contract Drafting, Dispute Resolution, Patent Agent Service
 - Certifications/Qualifications: Fellow of the Chartered Institute of Arbitrators (FCIArb), IP Adjudicator for the Intellectual Property Office of Singapore (IPOS), Senior Accredited Specialist (Data & Digital Economy) by the Singapore Academy of Law, Member of the IBA Presidential Task Force on Cyber Security, Admitted to the Singapore Bar and the Roll of Solicitors of England & Wales
 - Awards/Accolades: Recognised as "Lawyer of the Year 2020" for Intellectual Property Law and a leading lawyer for Information Technology Law, Media Law, Technology Law and Telecommunications Law by Best Lawyers since 2020; Ranked as a "Band 1 lawyer" for Intellectual Property, Singapore by Chambers and Partners; Recognised as one of "Asia's Super 50 TMT lawyers" by Asian Legal Business (ALB); Ranked as a "Leading Individual" for Intellectual Property and TMT, Singapore by Legal 500, Recognised as a "Thought Leader" for Data Privacy & Protection and a "Global Leader" for Data Privacy & Protection, Information Technology, Telecoms & Media and IP Trademarks, Singapore by Who's Who Legal
 - URL of LinkedIn/Company Profile: <a href="https://www.wongpartnership.com/people/detail/lam-chung-nian" target="_blank" rel="noopener">https://www.wongpartnership.com/people/detail/lam-chung-nian</a>
@@ -162,7 +162,7 @@ We are a signatory of the United Nations Global Compact (UNGC), supporting its T
 - Job Title: Partner of the Intellectual Property, Technology & Data Group
 - Years of Experience: 16 years
 - Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Trademark Agent Service, IP Portfolio Management, Contract Drafting, Dispute Resolution
+- IA/IP-Related Expertise: Patent Agent Service, Trade Mark Agent Service, IP Portfolio Management, Contract Drafting, Dispute Resolution
 - Certifications/Qualifications: Bachelor of Laws (LL.B., Hons.) from the National University of Singapore, Admitted to the Singapore Bar
 - Awards/Accolades: Recognised as "Lawyer of the Year 2025" for Intellectual Property Law by Best Lawyers; Recognised as one of "Asia's Super 50 TMT lawyers" by Asian Legal Business (ALB); Ranked as "Next Generation Partner" for TMT, Singapore by Legal 500; Recognised as a "Global Leader" for Telecoms, Media & Entertainment, Singapore by Who's Who Legal, Recognised as "Singapore's Rising Star Lawyer" by Asian Legal Business (ALB)
 - URL of LinkedIn/Company Profile: <a href="https://www.wongpartnership.com/people/detail/kylie-peh" target="_blank" rel="noopener">https://www.wongpartnership.com/people/detail/kylie-peh</a>
