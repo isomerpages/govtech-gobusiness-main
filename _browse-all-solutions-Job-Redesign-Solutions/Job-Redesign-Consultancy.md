@@ -28,10 +28,6 @@ This solution is supported by Workforce Singapore (Workforce Singapore (WSG)).
 <td>BDO Consultants Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201714117R-Job-Rdsgn-CST-Cdnc-Group-PL-G' target='_blank'>Job Redesign Consultancy - Cadence Group Pte Ltd</a><br></td>
-<td>Cadence Group Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201404397W-Job-Rdsgn-CST-CET-Globl-PL-G' target='_blank'>Job Redesign Consultancy - CET Global Pte Ltd</a><br></td>
 <td>CET Global Pte Ltd</td>
 </tr>
