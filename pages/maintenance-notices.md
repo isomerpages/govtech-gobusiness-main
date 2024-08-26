@@ -15,9 +15,6 @@ GoBusiness Portal is temporarily refining our search capabilities for a better e
     
 
 
-  
-| 23 Aug, 10pm - 24 Aug, 2am | **Progressive Wage (PW) Mark Services** will be unavailable during the upcoming scheduled maintenance. |         
-| 24 Aug, 8pm - 25 Aug, 8am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |  
 | 26 Aug, 8pm - 27 Aug, 8am<br>29 Aug, 11pm - 30 Aug, 7am | **Application, amendment, renewal & cancellation of Singapore Police Force (SPF) licences** will be unavailable during the upcoming scheduled maintenance. |     
 
 
