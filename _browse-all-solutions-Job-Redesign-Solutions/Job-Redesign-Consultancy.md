@@ -67,6 +67,10 @@ This solution is supported by Workforce Singapore (Workforce Singapore (WSG)).
 <td><a href='/productivity-solutions-grant/solutionrepo/201003423H-Job-Rdsgn-CST-KLC-Intrntonl-Insttut-PL-G' target='_blank'>Job Redesign Consultancy - KLC International Institute Pte Ltd</a><br></td>
 <td>KLC International Institute Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202411311E-Job-Rdsgn-CST-Cdnc-HR-CST-PL-G' target='_blank'>Job Redesign Consultancy - Cadence HR Consulting Pte Ltd</a><br></td>
+<td>CADENCE HR CONSULTING PTE. LTD. </td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
