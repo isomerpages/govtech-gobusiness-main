@@ -170,9 +170,10 @@
     - title: Human Resource Solutions
       content: |
         - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-Management-System--HRMS-'>Human Resource Management System (HRMS)</a>
-        - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-E-scheduling-System'>Human Resource E-Scheduling System</a>
+        - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-E-scheduling-System'>Human Resource E-scheduling System</a>
         - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-Shared-Services--HRSS--Needs-Analysis--HR-Administrative-Support-Payroll-Processing-via-a-HRMS'>Human Resource Shared Services (HRSS) Needs Analysis, HR Administrative Support & Payroll Processing via a HRMS</a>
         - <a href='/browse-all-solutions-Human-Resource-Solutions/Applicant-Sourcing-and-Tracking-System'>Applicant Sourcing and Tracking System</a>
+        - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-E-Scheduling-System'>Human Resource E-Scheduling System</a>
     - title: ERP and Standalone solutions
       content: |
         <b>Enterprise Resource Planning (ERP) System</b><br>
@@ -255,4 +256,3 @@
     - title: Job Redesign Solutions
       content: |
         - <a href='/browse-all-solutions-Job-Redesign-Solutions/Job-Redesign-Consultancy'>Job Redesign Consultancy</a>
-        - <a href='/browse-all-solutions-Job-Redesign-Solutions/Job-Redesign'>Job Redesign</a>
