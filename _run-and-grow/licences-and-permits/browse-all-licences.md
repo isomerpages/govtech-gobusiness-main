@@ -14,7 +14,7 @@ anchorlinks:
 
 ---
 
-## Search all licences (new)
+## Search for licence (new)
 
 {% include overview-licence.html notice=site.data.ov018-licence-browse-all %}
 
