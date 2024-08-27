@@ -13,6 +13,14 @@ anchorlinks:
     anchor_text: 'Building & Construction'
   - anchor: '#cybersecurity'
     anchor_text: 'Cybersecurity'
+  - anchor: '#education'
+    anchor_text: 'Education'
+  - anchor: '#employment-and-labour-services'
+    anchor_text: 'Employment & Labour Services'
+  - anchor: '#explosives-and-arms'
+    anchor_text: 'Explosives & Arms'
+
+
 
 ---
 
@@ -99,6 +107,40 @@ anchorlinks:
 - [Cybersecurity Labelling Scheme for IoT (Level 4)](https://dashboard.gobusiness.gov.sg/task-details/csaiot4)
 - [Managed Security Operations Centre (SOC) Monitoring Service Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=280)
 - [Penetration Testing Services Licence (PTS)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=278)
+
+<a name="education"></a>
+
+## Education
+- [Early Childhood Development Centre Licence](https://dashboard.gobusiness.gov.sg/task-details/706f7bbc-5f8c-46d6-b908-65b30b831a87)
+- [Asatizah Recognition Scheme](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=235)
+- [Islamic Education Centres and Providers Registration](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=234)
+- [Certificate of Registration of School](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=37)
+- [EduTrust Certification Scheme](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=36)
+- [Registration of Private Education Institutions](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=35)
+
+<a name="#employment-and-labour-services"></a>
+
+## Employment & Labour Services
+- [Employment Agency Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=55)
+- [Factory Notification and Registration](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=54)
+- [Foreign Employee Dormitories Act Licence](https://dashboard.gobusiness.gov.sg/task-details/feda)
+- [Work passes and permits](https://www.mom.gov.sg/passes-and-permits)
+
+<a name="#explosives-and-arms"></a>
+
+## Explosives & Arms
+- [Approval for a Blasting Operation](https://dashboard.gobusiness.gov.sg/task-details/6f74b664-d42b-46ec-9b49-8e6605865e0f)
+- [Approval to conduct a Fireworks Display](https://dashboard.gobusiness.gov.sg/task-details/6ac90465-6dcd-4b91-9573-cea561f2233e)
+- [Explosive Licence](https://dashboard.gobusiness.gov.sg/task-details/e7bc93a3-46e5-49b2-a679-54dc29b4c4d7)
+- [Explosive Precursor Licence](https://dashboard.gobusiness.gov.sg/task-details/9cb70ebd-fe95-4366-bd32-51bda1a1579b)
+- [Gun or Weapon Licence](https://dashboard.gobusiness.gov.sg/task-details/70d794ea-2fcf-49a6-b8b4-779770118347)
+- [Licence to Import or Export Explosive Precursors](https://dashboard.gobusiness.gov.sg/task-details/f15866a1-e829-4089-af3f-e13a339383ff)
+- [Licence to Remove Explosives](https://dashboard.gobusiness.gov.sg/task-details/27040004-16dc-48c0-b9c5-2fbe216c2bb3)
+- [Licence to Import or Export for Weapons](https://dashboard.gobusiness.gov.sg/task-details/fd365e79-e894-43f5-b603-84bed9acf8ef)
+- [Licence to Import, Export or Purchase Arms](https://dashboard.gobusiness.gov.sg/task-details/698900c1-95ec-47fe-af51-aac6bc9a43a5)
+- [Licence to Import, Export or Purchase Explosives](https://dashboard.gobusiness.gov.sg/task-details/b3c7af7d-b963-4b7c-8000-d353442ca19a)
+- [Security Clearance for Special Worker (Add New Employee)](https://dashboard.gobusiness.gov.sg/task-details/49df4e39-3fbd-4f74-b008-88448443e22e)
+- [Termination of Security Clearance for Special Worker (Remove Existing Employee)](https://dashboard.gobusiness.gov.sg/task-details/925dd652-6961-4503-b78c-da19799f07b1)
 
 
 
