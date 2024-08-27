@@ -58,10 +58,35 @@ anchorlinks:
 <a name="aviation"></a>
 
 ## Aviation
+- [Air Operator Certificate](https://www.caas.gov.sg/operations-safety/air-operations/singapore-air-operators/air-operator-certificate)
+- [Air Traffic Controller Licence](https://www.caas.gov.sg/personnel-licences-training/air-traffic-controller)
+- [Aircraft Maintenance Engineer](https://www.caas.gov.sg/personnel-licences-training/aircraft-maintenance-engineer)
+- [Aircraft Maintenance Organisation](https://www.caas.gov.sg/operations-safety/aircraft/maintenance-repair-overhaul)
+- [Clearance for Aerial Photography/Videography](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=288)
+- [Clearance for Erection of Cranes and Tall Construction Machinery](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=289)
+- [Clearance for Ship Crossing](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=286)
+- [Flight Crew Licence](https://www.caas.gov.sg/personnel-licences-training/flight-crew)
+- [Permit for Aerial Activities](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=287)
+- [Permit to fly](https://www.caas.gov.sg/operations-safety/aircraft/permit-to-fly)
+- [Permits for Carriage of Dangerous Goods](https://www.caas.gov.sg/operations-safety/carriage-of-dangerous-goods/)
+- [Aircraft Station Licence](https://dashboard.gobusiness.gov.sg/task-details/aircraftstation")
+
 
 <a name="building-and-construction"></a>
 
 ## Building & Construction
+- [Licence to Supply Architectural Services](https://www.boa.gov.sg/register/application-forms/)
+- [Advertising Sign/ Signboard Licence](https://eservices.bca.gov.sg/advertisementlicence)
+- [Amusement Rides Permit](https://www1.bca.gov.sg/regulatory-info/amusement-rides)
+- [Permit to Erect Temporary Building](https://www1.bca.gov.sg/regulatory-info/temporary-buildings-application/application-for-a-permit-to-erect-temporary-building)
+- [Structural and Building Plans Requirements for Rooftop Solar PV Installation](https://corenet.gov.sg/general/e-info.aspx)
+- [Approval for Additions & Alterations to a Conserved Building](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Planning-Permission/using-CORENET-eSS)
+- [Category 3 Works for Conserved Buildings](https://www.ura.gov.sg/cmrWeb/)
+- [Change of Use Approval](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=40)
+- [URA - Home Office Scheme (for private residential properties)](https://dashboard.gobusiness.gov.sg/task-details/homeofficeschemeura)
+- [Housing Developer's Licence](https://www.ura.gov.sg/Corporate/Guidelines/Developers/Housing-Developers/Housing-Developers/Apply-housing-developer-licence)
+- [Planning Permission](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Planning-Permission/using-CORENET-eSS)
+- [Signage Proposal for a Conserved Building](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Planning-Permission/using-CORENET-eSS)
 
 
 
