@@ -11,6 +11,8 @@ anchorlinks:
     anchor_text: 'Aviation'
   - anchor: '#building-and-construction'
     anchor_text: 'Building & Construction'
+  - anchor: '#cybersecurity'
+    anchor_text: 'Cybersecurity'
 
 ---
 
@@ -30,7 +32,7 @@ anchorlinks:
 - [Free Sale Certificate (Vaccine)](https://dashboard.gobusiness.gov.sg/task-details/freesalevaccine)
 - [Health Certificate for Export of Ornamental Fish](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201212070000111)
 - [Licence for Animal Exhibition](https://dashboard.gobusiness.gov.sg/task-details/animalexhibition)
-- [Licence for Animal Research Facility]https://dashboard.gobusiness.gov.sg/task-details/animalresearchfacility)
+- [Licence for Animal Research Facility](https://dashboard.gobusiness.gov.sg/task-details/animalresearchfacility)
 - [Licence for Pet Shop](https://dashboard.gobusiness.gov.sg/task-details/petshop)
 - [Licence for Veterinary Centre](https://dashboard.gobusiness.gov.sg/task-details/veterinarycentre)
 - [Licence to Import/Export/Transship for Non-Food Producing Animals, Birds, Eggs and Biologics](https://dashboard.gobusiness.gov.sg/task-details/ietnonfood)
@@ -87,6 +89,16 @@ anchorlinks:
 - [Housing Developer's Licence](https://www.ura.gov.sg/Corporate/Guidelines/Developers/Housing-Developers/Housing-Developers/Apply-housing-developer-licence)
 - [Planning Permission](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Planning-Permission/using-CORENET-eSS)
 - [Signage Proposal for a Conserved Building](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Planning-Permission/using-CORENET-eSS)
+
+<a name="cybersecurity"></a>
+
+## Cybersecurity
+- [Cybersecurity Labelling Scheme for IoT (Level 1)](https://dashboard.gobusiness.gov.sg/task-details/csaiot1)
+- [Cybersecurity Labelling Scheme for IoT (Level 2)](https://dashboard.gobusiness.gov.sg/task-details/csaiot2)
+- [Cybersecurity Labelling Scheme for IoT (Level 3)](https://dashboard.gobusiness.gov.sg/task-details/csaiot3)
+- [Cybersecurity Labelling Scheme for IoT (Level 4)](https://dashboard.gobusiness.gov.sg/task-details/csaiot4)
+- [Managed Security Operations Centre (SOC) Monitoring Service Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=280)
+- [Penetration Testing Services Licence (PTS)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=278)
 
 
 
