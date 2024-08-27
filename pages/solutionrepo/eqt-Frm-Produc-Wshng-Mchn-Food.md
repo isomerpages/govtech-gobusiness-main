@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Frm-Produc-Wshng-Mchn-
 
 **Description**
 
-A machine to wash produce before packing, it effectively separates the impurities and degrade the residual pesticides.
+A machine to wash produce before packaging, it effectively separates the impurities and degrade the residual pesticides.
 
 ## Solution Packages Option(s)
 
@@ -22,7 +22,7 @@ A machine to wash produce before packing, it effectively separates the impuritie
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Farm Produce Washing Machine</td>
 <td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px;'>Holding Period of 1 year</td>
 </tr>
 </table>
 

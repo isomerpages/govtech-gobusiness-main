@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Automtc-Hrvstr-Food
 
 **Description**
 
-A machine used to harvest produce automatically, equipped with a control unit, counter and/or cutting system, to streamline the harvesting process by minimizing manual labour and enhancing manpower productivity. 
+A machine used to harvest produce automatically, equipped with a control unit, counter and/or cutting system, to streamline the harvesting process by minimizing manual labour and enhancing manpower productivity.
 
 ## Solution Packages Option(s)
 
@@ -22,7 +22,7 @@ A machine used to harvest produce automatically, equipped with a control unit, c
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Harvester</td>
 <td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px;'>Holding Period of 1 year</td>
 </tr>
 </table>
 

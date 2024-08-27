@@ -211,6 +211,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/201701817K-DM-Corsv-Lb-Dgtl-Mrktng-PKG-G' target='_blank'>DM Corsiva Lab Digital Marketing Packages</a><br></td>
 <td>Corsiva Lab Pte. Ltd.</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201329629H-DM-MdPlus-Dgtl-Mrktng-Pckg-v-v3-G' target='_blank'>DM MediaPlus Digital Marketing Package Version v3</a><br></td>
+<td>MediaPlus Digital Pte. Ltd.</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

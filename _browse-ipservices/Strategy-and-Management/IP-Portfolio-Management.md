@@ -26,7 +26,7 @@ IP portfolio management enables your business to identify cost-saving opportunit
 ---
 
 ### Connect with relevant service providers for IP portfolio management services
-**47 service providers listed.**
+**49 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -246,6 +246,21 @@ ZYIP has offices in Singapore and China to assist clients with protection of the
 
 ---
 
+#### Drew & Napier LLC
+
+One of Singapore's largest full-service law firms, providing world-class legal service since 1889.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> Above 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> Please contact Drew & Napier LLC for quote</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/66a6ef6fabc641fb796b43a1' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/drew-napier-llc/){:target='_blank'}
+
+---
+
 #### Questel
 
 Questel is a true end-to-end intellectual property solutions provider.
@@ -258,6 +273,22 @@ Questel is a true end-to-end intellectual property solutions provider.
 </ul>
 
 <a class='btn' href='https://form.gov.sg/640e6f1f571b1800123bae5f' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/questel/){:target='_blank'}
+
+---
+
+#### WongPartnership LLP
+
+Headquartered in Singapore, WongPartnership is a top law firm offering full suite of legal services.
+
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 11 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Above 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> Please contact us for further details</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/66b965c77dd406a58e91435a' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/wongpartnership-llp/){:target='_blank'}
 
 ---
 

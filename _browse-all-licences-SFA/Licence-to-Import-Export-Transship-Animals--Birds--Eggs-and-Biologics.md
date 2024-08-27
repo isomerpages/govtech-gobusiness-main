@@ -27,7 +27,9 @@ Singapore Food Agency (SFA)
 
 <strong>Additional Information</strong>
 
-<p><strong>Fee<br></strong><u>Commercial Birds<br></u>Licence fees: $62.00<br>Express fees: $124.00<br><u>Biologics / Egg / Product<br></u>Licence fees: $22.00 &nbsp; &nbsp;<br>Express fees: $44.00<br><u>Commercial (Non-Bird) Research &amp; Development<br></u>Licence fees: $87.00<br>Express fees: $174.00</p>
+<p><strong>Fee<br></strong>Commercial (Birds / Eggs): $62</p>
+<p>Animal Product / Reproduction Material: $22</p>
+<p>Commercial (Livestock): $87</p>
 
 <H3>Requirements</H3>
 

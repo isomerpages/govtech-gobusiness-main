@@ -23,38 +23,38 @@ Adaptive BizApp Inventory and Sales management software is a robust cloud-based 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SE </td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adaptive_Adaptive_BizApp_01102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SE (2 Users)</td>
+<td style='padding: 10px;'>$7,500.00</td>
+<td style='padding: 10px;'>$7,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Adaptive_BizApp_01082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SP</td>
-<td style='padding: 10px;'>$10,800.00</td>
-<td style='padding: 10px;'>$10,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adaptive_Adaptive_BizApp_01102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SP (2 Users)</td>
+<td style='padding: 10px;'>$10,340.00</td>
+<td style='padding: 10px;'>$10,340.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Adaptive_BizApp_01082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - ME</td>
-<td style='padding: 10px;'>$12,800.00</td>
-<td style='padding: 10px;'>$12,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adaptive_Adaptive_BizApp_01102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - ME (4 Users)</td>
+<td style='padding: 10px;'>$12,160.00</td>
+<td style='padding: 10px;'>$12,160.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Adaptive_BizApp_01082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - MP</td>
-<td style='padding: 10px;'>$15,800.00</td>
-<td style='padding: 10px;'>$15,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adaptive_Adaptive_BizApp_01102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - MP (4 Users)</td>
+<td style='padding: 10px;'>$14,480.00</td>
+<td style='padding: 10px;'>$14,480.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Adaptive_BizApp_01082024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - LP</td>
-<td style='padding: 10px;'>$18,800.00</td>
-<td style='padding: 10px;'>$18,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adaptive_Adaptive_BizApp_01102023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - LP (5 Users)</td>
+<td style='padding: 10px;'>$16,480.00</td>
+<td style='padding: 10px;'>$14,480.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Adaptive_BizApp_01082024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

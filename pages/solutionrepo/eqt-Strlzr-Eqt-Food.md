@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Strlzr-Eqt-Food
 
 **Description**
 
-A machine to mix and fill substrate bags/planting trays with various growing substrates/media that are necessary for growing of crops.
+A machine that eliminates harmful microorganisms and pathogens for healthy growth of produce, e.g. Autoclave or steam steriliser for seed, soil or media treatment or UV sterilizer.
 
 ## Solution Packages Option(s)
 
@@ -22,7 +22,7 @@ A machine to mix and fill substrate bags/planting trays with various growing sub
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sterilizer Equipment</td>
 <td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px;'>Holding Period of 1 year</td>
 </tr>
 </table>
 

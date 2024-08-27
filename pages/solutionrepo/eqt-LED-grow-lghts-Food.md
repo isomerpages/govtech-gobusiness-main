@@ -9,7 +9,11 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-LED-grow-lghts-Food
 
 **Description**
 
-LED grow lights with smart dynamic lighting control to help plants grow.
+LED grow lights with features that can result in energy savings. Features can include:
+
+1. Dimmable feature (adjustable Photosynthetic Photon Flux Density)
+2. Externalised LED driver (heat dissipation through natural ventilation)
+3. High energy efficiency LED grow light   
 
 ## Solution Packages Option(s)
 
@@ -22,7 +26,7 @@ LED grow lights with smart dynamic lighting control to help plants grow.
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LED grow lights</td>
 <td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px;'>Holding Period of 1 year</td>
 </tr>
 </table>
 

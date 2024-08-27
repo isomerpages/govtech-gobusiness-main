@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Closd-Contnmnt-sys-Foo
 
 **Description**
 
-A system to cultivate produce within a controlled environment with optimal growth conditions and protection against environmental/external factors (temperature, humidity, lights etc.), leading to improved quality and yield.
+A system to cultivate produce within a controlled environment with optimal growth conditions and protection against environmental/ external factors (temperature, humidity, lights etc.), leading to improved quality and yield.
 
 ## Solution Packages Option(s)
 
@@ -22,7 +22,7 @@ A system to cultivate produce within a controlled environment with optimal growt
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Closed Containment System</td>
 <td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px;'>Holding Period of 1 year</td>
 </tr>
 </table>
 
