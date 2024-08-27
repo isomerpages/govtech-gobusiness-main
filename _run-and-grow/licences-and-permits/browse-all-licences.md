@@ -1,5 +1,5 @@
 ---
-title: Search all licences (new)1234567891234567
+title: Search for licence (new)
 permalink: /licences/browse-all-licences/
 third_nav_title: Licences and Permits
 anchorlinks:
