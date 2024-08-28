@@ -383,6 +383,7 @@ anchorlinks:
 - [Localised Private Network (Multi-Channel Radiocom Networks and Systems)](https://dashboard.gobusiness.gov.sg/task-details/lpnmulti)
 - [Localised Private Network Licence](https://dashboard.gobusiness.gov.sg/task-details/lpn)
 - [Localised Radio-Communication Station Licence](https://dashboard.gobusiness.gov.sg/task-details/localisedradiocomm)
+- [Public Mobile Network Licence](https://dashboard.gobusiness.gov.sg/task-details/publicmobilenetwork)
 - [Radio Service Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10067)
 - [Registration for Internet Access Service Providers and Resellers Class Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=12)
 - [Registration Form C for Class Licensable Broadcasting Services](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10066)
