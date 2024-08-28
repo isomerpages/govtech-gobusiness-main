@@ -24,7 +24,7 @@ The scope of protection you receive is determined by how you represent your prod
 ---
 
 ### Connect with relevant service providers for registered design agent
-**47 service providers listed.**
+**48 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -746,6 +746,22 @@ Empowering business growth through Intellectual Property solutions.
 </ul>
 
 <a class='btn' href='https://form.gov.sg/65f267e57f593ba17897e365' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/allied-intuit-pte-ltd/){:target='_blank'}
+
+---
+
+#### WongPartnership LLP
+
+Headquartered in Singapore, WongPartnership is a top law firm offering full suite of legal services.
+
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of files completed in previous calendar year:</b> 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> 1 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> Please contact us for further details</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/66b965c77dd406a58e91435a' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/wongpartnership-llp/){:target='_blank'}
 
 ---
 
