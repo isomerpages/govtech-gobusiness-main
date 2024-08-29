@@ -155,7 +155,10 @@ Collyer Law LLC is a boutique Singapore law firm founded and staffed by experien
 
 *"Azmul has provided invaluable support and service to my space tech startups since 2016. He is knowledgeable and supportive, something that every startup needs! On numerous occasions Azmul has gone above and beyond to handle last-minute requests for government filings, as well as to provide advice. I have recommended Azmul's services to a number of my fellow "astropreneurs" over the years and will continue to do so."* - Bidushi Bhattacharya, CEO, Astro Hub
 
-*"Azmul Haque is the best lawyer on this planet … the Swiss Army Knife of lawyers, [He has a] rare ability to support both large corporations and startups."* - Claire Pribula, Managing Director, The Yield Lab
+*"Azmul Haque is the best lawyer on this planet ... the Swiss Army Knife of lawyers, [He has a] rare ability to support both large corporations and startups."* - Claire Pribula, Managing Director, The Yield Lab
+
+
+
 
 ---
 <a name='key-practice-experts'></a>

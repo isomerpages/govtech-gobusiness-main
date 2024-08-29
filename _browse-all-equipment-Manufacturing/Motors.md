@@ -158,6 +158,7 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - Siemens - 1CV4317B
 - Siemens - 1CV4353A
 - Sumitomo - N-180LS/6
+- TECO -  AEMB4E/AEMV4E-4P-45kW
 - TECO - AEEVJ1/AEUVJ1-4P-7.5KW
 - TECO - AEMB4E/AEMV4E-2P-150KW
 - TECO - AEMB4E/AEMV4E-2P-30KW
@@ -166,7 +167,6 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - TECO - AEMB4E/AEMV4E-2P-55KW
 - TECO - AEMB4E/AEMV4E-2P-75KW
 - TECO - AEMB4E/AEMV4E-4P-11kW
-- TECO - AEMB4E/AEMV4E-4P-45kW
 - TECO - AEMB4E/AEMV4E-4P-55kW
 - TECO - AEMB4E/AEMV4E-4P-75KW
 - TECO - AEMB4E/AEMV4E-4P-90KW
@@ -242,7 +242,10 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - WEG - W21_IE4_90KW_4P
 - WEG - W22_IE4_15KW_2P
 - WEG - W22_IE4_22KW_4P
+- Wilo  -  WE4-160M-4
+- Wilo -  WE4-160L-4
 - Wilo -  WE4-180M-4
+- Wilo -  WE4-200L-4
 - Wilo -  WE4-225M-4
 
 

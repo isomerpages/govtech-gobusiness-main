@@ -30,7 +30,7 @@ Select a service provider below to view their profile and connect with them.
 
 #### PricewaterhouseCoopers Singapore Pte. Ltd.
 
-Community of solvers combining innovative technologies to build trust and deliver sustained outcomes
+Community of solvers combining innovative technologies to build trust and deliver sustained outcomes.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
@@ -135,7 +135,7 @@ CHP Law LLC provides elegant and creative legal solutions for its clients.
 
 #### J Accounting Pte. Ltd.
 
-Helping small businesses live their dreams through tax advisory
+Helping small businesses live their dreams through tax advisory.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>

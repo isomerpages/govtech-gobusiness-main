@@ -38,7 +38,7 @@
   data:
     - title: How do I view the outstanding Skills Development Levy (SDL) amount that I am required to pay?
       content: |
-        You can log in to [GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/login){:target="_blank"}{:rel="noopener"} as a Business User and view the outstanding SDL payable via the [SDL page](https://dashboard.gobusiness.gov.sg/sdl){:target="_blank"}{:rel="noopener"}.
+        You can log in to [GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/login){:target="_blank"}{:rel="noopener"} as a Business User and view the outstanding SDL amount via the [SDL page](https://dashboard.gobusiness.gov.sg/sdl){:target="_blank"}{:rel="noopener"}.
 
     - title: How do I view a monthly breakdown of the SDL payable, SDL paid and outstanding SDL payable?
       content: |

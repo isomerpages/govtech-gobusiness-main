@@ -69,16 +69,6 @@ Our presence in Southeast Asia is growing. Building on our regional expertise an
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
 </ul>
 
-**IP Intelligence and Search Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 101 to 150</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts in Singapore: 11 to 20</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
-</ul>
-
 **IP Portfolio Management Services**
 
 <ul>
@@ -86,26 +76,6 @@ Our presence in Southeast Asia is growing. Building on our regional expertise an
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: Above 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
-</ul>
-
-**IP Training Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of courses completed in previous calendar year: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts in Singapore: 11 to 20</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
-</ul>
-
-**IP Watch Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 6 to 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts in Singapore: 11 to 20</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts overseas: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
 </ul>
 
@@ -168,7 +138,7 @@ Our presence in Southeast Asia is growing. Building on our regional expertise an
 - Job Title: Senior Partner
 - Years of Experience: 23 years
 - Location: Singapore
-- IA/IP-Related Expertise: Trade Mark Agent Service, Freedom-to-Operate (FTO), IP Due Diligence, IP Portfolio Management, Contract Drafting
+- IA/IP-Related Expertise: Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, Contract Drafting, Dispute Resolution
 - Certifications/Qualifications: Advocate & Solicitor, Singapore 2000
 - Awards/Accolades: Best Lawyers in Singapore: Recognized in the areas of Intellectual Property Law and Privacy and Data Security Law 2023, IP Stars: Trademark Star (2020 - 2022), IP Stars: Top 250 Women in IP (2020 - 2022), The Legal 500 Asia Pacific: Recommended Lawyer for Technology, Media & Telecommunications (2018)
 - URL of LinkedIn/Company Profile: <a href="https://dentons.rodyk.com/en/catherine-lee" target="_blank" rel="noopener">https://dentons.rodyk.com/en/catherine-lee</a>
@@ -178,7 +148,7 @@ Our presence in Southeast Asia is growing. Building on our regional expertise an
 - Job Title: Senior Partner
 - Years of Experience: 33 years
 - Location: Singapore
-- IA/IP-Related Expertise: Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, Contract Drafting, IP Training
+- IA/IP-Related Expertise: Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, Contract Drafting, Dispute Resolution
 - Certifications/Qualifications: Advocate & Solicitor Singapore (1990)
 - Awards/Accolades: ALB SEA Law Awards: Data Privacy and Protection Lawyer of the Year Award (2022), Best Lawyers in Singapore: Recognized in the area of Information Technology Law (2021 - 2023), Chambers Asia Pacific: Recognised as Leading Individual for Technology, Media, Telecommunications (2011 - 2022), IFLR1000: Recognized as a Notable Practitioner for M&A (2019 - 2023), Who's Who Legal:  Recognized as a National Leader (Southeast Asia) for Data (2022)
 - URL of LinkedIn/Company Profile: <a href="https://dentons.rodyk.com/en/gilbert-leong" target="_blank" rel="noopener">https://dentons.rodyk.com/en/gilbert-leong</a>
@@ -188,17 +158,17 @@ Our presence in Southeast Asia is growing. Building on our regional expertise an
 - Job Title: Senior Consultant
 - Years of Experience: 45 years
 - Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Dispute Resolution
+- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Freedom-to-Operate (FTO), IP Portfolio Management, Dispute Resolution
 - Certifications/Qualifications: Advocate & Solicitor, Singapore (1978)
 - Awards/Accolades: Chambers Asia Pacific: Recognised as Leading Individual Band 1 for Intellectual Property (2016 - 2023), The Legal 500 Asia Pacific: Recognised as Leading Individual for Intellectual Property (2014 - 2023), Who's Who Legal: Recognised as a Leading Practitioner for Trademarks (2020), IAM Patent 1000: Recognised as a Patent Luminary (2019), Asialaw Leading Lawyers: Ranked as Distinguished Practitioner in Intellectual Property (2020 - 2023)
 - URL of LinkedIn/Company Profile: <a href="https://dentons.rodyk.com/en/aiming-lee" target="_blank" rel="noopener">https://dentons.rodyk.com/en/aiming-lee</a>
 
 **Maw Jiun Foo**
 
-- Job Title: Partner
+- Job Title: Senior Partner
 - Years of Experience: 14 years
 - Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Trade Mark Agent Service, IP Due Diligence, Contract Drafting, Dispute Resolution
+- IA/IP-Related Expertise: Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, Contract Drafting, Dispute Resolution
 - Certifications/Qualifications: Advocate and Solicitor, Singapore (2009)
 - Awards/Accolades: The Legal 500 Asia Pacific: Recommended lawyer for Intellectual Property (2018), Singapore Business Review: Singapore's 18 Most Influential Lawyers under 40 (2021), Asian Legal Business: Asia 40 under 40 (2022), IAM Patent: Recognised and Ranked for Litigation (2022)
 - URL of LinkedIn/Company Profile: <a href="https://dentons.rodyk.com/en/mawjiun-foo" target="_blank" rel="noopener">https://dentons.rodyk.com/en/mawjiun-foo</a>
@@ -213,23 +183,13 @@ Our presence in Southeast Asia is growing. Building on our regional expertise an
 - Awards/Accolades: The Legal 500 Asia Pacific, 2013: Recognized Lawyer
 - URL of LinkedIn/Company Profile: <a href="https://dentons.rodyk.com/en/elaine-lew" target="_blank" rel="noopener">https://dentons.rodyk.com/en/elaine-lew</a>
 
-**Desmond Chew**
-
-- Job Title: Partner
-- Years of Experience: 8 years
-- Location: Singapore
-- IA/IP-Related Expertise: Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, Contract Drafting, Dispute Resolution
-- Certifications/Qualifications: Advocate & Solicitor Singapore 2015
-- Awards/Accolades: IP Stars: Notable Practitioner 2021, IP Stars: Rising Star 2018
-- URL of LinkedIn/Company Profile: <a href="https://dentons.rodyk.com/en/desmond-chew" target="_blank" rel="noopener">https://dentons.rodyk.com/en/desmond-chew</a>
-
 
 **Jian Ming Chang**
 
 - Job Title: Partner
 - Years of Experience: 13 years
 - Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service
+- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Freedom-to-Operate (FTO), IP Due Diligence, IP Portfolio Management
 - Certifications/Qualifications: Certified Patent Valuation Analyst Singapore 2020
 - URL of LinkedIn/Company Profile: <a href="https://dentons.rodyk.com/en/jianming-chang" target="_blank" rel="noopener">https://dentons.rodyk.com/en/jianming-chang</a>
 
@@ -237,4 +197,4 @@ Our presence in Southeast Asia is growing. Building on our regional expertise an
 <p>
 <a class='btn' href='https://form.gov.sg/643f4f02f643c40012dae38b' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 23 August 2023
+Profile last updated on 10 Jul 2024

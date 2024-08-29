@@ -26,21 +26,21 @@ Suntoyo POS solution is an all-in-one platform that runs on a professional-grade
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>All in 1 POS</td>
 <td style='padding: 10px;'>$4,000.00</td>
 <td style='padding: 10px;'>$3,600.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SUNTOYO_POS_09052024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/SUNTOYO_POS_09052024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>All in 1 POS+Inventory Management</td>
 <td style='padding: 10px;'>$5,800.00</td>
 <td style='padding: 10px;'>$5,400.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SUNTOYO_POS_09052024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/SUNTOYO_POS_09052024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>All in 1 POS+Inventory Management and barcode label Module</td>
 <td style='padding: 10px;'>$6,600.00</td>
 <td style='padding: 10px;'>$6,200.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SUNTOYO_POS_09052024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/SUNTOYO_POS_09052024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

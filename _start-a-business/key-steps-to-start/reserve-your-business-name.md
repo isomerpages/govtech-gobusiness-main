@@ -29,7 +29,7 @@ To improve your chances of a successful application, read the [ACRA business nam
 
 You can reserve your desired name for up to 120 days before registering your business. The name will be released after the reservation period.
 
-<h4>There are three ways to reserve your business name:</h4>
+<h4>To reserve your business name:</h4>
 
 {% include panels-featurelink.html panels=site.data.rgp010b_business-name %}
 

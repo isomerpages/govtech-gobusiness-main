@@ -23,38 +23,38 @@ The solution is an integrated, cohesive, user-friendly CRM, sales and financial 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting and Sales for 5 Users (Basic)</td>
-<td style='padding: 10px;'>$9,353.00</td>
-<td style='padding: 10px;'>$9,353.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NMT_ODOO_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting and Sales management for 3 users (Basic)</td>
+<td style='padding: 10px;'>$5,760.00</td>
+<td style='padding: 10px;'>$5,760.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NMT_ODOO_01082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting and Sales for 8 Users (Standard)</td>
-<td style='padding: 10px;'>$13,043.00</td>
-<td style='padding: 10px;'>$13,043.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NMT_ODOO_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting and Sales management for 3 users (Standard)</td>
+<td style='padding: 10px;'>$7,200.00</td>
+<td style='padding: 10px;'>$6,580.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NMT_ODOO_01082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting and Sales for 10 Users (Premium)</td>
-<td style='padding: 10px;'>$15,316.00</td>
-<td style='padding: 10px;'>$15,316.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NMT_ODOO_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting and Sales management for 3 users (Premium)</td>
+<td style='padding: 10px;'>$9,280.00</td>
+<td style='padding: 10px;'>$6,740.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NMT_ODOO_01082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting and Sales for 12 Users (Professional)</td>
-<td style='padding: 10px;'>$19,620.00</td>
-<td style='padding: 10px;'>$17,680.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NMT_ODOO_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting and Sales management for 3 users (Professional)</td>
+<td style='padding: 10px;'>$10,720.00</td>
+<td style='padding: 10px;'>$6,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NMT_ODOO_01082024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accountng and Sales for 15 Users (Enterprise)</td>
-<td style='padding: 10px;'>$21,681.00</td>
-<td style='padding: 10px;'>$18,640.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NMT_ODOO_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accountng and Sales management for 3 users (Enterprise)</td>
+<td style='padding: 10px;'>$12,160.00</td>
+<td style='padding: 10px;'>$7,060.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NMT_ODOO_01082024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ The solution is an integrated, cohesive, user-friendly CRM, sales and financial 
 
 ## Vendor Information
 
- Company name:Neu Media Technology LLP<br>Web URL: www.neumediatechnology.com <br>Contact Hotline: 67018202 <br>Contact Email: info@neumediatechnology.com 
+ Company name:Neu Media Technology LLP<br><br>Web URL: www.neumediatechnology.com <br><br>Contact Hotline: 67018202 <br><br>Contact Email: info@neumediatechnology.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -88,10 +88,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Fier Capital Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202016650R-DM-NBT-Dgtl-Prformnc-Mrktng-Pckg-G' target='_blank'>DM NBT Digital Performance Marketing Package</a><br></td>
-<td>NBT DIGITAL PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201529110M-DM-2Stllons-Complt-Dgtl-Mrktng-PKG-G' target='_blank'>DM 2Stallions Complete Digital Marketing Packages</a><br></td>
 <td>2STALLIONS PTE LTD</td>
 </tr>
@@ -176,10 +172,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>WECOFA PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201529118Z-DM-IPRO-Dzgn-Dgtl-Mrktng-PKG-G' target='_blank'>DM IPRO Dezign Digital Marketing Packages</a><br></td>
-<td>IPRO DEZIGN PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201832282M-DM-QIANYI-TRADING-TIKTOK-DIGITAL-MARKETING-SLN-G' target='_blank'>DM QIANYI TRADING TIKTOK DIGITAL MARKETING SOLUTION</a><br></td>
 <td>QIANYI TRADING PTE. LTD.</td>
 </tr>
@@ -214,6 +206,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201410722E-DM-Busnss-Thrust-Dgtl-Mrktng-PKG-v-DM01-G' target='_blank'>DM Business Thrust Digital Marketing Packages Version DM01</a><br></td>
 <td>Business Thrust Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201701817K-DM-Corsv-Lb-Dgtl-Mrktng-PKG-G' target='_blank'>DM Corsiva Lab Digital Marketing Packages</a><br></td>
+<td>Corsiva Lab Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201329629H-DM-MdPlus-Dgtl-Mrktng-Pckg-v-v3-G' target='_blank'>DM MediaPlus Digital Marketing Package Version v3</a><br></td>
+<td>MediaPlus Digital Pte. Ltd.</td>
 </tr>
 </table>
 

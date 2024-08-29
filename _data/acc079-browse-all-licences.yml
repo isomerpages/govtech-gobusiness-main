@@ -44,14 +44,13 @@
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/animalexhibition" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-for-Animal-Exhibition">View Licence Details</a>
 
         -----
-        **Licence for Animal Research Facility**
+         **Licence for Animal Research Facility**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        <p>Research facilities that intends to use animals for scientific purposes to apply for and obtain a licence from AVS before commencement of work on animals.</p>
+        <p>Research facilities that intends to use animals for scientific purposes to apply for and obtain a licence from NPARKS/AVS before commencement of work on animals.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1706211300000021" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-for-Animal-Research-Facility" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-for-Animal-Research-Facility">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/animalresearchfacility" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-for-Animal-Research-Facility">View Licence Details</a>
 
         -----
         **Licence for Pet Shop**
@@ -67,10 +66,9 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        <p>A veterinary centre licence from AVS is required to operate and maintain a premise as a veterinary clinic or hospital.</p>
+        <p>A veterinary centre licence from NPARKS/AVS is required to operate and maintain a premise as a veterinary clinic or hospital.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1708181600000042" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-for-Veterinary-Centre" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-for-Veterinary-Centre">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/veterinarycentre" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-for-Veterinary-Centre">View Licence Details</a>
 
         -----
         **Licence to Import/Export/Transship for Non-Food Producing Animals, Birds, Eggs and Biologics**
@@ -92,7 +90,6 @@
         <p>The Licence to Import or Export Ornamental Fish is issued by Animal & Veterinary Service to traders who wishes to import, export or transship ornamental fish.</p>
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/importexportornamentalfish" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-to-Import-or-Export-Ornamental-Fish">View Licence Details</a>
-
         
         -----
         **Licence to Manufacture and Process Feed for Non-food Producing Animals**
@@ -117,13 +114,10 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 150px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/sp-mini.png" alt="For Individual Users"> For Individual Users </span>
 
-        A veterinary licence from AVS is required to practise veterinary medicine in Singapore.
-        
-        American Veterinary Medical Association (AVMA) or the Australasian Veterinary Boards Council (AVBC) accredited universities are generally acceptable for licensing in Singapore as well as RCVS-accredited veterinary schools in the UK. Veterinary degrees from the United Kingdom, Australia, New Zealand and veterinary degrees from US veterinary schools (AVMA-accredited) are generally recognisable. Membership...
+        <p>A veterinary licence from NPARKS/AVS is required to practise veterinary medicine in Singapore. American Veterinary Medical Association (AVMA) or the Australasian Veterinary Boards Council (AVBC) accredited universities are generally acceptable for licensing in Singapore as well as RCVS-accredited veterinary schools in the UK. Veterinary degrees from the United Kingdom, Australia, New Zealand and veterinary degrees from US veterinary schools (AVMA-accredited) are generally recognisable. Membership to the Royal College of Veterinary Surgeons (MRCVS) obtained by virtue of EU Directive 2005/36/EC is not recognised.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1705261400000006" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-to-Treat-Animals-and-Birds" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-to-Treat-Animals-and-Birds">View Licence Details</a>
-        
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/treatanimalsandbirds" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-to-Treat-Animals-and-Birds">View Licence Details</a>
+
         -----
         **Registration to Import Feed for Non-food producing animals**
 
@@ -354,32 +348,6 @@
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/csaiot4" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-IoT-(Level-4)">View Licence Details</a>
 
         -----
-        **Cybersecurity Labelling Scheme for Medical Devices (Level 1)**
-
-        <p><b>Please note that this form is exclusively intended for the CLS(MD) sandbox phase applicants; any submissions received will be considered solely for the sandbox phase, and processing refunds could pose challenges. For more details on the CLS(MD) sandbox phase, please contact cls_md@csa.gov.sg.</b></p><p>The Cybersecurity Labelling Scheme for Medical Devices is a joint initiative by the Cyber Security Agency of Singapore (CSA), Ministry of Health (MOH), Health Sciences Authority (HSA), and Synapxe as part of efforts to improve the visibility of medical devices security, raise overall cyber hygiene levels.</p><p>Under the scheme, medical devices will be rated according to their levels of cybersecurity provisions, and a label will be issued to the medical device, enabling the general public and healthcare providers to identify medical devices with appropriate cybersecurity provisions and make informed purchasing decisions.</p><p>For more information, please visit https://www.csa.gov.sg/cls or kindly contact cls_iot@csa.gov.sg.</p>
-
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/67ae8f06-5962-44ad-8098-98bee4ae5c39" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;[View Licence Details](/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-Medical-Devices-(Level-1))
-
-        -----
-        **Cybersecurity Labelling Scheme for Medical Devices (Level 2)**
-
-        <p><b>Please note that this form is exclusively intended for the CLS(MD) sandbox phase applicants; any submissions received will be considered solely for the sandbox phase, and processing refunds could pose challenges. For more details on the CLS(MD) sandbox phase, please contact cls_md@csa.gov.sg.</b></p><p>The Cybersecurity Labelling Scheme for Medical Devices is a joint initiative by the Cyber Security Agency of Singapore (CSA), Ministry of Health (MOH), Health Sciences Authority (HSA), and Synapxe as part of efforts to improve the visibility of medical devices security, raise overall cyber hygiene levels.</p><p>Under the scheme, medical devices will be rated according to their levels of cybersecurity provisions, and a label will be issued to the medical device, enabling the general public and healthcare providers to identify medical devices with appropriate cybersecurity provisions and make informed purchasing decisions.</p><p>For more information, please visit https://www.csa.gov.sg/cls or kindly contact cls_iot@csa.gov.sg.</p>
-
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/9b9b00ef-ccbf-456b-9612-c9e7926e80b4" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;[View Licence Details](/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-Medical-Devices-(Level-2))
-
-        -----
-        **Cybersecurity Labelling Scheme for Medical Devices (Level 3)**
-
-        <p><b>Please note that this form is exclusively intended for the CLS(MD) sandbox phase applicants; any submissions received will be considered solely for the sandbox phase, and processing refunds could pose challenges. For more details on the CLS(MD) sandbox phase, please contact cls_md@csa.gov.sg.</b></p><p>The Cybersecurity Labelling Scheme for Medical Devices is a joint initiative by the Cyber Security Agency of Singapore (CSA), Ministry of Health (MOH), Health Sciences Authority (HSA), and Synapxe as part of efforts to improve the visibility of medical devices security, raise overall cyber hygiene levels.</p><p>Under the scheme, medical devices will be rated according to their levels of cybersecurity provisions, and a label will be issued to the medical device, enabling the general public and healthcare providers to identify medical devices with appropriate cybersecurity provisions and make informed purchasing decisions.</p><p>For more information, please visit https://www.csa.gov.sg/cls or kindly contact cls_iot@csa.gov.sg.</p>
-
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/24169ca8-1359-4dca-80be-295c0ac45c0f" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;[View Licence Details](/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-Medical-Devices-(Level-3))
-
-        -----
-        **Cybersecurity Labelling Scheme for Medical Devices (Level 4)**
-
-        <p><b>Please note that this form is exclusively intended for the CLS(MD) sandbox phase applicants; any submissions received will be considered solely for the sandbox phase, and processing refunds could pose challenges. For more details on the CLS(MD) sandbox phase, please contact cls_md@csa.gov.sg.</b></p><p>The Cybersecurity Labelling Scheme for Medical Devices is a joint initiative by the Cyber Security Agency of Singapore (CSA), Ministry of Health (MOH), Health Sciences Authority (HSA), and Synapxe as part of efforts to improve the visibility of medical devices security, raise overall cyber hygiene levels.</p><p>Under the scheme, medical devices will be rated according to their levels of cybersecurity provisions, and a label will be issued to the medical device, enabling the general public and healthcare providers to identify medical devices with appropriate cybersecurity provisions and make informed purchasing decisions.</p><p>For more information, please visit https://www.csa.gov.sg/cls or kindly contact cls_iot@csa.gov.sg.</p>
-
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/8b0150f7-664c-41e2-8822-8cefe6ae3dd8" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;[View Licence Details](/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-Medical-Devices-(Level-4))
 
     - title: Cybersecurity Services Regulation Office (CSRO)
       content: |
@@ -458,8 +426,7 @@
 
         Required for trading in wholesale electricity market through electricity generated or load reduction.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=282" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Energy-Market-Authority-(EMA)/Electricity-Wholesaler" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Energy-Market-Authority-(EMA)/Electricity-Wholesaler">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/electricitywholesaler" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Energy-Market-Authority-(EMA)/Electricity-Wholesaler">View Licence Details</a>
 
         -----
         **Gas Shipper, Retailer or Importer**
@@ -468,8 +435,7 @@
 
         Required for the importation, transportation or retailing of natural gas via gas pipeline network.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=283" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Energy-Market-Authority-(EMA)/Gas-Shipper--Retailer-or-Importer" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Energy-Market-Authority-(EMA)/Gas-Shipper--Retailer-or-Importer">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/gasshipperretailerorimporter" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Energy-Market-Authority-(EMA)/Gas-Shipper--Retailer-or-Importer">View Licence Details</a>
 
     - title: Enterprise Singapore (EnterpriseSG)
       content: |
@@ -566,14 +532,14 @@
 
         For installing and operating of radio communication equipment on board of Singapore registered aircraft.
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/1c78f4b5-308a-4354-9508-5ec8e022a966" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Aircraft-Station-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/aircraftstation" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Aircraft-Station-Licence">View Licence Details</a>
 
         -----
         **Amateur Station Licence**
 
         You should apply for an Amateur Station Licence if you are a qualified radio amateur intending to operate radio-communication equipment solely for pleasure and for the furtherance of radio-communication techniques and not for pecuniary gain.
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/ea392104-00c3-4b75-9ad4-6d6c91006540" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Amateur-Station-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/amateurstation" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Amateur-Station-Licence">View Licence Details</a>
 
         -----
         **Application for Confirmation of Conformity (COFC)**
@@ -645,7 +611,7 @@
 
         For providing services such as conveying, receiving, collecting, sending, dispatching or delivering local or international of express letter weighing up to 500 grams.
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/1b638a62-da92-4c2d-bae5-59c90a3398fd" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Express-Letter-Services-(Class)-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/expressletters" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Express-Letter-Services-(Class)-Licence">View Licence Details</a>
 
         -----
         **Facilities-based Operations Licence**
@@ -696,7 +662,7 @@
 
         <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10081" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/General-Equipment-Registration-by-Certification-Bodies-(GER-CB)" style="margin-left: 1em;">View Licence Details</a>
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/General-Equipment-Registration-by-Certification-Bodies-(GER-CB)">View Licence Details</a>
-
+        
         -----
         **General Operator's Certificate of Competency**
 
@@ -706,47 +672,28 @@
 
         <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10074" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/General-Operator's-Certificate-of-Competency" style="margin-left: 1em;">View Licence Details</a>
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/General-Operator's-Certificate-of-Competency">View Licence Details</a>
-
+        
         -----
-        **General Radio-comm (Mobile Station)**
+        **General Radio-communication Station Licence**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        For establishing and operating of radio communication equipment in an airport area.
+        You should apply for a General Radio-communication Station Licence to transmit and receive radio-communication messages by any of the following means:
+        - Aeronautical Station
+        - Base or Fixed Station
+        - Base or Fixed Station (Spectrum)*
+        - Coast Station
+        - Fixed Link or Relay Station
+        - Fixed Link or Relay Station (Spectrum)*
+        - Free Space Optics (FSO)
+        - Mobile Station
+        - Mobile Station (Spectrum)*
+        - Radiodetermination Station
+        
+        * These licences are only applicable to Facilities Based Operation (FBO) licensees who are granted with Spectrum Rights.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10014" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/General-Radio-comm-(Mobile-Station)" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/General-Radio-comm-(Mobile-Station)">View Licence Details</a>
-
-        -----
-        **General Radio-comm Station (Base or Fixed Station)**
-
-        <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
-
-        For establishing and operating of radio communication equipment as a base/fixed station in an airport area.
-
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10058" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/General-Radio-comm-Station-(Base-or-Fixed-Station)" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/General-Radio-comm-Station-(Base-or-Fixed-Station)">View Licence Details</a>
-
-        -----
-        **General Radio-comm Station (Fixed Link or Relay Station)**
-
-        <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
-
-        For establishing and operating a radio communication equipment as a fixed or relay microwave station.
-
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10060" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/General-Radio-comm-Station-(Fixed-Link-or-Relay-Station)" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/General-Radio-comm-Station-(Fixed-Link-or-Relay-Station)">View Licence Details</a>
-
-        -----
-        **General Radio-comm Station (Radiodetermination Station)**
-
-        <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
-
-        For establishing and setting up of radio communication equipment for radio determination purposes.
-
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10061" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/General-Radio-comm-Station-(Radiodetermination-Station)" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/General-Radio-comm-Station-(Radiodetermination-Station)">View Licence Details</a>
-
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/generalradiocomm" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/General-Radio-communication-Station-Licence">View Licence Details</a>
+  
         -----
         **Localised Private Network (Multi-Channel Radiocom Networks and Systems)**
 
@@ -754,25 +701,34 @@
 
         For operating a multi-channel radio-communication network (such as walkie talkie network) on a shared-use basis and within a localised area.
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/6b3bc97f-9a89-436f-bed2-361d4a6a495e" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Localised-Private-Network-(Multi-Channel-Radiocom-Networks-and-Systems)">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/lpnmulti" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Localised-Private-Network-(Multi-Channel-Radiocom-Networks-and-Systems)">View Licence Details</a>
 
         -----
         **Localised Private Network Licence**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        For establishing and providing Localised Private Network services (such as use of walkie talkie services within a localised area).
+        You should apply for a Localised Private Network Licence if you intend to operate a radio-communication network (such as walkie talkie network) within a localised area. This means the coverage of the network is confined to a specific location.
+        
+        Examples of a localised area include:
+        - A compound (including buildings, roads and car parks) within the same postal code.
+        - A construction site within one land lot number.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=32" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Localised-Private-Network-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Localised-Private-Network-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/lpn" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Localised-Private-Network-Licence">View Licence Details</a>
 
         -----
         **Localised Radio-Communication Station Licence**
 
-        For the operation of remote control devices, local area paging devices, transceivers (CB walkie talkies), telemetry or alarm systems or both, wireless data or voice systems (e.g wireless LAN) and any other radio-communication equipment as may be authorised by the Info-communications Media Development Authority (IMDA).
+        You should apply for a Localised Radio-communication Station Licence to operate any of the following equipment or short-range radio-communication device that does not comply with IMDA Technical Specification:
+        - Local area paging devices
+        - Radio frequency remote control devices
+        - Telemetry or alarm systems or both
+        - Transceivers (CB walkie talkies)
+        - Wireless data or voice systems
+        - Wireless microphones
+        - Any other radio-communication equipment as authorised by IMDA
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=28" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Localised-Radio-Communication-Station-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Localised-Radio-Communication-Station-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/localisedradiocomm" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Localised-Radio-Communication-Station-Licence">View Licence Details</a>
 
         -----
         **Nationwide TV Service Licence**
@@ -823,14 +779,13 @@
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Printing-Press-Licence">View Licence Details</a>
 
         -----
-        **Public Mobile Network**
+        **Public Mobile Network Licence**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        For establishing and providing telecommunication services to public using multiple high power base or fixed or repeater stations.
-        
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10062" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Public-Mobile-Network" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Public-Mobile-Network">View Licence Details</a>
+        You should apply for a Public Mobile Network Licence if you intend to set up a public mobile network to establish and provide telecommunication services to public.
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/publicmobilenetwork" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Public-Mobile-Network-Licence">View Licence Details</a>
 
         -----
         **Radio Service Licence**
@@ -869,7 +824,7 @@
 
         <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10075" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Restricted-Operator's-Certificate-of-Competency" style="margin-left: 1em;">View Licence Details</a>
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Restricted-Operator's-Certificate-of-Competency">View Licence Details</a>
-
+        
         -----
         **Satellite Communication Station Licence**
 
@@ -903,10 +858,9 @@
         -----
         **Ship Station Licence**
 
-        The Ship Station Licence is issued for the operation of the radio-communication equipment installed on-board ships registered in Singapore.
+        You should apply for a Ship Station Licence if you have radio-communication equipment installed on board ships registered in Singapore.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10015" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Ship-Station-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Ship-Station-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/shipstation" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Ship-Station-Licence">View Licence Details</a>
 
         -----
         **Simplified Equipment Registration (SER)**
@@ -1617,7 +1571,7 @@
 
         Under the House to House and Streets Collection Act, all public fund-raising activities that involve house-to-house and street collections are required to be licensed by the Singapore Police Force's Licensing Division.
 
-        <a class="btn" href="https://e-services.ncss.gov.sg/Login?ReturnUrl=%2F" target="_blank" rel="noopener">Apply on NCSS</a>&emsp;[View Licence Details](/browse-all-licences/National-Council-of-Social-Service-(NCSS)/Fund-raising-Permit)
+        <a class="btn" href="https://www.charities.gov.sg/Pages/Fund-Raising/Types-of-FR-Permits/Fund-Raising-for-Local-Charitable-Purposes.aspx" target="_blank" rel="noopener">Apply on NCSS</a>&emsp;[View Licence Details](/browse-all-licences/National-Council-of-Social-Service-(NCSS)/Fund-raising-Permit)
 
     - title: National Environment Agency (NEA)
       content: |
@@ -1751,7 +1705,7 @@
 
         This licence is required for applicants intending to manufacture, possess for sale, supply, distribute or deal in ionising radiation irradiating apparatus, radioactive materials or devices containing radioactive materials
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/b1172eb5-983b-43e4-ad5a-7f41084b08bf" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/IR1---Licence-to-manufacture--possess-for-sale-or-deal-in-irradiating-apparatus-or-radioactive-materials">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/ir1" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/IR1---Licence-to-manufacture--possess-for-sale-or-deal-in-irradiating-apparatus-or-radioactive-materials">View Licence Details</a>
 
         -----
         **IR2 - Licence to keep, possess for use (other than sale) or use irradiating apparatus or radioactive materials**
@@ -1760,7 +1714,7 @@
 
         This licence is required for applicants intending to buy, purchase, keep, store, possess for use or use ionising irradiating apparatus, radiaoctive materials or devices containing radioactive materials
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/6afdb82d-d554-4228-a42b-bcfa5b7561ca" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/IR2---Licence-to-keep--possess-for-use-(other-than-sale)-or-use-irradiating-apparatus-or-radioactive-materials">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/ir2" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/IR2---Licence-to-keep--possess-for-use-(other-than-sale)-or-use-irradiating-apparatus-or-radioactive-materials">View Licence Details</a>
 
 
         -----
@@ -1770,7 +1724,7 @@
 
         This licence is required for applicants intending to handle and transport radioactive materials.
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/c5b92d32-d93f-42ea-892a-bdbe5d7c8daf" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/IR3---Licence-to-handle-and-transport-radioactive-materials">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/ir3">View Licence Details</a>
 
         -----
         **IR4A/B - Licence to import or export a consignment of ionising irradiating apparatus**
@@ -1779,7 +1733,7 @@
 
         This licence is required for applicants intending to import or export ionising radiation irradiating apparatus.
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/0b209250-e5e8-467c-94ee-039a01677947" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/IR4A-B---Licence-to-import-or-export-a-consignment-of-ionising-irradiating-apparatus">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/ir4" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/IR4A-B---Licence-to-import-or-export-a-consignment-of-ionising-irradiating-apparatus">View Licence Details</a>
 
         -----
         **IR5A/B/C - Licence to import or export a consignment of radioactive materials, or to transit or tranship a consignment of nuclear material**
@@ -1789,7 +1743,7 @@
         IR5A/B - This licence is required for applicants intending to import or export radioactive materials or devices containing radioactive materials.
         IR5C - This licence is required for applicants intending to transit or tranship nuclear material.
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/829ba34a-66fe-4ce1-9d8b-09a2194a31a4" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/IR5A-B-C---Licence-to-import-or-export-a-consignment-of-radioactive-materials--or-to-transit-or-tranship-a-consignment-of-nuclear-material">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/ir5" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/IR5A-B-C---Licence-to-import-or-export-a-consignment-of-radioactive-materials--or-to-transit-or-tranship-a-consignment-of-nuclear-material">View Licence Details</a>
 
         -----
         **N1 - Licence to manufacture, possess for sale or deal in non-ionising radiation irradiating apparatus**
@@ -1798,7 +1752,7 @@
 
         Licence to manufacture, possess for sale or deal in non-ionising irradiating apparatus.
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/7beea98c-9a1b-4050-9526-645a51333079" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/N1---Licence-to-manufacture--possess-for-sale-or-deal-in-non-ionising-radiation-irradiating-apparatus">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/n1" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/N1---Licence-to-manufacture--possess-for-sale-or-deal-in-non-ionising-radiation-irradiating-apparatus">View Licence Details</a>
 
         -----
         **N2 - Licence to keep, or possess for use non-ionising radiation irradiating apparatus**
@@ -1807,7 +1761,7 @@
 
         Licence to keep, possess or use non-ionising radiation irradiating apparatus 
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/23be94d6-7629-4f62-823b-756c812cc3c2" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/N2---Licence-to-keep--or-possess-for-use-non-ionising-radiation-irradiating-apparatus">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/n2" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/N2---Licence-to-keep--or-possess-for-use-non-ionising-radiation-irradiating-apparatus">View Licence Details</a>
 
         -----
         **N3 - Licence to use laser**
@@ -1816,7 +1770,7 @@
 
         Licence to use laser
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/ff0864a0-72f9-4b2c-a60a-5aa1c06eb415" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/N3---Licence-to-use-laser">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/n3" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/N3---Licence-to-use-laser">View Licence Details</a>
 
         -----
         **N4A/B - Licence to import or export a consignment of non-ionising radiation irradiating apparatus**
@@ -1825,7 +1779,7 @@
 
         Licence to import or export a consignment of non-ionising irradiating apparatus
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/e3750e2e-c924-41d7-b2bd-724547c4d235" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/N4A-B---Licence-to-import-or-export-a-consignment-of-non-ionising-radiation-irradiating-apparatus">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/n4" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/N4A-B---Licence-to-import-or-export-a-consignment-of-non-ionising-radiation-irradiating-apparatus">View Licence Details</a>
 
         -----
         **R1- Registration as a radiation worker**
@@ -1834,7 +1788,7 @@
 
         This certificate is required for applicants intending to perform or carry out radiation work involving ionising radiation irradiating apparatus, radioactive materials or devices containing radioactive materials
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/e12b86e0-ac32-4658-ab6b-0651f912f185" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/R1--Registration-as-a-radiation-worker">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/r1">View Licence Details</a>
 
         -----
         **Toxic Industrial Waste (TIW) Collector's Licence**
@@ -1981,7 +1935,7 @@
 
         Application to be a Licensed Plumber to carry out water service and sanitary plumbing works.
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/bd699b8c-5570-4d32-82ed-d8671af7d6d1" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Public-Utilities-Board-(PUB)/Plumber-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/plumberlicence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Public-Utilities-Board-(PUB)/Plumber-Licence">View Licence Details</a>
 
         -----
         **Written Approval for the Discharge of Trade Effluent Into the Public Sewer**
@@ -2154,7 +2108,7 @@
         -----
         **Licence to Import/Export/Transship Animals, Birds, Eggs and Biologics**
 
-        <p>The Licence to Import/Export/Transship Animals, Birds, Eggs and Biologics may be issued by either Animal & Veterinary Service, a cluster of National Parks Board or Singapore Food Agency. This licence is required if you intend to import/export/tranship animals, birds or their products into/out from Singapore. In the case of veterinary biologics, a licence is required for their import/transshipment. Export of veterinary biologics does not require a licence.</p>
+        <p>The Licence to Import/Export/Transship Animals, Birds, Eggs and Biologics is issued by Singapore Food Agency. This licence is required if you intend to import/export/tranship animals, birds or their products into/out from Singapore.</p>
 
         <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301030000131" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-to-Import-Export-Transship-Animals--Birds--Eggs-and-Biologics" style="margin-left: 1em;">View Licence Details</a>
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-to-Import-Export-Transship-Animals--Birds--Eggs-and-Biologics">View Licence Details</a>
@@ -2465,7 +2419,7 @@
 
         An extension hours liquor licence always rides on a valid liquor licence or temporary liquor licence. It cannot be valid by itself, without an accompanying liquor licence or temporary liquor licence. The extension hours period applied for can only be within the validity period of the liquor licence. An applicant may apply for both a new liquor/temporary liquor licence, and extension hours liquor licence at the same time.
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/9a352202-38fd-41db-8db6-735ad630afa7" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a id = "desktopNotice" href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Liquor-Licence---Extension-of-Operating-Hours">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/liquorlicenceextensionophrs" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a id = "desktopNotice" href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Liquor-Licence---Extension-of-Operating-Hours">View Licence Details</a>
 
         -----
         **Liquor Licence (Class 1A, 1B, 2A, 2B, 3A, 3B, 4)**
@@ -2599,8 +2553,7 @@
 
         Companies are required to have Security Agency (SA) Licence if they are providing security officers to their clients as defined in Section 13 of the Private Security Industry Act Cap 250A. Only Companies with Security Agency (SA) licence can accept assignments from clients.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=46" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Security-Agency-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Security-Agency-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/security-agency" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Security-Agency-Licence">View Licence Details</a>
 
         -----
         **Security Clearance for Special Worker (Add New Employee)**
@@ -2623,8 +2576,7 @@
         d) in respect of any public place or...
         
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=245" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Security-Officer's-Licence-(SO)" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Security-Officer's-Licence-(SO)">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/security-officer" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Security-Officer-Licence">View Licence Details</a>
 
         -----
         **Security Service Provider Licence**
@@ -2728,11 +2680,16 @@
         -----
         **Change of Use Approval**
 
-        If you want to change the use of a property (e.g. from a shop to a restaurant, or from a restaurant to a pub), you may need to apply for planning permission for Change of Use from URA.
-        Before signing a tenancy or purchase agreement of the property, you should check if your intended use for that property can be allowed, and obtain Change of Use Approval if it is required.
+        <p>If you want to change the use of a property (e.g. from a shop to a restaurant, or from a restaurant to a pub), you may need to apply for planning permission for Change of Use from URA. Before signing a tenancy or purchase agreement of the property, you should check if your intended use for that property can be allowed, and obtain Change of Use Approval if it is required.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=40" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Urban-Redevelopment-Authority-(URA)/Change-of-Use-Approval" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Urban-Redevelopment-Authority-(URA)/Change-of-Use-Approval">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/changeofuseura" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Urban-Redevelopment-Authority-(URA)/Change-of-Use-Approval">View Licence Details</a>
+        
+        -----
+        **Change of Use Approval (Renewal)**
+
+        <p>This applies to existing uses that were approved on Temporary Permission. If you wish to continue the existing approved use, you are required to submit a renewal of use application within three months before the Temporary Permission expires.</p>
+        
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/changeofuserenewalura" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Urban-Redevelopment-Authority-(URA)/Change-of-Use-Approval-(Renewal)">View Licence Details</a>
 
         -----
         **URA - Home Office Scheme (for private residential properties)**

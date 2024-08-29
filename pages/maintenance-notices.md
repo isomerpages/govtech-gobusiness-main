@@ -5,18 +5,22 @@ permalink: /maintenance-notices/
 
 ## Upcoming scheduled maintenance
 
-Kindly note the following scheduled maintenance. We apologise for the inconvenience caused.
+Kindly note the following scheduled maintenance. We apologise for the inconvenience caused. 
+GoBusiness Portal is temporarily refining our search capabilities for a better experience. Please bear with us as you may encounter some limitations in searching for records during this time.
 
 ### 2024 
 
 | **Scheduled Date** | **Remarks** |  
 
-
     
-| 6 Jul, 7pm - 8 Jul, 6am | **Applications for Licence to Import/Export/Transship Animals, Birds, Eggs and Biologics** will be unavailable during the upcoming scheduled. |     
-| 6 Jul, 8pm - 7 Jul, 8am<br>7 Jul, 6pm - 8 Jul, 6am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |          
-| 7 Jul, 12am - 2am | **Application, amendment, renewal & cancellation of Singapore Police Force (SPF) licences** will be unavailable during the upcoming scheduled maintenance. |      
-| 7 Jul, 12am - 8am<br>28 Jul, 12am - 8am | **MyInfo data retrieval for FIN holders** will be unavailable during the upcoming scheduled maintenance. |        
+    
+| 28 Aug, 6pm - 11:59pm | **Application, amendment, renewal & cancellation of National Environmental Agency (NEA) licences** will be unavailable during the upcoming scheduled maintenance. |       
+| 28 Aug, 7:15pm - 9:15pm<br>29 Aug, 11pm - 30 Aug, 7am | **Application, amendment, renewal & cancellation of Singapore Police Force (SPF) licences** will be unavailable during the upcoming scheduled maintenance. |     
+| 28 Aug, 8pm - 11pm | **Application, amendment, renewal & cancellation of Infocomm Media Development Authority (IMDA) licences** will be unavailable during the upcoming scheduled maintenance. |      
+| 30 Aug, 10pm - 31 Aug, 6am<br>31 Aug, 8pm - 1 Sep, 8am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |  
+
+
+
 
 
 <script src="/jquery/jquery.min.js"></script> <script src="/jquery/resize-tables.js"></script>

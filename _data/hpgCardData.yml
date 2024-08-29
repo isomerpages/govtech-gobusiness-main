@@ -60,7 +60,7 @@
   id: 4
   href_1: 'https://skillsfuture.gobusiness.gov.sg/'
   text_1: SkillsFuture for Business
-  is_new_1: true
+  is_new_1: false
   href_2: '/intellectual-property/ip-grow/?src=home_quicklinks'
   text_2: Intellectual Property
   is_new_2: false 

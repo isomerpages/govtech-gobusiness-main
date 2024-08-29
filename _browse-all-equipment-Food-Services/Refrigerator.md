@@ -322,6 +322,11 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - FHIABA - S8991TST3I
 - FHIABA - S8991TST6I
 - Fisher & Paykel - RB9064S1
+- Fisher & Paykel - RF610ADUSB7
+- Fisher & Paykel - RF610ADUSX6
+- Fisher & Paykel - RF610ADX6
+- Fisher & Paykel - RF610ANUB7
+- Fisher & Paykel - RF610AZUB7
 - Fisher & Paykel - RS6019BRU1
 - Fisher & Paykel - RS6019S2R1
 - Fisher & Paykel - RS6019S3RH1
@@ -365,6 +370,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Flomatic  - FUR-RF1480(E)
 - Flomatic  - FUR-RF610(E)
 - Flomatic  - FUR-RF745(E)
+- FLOMATIC - FDR-R1676(E)
 - FLOMATIC - SD-1500C
 - FLOMATIC - SD-2000C
 - FUJITECH - MRF-453W
@@ -493,6 +499,8 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Hitachi - R-WXC670KS
 - Hitachi - R-WXC740KS
 - Hitachi - R-ZXC740KS
+- Hold - LRRF12i
+- Hold - LRRF9i
 - Hoshizaki  - FT-120SDG-1
 - Hoshizaki  - FT-120SNG-1
 - Hoshizaki  - FT-150SDG-1
@@ -556,6 +564,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - IISTIA  - UPCF2A
 - IISTIA  - UPF2A
 - IISTIA  - UPF4A
+- IKEA - TILLREDA NN 80596077
 - INNOTRICS - FD-417BA
 - io mabe - INO27JSPFFS
 - io mabe - IWO19JSPFSS
@@ -580,10 +589,15 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Kerry  - KR-249B-IVT
 - Kerry  - KR-2OPC-15-B
 - Kerry  - KR-2OPC-15-W
+- Kerry - KR-021CS-IVTH
+- Kerry - KR-022CS-IVTH
 - Kerry - KR-1GDC-IVT
 - Kerry - KR-2GDC-IVT
 - Kerry - KR-3GDC-IVT
+- Kerry - KR-425UC-IVTH
 - Kerry - KR-50XFIF-2D
+- Kerry - KR-525UC-IVTH
+- Kerry - KR-625UC-IVTH
 - Kerry - KR-63XFIF-2D
 - Kerry - KR-70XFIF-2D
 - Kerry - KR-80XFIF-2D
@@ -709,6 +723,8 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Midea - MDRS761MYC02SG
 - Midea - MDRS761MYC45SG
 - Midea - MDRS761MYC46SG
+- Midea - MDRT489FGX28-SGN
+- Midea - MDRT489FGX46-SGN
 - Miele  - K 14820 SD ed/cs
 - Miele  - K 2801 VI
 - Miele  - K 2901 Vi
@@ -1012,6 +1028,14 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Panasonic - SUR-K1271SB
 - Panasonic - SUR-K1571SB
 
+- Penguin - P-12060CF
+- Penguin - P-12076CF
+- Penguin - P-1210UF
+- Penguin - P-15060CF
+- Penguin - P-15076CF
+- Penguin - P-18060CF
+- Penguin - P-18076CF
+- Penguin - P-620UF
 - Polariz  - PGR-1000-TA-EC
 - Polariz  - PGR-1600-TA-EC
 - Polariz  - PGR-500-TA-EC
@@ -1072,6 +1096,7 @@ RT62K7057BS
 - Samsung  - RZ32T7443AP
 - Samsung  - RZ32T7445AP
 - Samsung - RB34C7B5CAP
+- Samsung - RF62DB9KA5AP
 - Samsung - RL4354RBAS8
 - Samsung - RT31CG5424S9
 - Samsung - RT35CG5444S9
@@ -1084,6 +1109,8 @@ RT62K7057BS
 - Sanden Intercool  - SPE 0500
 - Sanden Intercool  - SPE 0700
 - Sanden Intercool  - SPE 1200
+- Sanden Intercool - SPM 1200
+- Sanden Intercool - SPM 1800
 - SHARP  - qSJ-RF36E-DS
 - SHARP  - SJ-FB32E-DS
 - SHARP  - SJ-FB32E-S
@@ -1358,12 +1385,18 @@ RT62K7057BS
 - SOLID COOL  - SCX6DF
 - SOLID COOL  - SXS-500Y
 - SOLID COOL  - SXS-700Y
+- SOLID COOL - SC-2DTT
 - Sub-Zero - GR-RT735WE-PGX(XK)
 - Sub-Zero - GR-RT835WE-PGX(XK)
 - Sub-Zero - ICBBI-36R/S/PH-LH
 - Sub-Zero - ICBBI-36R/S/PH-RH
 - Sub-Zero - ICBBI-36R/S/TH-LH
 - Sub-Zero - ICBBI-36R/S/TH-RH
+- Sub-Zero - ICBCL3650RID
+- Sub-Zero - ICBCL3650RID/S/P/L
+- Sub-Zero - ICBCL3650RID/S/P/R
+- Sub-Zero - ICBCL3650RID/S/T/L
+- Sub-Zero - ICBCL3650RID/S/T/R
 - Sub-Zero - ICBCL3650UID
 - Sub-Zero - ICBCL3650UID/S/P/L
 - Sub-Zero - ICBCL3650UID/S/P/R
@@ -1374,6 +1407,9 @@ RT62K7057BS
 - Sub-Zero - ICBCL4250S/O
 - Sub-Zero - ICBCL4250S/S/P
 - Sub-Zero - ICBCL4250S/S/T
+- Sub-Zero - ICBDEC2450R
+- Sub-Zero - ICBDEC2450R/L
+- Sub-Zero - ICBDEC2450R/R
 - Sub-Zero - ICBIC-24C-LH
 - Sub-Zero - ICBIC-24C-RH
 - Sub-Zero - ICBIC-24R-LH
@@ -1424,14 +1460,27 @@ RT62K7057BS
 - Superior  - SGCF-396
 - Superior  - SGCF-500
 - Superior  - SGCF-700
+- SUPREME - 1207680C
+- SUPREME - 1507680C
+- SUPREME - 1507680F
+- SUPREME - 1807680C
+- SUPREME - 1807680F
+- SUPREME - 2DUFF
 - Supreme - 2DUFF
+- SUPREME - 4DUFC
 - Supreme - 4DUFC
+- SUPREME - 4DUFF
 - Supreme - 4DUFF
 - Tecno  - TFR 1288-V2
 - Tecno  - TFR 330 Retro
 - Tecumseh  - PAC66Z-3L
 - Tecumseh  - PAC66Z-3XL
 - Teka  - TFI3 130 D
+- TONG'S KITCHEN - ECO-IVT-1DC
+- TONG'S KITCHEN - ECO-IVT-2DC
+- TONG'S KITCHEN - ECO-IVT-2DF
+- TONG'S KITCHEN - ECO-IVT-3DC
+- TONG'S KITCHEN - ECO-IVT-3DF
 - Toshiba  - GR-AG46SDZ
 - Toshiba  - GR-AG52SDZ
 - Toshiba  - GR-AG55SDZ
@@ -1457,6 +1506,7 @@ RT62K7057BS
 - Toshiba  - GR-RT624WE-PMX(37S)
 - Toshiba  - GR-RT624WE-PMX(57S)
 - Toshiba - GR-RT735WE-PGX(GG)
+- Toshiba - GR-RT835WE-PGX(B5)
 - Toshiba - GR-RT835WE-PGX(PGB)
 - Ty Brand  - RTGD-1DC-260-IVTH
 - Ty Brand  - RTGD-1DC-330-IVTH
@@ -1479,6 +1529,7 @@ RT62K7057BS
 - UNICOOL - LK-420CC-IV
 - V-ZUG - CCO4T-51087
 - V-ZUG - CCO6T-51096
+- V-ZUG - CO4T-51140
 - V-ZUG - CO6T-51098
 - V-ZUG - Jumbo T
 - Whirlpool  - TM500 VCC UI
