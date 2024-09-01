@@ -198,6 +198,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Megaman - LH0133-E27-6500K
 - Megaman - LT200160/mb-12v01-4000K
 - Megaman - LT200160/mb-12v01-6500K
+- Megaman - T5G1-ML-2FT-7.5W
 - Megaman - T5G1-ML-4FT-16W
 - Megaman - YKT8BFG3-16W-S
 - Megaman - YKT8BFG3-8W-S
@@ -265,10 +266,14 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Osram - LEDVALUE STICK 10W/865 (LL-15000h)
 - Osram - LEDVALUE STICK 12W/840 (LL-15000h)
 - Osram - LEDVALUE STICK 12W/865 (LL-15000h)
+- Osram - LV HW 27W/827 100-240V E27
+- Osram - LV HW 27W/865 100-240V E27
 - Osram - LVCLA40 4.2W/827 230V FR E27
 - Osram - LVCLA40 4.2W/865 230V FR E27
 - Osram - LVCLA60 7.3W/827 230V FR E27
 - Osram - LVCLA60 7.3W/865 230V FR E27
+- Osram - LVCLA75 9.5W/827 230V FR E27
+- Osram - LVCLA75 9.5W/865 230V FR E27
 - Osram - ST5HE14 0. 6 M 8W 8 65 G5
 - Osram - ST5HE14 0. 6 M 8W 840 G5
 - Osram - ST5HE14 0.6M 8W 830 G5
@@ -373,6 +378,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Philips - 8718696823002
 - Philips - 8718696823002 LEDBulb 12W E27 3000K 230V 1PF 12 9 APR
 - Philips - 8718696823002(NEW)
+- Philips - 8718696823026 LEDBulb 10W E27 6500K 230V 1PF 12 9 APR
 - Philips - 8718696823040
 - Philips - 8718696823040 LEDBulb 12W E27 6500K 230V 1PF 12 9 APR
 - Philips - 8718696823040(NEW)
@@ -570,13 +576,65 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Sunshine - LCANG-4E14W
 - Sunshine - LCANTG-4E14D
 - Sunshine - LCANTG-4E14W
+- Sunshine - LFGAC-4E27D-NEW
+- Sunshine - LFGAC-4E27W-NEW
+- Sunshine - LFGAC-6E27D-NEW
+- Sunshine - LFGAC-6E27W-NEW
 - Sunshine - LFGGA-8E27W
+- Sunshine - LFGGF-4E27D-NEW
+- Sunshine - LFGGF-4E27W-NEW
 - Sunshine - LFGGH-6E27D-NEW
 - Sunshine - LFGGH-6E27W-NEW
 - Sunshine - LFSTC-4E27D-NEW
 - Sunshine - LFSTC-4E27W-NEW
+- Sunshine - LFSTC-6E27D-NEW
+- Sunshine - LFSTC-6E27W-NEW
+- Sunshine - LGM-13B22D-NEW
+- Sunshine - LGM-13B22W-NEW
+- Sunshine - LGM-13E27D-NEW
+- Sunshine - LGM-13E27W-NEW
+- Sunshine - LGM-15B22D-1-NEW
+- Sunshine - LGM-15B22W-1-NEW
+- Sunshine - LGM-15E27D-1-NEW
+- Sunshine - LGM-15E27W-1-NEW
+- Sunshine - LGT-12B22D-D
+- Sunshine - LGT-12B22D-NEW
+- Sunshine - LGT-12B22W-D
+- Sunshine - LGT-12B22W-NEW
+- Sunshine - LGT-12E27D-D
+- Sunshine - LGT-12E27D-NEW
+- Sunshine - LGT-12E27W-D
+- Sunshine - LGT-12E27W-NEW
+- Sunshine - LGT-5B22D-NEW
+- Sunshine - LGT-5B22W-NEW
+- Sunshine - LGT-5E14D-D-NEW
+- Sunshine - LGT-5E14D-NEW
+- Sunshine - LGT-5E14W-D-NEW
+- Sunshine - LGT-5E14W-NEW
+- Sunshine - LGT-5E27D-D-NEW
+- Sunshine - LGT-5E27D-NEW
+- Sunshine - LGT-5E27W-D-NEW
+- Sunshine - LGT-5E27W-NEW
+- Sunshine - LGT-6B22D-NEW
+- Sunshine - LGT-6B22W-NEW
+- Sunshine - LGT-6E27D-NEW
+- Sunshine - LGT-6E27W-NEW
+- Sunshine - LGT-7E27D-2-NEW
+- Sunshine - LGT-7E27W-2-NEW
+- Sunshine - LGT-9B22D-2
+- Sunshine - LGT-9B22W-2
+- Sunshine - LGT-9E27D-2
+- Sunshine - LGT-9E27W-2
 - Sunshine - LPINB-12E27D-NEW
 - Sunshine - LPINB-12E27W-NEW
+- Sunshine - LPINB-7E14D-NEW
+- Sunshine - LPINB-7E14W-NEW
+- Sunshine - LPINB-7E27D-NEW
+- Sunshine - LPINB-7E27W-NEW
+- Sunshine - LPINB-9E14D-NEW
+- Sunshine - LPINB-9E14W-NEW
+- Sunshine - LPINB-9E27D-NEW
+- Sunshine - LPINB-9E27W-NEW
 - Topstar - TSL29E102
 - Topstar - TSL29E103
 - Topstar - TSL29E105
