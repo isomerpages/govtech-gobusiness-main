@@ -1,11 +1,11 @@
 ---
-title: 'China Sinda Intellectual Property Pte. Ltd.'
-permalink: /intellectual-property/ip-grow/china-sinda-intellectual-property-pte-ltd/
+title: 'CSAsia IP Pte. Ltd.'
+permalink: /intellectual-property/ip-grow/csasia-ip-pte-ltd/
 ---
 
-## China Sinda Intellectual Property Pte. Ltd.
+## CSAsia IP Pte. Ltd.
 
-Established in 2014, the Singapore office of China Sinda Intellectual Property is dedicated to excellence in Intellectual Property (IP) services. Our close-knit team includes six Singapore-qualified patent attorneys with deep expertise in a variety of fields, e.g., Engineering and Sciences, Artificial Intelligence and Machine Learning, ICT, Integrated Circuit Devices, Semiconductors, Optics & Photonics, Chemistry, and Materials Science.
+Established in 2014, CSAsia IP Pte. Ltd. is dedicated to excellence in Intellectual Property (IP) services. Our close-knit team includes six Singapore-qualified patent attorneys with deep expertise in a variety of fields, e.g., Engineering and Sciences, Artificial Intelligence and Machine Learning, ICT, Integrated Circuit Devices, Semiconductors, Optics & Photonics, Chemistry, and Materials Science.
 
 We offer a comprehensive suite of services tailored for both international and domestic clientele, encompassing all aspects of IP management. This includes patent portfolio management, prior art searches and the drafting and filing of patent specifications, to the prosecution of patents in Singapore and abroad. We assist clients with their Trademark and Registered Design portfolios, and we provide strategic global IP filing advice to safeguard and maximize the value of our clients' innovations.
 
@@ -17,7 +17,7 @@ We offer a comprehensive suite of services tailored for both international and d
 
 <b>Address in Singapore:</b> 47 Scotts Road #13-03 Goldbell Towers, Singapore 228233
 
-<b>Website:</b> <a href='https://www.chinasinda.sg/'>https://www.chinasinda.sg/</a>
+<b>Website:</b> <a href='https://www.csasiap.com'>https://www.csasiap.com</a>
 
 <b>Offer:</b> First consultation is free for local start-ups and SMEs upon request.
 
@@ -110,11 +110,11 @@ We offer a comprehensive suite of services tailored for both international and d
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, IP Intelligence and Search, IP Due Diligence, IP Portfolio Management
 - Certifications/Qualifications: Registered Singapore Patent Agent (Qualified since 2006), China Patent Agent (Qualified since 1993), Graduate Certificate in Intellectual Property Law at National University of Singapore, M. Eng. Nanyang Technological University, B. Eng. Mechanical Engineering at Tsinghua University
-- URL of LinkedIn/Company Profile: <a href="https://www.chinasinda.sg/team/" target="_blank" rel="noopener">https://www.chinasinda.sg/team/</a>
+- URL of LinkedIn/Company Profile: <a href="https://www.csasiaip.com/team/" target="_blank" rel="noopener">https://www.csasiaip.com/team/</a>
 
 
 ---
 <p>
 <a class='btn' href='https://form.gov.sg/6490fe43ac885100110f899f' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 28 May 2024
+Profile last updated on 4 Sep 2024
