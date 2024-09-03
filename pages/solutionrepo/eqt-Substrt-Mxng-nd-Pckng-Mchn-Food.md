@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Substrt-Mxng-nd-Pckng-
 
 **Description**
 
-A machine to mix and fill substrate bags/planting trays with various growing substrates/media that are necessary for growing of crops.
+A machine to mix and fill substrate bags/planting trays with various growing substrates/media that's are necessary for growing of crops.
 
 ## Solution Packages Option(s)
 
@@ -22,7 +22,7 @@ A machine to mix and fill substrate bags/planting trays with various growing sub
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Substrate Mixing and Packing Machine</td>
 <td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px;'>Holding Period of 1 year</td>
 </tr>
 </table>
 

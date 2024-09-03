@@ -8,7 +8,7 @@ third_nav_title: National Council of Social Service (NCSS)
 
 National Council of Social Service (NCSS)
 
-{% include button.html text="Apply on NCSS" src="https://e-services.ncss.gov.sg/Login?ReturnUrl=%2F" type="primary" %}
+{% include button.html text="Apply on NCSS" src="https://www.charities.gov.sg/Pages/Fund-Raising/Types-of-FR-Permits/Fund-Raising-for-Local-Charitable-Purposes.aspx" type="primary" %}
 
 <H3>Application Details</H3>
 

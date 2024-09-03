@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Cyber-Security-solutions/Endpoint-Protection-Pl
 
 **Support Level and Conditions**
 
-Up to 0.5 for SMEs, N.A. for non-SMEs
+Up to `50% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
@@ -30,6 +30,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200907828N-ESET-Protct-Entry-G' target='_blank'>ESET Protect Entry</a><br></td>
 <td>ACE Peripherals Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201528272H-Cloudbl-Cybr-Protcton-Sut-Powrd-By-Acrons-G' target='_blank'>Cloudable Cyber Protection Suite - Powered By Acronis</a><br></td>
+<td>Cloudable Solutions Pte Ltd</td>
 </tr>
 </table>
 

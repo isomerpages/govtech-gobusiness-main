@@ -22,7 +22,7 @@ A system used to move air between indoor and outdoor areas and provide heating a
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Heating, Ventilation and Air-conditioning (HVAC) system</td>
 <td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px;'>Holding Period of 1 year</td>
 </tr>
 </table>
 

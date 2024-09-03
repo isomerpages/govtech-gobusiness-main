@@ -7,7 +7,7 @@ permalink: /browse-all-equipment-Manufacturing/Refrigerator
 
 ### Technical Requirements
 
-- Household refrigerator: Minimum 3-ticks and using refrigerant with GWP ≤ 15
+- Household refrigerator: Minimum 3-ticks
 
 - Commercial refrigerator: Inverter technology
 
@@ -55,6 +55,18 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - A-COOL - SDW-200
 - A-COOL - SIVMC-6
 - A-COOL - SIVMC-8
+- ALAN - A-CAKE-120-3-A-IV
+- ALAN - A-CAKE-120-4-A-IV
+- ALAN - A-CAKE-150-3-A-IV
+- ALAN - A-CAKE-150-4-A-IV
+- ALAN - A-CAKE-180-3-A-IV
+- ALAN - A-CAKE-180-4-A-IV
+- ALAN - A-CAKE-90-3-A-IV
+- ALAN - A-CAKE-90-4-A-IV
+- ALAN - A-Glass-Chiller-02D-UR-A-IV
+- ALAN - A-Glass-Chiller-03D-UR-A-IV
+- ALAN - A-Glass-Freezer-02D-UR-A-IV
+- ALAN - A-Glass-Freezer-03D-UR-A-IV
 - ARCTICOOL  - ED0.5F-2M
 - ARCTICOOL  - ED1.0F-4M
 - ARCTICOOL  - ED1200F
@@ -71,6 +83,9 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - ARCTICOOL  - EG1500F (600)
 - ARCTICOOL  - EG1800F
 - ARCTICOOL  - EG1800F (600)
+- Berjaya - 3DDC-IV-BB
+- Berjaya - 3DDC-IV-SB
+- Berjaya - 3DDC-IV-WB
 - Bosch  - KFN96PX91I
 - Bosch  - KGN36XI46
 - Bosch  - KGN56LB40O
@@ -280,6 +295,7 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - EKO - EKO_INVCF_1288
 - EKO - EKO_INVCF_1588
 - EKO - EKO_INVCF_1888
+- EKO - EKO-INV4DUR-1282
 - Electrolux  - EHE5224-B-A
 - Electrolux - EBE4500B-A
 - Electrolux - EBE4500B-G
@@ -458,6 +474,9 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - Galilei  - LRW-210RM
 - HCK - BC-130RBA
 - HCK - BC-330RD
+- Hisense - RT469N4SBU
+- Hisense - RT469N4SW-LBU
+- Hisense - RT469N4SWU
 - Hitachi  - R-B570P7MS
 - Hitachi  - R-G500GS
 - Hitachi  - R-HV480NS
@@ -500,6 +519,7 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - Hitachi - R-ZXC740KS
 - Hold - LRRF12i
 - Hold - LRRF9i
+- Hoshiaki - HRF-120AFT
 - Hoshizaki  - FT-120SDG-1
 - Hoshizaki  - FT-120SNG-1
 - Hoshizaki  - FT-150SDG-1
@@ -552,6 +572,9 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - Hoshizaki  - RT-180SNG-1
 - Hoshizaki  - RT-90SDG-1
 - Hoshizaki  - RT-90SNG-1
+- Hoshizaki - HRF-120AF-1
+- Hoshizaki - HRF-75A-1
+- Hoshizaki - HRF-75AT-1
 - IISTIA  - UC1275A
 - IISTIA  - UC1575A
 - IISTIA  - UC1875A
@@ -589,14 +612,24 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - Kerry  - KR-2OPC-15-B
 - Kerry  - KR-2OPC-15-W
 - Kerry - KR-021CS-IVTH
+- Kerry - KR-021FS-IVTH
 - Kerry - KR-022CS-IVTH
+- Kerry - KR-022FS-IVTH
+- Kerry - KR-023CS-IVTH
+- Kerry - KR-023FS-IVTH
 - Kerry - KR-1GDC-IVT
 - Kerry - KR-2GDC-IVT
 - Kerry - KR-3GDC-IVT
 - Kerry - KR-425UC-IVTH
+- Kerry - KR-425UF-IVTH
+- Kerry - KR-42UF-IVTH
 - Kerry - KR-50XFIF-2D
 - Kerry - KR-525UC-IVTH
+- Kerry - KR-525UF-IVTH
+- Kerry - KR-52UF-IVTH
 - Kerry - KR-625UC-IVTH
+- Kerry - KR-625UF-IVTH
+- Kerry - KR-62UF-IVTH
 - Kerry - KR-63XFIF-2D
 - Kerry - KR-70XFIF-2D
 - Kerry - KR-80XFIF-2D
@@ -697,6 +730,7 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - Liebherr  - SRBsdh 5260
 - Liebherr  - SUIK 1510
 - Liebherr  - SUIKo1550
+- Liebherr - CBNsdh 7653
 - Midea  - CE-BCD640WE-JT
 - Midea  - MDRB470MGD28
 - Midea  - MDRD86FGD01-SG
@@ -1021,24 +1055,64 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - Panasonic  - SUR-K2161SB-R
 - Panasonic  - SUR-K2171SB
 - Panasonic  - SUR-K2171SB-R
+- Panasonic - NR-BW530H
 - Panasonic - SRF-K781B
 - Panasonic - SRR-K781B
 - Panasonic - SUF-K1571SB
 - Panasonic - SUR-K1271SB
 - Panasonic - SUR-K1571SB
 
+- Penguin - P-12060CCF
 - Penguin - P-12060CF
+- Penguin - P-12076CCF
 - Penguin - P-12076CF
+- Penguin - P-120MC
+- Penguin - P-120SCCC
+- Penguin - P-120SRCC
+- Penguin - P-1210UCF
 - Penguin - P-1210UF
+- Penguin - P-1250SMCF
+- Penguin - P-1250SMFF
+- Penguin - P-15060CCF
 - Penguin - P-15060CF
+- Penguin - P-15076CCF
 - Penguin - P-15076CF
+- Penguin - P-150MC
+- Penguin - P-150SCCC
+- Penguin - P-150SRCC
+- Penguin - P-18060CCF
 - Penguin - P-18060CF
+- Penguin - P-18076CCF
 - Penguin - P-18076CF
+- Penguin - P-180MC
+- Penguin - P-180SCCC
+- Penguin - P-180SRCC
+- Penguin - P-1900SMCF
+- Penguin - P-1900SMFF
 - Penguin - P-620UF
+- Penguin - P-70CCC
+- Penguin - P-70RCC
+- Penguin - P-90CCC
+- Penguin - P-90RCC
+- Penguin - P-90SCCC
+- Penguin - P-90SRCC
+- Penguin - P-D12076CC
+- Penguin - P-D15076CC
+- Penguin - P-D18076CC
+- Penguin - P-DD12076CC
+- Penguin - P-ODC120
+- Penguin - P-ODC130
+- Penguin - P-ODC150
+- Penguin - P-ODC180
+- Penguin - P-S12080CC
+- Penguin - P-S15080CC
+- Penguin - P-S18080CC
 - Polariz  - PGR-1000-TA-EC
 - Polariz  - PGR-1600-TA-EC
 - Polariz  - PGR-500-TA-EC
 - PowerPac  - PPBF555A
+- PowerPac - PPF136 (NEW)
+- PowerPac - PPF85 (NEW)
 - PRISM+  - FT4201SABI
 - PRISM+ - FS6001SBBI
 - PRISM+ - FS6001SBIN
@@ -1095,6 +1169,8 @@ RT62K7057BS
 - Samsung  - RZ32T7443AP
 - Samsung  - RZ32T7445AP
 - Samsung - RB34C7B5CAP
+- Samsung - RF59C7004B1
+- Samsung - RF59C7664B1
 - Samsung - RF62DB9KA5AP
 - Samsung - RL4354RBAS8
 - Samsung - RT31CG5424S9
@@ -1409,6 +1485,9 @@ RT62K7057BS
 - Sub-Zero - ICBDEC2450R
 - Sub-Zero - ICBDEC2450R/L
 - Sub-Zero - ICBDEC2450R/R
+- Sub-Zero - ICBDEC3050RID
+- Sub-Zero - ICBDEC3050RID/L
+- Sub-Zero - ICBDEC3050RID/R
 - Sub-Zero - ICBIC-24C-LH
 - Sub-Zero - ICBIC-24C-RH
 - Sub-Zero - ICBIC-24R-LH
@@ -1472,9 +1551,13 @@ RT62K7057BS
 - Supreme - 4DUFF
 - Tecno  - TFR 1288-V2
 - Tecno  - TFR 330 Retro
+- Tecno - TFR-100
+- Tecno - TFR-49
 - Tecumseh  - PAC66Z-3L
 - Tecumseh  - PAC66Z-3XL
 - Teka  - TFI3 130 D
+- TNG - TBF48B
+- TNG - TBF48W
 - TONG'S KITCHEN - ECO-IVT-1DC
 - TONG'S KITCHEN - ECO-IVT-2DC
 - TONG'S KITCHEN - ECO-IVT-2DF
@@ -1526,6 +1609,7 @@ RT62K7057BS
 - UNICOOL  - LKU4FF-IV
 - UNICOOL - LK-1100CC-IV
 - UNICOOL - LK-420CC-IV
+- UNICOOL - LKU2F2C-IV
 - V-ZUG - CCO4T-51087
 - V-ZUG - CCO6T-51096
 - V-ZUG - CO4T-51140
@@ -1603,6 +1687,7 @@ RT62K7057BS
 - YUDA - YD-210DF-IVT
 - YUDA - YD-330DF-IVT
 - YUDA - YD-450F-IVT
+- YUDA - YD-4OPC-IVT
 - YUDA - YD-C3-1200-IVT
 - YUDA - YD-C3-1500-IVT
 - YUDA - YD-C3-900-IVT
