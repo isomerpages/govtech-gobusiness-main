@@ -13,13 +13,12 @@ GoBusiness Portal is temporarily refining our search capabilities for a better e
 | **Scheduled Date** | **Remarks** |  
 
     
+    
+| 28 Aug, 6pm - 11:59pm | **Application, amendment, renewal & cancellation of National Environmental Agency (NEA) licences** will be unavailable during the upcoming scheduled maintenance. |       
+| 28 Aug, 7:15pm - 9:15pm<br>29 Aug, 11pm - 30 Aug, 7am | **Application, amendment, renewal & cancellation of Singapore Police Force (SPF) licences** will be unavailable during the upcoming scheduled maintenance. |     
+| 28 Aug, 8pm - 11pm | **Application, amendment, renewal & cancellation of Infocomm Media Development Authority (IMDA) licences** will be unavailable during the upcoming scheduled maintenance. |      
+| 30 Aug, 10pm - 31 Aug, 6am<br>31 Aug, 8pm - 1 Sep, 8am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |  
 
-
-  
-| 23 Aug, 10pm - 24 Aug, 2am | **Progressive Wage (PW) Mark Services** will be unavailable during the upcoming scheduled maintenance. |         
-| 24 Aug, 8pm - 25 Aug, 8am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |  
-| 24 Aug, 10pm - 25 Aug, 6am | **Application, amendment, renewal & cancellation of National Parks Board (NPARKS) licences** will be unavailable during the upcoming scheduled maintenance. |
-| 26 Aug, 8pm - 27 Aug, 8am<br>29 Aug, 11pm - 30 Aug, 7am | **Application, amendment, renewal & cancellation of Singapore Police Force (SPF) licences** will be unavailable during the upcoming scheduled maintenance. |     
 
 
 
