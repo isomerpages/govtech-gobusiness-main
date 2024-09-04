@@ -68,20 +68,20 @@ The licence fee is $24 per licence to operate a Children and Young Persons Home 
 <li>
 <strong>What amendments can be made after a licence has been issued?</strong><br>
 Amendments can be made to the licence under the following circumstances:<br>
-i) Change in Main Licensee’s registered residential address and contact details;<br>
-ii) Change in Home’s registered address;<br>
-iii) Change in Parent Organisation’s registered address;<br>
-iv) Change in the Home’s name;<br>
+i) Change in Main Licensee's registered residential address and contact details;<br>
+ii) Change in Home's registered address;<br>
+iii) Change in Parent Organisation's registered address;<br>
+iv) Change in the Home's name;<br>
 v) Transfer of Licensee; or<br>
-vi) Change in Home’s capacity.<br>
-Please select ‘Amend’ button in the online portal <a href="https://www.gobusiness.gov.sg/" target="_blank" rel="noopener">https://www.gobusiness.gov.sg/</a> if you want to apply to make changes.
+vi) Change in Home's capacity.<br>
+Please select 'Amend' button in the online portal <a href="https://www.gobusiness.gov.sg/" target="_blank" rel="noopener">https://www.gobusiness.gov.sg/</a> if you want to apply to make changes.
 </li>
 
 <li>
 <strong>Are there documents that need to be submitted to support the amendments?</strong><br>
 Please attach a copy of the supporting documents when making the following amendments:<br>
-i) Transfer of licensee – Application in writing signed by the licensee of the Home and by the person to whom the licensee desires to transfer the licence to; and<br>
-ii) Change in the Home’s approved capacity – Any document in support of the request. For any other amendments, please email us at <a href="mailto:MSF_RHL@msf.gov.sg">MSF_RHL@msf.gov.sg</a>.
+i) Transfer of licensee - Application in writing signed by the licensee of the Home and by the person to whom the licensee desires to transfer the licence to; and<br>
+ii) Change in the Home's approved capacity - Any document in support of the request. For any other amendments, please email us at <a href="mailto:MSF_RHL@msf.gov.sg">MSF_RHL@msf.gov.sg</a>.
 
 </li>
 
