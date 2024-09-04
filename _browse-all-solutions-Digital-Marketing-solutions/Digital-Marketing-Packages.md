@@ -176,10 +176,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>QIANYI TRADING PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200914055M-DM-Th-Lttl-Blck-Book-Socl-Md-Dgtl-Mrktng-Pckg-G' target='_blank'>DM The Little Black Book Social Media Digital Marketing Package</a><br></td>
-<td>The Little Black Book Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201325568H-DM-Bzsqur-Dgtl-Mrktng-Sut-PKG-G' target='_blank'>DM Bizsquare Digital Marketing Suite Packages</a><br></td>
 <td>Bizsquare Management Consultants Pte Ltd</td>
 </tr>

@@ -68,6 +68,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Simpliify Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201016666H-Shopcd-Ecommrc-G' target='_blank'>Shopcada Ecommerce</a><br></td>
+<td>Webcada Pte. Ltd.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201535836W-Commrc-Mstrpln-v-20-G' target='_blank'>eCommerce Masterplan Version 2.0</a><br></td>
 <td>Aks Tech Pte Ltd</td>
 </tr>

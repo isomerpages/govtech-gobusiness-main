@@ -23,10 +23,6 @@ This solution is supported by ACRA.
 <td><a href='/productivity-solutions-grant/solutionrepo/201826102D-TWXRM-G' target='_blank'>TWXRM</a><br></td>
 <td>teamWork APAC Pte. Ltd.</td>
 </tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199703606K-Frm-G' target='_blank'>iFirm</a><br></td>
-<td>Wolters Kluwer Singapore Pte Ltd</td>
-</tr>
 </table>
 
 {% include banner-psg-survey.html %}

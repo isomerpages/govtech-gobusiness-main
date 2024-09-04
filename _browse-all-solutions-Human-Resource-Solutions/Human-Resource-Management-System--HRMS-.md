@@ -88,10 +88,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Carbonate Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201700241Z-cutOffc-ERP-v-20-G' target='_blank'>cuteOffice ERP Version 2.0</a><br></td>
-<td>Cutech Infocomm Solutions Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202135719C-Employmnt-Hro-G' target='_blank'>Employment Hero</a><br></td>
 <td>Employment Hero Pte. Ltd.</td>
 </tr>
@@ -100,16 +96,16 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Adaptive Cloud Systems Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200711480W-AI-INFOTECH-Cloud-HRMS-v-80-G' target='_blank'>(A.I.) INFO-TECH Cloud HRMS Version 8.0</a><br></td>
+<td>Info-Tech Systems Integrators Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/199101278H-BAS-v-v10-G' target='_blank'>BAS Version v10</a><br></td>
 <td>Intercorp Solutions Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200005018Z-Frontr-HR-AutomtHR-Frontr-v-8-G' target='_blank'>Frontier e-HR - AutomateHR eFrontier Version 8</a><br></td>
 <td>Frontier e-HR Pte Ltd </td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200711480W-AI-INFOTECH-Cloud-HRMS-v-80-G' target='_blank'>(A.I.) INFO-TECH Cloud HRMS Version 8.0</a><br></td>
-<td>Info-Tech Systems Integrators Pte Ltd</td>
 </tr>
 </table>
 
