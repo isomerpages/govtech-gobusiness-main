@@ -186,6 +186,26 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - NOVA - NIC-3.5T
 - NOVA - NIC-5T
 - OZTI  - 7865.N1.80903.IS
+- Penguin - P-AIFC
+- Penguin - P-AIWC
+- Penguin - P-S15000W-B
+- Penguin - P-S15000W-B2
+- Penguin - P-S15000W-WK
+- Penguin - P-S15000W-WK2
+- Penguin - P-S15000W-WK3
+- Penguin - P-S3500W-2
+- Penguin - P-S3500W-4
+- Penguin - P-S3500W-6
+- Penguin - P-T3500W
+- Penguin - P-T4200W
+- Penguin - P-T5000W
+- Penguin - P-T5000W-1PH
+- Penguin - P-T5000W-3PH
+- Penguin - P-W-3500W
+- Penguin - P-W-4200W
+- Penguin - P-W-5000W
+- Penguin - P-W-T5000W-1PH
+- Penguin - P-W-T5000W-3PH
 - RATIONAL  - iVario 2-XS
 - RATIONAL  - iVario Pro 2-S
 - RATIONAL  - iVario Pro L
