@@ -158,6 +158,7 @@ We can provide clear and succinct advice on how to draft or interpret IP clauses
 ### Key practice experts
 
 **Andrew Loh**
+
 - Job Title: Managing Director
 - Years of Experience: 14 years
 - Location: Singapore
@@ -166,6 +167,7 @@ We can provide clear and succinct advice on how to draft or interpret IP clauses
 - URL of LinkedIn/Company Profile: <a href="https://www.sterlingip.co.uk/andrew-loh-bio" target="_blank" rel="noopener">https://www.sterlingip.co.uk/andrew-loh-bio</a>
 
 **Berni Hambleton**
+
 - Job Title: Director
 - Years of Experience: 24 years
 - Location: United Kingdom
@@ -174,6 +176,7 @@ We can provide clear and succinct advice on how to draft or interpret IP clauses
 - URL of LinkedIn/Company Profile: <a href="https://www.sterlingip.co.uk/bernis-bio" target="_blank" rel="noopener">https://www.sterlingip.co.uk/bernis-bio</a>
 
 **Lin Bishop**
+
 - Job Title: Formalities Officer
 - Years of Experience: 20 years
 - Location: United Kingdom 

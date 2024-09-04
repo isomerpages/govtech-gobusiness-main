@@ -88,7 +88,7 @@ We leverage digital technologies to drive business value, offering UI/UX design 
 <a name='case-studies'></a>
 ### Case studies
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://www.loukengroup.com/hegen" target="_blank" rel="noopener">case study 1</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.loukengroup.com/braid/" target="_blank" rel="noopener">case study 2</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.loukengroup.com/chienchitow" target="_blank" rel="noopener">case study 3</a></li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://www.loukengroup.com/work/hegen/" target="_blank" rel="noopener">case study 1</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.loukengroup.com/work/braid/" target="_blank" rel="noopener">case study 2</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.loukengroup.com/work/skin-inc/" target="_blank" rel="noopener">case study 3</a></li></ul>
 
 ---
 <a name='key-practice-experts'></a>

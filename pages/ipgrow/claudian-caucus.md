@@ -146,6 +146,7 @@ Claudian Caucus boasts a depth of expertise in novel technologies ranging from b
 ### Key practice experts
 
 **Jonas Koh**
+
 - Job Title: Director
 - Years of Experience: 9 years
 - Location: Singapore
