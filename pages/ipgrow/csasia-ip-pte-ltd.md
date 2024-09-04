@@ -17,7 +17,7 @@ We offer a comprehensive suite of services tailored for both international and d
 
 <b>Address in Singapore:</b> 47 Scotts Road #13-03 Goldbell Towers, Singapore 228233
 
-<b>Website:</b> <a href='https://www.csasiap.com'>https://www.csasiap.com</a>
+<b>Website:</b> <a href='https://www.csasiaip.com/'>https://www.csasiaip.com/</a>
 
 <b>Offer:</b> First consultation is free for local start-ups and SMEs upon request.
 
