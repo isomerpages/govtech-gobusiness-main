@@ -1,5 +1,5 @@
 ---
-title: Search for licence (new)
+title: Find licence (By industry)
 permalink: /licences/browse-all-licences/
 third_nav_title: Licences and Permits
 anchorlinks:
@@ -55,7 +55,7 @@ anchorlinks:
     anchor_text: 'Utilities & Environment'
 ---
 
-## Search for licence (new)
+## Find licence (By industry)
 
 {% include overview-licence.html notice=site.data.ov018-licence-browse-all %}
 
@@ -103,6 +103,7 @@ anchorlinks:
 - [Air Traffic Controller Licence](https://www.caas.gov.sg/personnel-licences-training/air-traffic-controller)
 - [Aircraft Maintenance Engineer](https://www.caas.gov.sg/personnel-licences-training/aircraft-maintenance-engineer)
 - [Aircraft Maintenance Organisation](https://www.caas.gov.sg/operations-safety/aircraft/maintenance-repair-overhaul)
+- [Aircraft Station Licence](https://dashboard.gobusiness.gov.sg/task-details/aircraftstation")
 - [Clearance for Aerial Photography/Videography](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=288)
 - [Clearance for Erection of Cranes and Tall Construction Machinery](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=289)
 - [Clearance for Ship Crossing](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=286)
@@ -110,23 +111,23 @@ anchorlinks:
 - [Permit for Aerial Activities](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=287)
 - [Permit to fly](https://www.caas.gov.sg/operations-safety/aircraft/permit-to-fly)
 - [Permits for Carriage of Dangerous Goods](https://www.caas.gov.sg/operations-safety/carriage-of-dangerous-goods/)
-- [Aircraft Station Licence](https://dashboard.gobusiness.gov.sg/task-details/aircraftstation")
 
 <a name="building-and-construction"></a>
 
 ## Building & Construction
-- [Licence to Supply Architectural Services](https://www.boa.gov.sg/register/application-forms/)
 - [Advertising Sign/ Signboard Licence](https://eservices.bca.gov.sg/advertisementlicence)
 - [Amusement Rides Permit](https://www1.bca.gov.sg/regulatory-info/amusement-rides)
-- [Permit to Erect Temporary Building](https://www1.bca.gov.sg/regulatory-info/temporary-buildings-application/application-for-a-permit-to-erect-temporary-building)
-- [Structural and Building Plans Requirements for Rooftop Solar PV Installation](https://corenet.gov.sg/general/e-info.aspx)
 - [Approval for Additions & Alterations to a Conserved Building](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Planning-Permission/using-CORENET-eSS)
 - [Category 3 Works for Conserved Buildings](https://www.ura.gov.sg/cmrWeb/)
 - [Change of Use Approval](https://dashboard.gobusiness.gov.sg/task-details/changeofuseura)
-- [URA - Home Office Scheme (for private residential properties)](https://dashboard.gobusiness.gov.sg/task-details/homeofficeschemeura)
+- [Change of Use Approval (Renewal)](https://www.gobusiness.gov.sg//browse-all-licences/Urban-Redevelopment-Authority-(URA)/Change-of-Use-Approval-(Renewal))
 - [Housing Developer's Licence](https://www.ura.gov.sg/Corporate/Guidelines/Developers/Housing-Developers/Housing-Developers/Apply-housing-developer-licence)
+- [Licence to Supply Architectural Services](https://www.boa.gov.sg/register/application-forms/)
+- [Permit to Erect Temporary Building](https://www1.bca.gov.sg/regulatory-info/temporary-buildings-application/application-for-a-permit-to-erect-temporary-building)
 - [Planning Permission](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Planning-Permission/using-CORENET-eSS)
 - [Signage Proposal for a Conserved Building](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Planning-Permission/using-CORENET-eSS)
+- [Structural and Building Plans Requirements for Rooftop Solar PV Installation](https://corenet.gov.sg/general/e-info.aspx)
+- [URA - Home Office Scheme (for private residential properties)](https://dashboard.gobusiness.gov.sg/task-details/homeofficeschemeura)
 
 <a name="cybersecurity"></a>
 
@@ -141,11 +142,11 @@ anchorlinks:
 <a name="education"></a>
 
 ## Education
-- [Early Childhood Development Centre Licence](https://dashboard.gobusiness.gov.sg/task-details/706f7bbc-5f8c-46d6-b908-65b30b831a87)
 - [Asatizah Recognition Scheme](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=235)
-- [Islamic Education Centres and Providers Registration](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=234)
 - [Certificate of Registration of School](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=37)
+- [Early Childhood Development Centre Licence](https://dashboard.gobusiness.gov.sg/task-details/706f7bbc-5f8c-46d6-b908-65b30b831a87)
 - [EduTrust Certification Scheme](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=36)
+- [Islamic Education Centres and Providers Registration](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=234)
 - [Registration of Private Education Institutions](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=35)
 
 <a name="#employment-and-labour-services"></a>
@@ -175,63 +176,71 @@ anchorlinks:
 <a name="financial-service"></a>
 
 ## Financial Services
-- [Certificate of Exemption (the Moneylenders Act (Cap.188))](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10055)
-- [Insolvency Practitioner Licence (IP)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=274)
-- [Moneylender's Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=18)
-- [Pawnbroker's Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=24)
 - [Application for Approved MAT Insurers](https://www.mas.gov.sg/regulation/Insurance/Approved-MAT-Insurer-Apply-for-Approval)
 - [Application for Authorised Reinsurers](https://www.mas.gov.sg/regulation/Insurance/Authorised-Reinsurer-Apply-for-Authorisation)
 - [Application for Bank Representative Office](https://www.mas.gov.sg/regulation/Banking/set-up-bank-representative-office)
 - [Application for Insurance Brokers](https://www.mas.gov.sg/regulation/forms-and-templates/application-for-registration-as-an-insurance-broker)
 - [Application for Insurance Representative Office](https://www.mas.gov.sg/regulation/Insurance/For-Insurers-Setting-up-a-Representative-Office)
 - [Application for Merchant Bank](https://www.mas.gov.sg/regulation/Banking/Licensing-and-Authorisation-for-Banking-Business)
+- [Approval for Debt Collector](https://dashboard.gobusiness.gov.sg/task-details/4eeba687-8b63-4ea8-b303-0079a44fda8c)
 - [Capital Markets Services Licence](https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Securities-Futures-and-Funds-Management.aspx)
+- [Certificate of Exemption (the Moneylenders Act (Cap.188))](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10055)
 - [Commercial Bank Licence](https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Commercial-Banks.aspx)
 - [Financial Adviser's Licence](https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Financial-Advisers.aspx)
+- [House to House and Street Collections Licence](https://dashboard.gobusiness.gov.sg/task-details/house-house-street-collections)
+- [Insolvency Practitioner Licence (IP)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=274)
 - [Insurer Licence](https://www.mas.gov.sg/regulation/Insurance/Types-of-Insurers-in-Singapore)
+- [Licence for Debt Collection Business](https://dashboard.gobusiness.gov.sg/task-details/1b4a2551-fd14-4559-ac97-271ea6457409)
 - [Major Payment Institution Licence](https://www.mas.gov.sg/regulation/payments/major-payment-institution-licence)
 - [Money-Changer's Licence](https://www.mas.gov.sg/regulation/payments/money-changing-licence)
+- [Moneylender's Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=18)
+- [Pawnbroker's Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=24)
 - [Standard Payment Institution Licence](https://www.mas.gov.sg/regulation/payments/standard-payment-institution-licence)
 - [Trust Business Licence](https://www.mas.gov.sg/regulation/capital-markets/Trust-Business-Licence)
-- [Approval for Debt Collector](https://dashboard.gobusiness.gov.sg/task-details/4eeba687-8b63-4ea8-b303-0079a44fda8c)
-- [House to House and Street Collections Licence](https://dashboard.gobusiness.gov.sg/task-details/house-house-street-collections)
-- [Licence for Debt Collection Business](https://dashboard.gobusiness.gov.sg/task-details/1b4a2551-fd14-4559-ac97-271ea6457409)
 
 <a name="fire-safety-and-hazardous-materials"></a>
 
 ## Fire Safety & Hazardous Materials
+- [Amendment to Existing Employee Record (Update Details of Registered Employee)](https://dashboard.gobusiness.gov.sg/task-details/7d410f41-a932-4ba2-b81a-f0ec471f1b61)
 - [Application for Temporary Fire Permit / Fire Safety Certificate](https://www.scdf.gov.sg/home/fire-safety/permits-and-certifications/fire-safety-certificate-temporary-fire-permit)
 - [Fire Certificate](https://dashboard.gobusiness.gov.sg/task-details/firecert)
 - [Lodgement of Minor Addition / Alteration Works (Minor A&A)](https://www.scdf.gov.sg/home/fire-safety/plans-and-consultations/minor-addition-alteration-works)
-- [Petroleum & Flammable Material Import Licence](https://eservices1.scdf.gov.sg/fisops/SCDF-ESERVICES.action?app=FMIBAPP)
-- [Petroleum & Flammable Material Pipeline Licence](https://eservices1.scdf.gov.sg/fisops/SCDF-ESERVICES.action?app=FMPBAPP)
 - [Petroleum / Flammable Materials Storage Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=22)
 - [Petroleum / Flammable Materials Transportation Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=17)
+- [Petroleum & Flammable Material Import Licence](https://eservices1.scdf.gov.sg/fisops/SCDF-ESERVICES.action?app=FMIBAPP)
+- [Petroleum & Flammable Material Pipeline Licence](https://eservices1.scdf.gov.sg/fisops/SCDF-ESERVICES.action?app=FMPBAPP)
 - [Plan Approval for Fire Safety Works](https://www.scdf.gov.sg/home/fire-safety/plans-and-consultations/plan-approval)
 - [Submission Requirements to SCDF for Rooftop Solar PV Installation](https://corenet.gov.sg/general/e-info.aspx)
 - [Temporary Change of Use Permit](https://dashboard.gobusiness.gov.sg/task-details/temporarychangeofusepermit)
-- [Amendment to Existing Employee Record (Update Details of Registered Employee)](https://dashboard.gobusiness.gov.sg/task-details/7d410f41-a932-4ba2-b81a-f0ec471f1b61)
+
 
 <a name="food-and-beverage"></a>
 
 ## Food & Beverage
-- [Halal Certification](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=239)
+- [Class 5 - Temporary Liquor Licence](https://dashboard.gobusiness.gov.sg/task-details/class5temporaryliquorlicence)
+
 - [Export Health Certificate](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301070000159)
 - [Food Shop Licence](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1901021401000440)
-- [Food Stall Licence](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1901021401000441)
 - [Free Sale Certificate (Animal Feed)](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201305290000327)
+- [Food Stall Licence](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1901021401000441)
 - [Free Sale Certificate (Food)](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301070000166)
+
+
+- [Halal Certification](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=239)
 - [Health Certificate for Export of Live Foodfish for Breeding](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201212070000110)
 - [Licence for Import/Export/Transhipment of Meat and Fish Products](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000176)
 - [Licence for Import/Transhipment of Fresh Fruits and Vegetables](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000175)
-- [Licence to Import/Export/Transship Animals, Birds, Eggs and Biologics](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301030000131)
 - [Licence to Import Poultry](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201305290000324)
 - [Licence to Import Sheep & Goats](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201305290000326)
 - [Licence to Import Table Eggs](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201305290000325)
+- [Licence to Import/Export/Transship Animals, Birds, Eggs and Biologics](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301030000131)
 - [Licence to Manufacture and Process of Animal Feed](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1705221400000001)
 - [Licence to Operate a Coldstore](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201305310000330)
 - [Licence to Operate a Food Processing Establishment](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201306030000331)
 - [Licence to Operate Slaughter-house](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201306030000332)
+- [Liquor Consumption Permit](https://dashboard.gobusiness.gov.sg/task-details/dd983343-46ff-4901-81ec-869ceb96827b)
+- [Liquor Licence - Extension of Operating Hours](https://dashboard.gobusiness.gov.sg/task-details/liquorlicenceextensionophrs)
+- [Liquor Licence (Class 1A, 1B, 2A, 2B, 3A, 3B, 4)](https://dashboard.gobusiness.gov.sg/task-details/liquor-licence-class-1a-1b-2a-2b-3a-3b-4)
 - [Permit for Temporary Fair](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1905101601000341)
 - [Registration of Food Storage Warehouses](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201306030000333)
 - [Registration to Import Animal Feed](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1310161601000052)
@@ -240,10 +249,6 @@ anchorlinks:
 - [Rice Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=38)
 - [Supermarket Licence](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1901021401000442)
 - [Temporary Fair Stall Licence](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1905101601000340)
-- [Class 5 - Temporary Liquor Licence](https://dashboard.gobusiness.gov.sg/task-details/class5temporaryliquorlicence)
-- [Liquor Consumption Permit](https://dashboard.gobusiness.gov.sg/task-details/dd983343-46ff-4901-81ec-869ceb96827b)
-- [Liquor Licence - Extension of Operating Hours](https://dashboard.gobusiness.gov.sg/task-details/liquorlicenceextensionophrs)
-- [Liquor Licence (Class 1A, 1B, 2A, 2B, 3A, 3B, 4)](https://dashboard.gobusiness.gov.sg/task-details/liquor-licence-class-1a-1b-2a-2b-3a-3b-4)
 
 <a name="health-and-wellness-services"></a>
 
@@ -253,11 +258,12 @@ anchorlinks:
 - [Community Health Centre](https://elis.moh.gov.sg/elis/index.do?task=home)
 - [Dental Clinic Licence](https://elis.moh.gov.sg/elis/index.do?task=home)
 - [Hospital Licence](https://elis.moh.gov.sg/elis/index.do?task=home)
+- [Massage Establishment Licence](https://dashboard.gobusiness.gov.sg/task-details/massageestablishmentlicence)
 - [Medical Clinic Licence](https://elis.moh.gov.sg/elis/index.do?task=home)
+- [Notification to Police of Exempted Massage Establishment](https://dashboard.gobusiness.gov.sg/task-details/exemptedmassageestablishment)
 - [Nursing Home Licence](https://elis.moh.gov.sg/elis/index.do?task=home)
 - [Termination of Pregnancy (TOP)](https://elis.moh.gov.sg/elis/index.do?task=home)
-- [Massage Establishment Licence](https://dashboard.gobusiness.gov.sg/task-details/massageestablishmentlicence)
-- [Notification to Police of Exempted Massage Establishment](https://dashboard.gobusiness.gov.sg/task-details/exemptedmassageestablishment)
+
 
 <a name="intellectual-property-services"></a>
 
@@ -311,18 +317,18 @@ anchorlinks:
 <a name="others"></a>
 
 ## Others
-- [Company Registration (CR)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=272)
-- [Permit Administration and Control System(PATROL)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=271)
-- [Representative Office](https://dashboard.gobusiness.gov.sg/task-details/roms)
-- [Rubber Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=39)
-- [Tobacco Retail Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=56)
 - [Certificate of Registration and Hotel-keeper's Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=3)
-- [Registry of Societies](https://www.mha.gov.sg/mha-e-services/ros/registered-societies)
-- [Registration of Precious Stones and Precious Metals Dealers](https://dashboard.gobusiness.gov.sg/task-details/psmd)
+- [Company Registration (CR)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=272)
 - [Licence for Residential Care Facilities](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10063)
 - [Licence to Supply Professional Engineering Services](https://www.peb.gov.sg/lc_commonqueries.aspx)
-- [Ticket Payment Service Licence (TPSL)](https://dashboard.gobusiness.gov.sg/task-details/tpsl)
+- [Permit Administration and Control System(PATROL)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=271)
+- [Registration of Precious Stones and Precious Metals Dealers](https://dashboard.gobusiness.gov.sg/task-details/psmd)
+- [Registry of Societies](https://www.mha.gov.sg/mha-e-services/ros/registered-societies)
+- [Representative Office](https://dashboard.gobusiness.gov.sg/task-details/roms)
+- [Rubber Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=39)
 - [Secondhand Goods and Dealers Licence](https://www.police.gov.sg/e-Services/Police-Licences/Secondhand-Goods-Dealers-Licence)
+- [Tobacco Retail Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=56)
+- [Ticket Payment Service Licence (TPSL)](https://dashboard.gobusiness.gov.sg/task-details/tpsl)
 
 <a name="postal-services"></a>
 
@@ -334,25 +340,25 @@ anchorlinks:
 
 ## Public Events & Entertainment
 - [Fund raising Permit](https://www.charities.gov.sg/Pages/Fund-Raising/Types-of-FR-Permits/Fund-Raising-for-Local-Charitable-Purposes.aspx)
+- [Non-Renewable Temporary Occupation Licence (NRTOL)](https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/licensing-overview/non-renewable-temporary-occupation-licence.html)
 - [Notice of Intention to Organise an Event](https://dashboard.gobusiness.gov.sg/task-details/organise-event)
 - [Notification to conduct donation/lucky draw](https://www.police.gov.sg/Advisories/Donation-Draw-and-Lucky-Draw)
 - [Police Permit for Assembly or Procession](https://dashboard.gobusiness.gov.sg/task-details/assembly-procession)
 - [Police Permit for Public Talk](https://dashboard.gobusiness.gov.sg/task-details/public-talk)
 - [Public Entertainment Licence](https://dashboard.gobusiness.gov.sg/task-details/publicentertainment)
 - [Public Entertainment Licence - Notification to Police of Exempted Public Entertainments or Arts Entertainment](https://dashboard.gobusiness.gov.sg/task-details/notificationtopoliceofexemptedpeae)
-- [Non-Renewable Temporary Occupation Licence (NRTOL)](https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/licensing-overview/non-renewable-temporary-occupation-licence.html)
 - [Safe Management Measures for MICE Event](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-MICE.html)
 
 <a name="real-estate-and-property"></a>
 
 ## Real Estate & Property
-- [Estate Agent Licence and Salesperson Registration](https://www.cea.gov.sg/)
 - [Application for Changes (HDB Commercial Properties)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=7)
 - [Application for Resale/Transfer of HDB Commercial Properties](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10)
-- [Change of Company's Name for HDB Commercial Tenants](https://ilinked.hdb.gov.sg/retailerlink/change-company-name)
-- [Home Office Scheme (HDB)](https://dashboard.gobusiness.gov.sg/task-details/hdbhomeofficescheme)
-- [Appraiser's Licence (Lands and Buildings)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=230)
 - [Application of Registering Property](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=277)
+- [Appraiser's Licence (Lands and Buildings)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=230)
+- [Change of Company's Name for HDB Commercial Tenants](https://ilinked.hdb.gov.sg/retailerlink/change-company-name)
+- [Estate Agent Licence and Salesperson Registration](https://www.cea.gov.sg/)
+- [Home Office Scheme (HDB)](https://dashboard.gobusiness.gov.sg/task-details/hdbhomeofficescheme)
 - [Temporary Occupation Licences](https://app.sla.gov.sg/TOL/Account/Login?ReturnUrl=%2ftol%2f)
 
 <a name="security-and-law-enforcement"></a>
@@ -414,19 +420,21 @@ anchorlinks:
 <a name="utilities-and-environment"></a>
 
 ## Utilities & Environment
+- [Application for Registration of Public Health Pesticide & Repellents Against Vectors](https://www.nea.gov.sg/our-services/pest-control/registration-of-control-of-public-health-pesticides-and-repellents-against-vectors)
+- [Aquatic Facility Licence](https://dashboard.gobusiness.gov.sg/task-details/aquaticfacilitylicence)
+- [CITES Permit](https://dashboard.gobusiness.gov.sg/task-details/cites)
+- [Cleaning Business Licence](https://dashboard.gobusiness.gov.sg/task-details/cleaningbusinesslicence)
 - [Electricity Generation](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=284)
 - [Electricity Retailer](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=281)
 - [Electricity Wholesaler](https://dashboard.gobusiness.gov.sg/task-details/electricitywholesaler)
-- [Gas Shipper, Retailer or Importer](https://dashboard.gobusiness.gov.sg/task-details/gasshipperretailerorimporter)
-- [Application for Registration of Public Health Pesticide & Repellents Against Vectors](https://www.nea.gov.sg/our-services/pest-control/registration-of-control-of-public-health-pesticides-and-repellents-against-vectors)
-- [Aquatic Facility Licence](https://dashboard.gobusiness.gov.sg/task-details/aquaticfacilitylicence)
-- [Cleaning Business Licence](https://dashboard.gobusiness.gov.sg/task-details/cleaningbusinesslicence)
 - [Environmental Control Coordinator Certificate of Registration](https://dashboard.gobusiness.gov.sg/task-details/environmentalcontrolcoordinator)
 - [Environmental Control Officer (Specific Premises) - [ECO(SP)] Certificate of Registration](https://dashboard.gobusiness.gov.sg/task-details/environmentalcontrolofficerspecificpremises)
 - [Environmental Control Officer (Specified Construction Sites) - [ECO(SCS)] Certificate of Registration](https://dashboard.gobusiness.gov.sg/task-details/environmentalcontrolofficerspecifiedconstructionsites)
+- [Event Permit Application for Use of Reservoir](https://form.gov.sg/61552febb79fa60012336dca)
 - [Fumigation Permit](https://dashboard.gobusiness.gov.sg/task-details/fumigationpermit)
 - [Fumigator Licence](https://dashboard.gobusiness.gov.sg/task-details/fumigatorlicence)
 - [Funeral Parlour Licence](https://www.nea.gov.sg/our-services/after-death/facilities-and-services)
+- [Gas Shipper, Retailer or Importer](https://dashboard.gobusiness.gov.sg/task-details/gasshipperretailerorimporter)
 - [General Waste Collector Licence](https://dashboard.gobusiness.gov.sg/task-details/generalwastecollectorlicence)
 - [General Waste Disposal Facility Licence](https://dashboard.gobusiness.gov.sg/task-details/generalwastedisposalfacilitylicence)
 - [Hazardous Substances (HS) Licence](https://dashboard.gobusiness.gov.sg/task-details/hazardoussubstanceslicence)
@@ -441,25 +449,18 @@ anchorlinks:
 - [N2 - Licence to keep, or possess for use non-ionising radiation irradiating apparatus](https://dashboard.gobusiness.gov.sg/task-details/n2)
 - [N3 - Licence to use laser](https://dashboard.gobusiness.gov.sg/task-details/n3)
 - [N4A/B - Licence to import or export a consignment of non-ionising radiation irradiating apparatus](https://dashboard.gobusiness.gov.sg/task-details/n4)
+- [Non-CITES Certificate](https://dashboard.gobusiness.gov.sg/task-details/noncites)
+- [Phytosanitary Certification](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201212070000112)
+- [Plumber Licence](https://dashboard.gobusiness.gov.sg/task-details/plumberlicence)
+- [Pre-signed CITES Permit](https://dashboard.gobusiness.gov.sg/task-details/presignedcites)
+- [Pre-signed non-CITES Certificate](https://dashboard.gobusiness.gov.sg/task-details/presignednoncites)
 - [R1- Registration as a radiation worker](https://dashboard.gobusiness.gov.sg/task-details/r1)
+- [Stock Card Application Form](https://dashboard.gobusiness.gov.sg/task-details/313d4f49-06b3-4368-ac1b-ffaea83426cb)
 - [Toxic Industrial Waste (TIW) Collector's Licence](https://dashboard.gobusiness.gov.sg/task-details/toxicindustrialwastecollectorslicence)
 - [Toxic Industrial Waste (TIW) Transport Approval](https://dashboard.gobusiness.gov.sg/task-details/toxicindustrialwastetransportapproval)
+- [Usage of Premises in Parks](https://www2.vbs.nparks.gov.sg/vbs/)
 - [Vector Control Operator Certificate](https://dashboard.gobusiness.gov.sg/task-details/vectorcontroloperatorcertificate)
 - [Vector Control Technician Licence](https://dashboard.gobusiness.gov.sg/task-details/vectorcontroltechnicianlicence)
 - [Vector Control Worker Certificate](https://dashboard.gobusiness.gov.sg/task-details/vectorcontrolworkercertificate)
-- [Written Permission to Discharge Trade Effluent into a Watercourse](https://www.nea.gov.sg/our-services/pollution-control/water-quality/allowable-limits-for-trade-effluent-discharge-to-watercourse-or-controlled-watercourse)
-- [CITES Permit](https://dashboard.gobusiness.gov.sg/task-details/cites)
-- [Non-CITES Certificate](https://dashboard.gobusiness.gov.sg/task-details/noncites)
-- [Phytosanitary Certification](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201212070000112)
-- [Pre-signed CITES Permit](https://dashboard.gobusiness.gov.sg/task-details/presignedcites)
-- [Pre-signed non-CITES Certificate](https://dashboard.gobusiness.gov.sg/task-details/presignednoncites)
-- [Stock Card Application Form](https://dashboard.gobusiness.gov.sg/task-details/313d4f49-06b3-4368-ac1b-ffaea83426cb)
-- [Usage of Premises in Parks](https://www2.vbs.nparks.gov.sg/vbs/)
-- [Event Permit Application for Use of Reservoir](https://form.gov.sg/61552febb79fa60012336dca)
-- [Plumber Licence](https://dashboard.gobusiness.gov.sg/task-details/plumberlicence)
 - [Written Approval for the Discharge of Trade Effluent Into the Public Sewer](https://dashboard.gobusiness.gov.sg/task-details/0b61857d-1be8-48da-9be1-86d037ff8ea7)
-
-
-
-
-
+- [Written Permission to Discharge Trade Effluent into a Watercourse](https://www.nea.gov.sg/our-services/pollution-control/water-quality/allowable-limits-for-trade-effluent-discharge-to-watercourse-or-controlled-watercourse)
