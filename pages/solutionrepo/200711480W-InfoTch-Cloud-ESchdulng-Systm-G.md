@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/200711480W-InfoTch-Cloud-E
 
 **Description**
 
-Mobile Attendance APP allows tracking of employee’s attendance at respective job-site as per scheduled. The system also can consolidate total OT & lateness done for the month based on attendance data collected. It will link with TMS and Payroll for salary calculation.
+Mobile Attendance APP allows tracking of employee's attendance at respective job-site as per scheduled. The system also can consolidate total OT & lateness done for the month based on attendance data collected. It will link with TMS and Payroll for salary calculation.
 Use of Tablet, Biometric Reader supports fingerprint or face recognition to capture staff attendance for calculating of working hours, OT & lateness. Employee database available in TMS integrated with Payroll & Leave software.
 
 ## Solution Packages Option(s)

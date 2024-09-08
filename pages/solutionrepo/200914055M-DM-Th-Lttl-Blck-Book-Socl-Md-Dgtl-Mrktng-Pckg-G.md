@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/200914055M-DM-Th-Lttl-Blck
 
 **Description**
 
-TLBB’s solutions are designed to help SMEs enhance their client’s social presence, improve brand recognition, as well as increase engagement rates and sales. They don’t just do amazing creatives, TLBB taps into the power of social media to make sure the right people see their clients. TLBB gives brands the boost they need because they are the video experts. Optimised for social media, bite-sized videos will help capture & retain audience’s attention through the power of immersive storytelling.
+TLBB's solutions are designed to help SMEs enhance their client's social presence, improve brand recognition, as well as increase engagement rates and sales. They don't just do amazing creatives, TLBB taps into the power of social media to make sure the right people see their clients. TLBB gives brands the boost they need because they are the video experts. Optimised for social media, bite-sized videos will help capture & retain audience's attention through the power of immersive storytelling.
 
 ## Solution Packages Option(s)
 

@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/200005018Z-Frontr-HR-Autom
 
 **Description**
 
-Frontier e-HR HRMS assists SMEs to improve the productivity of human resource operations through a user-friendly full cloud-based application. Through this platform, HR department will be able to record employee’s details, strengthen policies and handle regular processes such as Payroll & Performance Appraisal.  Management team can retrieve reports to perform analysis conveniently. Employees have access to their HR information and perform HR related applications through web and mobile app.
+Frontier e-HR HRMS assists SMEs to improve the productivity of human resource operations through a user-friendly full cloud-based application. Through this platform, HR department will be able to record employee's details, strengthen policies and handle regular processes such as Payroll & Performance Appraisal.  Management team can retrieve reports to perform analysis conveniently. Employees have access to their HR information and perform HR related applications through web and mobile app.
 
 ## Solution Packages Option(s)
 

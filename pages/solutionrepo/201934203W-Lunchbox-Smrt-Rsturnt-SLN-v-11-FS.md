@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/201934203W-Lunchbox-Smrt-R
 
 **Description**
 
-Lunchbox Smart Restaurant App is Singapore’s fastest growing, award winning, Android ordering solution with 1,500+ outlets onboard in 2 years! It instantly equips the F&B outlet to the efficiency of an international food chain! Armed with more than 300 features, the solution is effective to any form of F&B format - Full Service, Quick Service, Self Service, Grocer Retail and even Cloud Kitchens!
+Lunchbox Smart Restaurant App is Singapore's fastest growing, award winning, Android ordering solution with 1,500+ outlets onboard in 2 years! It instantly equips the F&B outlet to the efficiency of an international food chain! Armed with more than 300 features, the solution is effective to any form of F&B format - Full Service, Quick Service, Self Service, Grocer Retail and even Cloud Kitchens!
 
 ## Solution Packages Option(s)
 

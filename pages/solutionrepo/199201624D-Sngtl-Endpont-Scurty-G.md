@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/199201624D-Sngtl-Endpont-S
 
 **Description**
 
-Singtel Endpoint Security provides comprehensive protection for SMEs’ endpoints, from mobile devices to desktops/laptop, with security solutions that analyze malicious behavior while offering real-time threat and data protection. The solution provides high levels of protection against new and existing threats, powered by cloud-based security solutions. While cyberattacks cannot be controlled, SMEs can prevent the risk to their business data and system integrity due to unintended error.
+Singtel Endpoint Security provides comprehensive protection for SMEs' endpoints, from mobile devices to desktops/laptop, with security solutions that analyze malicious behavior while offering real-time threat and data protection. The solution provides high levels of protection against new and existing threats, powered by cloud-based security solutions. While cyberattacks cannot be controlled, SMEs can prevent the risk to their business data and system integrity due to unintended error.
 
 ## Solution Packages Option(s)
 

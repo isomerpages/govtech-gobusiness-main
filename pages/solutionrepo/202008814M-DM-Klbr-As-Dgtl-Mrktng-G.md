@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/202008814M-DM-Klbr-As-Dgtl
 
 **Description**
 
-At Kaliber Asia, we pride ourselves to be the unorthodox performance marketers creating and delivering intent-focused paid media interactions between brands and consumers. We help brands scale with an alternative method to growth vs the “blackbox” strategy that majority adopts today. Achieve your goals with the complete package. Let your brand get the most out of performance marketing with our combined expertise!
+At Kaliber Asia, we pride ourselves to be the unorthodox performance marketers creating and delivering intent-focused paid media interactions between brands and consumers. We help brands scale with an alternative method to growth vs the "blackbox" strategy that majority adopts today. Achieve your goals with the complete package. Let your brand get the most out of performance marketing with our combined expertise!
 
 ## Solution Packages Option(s)
 

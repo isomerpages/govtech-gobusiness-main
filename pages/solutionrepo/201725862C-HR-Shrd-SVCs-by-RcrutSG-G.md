@@ -11,7 +11,7 @@ permalink: /productivity-solutions-grant/solutionrepo/201725862C-HR-Shrd-SVCs-by
 
 recruitSG helps companies handle their payroll processing & HR administration, including managing employee data, benefits, expense claims, attendance, leave, IRAS filing, and more.
 
-Companies can simplify their HR processes with recruitSG’s end-to-end service — supported by a cloud-based HR management software, HRMpeople. Take the stress away from HR to focus on business growth.
+Companies can simplify their HR processes with recruitSG's end-to-end service — supported by a cloud-based HR management software, HRMpeople. Take the stress away from HR to focus on business growth.
 
 ## Solution Packages Option(s)
 

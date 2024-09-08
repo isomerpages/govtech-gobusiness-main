@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/202135719C-Employmnt-Hro-G
 
 **Description**
 
-Employment Hero offers a comprehensive cloud-based solution for Sinagporean businesses looking to transform their HR and payroll operations. Serving 300,000 businesses and more than 2 million employees globally, Employment Hero’s all-in-one solution seamlessly automates and streamlines time-consuming tasks from recruitment to CPF calculations, cutting administrative burdens by up to 48%. Employment Hero’s secure, ISO 27001 compliant system uses bank-level encryption, ensuring data integrity.
+Employment Hero offers a comprehensive cloud-based solution for Sinagporean businesses looking to transform their HR and payroll operations. Serving 300,000 businesses and more than 2 million employees globally, Employment Hero's all-in-one solution seamlessly automates and streamlines time-consuming tasks from recruitment to CPF calculations, cutting administrative burdens by up to 48%. Employment Hero's secure, ISO 27001 compliant system uses bank-level encryption, ensuring data integrity.
 
 ## Solution Packages Option(s)
 

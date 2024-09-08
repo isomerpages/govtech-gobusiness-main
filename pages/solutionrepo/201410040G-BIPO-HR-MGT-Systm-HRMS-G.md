@@ -11,7 +11,7 @@ permalink: /productivity-solutions-grant/solutionrepo/201410040G-BIPO-HR-MGT-Sys
 
 Global HR and Payroll Solutions
  
-Since 2004, BIPO’s cloud and mobile-based solutions have helped businesses automate and streamline HR processes. BIPO's modules includes Employee master data management, Time and attendance, Payroll management, Leave management, Expense claims and overtime, Claims and benefits and more!
+Since 2004, BIPO's cloud and mobile-based solutions have helped businesses automate and streamline HR processes. BIPO's modules includes Employee master data management, Time and attendance, Payroll management, Leave management, Expense claims and overtime, Claims and benefits and more!
 
 BIPO HRMS is ISO-27001 certified with built-in regulations, policies and industry best practices.
 
