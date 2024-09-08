@@ -10,7 +10,7 @@ permalink: /productivity-solutions-grant/solutionrepo/199703606K-Tmmt-Anlytcs-v-
 **Description**
 
 TeamMate Analytics for External Audit
-Deliver greater insight through deeper analysis. Data analytics are a critical part of all business functions - audit and controls are no exception. Use data analytics to inform planning, test against full data sets, spot hidden risks, and add credibility to your reports.
+Deliver greater insight through deeper analysis. Data analytics are a critical part of all business functions – audit and controls are no exception. Use data analytics to inform planning, test against full data sets, spot hidden risks, and add credibility to your reports.
 
 ## Solution Packages Option(s)
 

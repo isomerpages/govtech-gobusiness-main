@@ -48,10 +48,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>TIME ACCESS INTERNATIONAL</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201540990Z-YUVO-G' target='_blank'>YUVO</a><br></td>
-<td>YUVO PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200604587R-SMARTHRMS-v-1-G' target='_blank'>SMARTHRMS Version 1</a><br></td>
 <td>AVELOGIC PTE LTD</td>
 </tr>
@@ -96,16 +92,28 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Adaptive Cloud Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200711480W-AI-INFOTECH-Cloud-HRMS-v-80-G' target='_blank'>(A.I.) INFO-TECH Cloud HRMS Version 8.0</a><br></td>
-<td>Info-Tech Systems Integrators Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/199101278H-BAS-v-v10-G' target='_blank'>BAS Version v10</a><br></td>
 <td>Intercorp Solutions Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200005018Z-Frontr-HR-AutomtHR-Frontr-v-8-G' target='_blank'>Frontier e-HR - AutomateHR eFrontier Version 8</a><br></td>
 <td>Frontier e-HR Pte Ltd </td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200711480W-AI-INFOTECH-Cloud-HRMS-v-80-G' target='_blank'>(A.I.) INFO-TECH Cloud HRMS Version 8.0</a><br></td>
+<td>Info-Tech Systems Integrators Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200000956W-SS-JustLogn-HR-Cloud-G' target='_blank'>(SaaS) JustLogin HR Cloud</a><br></td>
+<td>JUSTLOGIN PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201410040G-BIPO-HR-MGT-Systm-HRMS-G' target='_blank'>BIPO Human Resource Management System (HRMS)</a><br></td>
+<td>BIPO Service Singapore Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201700241Z-cutOffc-ERP-v-20-G' target='_blank'>cuteOffice ERP Version 2.0</a><br></td>
+<td>Cute Infocomm Solutions Pte Ltd</td>
 </tr>
 </table>
 

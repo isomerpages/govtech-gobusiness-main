@@ -42,23 +42,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Zenit Accountancy Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202115139D-Evrydy-Corport-Xro-Cloud-ACC-Softwr-G' target='_blank'>Everyday Corporate Xero Cloud Accounting Software</a><br></td>
-<td>Everyday Corporate Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202115139D-Evrydy-Corport-Xro-Cloud-ACC-Softwr-G' target='_blank'>Everyday Corporate Xero Cloud Accounting Software</a><br></td>
-<td>Zetta Solution Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202138250K-ABSS-Prmr-v-30-G' target='_blank'>ABSS Premier Version 30</a><br></td>
-<td>Apscom Solutions Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201916672K-Xro-G' target='_blank'>Xero</a><br></td>
 <td>KloudEx Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201333490K-ABA-Quckbooks-Onln-G' target='_blank'>ABA - Quickbooks Online</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201333490K-ABA-–-Quckbooks-Onln-G' target='_blank'>ABA – Quickbooks Online</a><br></td>
 <td>Abundant Accounting Pte Ltd</td>
 </tr>
 <tr>
@@ -78,20 +66,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Asian Business Software Solutions Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200202453M-ASURIX-G' target='_blank'>ASURIX</a><br></td>
-<td>NET SOLUTIONS PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201809937E-Tsch-Globl-QuckBooks-Onln-G' target='_blank'>Tisch Global - QuickBooks Online</a><br></td>
 <td>Tisch Global Private Limited</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201809937E-Tsch-Globl-Xro-ACC-G' target='_blank'>Tisch Global - Xero Accounting</a><br></td>
 <td>Tisch Global Private Limited</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201020197E-AutoCount-ACC-Softwr-G' target='_blank'>AutoCount Accounting Software</a><br></td>
-<td>Ingenious Business Software Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200603587Z-Autocount-ACC-Systm-G' target='_blank'>Autocount Accounting System</a><br></td>
@@ -134,10 +114,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Bamboo Sea Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/T18LL0812H-Xro-G' target='_blank'>Xero</a><br></td>
-<td>Clooud Consulting LLP</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201200009H-XERO-G' target='_blank'>XERO</a><br></td>
 <td>Accounting Consultancy Pte. Ltd.</td>
 </tr>
@@ -152,10 +128,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200711480W-INFOTECH-Cloud-ACC-Softwr-v-10-G' target='_blank'>INFO-TECH Cloud Accounting Software Version 1.0</a><br></td>
 <td>Info-Tech Systems Integrators Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201828446N-Hrvst-ACC-Xro-G' target='_blank'>Harvest Accounting - Xero</a><br></td>
-<td>Harvest Accounting Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201529809Z-TRISERV-Xro-Xro-ACC-Softwr-G' target='_blank'>TRISERV: Xero - Xero Accounting Software</a><br></td>
@@ -186,6 +158,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>PROFECTANT CORPORATE SERVICES PTE LTD</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201020197E-AutoCount-ACC-Softwr-G' target='_blank'>AutoCount Accounting Software</a><br></td>
+<td>Ingenious Business Software Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200914556R-ABSS-Prmr-G' target='_blank'>ABSS Premier</a><br></td>
 <td>Asian Business Software Solutions Pte. Ltd.</td>
 </tr>
@@ -196,6 +172,18 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201300570R-Xro-ACC-Systm-G' target='_blank'>Xero Accounting System</a><br></td>
 <td>EBOS SG PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200801162R-MMS-–-Xro-ACC-SLN-G' target='_blank'>MMS – Xero Accounting Solution</a><br></td>
+<td>METROPOLITAN MANAGEMENT SERVICES PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201807430D-Aggrgt-Cloud-ACC-Softwr-Xro-G' target='_blank'>Aggregate Cloud Accounting Software (Xero)</a><br></td>
+<td>Aggregate Consultancy Services Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201713604G-AutoCount-ACC-v-V2-G' target='_blank'>AutoCount Accounting Version V2</a><br></td>
+<td>Autocount (S) Pte Ltd</td>
 </tr>
 </table>
 

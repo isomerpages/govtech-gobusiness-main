@@ -52,10 +52,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Guidesify Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201701817K-Corsv-Lb-ECommrc-Wbst-DvWordPrss-Shopfy-G' target='_blank'>Corsiva Lab E-Commerce Website Development(WordPress / Shopify)</a><br></td>
-<td>Corsiva Lab Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201215396N-Advncd-Ecommrc-SLN-by-I-Concpt-v-20-G' target='_blank'>Advanced Ecommerce Solution by I Concept Version 2.0</a><br></td>
 <td>I Concept Innovation Pte Ltd</td>
 </tr>
@@ -66,10 +62,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201415816M-Smplfys-Ecommrc-v-1-G' target='_blank'>Simpliify's E-commerce Version 1</a><br></td>
 <td>Simpliify Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201016666H-Shopcd-Ecommrc-G' target='_blank'>Shopcada Ecommerce</a><br></td>
-<td>Webcada Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201535836W-Commrc-Mstrpln-v-20-G' target='_blank'>eCommerce Masterplan Version 2.0</a><br></td>
@@ -158,6 +150,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201842642W-W360-E-Powr-Pck-v-10-G' target='_blank'>W360 E Power Pack Version 1.0</a><br></td>
 <td>W360 Group Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201216251K-PSProfssonl-G' target='_blank'>ePSProfessional</a><br></td>
+<td>Efusion Technology Pte Ltd</td>
 </tr>
 </table>
 

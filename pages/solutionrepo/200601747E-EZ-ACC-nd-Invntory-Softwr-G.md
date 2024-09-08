@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/200601747E-EZ-ACC-nd-Invnt
 
 **Description**
 
-EZ Accounting is a Singapore based, integrated Accounting solution with numerous man-years of accumulated professional and software experience. It is an integrated Accounting, Order Processing and Multi Currencies Management Solution.  EZ Accounting systems are listed on both IRAS and IMDA websites for its compliant with PEPPOL's E-Invoicing (InvoiceNow) capabilities.
+EZ Accounting is a Singapore based, integrated Accounting solution with numerous man-years of accumulated professional and software experience. It is an integrated Accounting, Order Processing and Multi Currencies Management Solution.  EZ Accounting systems are listed on both IRAS and IMDA websites for its compliant with PEPPOL’s E-Invoicing (InvoiceNow) capabilities.
 
 ## Solution Packages Option(s)
 

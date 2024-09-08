@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/201809937E-Tsch-Globl-Xro-
 
 **Description**
 
-Tisch Global Corporate Advisory is pleased to provide Xero, a cloud-based accounting solution for small businesses. The solution manages and record your accounts on the cloud; sends invoices digitally and manage supplier payments seamlessly with Xero's multiple features and integrations. The solution provides real-time financial reports anytime and anywhere.
+Tisch Global Corporate Advisory is pleased to provide Xero, a cloud-based accounting solution for small businesses. The solution manages and record your accounts on the cloud; sends invoices digitally and manage supplier payments seamlessly with Xero’s multiple features and integrations. The solution provides real-time financial reports anytime and anywhere.
 
 ## Solution Packages Option(s)
 

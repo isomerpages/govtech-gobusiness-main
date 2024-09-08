@@ -11,13 +11,13 @@ permalink: /productivity-solutions-grant/solutionrepo/199905781M-Qoqolo-SCH-MGT-
 
 Qoqolo is a one-stop-shop preschool management system for schools to accelerate their digital transformation.  Qoqolo offers a full suite of digital services: Student Management, Parent Engagement, e-Portfolio, Centre Operations Management, Staff Management, Fee Management, e-Registration, ECDA CMS Integration & more.
 Key Benefits:
--	Easy Deployment
--	Paperless Storage
--	Information On-The-Go
--	Simplify Management
--	Instant Updates
--	Capture Learning Journey
--	Effective Communications
+•	Easy Deployment
+•	Paperless Storage
+•	Information On-The-Go
+•	Simplify Management
+•	Instant Updates
+•	Capture Learning Journey
+•	Effective Communications
 
 ## Solution Packages Option(s)
 

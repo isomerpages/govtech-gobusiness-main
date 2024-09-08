@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/201206718K-ZETTAPPS-Fnnc-&
 
 **Description**
 
-ZETTAPPS is an integrated Accounting, Order Processing, and Multi Currencies ERP Solution. Listed in the IRAS Accounting Software Register, ZETTAPPS is GST-compliant and a Business Management Software that helps businesses to streamline their Accounting procedures. Together with PEPPOL's E-Invoicing (InvoiceNow) capabilities, business owners will see an increase in payment and business efficiency, a reduction in cost, and gain access to new financial options.
+ZETTAPPS is an integrated Accounting, Order Processing, and Multi Currencies ERP Solution. Listed in the IRAS Accounting Software Register, ZETTAPPS is GST-compliant and a Business Management Software that helps businesses to streamline their Accounting procedures. Together with PEPPOL’s E-Invoicing (InvoiceNow) capabilities, business owners will see an increase in payment and business efficiency, a reduction in cost, and gain access to new financial options.
 
 ## Solution Packages Option(s)
 

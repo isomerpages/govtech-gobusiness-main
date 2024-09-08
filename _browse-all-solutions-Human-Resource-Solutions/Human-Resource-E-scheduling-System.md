@@ -47,6 +47,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/200711480W-InfoTch-Cloud-ESchdulng-Systm-G' target='_blank'>Info-Tech Cloud E-Scheduling System</a><br></td>
 <td>Info-Tech Systems Integrators Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200000956W-JustLogn-HR-ESchdulng-G' target='_blank'>JustLogin HR E-Scheduling</a><br></td>
+<td>JUSTLOGIN PTE LTD</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

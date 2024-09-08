@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/200914556R-Fnnco-Cloud-ACC
 
 **Description**
 
-Financio is a cloud accounting software, designed for today's smart businesses. Financio automates and simplifies your accounting tasks, enabling you to stay focused on growing your business. With automations, real-time reports, and mobile apps, you can easily manage your business finance and tax matters. Staying compliant is a breeze!
+Financio is a cloud accounting software, designed for today’s smart businesses. Financio automates and simplifies your accounting tasks, enabling you to stay focused on growing your business. With automations, real-time reports, and mobile apps, you can easily manage your business finance and tax matters. Staying compliant is a breeze!
 
 ## Solution Packages Option(s)
 

@@ -23,21 +23,21 @@ Xero Implementation package is designed to help small businesses to improve thei
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Timcole Package 1 - Standard, Subscription only</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Timcole Package 1 – Standard, Subscription only</td>
 <td style='padding: 10px;'>$671.56</td>
 <td style='padding: 10px;'>$671.56</td>
 <td style='padding: 10px;'><a href='/images/psg/Timcole_Xero_01082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Timcole Package 2 - Premium, Subscription only</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Timcole Package 2 – Premium, Subscription only</td>
 <td style='padding: 10px;'>$880.73</td>
 <td style='padding: 10px;'>$880.73</td>
 <td style='padding: 10px;'><a href='/images/psg/Timcole_Xero_01082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Timcole Package 3 - Standard + Implementation</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Timcole Package 3 – Standard + Implementation</td>
 <td style='padding: 10px;'>$1,964.31</td>
 <td style='padding: 10px;'>$1,871.56</td>
 <td style='padding: 10px;'><a href='/images/psg/Timcole_Xero_01082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
@@ -51,7 +51,7 @@ Xero Implementation package is designed to help small businesses to improve thei
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Timcole Package 5 - Premium Plus + Implementation + Full Day Training</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Timcole Package 5 – Premium Plus + Implementation + Full Day Training</td>
 <td style='padding: 10px;'>$5,188.73</td>
 <td style='padding: 10px;'>$4,080.73</td>
 <td style='padding: 10px;'><a href='/images/psg/Timcole_Xero_01082024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>

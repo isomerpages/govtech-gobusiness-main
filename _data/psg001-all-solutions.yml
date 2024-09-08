@@ -7,6 +7,7 @@
         **IT Solution**
         - <a href='/browse-all-solutions-Accountancy/Corporate-Secretariat-Management'>Corporate Secretariat Management</a>
         - <a href='/browse-all-solutions-Accountancy/External-Audit-Management'>External Audit Management</a>
+        - <a href='/browse-all-solutions-Accountancy/Managed-Detection-and-Response'>Managed Detection and Response</a>
         - <a href='/browse-all-solutions-Accountancy/Practice-Management-System'>Practice Management System</a>
         - <a href='/browse-all-solutions-Accountancy/External-Audit-Management-[Audit-Confirmation]'>External Audit Management [Audit Confirmation]</a>
         - <a href='/browse-all-solutions-Accountancy/Taxation-Management'>Taxation Management</a>
@@ -18,6 +19,7 @@
         
         **IT Solution**
         - <a href='/browse-all-solutions-Advanced-Manufacturing/Computer-aided-design-Computer-aided-manufacturing--CAD-CAM-'>Computer-aided design & Computer-aided manufacturing (CAD/CAM)</a>
+        - <a href='/browse-all-solutions-Advanced-Manufacturing/Equipment-Monitoring-and-Manufacturing-Data-Collection'>Equipment Monitoring and Manufacturing Data Collection</a>
         
         **Equipment**
         - <a href='/browse-all-solutions-Advanced-Manufacturing/General-Advanced-Manufacturing-Equipment'>General Advanced Manufacturing Equipment</a>
@@ -100,9 +102,9 @@
       content: |
         
         **IT Solution**
-        - <a href='/browse-all-solutions-Legal/Practice-Management-System'>Practice Management System</a>
         - <a href='/browse-all-solutions-Legal/Matter-Management-and-Collaboration-Tool'>Matter Management and Collaboration Tool</a>
         - <a href='/browse-all-solutions-Legal/Document-Management-System'>Document Management System</a>
+        - <a href='/browse-all-solutions-Legal/Practice-Management-System'>Practice Management System</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Logistics
@@ -159,7 +161,6 @@
       content: |
         
         **IT Solution**
-        - <a href='/browse-all-solutions-Wholesale-Trade/Sales-Management'>Sales Management</a>
         - <a href='/browse-all-solutions-Wholesale-Trade/Enterprise-Resource-Planning--ERP--Software-for-Wholesale'>Enterprise Resource Planning (ERP) Software for Wholesale</a>
         - <a href='/browse-all-solutions-Wholesale-Trade/Inventory-Management-System'>Inventory Management System</a>
 
