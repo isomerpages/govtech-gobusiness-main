@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/201333659G-Pyboy-HRMS-G
 
 **Description**
 
-Payboy is a Payroll and HR Management Software which automates the essential HR processes through a seamless ecosystem, so that businesses can focus on the HR work that truly matters – bringing out the best in their people.
+Payboy is a Payroll and HR Management Software which automates the essential HR processes through a seamless ecosystem, so that businesses can focus on the HR work that truly matters - bringing out the best in their people.
 
 ## Solution Packages Option(s)
 

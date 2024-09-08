@@ -1,9 +1,9 @@
 ---
-title: 'ABA – Quickbooks Online'
-permalink: /productivity-solutions-grant/solutionrepo/201333490K-ABA-–-Quckbooks-Onln-G
+title: 'ABA - Quickbooks Online'
+permalink: /productivity-solutions-grant/solutionrepo/201333490K-ABA-Quckbooks-Onln-G
 ---
 
-## ABA – Quickbooks Online
+## ABA - Quickbooks Online
 
 ## Overview
 

@@ -1,9 +1,9 @@
 ---
-title: 'Equipment Monitoring and Manufacturing Data Collection'
-permalink: /browse-all-solutions-Advanced-Manufacturing/Equipment-Monitoring-and-Manufacturing-Data-Collection
+title: 'Manufacturing Quality Management'
+permalink: /browse-all-solutions-Advanced-Manufacturing/Manufacturing-Quality-Management
 ---
 
-## Equipment Monitoring and Manufacturing Data Collection
+## Manufacturing Quality Management
 ## Overview
 
 **Support Level and Conditions**

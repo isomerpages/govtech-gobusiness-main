@@ -46,7 +46,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>KloudEx Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201333490K-ABA-–-Quckbooks-Onln-G' target='_blank'>ABA – Quickbooks Online</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201333490K-ABA-Quckbooks-Onln-G' target='_blank'>ABA - Quickbooks Online</a><br></td>
 <td>Abundant Accounting Pte Ltd</td>
 </tr>
 <tr>
@@ -174,7 +174,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>EBOS SG PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200801162R-MMS-–-Xro-ACC-SLN-G' target='_blank'>MMS – Xero Accounting Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200801162R-MMS-Xro-ACC-SLN-G' target='_blank'>MMS - Xero Accounting Solution</a><br></td>
 <td>METROPOLITAN MANAGEMENT SERVICES PTE. LTD.</td>
 </tr>
 <tr>
