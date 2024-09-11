@@ -75,6 +75,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/201718654M-CARDDIO-v-1-G' target='_blank'>CARDDIO Version 1</a><br></td>
 <td>Carddio Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201808388R-AI-Commrc-G' target='_blank'>AI Commerce</a><br></td>
+<td>VisionTech Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

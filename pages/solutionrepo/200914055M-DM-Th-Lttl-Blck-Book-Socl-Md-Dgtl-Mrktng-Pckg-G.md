@@ -45,7 +45,7 @@ SMM Facebook + SMM Instagram + Live Shoot/Photography [3 Months]</td>
 
 ## Vendor Information
 
- Company name:The Little Black Book Pte Ltd<br>Web URL: www.tlbb.com.sg <br>Contact Hotline: 87899028<br>Contact Email: fong@tlbb.com.sg
+ Company name:The Little Black Book Pte Ltd<br>Web URL: www.tlbb.com.sg <br>Contact Hotline: 94504886<br>Contact Email: asktlbb@gmail.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

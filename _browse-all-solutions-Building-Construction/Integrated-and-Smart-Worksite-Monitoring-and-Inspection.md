@@ -35,6 +35,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/201634798H-Ackco-Bm-BC' target='_blank'>Ackcio Beam</a><br></td>
 <td>Ackcio Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202031283D-Invglo-SfKy-TM-BC' target='_blank'>Invigilo SafeKey TM</a><br></td>
+<td>Invigilo Technologies Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
