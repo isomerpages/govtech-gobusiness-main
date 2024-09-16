@@ -47,6 +47,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/200801526G-HR-Admnstrton-nd-Pyroll-Procssng-wth-SS-SLNs-v-2341-G' target='_blank'>HR Administration and Payroll Processing with SaaS Solutions Version 23-4.1</a><br></td>
 <td>MATCH RESOURCES PTE LTD</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201410040G-BIPO-HR-MGT-Systm-nd-Pyroll-Outsourcng-SVCs-G' target='_blank'>BIPO Human Resource Management System and Payroll Outsourcing Services</a><br></td>
+<td>BIPO Service Singapore Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

@@ -30,8 +30,8 @@ National Environment Agency (NEA)
 <H3>Requirements</H3>
 
 <ol>
-<li>The company must have a valid UEN.<br /><br /></li>
-<li>The company must comply with the Radiation Protection Act and its subsidiary Regulations.<br /><br /></li>
-<li>Medical devices in Singapore are regulated by the Health Sciences Authority (HSA) under the Health Products Act (HPA) and its subsidiary Regulations. Applicants intending to import, possess for sale or deal in radiation-emitting medical devices should check with the Medical Device Branch (MDB) under HSA to ensure that the devices are registered and listed on the Singapore Medical Device Register (SMDR), or authorised by HSA, when submitting an application. For more information, please refer to the <a href="http://www.hsa.gov.sg/medical-devices" target="_blank" rel="noopener">MDB / HSA website</a>. Certain types of radiation emitting equipment may only be possessed by medical and/or healthcare establishments, and may only be used by registered medical and healthcare professionals at places registered with the Ministry of Health.</li>
+<li>To be eligible, the applicant must be a Singapore Citizen, Permanent Resident or hold a valid work visa.<br /><br /></li>
+<li>Medical examination is required when applying for a radiation worker registration or when re-applying for a lapsed certificate.<br /><br /></li>
+<li>The applicant / registrant must comply with the Radiation Protection Act and its subsidiary Regulations.</li>
 </ol>
 
