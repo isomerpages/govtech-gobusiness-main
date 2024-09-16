@@ -55,7 +55,12 @@ anchorlinks:
     anchor_text: 'Utilities & Environment'
 ---
 
-## Find licence (By industry)
+## Find and apply for licences by industry
+
+Select an industry to see a list of relevant licences here. You can also browse the full list of licences grouped by industry below.
+
+- To find a licence to renew/amend, refer to [this list](/licences/renew-amend-licence/?src=lic_list_writeup) instead 
+- To get recommendations on licences you need, browse our [list of e-Advisers for licences](/licences/find-licence-by-sector/?src=lic_list_writeup)
 
 {% include overview-licence.html notice=site.data.ov018-licence-browse-all %}
 

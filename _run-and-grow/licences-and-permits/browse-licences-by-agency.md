@@ -8,7 +8,9 @@ third_nav_title: Licences and Permits
 
 Select a government agency to see its licences and apply for them.
 
-This is a list of licences you can apply for. If you are looking to renew a licence, you can [find licences to renew or amend here](/licences/renew-amend-licence/?src=lic_list_writeup). If you’re not sure which licences you need, browse our [list of e-Advisers for licences](/licences/find-licence-by-sector/?src=lic_list_writeup) to get licence recommendations.
+- To find a licence to renew/amend, refer to [this list](/licences/renew-amend-licence/?src=lic_list_writeup) instead 
+- To get recommendations on licences you need, browse our [list of e-Advisers for licences](/licences/find-licence-by-sector/?src=lic_list_writeup)
+
 
 {% include overview-licence.html notice=site.data.ov018-licence-browse-all %}
 
