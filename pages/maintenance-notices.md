@@ -1,4 +1,4 @@
-  ---
+---
 title: 'GoBusiness Maintenance Notices'
 permalink: /maintenance-notices/
 ---
