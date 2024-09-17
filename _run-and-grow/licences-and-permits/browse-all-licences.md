@@ -1,6 +1,6 @@
 ---
 title: Find licence (By industry)
-permalink: /licences/browse-all-licences/
+permalink: /licences/find-licence-by-industry/
 third_nav_title: Licences and Permits
 anchorlinks:
   - anchor: '#animals-veterinary-services'
