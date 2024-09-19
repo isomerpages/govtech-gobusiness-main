@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/199905781M-Qoqolo-SCH-MGT-
 
 **Description**
 
-Qoqolo is a one-stop-shop preschool management system for schools to accelerate their digital transformation.  Qoqolo offers a full suite of digital services: Student Management, Parent Engagement, e-Portfolio, Centre Operations Management, Staff Management, Fee Management, e-Registration, ECDA CMS Integration & more.
+Qoqolo is a one-stop-shop preschool management system for schools to accelerate their digital transformation.  Qoqolo offers a full suite of digital services: Student Management, Parent Engagement, e-Portfolio, Centre Operations Management, Staff Management, Fee Management, e-Registration, & more.
 Key Benefits:
 -	Easy Deployment
 -	Paperless Storage
@@ -31,38 +31,38 @@ Key Benefits:
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Pro + E-Form </td>
-<td style='padding: 10px;'>$13,588.00</td>
-<td style='padding: 10px;'>$13,588.00</td>
-<td style='padding: 10px;'><a href='/images/psg/CommonTown_PreSchooleForm_15082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Pro </td>
+<td style='padding: 10px;'>$11,888.00</td>
+<td style='padding: 10px;'>$11,888.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CommonTown_PreSchoolManagement_15082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium + E-Form </td>
-<td style='padding: 10px;'>$12,388.00</td>
-<td style='padding: 10px;'>$12,388.00</td>
-<td style='padding: 10px;'><a href='/images/psg/CommonTown_PreSchooleForm_15082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium </td>
+<td style='padding: 10px;'>$10,688.00</td>
+<td style='padding: 10px;'>$10,688.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CommonTown_PreSchoolManagement_15082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced + E-Form </td>
-<td style='padding: 10px;'>$11,588.00</td>
-<td style='padding: 10px;'>$11,588.00</td>
-<td style='padding: 10px;'><a href='/images/psg/CommonTown_PreSchooleForm_15082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced </td>
+<td style='padding: 10px;'>$9,888.00</td>
+<td style='padding: 10px;'>$9,888.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CommonTown_PreSchoolManagement_15082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard + E-Form </td>
-<td style='padding: 10px;'>$10,388.00</td>
-<td style='padding: 10px;'>$10,388.00</td>
-<td style='padding: 10px;'><a href='/images/psg/CommonTown_PreSchooleForm_15082024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
+<td style='padding: 10px;'>$8,688.00</td>
+<td style='padding: 10px;'>$8,688.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CommonTown_PreSchoolManagement_15082024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite + E-Form </td>
-<td style='padding: 10px;'>$7,188.00</td>
-<td style='padding: 10px;'>$7,188.00</td>
-<td style='padding: 10px;'><a href='/images/psg/CommonTown_PreSchooleForm_15082024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite </td>
+<td style='padding: 10px;'>$5,488.00</td>
+<td style='padding: 10px;'>$5,488.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CommonTown_PreSchoolManagement_15082024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
