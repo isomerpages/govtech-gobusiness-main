@@ -537,7 +537,7 @@ We go beyond business as usual, so you can too.
 
 #### Acorn Management Consulting Pte Ltd
 
-We help enhance the value of IP & Brand through driving growth, competitivensss & profitbility.
+We help enhance the value of IP & Brand through driving growth, competitiveness & profitability.
 
 
 <ul>

@@ -77,7 +77,7 @@ Established in 1993, CLA Global TS is an award-winning Asia-focused business adv
 - Location: Singapore
 - IA/IP-Related Expertise: Tax Advisory (with IA/IP considerations)
 - Certifications/Qualifications: Singapore Accredited Tax Advisor
-- URL of LinkedIn/Company Profile: <a href="https:// www.linkedin.com/in/edwin-leow/" target="_blank" rel="noopener">https://www.linkedin.com/in/edwin-leow/</a>
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/edwin-leow/" target="_blank" rel="noopener">https://www.linkedin.com/in/edwin-leow/</a>
 
 
 **Grace Lui**

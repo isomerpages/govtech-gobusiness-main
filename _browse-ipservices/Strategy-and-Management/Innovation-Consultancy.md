@@ -478,7 +478,7 @@ Specialize in strategy, IP optimization, branding, market entry, and digital sol
 
 #### Acorn Management Consulting Pte Ltd
 
-We help enhance the value of IP & Brand through driving growth, competitivensss & profitbility.
+We help enhance the value of IP & Brand through driving growth, competitiveness & profitability.
 
 
 <ul>
