@@ -5,7 +5,7 @@ permalink: /intellectual-property/ip-grow/acorn-management-consulting-pte-ltd/
 
 ## Acorn Management Consulting Pte Ltd
 
-ACORN Management Consulting is a full-service business, Marketing, IP & Brand consultancy firm, affiliated with Acorn Group which has presence in 11 countries across Asia Pacific.
+ACORN Management Consulting is a full-service Business, Marketing, IP & Brand consultancy firm, affiliated with Acorn Group which has presence in 11 countries across Asia Pacific.
 
 We help organisations to compete, grow and be profitable by driving focus on their IP/intangibles. We help calculate the economic ROI of everything a company does and how does it all add value to the IP/Brand value and drive shareholder returns.
 
