@@ -74,7 +74,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Certificate of Freedom From Disease Within Singapore](https://dashboard.gobusiness.gov.sg/task-details/freedomfromdisease)
 - [Free Sale Certificate (Non Food Producing Animal Feed)](https://dashboard.gobusiness.gov.sg/task-details/fea242ac-ffba-4b7b-856f-39ebe0e9f6cf)
 - [Free Sale Certificate (Vaccine)](https://dashboard.gobusiness.gov.sg/task-details/freesalevaccine)
-- [Health Certificate for Export of Ornamental Fish](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201212070000111)
+- [Health Certificate for Export of Ornamental Fish](https://dashboard.gobusiness.gov.sg/task-details/healthcertforexportornamentalfish)
 - [Licence for Animal Exhibition](https://dashboard.gobusiness.gov.sg/task-details/animalexhibition)
 - [Licence for Animal Research Facility](https://dashboard.gobusiness.gov.sg/task-details/animalresearchfacility)
 - [Licence for Pet Shop](https://dashboard.gobusiness.gov.sg/task-details/petshop)
@@ -86,7 +86,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Licence to Treat Animals and Birds](https://dashboard.gobusiness.gov.sg/task-details/treatanimalsandbirds)
 - [Registration to Import Feed for Non-food producing animals](https://dashboard.gobusiness.gov.sg/task-details/importfeedfornonfoodproducinganimals)
 - [Registration to Import Live Frogs for Ornamental Fish Feeding Only](https://dashboard.gobusiness.gov.sg/task-details/importfrogforornamentalfish)
-- [Veterinary Certificate](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201212070000113)
+- [Veterinary Certificate for Non-Food Animals](https://dashboard.gobusiness.gov.sg/task-details/vetcertnonfood)
 
 <a name="arts-media"></a>
 
