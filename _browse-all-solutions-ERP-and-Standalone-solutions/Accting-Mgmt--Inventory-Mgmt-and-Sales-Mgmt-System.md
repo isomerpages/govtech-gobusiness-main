@@ -6,14 +6,6 @@ permalink: /browse-all-solutions-ERP-and-Standalone-solutions/Accting-Mgmt--Inve
 ## Accounting Management, Inventory Management and Sales Management System
 ## Overview
 
-**Description**
-
-Offers a company the ability to manage their accounting process such as general ledger setup, create journal entries, calculate sales tax, cash flow, generate AR / AP reports. 
-
-Offers ability to generate quotations, invoices, purchase orders and generate reports. 
-
-Setup product details for each item group, inventory locations, journal logs, create price groups / discounts, barcode labelling for RFID search and allow integration with Point of Sales (POS) systems.
-
 **Support Level and Conditions**
 
 Up to 50% for SMEs, N.A. for non-SMEs
@@ -34,10 +26,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <th style='width: auto;'><b>Solutions Name</b></th>
 <th style='width: 30%;'><b>Vendor</b></th>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200918692D-ABSS-Prmr-v-30-G' target='_blank'>ABSS Premier Version 30</a><br></td>
-<td>Andre Corporate Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200603587Z-Mllon-ACC-nd-Stock-Control-Systm-v-3-G' target='_blank'>Million Accounting and Stock Control System Version 3</a><br></td>
@@ -122,6 +110,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201224387N-SAP-Busnss-On-v-100-G' target='_blank'>SAP Business One Version 10.0</a><br></td>
 <td>WINAPP SOLUTIONS PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201007812H-Educ-v-50-G' target='_blank'>Educe Version 5.0</a><br></td>
+<td>Excelforte Software Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201912702K-AM8ZE-ERP-VISTA-v-13-G' target='_blank'>AM8ZE ERP: VISTA Version 13</a><br></td>
+<td>AM8ZE PTE LTD</td>
 </tr>
 </table>
 
