@@ -4,7 +4,7 @@ permalink: /browse-all-licences/Singapore-Police-Force-(SPF)/Traffic-Police-Road
 third_nav_title: Singapore Police Force (SPF)
 ---
 
-## <p><strong>Contact Details</strong><br>Member of public may contact Traffic Police at :<br />Tel : 6547 0000<br /><a title="" href="mailto:SPF_TP_Feedback@spf.gov.sg" target="_blank" rel="noopener">SPF_TP_Feedback@spf.gov.sg</a></p>
+## Apply for Traffic Police Road Closure Permit
 
 Singapore Police Force (SPF)
 
@@ -24,7 +24,7 @@ Singapore Police Force (SPF)
 
 <strong>Additional Information</strong>
 
-<p>For comprehensive instructions on applying for a Traffic Police Road Closure Permit, please refer to the <br /><a href="https://www.police.gov.sg/-/media/Spf/Files/E-services/Road_Closure_Permit/User_Guide_Application_for_Traffic_Police_Road_Closure_Permit.ashx" target="_blank" rel="noopener">User Guide</a>.</p>
+<p>For comprehensive instructions on applying for a Traffic Police Road Closure Permit, please refer to the <a href="https://www.police.gov.sg/-/media/Spf/Files/E-services/Road_Closure_Permit/User_Guide_Application_for_Traffic_Police_Road_Closure_Permit.ashx" target="_blank" rel="noopener">User Guide</a>.</p>
 <p></p>
 <p><strong>Important: </strong>Please submit complete and accurate documents. Incomplete or incorrect applications will be rejected, resulting in processing delays.</p>
 
