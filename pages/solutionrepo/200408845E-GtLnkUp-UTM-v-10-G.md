@@ -23,6 +23,20 @@ Powered by Sophos, GetLinkUp UTM offers robust cybersecurity for safeguarding ne
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite</td>
+<td style='padding: 10px;'>$6,220.00</td>
+<td style='padding: 10px;'>$5,438.00</td>
+<td style='padding: 10px;'><a href='/images/psg/200408845E_20230282_26092024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus</td>
+<td style='padding: 10px;'>$8,730.00</td>
+<td style='padding: 10px;'>$7,710.00</td>
+<td style='padding: 10px;'><a href='/images/psg/200408845E_20230282_26092024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pro</td>
 <td style='padding: 10px;'>$11,888.00</td>
 <td style='padding: 10px;'>$10,363.00</td>

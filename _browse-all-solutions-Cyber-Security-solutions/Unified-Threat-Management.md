@@ -72,10 +72,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/200408845E-GtLnkUp-UTM-v-10-G' target='_blank'>GetLinkUp UTM Version 1.0</a><br></td>
 <td>PROMINDS PTE. LTD.</td>
 </tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200408845E-GtLnkUp-UTM-v-10-G' target='_blank'>GetLinkUp UTM Version 1.0</a><br></td>
-<td>iCHEF SG PTE LTD</td>
-</tr>
 </table>
 
 {% include banner-psg-survey.html %}
