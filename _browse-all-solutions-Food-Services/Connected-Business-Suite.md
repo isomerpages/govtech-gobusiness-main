@@ -35,6 +35,22 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td><a href='/productivity-solutions-grant/solutionrepo/200816700E-LFSut-v-1-FS' target='_blank'>LFSuite Version 1</a><br></td>
 <td>LEVELFIVE SOLUTIONS PTE. LTD.</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200503951K-Mkn-FS' target='_blank'>iMakan</a><br></td>
+<td>Megasafe Technology Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201025900M-Ell-Food-SVCs-Busnss-Sut-v-1-FS' target='_blank'>Ellie Food Services Business Suite Version 1</a><br></td>
+<td>Supply Ellie Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201729553C-WrlyPOS-v-15-FS' target='_blank'>WarelyPOS Version 1.5</a><br></td>
+<td>Plus 65 Marketing Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201934203W-Lunchbox-Smrt-Rsturnt-SLN-v-11-FS' target='_blank'>Lunchbox Smart Restaurant Solution Version 1.1</a><br></td>
+<td>Lunchbox Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
