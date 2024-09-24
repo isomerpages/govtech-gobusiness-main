@@ -18,6 +18,7 @@ We are a signatory of the United Nations Global Compact (UNGC), supporting its T
 
 <b>Intellectual property awards received:</b> Ranked as a 5-star firm in Intellectual Property Law and Technology Law by The Straits Times' Singapore's Best Law Firms Survey ; Recognised for Leading expertise in Intellectual Property and Telecommunications, Media & Technology in Singapore by Chambers Asia-Pacific ; Recognised for Leading expertise in Intellectual Property, TMT and Data Protection & Cyber Security in Singapore by The Legal 500: Asia Pacific ; Ranked as Highly Recommended in Intellectual Property and Technology & Telecommunications in Singapore by asialaw Profiles ; Recognised for Leading expertise in Copyright & related rights, IP transactions and Trademark prosecution in Singapore by Managing IP - IP Stars Handbook: Trade Mark, Copyright and Patents
 
+
 <b>Type of organization:</b> Non-SME
 
 <b>Address in Singapore:</b> 12 Marina Boulevard, Level 28 Marina Bay Financial Centre Tower 3, Singapore, 018982

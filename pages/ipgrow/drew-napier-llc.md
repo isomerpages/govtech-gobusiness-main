@@ -133,7 +133,9 @@ Drew & Napier is the preferred choice of foreign and domestic governments, gover
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), Registered Design Agent Service, IP Intelligence and Search, IP Due Diligence
 - Certifications/Qualifications: Hastings College of the Law, University of California, J.D., 1994, University of California, Berkeley, B.A., English, 1990, San Jose State University, B.S., Electrical Engineering, cum laude, 1998, Patent Attorney, U.S. Patent and Trademark Office (1998), Attorney-at-Law, Registered to Practice in U.S. Jurisdictions of: California (1994),District of Columbia (2004),New York (2006),Certified to Appear in U.S. federal courts of: U.S. Court of Appeals, Federal Circuit, U.S. Court of Appeals, 9th Circuit, U.S. District Courts, N.D., C.D., E.D., S.D. of California
-- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/patrickwduncan/" target="_blank" rel="noopener">https://www.linkedin.com/in/patrickwduncan/</a>  
+
+- URL of LinkedIn/Company Profile: 
+<a href="https://www.linkedin.com/in/patrickwduncan/" target="_blank" rel="noopener">https://www.linkedin.com/in/patrickwduncan/</a>  
 
 **Jiawei Koh**
 
@@ -142,7 +144,7 @@ Drew & Napier is the preferred choice of foreign and domestic governments, gover
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search, IP Due Diligence, Dispute Resolution
 - Certifications/Qualifications: Bachelor of Engineering, Nanyang Technological University 2007, Graduate Certificate in Intellectual Property Law, 2011, Registered Singapore Patent Agent 2019
-- URL of LinkedIn/Company Profile: <a href="https://sg.linkedin.com/in/koh-jiawei-84ab4644" target="_blank" rel="noopener">https://sg.linkedin.com/in/koh-jiawei-84ab4644</a> 
+- URL of LinkedIn/Company Profile: <a href="https://sg.linkedin.com/in/koh-jiawei-84ab4644" target="_blank" rel="noopener">https://sg.linkedin.com/in/koh-jiawei-84ab4644</a>  
 
 **Tony Yeo**
 
