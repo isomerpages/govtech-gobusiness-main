@@ -1,6 +1,6 @@
 ---
 title: Ship Station Operator's Certificate of Competency
-permalink: /browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Ship-Station-Operators-Certificate-of-Competency
+permalink: /browse-all-licences/infocomm-media-development-authority-(imda)/ship-station-operator's-certificate-of-competency
 third_nav_title: Infocomm Media Development Authority (IMDA)
 ---
 
