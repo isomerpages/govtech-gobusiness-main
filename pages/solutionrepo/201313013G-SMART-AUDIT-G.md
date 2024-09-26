@@ -23,16 +23,12 @@ Smart Audit is a new generation cloud-based audit workflow software. It currentl
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ISCA External Audit Pack - 3 users (2 years)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ISCA External Audit Pack - 5 users (2 years)</td>
 <td style='padding: 10px;'>$6,360.00</td>
 <td style='padding: 10px;'>$6,296.00</td>
 <td style='padding: 10px;'><a href='/images/psg/Smart_Audit_SMART_AUDIT_07092023_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
-
-## Mode and Schedule of Payment
-
- - Subscription / Leasing
 
 ## Vendor Information
 

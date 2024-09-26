@@ -40,16 +40,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Enable Business Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200202453M-ASURIX-HRMS-G' target='_blank'>ASURIX HRMS</a><br></td>
-<td>Net Solutions Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/51322500E-TIME-ACCESS-HRMS-v-V20-G' target='_blank'>TIME ACCESS HRMS Version V2.0</a><br></td>
 <td>TIME ACCESS INTERNATIONAL</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201540990Z-YUVO-G' target='_blank'>YUVO</a><br></td>
-<td>YUVO PTE LTD</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200604587R-SMARTHRMS-v-1-G' target='_blank'>SMARTHRMS Version 1</a><br></td>
@@ -88,10 +80,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Carbonate Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201700241Z-cutOffc-ERP-v-20-G' target='_blank'>cuteOffice ERP Version 2.0</a><br></td>
-<td>Cutech Infocomm Solutions Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202135719C-Employmnt-Hro-G' target='_blank'>Employment Hero</a><br></td>
 <td>Employment Hero Pte. Ltd.</td>
 </tr>
@@ -110,6 +98,18 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200711480W-AI-INFOTECH-Cloud-HRMS-v-80-G' target='_blank'>(A.I.) INFO-TECH Cloud HRMS Version 8.0</a><br></td>
 <td>Info-Tech Systems Integrators Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200000956W-SS-JustLogn-HR-Cloud-G' target='_blank'>(SaaS) JustLogin HR Cloud</a><br></td>
+<td>JUSTLOGIN PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201410040G-BIPO-HR-MGT-Systm-HRMS-G' target='_blank'>BIPO Human Resource Management System (HRMS)</a><br></td>
+<td>BIPO Service Singapore Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201700241Z-cutOffc-ERP-v-20-G' target='_blank'>cuteOffice ERP Version 2.0</a><br></td>
+<td>Cute Infocomm Solutions Pte Ltd</td>
 </tr>
 </table>
 

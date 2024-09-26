@@ -24,7 +24,7 @@ Cost of equipment capped at $37,500 per unit
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vertical Carousel</td>
 <td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>1. Machine has a Minimum  7 trays/carriers<br><br>2. Each tray to have a Minimum  load capacity of 135kg<br><br>3. Each tray to have a Minimum  width of 1200MM<br><br>4. Machine includes operator console and software linked to Inventory Management System</td>
+<td style='padding: 10px;'>1. Machine has a Minimum 7 trays/carriers<br><br>2. Each tray to have a Minimum load capacity of 135kg<br><br>3. Each tray to have a Minimum width of 1200MM<br><br>4. Machine includes operator console and software linked to Inventory Management System</td>
 </tr>
 </table>
 

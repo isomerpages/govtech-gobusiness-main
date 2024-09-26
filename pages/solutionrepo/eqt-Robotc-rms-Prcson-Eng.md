@@ -27,7 +27,7 @@ Cost of equipment capped at $37,500 per unit
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Robotic arms</td>
 <td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>1. Robotic arms with a Minimum  of 2- axis.<br><br>2. Minimum  payload of 1kg.<br><br>3. Unit includes a programmable software tool</td>
+<td style='padding: 10px;'>1. Robotic arms with a Minimum of 2- axis.<br><br>2. Minimum payload of 1kg.<br><br>3. Unit includes a programmable software tool</td>
 </tr>
 </table>
 
