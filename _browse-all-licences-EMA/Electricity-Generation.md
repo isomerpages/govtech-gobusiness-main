@@ -10,14 +10,7 @@ Energy Market Authority (EMA)
 
 {% include spcp-text.html type="cp" %}
 
-{% include licence-apply-button.html %}
-<a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=284" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>
-<div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-size: 18px; color: #313840;">
-<img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;">
-<span style="font-weight: bold; font-family: hknova-bold; font-size: 18px; ">Please use desktop / laptop to apply for this licence.</span><br>
-<span style="font-family: hknova-regular;">You can only view application details and make payment via mobile. Please use GoBusiness Licensing on desktop to use all features.</span><br><br>
-<a id="mobileNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=284" target="_blank" rel="noopener">Continue to GoBusiness Licencing anyway</a>
-</div>
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/electricitygeneration" type="primary" %}
 
 <H3>Application Details</H3>
 
@@ -45,31 +38,31 @@ If the Applicant intends to use gas as a fuel for the generating units , the App
 
 <H3>Documents Needed</H3>
 
-<ul>
-<li><strong>Audited statements, balance sheets, cash flow statements and credit statement</strong><br />Audited past profit and loss statements, balance sheets and cash flow statements of the Applicant or the significant shareholders for the last 2 full financial years or since incorporation if less than 2 years and credit statement or credit rating, including any history of bankruptcy or financial distress.
-<br>File format: pdf, xls, xlsx, doc, docx
-<br>Maximum upload per application: 5 MB
-</li>
-<li><strong>Financing plan with details of sources of capital and repayment schedule</strong>
-<br>File format: pdf, xls, xlsx, doc, docx
-<br>Maximum upload per application: 5 MB
-</li>
-<li><strong>Applicant's acceptance of the proposed electricity connection scheme</strong>
-<br>File format: pdf
-<br>Maximum upload per application: 5 MB
-</li>
-<li><strong>Organisation chart including resume and curriculum vitae (CV) of key appointment holders</strong>
-<br>File format: pdf, doc, docx
-<br>Maximum upload per application: 5 MB
-</li>
-<li><strong>Applicant's acceptance of the proposed gas connection scheme (if gas is used as a fuel for the generating unit)</strong>
-<br>File format: pdf
-<br>Maximum upload per application: 5 MB
-</li>
-<li><strong>Other supporting documents (if any)</strong>
-<br>File format: pdf, xls, xlsx, doc, docx
-<br>Maximum upload per application: 10 MB
-</li>
+<ul> 
+<li><strong>Audited statements, balance sheets, cash flow statements and credit statement</strong><br />Audited past profit and loss statements, balance sheets and cash flow statements of the Applicant or the significant shareholders for the last 2 full financial years or since incorporation if less than 2 years and credit statement or credit rating, including any history of bankruptcy or financial distress. 
+<br>File format: pdf, xls, xlsx, doc, docx 
+<br>Maximum upload per application: 5 MB 
+</li> 
+<li><strong>Financing plan with details of sources of capital and repayment schedule</strong> 
+<br>File format: pdf, xls, xlsx, doc, docx 
+<br>Maximum upload per application: 5 MB 
+</li> 
+<li><strong>Applicant's acceptance of the proposed electricity connection scheme</strong> 
+<br>File format: pdf 
+<br>Maximum upload per application: 5 MB 
+</li> 
+<li><strong>Organisation chart including resume and curriculum vitae (CV) of key appointment holders</strong> 
+<br>File format: pdf, doc, docx 
+<br>Maximum upload per application: 5 MB 
+</li> 
+<li><strong>Applicant's acceptance of the proposed gas connection scheme (if gas is used as a fuel for the generating unit)</strong> 
+<br>File format: pdf 
+<br>Maximum upload per application: 5 MB 
+</li> 
+<li><strong>Other supporting documents (if any)</strong> 
+<br>File format: pdf, xls, xlsx, doc, docx 
+<br>Maximum upload per application: 10 MB 
+</li> 
 </ul>
 
 <H3>Requirements</H3>
