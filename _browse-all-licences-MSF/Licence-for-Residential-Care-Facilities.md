@@ -114,7 +114,7 @@ The licence fee is $24 per licence to operate a Children and Young Persons Home 
 <H3>Documents Needed</H3>
 
 <ul>
-<li><strong>Certificate of Registration from Accounting & Corporate Regulatory Authority (ACRA) or Certificate of Registration from Registrar of Societies.</strong>><br>
+<li><strong>Certificate of Registration from Accounting & Corporate Regulatory Authority (ACRA) or Certificate of Registration from Registrar of Societies.</strong><br>
 File format: docx, jpg, jpeg, pdf, xlsx<br>
 Maximum upload per application: 5 MB
 </li>
