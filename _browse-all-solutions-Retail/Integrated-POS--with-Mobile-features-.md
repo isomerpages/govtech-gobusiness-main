@@ -20,14 +20,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200816700E-LFSUITE-v-6-G' target='_blank'>LFSUITE Version 6</a><br></td>
-<td>LEVELFIVE SOLUTIONS PTE. LTD.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/198204281M-SUNTOYO-POS-SLN-v-81-G' target='_blank'>SUNTOYO POS SOLUTION Version 8.1</a><br></td>
-<td>SUNTOYO TECHNOLOGY PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200706756M-Eurostop-OmnChnnl-Rtl-MGT-Systm-v-10-G' target='_blank'>Eurostop Omni-Channel Retail Management System Version 10</a><br></td>
 <td>Eurostop Singapore Pte Ltd</td>
 </tr>

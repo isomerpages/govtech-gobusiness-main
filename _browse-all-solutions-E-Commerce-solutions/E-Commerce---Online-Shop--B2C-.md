@@ -56,14 +56,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>I Concept Innovation Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201840067W-PxlCommrc-v-593-G' target='_blank'>PixelCommerce Version 5.9.3</a><br></td>
-<td>PIXEL MECHANICS PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201415816M-Smplfys-Ecommrc-v-1-G' target='_blank'>Simpliify's E-commerce Version 1</a><br></td>
-<td>Simpliify Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201535836W-Commrc-Mstrpln-v-20-G' target='_blank'>eCommerce Masterplan Version 2.0</a><br></td>
 <td>Aks Tech Pte Ltd</td>
 </tr>
@@ -74,10 +66,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201402351H-Wb-Imp-Exprss-ECommrc-Wbst-Dv-v-v1-G' target='_blank'>Web Imp Express E-Commerce Website Development Version v1</a><br></td>
 <td>WEB IMP PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201606824H-DST-ECommrc-G' target='_blank'>DST E-Commerce</a><br></td>
-<td>DST Advertising (Singapore) Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201734623N-Athn-EStor-SLN-G' target='_blank'>Athena E-Store Solution</a><br></td>
@@ -98,10 +86,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201135968W-OS-Stor-ECommrc-v-30-G' target='_blank'>OS Store E-Commerce Version 3.0</a><br></td>
 <td>Orfeostory Pte Ltd </td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201736601Z-Wbsntls-Ecommrc-Wb-Dv-G' target='_blank'>Websentials Ecommerce Web Development</a><br></td>
-<td>Websentials Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201939190G-Shopfy-Wb-Dv-by-MS-Wb-G' target='_blank'>Shopify Web Development by MS Web</a><br></td>
@@ -142,10 +126,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201822015H-3D-Omn-Commrc-G' target='_blank'>3D Omni Commerce</a><br></td>
 <td>3D BRAND AGENCY PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202013665N-SHOPLINE-Commrc-SLN-v-20-G' target='_blank'>SHOPLINE e-Commerce Solution Version 2.0</a><br></td>
-<td>Shopline Commerce Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201842642W-W360-E-Powr-Pck-v-10-G' target='_blank'>W360 E Power Pack Version 1.0</a><br></td>
