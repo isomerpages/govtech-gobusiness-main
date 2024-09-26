@@ -26,5 +26,5 @@ Singapore Police Force (SPF)
 
 <p>For comprehensive instructions on applying for a Traffic Police Road Closure Permit, please refer to the <a href="https://www.police.gov.sg/-/media/Spf/Files/E-services/Road_Closure_Permit/User_Guide_Application_for_Traffic_Police_Road_Closure_Permit.ashx" target="_blank" rel="noopener">User Guide</a>.</p>
 <p></p>
-<p><strong>Important: </strong>Please submit complete and accurate documents. Incomplete or incorrect applications will be rejected, resulting in processing delays.</p>
+<p><strong>Important: </strong>Please ensure documents are duly completed. Incomplete submissions may be rejected resulting in processing delays.</p>
 
