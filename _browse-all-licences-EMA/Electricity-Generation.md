@@ -14,7 +14,7 @@ Energy Market Authority (EMA)
 
 <H3>Application Details</H3>
 
-<p>Required for electricity generation (>-10 MW) and for trading in wholesale electricity market</p>
+<p>Required for electricity generation (≥10 MW) and for trading in wholesale electricity market.</p>
 <p>This licence is required for applicants intending to generate electricity from generating unit(s) and to trade in wholesale electricity market operated by the Market Company.</p>
 <h3>FAQ</h3>
 <ol>
@@ -26,10 +26,10 @@ You do not need to apply for an Electricity Licence for Generation Licensee to g
 <strong>Does the licence guarantee a registration to the Market Company?</strong><br>
 The issuance of a licence does not guarantee registration by the Market Company for participation in the Wholesale Electricity Market in Singapore.</li>
 <li><strong>Are there any regulations for the licensee to comply to?</strong><br>
-The Licensee shall be subject to and shall comply with:<br />a. the Transmission Code;<br />b. the Metering Code; and<br />c. any other relevant codes of practice and standards of performance issued or approved under Section 16 of the Electricity Act</li>
+The Licensee shall be subject to and shall comply with:<br />a. the Transmission Code;<br />b. the Metering Code; and<br />c. any other relevant codes of practice and standards of performance issued or approved under Section 16 of the Electricity Act 2001</li>
 <li><strong>Are there any other prerequisites for this application?</strong><br>
 The Applicant is required to first consult the Transmission Licensee for an electricity connection scheme and the Transmission Licensee will advise the Applicant on the proposed connection scheme accordingly. The Applicant is required to submit evidence of his acceptance of the Transmission Licensee's proposed connection scheme as part of his application.<br>
-If the Applicant intends to use gas as a fuel for the generating units , the Applicant is also required to consult the Gas Transporter Licensee for a gas connection scheme and the Gas Transporter Licensee will advise the Applicant on the proposed gas connection scheme accordingly. The Applicant is required to submit evidence of the acceptance of the Gas Transporter Licensee's proposed gas connection scheme as part of this application.</li>
+If the Applicant intends to use gas as a fuel for the generating units, the Applicant is also required to consult the Gas Transporter Licensee for a gas connection scheme and the Gas Transporter Licensee will advise the Applicant on the proposed gas connection scheme accordingly. The Applicant is required to submit evidence of the acceptance of the Gas Transporter Licensee's proposed gas connection scheme as part of this application.</li>
 </ol>
 
 <strong>Additional Information</strong>
@@ -38,31 +38,36 @@ If the Applicant intends to use gas as a fuel for the generating units , the App
 
 <H3>Documents Needed</H3>
 
-<ul> 
-<li><strong>Audited statements, balance sheets, cash flow statements and credit statement</strong><br />Audited past profit and loss statements, balance sheets and cash flow statements of the Applicant or the significant shareholders for the last 2 full financial years or since incorporation if less than 2 years and credit statement or credit rating, including any history of bankruptcy or financial distress. 
-<br>File format: pdf, xls, xlsx, doc, docx 
-<br>Maximum upload per application: 5 MB 
-</li> 
-<li><strong>Financing plan with details of sources of capital and repayment schedule</strong> 
-<br>File format: pdf, xls, xlsx, doc, docx 
-<br>Maximum upload per application: 5 MB 
-</li> 
-<li><strong>Applicant's acceptance of the proposed electricity connection scheme</strong> 
-<br>File format: pdf 
-<br>Maximum upload per application: 5 MB 
-</li> 
-<li><strong>Organisation chart including resume and curriculum vitae (CV) of key appointment holders</strong> 
-<br>File format: pdf, doc, docx 
-<br>Maximum upload per application: 5 MB 
-</li> 
-<li><strong>Applicant's acceptance of the proposed gas connection scheme (if gas is used as a fuel for the generating unit)</strong> 
-<br>File format: pdf 
-<br>Maximum upload per application: 5 MB 
-</li> 
-<li><strong>Other supporting documents (if any)</strong> 
-<br>File format: pdf, xls, xlsx, doc, docx 
-<br>Maximum upload per application: 10 MB 
-</li> 
+<ul>
+<li><strong>Audited statements, balance sheets, cash flow statements and credit statement</strong>
+<br />Past 2 years� audited financial statements which could include income statements, balance sheets, cash flow statements and credit statement or credit rating (if any), including any history of bankruptcy or financial distress.
+<br>Document(s) Format(s): (*.doc, *.docx, *.jpeg, *.jpg, *.pdf, *.png, *.xls, *.xlsx)
+<br>Maximum upload per application: 7 MB
+</li>
+<li><strong>Financing plan with details of sources of capital and repayment schedule</strong>
+<br>Document(s) Format(s): (*.doc, *.docx, *.jpeg, *.jpg, *.pdf, *.png, *.xls, *.xlsx)
+<br>Maximum upload per application: 7 MB
+</li>
+<li><strong>Applicant's acceptance of the proposed electricity connection scheme</strong>
+<br>Document(s) Format(s): (*.doc, *.docx, *.jpeg, *.jpg, *.pdf, *.png, *.xls, *.xlsx)
+<br>Maximum upload per application: 7 MB
+</li>
+<li><strong>Organisation chart including resume and curriculum vitae (CV) of key appointment holders</strong>
+<br>Document(s) Format(s): (*.doc, *.docx, *.jpeg, *.jpg, *.pdf, *.png, *.xls, *.xlsx)
+<br>Maximum upload per application: 7 MB
+</li>
+<li><strong>Applicant's acceptance of the proposed gas connection scheme (if gas is used as a fuel for the generating unit)</strong>
+<br>Document(s) Format(s): (*.doc, *.docx, *.jpeg, *.jpg, *.pdf, *.png, *.xls, *.xlsx)
+<br>Maximum upload per application: 7 MB
+</li>
+<li><strong>Applicant's ACRA Business Profile</strong>
+<br>Document(s) Format(s): (*.doc, *.docx, *.jpeg, *.jpg, *.pdf, *.png, *.xls, *.xlsx)
+<br>Maximum upload per application: 7 MB
+</li>
+<li><strong>Other supporting documents (if any)</strong>
+<br>Document(s) Format(s): (*.doc, *.docx, *.jpeg, *.jpg, *.pdf, *.png, *.xls, *.xlsx)
+<br>Maximum upload per application: 7 MB
+</li>
 </ul>
 
 <H3>Requirements</H3>
