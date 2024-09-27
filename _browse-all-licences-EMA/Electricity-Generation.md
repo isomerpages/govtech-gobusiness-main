@@ -40,7 +40,7 @@ If the Applicant intends to use gas as a fuel for the generating units, the Appl
 
 <ul>
 <li><strong>Audited statements, balance sheets, cash flow statements and credit statement</strong>
-<br />Past 2 years� audited financial statements which could include income statements, balance sheets, cash flow statements and credit statement or credit rating (if any), including any history of bankruptcy or financial distress.
+<br />Past 2 years' audited financial statements which could include income statements, balance sheets, cash flow statements and credit statement or credit rating (if any), including any history of bankruptcy or financial distress.
 <br>Document(s) Format(s): (*.doc, *.docx, *.jpeg, *.jpg, *.pdf, *.png, *.xls, *.xlsx)
 <br>Maximum upload per application: 7 MB
 </li>
