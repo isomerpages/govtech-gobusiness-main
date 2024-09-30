@@ -43,7 +43,7 @@ Techzu's WooCommerce Design & Development supports SMEs in setting up eCommerce 
 
 ## Vendor Information
 
- Company Name: TECHZU ICHICODE PTE LTD<br>Web URL: https://techzu.co/web-design/ <br>Contact Hotline: 90263202 <br>Contact Email: hello@techzu.co <br>
+ Company Name: TECHZU ICHICODE PTE LTD<br>Web URL: https://techzu.co/web-design/ <br>Contact Hotline: 87591486 <br>Contact Email: hello@techzu.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
