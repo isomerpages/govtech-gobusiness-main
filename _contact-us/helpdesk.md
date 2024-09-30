@@ -16,7 +16,7 @@ permalink: /contact-us/
 
 <h3>Contact a helpdesk</h3>
 
-{% include notice.html notice=site.data.sdlnoa_notice.yml%} 
+{% include notice.html notice=site.data.sdlnoa_notice%} 
 
 ----
 
