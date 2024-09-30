@@ -19,7 +19,10 @@ permalink: /contact-us/
 {% include overview.html anchorlinks=page_anchorlinks %}
 <p>Additional license information goes here. test test</p>
 
-{% include panels-aboutus.html panels=site.data.acc013-helpdesk %}
+{% include panels-aboutus.html content="This is the dynamic text inside the blue panel." %}
+
+
+<!-- {% include panels-aboutus.html panels=site.data.acc013-helpdesk %} -->
 
 ----
 
