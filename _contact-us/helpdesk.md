@@ -16,14 +16,9 @@ permalink: /contact-us/
 
 <h3>Contact a helpdesk</h3>
 
-{% include overview.html anchorlinks=page_anchorlinks %}
-<p>Additional license information goes here. test test</p>
-
-{% include panels-aboutus.html content="This is the dynamic text inside the blue panel." %}
-
 <b>For SDL Notice of Assessment (NOA)</b>
 
-<p>If you have questions about the NOA you've recently received, please read the [Notice of Assessment FAQ](/skills-development-levy-faqs/sdl-notice-of-assessment) or call the Skills Development Levy hotline at 6785 5785.</p>
+If you have questions about the NOA you've recently received, please read the [Notice of Assessment FAQ](/skills-development-levy-faqs/sdl-notice-of-assessment){:target="_blank"}{:rel="noopener"} or call the Skills Development Levy hotline at 6785 5785.
 
 ----
 
