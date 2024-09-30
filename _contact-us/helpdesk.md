@@ -21,8 +21,9 @@ permalink: /contact-us/
 
 {% include panels-aboutus.html content="This is the dynamic text inside the blue panel." %}
 
+<b>For SDL Notice of Assessment (NOA)</b>
 
-<!-- {% include panels-aboutus.html panels=site.data.acc013-helpdesk %} -->
+<p>If you have questions about the NOA you've recently received, please read the [Notice of Assessment FAQ](/skills-development-levy-faqs/sdl-notice-of-assessment) or call the Skills Development Levy hotline at 6785 5785.</p>
 
 ----
 
