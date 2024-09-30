@@ -16,45 +16,7 @@ permalink: /contact-us/
 
 <h3>Contact a helpdesk</h3>
 
-<style>
-    #info-panel {
-        background-color: #EEF0F2;
-        word-break: break-word;
-        padding: 24px;
-        border-radius: 5px;
-        margin-top: 32px;
-        font-family: 'hknova-regular';
-    }
-    .info-content {
-        font-size: 18px;
-        line-height: 27px;
-        color: #313840;
-    }
-    .info-content a {
-        color: #2a6ebb;
-    }
-    .info-content a:visited {
-        color: #89579B;
-    }
-    .info-content a:hover {
-        color: #084E8A;
-    }
-    .info-content a:visited:hover {
-        color: #521B88;
-    }
-</style>
-
-<div id="info-panel">
-    <b>For SDL Notice of Assessment (NOA)</b>
-    <p class="info-content">
-        If you have questions about the NOA you've recently received, please read the 
-        <a href="/skills-development-levy-faqs/sdl-notice-of-assessment" target="_blank" rel="noopener">
-            Notice of Assessment FAQ
-        </a> 
-        or call the Skills Development Levy hotline at 6785 5785.
-    </p>
-</div>
-
+{% include notice.html notice=site.data.sdlnoa_notice.yml%} 
 
 ----
 
