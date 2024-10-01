@@ -137,11 +137,12 @@
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/importfrogforornamentalfish" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Registration-to-Import-Live-Frogs-for-Ornamental-Fish-Feeding-Only">View Licence Details</a>
 
         -----
-        **Veterinary Certificate for Non-Food Animals**
+        **Veterinary Certificate for Food Producing Animals**
 
-        <p>This certificate allows exporters to obtain an endorsement to certify the health and/or facilitate testing of the non-food animals, animal products and for diseases required by the destination country/region..</p>
+        <p>The Veterinary Certificate may be issued by either Animal & Veterinary Service, a cluster of National Parks Board or Singapore Food Agency. This certificate allows exporters to get endorsement for certification of health and/or testing of the animals for diseases required by the destination country/region.</p>
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/vetcertnonfood" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Veterinary-Certificate-for-Non-Food-Animals">View Licence Details</a>
+        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201212070000113" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Veterinary-Certificate-for-Food-Producing-Animals" style="margin-left: 1em;">View Licence Details</a>
+        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Veterinary-Certificate-for-Food-Producing-Animals">View Licence Details</a>
 
 - accordion:
   letter: b
