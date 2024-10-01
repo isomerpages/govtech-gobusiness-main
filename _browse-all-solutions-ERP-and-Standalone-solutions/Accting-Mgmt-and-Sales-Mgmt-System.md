@@ -74,10 +74,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Tisch Global Private Limited</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200603587Z-Autocount-ACC-Systm-G' target='_blank'>Autocount Accounting System</a><br></td>
-<td>Rockbell International Software Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/T13LL1562D-NMTODOO-G' target='_blank'>NMTODOO</a><br></td>
 <td>Neu Media Technology LLP</td>
 </tr>
@@ -142,10 +138,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Creative E-World Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201539815G-Acc-Pro-Xro-v-01-G' target='_blank'>Acc Pro : Xero Version 01</a><br></td>
-<td>Acc Pro (Singapore) Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200504354M-MFP-Xro-ACC-Softwr-G' target='_blank'>MFP: Xero Accounting Software</a><br></td>
 <td>MFP Pte. Ltd.</td>
 </tr>
@@ -184,6 +176,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201713604G-AutoCount-ACC-v-V2-G' target='_blank'>AutoCount Accounting Version V2</a><br></td>
 <td>Autocount (S) Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201539815G-Acc-Pro-Xro-v-01-G' target='_blank'>Acc Pro : Xero Version 01</a><br></td>
+<td>Acc Pro (Singapore) Pte. Ltd.</td>
 </tr>
 </table>
 
