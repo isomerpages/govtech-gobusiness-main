@@ -25,16 +25,6 @@ Grant Thornton Singapore is a leading provider of audit, tax and advisory servic
 <a name='ip-related-service-areas'></a>
 ### IA/IP service areas
 
-**Dispute Resolution Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  </li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of cases completed in previous calendar year: </li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts in Singapore: </li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts overseas: </li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  </li>
-</ul>
-
 **Tax Advisory (with IA/IP considerations) Services**
 
 <ul>
