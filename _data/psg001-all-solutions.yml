@@ -7,7 +7,6 @@
         **IT Solution**
         - <a href='/browse-all-solutions-Accountancy/Corporate-Secretariat-Management'>Corporate Secretariat Management</a>
         - <a href='/browse-all-solutions-Accountancy/External-Audit-Management'>External Audit Management</a>
-        - <a href='/browse-all-solutions-Accountancy/Managed-Detection-and-Response'>Managed Detection and Response</a>
         - <a href='/browse-all-solutions-Accountancy/Practice-Management-System'>Practice Management System</a>
         - <a href='/browse-all-solutions-Accountancy/External-Audit-Management-[Audit-Confirmation]'>External Audit Management [Audit Confirmation]</a>
         - <a href='/browse-all-solutions-Accountancy/Taxation-Management'>Taxation Management</a>
@@ -19,6 +18,7 @@
         
         **IT Solution**
         - <a href='/browse-all-solutions-Advanced-Manufacturing/Computer-aided-design-Computer-aided-manufacturing--CAD-CAM-'>Computer-aided design & Computer-aided manufacturing (CAD/CAM)</a>
+        - <a href='/browse-all-solutions-Advanced-Manufacturing/Equipment-Monitoring-and-Manufacturing-Data-Collection'>Equipment Monitoring and Manufacturing Data Collection</a>
         
         **Equipment**
         - <a href='/browse-all-solutions-Advanced-Manufacturing/General-Advanced-Manufacturing-Equipment'>General Advanced Manufacturing Equipment</a>
@@ -30,11 +30,10 @@
         **For more information, please refer to [BCA's PSG website](https://www1.bca.gov.sg/buildsg/buildsg-transformation-fund/productivity-solutions-grant){:target="_blank"}{:rel="noopener"}.**
         
         **IT Solution**
-        - <a href='/browse-all-solutions-Building-Construction/e-Permit-to-work--e-PTW-'>e-Permit-to-work (e-PTW)</a>
-        - <a href='/browse-all-solutions-Building-Construction/Quantity-Surveying-and-Valuation'>Quantity Surveying and Valuation</a>
         - <a href='/browse-all-solutions-Building-Construction/Coordination-Tools-and-Collaboration-Platform'>Coordination Tools and Collaboration Platform</a>
         - <a href='/browse-all-solutions-Building-Construction/3D-Modelling--Immersive-Visualisation-Analysis'>3D Modelling, Immersive Visualisation & Analysis</a>
         - <a href='/browse-all-solutions-Building-Construction/FM-Workflow-Automation'>FM Workflow Automation</a>
+        - <a href='/browse-all-solutions-Building-Construction/e-Permit-to-work--e-PTW-'>e-Permit-to-work (e-PTW)</a>
         - <a href='/browse-all-solutions-Building-Construction/Integrated-and-Smart-Worksite-Monitoring-and-Inspection'>Integrated and Smart Worksite Monitoring and Inspection</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
@@ -111,7 +110,6 @@
         
         **IT Solution**
         - <a href='/browse-all-solutions-Logistics/Freight-Management'>Freight Management</a>
-        - <a href='/browse-all-solutions-Logistics/Transport-Management'>Transport Management</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Marine & Offshore
@@ -162,6 +160,7 @@
         **IT Solution**
         - <a href='/browse-all-solutions-Wholesale-Trade/Enterprise-Resource-Planning--ERP--Software-for-Wholesale'>Enterprise Resource Planning (ERP) Software for Wholesale</a>
         - <a href='/browse-all-solutions-Wholesale-Trade/Inventory-Management-System'>Inventory Management System</a>
+        - <a href='/browse-all-solutions-Wholesale-Trade/Sales-Management'>Sales Management</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
 - accordion:
@@ -233,7 +232,6 @@
         <br>
     - title: Fleet Safety and Fleet Management System
       content: |
-        - <a href='/browse-all-solutions-Fleet-Safety-and-Fleet-Management-System/Fleet-Safety-Management-System'>Fleet Safety Management System</a>
         - <a href='/browse-all-solutions-Fleet-Safety-and-Fleet-Management-System/Fleet-Management-System'>Fleet Management System</a>
     - title: Document Management and Mobile Access System
       content: |

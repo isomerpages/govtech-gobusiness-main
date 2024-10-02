@@ -10,7 +10,7 @@ Singapore Civil Defence Force (SCDF)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on SCDF" src="https://eservices1.scdf.gov.sg/fisops/SCDF-ESERVICES.action?app=FMIBAPP" type="primary" %}
+{% include button.html text="Apply on SCDF" src="https://eservices.scdf.gov.sg/fisops/pfm-import-licence" type="primary" %}
 
 <H3>Application Details</H3>
 
