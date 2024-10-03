@@ -127,7 +127,7 @@ Founded in 2007, Patsnap is the global leader in AI-powered IP and R&D intellige
 - Job Title: Senior Professional Solutions Consultant
 - Years of Experience: 10 years
 - Location: London
-- IA/IP-Related Expertise: Freedom-to-Operate (FTO), IP Database, IP Intelligence and Search, IP Due Diligence
+- IA/IP-Related Expertise: Freedom-to-Operate (FTO), IP Database, IP Intelligence and Search, IP Due Diligence, IP Watch
 - URL of LinkedIn/Company Profile: 
 <a href="https://www.linkedin.com/in/matthew-veale-ip/" target="_blank" rel="noopener">https://www.linkedin.com/in/matthew-veale-ip/</a>
 
