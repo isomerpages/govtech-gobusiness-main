@@ -428,7 +428,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Aquatic Facility Licence](https://dashboard.gobusiness.gov.sg/task-details/aquaticfacilitylicence)
 - [CITES Permit](https://dashboard.gobusiness.gov.sg/task-details/cites)
 - [Cleaning Business Licence](https://dashboard.gobusiness.gov.sg/task-details/cleaningbusinesslicence)
-- [Electricity Generation](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=284)
+- [Electricity Generation](https://dashboard.gobusiness.gov.sg/task-details/electricitygeneration)
 - [Electricity Retailer](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=281)
 - [Electricity Wholesaler](https://dashboard.gobusiness.gov.sg/task-details/electricitywholesaler)
 - [Environmental Control Coordinator Certificate of Registration](https://dashboard.gobusiness.gov.sg/task-details/environmentalcontrolcoordinator)
