@@ -395,10 +395,9 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        Required for electricity generation (10 MW or more) and for trading in wholesale electricity market.
+        Required for electricity generation (≥10 MW) and for trading in wholesale electricity market.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=284" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Energy-Market-Authority-(EMA)/Electricity-Generation" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Energy-Market-Authority-(EMA)/Electricity-Generation">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/electricitygeneration" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Energy-Market-Authority-(EMA)/Electricity-Generation">View Licence Details</a>
 
         -----
         **Electricity Retailer**
@@ -2436,15 +2435,12 @@
         -----
         **Police Permit for Assembly or Procession**
 
-        <span style="background: #EEF0F2; border-radius: 3px; width: 150px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/sp-mini.png" alt="For Individual Users"> For Individual Users </span>
-
         Under the Public Order Act, a Police Permit is required for an assembly, procession or public talk that is held by one or more persons in a public place if the intention is to:
         (a) Demonstrate support for or opposition to the views or actions of any person, group of persons or any government;
         (b) Publicise a cause or campaign; or
         (c) Mark or commemorate any event.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://dashboard.gobusiness.gov.sg/task-details/assembly-procession" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Police-Permit-for-Assembly-or-Procession" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Police-Permit-for-Assembly-or-Procession">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/assembly-procession" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Police-Permit-for-Assembly-or-Procession">View Licence Details</a>
 
         -----
         **Police Permit for Public Talk**
@@ -2454,8 +2450,7 @@
         (b) Publicise a cause or campaign; or
         (c) Mark or commemorate any event.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://dashboard.gobusiness.gov.sg/task-details/public-talk" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Police-Permit-for-Public-Talk" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Police-Permit-for-Public-Talk">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/public-talk" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Police-Permit-for-Public-Talk">View Licence Details</a>
 
         -----
         **Private Investigation Agency Licence**

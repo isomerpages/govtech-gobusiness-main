@@ -116,6 +116,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - LG - ARUN082LTE6
 - LG - ARUN100LTE5
 - LG - ARUN102LTE6
+- LG - ARUN103LTE6
 - LG - ARUN120LTE5
 - LG - ARUN122LTE6
 - LG - ARUN140LTE5
