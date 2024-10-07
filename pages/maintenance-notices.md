@@ -12,8 +12,9 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 
 | **Scheduled Date** | **Remarks** |  
 
-| 4 Oct, 10pm - 5 Oct, 7am<br>11 Oct, 10pm - 12 Oct, 6am<br>12 Oct, 10pm - 13 Oct, 8am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |        
-| 9 Oct, 6pm - 8pm | **GoBusiness Dashboard** will be unavailable due to scheduled maintenance. All services may not be available during this period. | 
+| 07 Jul, 6:30pm - 8:30pm | **Application, amendment, renewal & cancellation of Singapore Police Force (SPF) licences** will be unavailable during the upcoming scheduled maintenance. |   
+| 09 Oct, 6pm - 8pm | **GoBusiness Dashboard** will be unavailable due to scheduled maintenance. All services may not be available during this period. | 
+| 11 Oct, 10pm - 12 Oct, 6am<br>12 Oct, 10pm - 13 Oct, 8am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |               
 
 
 
