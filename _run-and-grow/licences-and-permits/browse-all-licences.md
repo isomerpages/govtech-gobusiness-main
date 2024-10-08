@@ -323,10 +323,10 @@ Select an industry to see a list of relevant licences here. You can also browse 
 
 ## Others
 - [Certificate of Registration and Hotel-keeper's Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=3)
-- [Company Registration (CR)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=272)
+- [Company Registration (CR)](https://dashboard.gobusiness.gov.sg/task-details/cnb-company-registration)
 - [Licence for Residential Care Facilities](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10063)
 - [Licence to Supply Professional Engineering Services](https://www.peb.gov.sg/lc_commonqueries.aspx)
-- [Permit Administration and Control System(PATROL)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=271)
+- [Permit Administration and Control System (PATROL)](https://dashboard.gobusiness.gov.sg/task-details/cnb-patrol)
 - [Registration of Precious Stones and Precious Metals Dealers](https://dashboard.gobusiness.gov.sg/task-details/psmd)
 - [Registry of Societies](https://www.mha.gov.sg/mha-e-services/ros/registered-societies)
 - [Representative Office](https://dashboard.gobusiness.gov.sg/task-details/roms)
