@@ -52,10 +52,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Pepper Cloud Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201826102D-TWCSS-G' target='_blank'>TWCSS</a><br></td>
-<td>teamWork APAC Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201705156N-HubSpot-G' target='_blank'>HubSpot</a><br></td>
 <td>Brew Interactive Pte Ltd</td>
 </tr>

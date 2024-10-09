@@ -84,9 +84,19 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - ARCTICOOL  - EG1500F (600)
 - ARCTICOOL  - EG1800F
 - ARCTICOOL  - EG1800F (600)
+- Berjaya - 2DC4-IV-Z
+- Berjaya - 2DC5-IV-Z
+- Berjaya - 2DUC-IV-Z
+- Berjaya - 2DUF-IV-Z
+- Berjaya - 3DC7-IV-Z
 - Berjaya - 3DDC-IV-BB
 - Berjaya - 3DDC-IV-SB
 - Berjaya - 3DDC-IV-WB
+- Berjaya - 4DUC-IV-Z
+- Berjaya - 4DUF-IV-Z
+- Berjaya - 6DUC-IV-Z
+- Berjaya - B3DC7-IV-BD-7
+- Berjaya - B3DC7-IV-SM7
 - Bosch  - KFN96PX91I
 - Bosch  - KGN36XI46
 - Bosch  - KGN56LB40O
@@ -475,6 +485,14 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Galilei  - LRW-210RM
 - HCK - BC-130RBA
 - HCK - BC-330RD
+- Hisense - RB390N4SBV
+- Hisense - RB390N4SSV
+- Hisense - RB650N4SBV
+- Hisense - RB650N4SSV
+- Hisense - RQ768N4SBU
+- Hisense - RQ768N4SW-KU
+- Hisense - RS818N4SBVI2
+- Hisense - RS818N4SSVI2
 - Hisense - RT469N4SBU
 - Hisense - RT469N4SW-LBU
 - Hisense - RT469N4SWU
@@ -588,6 +606,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - IISTIA  - UPF2A
 - IISTIA  - UPF4A
 - IKEA - TILLREDA NN 80596077
+- INNOTRICS - FD-4008BA
 - INNOTRICS - FD-417BA
 - io mabe - INO27JSPFFS
 - io mabe - IWO19JSPFSS
@@ -697,6 +716,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - LG - GT-B3952BN
 - LG - GT-B3953EP
 - LG - GT-B4387PZ
+- LG - GT-B4604BM
 - LG - GT-B4783BL
 - LG - GT-B4783EP
 - LG - GT-B4783PZ
@@ -732,6 +752,8 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Liebherr  - SUIK 1510
 - Liebherr  - SUIKo1550
 - Liebherr - CBNsdh 7653
+- Mayer - MMFT350MG
+- Mayer - MMFT400MG
 - Midea  - CE-BCD640WE-JT
 - Midea  - MDRB470MGD28
 - Midea  - MDRD86FGD01-SG
@@ -754,6 +776,10 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Midea - MDRD88FGD01-SG
 - Midea - MDRD88FGD30-SG
 - Midea - MDRD88FGD32-SG
+- Midea - MDRF697FIC02SG
+- Midea - MDRF697FIC28SG
+- Midea - MDRF697FIC45SG
+- Midea - MDRF697FIC46SG
 - Midea - MDRS761MYC02SG
 - Midea - MDRS761MYC45SG
 - Midea - MDRS761MYC46SG
@@ -835,6 +861,8 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Mitsubishi Electric - MR-FS51EX-SSL-P
 - Mitsubishi Electric - MR-FX47EX-GBK-P
 - Mitsubishi Electric - MR-FX47EX-GWH-P
+- Mitsubishi Electric - MR-HGS52EX-GBK-P
+- Mitsubishi Electric - MR-HGS52EX-GWH-P
 - Mitsubishi Electric - MR-V50EX-SB-P
 - Mitsubishi Electric - MR-V50EX-ST-P
 - Mitsubishi Electric - MR-WX47LG-F-P
@@ -1112,9 +1140,14 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Polariz  - PGR-1600-TA-EC
 - Polariz  - PGR-500-TA-EC
 - PowerPac  - PPBF555A
+- PowerPac - PPF105 (NEW)
 - PowerPac - PPF136 (NEW)
+- PowerPac - PPF170 (NEW)
 - PowerPac - PPF85 (NEW)
 - PRISM+  - FT4201SABI
+- PRISM+ - FF5701SAIN
+- PRISM+ - FF5701SASG
+- PRISM+ - FF5701SAWH
 - PRISM+ - FS6001SBBI
 - PRISM+ - FS6001SBIN
 - PRISM+ - FT3301SABI
@@ -1170,12 +1203,17 @@ RT62K7057BS
 - Samsung  - RZ32T7443AP
 - Samsung  - RZ32T7445AP
 - Samsung - RB34C7B5CAP
+- Samsung - RF49C5103B1
+- Samsung - RF49C5103S9
 - Samsung - RF59C7004B1
 - Samsung - RF59C7664B1
 - Samsung - RF62DB9KA5AP
 - Samsung - RL4354RBAS8
+- Samsung - RS64R5308M9
 - Samsung - RT31CG5424S9
 - Samsung - RT35CG5444S9
+- Samsung - RT53DG7A6CB1
+- Samsung - RT53DG7A6CS9
 - Sanden Intercool  - SPB 0300
 - Sanden Intercool  - SPB 0400
 - Sanden Intercool  - SPB 0500
@@ -1187,7 +1225,6 @@ RT62K7057BS
 - Sanden Intercool  - SPE 1200
 - Sanden Intercool - SPM 1200
 - Sanden Intercool - SPM 1800
-- SHARP  - qSJ-RF36E-DS
 - SHARP  - SJ-FB32E-DS
 - SHARP  - SJ-FB32E-S
 - SHARP  - SJ-FB34E-DS
@@ -1214,6 +1251,7 @@ RT62K7057BS
 - SHARP  - SJ-RF30E-SL
 - SHARP  - SJ-RF33E-DS
 - SHARP  - SJ-RF33E-SL
+- SHARP  - SJ-RF36E-DS
 - SHARP  - SJ-RF36E-SL
 - SHARP  - SJ-RX30E-SL2
 - SHARP  - SJ-RX34E-SL2
@@ -1227,6 +1265,7 @@ RT62K7057BS
 - SHARP - SJ-VX57PG-BK
 - SHARP - SJ-VX57PG-DM
 - Singmah - LD-460W
+- Singmah - LD-920M2WP
 - Singmah - LG-1000M2WP
 - Singmah - LG-1200M3WP
 - Singmah - LG-1400M3WP
@@ -1430,23 +1469,12 @@ RT62K7057BS
 - SOLID - S3DF-1500B
 - SOLID - S3DF-1500W
 - SOLID COOL  - SC-260
-- SOLID COOL  - SC-260L
-- SOLID COOL  - SC-2DB
-- SOLID COOL  - SC-2DBB
-- SOLID COOL  - SC-2DT
-- SOLID COOL  - SC-2DTF
 - SOLID COOL  - SC-2DTT
-- SOLID COOL  - SC-2SDBB
 - SOLID COOL  - SC-370
-- SOLID COOL  - SC-370L
-- SOLID COOL  - SC-3DB
 - SOLID COOL  - SC-3DBB
-- SOLID COOL  - SC-3DT
-- SOLID COOL  - SC-3DTF
 - SOLID COOL  - SC-4DT
 - SOLID COOL  - SC-4DTF
 - SOLID COOL  - SC-530
-- SOLID COOL  - SC-530L
 - SOLID COOL  - SCX1200C2
 - SOLID COOL  - SCX1200F2
 - SOLID COOL  - SCX1500C2
@@ -1489,6 +1517,12 @@ RT62K7057BS
 - Sub-Zero - ICBDEC3050RID
 - Sub-Zero - ICBDEC3050RID/L
 - Sub-Zero - ICBDEC3050RID/R
+- Sub-Zero - ICBDEC3650RID
+- Sub-Zero - ICBDEC3650RID/L
+- Sub-Zero - ICBDEC3650RID/R
+- Sub-Zero - ICBDEU2450R
+- Sub-Zero - ICBDEU2450R/L
+- Sub-Zero - ICBDEU2450R/R
 - Sub-Zero - ICBIC-24C-LH
 - Sub-Zero - ICBIC-24C-RH
 - Sub-Zero - ICBIC-24R-LH

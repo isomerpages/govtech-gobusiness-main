@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/200603587Z-Mllon-ACC-nd-St
 
 **Description**
 
-Million Accounting Software is a full-fledged accounting system with a user-friendly interface that is simple to use and enables easy generation of all necessary financial reports with minimum accounting background required. These reports include Profit & Loss, Trial Balance, Balance Sheet and GST reports.
+Million Accounting Software is a full-fledged accounting system with a user-friendly interface that is simple to use and enables easy generation of all necessary financial reports with Minimum accounting background required. These reports include Profit & Loss, Trial Balance, Balance Sheet and GST reports.
 
 Million Accounting supports Multi-Company and Multi-Currency and has four modules - Accounting, Stock, Invoicing and Payroll.
 

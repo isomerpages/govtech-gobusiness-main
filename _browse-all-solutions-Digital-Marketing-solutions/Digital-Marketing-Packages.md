@@ -40,14 +40,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Brew Interactive Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201920974R-DM-Crft-Crtv-Dgtl-Mrktng-PKG-G' target='_blank'>DM Craft Creative Digital Marketing Packages</a><br></td>
-<td>Craft Creative Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201215396N-DM-I-Concpt-Innovton-Dgtl-Mrktng-v-10-G' target='_blank'>DM I Concept Innovation Digital Marketing Version 1.0</a><br></td>
-<td>I Concept Innovation Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200715471C-DM-Idntty-Counsl-Dgtl-Mrktng-PKG-G' target='_blank'>DM Identity Counsel Digital Marketing Packages</a><br></td>
 <td>IDENTITY COUNSEL PTE LTD</td>
 </tr>
@@ -218,10 +210,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201714165W-DM-Bnchmrkng-Socl-md-PKG-G' target='_blank'>DM Benchmarking Social media packages</a><br></td>
 <td>BENCHMARKING PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200914055M-DM-Th-Lttl-Blck-Book-Socl-Md-Dgtl-Mrktng-Pckg-G' target='_blank'>DM The Little Black Book Social Media Digital Marketing Package</a><br></td>
-<td>The Little Black Book Pte Ltd</td>
 </tr>
 </table>
 

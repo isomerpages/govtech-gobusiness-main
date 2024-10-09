@@ -51,6 +51,18 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td><a href='/productivity-solutions-grant/solutionrepo/201934203W-Lunchbox-Smrt-Rsturnt-SLN-v-11-FS' target='_blank'>Lunchbox Smart Restaurant Solution Version 1.1</a><br></td>
 <td>Lunchbox Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/198901360G-AZ-DIGITAL-CONNECTED-BUSINESS-SUITE-SLN-v-10-FS' target='_blank'>AZ DIGITAL CONNECTED BUSINESS SUITE SOLUTION Version 1.0</a><br></td>
+<td>AZ Digital Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201606474N-CHEF-Dgtl-Ordrng-SLN-FS' target='_blank'>iCHEF Digital Ordering Solution</a><br></td>
+<td>iCHEF SG PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201510017H-Gtz-F&B-Omn-Chnnl-SLN-v-3-FS' target='_blank'>Getz F&B Omni Channel Solution Version 3</a><br></td>
+<td>Getz Group Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
