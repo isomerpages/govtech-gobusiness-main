@@ -1,9 +1,9 @@
 ---
-title: 'Riverstone SG Pte Ltd'
-permalink: /intellectual-property/ip-grow/riverstone-sg-pte-ltd/
+title: 'Valueteam Valuation Services'
+permalink: /intellectual-property/ip-grow/valueteam-valuation-services/
 ---
 
-## Riverstone SG Pte Ltd
+## Valueteam Valuation Services
 
 Valueteam Valuation, a leading specialised business valuation and IP Valuation consulting firm in Singapore, stands out for its comprehensive range of services. From company valuation to IPs intangible valuation, patent valuation, customer valuation, contract valuation, ESOP valuation, M&A valuation, startup valuation, and more, we cover all aspects of business and IP valuation. Our commitment to providing tailored, expert services and our reputation as one of Singapore's most trusted and reliable consulting firms set us apart. Call us now for a free consultation. 
 
@@ -94,4 +94,4 @@ Valueteam delivers top-notch expert company valuation services, including IP val
 <p>
 <a class='btn' href='https://form.gov.sg/64a392bd6b65df0012e48d50' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 18 June 2024
+Profile last updated on 2 October 2024

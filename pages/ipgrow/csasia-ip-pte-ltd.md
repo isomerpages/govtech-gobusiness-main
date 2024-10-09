@@ -117,4 +117,4 @@ We offer a comprehensive suite of services tailored for both international and d
 <p>
 <a class='btn' href='https://form.gov.sg/6490fe43ac885100110f899f' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 4 Sep 2024
+Profile last updated on 4 September 2024
