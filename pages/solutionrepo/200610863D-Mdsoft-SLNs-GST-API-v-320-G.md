@@ -26,35 +26,35 @@ Madsoft Solutions is an integrated order processing, inventory and accounting so
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Madsoft Business 2 users with InvoiceNow</td>
 <td style='padding: 10px;'>$10,789.00</td>
 <td style='padding: 10px;'>$10,789.00</td>
-<td style='padding: 10px;'><a href='/psg/Madsoft_Business_01082024_Desensitised_Annex3_Part1.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Madsoft_Business_01082024_Desensitised_Annex3_Part1.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Madsoft Business 5 users with InvoiceNow</td>
 <td style='padding: 10px;'>$15,769.00</td>
 <td style='padding: 10px;'>$13,950.00</td>
-<td style='padding: 10px;'><a href='/psg/Madsoft_Business_01082024_Desensitised_Annex3_Part2.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Madsoft_Business_01082024_Desensitised_Annex3_Part2.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Madsoft Enterprise 3 users with InvoiceNow</td>
 <td style='padding: 10px;'>$15,919.00</td>
 <td style='padding: 10px;'>$14,250.00</td>
-<td style='padding: 10px;'><a href='/psg/Madsoft_Business_01082024_Desensitised_Annex3_Part3.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Madsoft_Business_01082024_Desensitised_Annex3_Part3.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Madsoft Enterprise 5 users with InvoiceNow</td>
 <td style='padding: 10px;'>$20,259.00</td>
 <td style='padding: 10px;'>$14,250.00</td>
-<td style='padding: 10px;'><a href='/psg/Madsoft_Business_01082024_Desensitised_Annex3_Part4.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Madsoft_Business_01082024_Desensitised_Annex3_Part4.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Madsoft Premier 4 users with Invoice Now</td>
 <td style='padding: 10px;'>$20,529.00</td>
 <td style='padding: 10px;'>$14,350.00</td>
-<td style='padding: 10px;'><a href='/psg/Madsoft_Business_01082024_Desensitised_Annex3_Part5.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Madsoft_Business_01082024_Desensitised_Annex3_Part5.pdf ' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

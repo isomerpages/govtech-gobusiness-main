@@ -23,10 +23,38 @@ Xero is a cloud-based accounting software that connects people with the right nu
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (Xero Subscription only)</td>
+<td style='padding: 10px;'>$900.00</td>
+<td style='padding: 10px;'>$881.00</td>
+<td style='padding: 10px;'><a href='/images/psg/200918692D_20240026_17102024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (Xero Subscription with Setup)</td>
+<td style='padding: 10px;'>$1,900.00</td>
+<td style='padding: 10px;'>$1,881.00</td>
+<td style='padding: 10px;'><a href='/images/psg/200918692D_20240026_17102024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (Xero Subscription with training)</td>
+<td style='padding: 10px;'>$2,400.00</td>
+<td style='padding: 10px;'>$1,631.00</td>
+<td style='padding: 10px;'><a href='/images/psg/200918692D_20240026_17102024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D (Xero Subscription Setup & Training)</td>
+<td style='padding: 10px;'>$3,900.00</td>
+<td style='padding: 10px;'>$3,131.00</td>
+<td style='padding: 10px;'><a href='/images/psg/200918692D_20240026_17102024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E (Xero Subscription Comprehensive setup & Training)</td>
 <td style='padding: 10px;'>$4,650.00</td>
 <td style='padding: 10px;'>$3,131.00</td>
-<td style='padding: 10px;'><a href='/psg/200918692D_20240026_17102024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/200918692D_20240026_17102024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

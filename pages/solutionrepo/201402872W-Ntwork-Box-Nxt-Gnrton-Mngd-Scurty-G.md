@@ -26,35 +26,35 @@ Network Box Next Generation Managed Security is a Managed Security Service Provi
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package I - AV-Base</td>
 <td style='padding: 10px;'>$5,007.00</td>
 <td style='padding: 10px;'>$5,007.00</td>
-<td style='padding: 10px;'><a href='/psg/201402872W_20230115_05092024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201402872W_20230115_05092024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package II - Medium Workload</td>
 <td style='padding: 10px;'>$8,397.00</td>
 <td style='padding: 10px;'>$8,397.00</td>
-<td style='padding: 10px;'><a href='/psg/201402872W_20230115_05092024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201402872W_20230115_05092024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package III - Higher Workload</td>
 <td style='padding: 10px;'>$10,082.00</td>
 <td style='padding: 10px;'>$10,082.00</td>
-<td style='padding: 10px;'><a href='/psg/201402872W_20230115_05092024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201402872W_20230115_05092024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package IV - S-80i</td>
 <td style='padding: 10px;'>$12,171.00</td>
 <td style='padding: 10px;'>$12,171.00</td>
-<td style='padding: 10px;'><a href='/psg/201402872W_20230115_05092024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201402872W_20230115_05092024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package V - M-295i</td>
 <td style='padding: 10px;'>$21,356.00</td>
 <td style='padding: 10px;'>$21,356.00</td>
-<td style='padding: 10px;'><a href='/psg/201402872W_20230115_05092024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201402872W_20230115_05092024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

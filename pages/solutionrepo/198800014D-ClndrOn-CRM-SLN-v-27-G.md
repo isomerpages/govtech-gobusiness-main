@@ -26,14 +26,14 @@ CalendarOne CRM system is a cloud based solution that integrate and automate you
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - 25 Users License</td>
 <td style='padding: 10px;'>$14,600.00</td>
 <td style='padding: 10px;'>$7,900.00</td>
-<td style='padding: 10px;'><a href='/psg/198800014D_20240092_17102024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/198800014D_20240092_17102024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>	Package 2 - 50 Users License</td>
 <td style='padding: 10px;'>$18,500.00</td>
 <td style='padding: 10px;'>$7,900.00</td>
-<td style='padding: 10px;'><a href='/psg/198800014D_20240092_17102024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/198800014D_20240092_17102024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

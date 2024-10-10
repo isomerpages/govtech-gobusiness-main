@@ -26,35 +26,35 @@ Xero is the cloud accounting solution with all the time-saving tools you need to
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic Plan</td>
 <td style='padding: 10px;'>$881.00</td>
 <td style='padding: 10px;'>$881.00</td>
-<td style='padding: 10px;'><a href='/psg/201539815G_20230154_026092024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201539815G_20230154_026092024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essential Plan</td>
 <td style='padding: 10px;'>$2,081.00</td>
 <td style='padding: 10px;'>$2,081.00</td>
-<td style='padding: 10px;'><a href='/psg/201539815G_20230154_026092024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201539815G_20230154_026092024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Micro Business</td>
 <td style='padding: 10px;'>$2,681.00</td>
 <td style='padding: 10px;'>$2,681.00</td>
-<td style='padding: 10px;'><a href='/psg/201539815G_20230154_026092024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201539815G_20230154_026092024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Micro Business - With Customised Trainings</td>
 <td style='padding: 10px;'>$2,681.00</td>
 <td style='padding: 10px;'>$2,681.00</td>
-<td style='padding: 10px;'><a href='/psg/201539815G_20230154_026092024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201539815G_20230154_026092024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Small Business - With Customised Trainings</td>
 <td style='padding: 10px;'>$3,281.00</td>
 <td style='padding: 10px;'>$3,281.00</td>
-<td style='padding: 10px;'><a href='/psg/201539815G_20230154_026092024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201539815G_20230154_026092024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

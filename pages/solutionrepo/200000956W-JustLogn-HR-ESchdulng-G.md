@@ -26,28 +26,28 @@ JustLogin is an Employee First Human Resource (HR) cloud platform that provides 
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A (Up to 10 pax)</td>
 <td style='padding: 10px;'>$3,100.00</td>
 <td style='padding: 10px;'>$2,800.00</td>
-<td style='padding: 10px;'><a href='/psg/200000956W_20240053_05092024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/200000956W_20240053_05092024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>B (Up to 25 pax)</td>
 <td style='padding: 10px;'>$4,850.00</td>
 <td style='padding: 10px;'>$4,550.00</td>
-<td style='padding: 10px;'><a href='/psg/200000956W_20240053_05092024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/200000956W_20240053_05092024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>C (Up to 75 pax)</td>
 <td style='padding: 10px;'>$10,150.00</td>
 <td style='padding: 10px;'>$9,250.00</td>
-<td style='padding: 10px;'><a href='/psg/200000956W_20240053_05092024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/200000956W_20240053_05092024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>D (Up to 125 pax)</td>
 <td style='padding: 10px;'>$15,850.00</td>
 <td style='padding: 10px;'>$13,750.00</td>
-<td style='padding: 10px;'><a href='/psg/200000956W_20240053_05092024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/200000956W_20240053_05092024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

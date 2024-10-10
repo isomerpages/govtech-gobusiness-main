@@ -26,35 +26,35 @@ Invigilo AI is a safety insights platform that helps industrial worksites manage
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Invigilo Advanced AI Package (Leverage up to 10 Existing Camera)</td>
 <td style='padding: 10px;'>$14,000.00</td>
 <td style='padding: 10px;'>$12,900.00</td>
-<td style='padding: 10px;'><a href='/psg/202031283D_20230095_05092024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/202031283D_20230095_05092024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Invigilo Basic AI Package (4 cameras)</td>
 <td style='padding: 10px;'>$13,200.00</td>
 <td style='padding: 10px;'>$9,300.00</td>
-<td style='padding: 10px;'><a href='/psg/202031283D_20230095_05092024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/202031283D_20230095_05092024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Invigilo Advanced AI Package (4 cameras)</td>
 <td style='padding: 10px;'>$14,000.00</td>
 <td style='padding: 10px;'>$10,100.00</td>
-<td style='padding: 10px;'><a href='/psg/202031283D_20230095_05092024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/202031283D_20230095_05092024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Invigilo Basic AI Package (8 cameras)</td>
 <td style='padding: 10px;'>$19,900.00</td>
 <td style='padding: 10px;'>$15,700.00</td>
-<td style='padding: 10px;'><a href='/psg/202031283D_20230095_05092024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/202031283D_20230095_05092024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Invigilo Advanced AI Package (8 cameras)</td>
 <td style='padding: 10px;'>$21,500.00</td>
 <td style='padding: 10px;'>$17,300.00</td>
-<td style='padding: 10px;'><a href='/psg/202031283D_20230095_05092024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/202031283D_20230095_05092024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

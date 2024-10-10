@@ -26,21 +26,21 @@ Ice Cube Marketing uses Google and Facebook ads to help businesses consistently 
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SEM+SMA (3months)</td>
 <td style='padding: 10px;'>$7,009.33</td>
 <td style='padding: 10px;'>$7,009.33</td>
-<td style='padding: 10px;'><a href='/psg/201808580W_20240109_05092024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201808580W_20240109_05092024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SEM+SMA+video (3months)</td>
 <td style='padding: 10px;'>$9,509.32</td>
 <td style='padding: 10px;'>$9,509.32</td>
-<td style='padding: 10px;'><a href='/psg/201808580W_20240109_05092024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201808580W_20240109_05092024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SEM+SMA+WA (3months)</td>
 <td style='padding: 10px;'>$8,537.11</td>
 <td style='padding: 10px;'>$8,537.11</td>
-<td style='padding: 10px;'><a href='/psg/201808580W_20240109_05092024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201808580W_20240109_05092024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

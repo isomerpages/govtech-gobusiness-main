@@ -26,21 +26,21 @@ iClick Media, a digital marketing agency established in 2009, has a track record
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEO/CONTENT MARKETING 3 MONTHS [45 Keywords]</td>
 <td style='padding: 10px;'>$9,990.00</td>
 <td style='padding: 10px;'>$9,990.00</td>
-<td style='padding: 10px;'><a href='/psg/iClick_DM_23052024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/iClick_DM_23052024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SEO/SMM 3 MONTHS [45 Keywords]</td>
 <td style='padding: 10px;'>$9,990.00</td>
 <td style='padding: 10px;'>$9,990.00</td>
-<td style='padding: 10px;'><a href='/psg/iClick_DM_23052024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/iClick_DM_23052024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEO/CONTENT MARKETING 3 MONTHS [60 Keywords]</td>
 <td style='padding: 10px;'>$12,000.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/psg/iClick_DM_23052024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/iClick_DM_23052024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

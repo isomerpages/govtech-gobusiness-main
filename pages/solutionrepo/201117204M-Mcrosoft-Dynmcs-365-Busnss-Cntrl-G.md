@@ -26,35 +26,35 @@ Microsoft Dynamics 365 Business Central is an ERP Solution designed to automate 
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essentials Basic</td>
 <td style='padding: 10px;'>$22,500.00</td>
 <td style='padding: 10px;'>$9,050.00</td>
-<td style='padding: 10px;'><a href='/psg/Microlabs_MicrosoftDynamics_01082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Microlabs_MicrosoftDynamics_01082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Basic</td>
 <td style='padding: 10px;'>$24,300.00</td>
 <td style='padding: 10px;'>$10,532.00</td>
-<td style='padding: 10px;'><a href='/psg/Microlabs_MicrosoftDynamics_01082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Microlabs_MicrosoftDynamics_01082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essentials Intermediate</td>
 <td style='padding: 10px;'>$24,900.00</td>
 <td style='padding: 10px;'>$11,350.00</td>
-<td style='padding: 10px;'><a href='/psg/Microlabs_MicrosoftDynamics_01082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Microlabs_MicrosoftDynamics_01082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essentials Advance</td>
 <td style='padding: 10px;'>$30,900.00</td>
 <td style='padding: 10px;'>$11,350.00</td>
-<td style='padding: 10px;'><a href='/psg/Microlabs_MicrosoftDynamics_01082024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Microlabs_MicrosoftDynamics_01082024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Intermediate</td>
 <td style='padding: 10px;'>$27,900.00</td>
 <td style='padding: 10px;'>$13,820.00</td>
-<td style='padding: 10px;'><a href='/psg/Microlabs_MicrosoftDynamics_01082024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Microlabs_MicrosoftDynamics_01082024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

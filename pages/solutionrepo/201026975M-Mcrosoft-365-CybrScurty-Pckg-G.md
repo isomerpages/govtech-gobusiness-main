@@ -27,35 +27,35 @@ Being a multiple Microsoft awards winner, we are pleased to provide you with Mic
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>5 Users Pack</td>
 <td style='padding: 10px;'>$1,760.00</td>
 <td style='padding: 10px;'>$1,760.00</td>
-<td style='padding: 10px;'><a href='/psg/Axiom_Microsoftcyber_15082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Axiom_Microsoftcyber_15082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 users pack</td>
 <td style='padding: 10px;'>$4,550.00</td>
 <td style='padding: 10px;'>$4,550.00</td>
-<td style='padding: 10px;'><a href='/psg/Axiom_Microsoftcyber_15082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Axiom_Microsoftcyber_15082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>30 users pack</td>
 <td style='padding: 10px;'>$13,350.00</td>
 <td style='padding: 10px;'>$13,350.00</td>
-<td style='padding: 10px;'><a href='/psg/Axiom_Microsoftcyber_15082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Axiom_Microsoftcyber_15082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>50 users Pack</td>
 <td style='padding: 10px;'>$20,650.00</td>
 <td style='padding: 10px;'>$20,650.00</td>
-<td style='padding: 10px;'><a href='/psg/Axiom_Microsoftcyber_15082024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Axiom_Microsoftcyber_15082024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>90 users Pack</td>
 <td style='padding: 10px;'>$36,450.00</td>
 <td style='padding: 10px;'>$36,450.00</td>
-<td style='padding: 10px;'><a href='/psg/Axiom_Microsoftcyber_15082024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Axiom_Microsoftcyber_15082024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -26,28 +26,28 @@ Xero is a cloud-based accounting software that connects people with the right nu
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Subscription Only (Starter Package)</td>
 <td style='padding: 10px;'>$864.00</td>
 <td style='padding: 10px;'>$864.00</td>
-<td style='padding: 10px;'><a href='/psg/Triserv_Xero_01082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Triserv_Xero_01082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Subscription & Setup (Basic Package)</td>
 <td style='padding: 10px;'>$1,864.00</td>
 <td style='padding: 10px;'>$1,664.00</td>
-<td style='padding: 10px;'><a href='/psg/Triserv_Xero_01082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Triserv_Xero_01082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Subscription, Setup & Training (Essential Package)</td>
 <td style='padding: 10px;'>$2,864.00</td>
 <td style='padding: 10px;'>$2,464.00</td>
-<td style='padding: 10px;'><a href='/psg/Triserv_Xero_01082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Triserv_Xero_01082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Subscription, Setup, Data Migration & Training (Premium Package)</td>
 <td style='padding: 10px;'>$3,864.00</td>
 <td style='padding: 10px;'>$3,264.00</td>
-<td style='padding: 10px;'><a href='/psg/Triserv_Xero_01082024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Triserv_Xero_01082024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

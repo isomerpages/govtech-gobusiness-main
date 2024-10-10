@@ -156,20 +156,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>YYC Corporate Services Pte. Ltd. f.k.a Agere Accounting & Advisory Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201529234R-AGERE-Xro-Cloud-ACC-Softwr-G' target='_blank'>AGERE - Xero Cloud Accounting Software</a><br></td>
-<td>ASHOKA TREE ASSOCIATES PTE. LTD.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201831057D-ASHOKATREE-Xro-Cloud-ACC-G' target='_blank'>ASHOKATREE: Xero Cloud Accounting</a><br></td>
 <td>ASHOKA TREE ASSOCIATES PTE. LTD.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200918692D-&r-XERO-ACC-Softwr-G' target='_blank'>Andre XERO Accounting Software</a><br></td>
 <td>Andre Corporate Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200918692D-&r-XERO-ACC-Softwr-G' target='_blank'>Andre XERO Accounting Software</a><br></td>
-<td>361 Degree Consultancy Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200804595N-ABSS-Prmr-V303-G' target='_blank'>ABSS Premier V30.3</a><br></td>

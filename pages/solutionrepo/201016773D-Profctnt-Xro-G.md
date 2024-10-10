@@ -26,21 +26,21 @@ Profectant streamlines and modernizes accounting processes using Xero software a
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Profectant Starter Package</td>
 <td style='padding: 10px;'>$2,709.36</td>
 <td style='padding: 10px;'>$2,349.36</td>
-<td style='padding: 10px;'><a href='/psg/PROFECTANT_Xero_15082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/PROFECTANT_Xero_15082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Profectant Standard Package</td>
 <td style='padding: 10px;'>$3,731.56</td>
 <td style='padding: 10px;'>$3,311.56</td>
-<td style='padding: 10px;'><a href='/psg/PROFECTANT_Xero_15082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/PROFECTANT_Xero_15082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Profectant Premium Package</td>
 <td style='padding: 10px;'>$4,330.73</td>
 <td style='padding: 10px;'>$3,880.73</td>
-<td style='padding: 10px;'><a href='/psg/PROFECTANT_Xero_15082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/PROFECTANT_Xero_15082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -26,35 +26,35 @@ Adept Solution ensures secure data storage with cloud-based solutions and easy d
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (Up to 3 Licenses)</td>
 <td style='padding: 10px;'>$4,600.00</td>
 <td style='padding: 10px;'>$4,600.00</td>
-<td style='padding: 10px;'><a href='/psg/201400916G_20240129_17102024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201400916G_20240129_17102024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B: (Up to 8 Licenses)</td>
 <td style='padding: 10px;'>$9,400.00</td>
 <td style='padding: 10px;'>$9,400.00</td>
-<td style='padding: 10px;'><a href='/psg/201400916G_20240129_17102024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201400916G_20240129_17102024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C: (Up to 10 Licenses - With OCR)</td>
 <td style='padding: 10px;'>$13,600.00</td>
 <td style='padding: 10px;'>$13,375.00</td>
-<td style='padding: 10px;'><a href='/psg/201400916G_20240129_17102024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201400916G_20240129_17102024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D: (Up to 15 Licenses - With OCR)</td>
 <td style='padding: 10px;'>$20,200.00</td>
 <td style='padding: 10px;'>$19,975.00</td>
-<td style='padding: 10px;'><a href='/psg/201400916G_20240129_17102024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201400916G_20240129_17102024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E: (Up to 25 Licenses - With OCR)</td>
 <td style='padding: 10px;'>$30,200.00</td>
 <td style='padding: 10px;'>$29,975.00</td>
-<td style='padding: 10px;'><a href='/psg/201400916G_20240129_17102024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201400916G_20240129_17102024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

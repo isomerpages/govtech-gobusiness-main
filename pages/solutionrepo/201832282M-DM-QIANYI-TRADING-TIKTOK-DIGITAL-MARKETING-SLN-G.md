@@ -26,14 +26,14 @@ QIAN YI is specialized in TikTok social media marketing service focuses on reach
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - TikTok Creative Video Packages SMM + SMA (3 MONTH)</td>
 <td style='padding: 10px;'>$11,500.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/psg/QianyiTrading_DM_08022024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/QianyiTrading_DM_08022024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - TikTok Creative Livestreaming Packages SMM + SMA (3 MONTH)</td>
 <td style='padding: 10px;'>$11,500.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/psg/QianyiTrading_DM_08022024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/QianyiTrading_DM_08022024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

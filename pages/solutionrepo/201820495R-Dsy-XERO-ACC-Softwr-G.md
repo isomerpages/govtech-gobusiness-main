@@ -26,21 +26,21 @@ Xero is an online accounting software that has all-in-one solution for running a
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DIY Package</td>
 <td style='padding: 10px;'>$1,300.00</td>
 <td style='padding: 10px;'>$1,221.00</td>
-<td style='padding: 10px;'><a href='/psg/201820495R_20240134_17102024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201820495R_20240134_17102024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Startup Package</td>
 <td style='padding: 10px;'>$2,560.00</td>
 <td style='padding: 10px;'>$2,481.00</td>
-<td style='padding: 10px;'><a href='/psg/201820495R_20240134_17102024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201820495R_20240134_17102024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise Package</td>
 <td style='padding: 10px;'>$3,480.00</td>
 <td style='padding: 10px;'>$3,281.00</td>
-<td style='padding: 10px;'><a href='/psg/201820495R_20240134_17102024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201820495R_20240134_17102024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

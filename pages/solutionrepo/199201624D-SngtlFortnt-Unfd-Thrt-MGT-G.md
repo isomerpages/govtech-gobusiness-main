@@ -26,28 +26,28 @@ Singtel Unified Threat Management (UTM) is a network perimeter security offering
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FG-60F UTP Bundle with Technical Support</td>
 <td style='padding: 10px;'>$2,372.00</td>
 <td style='padding: 10px;'>$2,192.00</td>
-<td style='padding: 10px;'><a href='/psg/Sintel_Fortinet_25072024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Sintel_Fortinet_25072024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FG-80F UTP Bundle with Technical Support</td>
 <td style='padding: 10px;'>$3,760.00</td>
 <td style='padding: 10px;'>$3,760.00</td>
-<td style='padding: 10px;'><a href='/psg/Sintel_Fortinet_25072024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Sintel_Fortinet_25072024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FG-100F UTP Bundle with Technical Support, 24x7 Monitoring and Alert Services</td>
 <td style='padding: 10px;'>$8,106.00</td>
 <td style='padding: 10px;'>$6,036.00</td>
-<td style='padding: 10px;'><a href='/psg/Sintel_Fortinet_25072024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Sintel_Fortinet_25072024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FG-200F UTP Bundle with Technical Support, 24x7 Monitoring and Alert Services</td>
 <td style='padding: 10px;'>$14,212.00</td>
 <td style='padding: 10px;'>$7,596.00</td>
-<td style='padding: 10px;'><a href='/psg/Sintel_Fortinet_25072024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Sintel_Fortinet_25072024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -29,35 +29,35 @@ AZ Digital Connected Business Suite Solution packages also consist of integratio
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 (QR Mobile Ordering License + CRM)</td>
 <td style='padding: 10px;'>$3,800.00</td>
 <td style='padding: 10px;'>$3,800.00</td>
-<td style='padding: 10px;'><a href='/psg/198901360G_20240035_26092024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/198901360G_20240035_26092024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 (Kiosk License + CRM)</td>
 <td style='padding: 10px;'>$5,300.00</td>
 <td style='padding: 10px;'>$5,300.00</td>
-<td style='padding: 10px;'><a href='/psg/198901360G_20240035_26092024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/198901360G_20240035_26092024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 (QR Mobile Ordering License + Kiosk License + CRM + Food Delivery)</td>
 <td style='padding: 10px;'>$7,900.00</td>
 <td style='padding: 10px;'>$7,600.00</td>
-<td style='padding: 10px;'><a href='/psg/198901360G_20240035_26092024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/198901360G_20240035_26092024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4  (2 x Kiosk License + CRM)</td>
 <td style='padding: 10px;'>$8,600.00</td>
 <td style='padding: 10px;'>$6,900.00</td>
-<td style='padding: 10px;'><a href='/psg/198901360G_20240035_26092024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/198901360G_20240035_26092024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 (QR Mobile Ordering License + Kiosk License + CRM + Food Delivery + Accounting)</td>
 <td style='padding: 10px;'>$12,000.00</td>
 <td style='padding: 10px;'>$9,200.00</td>
-<td style='padding: 10px;'><a href='/psg/198901360G_20240035_26092024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/198901360G_20240035_26092024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

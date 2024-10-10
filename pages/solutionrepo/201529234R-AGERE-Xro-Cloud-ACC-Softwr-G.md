@@ -23,11 +23,32 @@ Xero is an online accounting software for SMEs, to be able to automate their eve
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium, Subscription Only</td>
+<td style='padding: 10px;'>$800.00</td>
+<td style='padding: 10px;'>$800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Agere_XeroCloudAccounting_17102024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium w/Implementation</td>
+<td style='padding: 10px;'>$1,800.00</td>
+<td style='padding: 10px;'>$1,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Agere_XeroCloudAccounting_17102024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium w/Implementation & Training</td>
+<td style='padding: 10px;'>$2,550.00</td>
+<td style='padding: 10px;'>$2,350.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Agere_XeroCloudAccounting_17102024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium w/Implementation, Migration
 & Training</td>
 <td style='padding: 10px;'>$3,950.00</td>
 <td style='padding: 10px;'>$3,750.00</td>
-<td style='padding: 10px;'><a href='/psg/Agere_XeroCloudAccounting_17102024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Agere_XeroCloudAccounting_17102024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -26,28 +26,28 @@ Xero is a cloud-based accounting software that connects people with the right nu
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Go EBOS - All In One Starter</td>
 <td style='padding: 10px;'>$1,840.00</td>
 <td style='padding: 10px;'>$1,681.00</td>
-<td style='padding: 10px;'><a href='/psg/EBOS_Xero_15082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/EBOS_Xero_15082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Go EBOS - All In One Booming - 2A</td>
 <td style='padding: 10px;'>$2,720.00</td>
 <td style='padding: 10px;'>$2,481.00</td>
-<td style='padding: 10px;'><a href='/psg/EBOS_Xero_15082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/EBOS_Xero_15082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Go EBOS - All In One Booming - 2B</td>
 <td style='padding: 10px;'>$3,520.00</td>
 <td style='padding: 10px;'>$3,281.00</td>
-<td style='padding: 10px;'><a href='/psg/EBOS_Xero_15082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/EBOS_Xero_15082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Go EBOS - All In One Booming - 2C</td>
 <td style='padding: 10px;'>$4,320.00</td>
 <td style='padding: 10px;'>$4,081.00</td>
-<td style='padding: 10px;'><a href='/psg/EBOS_Xero_15082024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/EBOS_Xero_15082024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

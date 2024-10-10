@@ -26,35 +26,35 @@ Payboy is a Payroll and HR Management Software which automates the essential HR 
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (15 Employees)</td>
 <td style='padding: 10px;'>$4,600.00</td>
 <td style='padding: 10px;'>$4,600.00</td>
-<td style='padding: 10px;'><a href='/psg/Payboy_HRMS_23052024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Payboy_HRMS_23052024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (30 Employees)</td>
 <td style='padding: 10px;'>$8,400.00</td>
 <td style='padding: 10px;'>$8,400.00</td>
-<td style='padding: 10px;'><a href='/psg/Payboy_HRMS_23052024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Payboy_HRMS_23052024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (60 Employees)</td>
 <td style='padding: 10px;'>$13,200.00</td>
 <td style='padding: 10px;'>$13,200.00</td>
-<td style='padding: 10px;'><a href='/psg/Payboy_HRMS_23052024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Payboy_HRMS_23052024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D (120 Employees)</td>
 <td style='padding: 10px;'>$20,800.00</td>
 <td style='padding: 10px;'>$20,800.00</td>
-<td style='padding: 10px;'><a href='/psg/Payboy_HRMS_23052024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Payboy_HRMS_23052024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E (200 Employees)</td>
 <td style='padding: 10px;'>$30,400.00</td>
 <td style='padding: 10px;'>$30,400.00</td>
-<td style='padding: 10px;'><a href='/psg/Payboy_HRMS_23052024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Payboy_HRMS_23052024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

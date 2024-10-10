@@ -26,35 +26,35 @@ Acronis Endpoint Security provides a comprehensive suite of protection mechanism
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (10 Users Pack)</td>
 <td style='padding: 10px;'>$870.00</td>
 <td style='padding: 10px;'>$870.00</td>
-<td style='padding: 10px;'><a href='/psg/201222896R_20240225_17102024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201222896R_20240225_17102024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (20 Users Pack)</td>
 <td style='padding: 10px;'>$1,140.00</td>
 <td style='padding: 10px;'>$1,140.00</td>
-<td style='padding: 10px;'><a href='/psg/201222896R_20240225_17102024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201222896R_20240225_17102024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (40 Users Pack)</td>
 <td style='padding: 10px;'>$1,680.00</td>
 <td style='padding: 10px;'>$1,680.00</td>
-<td style='padding: 10px;'><a href='/psg/201222896R_20240225_17102024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201222896R_20240225_17102024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D (60 Users Pack)</td>
 <td style='padding: 10px;'>$2,520.00</td>
 <td style='padding: 10px;'>$2,520.00</td>
-<td style='padding: 10px;'><a href='/psg/201222896R_20240225_17102024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201222896R_20240225_17102024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E (80 Users Pack)</td>
 <td style='padding: 10px;'>$3,060.00</td>
 <td style='padding: 10px;'>$3,060.00</td>
-<td style='padding: 10px;'><a href='/psg/201222896R_20240225_17102024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201222896R_20240225_17102024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

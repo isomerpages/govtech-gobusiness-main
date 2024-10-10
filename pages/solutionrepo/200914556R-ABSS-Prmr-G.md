@@ -26,21 +26,21 @@ ABSS accounting software offers SMEs streamlined financial management. With feat
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Single User</td>
 <td style='padding: 10px;'>$1,903.74</td>
 <td style='padding: 10px;'>$1,903.26</td>
-<td style='padding: 10px;'><a href='/psg/ABSS_Premier_15082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/ABSS_Premier_15082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Multi User (x3 User)</td>
 <td style='padding: 10px;'>$2,744.86</td>
 <td style='padding: 10px;'>$2,744.26</td>
-<td style='padding: 10px;'><a href='/psg/ABSS_Premier_15082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/ABSS_Premier_15082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Multi User (x5 User)</td>
 <td style='padding: 10px;'>$3,677.57</td>
 <td style='padding: 10px;'>$2,744.26</td>
-<td style='padding: 10px;'><a href='/psg/ABSS_Premier_15082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/ABSS_Premier_15082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

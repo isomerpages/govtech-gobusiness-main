@@ -26,7 +26,7 @@ The digital marketing solution is focused on assisting small and medium-sized en
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SMM +SMA (3month)</td>
 <td style='padding: 10px;'>$10,600.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/psg/201714165W_20240099_05092024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201714165W_20240099_05092024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

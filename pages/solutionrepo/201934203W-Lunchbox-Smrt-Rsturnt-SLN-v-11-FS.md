@@ -26,21 +26,21 @@ Lunchbox Smart Restaurant App is Singapore's fastest growing, award winning, And
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CBS Package S</td>
 <td style='padding: 10px;'>$2,500.00</td>
 <td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'><a href='/psg/201934203W_20240130_05092024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201934203W_20240130_05092024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CBS Package M</td>
 <td style='padding: 10px;'>$3,500.00</td>
 <td style='padding: 10px;'>$3,500.00</td>
-<td style='padding: 10px;'><a href='/psg/201934203W_20240130_05092024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201934203W_20240130_05092024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CBS Package L</td>
 <td style='padding: 10px;'>$4,500.00</td>
 <td style='padding: 10px;'>$4,500.00</td>
-<td style='padding: 10px;'><a href='/psg/201934203W_20240130_05092024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201934203W_20240130_05092024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

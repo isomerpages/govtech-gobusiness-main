@@ -26,35 +26,35 @@ Microsoft Cybersecurity Package is a comprehensive solution designed for small t
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MICROSOFT 365 BUSINESS PREMIUM - 15 Users Pack</td>
 <td style='padding: 10px;'>$7,410.00</td>
 <td style='padding: 10px;'>$6,109.00</td>
-<td style='padding: 10px;'><a href='/psg/201309957M_20240201_17102024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201309957M_20240201_17102024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MICROSOFT 365 BUSINESS PREMIUM - 25 Users Pack</td>
 <td style='padding: 10px;'>$12,050.00</td>
 <td style='padding: 10px;'>$9,232.00</td>
-<td style='padding: 10px;'><a href='/psg/201309957M_20240201_17102024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201309957M_20240201_17102024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MICROSOFT 365 BUSINESS PREMIUM - 40 Users Pack</td>
 <td style='padding: 10px;'>$18,110.00</td>
 <td style='padding: 10px;'>$12,591.00</td>
-<td style='padding: 10px;'><a href='/psg/201309957M_20240201_17102024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201309957M_20240201_17102024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MICROSOFT 365 BUSINESS PREMIUM - 55 Users Pack</td>
 <td style='padding: 10px;'>$23,420.00</td>
 <td style='padding: 10px;'>$15,650.00</td>
-<td style='padding: 10px;'><a href='/psg/201309957M_20240201_17102024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201309957M_20240201_17102024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MICROSOFT 365 BUSINESS PREMIUM - 85 Users Pack</td>
 <td style='padding: 10px;'>$35,540.00</td>
 <td style='padding: 10px;'>$21,568.00</td>
-<td style='padding: 10px;'><a href='/psg/201309957M_20240201_17102024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201309957M_20240201_17102024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

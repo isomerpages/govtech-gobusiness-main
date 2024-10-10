@@ -30,35 +30,35 @@ It offers pro-active monitoring of Endpoint devices and Servers to detected, ana
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Package Bundled10</td>
 <td style='padding: 10px;'>$1,220.00</td>
 <td style='padding: 10px;'>$1,220.00</td>
-<td style='padding: 10px;'><a href='/psg/199405327E_20240102_17102024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/199405327E_20240102_17102024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Package Bundled25</td>
 <td style='padding: 10px;'>$3,050.00</td>
 <td style='padding: 10px;'>$3,050.00</td>
-<td style='padding: 10px;'><a href='/psg/199405327E_20240102_17102024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/199405327E_20240102_17102024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Package Bundled501</td>
 <td style='padding: 10px;'>$6,590.00</td>
 <td style='padding: 10px;'>$6,590.00</td>
-<td style='padding: 10px;'><a href='/psg/199405327E_20240102_17102024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/199405327E_20240102_17102024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Package Bundled752</td>
 <td style='padding: 10px;'>$10,130.00</td>
 <td style='padding: 10px;'>$10,130.00</td>
-<td style='padding: 10px;'><a href='/psg/199405327E_20240102_17102024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/199405327E_20240102_17102024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Package Bundled1003</td>
 <td style='padding: 10px;'>$13,670.00</td>
 <td style='padding: 10px;'>$13,670.00</td>
-<td style='padding: 10px;'><a href='/psg/199405327E_20240102_17102024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/199405327E_20240102_17102024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

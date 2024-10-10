@@ -30,28 +30,28 @@ BIPO HRMS is ISO-27001 certified with built-in regulations, policies and industr
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LITE 25</td>
 <td style='padding: 10px;'>$7,400.00</td>
 <td style='padding: 10px;'>$7,400.00</td>
-<td style='padding: 10px;'><a href='/psg/201410040G_20240036_05092024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201410040G_20240036_05092024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LITE 50</td>
 <td style='padding: 10px;'>$11,600.00</td>
 <td style='padding: 10px;'>$11,600.00</td>
-<td style='padding: 10px;'><a href='/psg/201410040G_20240036_05092024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201410040G_20240036_05092024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LITE 100</td>
 <td style='padding: 10px;'>$15,800.00</td>
 <td style='padding: 10px;'>$15,800.00</td>
-<td style='padding: 10px;'><a href='/psg/201410040G_20240036_05092024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201410040G_20240036_05092024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LITE 150</td>
 <td style='padding: 10px;'>$21,500.00</td>
 <td style='padding: 10px;'>$20,700.00</td>
-<td style='padding: 10px;'><a href='/psg/201410040G_20240036_05092024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201410040G_20240036_05092024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

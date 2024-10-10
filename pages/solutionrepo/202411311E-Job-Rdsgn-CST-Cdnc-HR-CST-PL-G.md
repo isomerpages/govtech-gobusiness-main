@@ -28,7 +28,7 @@ Our team of highly qualified senior HR professionals brings extensive experience
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Cadence HR Consulting Pte Ltd</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'> </td>
-<td style='padding: 10px;'><a href='/psg/Cadence HR Consulting GoBiz Doc[57].pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Cadence HR Consulting GoBiz Doc[57].pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

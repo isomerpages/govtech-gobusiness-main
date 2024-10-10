@@ -26,28 +26,28 @@ W360 Group has a proven track record in delivering digital marketing success acr
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SOCIAL - SMA & SMM (3 MONTHS)</td>
 <td style='padding: 10px;'>$8,400.00</td>
 <td style='padding: 10px;'>$8,400.00</td>
-<td style='padding: 10px;'><a href='/psg/201842642W_20240120_05092024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201842642W_20240120_05092024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ONLINE ADVERTISING - SEM & SMA (3 MONTHS)</td>
 <td style='padding: 10px;'>$8,520.00</td>
 <td style='padding: 10px;'>$8,520.00</td>
-<td style='padding: 10px;'><a href='/psg/201842642W_20240120_05092024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201842642W_20240120_05092024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SOCIAL + ORGANIC SEARCH - SMA + SEO (3 MONTHS)</td>
 <td style='padding: 10px;'>$9,960.00</td>
 <td style='padding: 10px;'>$9,960.00</td>
-<td style='padding: 10px;'><a href='/psg/201842642W_20240120_05092024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201842642W_20240120_05092024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SEARCH MARKETING - SEO & SEM (3 MONTHS)</td>
 <td style='padding: 10px;'>$9,960.00</td>
 <td style='padding: 10px;'>$9,960.00</td>
-<td style='padding: 10px;'><a href='/psg/201842642W_20240120_05092024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201842642W_20240120_05092024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

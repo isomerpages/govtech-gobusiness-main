@@ -26,21 +26,21 @@ APEC Solutions is a full-stack digital marketing agency dedicated to helping bus
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SEM & SEO (3 Months)</td>
 <td style='padding: 10px;'>$7,300.00</td>
 <td style='padding: 10px;'>$7,300.00</td>
-<td style='padding: 10px;'><a href='/psg/201713785N_20240112_17102024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201713785N_20240112_17102024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SEO & SMM & SMA (3 Months)</td>
 <td style='padding: 10px;'>$9,630.00</td>
 <td style='padding: 10px;'>$9,630.00</td>
-<td style='padding: 10px;'><a href='/psg/201713785N_20240112_17102024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201713785N_20240112_17102024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SMM & SEM (3 Months)</td>
 <td style='padding: 10px;'>$10,960.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/psg/201713785N_20240112_17102024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201713785N_20240112_17102024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

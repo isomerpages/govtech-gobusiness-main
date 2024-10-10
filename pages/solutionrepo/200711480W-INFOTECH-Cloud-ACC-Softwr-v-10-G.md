@@ -27,14 +27,14 @@ Info-Tech Cloud Accounting Software also helps to save time especially with defa
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
 <td style='padding: 10px;'>$3,000.00</td>
 <td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'><a href='/psg/INFOTECH_CloudAccounting_01082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/INFOTECH_CloudAccounting_01082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
 <td style='padding: 10px;'>$5,000.00</td>
 <td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/psg/INFOTECH_CloudAccounting_01082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/INFOTECH_CloudAccounting_01082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
