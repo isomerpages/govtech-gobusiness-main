@@ -26,35 +26,35 @@ The solution is an integrated, cohesive, user-friendly CRM, sales and financial 
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting and Sales management for 3 users (Basic)</td>
 <td style='padding: 10px;'>$5,760.00</td>
 <td style='padding: 10px;'>$5,760.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NMT_ODOO_01082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/NMT_ODOO_01082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting and Sales management for 3 users (Standard)</td>
 <td style='padding: 10px;'>$7,200.00</td>
 <td style='padding: 10px;'>$6,580.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NMT_ODOO_01082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/NMT_ODOO_01082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting and Sales management for 3 users (Premium)</td>
 <td style='padding: 10px;'>$9,280.00</td>
 <td style='padding: 10px;'>$6,740.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NMT_ODOO_01082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/NMT_ODOO_01082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting and Sales management for 3 users (Professional)</td>
 <td style='padding: 10px;'>$10,720.00</td>
 <td style='padding: 10px;'>$6,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NMT_ODOO_01082024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/NMT_ODOO_01082024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accountng and Sales management for 3 users (Enterprise)</td>
 <td style='padding: 10px;'>$12,160.00</td>
 <td style='padding: 10px;'>$7,060.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NMT_ODOO_01082024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/NMT_ODOO_01082024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

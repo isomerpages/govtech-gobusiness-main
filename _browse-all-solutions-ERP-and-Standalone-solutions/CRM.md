@@ -75,6 +75,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/201808388R-AI-Commrc-G' target='_blank'>AI Commerce</a><br></td>
 <td>VisionTech Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/198800014D-ClndrOn-CRM-SLN-v-27-G' target='_blank'>CalendarOne CRM Solution Version 2.7</a><br></td>
+<td>CalendarOne Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

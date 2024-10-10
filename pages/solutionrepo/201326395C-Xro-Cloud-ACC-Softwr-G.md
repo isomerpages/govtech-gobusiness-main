@@ -26,35 +26,35 @@ With Xero, multiple users can simultaneously access the system from any location
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1: Standard Subscription Only (Unlimited Users)</td>
 <td style='padding: 10px;'>$732.00</td>
 <td style='padding: 10px;'>$672.00</td>
-<td style='padding: 10px;'><a href='/images/psg/THINKSME_Xero_01082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/THINKSME_Xero_01082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2: Premium Subscription Only (Unlimited Users)</td>
 <td style='padding: 10px;'>$960.00</td>
 <td style='padding: 10px;'>$881.00</td>
-<td style='padding: 10px;'><a href='/images/psg/THINKSME_Xero_01082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/THINKSME_Xero_01082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3: Premium Software & Training (Unlimited Users)</td>
 <td style='padding: 10px;'>$4,860.00</td>
 <td style='padding: 10px;'>$3,281.00</td>
-<td style='padding: 10px;'><a href='/images/psg/THINKSME_Xero_01082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/THINKSME_Xero_01082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4: Premium Software, Data Migration & Training (Unlimited Users)</td>
 <td style='padding: 10px;'>$6,810.00</td>
 <td style='padding: 10px;'>$4,081.00</td>
-<td style='padding: 10px;'><a href='/images/psg/THINKSME_Xero_01082024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/THINKSME_Xero_01082024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5: Premium Software, Comprehensive Data Migration & Training (Unlimited Users)</td>
 <td style='padding: 10px;'>$11,360.00</td>
 <td style='padding: 10px;'>$4,081.00</td>
-<td style='padding: 10px;'><a href='/images/psg/THINKSME_Xero_01082024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/THINKSME_Xero_01082024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

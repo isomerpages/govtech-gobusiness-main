@@ -26,35 +26,35 @@ Xero is a cloud-based accounting software product that lets small and medium siz
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Subscription Only (unlimited users)</td>
 <td style='padding: 10px;'>$864.00</td>
 <td style='padding: 10px;'>$864.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ASL_Xero_01082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/ASL_Xero_01082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Setup & Subscription (unlimited users)</td>
 <td style='padding: 10px;'>$2,064.00</td>
 <td style='padding: 10px;'>$2,064.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ASL_Xero_01082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/ASL_Xero_01082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Setup, Subscription (unlimited users) & Training</td>
 <td style='padding: 10px;'>$3,184.00</td>
 <td style='padding: 10px;'>$3,184.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ASL_Xero_01082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/ASL_Xero_01082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Setup, Subscription (unlimited users), Training, Opening balance input</td>
 <td style='padding: 10px;'>$3,984.00</td>
 <td style='padding: 10px;'>$3,984.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ASL_Xero_01082024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/ASL_Xero_01082024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Setup, Subscription (unlimited users), Training, Opening balance input, Migration</td>
 <td style='padding: 10px;'>$5,184.00</td>
 <td style='padding: 10px;'>$4,064.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ASL_Xero_01082024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/ASL_Xero_01082024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -26,28 +26,28 @@ Microsoft Dynamics 365 Business Central is an ERP in the Microsoft Dynamics fami
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic (3 Users)</td>
 <td style='padding: 10px;'>$21,850.00</td>
 <td style='padding: 10px;'>$9,050.00</td>
-<td style='padding: 10px;'><a href='/images/psg/illum_Microsoft_01082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/illum_Microsoft_01082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Small Business With Warehousing (3 Users)</td>
 <td style='padding: 10px;'>$25,810.00</td>
 <td style='padding: 10px;'>$9,050.00</td>
-<td style='padding: 10px;'><a href='/images/psg/illum_Microsoft_01082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/illum_Microsoft_01082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Growing Enterprise With Warehousing (5 Users)</td>
 <td style='padding: 10px;'>$34,510.00</td>
 <td style='padding: 10px;'>$11,350.00</td>
-<td style='padding: 10px;'><a href='/images/psg/illum_Microsoft_01082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/illum_Microsoft_01082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Start (1 User)</td>
 <td style='padding: 10px;'>$8,530.00</td>
 <td style='padding: 10px;'>$6,750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/illum_Microsoft_01082024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/illum_Microsoft_01082024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

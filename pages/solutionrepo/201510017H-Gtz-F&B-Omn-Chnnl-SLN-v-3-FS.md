@@ -28,35 +28,35 @@ Unlock your F&B business potential with our All-in-One platform designed to incr
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A: Instore Self Ordering and CRM only (2 mods)</td>
 <td style='padding: 10px;'>$6,240.00</td>
 <td style='padding: 10px;'>$6,240.00</td>
-<td style='padding: 10px;'><a href='/images/psg/201510017H_20240131_26092024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/201510017H_20240131_26092024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B: Online Delivery and CRM only (2 mods)</td>
 <td style='padding: 10px;'>$7,560.00</td>
 <td style='padding: 10px;'>$7,560.00</td>
-<td style='padding: 10px;'><a href='/images/psg/201510017H_20240131_26092024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/201510017H_20240131_26092024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C:  Online Pickup, Online Delivery, CRM (3 mods)</td>
 <td style='padding: 10px;'>$9,720.00</td>
 <td style='padding: 10px;'>$9,720.00</td>
-<td style='padding: 10px;'><a href='/images/psg/201510017H_20240131_26092024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/201510017H_20240131_26092024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D: Instore Self Ordering, Online Pickup, Online Delivery, CRM (4 mods)</td>
 <td style='padding: 10px;'>$11,880.00</td>
 <td style='padding: 10px;'>$10,080.00</td>
-<td style='padding: 10px;'><a href='/images/psg/201510017H_20240131_26092024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/201510017H_20240131_26092024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E: Instore Self Ordering, Online Pickup, Online Delivery, CRM + Accounting Integration</td>
 <td style='padding: 10px;'>$13,600.00</td>
 <td style='padding: 10px;'>$11,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/201510017H_20240131_26092024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/201510017H_20240131_26092024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

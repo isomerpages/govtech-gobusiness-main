@@ -27,7 +27,7 @@ Deliver greater insight through deeper analysis. Data analytics are a critical p
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
 <td style='padding: 10px;'>$2,170.00</td>
 <td style='padding: 10px;'>$2,170.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Wolters_Teammate_15082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/Wolters_Teammate_15082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

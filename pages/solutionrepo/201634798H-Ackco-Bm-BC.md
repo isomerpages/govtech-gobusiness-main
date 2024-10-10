@@ -26,35 +26,35 @@ Ackcio Beam is a wireless data acquisition system that can monitor geotechnical,
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vibrating Wire Nodes</td>
 <td style='padding: 10px;'>$24,795.00</td>
 <td style='padding: 10px;'>$18,345.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ackcio_Beam_13062024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/Ackcio_Beam_13062024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tilt Meter Nodes</td>
 <td style='padding: 10px;'>$27,045.00</td>
 <td style='padding: 10px;'>$25,095.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ackcio_Beam_13062024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/Ackcio_Beam_13062024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital and Vibrating Wire Nodes</td>
 <td style='padding: 10px;'>$28,580.00</td>
 <td style='padding: 10px;'>$19,830.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ackcio_Beam_13062024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/Ackcio_Beam_13062024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tilt Meter and Vibrating Wire Nodes</td>
 <td style='padding: 10px;'>$29,495.00</td>
 <td style='padding: 10px;'>$24,295.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ackcio_Beam_13062024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/Ackcio_Beam_13062024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tilt Meter, Vibrating Wire, and Digital Nodes</td>
 <td style='padding: 10px;'>$29,670.00</td>
 <td style='padding: 10px;'>$21,470.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ackcio_Beam_13062024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/Ackcio_Beam_13062024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

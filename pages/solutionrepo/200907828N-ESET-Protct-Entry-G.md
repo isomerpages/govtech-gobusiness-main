@@ -26,28 +26,28 @@ ESET Protect Entry Endpoint Antivirus delivers robust protection for businesses 
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - 5 licences (1year)</td>
 <td style='padding: 10px;'>$1,015.00</td>
 <td style='padding: 10px;'>$750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACE_ESET_25072024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/ACE_ESET_25072024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - 15 licences (1year)</td>
 <td style='padding: 10px;'>$1,425.00</td>
 <td style='padding: 10px;'>$1,425.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACE_ESET_25072024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/ACE_ESET_25072024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - 60 licences (1year)</td>
 <td style='padding: 10px;'>$3,810.00</td>
 <td style='padding: 10px;'>$3,810.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACE_ESET_25072024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/ACE_ESET_25072024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - 120 licences (1year)</td>
 <td style='padding: 10px;'>$6,940.00</td>
 <td style='padding: 10px;'>$6,940.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACE_ESET_25072024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/ACE_ESET_25072024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

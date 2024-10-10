@@ -26,35 +26,35 @@ Singtel Endpoint Security provides comprehensive protection for SMEs' endpoints,
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel-Trend Micro Worry-Free Endpoint Security 10 Licenses</td>
 <td style='padding: 10px;'>$635.00</td>
 <td style='padding: 10px;'>$635.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Sintel_Endpoint_25072024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/Sintel_Endpoint_25072024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel-Trend Micro Worry-Free Endpoint Security 25 Licenses</td>
 <td style='padding: 10px;'>$1,424.00</td>
 <td style='padding: 10px;'>$1,424.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Sintel_Endpoint_25072024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/Sintel_Endpoint_25072024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel-Trend Micro Worry-Free Endpoint Security 51 Licenses</td>
 <td style='padding: 10px;'>$3,077.00</td>
 <td style='padding: 10px;'>$3,077.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Sintel_Endpoint_25072024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/Sintel_Endpoint_25072024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel-Trend Micro VisionOne Core Endpoint Security 100 Licenses</td>
 <td style='padding: 10px;'>$7,430.00</td>
 <td style='padding: 10px;'>$7,430.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Sintel_Endpoint_25072024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/Sintel_Endpoint_25072024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel-Trend Micro VisionOne Core Endpoint Security 150 Licenses</td>
 <td style='padding: 10px;'>$10,265.00</td>
 <td style='padding: 10px;'>$10,265.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Sintel_Endpoint_25072024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/Sintel_Endpoint_25072024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -26,14 +26,14 @@ Tisch Global Corporate Advisory is pleased to provide Xero, a cloud-based accoun
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic Package (Subscription Only)</td>
 <td style='padding: 10px;'>$671.00</td>
 <td style='padding: 10px;'>$671.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Xero_01082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/Tisch_Global_Xero_01082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite Package (Subscription, Basic Setup and Training)</td>
 <td style='padding: 10px;'>$1,421.00</td>
 <td style='padding: 10px;'>$1,421.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Xero_01082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/Tisch_Global_Xero_01082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
@@ -41,7 +41,7 @@ Tisch Global Corporate Advisory is pleased to provide Xero, a cloud-based accoun
 and Training)</td>
 <td style='padding: 10px;'>$2,546.00</td>
 <td style='padding: 10px;'>$2,546.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Xero_01082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/Tisch_Global_Xero_01082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
@@ -49,7 +49,7 @@ and Training)</td>
 Migration and Training)</td>
 <td style='padding: 10px;'>$3,130.00</td>
 <td style='padding: 10px;'>$3,130.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Xero_01082024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/Tisch_Global_Xero_01082024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
@@ -57,7 +57,7 @@ Migration and Training)</td>
 Setup, Extended Migration and Training)</td>
 <td style='padding: 10px;'>$4,240.00</td>
 <td style='padding: 10px;'>$4,215.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Xero_01082024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/Tisch_Global_Xero_01082024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

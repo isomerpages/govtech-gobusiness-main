@@ -26,14 +26,14 @@ At Kaliber Asia, we pride ourselves to be the unorthodox performance marketers c
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - E-Commerce SEM+SMA Starter Package (3 Months)</td>
 <td style='padding: 10px;'>$9,770.00</td>
 <td style='padding: 10px;'>$9,770.00</td>
-<td style='padding: 10px;'><a href='/images/psg/202008814M_20220231_05092024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/202008814M_20220231_05092024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Lead Generation SEM+SMA Starter Package (3 Months)</td>
 <td style='padding: 10px;'>$9,931.00</td>
 <td style='padding: 10px;'>$9,931.00</td>
-<td style='padding: 10px;'><a href='/images/psg/202008814M_20220231_05092024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/202008814M_20220231_05092024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

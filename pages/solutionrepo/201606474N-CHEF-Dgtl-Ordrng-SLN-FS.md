@@ -27,14 +27,14 @@ Having serviced over 15,000 F&B establishments in Asia, iCHEF continually strive
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus</td>
 <td style='padding: 10px;'>$4,260.00</td>
 <td style='padding: 10px;'>$4,120.00</td>
-<td style='padding: 10px;'><a href='/images/psg/201606474N_20240076_26092024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/201606474N_20240076_26092024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Proficient</td>
 <td style='padding: 10px;'>$3,220.00</td>
 <td style='padding: 10px;'>$3,220.00</td>
-<td style='padding: 10px;'><a href='/images/psg/201606474N_20240076_26092024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/201606474N_20240076_26092024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

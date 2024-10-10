@@ -26,35 +26,35 @@ Tisch Global is offering Microsoft 365 SharePoint, a cloud solution enabling sim
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>5 Users (SharePoint Plan 1)</td>
 <td style='padding: 10px;'>$1,330.00</td>
 <td style='padding: 10px;'>$1,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Microsoft_01082024_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/Tisch_Global_Microsoft_01082024_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 Users (SharePoint Plan 1)</td>
 <td style='padding: 10px;'>$2,385.00</td>
 <td style='padding: 10px;'>$2,325.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Microsoft_01082024_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/Tisch_Global_Microsoft_01082024_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>20 Users (SharePoint Plan 1)</td>
 <td style='padding: 10px;'>$4,288.75</td>
 <td style='padding: 10px;'>$4,168.75</td>
-<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Microsoft_01082024_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/Tisch_Global_Microsoft_01082024_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>25 Users (SharePoint Plan 2)</td>
 <td style='padding: 10px;'>$7,512.50</td>
 <td style='padding: 10px;'>$7,312.50</td>
-<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Microsoft_01082024_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/Tisch_Global_Microsoft_01082024_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>50 Users (SharePoint Plan 2)</td>
 <td style='padding: 10px;'>$13,787.50</td>
 <td style='padding: 10px;'>$13,387.50</td>
-<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Microsoft_01082024_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/Tisch_Global_Microsoft_01082024_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

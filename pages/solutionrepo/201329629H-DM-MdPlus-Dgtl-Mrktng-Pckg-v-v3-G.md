@@ -28,35 +28,35 @@ With more than 12 years experience, MediaPlus Digital customize solutions based 
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Activate Search DM Package V2 (SEM/SEO) [3 Months]</td>
 <td style='padding: 10px;'>$9,935.00</td>
 <td style='padding: 10px;'>$9,935.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MediaPlus_DM_15082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/MediaPlus_DM_15082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Search Boost DM Package V1 (SEO/Content Marketing) [3 Months]</td>
 <td style='padding: 10px;'>$9,995.00</td>
 <td style='padding: 10px;'>$9,995.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MediaPlus_DM_15082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/MediaPlus_DM_15082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accelerate DM Package V2 (SEO/SEM/SMA) [3 Months]</td>
 <td style='padding: 10px;'>$9,995.00</td>
 <td style='padding: 10px;'>$9,995.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MediaPlus_DM_15082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/MediaPlus_DM_15082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Paid Ads DM Package (SEM/SMA) [3 Months]</td>
 <td style='padding: 10px;'>$9,950.00</td>
 <td style='padding: 10px;'>$9,950.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MediaPlus_DM_15082024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/MediaPlus_DM_15082024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Paid Social DM Package (SMA) [3 Months]</td>
 <td style='padding: 10px;'>$9,930.00</td>
 <td style='padding: 10px;'>$9,930.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MediaPlus_DM_15082024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/MediaPlus_DM_15082024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -26,35 +26,35 @@ Frontier e-HR HRMS assists SMEs to improve the productivity of human resource op
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>25 Users</td>
 <td style='padding: 10px;'>$6,200.00</td>
 <td style='padding: 10px;'>$6,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Frontier_eHR_25072024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/Frontier_eHR_25072024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>50 Users</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Frontier_eHR_25072024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/Frontier_eHR_25072024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>100 Users</td>
 <td style='padding: 10px;'>$17,000.00</td>
 <td style='padding: 10px;'>$17,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Frontier_eHR_25072024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/Frontier_eHR_25072024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>150 Users</td>
 <td style='padding: 10px;'>$22,600.00</td>
 <td style='padding: 10px;'>$22,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Frontier_eHR_25072024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/Frontier_eHR_25072024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>200 Users</td>
 <td style='padding: 10px;'>$29,200.00</td>
 <td style='padding: 10px;'>$28,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Frontier_eHR_25072024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/Frontier_eHR_25072024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -26,35 +26,35 @@ AM8ZE ERP is a bespoke enterprise resource planning solution meticulously tailor
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AM8ZE VISTA 1.0</td>
 <td style='padding: 10px;'>$21,300.00</td>
 <td style='padding: 10px;'>$15,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/201912702K_20240066_05092024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/201912702K_20240066_05092024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AM8ZE VISTA 2.0</td>
 <td style='padding: 10px;'>$24,800.00</td>
 <td style='padding: 10px;'>$15,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/201912702K_20240066_05092024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/201912702K_20240066_05092024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AM8ZE VISTA 3.0</td>
 <td style='padding: 10px;'>$26,200.00</td>
 <td style='padding: 10px;'>$15,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/201912702K_20240066_05092024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/201912702K_20240066_05092024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AM8ZE VISTA 4.0</td>
 <td style='padding: 10px;'>$27,600.00</td>
 <td style='padding: 10px;'>$15,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/201912702K_20240066_05092024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/201912702K_20240066_05092024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AM8ZE VISTA 5.0</td>
 <td style='padding: 10px;'>$29,000.00</td>
 <td style='padding: 10px;'>$15,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/201912702K_20240066_05092024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/psg/201912702K_20240066_05092024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
