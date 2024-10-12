@@ -130,6 +130,7 @@ Allied Intuit Pte Ltd (Allied) is an Intellectual Property (IP) firm providing I
 ### Key practice experts
 
 **Charlie, Sim**
+
 - Job Title: Patent Attorney
 - Years of Experience: 23 years
 - Location: Singapore

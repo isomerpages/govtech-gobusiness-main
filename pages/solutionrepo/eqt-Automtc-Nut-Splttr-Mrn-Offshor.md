@@ -24,7 +24,7 @@ Cost of equipment capped at $7,500 per unit
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Nut Splitter</td>
 <td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'>1. Minimum  capacity of 20 tons<br><br>2. Equipment can include 1 battery pack or power unit or pump per equipment</td>
+<td style='padding: 10px;'>1. Minimum capacity of 20 tons<br><br>2. Equipment can include 1 battery pack or power unit or pump per equipment</td>
 </tr>
 </table>
 

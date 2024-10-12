@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Job-Redesign-Solutions/Job-Redesign
 
 **Support Level and Conditions**
 
-Up to `50% for SMEs, `30% for non-SMEs
+Up to 50% for SMEs, 30% for non-SMEs
 
 This solution is supported by Workforce Singapore (Workforce Singapore (WSG)).
 

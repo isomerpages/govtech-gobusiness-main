@@ -6,17 +6,16 @@ permalink: /maintenance-notices/
 ## Upcoming scheduled maintenance
 
 Kindly note the following scheduled maintenance. We apologise for the inconvenience caused. 
-GoBusiness Portal is temporarily refining our search capabilities for a better experience. Please bear with us as you may encounter some limitations in searching for records during this time.
+
 
 ### 2024 
 
 | **Scheduled Date** | **Remarks** |  
 
-    
-
-
-| 26 Aug, 8pm - 27 Aug, 8am<br>29 Aug, 11pm - 30 Aug, 7am | **Application, amendment, renewal & cancellation of Singapore Police Force (SPF) licences** will be unavailable during the upcoming scheduled maintenance. |     
-
+       
+| 11 Oct, 10pm - 12 Oct, 6am<br>12 Oct, 8pm - 13 Oct, 8am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |        
+| 12 Oct, 2pm - 14 Oct, 8am | **All transactions for Registration of Precious Stones and Precious Metals Dealers (MINLAW)** will be unavailable during the upcoming scheduled maintenance. |
+| 14 Oct, 11pm - 15 Oct, 7am | **Application, amendment, renewal & cancellation of Singapore Police Force (SPF) licences** will be unavailable during the upcoming scheduled maintenance. |
 
 
 

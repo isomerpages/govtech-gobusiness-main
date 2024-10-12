@@ -40,14 +40,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>VGC TECHNOLOGY PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199405327E-Mcrosoft-Cybrscurty-Mngd-SVC-G' target='_blank'>Microsoft Cybersecurity Managed Service</a><br></td>
-<td>NTC INTEGRATION PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/53379873J-AutoXDR-360-Mult-Tnnt-Scurty-s-SVC-SAAS-IM-Protcton-wth-24-x-G' target='_blank'>AutoXDR 360 - Multi Tenant Security as a Service (SAAS) Internet & Malware Protection with 24 x 7 Response Service</a><br></td>
-<td>GKO Consultancy</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200102135C-Morphsc-G' target='_blank'>Morphisec</a><br></td>
 <td>EQCOMS Technology Pte Ltd</td>
 </tr>

@@ -44,7 +44,7 @@ National Environment Agency (NEA)
 <H3>Documents Needed</H3>
 
 <ul>
-<li><strong>Industrial Allocation Approval</strong><br>To submit the Industrial Allocation approval issued by Central Building Plan Department<br><br></li>
+<li><strong>Industrial Siting Consultation (ISC)</strong><br>The most recent Industrial Siting Consultation (ISC), previously known as Industrial Allocation (IA) approval by the Development Control and Licensing Division (DCLD)<br><br></li>
 <li><strong>ACRA Business Profile</strong><br>To submit ACRA business profile of company<br><br></li>
 <li><strong>Technical Information on treatment facility and pollution control equipment</strong><br>To submit technical information about toxic industrial waste types and treatment processes</li>
 </ul>

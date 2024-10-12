@@ -60,6 +60,7 @@ Chay Corporate Advisory Pte Ltd, a boutique corporate advisory house established
 ### Key practice experts
 
 **Yiowmin Chay**
+
 - Job Title: CEO
 - Years of Experience: 15 years
 - Location: Singapore

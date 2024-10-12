@@ -49,6 +49,15 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Dambo  -  H80-HJ098-P15S-BT
 - Dambo  -  LDS-DCL800-HJ098-20PS
 - Dambo  -  LDS-DT400-HJ098-A12PS
+- Dambo - H80B-HJ208-A10S
+- Dambo - H80-HJ098-A15S
+- Dambo - HJ018-BZL4T35K+
+- Dambo - HJ-TCJ05C-28
+- Dambo - LDS-DCL600-HJ098-15PS
+- Dambo - LDS-DT300-HJ208-A6PS
+- Dambo - LDS-DTDW-HJ098-A15PS
+- Dambo - LDS-ST300-HJ208-A6PS
+- Dambo - LDS-STDW-HJ098-A15PS
 - Daneng  -  DN-ICC-3.5
 - Daneng  -  DN-ICC3.5-2
 - Daneng  -  DN-ICC3.5-4
@@ -139,13 +148,26 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - JEMI - S70WIN GP
 - JEMI - T70IN
 - JEMI - T70IN GP
+- JEMI - T70IN/2
+- JEMI - T70IN/2 GP
 - JEMI - T70WIN
 - JEMI - T70WIN GP
+- JEMI - T90IN/2
+- JEMI - T90IN/2 GP
 - KANG JIE  - BT500
 - KANG JIE  - DWXC400
 - KANG JIE  - PAJ300
 - KANG JIE  - PAJ500
 - KANG JIE  - XC300
+- KANG JIE - DCSTBZL
+- KANG JIE - KJ-K600-ES
+- KANG JIE - KJ-K800-ES
+- KANG JIE - PAJ300-DI
+- KANG JIE - PAJ800
+- KANG JIE - PAJ800-KW
+- KANG JIE - STBZL
+- KANG JIE - XC300-2
+- KANG JIE - XC400-2
 - Lincat (UK)  - SLI42
 - Mantru.e  - ZC2-C366A
 - Mantru.e  - ZC2-C366A-Q
@@ -177,6 +199,26 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - NOVA - NIC-3.5T
 - NOVA - NIC-5T
 - OZTI  - 7865.N1.80903.IS
+- Penguin - P-AIFC
+- Penguin - P-AIWC
+- Penguin - P-S15000W-B
+- Penguin - P-S15000W-B2
+- Penguin - P-S15000W-WK
+- Penguin - P-S15000W-WK2
+- Penguin - P-S15000W-WK3
+- Penguin - P-S3500W-2
+- Penguin - P-S3500W-4
+- Penguin - P-S3500W-6
+- Penguin - P-T3500W
+- Penguin - P-T4200W
+- Penguin - P-T5000W
+- Penguin - P-T5000W-1PH
+- Penguin - P-T5000W-3PH
+- Penguin - P-W-3500W
+- Penguin - P-W-4200W
+- Penguin - P-W-5000W
+- Penguin - P-W-T5000W-1PH
+- Penguin - P-W-T5000W-3PH
 - RATIONAL  - iVario 2-XS
 - RATIONAL  - iVario Pro 2-S
 - RATIONAL  - iVario Pro L
