@@ -197,4 +197,4 @@ Our presence in Southeast Asia is growing. Building on our regional expertise an
 <p>
 <a class='btn' href='https://form.gov.sg/643f4f02f643c40012dae38b' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 10 Jul 2024
+Profile last updated on 10 July 2024
