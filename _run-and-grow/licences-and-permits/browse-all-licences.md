@@ -454,7 +454,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [N3 - Licence to use laser](https://dashboard.gobusiness.gov.sg/task-details/n3)
 - [N4A/B - Licence to import or export a consignment of non-ionising radiation irradiating apparatus](https://dashboard.gobusiness.gov.sg/task-details/n4)
 - [Non-CITES Certificate](https://dashboard.gobusiness.gov.sg/task-details/noncites)
-- [Phytosanitary Certification](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201212070000112)
+- [Phytosanitary Certification](https://dashboard.gobusiness.gov.sg/task-details/phytosanitarycertification)
 - [Plumber Licence](https://dashboard.gobusiness.gov.sg/task-details/plumberlicence)
 - [Pre-signed CITES Permit](https://dashboard.gobusiness.gov.sg/task-details/presignedcites)
 - [Pre-signed non-CITES Certificate](https://dashboard.gobusiness.gov.sg/task-details/presignednoncites)

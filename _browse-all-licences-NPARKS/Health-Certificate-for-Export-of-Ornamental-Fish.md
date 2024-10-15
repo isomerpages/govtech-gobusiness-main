@@ -1,11 +1,12 @@
+---
 title: Health Certificate for Export of Ornamental Fish
-permalink: /browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Health-Certificate-for-Export-of-Ornamental-Fish
-third_nav_title: Animal & Veterinary Service (AVS)
+permalink: /browse-all-licences/National-Parks-Board-(NPARKS)/Health-Certificate-for-Export-of-Ornamental-Fish
+third_nav_title: National Parks Board (NPARKS)
 ---
 
 ## Apply for Health Certificate for Export of Ornamental Fish
 
-Animal & Veterinary Service (AVS)
+National Parks Board (NPARKS)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/healthcertforexportornamentalfish" type="primary" %}
 
