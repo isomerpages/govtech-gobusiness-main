@@ -5,7 +5,7 @@ permalink: /intellectual-property/ip-grow/joseph-tan-jude-benny/
 
 ## Joseph Tan Jude Benny
 
-We are an award-winning law firm recognised by the major international legal directories. We place our clients’ interests first in all that we do and conduct ourselves with utmost integrity. We are experts in our field, have vast experience and a track record of success.
+We are an award-winning law firm recognised by the major international legal directories. We place our clients' interests first in all that we do and conduct ourselves with utmost integrity. We are experts in our field, have vast experience and a track record of success.
 
 We provide our clients with dedicated support and personalised attention. Our Partners are fully hands-on and our clients have 24/7 access to our lawyers. We go the extra mile for our clients and are committed to delivering legal solutions that are practical and effective, to meet their needs and achieve their objectives.
 
