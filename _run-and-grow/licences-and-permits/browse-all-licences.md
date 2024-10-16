@@ -154,7 +154,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Islamic Education Centres and Providers Registration](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=234)
 - [Registration of Private Education Institutions](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=35)
 
-<a name="#employment-and-labour-services"></a>
+<a name="employment-and-labour-services"></a>
 
 ## Employment & Labour Services
 - [Employment Agency Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=55)
@@ -162,7 +162,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Foreign Employee Dormitories Act Licence](https://dashboard.gobusiness.gov.sg/task-details/feda)
 - [Work passes and permits](https://www.mom.gov.sg/passes-and-permits)
 
-<a name="#explosives-and-arms"></a>
+<a name="explosives-and-arms"></a>
 
 ## Explosives & Arms
 - [Approval for a Blasting Operation](https://dashboard.gobusiness.gov.sg/task-details/6f74b664-d42b-46ec-9b49-8e6605865e0f)
