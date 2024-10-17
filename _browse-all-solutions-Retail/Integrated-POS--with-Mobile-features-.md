@@ -24,10 +24,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>Eurostop Singapore Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200310497R-MyRtlr-&rod-POS-G' target='_blank'>MyRetailer Android POS</a><br></td>
-<td>DCS Synthesis Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200503951K-MEGAPOS-G' target='_blank'>MEGAPOS</a><br></td>
 <td>Megasafe Technology Pte Ltd</td>
 </tr>
