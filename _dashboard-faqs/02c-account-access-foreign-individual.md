@@ -10,7 +10,7 @@ Register for an account with the links below, if you wish to apply for licences 
 
 **Cybersecurity Services Regulation Office (CSRO)**
 <br>[Account Registration Form (CSRO licences)](https://go.gov.sg/csro-sfa)
-<br>To apply for NParks licences, please complete this form.
+<br>To apply for CSRO licences, please complete this form.
 
 **Infocomm Media Development Authority (IMDA)**
 <br>[Account Registration Form (IMDA licences)](https://go.gov.sg/imda-sfa)
@@ -18,7 +18,7 @@ Register for an account with the links below, if you wish to apply for licences 
 
 **Ministry of Law (MinLaw)**
 <br>[Account Registration Form (MinLaw licences)](https://go.gov.sg/mlaw-sfa)
-<br>To apply for IMDA licences, please complete this form.
+<br>To apply for MinLaw licences, please complete this form.
 
 **National Parks Board (NPARKS)**
 <br>[Account Registration Form (NParks licences)](https://avs-eservices.nparks.gov.sg/eservices/sfa-registration)
