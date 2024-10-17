@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - back-to-all-psg-solutions.md
-      - B2B-Marketplace-E-Procurement-System.md
       - Connected-Business-Suite.md
       - General-Food-Services-Equipment.md
