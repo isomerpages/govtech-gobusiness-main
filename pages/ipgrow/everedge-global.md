@@ -189,7 +189,7 @@ CEO & Tech Missionary, OTSAW.
 - Job Title: CEO
 - Years of Experience: 25+ years
 - Location: Auckland, New Zealand
-- IA/IP-Related Expertise: IP Audit, IP Strategy Consulting, IP Training,Dispute Resolution,Valuation (with IA/IP considerations)
+- IA/IP-Related Expertise: IP Audit, IP Strategy Consulting, IP Training, Valuation (with IA/IP considerations)
 - Certifications/Qualifications: LLB with Honors (Software Licensing Law) - University of Auckland (NZ), BA (Economics and History) - University of Auckland (NZ), Admitted as a Barrister and Solicitor to the High Court of NZ, Fellow of the New Zealand Institute of Directors, Intellectual Asset Management Top 300 IP Strategist 2011-2024
 - Awards/Accolades: Global IP Leader Prize, Intellectual Property Focus Forum, Shanghai, China, 2012
 - URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/our-team/" target="_blank" rel="noopener">https://www.everedgeglobal.com/our-team/</a>
@@ -200,7 +200,7 @@ CEO & Tech Missionary, OTSAW.
 - Years of Experience: 20+ years
 - Location: United States
 - IA/IP-Related Expertise: IP Audit, IP Due Diligence, IP Strategy Consulting, 
-Valuation (with IA/IP considerations), Dispute Resolution
+Valuation (with IA/IP considerations)
 - Certifications/Qualifications: Bachelor of Science (Finance) Brigham Young University (US), Master of Business Administration (Strategy) University of Utah (US), Chartered Valuer and Appraiser (CVA) Singapore Accountancy Commission, Certified Patent Valuation Analyst (CPVA) Business Development Academy (US), Registered Management Consultant (RMC) Institute of Management Consultants, Six Sigma Green Belt
 - Awards/Accolades: PWC XTax finalist
 - URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/tyler-capson" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/tyler-capson</a>
