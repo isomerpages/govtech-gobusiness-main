@@ -19,7 +19,7 @@ Cyber Security Agency (CSA)
  <li> Handles personal identifiable information (PII) and clinical data and has the ability to collect, store, process, or transfer such data;</li>
  <li> Connects to other devices, systems, and services - Has the ability to communicate using wired and / or wireless communication protocols through a network of connections.</li>
 </ul>
-<p>For more information, please visit <a href="https://www.csa.gov.sg/cls-md" target="_blank">https://www.csa.gov.sg/cls-md</a> or kindly contact <a href="cls_md@csa.gov.sg" target="_blank">cls_md@csa.gov.sg</a>.</p>
+<p>For more information, please visit <a href="https://www.csa.gov.sg/cls-md" target="_blank">https://www.csa.gov.sg/cls-md</a> or kindly contact cls_md@csa.gov.sg</p>
 
 
 
