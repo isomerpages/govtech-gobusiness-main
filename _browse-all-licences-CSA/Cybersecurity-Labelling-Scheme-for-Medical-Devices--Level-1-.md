@@ -12,5 +12,14 @@ Cyber Security Agency (CSA)
 
 <H3>Application Details</H3>
 
-<p><b>Disclaimer: The submission of this application does not imply the acceptance of the application under the CLS(MD) Sandbox by CSA. Upon the submission of this application, CSA will review the application prior to the acceptance of the application under the CLS(MD) Sandbox. If the application is accepted, CSA will formally confirm the acceptance of your CLS(MD) Sandbox application via email.</b></p><p>The Cybersecurity Labelling Scheme for Medical Devices is a joint initiative by the Cyber Security Agency of Singapore (CSA), Ministry of Health (MOH), Health Sciences Authority (HSA), and Synapxe as part of efforts to improve the visibility of medical devices security, raise overall cyber hygiene levels.</p><p>Under the scheme, medical devices will be rated according to their levels of cybersecurity provisions, and a label will be issued to the medical device, enabling the general public and healthcare providers to identify medical devices with appropriate cybersecurity provisions and make informed purchasing decisions.</p><p>For more information, please visit https://www.csa.gov.sg/cls or kindly contact cls_iot@csa.gov.sg.</p>
+<p>The Cybersecurity Labelling Scheme for Medical Devices (CLS(MD)) is a joint initiative by the Cyber Security Agency of Singapore (CSA), Ministry of Health (MOH), Health Sciences Authority (HSA), and Synapxe as part of efforts to improve medical device cybersecurity.</p>
+<p>Under the voluntary CLS(MD), medical devices are rated according to 4 levels of cybersecurity provisions and assessments. The cybersecurity label for medical devices would provide an indication of the level of security in medical devices. The scheme seeks to incentivise manufacturers to adopt a security-by-design approach, and to enable consumers and healthcare providers to make more informed decisions about the use of such devices.</p>
+<p>The scope of the CLS(MD) applies to medical devices as described in the First Schedule of the Health Product Act (Cap122D, 2008 Rev Ed) and have any of the following characteristics:</p>
+<ul>
+ <li> Handles personal identifiable information (PII) and clinical data and has the ability to collect, store, process, or transfer such data;</li>
+ <li> Connects to other devices, systems, and services - Has the ability to communicate using wired and / or wireless communication protocols through a network of connections.</li>
+</ul>
+<p>For more information, please visit <a href="https://www.csa.gov.sg/cls-md" target="_blank">https://www.csa.gov.sg/cls-md</a> or kindly contact cls_md@csa.gov.sg</p>
+
+
 
