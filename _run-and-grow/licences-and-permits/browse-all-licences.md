@@ -141,8 +141,8 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Cybersecurity Labelling Scheme for IoT (Level 2)](https://dashboard.gobusiness.gov.sg/task-details/csaiot2)
 - [Cybersecurity Labelling Scheme for IoT (Level 3)](https://dashboard.gobusiness.gov.sg/task-details/csaiot3)
 - [Cybersecurity Labelling Scheme for IoT (Level 4)](https://dashboard.gobusiness.gov.sg/task-details/csaiot4)
-- [Managed Security Operations Centre (SOC) Monitoring Service Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=280)
-- [Penetration Testing Services Licence (PTS)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=278)
+- [Managed Security Operations Centre (SOC) Monitoring Service Licence](https://dashboard.gobusiness.gov.sg/task-details/soc)
+- [Penetration Testing Services Licence (PTS)](https://dashboard.gobusiness.gov.sg/task-details/pts)
 
 <a name="education"></a>
 
