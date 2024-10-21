@@ -185,7 +185,7 @@
         <table>
         <tr>
             <th style='width: auto;'> <b>Employee</b> </th>
-            <th style='width: auto;'> <b>Monthly Remuneration</b> </th>
+            <th style='width: auto;'> <b>Monthly Wage</b> </th>
             <th style='width: auto;'> <b>SDL Payable</b> </th>
             <th style='width: auto;'> <b>Remarks</b> </th>
         </tr>
@@ -205,13 +205,13 @@
             <td>C</td>
             <td>$2,000.00</td>
             <td>$5</td>
-            <td>0.25% of monthly remuneration</td>
+            <td>0.25% of monthly wage</td>
         </tr>
         <tr>
             <td>D</td>
             <td>$4,500.00</td>
             <td>$11.25</td>
-            <td>0.25% of monthly remuneration</td>
+            <td>0.25% of monthly wage</td>
         </tr>
         <tr>
             <td>E</td>
