@@ -5,7 +5,7 @@ accordion:
 
       If you have a Corppass administrator, get them to create an account for you and assign an appropriate BGP e-Service role, so you can access the Portal.
 
-      From 4 Nov 2024, BGPs Corppass e-service will be renamed from "BGP" to "ApplyGov". This is an e-Service name change on Corppass and does not affect existing roles and access to BGP. For new BGP users, simply add the appropriate roles under "ApplyGov" e-Service.
+      <p style="color:blue;">From 4 Nov 2024, BGP's Corppass e-service will be renamed from "BGP" to "ApplyGov". This is an e-Service name change on Corppass and does not affect existing roles and access to BGP. For new BGP users, simply add the appropriate roles under "ApplyGov" e-Service.</p>
 
   - title: What are the Viewer, Preparer and Acceptor roles on the Business Grants Portal?
     content: |
@@ -23,14 +23,14 @@ accordion:
       Login to [Corppass](https://www.corppass.gov.sg/portal){:target="_blank"}{:rel="noopener"}. Under "e-Service Access" tab, select "Assign selected e-Services".
       ![Corppass bgp roles](/images/grow/Corppass-bgp_1.jpg)
 
-      ![Corppass bgp roles](/images/grow/Corppass-bgp_2.jpg)
       Select relevant user account(s) to assign the e-Service(s). Click "Next".
+      ![Corppass bgp roles](/images/grow/Corppass-bgp_2.jpg)
       
-      ![Corppass bgp roles](/images/grow/Corppass-bgp_3.jpg)
       To access BGP, select <b>"ApplyGov</b> e-Service under "Government Technology Agency of Singapore". Click "Next".
+      ![Corppass bgp roles](/images/grow/Corppass-bgp_3.jpg)
       
-      ![Corppass bgp roles](/images/grow/Corppass-bgp_4.jpg)
       Under Role, select BGP Viewer, or BGP Preparer, or BGP Acceptor and indicate the authorisation effective and expiry dates. Click "Next".
+      ![Corppass bgp roles](/images/grow/Corppass-bgp_4.jpg)
       
       Verify the request and click "Submit".
       ![Corppass bgp roles](/images/grow/Corppass-bgp_5.jpg)
