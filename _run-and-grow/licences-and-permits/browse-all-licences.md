@@ -401,7 +401,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Satellite Communication Station Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=33)
 - [Services-Based Operator (Class) Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=29)
 - [Services-Based Operator (Individual) Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=30)
-- [Ship Station Licence](https://dashboard.gobusiness.gov.sg/task-details/shipstation)
+<!-- - [Ship Station Licence](https://dashboard.gobusiness.gov.sg/task-details/shipstation) -->
 - [Simplified Equipment Registration (SER)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10078)
 - [Special Purpose Station](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10016)
 - [Technical Trial (with use of Frequency)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10072)
