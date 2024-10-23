@@ -19,7 +19,7 @@
         <tr>
             <th style='width: auto;'> <b>From</b> </th>
             <th style='width: auto;'> <b>To</b> </th>
-            <th style='width: auto;'> <b>Remuneration Ceiling</b> </th>
+            <th style='width: auto;'> <b>Wage Ceiling</b> </th>
             <th style='width: auto;'> <b>Rate of Contribution</b> </th>
             <th style='width: auto;'> <b>Minimum Contribution Per Employee</b> </th>
             <th style='width: auto;'> <b>Maximum Contribution Per Employee</b> </th>
@@ -104,13 +104,13 @@
 
         FWL is a levy imposed via the Ministry of Manpower for the administration of foreign workers with work permits.
         
-    - title: If an employer engages a third party agent to pay remuneration on its behalf to its (the employer's) employees, does the employer still have to pay SDL?
+    - title: If an employer engages a third party agent to pay wages on its behalf to its (the employer's) employees, does the employer still have to pay SDL?
       content: |
         Yes. For example, Company A has five employees and is liable to pay wages to those employees. Company A engages a third party agent, Company B, to pay wages to the five employees on its (Company A's) behalf. There is no contractual relationship between Company B and the employees.
 
         In the above scenario, Company A is still required to pay SDL for the five employees, notwithstanding that the wages is paid by Company B on its behalf.
 
-    - title: Is SDL payable for directors or partners for the remuneration paid to them?
+    - title: Is SDL payable for directors or partners for the wages paid to them?
       content: |
         SDL is payable on directors' wages if the director is an employee of the company. SDL is also payable on the wages paid to the employee(s) employed by the partnership. 
  
@@ -180,7 +180,7 @@
   data:
     - title: How do I calculate how much SDL to pay for my employees?
       content: |
-        SDL is payable on the first $4,500 of monthly remuneration at the rate of 0.25%, subject to a minimum of $2. The table below gives an example of how to calculate SDL payable:
+        SDL is payable on the first $4,500 of monthly wages at the rate of 0.25%, subject to a minimum of $2. The table below gives an example of how to calculate SDL payable:
         
         <table>
         <tr>
@@ -245,7 +245,7 @@
 
         For example, if the employee's salary for December is $3,000 and the bonus paid in December is $1,000, SDL should be calculated based on $4,000 ($3,000 +$1,000). SDL payable is $10 ($4,000 x 0.25%).
     
-    - title: How do I calculate SDL for employees who work in Singapore but whose remunerations are paid in foreign currencies?
+    - title: How do I calculate SDL for employees who work in Singapore but whose wages are paid in foreign currencies?
       content: |
         If wages are paid in a foreign currency, the employer should calculate the amount of SDL payable, based on the equivalent value in Singapore dollars.
  
@@ -381,7 +381,7 @@
       content: |
         The figures in the NOA are calculated based on wage data from government records for all your local and foreign employees.
  
-        You may verify your payroll records using the SDL rate of 0.25% of the monthly remuneration* for each employee<sup>*</sup>, with the minimum payable of $2 (for an employee earning less than $800 a month) and a maximum of $11.25 (for an employee earning more than $4,500 a month).
+        You may verify your payroll records using the SDL rate of 0.25% of the monthly total wages* for each employee<sup>*</sup>, with the minimum payable of $2 (for an employee earning less than $800 a month) and a maximum of $11.25 (for an employee earning more than $4,500 a month).
         
         <sup>*</sup> Please refer to the definition of "employee" found in Section 2 of the Skills Development Levy Act 1979.
 
