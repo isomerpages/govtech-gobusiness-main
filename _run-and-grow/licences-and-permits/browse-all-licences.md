@@ -74,7 +74,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Certificate of Freedom From Disease Within Singapore](https://dashboard.gobusiness.gov.sg/task-details/freedomfromdisease)
 - [Free Sale Certificate (Non Food Producing Animal Feed)](https://dashboard.gobusiness.gov.sg/task-details/fea242ac-ffba-4b7b-856f-39ebe0e9f6cf)
 - [Free Sale Certificate (Vaccine)](https://dashboard.gobusiness.gov.sg/task-details/freesalevaccine)
-- [Health Certificate for Export of Ornamental Fish](https://dashboard.gobusiness.gov.sg/task-details/healthcertforexportornamentalfish)
+- [Health Certificate for Export of Ornamental Fish](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201212070000111)
 - [Licence for Animal Exhibition](https://dashboard.gobusiness.gov.sg/task-details/animalexhibition)
 - [Licence for Animal Research Facility](https://dashboard.gobusiness.gov.sg/task-details/animalresearchfacility)
 - [Licence for Pet Shop](https://dashboard.gobusiness.gov.sg/task-details/petshop)
@@ -141,8 +141,8 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Cybersecurity Labelling Scheme for IoT (Level 2)](https://dashboard.gobusiness.gov.sg/task-details/csaiot2)
 - [Cybersecurity Labelling Scheme for IoT (Level 3)](https://dashboard.gobusiness.gov.sg/task-details/csaiot3)
 - [Cybersecurity Labelling Scheme for IoT (Level 4)](https://dashboard.gobusiness.gov.sg/task-details/csaiot4)
-- [Managed Security Operations Centre (SOC) Monitoring Service Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=280)
-- [Penetration Testing Services Licence (PTS)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=278)
+- [Managed Security Operations Centre (SOC) Monitoring Service Licence](https://dashboard.gobusiness.gov.sg/task-details/soc)
+- [Penetration Testing Services Licence (PTS)](https://dashboard.gobusiness.gov.sg/task-details/pts)
 
 <a name="education"></a>
 
