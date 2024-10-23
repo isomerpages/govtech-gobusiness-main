@@ -6,14 +6,6 @@ permalink: /browse-all-solutions-ERP-and-Standalone-solutions/Accting-Mgmt--Inve
 ## Accounting Management, Inventory Management and Sales Management System
 ## Overview
 
-**Description**
-
-Offers a company the ability to manage their accounting process such as general ledger setup, create journal entries, calculate sales tax, cash flow, generate AR / AP reports. 
-
-Offers ability to generate quotations, invoices, purchase orders and generate reports. 
-
-Setup product details for each item group, inventory locations, journal logs, create price groups / discounts, barcode labelling for RFID search and allow integration with Point of Sales (POS) systems.
-
 **Support Level and Conditions**
 
 Up to 50% for SMEs, N.A. for non-SMEs
@@ -36,28 +28,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200918692D-ABSS-Prmr-v-30-G' target='_blank'>ABSS Premier Version 30</a><br></td>
-<td>Andre Corporate Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200603587Z-Mllon-ACC-nd-Stock-Control-Systm-v-3-G' target='_blank'>Million Accounting and Stock Control System Version 3</a><br></td>
-<td>Rockbell International Software Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200106330C-EASPAC-Entrprs-Softwr-v-1011-G' target='_blank'>EASPAC Enterprise Software Version 10.1.1</a><br></td>
 <td>Prosperage Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201206718K-ZETTAPPS-Fnnc-&-Ordr-Procssng-v-45-G' target='_blank'>ZETTAPPS Finance & Order Processing Version 4.5</a><br></td>
 <td>Zetta Solution Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201000122E-Mcrosoft-Dynmcs-365-Busnss-Cntrl-G' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
-<td>AFON Systems Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201009691D-Sg-300Cloud-v-2024-G' target='_blank'>Sage 300Cloud Version 2024</a><br></td>
-<td>ACSOLV CONSULT PTE. LTD.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201117204M-Mcrosoft-Dynmcs-365-Busnss-Cntrl-G' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
@@ -86,10 +62,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/199609132G-Synrgx-Sls,-ACC,-Invntory-G' target='_blank'>Synergix Sales, Accounting, Inventory</a><br></td>
 <td>Synergix Technologies Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199700712E-Glob3-ERP-v-56-G' target='_blank'>Globe3 ERP Version 5.6</a><br></td>
-<td>TNO Systems Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/199204792N-IT-Infnty-Sg-300-v-IT-Infnty-Sg-300-G' target='_blank'>IT Infinity Sage 300 Version IT Infinity Sage 300</a><br></td>
@@ -122,6 +94,22 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201224387N-SAP-Busnss-On-v-100-G' target='_blank'>SAP Business One Version 10.0</a><br></td>
 <td>WINAPP SOLUTIONS PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201007812H-Educ-v-50-G' target='_blank'>Educe Version 5.0</a><br></td>
+<td>Excelforte Software Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201912702K-AM8ZE-ERP-VISTA-v-13-G' target='_blank'>AM8ZE ERP: VISTA Version 13</a><br></td>
+<td>AM8ZE PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201109918E-SAP-Busnss-On-v-10-G' target='_blank'>SAP Business One Version 10</a><br></td>
+<td>Integrated Information Systems Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201000122E-Mcrosoft-Dynmcs-365-Busnss-Cntrl-G' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
+<td>AFON Systems Pte Ltd</td>
 </tr>
 </table>
 

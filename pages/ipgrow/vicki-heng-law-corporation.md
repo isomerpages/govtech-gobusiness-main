@@ -104,6 +104,7 @@ Vicki Heng Law Corporation was established in 2013 as a solo boutique intellectu
 ### Key practice experts
 
 **Vicki Su Lin Hen**
+
 - Job Title: Managing Director
 - Years of Experience: 25 years
 - Location: Singapore

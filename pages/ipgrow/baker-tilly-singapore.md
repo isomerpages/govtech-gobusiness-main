@@ -64,6 +64,7 @@ Baker Tilly Singapore is a leading full-service accounting and advisory firm tha
 ### Key practice experts
 
 **Adrian, Cheow**
+
 - Job Title: Executive Director
 - Years of Experience: 15 years
 - Location: Singapore

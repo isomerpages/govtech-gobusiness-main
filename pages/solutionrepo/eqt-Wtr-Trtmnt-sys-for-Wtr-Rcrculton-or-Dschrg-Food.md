@@ -22,7 +22,7 @@ A system for wastewater treatment to improve the water quality before the water 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Water Treatment System for Water Recirculation or Discharge</td>
 <td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px;'>Holding Period of 1 year</td>
 </tr>
 </table>
 

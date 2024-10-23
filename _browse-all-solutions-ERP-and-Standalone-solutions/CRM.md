@@ -52,10 +52,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Pepper Cloud Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201826102D-TWCSS-G' target='_blank'>TWCSS</a><br></td>
-<td>teamWork APAC Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201705156N-HubSpot-G' target='_blank'>HubSpot</a><br></td>
 <td>Brew Interactive Pte Ltd</td>
 </tr>
@@ -74,6 +70,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201718654M-CARDDIO-v-1-G' target='_blank'>CARDDIO Version 1</a><br></td>
 <td>Carddio Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201808388R-AI-Commrc-G' target='_blank'>AI Commerce</a><br></td>
+<td>VisionTech Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/198800014D-ClndrOn-CRM-SLN-v-27-G' target='_blank'>CalendarOne CRM Solution Version 2.7</a><br></td>
+<td>CalendarOne Pte Ltd</td>
 </tr>
 </table>
 
