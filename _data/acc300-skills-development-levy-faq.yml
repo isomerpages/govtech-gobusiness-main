@@ -9,7 +9,8 @@
 
     - title: How much do I have to contribute for the SDL?
       content: |
-        The SDL payable is at 0.25% of the monthly remuneration for each employee, with the minimum payable of $2 (for an employee earning less than $800 a month) and a maximum of $11.25 (for an employee earning more than $4,500 a month).
+        The SDL payable is at 0.25% of the monthly total wages for each employee, with the minimum payable of $2 (for an employee earning less than $800 a month) and a maximum of $11.25 (for an employee earning more than $4,500 a month).
+
       
     - title: What were the past revisions in SDL? How often will the SDL be adjusted?
       content: |
@@ -18,7 +19,7 @@
         <tr>
             <th style='width: auto;'> <b>From</b> </th>
             <th style='width: auto;'> <b>To</b> </th>
-            <th style='width: auto;'> <b>Remuneration Ceiling</b> </th>
+            <th style='width: auto;'> <b>Wage Ceiling</b> </th>
             <th style='width: auto;'> <b>Rate of Contribution</b> </th>
             <th style='width: auto;'> <b>Minimum Contribution Per Employee</b> </th>
             <th style='width: auto;'> <b>Maximum Contribution Per Employee</b> </th>
@@ -57,7 +58,7 @@
         </tr>
         </table>
 
-        <sup>*</sup> Prior to 1 October 2008, an employer does not have to contribute SDL for employees whose monthly remuneration is above the salary ceiling. However, with effect from 1 October 2008, an employer will have to contribute SDL even if the monthly remuneration exceeds the salary ceiling. This is because the revised SDL regulations stipulate that the contribution is up to the first $4,500 of monthly remuneration.
+        <sup>*</sup>  Prior to 1 October 2008, an employer does not have to contribute SDL for employees whose monthly total wages is above the salary ceiling. However, with effect from 1 October 2008, an employer will have to contribute SDL even if the monthly total wages exceeds the salary ceiling. This is because the revised SDL regulations stipulate that the contribution is up to the first $4,500 of monthly total wages.
 
         <p><sup>#</sup> The legal requirement for SDL contributions by employers was introduced via gazette in Oct 1979. For employers who need to know the rates earlier than 1 July 2000, they may contact SSG for direct assistance.</p>
 
@@ -103,17 +104,17 @@
 
         FWL is a levy imposed via the Ministry of Manpower for the administration of foreign workers with work permits.
         
-    - title: If an employer engages a third party agent to pay remuneration on its behalf to its (the employer's) employees, does the employer still have to pay SDL?
+    - title: If an employer engages a third party agent to pay wages on its behalf to its (the employer's) employees, does the employer still have to pay SDL?
       content: |
-        Yes. For example, Company A has five employees and is liable to pay remuneration to those employees. Company A engages a third party agent, Company B, to pay remuneration to the five employees on its (Company A's) behalf. There is no contractual relationship between Company B and the employees.
+        Yes. For example, Company A has five employees and is liable to pay wages to those employees. Company A engages a third party agent, Company B, to pay wages to the five employees on its (Company A's) behalf. There is no contractual relationship between Company B and the employees.
 
-        In the above scenario, Company A is still required to pay SDL for the five employees, notwithstanding that the remuneration is paid by Company B on its behalf.
+        In the above scenario, Company A is still required to pay SDL for the five employees, notwithstanding that the wages is paid by Company B on its behalf.
 
-    - title: Is SDL payable for directors or partners for the remuneration paid to them?
+    - title: Is SDL payable for directors or partners for the wages paid to them?
       content: |
-        SDL is payable on directors' remuneration if the director is an employee of the company. SDL is also payable on the wages paid to the employee(s) employed by the partnership. 
+        SDL is payable on directors' wages if the director is an employee of the company. SDL is also payable on the wages paid to the employee(s) employed by the partnership. 
  
-        However, SDL is not payable on the fees paid to its directors or remuneration paid to its partners. 
+        However, SDL is not payable on the fees paid to its directors or wages paid to its partners. 
 
     - title: Is a self-employed person required to pay SDL on account of his earnings from his business?
       content: |
@@ -179,12 +180,12 @@
   data:
     - title: How do I calculate how much SDL to pay for my employees?
       content: |
-        SDL is payable on the first $4,500 of monthly remuneration at the rate of 0.25%, subject to a minimum of $2. The table below gives an example of how to calculate SDL payable:
+        SDL is payable on the first $4,500 of monthly wages at the rate of 0.25%, subject to a minimum of $2. The table below gives an example of how to calculate SDL payable:
         
         <table>
         <tr>
             <th style='width: auto;'> <b>Employee</b> </th>
-            <th style='width: auto;'> <b>Monthly Remuneration</b> </th>
+            <th style='width: auto;'> <b>Monthly Wage</b> </th>
             <th style='width: auto;'> <b>SDL Payable</b> </th>
             <th style='width: auto;'> <b>Remarks</b> </th>
         </tr>
@@ -204,13 +205,13 @@
             <td>C</td>
             <td>$2,000.00</td>
             <td>$5</td>
-            <td>0.25% of monthly remuneration</td>
+            <td>0.25% of monthly wage</td>
         </tr>
         <tr>
             <td>D</td>
             <td>$4,500.00</td>
             <td>$11.25</td>
-            <td>0.25% of monthly remuneration</td>
+            <td>0.25% of monthly wage</td>
         </tr>
         <tr>
             <td>E</td>
@@ -240,53 +241,51 @@
 
     - title: How do employers calculate SDL for months with bonus pay-outs or allowances?
       content: |
-        For a month where the employee is paid bonus or allowance, the amount of bonus or allowance is considered as remuneration for that month.
+        For a month where the employee is paid bonus or allowance, the amount of bonus or allowance is considered as wages for that month.
 
         For example, if the employee's salary for December is $3,000 and the bonus paid in December is $1,000, SDL should be calculated based on $4,000 ($3,000 +$1,000). SDL payable is $10 ($4,000 x 0.25%).
     
-    - title: How do I calculate SDL for employees who work in Singapore but whose remunerations are paid in foreign currencies?
+    - title: How do I calculate SDL for employees who work in Singapore but whose wages are paid in foreign currencies?
       content: |
-        If remuneration is paid in a foreign currency, the employer should calculate the amount of SDL payable, based on the equivalent value in Singapore dollars.
-        
-        The remuneration can be converted to Singapore dollars using any of the published exchange rates used by a major local bank.
+        If wages are paid in a foreign currency, the employer should calculate the amount of SDL payable, based on the equivalent value in Singapore dollars.
+ 
+        The wage can be converted to Singapore dollars using any of the published exchange rates used by a major local bank.
 
     - title: How do I calculate SDL for employees who are on paid leave or no-pay leave?
       content: |
-        If the employer pays remuneration to the employee during the period of leave, the amount of SDL payable can be calculated based on that remuneration.
+        If the employer pay wages to the employee during the period of leave, the amount of SDL payable can be calculated based on that wage.
 
-        If the employer does not pay and is not liable to pay remuneration to the employee during the period of leave, then no SDL is payable.
+        If the employer does not pay and is not liable to pay wages to the employee during the period of leave, then no SDL is payable.
 
 - accordion:
   letter: e
   data:
-    - title: When must I make payment for SDL?
+    - title: When must I make payment for the monthly SDL?
       content: |
         Employers are required to pay SDL within 14 days from the end of each month.
 
-    - title: How do I make payment for SDL?
+    - title: How do I make payment for the monthly SDL?
       content: |
         Employers can pay monthly SDL via CPF EZPay or GoBusiness.
 
-        - CPF EZPay. You will be able to use the SDL auto computation feature to compute your employee's SDL payable based on the remuneration information for all Singapore Citizen and Singapore Permanent Resident employees. You will need to input the SDL payable for foreign employees in CPF EZPay. You will only be able to make payment for 1 month per transaction. For more details, please refer to Section - Auto-computation of Skills Development Levy (SDL) via CPF EZPay.
+        - CPF EZPay. You will be able to use the SDL auto computation feature to compute your employee's SDL payable based on the wage information for all Singapore Citizen and Singapore Permanent Resident employees. You will need to input the SDL payable for foreign employees in CPF EZPay. You will only be able to make payment for 1 month per transaction. For more details, please refer to Section - Auto-computation of Skills Development Levy (SDL) via CPF EZPay.
         
         Payment made via CPF Board takes approximately two months for the transaction to be reflected in SSG's records.
 
         Employers making back-payments or with only foreign employees can make payment through SDL payment service on GoBusiness.
-        
+
         Payment made via the GoBusiness will take up to two weeks to be reflected in SSG's records.
-        
+
         If you have received a Notice of Assessment (NOA) or mailer from SSG, do make payments for SDL via GoBusiness by selecting the Relevant Month(s) for the period indicated in the NOA or mailer.
  
     - title: What should I do if I have forgotten to pay, or have been underpaying SDL?
       content: |
-        Employers have to make a back-payment for the whole period that they have not been paying or have been underpaying. They may make payment through SDL payment service on GoBusiness or CPF Board immediately.
+        Employers have to make a back-payment for the whole period that they have not been paying or have been underpaying. They may make payment through SDL payment service on GoBusiness immediately.
+
+        Please ensure to select the Relevant Month(s) for backpayment.
+
+        If you have received a Notice of Assessment (NOA) or mailer from SSG, do make payments for SDL via GoBusiness by selecting the period (for example: start date as 01/01/2023 and end date as 31/12/2023) indicated in the NOA or mailer.
         
-        For GoBusiness, please ensure to select the Relevant Month(s) for backpayment.
-        
-        For CPF EZPay, you will only be able to make backpayment for <u>1 month per transaction.</u>
-        
-        If you have received a Notice of Assessment (NOA) or mailer from SSG, do make payments for SDL via GoBusiness by selecting the Relevant Month(s) for the period indicated in the NOA or mailer.
-    
     - title: What happens if I do not pay SDL on time?
       content: |
         The Skills Development Levy Regulations made under the Skills Development Levy Act 1979 provides for the imposition of a late payment penalty at the rate of 10% per annum of the amount outstanding. Your organisation's eligibility for SkillsFuture Singapore Agency's funding support may also be affected.
@@ -294,7 +293,7 @@
     - title: What SDL-related documents do I need to prepare and keep?
       content: |
         Employers will need to prepare and keep a register containing the following details for every employee:
-        - Employee's full name, gender, age, address, identity card number, nature of employment, rate and amount of remuneration, date of commencement and cessation of employment, and such other records for SkillsFuture Singapore (SSG) to ascertain the levy payable
+        - Employee's full name, gender, age, address, identity card number, nature of employment, rate and amount of wage, date of commencement and cessation of employment, and such other records for SkillsFuture Singapore (SSG) to ascertain the levy payable.
 
         SSG may also request for records such as the CPF Board's Record of Payment (Form 90/90A) as documentary evidence of SDL payment.
 
@@ -311,11 +310,11 @@
   data:
     - title: What is the auto-computation of SDL feature on CPF EZPay?
       content: |
-        Employers who contribute SDL via CPF EZPay, can get their SDL payable automatically calculated for their local employees in the relevant month based on their declared remuneration.
+        Employers who contribute SDL via CPF EZPay, can get their SDL payable automatically calculated for their local employees in the relevant month based on their declared wage.
  
         <img src='/images/sdl-Auto-Computation-1.png' aria-hidden='true'>
           
-        For foreign employees, employers can use SSG's SDL online calculator to work out the SDL contribution and indicate the lump sum payment under the "Skills Development Levy (SDL) - For foreign employees" section in the same transaction.
+        For foreign employees, employers can use SSG's SDL online calculator to work out the actual SDL contribution and indicate the lump sum payment under the "Skills Development Levy (SDL) - For foreign employees" section in the same transaction.
 
         <img src='/images/sdl-Auto-Computation-2.png' aria-hidden='true'>
 
@@ -341,17 +340,11 @@
 
     - title: Can I make back-payments for SDL?
       content: |
-        Employers can make back-payments for SDL directly by [logging in to GoBusiness](https://dashboard.gobusiness.gov.sg){:target="_blank"}{:rel="noopener"}. Head to Levy > Skills Development Levy (SDL) and click on the Make Payment/Declaration button.
+        Employers can make back-payments for SDL directly by [logging in to GoBusiness](https://dashboard.gobusiness.gov.sg){:target="_blank"}{:rel="noopener"}. Head to Levy > Skills Development Levy (SDL) and click on the Make Payment/Declaration button. You may then follow the steps as indicated in our SDL Payment and Declaration (gobusiness.gov.sg) on "How do I make my SDL payment on Gobusiness?".    
         
-        You can also make back-payments for SDL via CPF EZPay. There are 2 options available:
+        Please note that as an employer who is liable to pay SDL, you should keep a proper payment record as SSG may conduct audits. 
         
-        (A) Via Employee Database where the system can auto compute the SDL payable based on the Month Paid For indicated (for relevant month from Oct 2008 onwards only).
-        
-        (B) Via ad hoc CPF payments based on the Month Paid For indicated and there will not be any auto-computation.
-        
-        However, do note that for CPF EZPay, you will only be able to make backpayment for <u>1 month per transaction.</u>
-        
-        If you have received a Notice of Assessment (NOA) or mailer from SSG, do make payments for SDL via GoBusiness by selecting the Relevant Month(s) for the period indicated in the NOA or mailer.
+        If you have received a Notice of Assessment (NOA) or mailer from SSG, do make payments for SDL via GoBusiness by selecting the period (for example start date as 01/01/2023 and end date as 31/12/2023) indicated in the NOA or mailer.
 
     - title: How do I indicate employees who are exempted from SDL?
       content: |
@@ -388,9 +381,9 @@
       content: |
         The figures in the NOA are calculated based on wage data from government records for all your local and foreign employees.
  
-        You may verify your payroll records using the SDL rate of 0.25% of the monthly remuneration* for each employee<sup>*</sup>, with the minimum payable of $2 (for an employee earning less than $800 a month) and a maximum of $11.25 (for an employee earning more than $4,500 a month).
+        You may verify your payroll records using the SDL rate of 0.25% of the monthly total wages* for each employee<sup>*</sup>, with the minimum payable of $2 (for an employee earning less than $800 a month) and a maximum of $11.25 (for an employee earning more than $4,500 a month).
         
-        <sup>*</sup> Please refer to the definition of "remuneration" and “employee” found in Section 2 of the Skills Development Levy Act 1979.
+        <sup>*</sup> Please refer to the definition of "employee" found in Section 2 of the Skills Development Levy Act 1979.
 
     - title: The estimated outstanding SDL payable in the SDL NOA is different from my own records. What should I do?
       content: |
