@@ -52,9 +52,9 @@
 
         Please review your organisation's payroll records to determine the SDL payable for your local and foreign employees and the amount of SDL you have previously paid for the period.
 
-        You may verify your payroll records using the SDL rate of 0.25% of the monthly remuneration<sup>*</sup> for each employee<sup>*</sup>, with the minimum payable of $2 (for an employee earning less than $800 a month) and a maximum of $11.25 (for an employee earning more than $4,500 a month) and calculate the SDL payable amount using the SDL calculator. 
+        You may verify your payroll records using the SDL rate of 0.25% of the monthly total wages for each employee<sup>*</sup>, with the minimum payable of $2 (for an employee earning less than $800 a month) and a maximum of $11.25 (for an employee earning more than $4,500 a month) and calculate the SDL payable amount using the SDL calculator. 
 
-        <sup>*</sup> Please refer to the definition of "remuneration" and “employee” found in Section 2 of the Skills Development Levy Act 1979.
+        <sup>*</sup> Please refer to the definition "employee" found in Section 2 of the Skills Development Levy Act 1979.
 
         If you do not agree with the calculation, you will be able to correct the amount by filling and submitting the "Declaration Form" template via the [SDL Payment & Declaration form](https://dashboard.gobusiness.gov.sg/sdl/make-payment){:target="_blank"}{:rel="noopener"}.
 
@@ -115,7 +115,7 @@
       content: |
         You will need to submit the SDL Declaration Form when your calculated SDL payable differs from the amount stated in our record after receiving a mailer from SSG.
 
-        If you already received a NOA for the period, you will not be able to submit declaration. Instead, please submit an NOO if you do not agree with the amount stated in the NOA. 
+        If you already received a NOA for the period, you will not be able to submit declaration. Instead, please submit an NOO if you do not agree with the amount stated in the NOA. Please do not make payment before receiving an NOO outcome.
 
     - title: The SDL amounts shown is different from my records. What should I do?
       content: |
@@ -149,7 +149,7 @@
 
         To submit a declaration if you disagree with our calculation, you will be able to correct the amount by filling and submitting the Declaration Form template via our SDL Payment & Declaration form.
 
-        To submit an NOO if you disagree with the NOA amount and SSG will review and inform you of the NOO outcome. 
+        To submit an NOO if you disagree with the NOA amount and SSG will review and inform you of the NOO outcome. Please do not make payment before receiving an NOO outcome.
     
     - title: Why do I need to complete the SDL Declaration Form?
       content: |
