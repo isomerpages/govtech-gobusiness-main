@@ -12,10 +12,9 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 
 | **Scheduled Date** | **Remarks** |  
 
-       
-| 11 Oct, 10pm - 12 Oct, 6am<br>12 Oct, 8pm - 13 Oct, 8am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |        
-| 12 Oct, 2pm - 14 Oct, 8am | **All transactions for Registration of Precious Stones and Precious Metals Dealers (MINLAW)** will be unavailable during the upcoming scheduled maintenance. |
-| 14 Oct, 11pm - 15 Oct, 7am | **Application, amendment, renewal & cancellation of Singapore Police Force (SPF) licences** will be unavailable during the upcoming scheduled maintenance. |
+
+         
+| 24 Oct, 10pm - 25 Oct, 4am <br> 25 Oct, 10pm - 26 Oct, 2am | **Progressive Wage (PW) Mark Services** will be unavailable during the upcoming scheduled maintenance. |      
 
 
 
