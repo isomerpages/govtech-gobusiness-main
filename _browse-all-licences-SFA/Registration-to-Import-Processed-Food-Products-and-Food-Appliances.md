@@ -21,7 +21,7 @@ Singapore Food Agency (SFA)
 
 <H3>Application Details</H3>
 
-<p>Registration to Import Processed Food Products and Food Appliances is required if Traders involve in the import of processed food (not containing meat and fish products, fresh fruits and vegetables) and food appliances.<br /><br />Licence Pre-requisites :<br />1.Top Up CPF Medisave.<br />2.Activate UEN with Singapore Customs.<br />3.Submit original GIRO form.</p>
+<p>Registration to Import Processed Food Products and Food Appliances is required if Traders involve in the import of processed food (not containing meat and fish products, fresh fruits and vegetables) and food appliances.<br /><br />Licence Pre-requisites :<br />1.Top Up CPF MediSave.<br />2.Activate UEN with Singapore Customs.<br />3.Submit original GIRO form.</p>
 <h3>FAQs</h3>
 <ol>
 <li><strong>Where can I get more information for registration to import processed food and food appliances (Excluding meat and fish products, fresh fruits and vegetables)?</strong> <br />You can find more information on <a href="https://www.sfa.gov.sg/food-import-export/conditions-for-specific-types-of-food-for-import" target="_blank" rel="noopener">SFA website</a>.</li>
