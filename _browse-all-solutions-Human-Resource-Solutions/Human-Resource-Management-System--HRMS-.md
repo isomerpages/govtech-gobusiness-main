@@ -36,14 +36,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>AG NET PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201324947N-QuckHR-G' target='_blank'>QuickHR</a><br></td>
-<td>Enable Business Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200202453M-ASURIX-HRMS-G' target='_blank'>ASURIX HRMS</a><br></td>
-<td>Net Solutions Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/51322500E-TIME-ACCESS-HRMS-v-V20-G' target='_blank'>TIME ACCESS HRMS Version V2.0</a><br></td>
 <td>TIME ACCESS INTERNATIONAL</td>
 </tr>
@@ -114,6 +106,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201700241Z-cutOffc-ERP-v-20-G' target='_blank'>cuteOffice ERP Version 2.0</a><br></td>
 <td>Cute Infocomm Solutions Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201838899G-Brohr-HR-MGT-Systm-G' target='_blank'>Briohr Human Resource Management System</a><br></td>
+<td>BRIOHR PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201114849R-PyAdvsorMobl-HRMS-v-3-G' target='_blank'>PayAdvisorMobile HRMS Version 3</a><br></td>
+<td>CAPPS SOLUTIONS PTE. LTD.</td>
 </tr>
 </table>
 

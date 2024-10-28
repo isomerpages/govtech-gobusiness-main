@@ -40,14 +40,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Brew Interactive Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201920974R-DM-Crft-Crtv-Dgtl-Mrktng-PKG-G' target='_blank'>DM Craft Creative Digital Marketing Packages</a><br></td>
-<td>Craft Creative Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201215396N-DM-I-Concpt-Innovton-Dgtl-Mrktng-v-10-G' target='_blank'>DM I Concept Innovation Digital Marketing Version 1.0</a><br></td>
-<td>I Concept Innovation Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200715471C-DM-Idntty-Counsl-Dgtl-Mrktng-PKG-G' target='_blank'>DM Identity Counsel Digital Marketing Packages</a><br></td>
 <td>IDENTITY COUNSEL PTE LTD</td>
 </tr>
@@ -116,18 +108,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Etereo Group Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200908223H-DM-Vrz-Dsgn-Dgtl-Mrktng-Pckg-G' target='_blank'>DM Verz Design Digital Marketing Package</a><br></td>
-<td>Verz Design Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201916250E-DM-GENIA-SEMANTIC-SEO-G' target='_blank'>DM GENIA SEMANTIC SEO</a><br></td>
-<td>THE GENIA PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201930699K-DM-Socl-Md-Mrktng-Brnd-Awrnss-&-Ld-Gnrton-G' target='_blank'>DM Social Media Marketing (Brand Awareness & Lead Generation)</a><br></td>
-<td>W.L.P CONSULTANTS PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200200017N-DM-Crtv-EWorld-Dgtl-Mrktng-PKG-G' target='_blank'>DM Creative E-World Digital Marketing Packages</a><br></td>
 <td>Creative eWorld Pte Ltd</td>
 </tr>
@@ -156,10 +136,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Impossible Marketing Services Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201936773M-DM-Bst-SEO-Dgtl-Mrktng-PKG-v-1-G' target='_blank'>DM Best SEO Digital Marketing Packages Version 1</a><br></td>
-<td>Best Marketing Agency Pte Ltd f.k.a Best SEO Marketing Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201834121D-DM-WECOFA-Dgtl-Mrktng-PKG-G' target='_blank'>DM WECOFA Digital Marketing Packages</a><br></td>
 <td>WECOFA PTE LTD</td>
 </tr>
@@ -178,10 +154,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201134148Z-DM-Clck-Md-Dgtl-Mrktng-PKG-G' target='_blank'>DM iClick Media Digital Marketing Packages</a><br></td>
 <td>iClick Media Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202205403H-DM-Bluhv-CST-Dgtl-Mrktng-PKG-v-22-32-G' target='_blank'>DM Bluehive Consulting Digital Marketing Packages Version 22 - 3.2</a><br></td>
-<td>Bluehive Consulting Asia Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201900904K-DM-Dgtl-M-Dgtl-Mrktng-PKG-v-01-G' target='_blank'>DM Digital M Digital Marketing Packages Version 0.1</a><br></td>
@@ -220,8 +192,16 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>BENCHMARKING PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200914055M-DM-Th-Lttl-Blck-Book-Socl-Md-Dgtl-Mrktng-Pckg-G' target='_blank'>DM The Little Black Book Social Media Digital Marketing Package</a><br></td>
-<td>The Little Black Book Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201832282M-DM-QIANYI-TRADING-TIKTOK-DIGITAL-MARKETING-SLN-G' target='_blank'>DM QIANYI TRADING TIKTOK DIGITAL MARKETING SOLUTION</a><br></td>
+<td>QIANYI TRADING PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202205403H-DM-Bluhv-CST-Dgtl-Mrktng-PKG-v-22-32-G' target='_blank'>DM Bluehive Consulting Digital Marketing Packages Version 22 - 3.2</a><br></td>
+<td>Bluehive Consulting Asia Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201713785N-DM-APEC-SLNS-DIGITAL-MARKETING-PACKAGES-G' target='_blank'>DM APEC SOLUTIONS DIGITAL MARKETING PACKAGES</a><br></td>
+<td>APEC SOLUTIONS PTE. LTD.</td>
 </tr>
 </table>
 

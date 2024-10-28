@@ -86,7 +86,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Licence to Treat Animals and Birds](https://dashboard.gobusiness.gov.sg/task-details/treatanimalsandbirds)
 - [Registration to Import Feed for Non-food producing animals](https://dashboard.gobusiness.gov.sg/task-details/importfeedfornonfoodproducinganimals)
 - [Registration to Import Live Frogs for Ornamental Fish Feeding Only](https://dashboard.gobusiness.gov.sg/task-details/importfrogforornamentalfish)
-- [Veterinary Certificate](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201212070000113)
+- [Veterinary Certificate for Non-Food Animals](https://dashboard.gobusiness.gov.sg/task-details/vetcertnonfood)
 
 <a name="arts-media"></a>
 
@@ -141,8 +141,8 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Cybersecurity Labelling Scheme for IoT (Level 2)](https://dashboard.gobusiness.gov.sg/task-details/csaiot2)
 - [Cybersecurity Labelling Scheme for IoT (Level 3)](https://dashboard.gobusiness.gov.sg/task-details/csaiot3)
 - [Cybersecurity Labelling Scheme for IoT (Level 4)](https://dashboard.gobusiness.gov.sg/task-details/csaiot4)
-- [Managed Security Operations Centre (SOC) Monitoring Service Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=280)
-- [Penetration Testing Services Licence (PTS)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=278)
+- [Managed Security Operations Centre (SOC) Monitoring Service Licence](https://dashboard.gobusiness.gov.sg/task-details/soc)
+- [Penetration Testing Services Licence (PTS)](https://dashboard.gobusiness.gov.sg/task-details/pts)
 
 <a name="education"></a>
 
@@ -154,7 +154,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Islamic Education Centres and Providers Registration](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=234)
 - [Registration of Private Education Institutions](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=35)
 
-<a name="#employment-and-labour-services"></a>
+<a name="employment-and-labour-services"></a>
 
 ## Employment & Labour Services
 - [Employment Agency Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=55)
@@ -162,7 +162,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Foreign Employee Dormitories Act Licence](https://dashboard.gobusiness.gov.sg/task-details/feda)
 - [Work passes and permits](https://www.mom.gov.sg/passes-and-permits)
 
-<a name="#explosives-and-arms"></a>
+<a name="explosives-and-arms"></a>
 
 ## Explosives & Arms
 - [Approval for a Blasting Operation](https://dashboard.gobusiness.gov.sg/task-details/6f74b664-d42b-46ec-9b49-8e6605865e0f)
@@ -212,8 +212,8 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Lodgement of Minor Addition / Alteration Works (Minor A&A)](https://www.scdf.gov.sg/home/fire-safety/plans-and-consultations/minor-addition-alteration-works)
 - [Petroleum / Flammable Materials Storage Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=22)
 - [Petroleum / Flammable Materials Transportation Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=17)
-- [Petroleum & Flammable Material Import Licence](https://eservices1.scdf.gov.sg/fisops/SCDF-ESERVICES.action?app=FMIBAPP)
-- [Petroleum & Flammable Material Pipeline Licence](https://eservices1.scdf.gov.sg/fisops/SCDF-ESERVICES.action?app=FMPBAPP)
+- [Petroleum & Flammable Material Import Licence](https://eservices.scdf.gov.sg/fisops/pfm-import-licence)
+- [Petroleum & Flammable Material Pipeline Licence](https://eservices.scdf.gov.sg/fisops/pfm-pipeline-licence)
 - [Plan Approval for Fire Safety Works](https://www.scdf.gov.sg/home/fire-safety/plans-and-consultations/plan-approval)
 - [Submission Requirements to SCDF for Rooftop Solar PV Installation](https://corenet.gov.sg/general/e-info.aspx)
 - [Temporary Change of Use Permit](https://dashboard.gobusiness.gov.sg/task-details/temporarychangeofusepermit)
@@ -323,10 +323,10 @@ Select an industry to see a list of relevant licences here. You can also browse 
 
 ## Others
 - [Certificate of Registration and Hotel-keeper's Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=3)
-- [Company Registration (CR)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=272)
+- [Company Registration (CR)](https://dashboard.gobusiness.gov.sg/task-details/cnb-company-registration)
 - [Licence for Residential Care Facilities](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10063)
 - [Licence to Supply Professional Engineering Services](https://www.peb.gov.sg/lc_commonqueries.aspx)
-- [Permit Administration and Control System(PATROL)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=271)
+- [Permit Administration and Control System (PATROL)](https://dashboard.gobusiness.gov.sg/task-details/cnb-patrol)
 - [Registration of Precious Stones and Precious Metals Dealers](https://dashboard.gobusiness.gov.sg/task-details/psmd)
 - [Registry of Societies](https://www.mha.gov.sg/mha-e-services/ros/registered-societies)
 - [Representative Office](https://dashboard.gobusiness.gov.sg/task-details/roms)
@@ -428,7 +428,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Aquatic Facility Licence](https://dashboard.gobusiness.gov.sg/task-details/aquaticfacilitylicence)
 - [CITES Permit](https://dashboard.gobusiness.gov.sg/task-details/cites)
 - [Cleaning Business Licence](https://dashboard.gobusiness.gov.sg/task-details/cleaningbusinesslicence)
-- [Electricity Generation](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=284)
+- [Electricity Generation](https://dashboard.gobusiness.gov.sg/task-details/electricitygeneration)
 - [Electricity Retailer](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=281)
 - [Electricity Wholesaler](https://dashboard.gobusiness.gov.sg/task-details/electricitywholesaler)
 - [Environmental Control Coordinator Certificate of Registration](https://dashboard.gobusiness.gov.sg/task-details/environmentalcontrolcoordinator)
@@ -454,7 +454,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [N3 - Licence to use laser](https://dashboard.gobusiness.gov.sg/task-details/n3)
 - [N4A/B - Licence to import or export a consignment of non-ionising radiation irradiating apparatus](https://dashboard.gobusiness.gov.sg/task-details/n4)
 - [Non-CITES Certificate](https://dashboard.gobusiness.gov.sg/task-details/noncites)
-- [Phytosanitary Certification](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201212070000112)
+- [Phytosanitary Certification](https://dashboard.gobusiness.gov.sg/task-details/phytosanitarycertification)
 - [Plumber Licence](https://dashboard.gobusiness.gov.sg/task-details/plumberlicence)
 - [Pre-signed CITES Permit](https://dashboard.gobusiness.gov.sg/task-details/presignedcites)
 - [Pre-signed non-CITES Certificate](https://dashboard.gobusiness.gov.sg/task-details/presignednoncites)
