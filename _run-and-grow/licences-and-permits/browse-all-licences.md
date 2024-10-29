@@ -157,7 +157,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 <a name="employment-and-labour-services"></a>
 
 ## Employment & Labour Services
-- [Employment Agency Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=55)
+- [Employment Agency Licence](https://dashboard.gobusiness.gov.sg/task-details/employmentagency)
 - [Factory Notification and Registration](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=54)
 - [Foreign Employee Dormitories Act Licence](https://dashboard.gobusiness.gov.sg/task-details/feda)
 - [Work passes and permits](https://www.mom.gov.sg/passes-and-permits)
