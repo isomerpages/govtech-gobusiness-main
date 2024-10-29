@@ -157,7 +157,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 <a name="employment-and-labour-services"></a>
 
 ## Employment & Labour Services
-- [Employment Agency Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=55)
+- [Employment Agency Licence](https://dashboard.gobusiness.gov.sg/task-details/employmentagency)
 - [Factory Notification and Registration](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=54)
 - [Foreign Employee Dormitories Act Licence](https://dashboard.gobusiness.gov.sg/task-details/feda)
 - [Work passes and permits](https://www.mom.gov.sg/passes-and-permits)
@@ -330,7 +330,10 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Registration of Precious Stones and Precious Metals Dealers](https://dashboard.gobusiness.gov.sg/task-details/psmd)
 - [Registry of Societies](https://www.mha.gov.sg/mha-e-services/ros/registered-societies)
 - [Representative Office](https://dashboard.gobusiness.gov.sg/task-details/roms)
-- [Rubber Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=39)
+- [Rubber Licence (Dealer)](https://dashboard.gobusiness.gov.sg/task-details/rubberdealerlicence)
+- [Rubber Licence (Manufacturer)](https://dashboard.gobusiness.gov.sg/task-details/rubbermanufacturerlicence)
+- [Rubber Licence (Packer)](https://dashboard.gobusiness.gov.sg/task-details/rubberpackerlicence)
+- [Rubber Licence (Shipper)](https://dashboard.gobusiness.gov.sg/task-details/rubbershipperlicence)
 - [Secondhand Goods and Dealers Licence](https://www.police.gov.sg/e-Services/Police-Licences/Secondhand-Goods-Dealers-Licence)
 - [Tobacco Retail Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=56)
 - [Ticket Payment Service Licence (TPSL)](https://dashboard.gobusiness.gov.sg/task-details/tpsl)
