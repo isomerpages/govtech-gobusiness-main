@@ -74,7 +74,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Certificate of Freedom From Disease Within Singapore](https://dashboard.gobusiness.gov.sg/task-details/freedomfromdisease)
 - [Free Sale Certificate (Non Food Producing Animal Feed)](https://dashboard.gobusiness.gov.sg/task-details/fea242ac-ffba-4b7b-856f-39ebe0e9f6cf)
 - [Free Sale Certificate (Vaccine)](https://dashboard.gobusiness.gov.sg/task-details/freesalevaccine)
-- [Health Certificate for Export of Ornamental Fish](https://dashboard.gobusiness.gov.sg/task-details/healthcertforexportornamentalfish)
+- [Health Certificate for Export of Ornamental Fish](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201212070000111)
 - [Licence for Animal Exhibition](https://dashboard.gobusiness.gov.sg/task-details/animalexhibition)
 - [Licence for Animal Research Facility](https://dashboard.gobusiness.gov.sg/task-details/animalresearchfacility)
 - [Licence for Pet Shop](https://dashboard.gobusiness.gov.sg/task-details/petshop)
@@ -141,8 +141,8 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Cybersecurity Labelling Scheme for IoT (Level 2)](https://dashboard.gobusiness.gov.sg/task-details/csaiot2)
 - [Cybersecurity Labelling Scheme for IoT (Level 3)](https://dashboard.gobusiness.gov.sg/task-details/csaiot3)
 - [Cybersecurity Labelling Scheme for IoT (Level 4)](https://dashboard.gobusiness.gov.sg/task-details/csaiot4)
-- [Managed Security Operations Centre (SOC) Monitoring Service Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=280)
-- [Penetration Testing Services Licence (PTS)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=278)
+- [Managed Security Operations Centre (SOC) Monitoring Service Licence](https://dashboard.gobusiness.gov.sg/task-details/soc)
+- [Penetration Testing Services Licence (PTS)](https://dashboard.gobusiness.gov.sg/task-details/pts)
 
 <a name="education"></a>
 
@@ -157,7 +157,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 <a name="employment-and-labour-services"></a>
 
 ## Employment & Labour Services
-- [Employment Agency Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=55)
+- [Employment Agency Licence](https://dashboard.gobusiness.gov.sg/task-details/employmentagency)
 - [Factory Notification and Registration](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=54)
 - [Foreign Employee Dormitories Act Licence](https://dashboard.gobusiness.gov.sg/task-details/feda)
 - [Work passes and permits](https://www.mom.gov.sg/passes-and-permits)
@@ -330,7 +330,10 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Registration of Precious Stones and Precious Metals Dealers](https://dashboard.gobusiness.gov.sg/task-details/psmd)
 - [Registry of Societies](https://www.mha.gov.sg/mha-e-services/ros/registered-societies)
 - [Representative Office](https://dashboard.gobusiness.gov.sg/task-details/roms)
-- [Rubber Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=39)
+- [Rubber Licence (Dealer)](https://dashboard.gobusiness.gov.sg/task-details/rubberdealerlicence)
+- [Rubber Licence (Manufacturer)](https://dashboard.gobusiness.gov.sg/task-details/rubbermanufacturerlicence)
+- [Rubber Licence (Packer)](https://dashboard.gobusiness.gov.sg/task-details/rubberpackerlicence)
+- [Rubber Licence (Shipper)](https://dashboard.gobusiness.gov.sg/task-details/rubbershipperlicence)
 - [Secondhand Goods and Dealers Licence](https://www.police.gov.sg/e-Services/Police-Licences/Secondhand-Goods-Dealers-Licence)
 - [Tobacco Retail Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=56)
 - [Ticket Payment Service Licence (TPSL)](https://dashboard.gobusiness.gov.sg/task-details/tpsl)
@@ -454,7 +457,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [N3 - Licence to use laser](https://dashboard.gobusiness.gov.sg/task-details/n3)
 - [N4A/B - Licence to import or export a consignment of non-ionising radiation irradiating apparatus](https://dashboard.gobusiness.gov.sg/task-details/n4)
 - [Non-CITES Certificate](https://dashboard.gobusiness.gov.sg/task-details/noncites)
-- [Phytosanitary Certification](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201212070000112)
+- [Phytosanitary Certification](https://dashboard.gobusiness.gov.sg/task-details/phytosanitarycertification)
 - [Plumber Licence](https://dashboard.gobusiness.gov.sg/task-details/plumberlicence)
 - [Pre-signed CITES Permit](https://dashboard.gobusiness.gov.sg/task-details/presignedcites)
 - [Pre-signed non-CITES Certificate](https://dashboard.gobusiness.gov.sg/task-details/presignednoncites)

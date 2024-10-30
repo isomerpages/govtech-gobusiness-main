@@ -43,6 +43,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/199400358M-Autodsk-AEC-Collcton-BC' target='_blank'>Autodesk AEC Collection</a><br></td>
 <td>INNOCOM TECHNOLOGIES PTE LTD </td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201001004D-Tkl-BC' target='_blank'>Tekla</a><br></td>
+<td>Trimble Solutions SEA Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
