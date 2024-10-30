@@ -14,9 +14,11 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 
 
          
-| 24 Oct, 10pm - 25 Oct, 4am <br> 25 Oct, 10pm - 26 Oct, 2am | **Progressive Wage (PW) Mark Services** will be unavailable during the upcoming scheduled maintenance. |      
-| 25 Oct, 10pm - 26 Oct, 6am<br>26 Oct, 10pm - 27 Oct, 8am | GoBusiness Licensing will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |    
-| 25 Oct, 7pm - 28 Oct, 6am | All transactions for these NPARKS licences will be unavailable due to scheduled maintenance.<br>1) Phytosanitary Certification<br>2) Export Health Certificate for Ornamental Fish
+| 30 Oct, 6pm - 11:59pm | Application, amendment, renewal & cancellation of National Environmental Agency (NEA) licences will be unavailable during the upcoming scheduled maintenance. |     
+| 30 Oct, 7:15pm - 9:15pm | Application, amendment, renewal & cancellation of Singapore Police Force (SPF) licences will be unavailable during the upcoming scheduled maintenance. |      
+| 30 Oct, 8pm - 11pm | Application, amendment, renewal & cancellation of Infocomm Media Development Authority (IMDA) licences will be unavailable during the upcoming scheduled maintenance. |      
+| 2 Nov, 8pm - 3 Nov, 2pm<br>8 Nov, 10pm - 9 Nov, 6am | GoBusiness Licensing will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |    
+
 
 
 
