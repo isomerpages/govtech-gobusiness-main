@@ -71,7 +71,7 @@ Pureprofile is a global data and insights organization listed in Australian Secu
 <a name='case-studies'></a>
 ### Case studies
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> [case study 1] (https://business.pureprofile.com/client-success-severo/)</li><li style='line-height: 27px; margin: 0px 0px !important'>[case study 2] (https://business.pureprofile.com/client-success-umami-meats/)</li><li style='line-height: 27px; margin: 0px 0px !important'>[case study 3] (https://business.pureprofile.com/client-success-vitaco-health/)</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> [case study 1](https://business.pureprofile.com/client-success-severo/)</li><li style='line-height: 27px; margin: 0px 0px !important'>[case study 2](https://business.pureprofile.com/client-success-umami-meats/)</li><li style='line-height: 27px; margin: 0px 0px !important'>[case study 3](https://business.pureprofile.com/client-success-vitaco-health/)</li></ul>
 
 ---
 <a name='key-practice-experts'></a>
@@ -114,7 +114,7 @@ Pureprofile is a global data and insights organization listed in Australian Secu
 - Location: Indonesia
 - IA/IP-Related Expertise: Branding Strategy, Innovation Consultancy
 - Certifications/Qualifications: ISO 20252:2019 - Market, Opinion & Social Research, ISO 27001:2022 - Information Security Management
-- URL of LinkedIn/Company Profile: [https://business.pureprofile.com] (https://business.pureprofile.com)  
+- URL of LinkedIn/Company Profile: [https://business.pureprofile.com](https://business.pureprofile.com)  
 
 
 ---
