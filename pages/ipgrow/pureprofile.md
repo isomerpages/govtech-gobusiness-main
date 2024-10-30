@@ -77,7 +77,7 @@ Pureprofile is a global data and insights organization listed in Australian Secu
 <a name='key-practice-experts'></a>
 ### Key practice experts
 
-** Candice, Siu **
+**Candice, Siu**
 
 - Job Title: Client Solutions Director 
 - Years of Experience: 22 years
