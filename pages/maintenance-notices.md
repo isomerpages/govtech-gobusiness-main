@@ -13,9 +13,11 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 | **Scheduled Date** | **Remarks** |  
 
 
-| 18 Oct, 7pm - 19 Oct, 7pm | **NPARKS SFA account signup form** will be unavailable during the upcoming scheduled maintenance. |      
-| 18 Oct, 10pm - 19 Oct, 6am<br>19 Oct, 10pm - 20 Oct, 8am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |       
- 
+         
+| 24 Oct, 10pm - 25 Oct, 4am <br> 25 Oct, 10pm - 26 Oct, 2am | **Progressive Wage (PW) Mark Services** will be unavailable during the upcoming scheduled maintenance. |      
+| 25 Oct, 10pm - 26 Oct, 6am<br>26 Oct, 10pm - 27 Oct, 8am | GoBusiness Licensing will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |    
+| 25 Oct, 7pm - 28 Oct, 6am | All transactions for these NPARKS licences will be unavailable due to scheduled maintenance.<br>1) Phytosanitary Certification<br>2) Export Health Certificate for Ornamental Fish
+
 
 
 <script src="/jquery/jquery.min.js"></script> <script src="/jquery/resize-tables.js"></script>
