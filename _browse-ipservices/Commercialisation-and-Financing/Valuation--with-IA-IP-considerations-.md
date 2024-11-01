@@ -23,11 +23,26 @@ One major benefit of valuation services that incorporate IA/IP considerations is
 ---
 
 ### Connect with relevant service providers for valuation services (with IA/IP considerations)
-**34 service providers listed.**
+**35 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
 {% include panels-featurelink-ipgrow.html ipTitle="valuation (with IA/IP considerations)" secondTitle="IP NIL" %}
+
+#### Crowe Singapore
+
+Crowe Singapore is an award-winning firm and a member of Crowe Global, a top 10 accounting network.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> Above 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/653f083287c0d900122f6413' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/crowe-singapore/){:target='_blank'}
+
+---
 
 #### EverEdge Global
 
@@ -102,6 +117,21 @@ Brand Finance is the world's leading brand valuation consultancy.
 </ul>
 
 <a class='btn' href='https://form.gov.sg/66860a3d16e5c60fb729e36e' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/brand-finance/){:target='_blank'}
+
+---
+
+#### TEE IP Pte Ltd
+
+TEE IP offers all types of local and overseas IP services: registration, litigation and valuation.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 36 to 40</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $5,000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/6719ac432086da02f5d93e87' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/tee-ip-pte-ltd/){:target='_blank'}
 
 ---
 
@@ -224,6 +254,21 @@ The leading independent provider of risk and financial advisory solutions.
 </ul>
 
 <a class='btn' href='https://form.gov.sg/64fad1c58b895900114ff0c0' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/kroll/){:target='_blank'}
+
+---
+
+#### Spring Galaxy 
+
+Spring Galaxy is a specialist business and IP valuation and strategic advisory services provider.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 11 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/64fed5662bf4c800120462ef' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/spring-galaxy/){:target='_blank'}
 
 ---
 
@@ -475,21 +520,6 @@ Dedicated specialists in valuation & M&A delivering value.
 
 ---
 
-#### Spring Galaxy 
-
-Spring Galaxy is a specialist business and IP valuation and strategic advisory services provider.
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 11 to 15</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/64fed5662bf4c800120462ef' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/spring-galaxy/){:target='_blank'}
-
----
-
 #### Nexia Solutions Pte Ltd
 
 Audit, assurance, tax, valuation, risk and governance, corporate recovery, IT infrastructure.
@@ -533,21 +563,6 @@ We help enhance the value of IP & Brand through driving growth, competitiveness 
 </ul>
 
 <a class='btn' href='https://form.gov.sg/66e24216aa83de55f6f2bdea' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/acorn-management-consulting-pte-ltd/){:target='_blank'}
-
----
-
-#### Crowe Singapore
-
-Crowe Singapore is an award-winning firm and a member of Crowe Global, a top 10 accounting network.
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> Above 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/653f083287c0d900122f6413' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/crowe-singapore/){:target='_blank'}
 
 ---
 

@@ -32,22 +32,6 @@ Select a service provider below to view their profile and connect with them.
 
 {% include panels-featurelink-ipgrow.html ipTitle="IP portfolio management" secondTitle="IP portfolio management" %}
 
-#### Acorn Management Consulting Pte Ltd
-
-We help enhance the value of IP & Brand through driving growth, competitiveness & profitability.
-
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1,200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/66e24216aa83de55f6f2bdea' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/acorn-management-consulting-pte-ltd/){:target='_blank'}
-
----
-
 #### Gateway Law Corporation
 
 A regional legal practice with a focus in IP & technology, litigation, corporate & commercial law.
@@ -121,22 +105,6 @@ Dentons Rodyk offers clients a full suite of legal services to do business local
 </ul>
 
 <a class='btn' href='https://form.gov.sg/643f4f02f643c40012dae38b' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/dentons-rodyk-davidson-llp/){:target='_blank'}
-
----
-
-#### Joseph Tan Jude Benny
-
-JTJB is an award-winning law firm recognised by the major international legal directories.
-
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 36 to 40</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $350</li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/670748b61b2ec7e0b48859fa' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/joseph-tan-jude-benny/){:target='_blank'}
 
 ---
 
@@ -446,6 +414,22 @@ We help our clients protect, manage, and commercialise their intellectual proper
 </ul>
 
 <a class='btn' href='https://form.gov.sg/643f94f9f643c40012e624cf' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/thatlegal-llc/){:target='_blank'}
+
+---
+
+#### Joseph Tan Jude Benny
+
+JTJB is an award-winning law firm recognised by the major international legal directories.
+
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 36 to 40</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $350</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/670748b61b2ec7e0b48859fa' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/joseph-tan-jude-benny/){:target='_blank'}
 
 ---
 
@@ -830,6 +814,22 @@ Strategic, commercially focused patent and FTO advice for the pharmaceutical/bio
 </ul>
 
 <a class='btn' href='https://form.gov.sg/6678de4e1927e2b0d7df7cba' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/sterling-ip/){:target='_blank'}
+
+---
+
+#### Acorn Management Consulting Pte Ltd
+
+We help enhance the value of IP & Brand through driving growth, competitiveness & profitability.
+
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1,200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/66e24216aa83de55f6f2bdea' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/acorn-management-consulting-pte-ltd/){:target='_blank'}
 
 ---
 
