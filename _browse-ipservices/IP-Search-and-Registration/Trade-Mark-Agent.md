@@ -24,7 +24,7 @@ The scope of protection provided by a trade mark relies heavily on how the mark 
 ---
 
 ### Connect with relevant service providers for trade mark agent
-**75 service providers listed.**
+**76 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -138,22 +138,6 @@ Bird & Bird ATMD is a leading full-service Singapore law firm in association wit
 
 ---
 
-#### Joseph Tan Jude Benny
-
-JTJB is an award-winning law firm recognised by the major international legal directories.
-
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 250</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $500</li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/670748b61b2ec7e0b48859fa' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/joseph-tan-jude-benny/){:target='_blank'}
-
----
-
 #### IPHub Asia
 
 Our name says it all - an IP hub providing Asia-wide coverage with a strong focus on Southeast Asia.
@@ -170,22 +154,6 @@ Our name says it all - an IP hub providing Asia-wide coverage with a strong focu
 
 ---
 
-#### Adsan Law LLC
-
-Adsan Law LLC, an established law corporation, provides a comprehensive range of legal services.
-
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 250</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $500</li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/67048a6d43898c3913271472' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/adsan-law-llc/){:target='_blank'}
-
----
-
 #### That.Legal LLC
 
 We help our clients protect, manage, and commercialise their intellectual property assets.
@@ -199,6 +167,21 @@ We help our clients protect, manage, and commercialise their intellectual proper
 </ul>
 
 <a class='btn' href='https://form.gov.sg/643f94f9f643c40012e624cf' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/thatlegal-llc/){:target='_blank'}
+
+---
+
+#### TEE IP Pte Ltd
+
+TEE IP offers all types of local and overseas IP services: registration, litigation and valuation.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1001 to 1250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $100</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/6719ac432086da02f5d93e87' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/tee-ip-pte-ltd/){:target='_blank'}
 
 ---
 
@@ -1183,6 +1166,38 @@ We believe that Business comes before Law, and we collaborate with others who sh
 </ul>
 
 <a class='btn' href='https://form.gov.sg/66f12ce092186338ff6f257e' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/vanillalaw-llc/){:target='_blank'}
+
+---
+
+#### Joseph Tan Jude Benny
+
+JTJB is an award-winning law firm recognised by the major international legal directories.
+
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $500</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/670748b61b2ec7e0b48859fa' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/joseph-tan-jude-benny/){:target='_blank'}
+
+---
+
+#### Adsan Law LLC
+
+Adsan Law LLC, an established law corporation, provides a comprehensive range of legal services.
+
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $500</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/67048a6d43898c3913271472' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/adsan-law-llc/){:target='_blank'}
 
 ---
 
