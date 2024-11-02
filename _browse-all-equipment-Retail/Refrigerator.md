@@ -34,28 +34,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - ACAL - ACAL-157FG
 - ACAL - ACAL-2UFG
 - ACAL - ACAL-4UFG
-- A-COOL - 260
-- A-COOL - 2DB
-- A-COOL - 2DBB
-- A-COOL - 2DT
-- A-COOL - 2DTF
-- A-COOL - 2DTT
-- A-COOL - 2SDBB
-- A-COOL - 370
-- A-COOL - 3DB
-- A-COOL - 3DBB
-- A-COOL - 3DT
-- A-COOL - 3DTF
-- A-COOL - 430L
-- A-COOL - 4DT
-- A-COOL - 4DTF
-- A-COOL - 530
-- A-COOL - SCPI-1220CH20
-- A-COOL - SCPI-1830CH20
-- A-COOL - SCPI-915CH20
-- A-COOL - SDW-200
-- A-COOL - SIVMC-6
-- A-COOL - SIVMC-8
 - ALAN - A-CAKE-120-3-A-IV
 - ALAN - A-CAKE-120-4-A-IV
 - ALAN - A-CAKE-150-3-A-IV
@@ -84,8 +62,12 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - ARCTICOOL  - EG1500F (600)
 - ARCTICOOL  - EG1800F
 - ARCTICOOL  - EG1800F (600)
+- Berjaya - 1DDC-IV-WB
+- Berjaya - 1DDF-IV-WB
 - Berjaya - 2DC4-IV-Z
 - Berjaya - 2DC5-IV-Z
+- Berjaya - 2DDF-IV-WB
+- Berjaya - 2DF4-IV-Z
 - Berjaya - 2DUC-IV-Z
 - Berjaya - 2DUF-IV-Z
 - Berjaya - 3DC7-IV-Z
@@ -95,6 +77,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Berjaya - 4DUC-IV-Z
 - Berjaya - 4DUF-IV-Z
 - Berjaya - 6DUC-IV-Z
+- Berjaya - 6DUF-IV-Z
 - Berjaya - B3DC7-IV-BD-7
 - Berjaya - B3DC7-IV-SM7
 - Bosch  - KFN96PX91I
@@ -358,8 +341,14 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Fisher & Paykel - RS6019S3RH1
 - Fisher & Paykel - RS6121SLK1
 - Fisher & Paykel - RS6121SRK1
+- Fisher & Paykel - RS6121W
+- Fisher & Paykel - RS6121WLUE1
+- Fisher & Paykel - RS6121WRUE1
 - Fisher & Paykel - RS7621SLK1
 - Fisher & Paykel - RS7621SRK1
+- Fisher & Paykel - RS7621W
+- Fisher & Paykel - RS7621WLUE1
+- Fisher & Paykel - RS7621WRUE1
 - Flomatic  - FC-F1200(E)
 - Flomatic  - FC-F1200L(E)
 - Flomatic  - FC-F1500(E)
@@ -513,6 +502,9 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Hitachi  - R-WB735P5MS
 - Hitachi  - R-XG450KS
 - Hitachi  - R-XG480KS
+- Hitachi - HRTN6379S
+- Hitachi - HRTN6408S
+- Hitachi - HRTN6443S
 - Hitachi - R-BG415P6MSX
 - Hitachi - R-GWC670TS
 - Hitachi - R-HV490RS
@@ -594,17 +586,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Hoshizaki - HRF-120AF-1
 - Hoshizaki - HRF-75A-1
 - Hoshizaki - HRF-75AT-1
-- IISTIA  - UC1275A
-- IISTIA  - UC1575A
-- IISTIA  - UC1875A
-- IISTIA  - UF1275A
-- IISTIA  - UF1575A
-- IISTIA  - UF1875A
-- IISTIA  - UPC2A
-- IISTIA  - UPC4A
-- IISTIA  - UPCF2A
-- IISTIA  - UPF2A
-- IISTIA  - UPF4A
 - IKEA - TILLREDA NN 80596077
 - INNOTRICS - FD-4008BA
 - INNOTRICS - FD-417BA
@@ -632,13 +613,17 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Kerry  - KR-2OPC-15-B
 - Kerry  - KR-2OPC-15-W
 - Kerry - KR-021CS-IVTH
+- Kerry - KR-021FCS-IVTH
 - Kerry - KR-021FS-IVTH
 - Kerry - KR-022CS-IVTH
+- Kerry - KR-022FCS-IVTH
 - Kerry - KR-022FS-IVTH
 - Kerry - KR-023CS-IVTH
 - Kerry - KR-023FS-IVTH
 - Kerry - KR-1GDC-IVT
+- Kerry - KR-1GDF-IVT
 - Kerry - KR-2GDC-IVT
+- Kerry - KR-2GDF-IVT
 - Kerry - KR-3GDC-IVT
 - Kerry - KR-425UC-IVTH
 - Kerry - KR-425UF-IVTH
@@ -688,10 +673,12 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - LG  - GT-T3867BM
 - LG  - GT-T3867PZ
 - LG - GB-B306PZ
+- LG - GB-B3354PY
 - LG - GB-B3442MC
 - LG - GB-B3443EP
 - LG - GB-B3862SG
 - LG - GB-B3863MN
+- LG - GB-B3864BE
 - LG - GB-B4059MT
 - LG - GB-B4059PZ
 - LG - GB-B4452PZ
@@ -707,6 +694,8 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - LG - GS-B6473EP
 - LG - GS-B6473PY
 - LG - GS-L6013PZ
+- LG - GS-X6104BE
+- LG - GS-X6104EV
 - LG - GT-B3153BN
 - LG - GT-B3302PZ
 - LG - GT-B3303PY
@@ -871,6 +860,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Mitsubishi Electric - MR-WX60G-BR-P
 - Mitsubishi Electric - MR-WX60G-F-P
 - Mitsubishi Electric - MR-WX60G-W-P
+- Mitsubishi Electric - MR-WX70G-B-P
 - Mitsubishi Electric - MR-WX70G-BR-P
 - Mitsubishi Electric - MR-WX70G-W-P
 - Panasonic  - NR WY720Z
@@ -1145,6 +1135,9 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - PowerPac - PPF170 (NEW)
 - PowerPac - PPF85 (NEW)
 - PRISM+  - FT4201SABI
+- PRISM+ - FF4401SAIN
+- PRISM+ - FF4401SASG
+- PRISM+ - FF4401SAWH
 - PRISM+ - FF5701SAIN
 - PRISM+ - FF5701SASG
 - PRISM+ - FF5701SAWH
@@ -1468,28 +1461,6 @@ RT62K7057BS
 - SOLID - S3DC-1700W
 - SOLID - S3DF-1500B
 - SOLID - S3DF-1500W
-- SOLID COOL  - SC-260
-- SOLID COOL  - SC-2DTT
-- SOLID COOL  - SC-370
-- SOLID COOL  - SC-3DBB
-- SOLID COOL  - SC-4DT
-- SOLID COOL  - SC-4DTF
-- SOLID COOL  - SC-530
-- SOLID COOL  - SCX1200C2
-- SOLID COOL  - SCX1200F2
-- SOLID COOL  - SCX1500C2
-- SOLID COOL  - SCX1500F2
-- SOLID COOL  - SCX1800C3
-- SOLID COOL  - SCX1800F3
-- SOLID COOL  - SCX2DC
-- SOLID COOL  - SCX2DF
-- SOLID COOL  - SCX4DC
-- SOLID COOL  - SCX4DF
-- SOLID COOL  - SCX6DC
-- SOLID COOL  - SCX6DF
-- SOLID COOL  - SXS-500Y
-- SOLID COOL  - SXS-700Y
-- SOLID COOL - SC-2DTT
 - Sub-Zero - GR-RT735WE-PGX(XK)
 - Sub-Zero - GR-RT835WE-PGX(XK)
 - Sub-Zero - ICBBI-36R/S/PH-LH
@@ -1505,7 +1476,6 @@ RT62K7057BS
 - Sub-Zero - ICBCL3650UID/S/P/L
 - Sub-Zero - ICBCL3650UID/S/P/R
 - Sub-Zero - ICBCL3650UID/S/T/L
-- Sub-Zero - ICBCL3650UID/S/T/R
 - Sub-Zero - ICBCL3650UID/S/T/R
 - Sub-Zero - ICBCL4250S
 - Sub-Zero - ICBCL4250S/O
@@ -1578,11 +1548,8 @@ RT62K7057BS
 - SUPREME - 1507680F
 - SUPREME - 1807680C
 - SUPREME - 1807680F
-- SUPREME - 2DUFF
 - Supreme - 2DUFF
-- SUPREME - 4DUFC
 - Supreme - 4DUFC
-- SUPREME - 4DUFF
 - Supreme - 4DUFF
 - Tecno  - TFR 1288-V2
 - Tecno  - TFR 330 Retro
@@ -1591,8 +1558,11 @@ RT62K7057BS
 - Tecumseh  - PAC66Z-3L
 - Tecumseh  - PAC66Z-3XL
 - Teka  - TFI3 130 D
+- Teka - RBF 73380 FI SG
 - TNG - TBF48B
 - TNG - TBF48W
+- TNG - TBF95B
+- TNG - TBF95W
 - TONG'S KITCHEN - ECO-IVT-1DC
 - TONG'S KITCHEN - ECO-IVT-2DC
 - TONG'S KITCHEN - ECO-IVT-2DF

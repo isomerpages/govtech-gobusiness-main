@@ -171,7 +171,7 @@ Collyer Law LLC is a boutique Singapore law firm founded and staffed by experien
 - Location: Singapore
 - IA/IP-Related Expertise: IP Audit, Contract Drafting, IP Strategy Consulting, IP Due Diligence, IP Training
 - Certifications/Qualifications: General Course on Intellectual Property, WIPO
-- Awards and Accolades: "Deals of the Year 2023" India Business Law Journal, 2023, "Asia Super 50 TMT Lawyers" Asian Legal Business, 2023, "Firms to Watch" Legal 500, Start-up and Venture Capital, 2024, "Other Notable Firms" IFLR1000 APAC Rankings 2023, M&A, 2023, "Regional Firms To Watch" India Business Law Journal, 2023
+- Awards/Accolades: "Deals of the Year 2023" India Business Law Journal, 2023, "Asia Super 50 TMT Lawyers" Asian Legal Business, 2023, "Firms to Watch" Legal 500, Start-up and Venture Capital, 2024, "Other Notable Firms" IFLR1000 APAC Rankings 2023, M&A, 2023, "Regional Firms To Watch" India Business Law Journal, 2023
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/azmulhaque/" target="_blank" rel="noopener">https://www.linkedin.com/in/azmulhaque/</a>
 
 
