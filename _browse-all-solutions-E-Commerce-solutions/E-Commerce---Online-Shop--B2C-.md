@@ -52,10 +52,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Guidesify Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201215396N-Advncd-Ecommrc-SLN-by-I-Concpt-v-20-G' target='_blank'>Advanced Ecommerce Solution by I Concept Version 2.0</a><br></td>
-<td>I Concept Innovation Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201535836W-Commrc-Mstrpln-v-20-G' target='_blank'>eCommerce Masterplan Version 2.0</a><br></td>
 <td>Aks Tech Pte Ltd</td>
 </tr>
@@ -104,10 +100,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>ALPHABET SIX MARKETING SINGAPORE</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200908223H-Vrz-Dsgn-Ecommrc-SLNs--G' target='_blank'>Verz Design Ecommerce Solutions </a><br></td>
-<td>Verz Design Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201723984K-Sunpro-Ecommrc-SLN-G' target='_blank'>Sunpro E-commerce Solution</a><br></td>
 <td>SUNPRO INNO APPS PTE LTD</td>
 </tr>
@@ -134,6 +126,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201216251K-PSProfssonl-G' target='_blank'>ePSProfessional</a><br></td>
 <td>Efusion Technology Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201701817K-Corsv-Lb-ECommrc-Wbst-Dv-G' target='_blank'>Corsiva Lab - E-Commerce Website Development</a><br></td>
+<td>Corsiva Lab Pte. Ltd.</td>
 </tr>
 </table>
 

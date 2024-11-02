@@ -49,41 +49,6 @@ Xero is a cloud-based accounting software that connects people with the right nu
 <td style='padding: 10px;'>$4,081.00</td>
 <td style='padding: 10px;'><a href='/images/psg/EBOS_Xero_15082024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Subscription </td>
-<td style='padding: 10px;'>$732.00</td>
-<td style='padding: 10px;'>$672.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ABA_Xero_01082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sales and Accounting Module </td>
-<td style='padding: 10px;'>$3,660.00</td>
-<td style='padding: 10px;'>$2,141.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ABA_Xero_01082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 7</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sales, Accounting and Inventory Module</td>
-<td style='padding: 10px;'>$5,060.00</td>
-<td style='padding: 10px;'>$3,781.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ABA_Xero_01082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 8</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Premium with detailed migration setup</td>
-<td style='padding: 10px;'>$6,360.00</td>
-<td style='padding: 10px;'>$3,521.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ABA_Xero_01082024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 9</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Premium with full data conversion setup</td>
-<td style='padding: 10px;'>$10,360.00</td>
-<td style='padding: 10px;'>$4,081.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ABA_Xero_01082024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
-</tr>
 </table>
 
 ## Mode and Schedule of Payment
