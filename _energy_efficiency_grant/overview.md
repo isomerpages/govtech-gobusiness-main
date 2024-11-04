@@ -68,6 +68,8 @@ Companies will have up to 1 year from the time an application is approved to pur
 
 {% include accordion.html accordions=site.data.acc039c-eeg-data-centre.accordion %}
 
+{% include accordion.html accordions=site.data.acc005-company-profile.accordion %}
+
 <a name='eeg-faq'></a>
 
 ### FAQ
