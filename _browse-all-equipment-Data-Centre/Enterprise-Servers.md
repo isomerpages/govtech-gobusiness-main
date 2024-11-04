@@ -1,8 +1,7 @@
 ---
-title: 'Enterprise-Servers'
+title: 'Enterprise Servers'
 permalink: /browse-all-equipment-Data-Centre/Enterprise-Servers
 ---
-
 
 ## Enterprise Servers
 
@@ -10,8 +9,6 @@ permalink: /browse-all-equipment-Data-Centre/Enterprise-Servers
 
 - Certified by ENERGY STAR 
 - Minimally comply to Class A2 of The American Society of Heating, Refrigerating and Air-conditioning Engineers (ASHRAE) Environmental Classes for Data Centres.
-
-
 
 ### Mode and Schedule of Payment 
 

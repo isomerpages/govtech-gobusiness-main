@@ -1,5 +1,5 @@
 ---
-title: 'Data-Centre-Storage'
+title: 'Data Centre Storage'
 permalink: /browse-all-equipment-Data-Centre/Data-Centre-Storage
 ---
 
@@ -9,8 +9,6 @@ permalink: /browse-all-equipment-Data-Centre/Data-Centre-Storage
 
 - Certified by ENERGY STAR 
 - Minimally comply to Class A2 of The American Society of Heating, Refrigerating and Air-conditioning Engineers (ASHRAE) Environmental Classes for Data Centres.
-
-
 
 ### Mode and Schedule of Payment 
 
