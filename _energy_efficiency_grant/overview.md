@@ -47,7 +47,7 @@ More details in the table below:
 
 ### EEG eligibility
 
-{% include accordion.html accordions=site.data.acc039b-eeg-overview.accordion %}
+{% include accordion.html accordions=site.data.acc039b-eeg-overview letter="a" %}
 
 **Note:**
 
@@ -76,16 +76,7 @@ Have more questions? Refer to the [FAQ for EEG](/business-grants-portal-faq/eeg/
 
 ### EEG (Data Centre Sector) eligibility
 
-{% include accordion.html accordions=site.data.acc039c-eeg-data-centre.accordion %}
-
-{% include accordion.html accordions=site.data.acc039d-eeg-data-centre.accordion %}
-
-----
-### EEG Test
-
-{% include accordion.html accordions=site.data.acc039c-eeg-data-centre.accordion %}
-
-{% include accordion.html accordions=site.data.acc039d-eeg-data-centre.accordion %}
+{% include letter-accordion.html accordions=site.data.acc039b-eeg-overview letter="b" %}
 
 <script src="/jquery/resize-tables.js"></script>
 
