@@ -54,8 +54,6 @@ More details in the table below:
 Companies will have up to 1 year from the time an application is approved to purchase and install the equipment and submit claims for reimbursement. Once an application has been submitted, companies may purchase the equipment before the application outcome. However, companies will not be able to claim subsequently if the application is unsuccessful. This pre-approved energy efficient equipment listing is not to be taken as a form of endorsement or recommendation by the participating government agencies. Companies are reminded to carry out due diligence when engaging vendors, and not to collude with vendors to carry out submission of any grant applications or claims.
 
 ----
-<a name='type-of-eeg-soln'></a>
-
 |-|-|
 | **Sector-specific equipment** | Sector-specific equipment are eligible for companies within the respective sectors only. These solutions are specially curated by agencies in consultation with the industry and NEA. |
 
@@ -66,11 +64,12 @@ Companies will have up to 1 year from the time an application is approved to pur
 
 {% include accordion.html accordions=site.data.acc039c-eeg-data-centre.accordion %}
 
-
 ### FAQ
 
 Have more questions? Refer to the [FAQ for EEG](/business-grants-portal-faq/eeg/){:target='_blank'}{:rel='noopener'}.
 
 <script src="/jquery/resize-tables.js"></script>
 
+### EEG (Data Centre Sector) eligibility
 
+{% include accordion.html accordions=site.data.acc039c-eeg-data-centre.accordion %}
