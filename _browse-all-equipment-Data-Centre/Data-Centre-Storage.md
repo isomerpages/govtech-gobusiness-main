@@ -3,7 +3,6 @@ title: 'Data-Centre-Storage'
 permalink: /browse-all-equipment-Data-Centre/Data-Centre-Storage
 ---
 
-
 ## Data Centre Storage
 
 ### Technical Requirements

@@ -1,0 +1,6 @@
+collections:
+  browse-all-equipment-Data-Centre:
+    output: true
+    order:
+      - Data-Centre-Storage.md
+      - Enterprise-Servers.md
