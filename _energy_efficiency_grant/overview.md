@@ -78,6 +78,8 @@ Have more questions? Refer to the [FAQ for EEG](/business-grants-portal-faq/eeg/
 
 {% include letter-accordion.html accordions=site.data.acc039b-eeg-overview letter="b" %}
 
+<script src="/jquery/jquery.min.js"></script>
+<script src="/jquery/bp-menu-new-tab.js"></script>
 <script src="/jquery/resize-tables.js"></script>
 
 
