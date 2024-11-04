@@ -85,6 +85,8 @@ Have more questions? Refer to the [FAQ for EEG](/business-grants-portal-faq/eeg/
 
 {% include accordion.html accordions=site.data.acc039c-eeg-data-centre.accordion %}
 
+{% include accordion.html accordions=site.data.acc039d-eeg-data-centre.accordion %}
+
 <script src="/jquery/resize-tables.js"></script>
 
 
