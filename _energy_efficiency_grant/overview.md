@@ -43,8 +43,6 @@ More details in the table below:
 
 ----
 
-<a name='eeg-eligibility'></a>
-
 ### EEG eligibility
 
 {% include accordion.html accordions=site.data.acc039b-eeg-overview.accordion %}
@@ -68,7 +66,6 @@ Companies will have up to 1 year from the time an application is approved to pur
 
 {% include accordion.html accordions=site.data.acc039c-eeg-data-centre.accordion %}
 
-<a name='eeg-faq'></a>
 
 ### FAQ
 
