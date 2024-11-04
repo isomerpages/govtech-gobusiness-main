@@ -73,3 +73,12 @@ Have more questions? Refer to the [FAQ for EEG](/business-grants-portal-faq/eeg/
 ### EEG (Data Centre Sector) eligibility
 
 {% include accordion.html accordions=site.data.acc039c-eeg-data-centre.accordion %}
+
+
+### test 
+
+{% include accordion.html accordions=site.data.acc105-find-approved-licences.accordion %}
+
+
+### test 2
+{% include accordion.html accordions=site.data.acc039b-eeg-overview.accordion %}
