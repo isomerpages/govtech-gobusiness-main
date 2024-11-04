@@ -31,3 +31,8 @@
         - <a href='/browse-all-equipment-Retail/LED-Lighting'>LED Lighting</a>
         - <a href='/browse-all-equipment-Retail/Refrigerator'>Refrigerator</a>
         - <a href='/browse-all-equipment-Retail/Water-Heater'>Water Heater</a>
+
+    - title: Data Centre Sector
+    content: |
+      - <a href='/browse-all-equipment-Data-Centre/Enterprise-Serversr'>Enterprise Servers</a>
+      - <a href='/browse-all-equipment-Data-Centre/Data-Centre-Storage'>Data Centre Storage</a>
