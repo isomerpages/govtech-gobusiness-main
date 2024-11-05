@@ -81,20 +81,20 @@
             <td>Base Tier</td>
             <td>
               <ol>
-                <li>Registered business entity in Singapore, that is located in Singapore, and</li>
+                <li>Registered business entity in Singapore, that is located in Singapore<sup>1</sup>, and</li>
                 <li>At least 1 local employee at the firm-level, and</li>
                 <li>Group annual sales turnover no more than $500 million.</li>
               </ol>
               The following entities do not qualify for grant support:
-              <ol type="a">
-                <li>Charities,</li>
-                <li>Institutions of Public Characters (IPCs)</li>
-                <li>Religious entities,</li>
-                <li>Voluntary Welfare Organisations (VWOs)</li>
-                <li>Government agencies and subsidiaries, and</li>
-                <li>Co-operative societies and societies.</li>
-              </ol>
-              The equipment purchased must be hosted at a co-location data centre in Singapore.
+              <ul>
+                <li>a. Charities,</li>
+                <li>b. Institutions of Public Characters (IPCs)</li>
+                <li>c. Religious entities,</li>
+                <li>d. Voluntary Welfare Organisations (VWOs)</li>
+                <li>e. Government agencies and subsidiaries, and</li>
+                <li>f. Co-operative societies and societies.</li>
+              </ul>
+              <sup>1</sup>The equipment purchased must be hosted at a co-location data centre in Singapore.
             </td>
           </tr>
         </table>
