@@ -9,9 +9,9 @@ permalink: /productivity-solutions-grant/solutionrepo/201213801E-DM-Hshmt-Dgtl-E
 
 **Description**
 
-Founded in 2012, Hashmeta is a full suite Martech company, assisting brands and advertisers in achieving their digital marketing objectives by fusing creative content strategy with intelligent targeting, and integrating it through Hashmeta’s own proprietary technologies. 
+Founded in 2012, Hashmeta is a full suite Martech company, assisting brands and advertisers in achieving their digital marketing objectives by fusing creative content strategy with intelligent targeting, and integrating it through Hashmeta's own proprietary technologies. 
 
-The solutions offered to increase client’s marketing effectiveness and efficiencies include the following:
+The solutions offered to increase client's marketing effectiveness and efficiencies include the following:
 Content & Influencer Marketing, Marketing Automation, Ecommerce & Leads Generation (SEO/SEM).
 
 ## Solution Packages Option(s)

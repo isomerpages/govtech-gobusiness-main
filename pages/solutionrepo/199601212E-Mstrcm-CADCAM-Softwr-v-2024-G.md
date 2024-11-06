@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/199601212E-Mstrcm-CADCAM-S
 
 **Description**
 
-Mastercam, the world’s #1 CAD/CAM software, solves manufacturing challenges with a comprehensive solution. Streamlining manufacturing processes from design to production, it offers robust features like simulation, toolpath visualization, and postprocessing for a wide range of applications from simple milling to complex 5-axis machining. With localized expertise and customer support, Mastercam enhances productivity, precision, and profitability, making it the top choice for professionals.
+Mastercam, the world's #1 CAD/CAM software, solves manufacturing challenges with a comprehensive solution. Streamlining manufacturing processes from design to production, it offers robust features like simulation, toolpath visualization, and postprocessing for a wide range of applications from simple milling to complex 5-axis machining. With localized expertise and customer support, Mastercam enhances productivity, precision, and profitability, making it the top choice for professionals.
 
 ## Solution Packages Option(s)
 
