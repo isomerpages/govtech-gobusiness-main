@@ -55,7 +55,7 @@ R Systems implements Business Central Peppol-ready solution certified by the IMD
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Business Central Essentials SaaS Cloud with InvoiceNOW & Copilot AI – 10 Users</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Business Central Essentials SaaS Cloud with InvoiceNOW & Copilot AI - 10 Users</td>
 <td style='padding: 10px;'>$55,040.00</td>
 <td style='padding: 10px;'>$11,350.00</td>
 <td style='padding: 10px;'><a href='/images/psg/200715700E_20240078_07112024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
