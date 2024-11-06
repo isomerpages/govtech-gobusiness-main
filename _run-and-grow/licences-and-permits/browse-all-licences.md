@@ -147,7 +147,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 <a name="education"></a>
 
 ## Education
-- [Asatizah Recognition Scheme](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=235)
+- Asatizah Recognition Scheme
 - [Certificate of Registration of School](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=37)
 - [Early Childhood Development Centre Licence](https://dashboard.gobusiness.gov.sg/task-details/706f7bbc-5f8c-46d6-b908-65b30b831a87)
 - [EduTrust Certification Scheme](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=36)
@@ -462,7 +462,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Pre-signed CITES Permit](https://dashboard.gobusiness.gov.sg/task-details/presignedcites)
 - [Pre-signed non-CITES Certificate](https://dashboard.gobusiness.gov.sg/task-details/presignednoncites)
 - [R1- Registration as a radiation worker](https://dashboard.gobusiness.gov.sg/task-details/r1)
-- [Stock Card Application Form](https://dashboard.gobusiness.gov.sg/task-details/313d4f49-06b3-4368-ac1b-ffaea83426cb)
+- [Stock Card Application Form](https://dashboard.gobusiness.gov.sg/task-details/stockcard)
 - [Toxic Industrial Waste (TIW) Collector's Licence](https://dashboard.gobusiness.gov.sg/task-details/toxicindustrialwastecollectorslicence)
 - [Toxic Industrial Waste (TIW) Transport Approval](https://dashboard.gobusiness.gov.sg/task-details/toxicindustrialwastetransportapproval)
 - [Usage of Premises in Parks](https://www2.vbs.nparks.gov.sg/vbs/)
