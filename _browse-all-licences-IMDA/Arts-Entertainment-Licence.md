@@ -23,7 +23,8 @@ The applicant and the authorised person (if applicable) must be one of the follo
 <li>A Singapore Permanent Resident.</li>
 <li>A foreigner with a valid Singapore work pass.</li>
 </ul>
-If you are applying on behalf of a business entity or organisation:<br>
+<p>If you are applying on behalf of a business entity or organisation:</p>
+<br>
 <ul>
 <li>You should be an employee, perferably a member of the organisation's management.</li>
 <li>You will need to provide the organisation's Unique Entity Number (UEN), issued by a recognised UEN Issurance Agency (such as the Accounting and Corporate Regulatory Authority (ACRA) or Registry of Societies (ROS)</li>
