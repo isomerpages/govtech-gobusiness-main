@@ -80,10 +80,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Rockbell International Software Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200603587Z-AUTOCOUNT-ACC-SYSTEM-G' target='_blank'>AUTOCOUNT ACCOUNTING SYSTEM</a><br></td>
-<td>Gurusoft Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200200017N-Autocount-ACC-v-2-G' target='_blank'>Autocount Accounting Version 2</a><br></td>
 <td>Creative E-World Pte Ltd</td>
 </tr>

@@ -80,10 +80,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Creative E-World Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200200017N-DM-Crtv-EWorld-Dgtl-Mrktng-PKG-G' target='_blank'>DM Creative E-World Digital Marketing Packages</a><br></td>
-<td>Creative eWorld Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201900904K-DM-Dgtl-M-Dgtl-Mrktng-PKG-v-01-G' target='_blank'>DM Digital M Digital Marketing Packages Version 0.1</a><br></td>
 <td>Digital M Pte. Ltd.</td>
 </tr>
