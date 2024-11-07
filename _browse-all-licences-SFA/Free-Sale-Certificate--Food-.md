@@ -30,17 +30,17 @@ Singapore Food Agency (SFA)
 <strong>Additional Information</strong>
 
 <p><strong>Fee</strong><br>
- Licence Fee:$16.80 per certificate<br></p>
+Licence Fee:$17.11 per certificate<br></p>
 
 <H3>Documents Needed</H3>
 
 <ul>
- <li><strong>Product Details</strong><br />File format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB</li>
- <li><strong>Others<br /></strong>File format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<strong><br /></strong></li>
- </ul>
+<li><strong>Product Details</strong><br />File format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB</li>
+<li><strong>Others<br /></strong>File format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<strong><br /></strong></li>
+</ul>
 
 <H3>Requirements</H3>
 
 <p>Prerequisite Licence(s)</p>
- <p>ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
+<p>ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
 
