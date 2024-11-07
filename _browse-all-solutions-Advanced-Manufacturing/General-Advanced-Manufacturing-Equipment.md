@@ -28,11 +28,11 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Probng-sys-Advncd-Mnufcturng' target='_blank'>Probing System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Autonomous-Mobl-Robot-Advncd-Mnufcturng' target='_blank'>Autonomous Mobile Robot</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Autonomous-Mobl-Robot-Advncd-Mnufcturng' target='_blank'>Autonomous Mobile Robot</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Probng-sys-Advncd-Mnufcturng' target='_blank'>Probing System</a><br></td>
 <td></td>
 </tr>
 <tr>

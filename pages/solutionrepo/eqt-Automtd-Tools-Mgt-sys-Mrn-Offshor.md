@@ -32,7 +32,7 @@ Cost of equipment capped at $28,000 per unit
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Tools Management System</td>
 <td style='padding: 10px;'>$28,000.00</td>
-<td style='padding: 10px;'>1. Unit has a minimum size of (H x W x D) 1100MM x 500MM x 700MM <br><br>2. Unit has a minimum of 10 storage spaces<br><br>3. Unit includes an Inventory Management Software</td>
+<td style='padding: 10px;'>1. Unit has a Minimum  size of (H x W x D) 1100MM x 500MM x 700MM <br><br>2. Unit has a Minimum  of 10 storage spaces<br><br>3. Unit includes an Inventory Management Software</td>
 </tr>
 </table>
 
