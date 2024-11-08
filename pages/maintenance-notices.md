@@ -14,8 +14,9 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 
 
          
-| 7 Nov, 8pm - 8 Nov, 2am | **All transactions for Infocomm Media Development Authority (IMDA) licences** will be unavailable during the upcoming scheduled maintenance. |   
-| 8 Nov, 10pm - 9 Nov, 6am<br>9 Nov, 10pm - 10 Nov, 8am | GoBusiness Licensing will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |    
+| 8 Nov, 10pm - 9 Nov, 6am<br>9 Nov, 10pm - 10 Nov, 8am | GoBusiness Licensing will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |  
+| 8 Nov, 11pm - 9 Nov, 7am | Applications for Skills Development Levy (SDL) will be unvailable during the upcoming schedule maintenance. |   
+
 
 
 
