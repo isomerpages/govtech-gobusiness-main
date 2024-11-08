@@ -8,7 +8,7 @@ permalink: /browse-all-equipment-Data-Centre/Enterprise-Servers
 ### Technical Requirements
 
 - Certified by ENERGY STAR 
-- Minimally comply to Class A2 of The American Society of Heating, Refrigerating and Air-conditioning Engineers (ASHRAE) Environmental Classes for Data Centres.
+- Comply with Class A2 (i.e., A3 and A4 are acceptable) of The American Society of Heating, Refrigerating and Air-conditioning Engineers (ASHRAE) Environmental Classes for Data Centres.
 
 ### Mode and Schedule of Payment 
 
@@ -20,7 +20,7 @@ permalink: /browse-all-equipment-Data-Centre/Enterprise-Servers
 
 Up to 70% for SMEs, 30% for non-SMEs
 
-Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}
+Applicants can apply for the EEG through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}
 
 ### Pre-Approved Equipment Brands and Models
 
@@ -89,7 +89,8 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - HPE - Synergy 480 Gen11
 - HPE - XL220n Gen10 PLUS
 - HPE - XL225n Gen10 PLUS
-- SuperMicro - AS -1115HS-TNR SuperMicro - AS -2014S-TR, LA26-R9H12, LA26-R10H12, LA26-9, LA26-10
+- SuperMicro - AS -1115HS-TNR 
+- SuperMicro - AS -2014S-TR, LA26-R9H12, LA26-R10H12, LA26-9, LA26-10
 - SuperMicro - AS -2015HS-TNR
 - SuperMicro - AS -2025HS-TNR
 - SuperMicro - AS -2115GT-HNTR, AS -2115GT-HNTF, GT214BR-R22H13, GT214BR-R30H13, GT214BF-R22H13, T214BF-R30H13

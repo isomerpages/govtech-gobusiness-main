@@ -8,7 +8,7 @@ permalink: /browse-all-equipment-Data-Centre/Data-Centre-Storage
 ### Technical Requirements
 
 - Certified by ENERGY STAR 
-- Minimally comply to Class A2 of The American Society of Heating, Refrigerating and Air-conditioning Engineers (ASHRAE) Environmental Classes for Data Centres.
+- Comply minimally with Class A2 (i.e., A3 and A4 are acceptable) of The American Society of Heating, Refrigerating and Air-conditioning Engineers (ASHRAE) Environmental Classes for Data Centres.
 
 ### Mode and Schedule of Payment 
 
@@ -20,7 +20,7 @@ permalink: /browse-all-equipment-Data-Centre/Data-Centre-Storage
 
 Up to 70% for SMEs, 30% for non-SMEs
 
-Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}
+Applicants can apply for the EEG through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}
 
 ### Pre-Approved Equipment Brands and Models
 
@@ -54,9 +54,5 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - HPE - MSA 2060 SFF Storage
 - HPE - MSA 2062 LFF Storage
 - HPE - MSA 2062 SFF Storage
-
-
-
-
 
 <script src='/jquery/resize-tables.js'></script>
