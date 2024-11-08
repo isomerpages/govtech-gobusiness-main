@@ -24,36 +24,38 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 
 ### Pre-Approved Equipment Brands and Models
 
-- Dell - Unity XT380
-- Dell - Unity XT380F
-- Dell - Unity XT480
-- Dell - Unity XT480F
-- Dell - Unity XT680F
-- Dell - PowerStore 500T
-- Dell - PowerStore 1200T
-- Dell - PowerStore 3200T
-- Dell - PowerStore 5200T
+- Dell - PowerScale A300
+- Dell - PowerScale A3000
 - Dell - Powerscale F200
 - Dell - Powerscale F600
 - Dell - Powerscale F900
 - Dell - PowerScale H700
 - Dell - PowerScale H7000
-- Dell - PowerScale A300
-- Dell - PowerScale A3000
+- Dell - PowerStore 1200T
+- Dell - PowerStore 3200T
+- Dell - PowerStore 500T
+- Dell - PowerStore 5200T
+- Dell - Unity XT380
+- Dell - Unity XT380F
+- Dell - Unity XT480
+- Dell - Unity XT480F
+- Dell - Unity XT680F
 - HPE - Alletra 9060 2N/4N
 - HPE - Alletra 9080 2N/4N
-- HPE - MSA 2060 SFF Storage
-- HPE - MSA 2060 LFF Storage
-- HPE - MSA 2062 SFF Storage
-- HPE - MSA 2062 LFF Storage
-- HPE - MSA 1060 SFF Storage
-- HPE - HPE Primera C670 4N
+- HPE - HPE MSA 2050 LFF Storage
+- HPE - HPE MSA 2050 SFF Storage
+- HPE - HPE MSA 2052 LFF Storage
+- HPE - HPE MSA 2052 SFF Storage
 - HPE - HPE Primera C630 2N
 - HPE - HPE Primera C650 4N
-- HPE - HPE MSA 2050 LFF Storage
-- HPE - HPE MSA 2052 LFF Storage
-- HPE - HPE MSA 2050 SFF Storage
-- HPE - HPE MSA 2052 SFF Storage
+- HPE - HPE Primera C670 4N
+- HPE - MSA 1060 SFF Storage
+- HPE - MSA 2060 LFF Storage
+- HPE - MSA 2060 SFF Storage
+- HPE - MSA 2062 LFF Storage
+- HPE - MSA 2062 SFF Storage
+
+
 
 
 

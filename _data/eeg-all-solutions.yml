@@ -34,5 +34,5 @@
 
     - title: Data Centre Sector
       content: |
-        - <a href='/browse-all-equipment-Data-Centre/Enterprise-Servers'>Enterprise Servers</a>
         - <a href='/browse-all-equipment-Data-Centre/Data-Centre-Storage'>Data Centre Storage</a>
+        - <a href='/browse-all-equipment-Data-Centre/Enterprise-Servers'>Enterprise Servers</a>
