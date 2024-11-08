@@ -14,7 +14,7 @@ Ministry of Law (MINLAW)
 
 <H3>Application Details</H3>
 
-<p>Application to hold an insolvency practitioner&apos;s licence to undertake insolvency or debt restructuring work in Singapore.</span></p> 
+<p>Application to hold an insolvency practitioner&apos;s licence to undertake insolvency or debt restructuring work in Singapore.</p> 
 <p><strong>FAQ</strong></p> 
 <p><strong>1. How do I log in to GoBusiness to apply for an insolvency practitioner&rsquo;s licence if I do not have a Singpass account as a foreigner?</strong></p> 
 <p>Foreigners without a Singpass account can <a href="https://gobusiness.gov.sg" target="_blank" rel="noopener">request</a> for a foreign user account to submit their licence application.</p> 
