@@ -26,7 +26,7 @@ In the context of intangible assets (IA) and IP, having a well-written contract 
 ---
 
 ### Connect with relevant service providers for contract drafting services (with IA/IP considerations)
-**48 service providers listed.**
+**51 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -99,7 +99,7 @@ Aequitas Law LLP is a full service law firm, specializing in commercial law and 
 ZYIP has offices in Singapore and China to assist clients with protection of their IP.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 11 - 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> Above 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
@@ -122,6 +122,21 @@ Headquartered in Singapore, WongPartnership is a top law firm offering full suit
 </ul>
 
 <a class='btn' href='https://form.gov.sg/66b965c77dd406a58e91435a' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/wongpartnership-llp/){:target='_blank'}
+
+---
+
+#### VanillaLaw LLC
+
+We believe that Business comes before Law, and we collaborate with others who share our vision.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> Above 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/66f12ce092186338ff6f257e' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/vanillalaw-llc/){:target='_blank'}
 
 ---
 
@@ -216,6 +231,22 @@ Founded in 1998 with a strong international outlook and has been active in cross
 
 ---
 
+#### Joseph Tan Jude Benny
+
+JTJB is an award-winning law firm recognised by the major international legal directories.
+
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 36 to 40</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $500</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/670748b61b2ec7e0b48859fa' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/joseph-tan-jude-benny/){:target='_blank'}
+
+---
+
 #### Collyer Law LLC
 
 Boutique SG law firm with Big Law? lawyers focused on emerging technology and the innovation economy.
@@ -252,7 +283,7 @@ Ghows LLC is a Singapore law practice recognised within the industry for its exp
 Bird & Bird ATMD is a leading full-service Singapore law firm in association with Bird & Bird.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 11 - 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 21 to 25</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $5,000</li>
@@ -552,6 +583,22 @@ Claudian Caucus is Asia's leading IP strategy and consulting firm specialising i
 
 ---
 
+#### Adsan Law LLC
+
+Adsan Law LLC, an established law corporation, provides a comprehensive range of legal services.
+
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $800</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/67048a6d43898c3913271472' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/adsan-law-llc/){:target='_blank'}
+
+---
+
 #### Yuen Law LLC
 
 A full-service law firm that provides legal advice on corporate, IP, family, and dispute issues.
@@ -572,7 +619,7 @@ A full-service law firm that provides legal advice on corporate, IP, family, and
 A boutique law firm specialising in IP, media, entertainment, technology, business and consumer laws.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 11 - 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 21 - 30</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $3,000</li>

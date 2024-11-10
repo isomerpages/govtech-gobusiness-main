@@ -40,6 +40,4 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - Imesa  - GL ES 18 EC
 - Midea  - MDK888HP
 
-
-
 <script src='/jquery/resize-tables.js'></script>

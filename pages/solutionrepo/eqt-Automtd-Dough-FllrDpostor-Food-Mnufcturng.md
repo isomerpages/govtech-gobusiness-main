@@ -11,7 +11,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Automtd-Dough-FllrDpos
 
 An automatic depositor portions dough, fillings or batters onto moving or stationary lines. Portions will be of consistent size no matter who operates the machine.
 Creating dough portions through deposition, the machine is made to suit the soft dough texture. 
-As a guide, it is recommended for the Dough Filler to allow an individual dough weight of Minimum 7gm and a dough apportioning capacity with Minimum 5 seconds.
+As a guide, it is recommended for the Dough Filler to allow an individual dough weight of Minimum  7gm and a dough apportioning capacity with Minimum  5 seconds.
 
 Cost of equipment capped at $25,000 per unit 
 

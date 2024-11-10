@@ -24,7 +24,7 @@ Cost of equipment capped at $11,250 per unit
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Battery-operated Torque Wrench</td>
 <td style='padding: 10px;'>$11,250.00</td>
-<td style='padding: 10px;'>1. A Minimum fastening torque output of 1000Nm</td>
+<td style='padding: 10px;'>1. A Minimum  fastening torque output of 1000Nm</td>
 </tr>
 </table>
 

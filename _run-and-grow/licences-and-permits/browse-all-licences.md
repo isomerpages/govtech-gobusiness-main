@@ -74,7 +74,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Certificate of Freedom From Disease Within Singapore](https://dashboard.gobusiness.gov.sg/task-details/freedomfromdisease)
 - [Free Sale Certificate (Non Food Producing Animal Feed)](https://dashboard.gobusiness.gov.sg/task-details/fea242ac-ffba-4b7b-856f-39ebe0e9f6cf)
 - [Free Sale Certificate (Vaccine)](https://dashboard.gobusiness.gov.sg/task-details/freesalevaccine)
-- [Health Certificate for Export of Ornamental Fish](https://dashboard.gobusiness.gov.sg/task-details/healthcertforexportornamentalfish)
+- [Health Certificate for Export of Ornamental Fish](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201212070000111)
 - [Licence for Animal Exhibition](https://dashboard.gobusiness.gov.sg/task-details/animalexhibition)
 - [Licence for Animal Research Facility](https://dashboard.gobusiness.gov.sg/task-details/animalresearchfacility)
 - [Licence for Pet Shop](https://dashboard.gobusiness.gov.sg/task-details/petshop)
@@ -141,28 +141,28 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Cybersecurity Labelling Scheme for IoT (Level 2)](https://dashboard.gobusiness.gov.sg/task-details/csaiot2)
 - [Cybersecurity Labelling Scheme for IoT (Level 3)](https://dashboard.gobusiness.gov.sg/task-details/csaiot3)
 - [Cybersecurity Labelling Scheme for IoT (Level 4)](https://dashboard.gobusiness.gov.sg/task-details/csaiot4)
-- [Managed Security Operations Centre (SOC) Monitoring Service Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=280)
-- [Penetration Testing Services Licence (PTS)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=278)
+- [Managed Security Operations Centre (SOC) Monitoring Service Licence](https://dashboard.gobusiness.gov.sg/task-details/soc)
+- [Penetration Testing Services Licence (PTS)](https://dashboard.gobusiness.gov.sg/task-details/pts)
 
 <a name="education"></a>
 
 ## Education
-- [Asatizah Recognition Scheme](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=235)
+- Asatizah Recognition Scheme
 - [Certificate of Registration of School](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=37)
 - [Early Childhood Development Centre Licence](https://dashboard.gobusiness.gov.sg/task-details/706f7bbc-5f8c-46d6-b908-65b30b831a87)
 - [EduTrust Certification Scheme](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=36)
 - [Islamic Education Centres and Providers Registration](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=234)
 - [Registration of Private Education Institutions](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=35)
 
-<a name="#employment-and-labour-services"></a>
+<a name="employment-and-labour-services"></a>
 
 ## Employment & Labour Services
-- [Employment Agency Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=55)
+- [Employment Agency Licence](https://dashboard.gobusiness.gov.sg/task-details/employmentagency)
 - [Factory Notification and Registration](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=54)
 - [Foreign Employee Dormitories Act Licence](https://dashboard.gobusiness.gov.sg/task-details/feda)
 - [Work passes and permits](https://www.mom.gov.sg/passes-and-permits)
 
-<a name="#explosives-and-arms"></a>
+<a name="explosives-and-arms"></a>
 
 ## Explosives & Arms
 - [Approval for a Blasting Operation](https://dashboard.gobusiness.gov.sg/task-details/6f74b664-d42b-46ec-9b49-8e6605865e0f)
@@ -193,7 +193,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Commercial Bank Licence](https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Commercial-Banks.aspx)
 - [Financial Adviser's Licence](https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Financial-Advisers.aspx)
 - [House to House and Street Collections Licence](https://dashboard.gobusiness.gov.sg/task-details/house-house-street-collections)
-- [Insolvency Practitioner Licence (IP)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=274)
+- [Insolvency Practitioner Licence (IP)](https://dashboard.gobusiness.gov.sg/task-details/insolvencypractitioner)
 - [Insurer Licence](https://www.mas.gov.sg/regulation/Insurance/Types-of-Insurers-in-Singapore)
 - [Licence for Debt Collection Business](https://dashboard.gobusiness.gov.sg/task-details/1b4a2551-fd14-4559-ac97-271ea6457409)
 - [Major Payment Institution Licence](https://www.mas.gov.sg/regulation/payments/major-payment-institution-licence)
@@ -323,14 +323,17 @@ Select an industry to see a list of relevant licences here. You can also browse 
 
 ## Others
 - [Certificate of Registration and Hotel-keeper's Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=3)
-- [Company Registration (CR)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=272)
+- [Company Registration (CR)](https://dashboard.gobusiness.gov.sg/task-details/cnb-company-registration)
 - [Licence for Residential Care Facilities](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10063)
 - [Licence to Supply Professional Engineering Services](https://www.peb.gov.sg/lc_commonqueries.aspx)
-- [Permit Administration and Control System(PATROL)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=271)
+- [Permit Administration and Control System (PATROL)](https://dashboard.gobusiness.gov.sg/task-details/cnb-patrol)
 - [Registration of Precious Stones and Precious Metals Dealers](https://dashboard.gobusiness.gov.sg/task-details/psmd)
 - [Registry of Societies](https://www.mha.gov.sg/mha-e-services/ros/registered-societies)
 - [Representative Office](https://dashboard.gobusiness.gov.sg/task-details/roms)
-- [Rubber Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=39)
+- [Rubber Licence (Dealer)](https://dashboard.gobusiness.gov.sg/task-details/rubberdealerlicence)
+- [Rubber Licence (Manufacturer)](https://dashboard.gobusiness.gov.sg/task-details/rubbermanufacturerlicence)
+- [Rubber Licence (Packer)](https://dashboard.gobusiness.gov.sg/task-details/rubberpackerlicence)
+- [Rubber Licence (Shipper)](https://dashboard.gobusiness.gov.sg/task-details/rubbershipperlicence)
 - [Secondhand Goods and Dealers Licence](https://www.police.gov.sg/e-Services/Police-Licences/Secondhand-Goods-Dealers-Licence)
 - [Tobacco Retail Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=56)
 - [Ticket Payment Service Licence (TPSL)](https://dashboard.gobusiness.gov.sg/task-details/tpsl)
@@ -428,7 +431,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Aquatic Facility Licence](https://dashboard.gobusiness.gov.sg/task-details/aquaticfacilitylicence)
 - [CITES Permit](https://dashboard.gobusiness.gov.sg/task-details/cites)
 - [Cleaning Business Licence](https://dashboard.gobusiness.gov.sg/task-details/cleaningbusinesslicence)
-- [Electricity Generation](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=284)
+- [Electricity Generation](https://dashboard.gobusiness.gov.sg/task-details/electricitygeneration)
 - [Electricity Retailer](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=281)
 - [Electricity Wholesaler](https://dashboard.gobusiness.gov.sg/task-details/electricitywholesaler)
 - [Environmental Control Coordinator Certificate of Registration](https://dashboard.gobusiness.gov.sg/task-details/environmentalcontrolcoordinator)
@@ -454,12 +457,12 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [N3 - Licence to use laser](https://dashboard.gobusiness.gov.sg/task-details/n3)
 - [N4A/B - Licence to import or export a consignment of non-ionising radiation irradiating apparatus](https://dashboard.gobusiness.gov.sg/task-details/n4)
 - [Non-CITES Certificate](https://dashboard.gobusiness.gov.sg/task-details/noncites)
-- [Phytosanitary Certification](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201212070000112)
+- [Phytosanitary Certification](https://dashboard.gobusiness.gov.sg/task-details/phytosanitarycertification)
 - [Plumber Licence](https://dashboard.gobusiness.gov.sg/task-details/plumberlicence)
 - [Pre-signed CITES Permit](https://dashboard.gobusiness.gov.sg/task-details/presignedcites)
 - [Pre-signed non-CITES Certificate](https://dashboard.gobusiness.gov.sg/task-details/presignednoncites)
 - [R1- Registration as a radiation worker](https://dashboard.gobusiness.gov.sg/task-details/r1)
-- [Stock Card Application Form](https://dashboard.gobusiness.gov.sg/task-details/313d4f49-06b3-4368-ac1b-ffaea83426cb)
+- [Stock Card Application Form](https://dashboard.gobusiness.gov.sg/task-details/stockcard)
 - [Toxic Industrial Waste (TIW) Collector's Licence](https://dashboard.gobusiness.gov.sg/task-details/toxicindustrialwastecollectorslicence)
 - [Toxic Industrial Waste (TIW) Transport Approval](https://dashboard.gobusiness.gov.sg/task-details/toxicindustrialwastetransportapproval)
 - [Usage of Premises in Parks](https://www2.vbs.nparks.gov.sg/vbs/)

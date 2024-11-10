@@ -32,6 +32,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>Beautec Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200205174N-ButSoft-v-6372-G' target='_blank'>BeauteSoft Version 6.3.7.2</a><br></td>
+<td>Sequoia Pte. Ltd.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200100911R-Studo-Mngr-v-9-G' target='_blank'>Studio Manager Version 9</a><br></td>
 <td>ARCHER LOGIC (S) PTE LTD</td>
 </tr>
