@@ -24,12 +24,12 @@ This solution is supported by ACRA.
 <td>BGL CORPORATE SOLUTIONS PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201826102D-TWCSS-tmWork-Corport-Scrtrl-SLN-G' target='_blank'>TWCSS - teamWork Corporate Secretarial Solution</a><br></td>
-<td>teamWork APAC Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201400612Z-SntroWb-G' target='_blank'>SentroWeb</a><br></td>
 <td>Ingenique Solutions Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201826102D-TWCSS-tmWork-Corport-Scrtrl-SLN-G' target='_blank'>TWCSS - teamWork Corporate Secretarial Solution</a><br></td>
+<td>teamWork APAC Pte. Ltd.</td>
 </tr>
 </table>
 

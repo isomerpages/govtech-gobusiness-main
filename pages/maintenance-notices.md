@@ -14,10 +14,10 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 
 
          
-| 30 Oct, 6pm - 11:59pm | Application, amendment, renewal & cancellation of National Environmental Agency (NEA) licences will be unavailable during the upcoming scheduled maintenance. |     
-| 30 Oct, 7:15pm - 9:15pm | Application, amendment, renewal & cancellation of Singapore Police Force (SPF) licences will be unavailable during the upcoming scheduled maintenance. |      
-| 30 Oct, 8pm - 11pm | Application, amendment, renewal & cancellation of Infocomm Media Development Authority (IMDA) licences will be unavailable during the upcoming scheduled maintenance. |      
-| 2 Nov, 8pm - 3 Nov, 2pm<br>8 Nov, 10pm - 9 Nov, 6am | GoBusiness Licensing will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |    
+| 8 Nov, 10pm - 9 Nov, 6am<br>9 Nov, 10pm - 10 Nov, 12pm | GoBusiness Licensing will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |  
+| 8 Nov, 11pm - 9 Nov, 7am | Applications for Skills Development Levy (SDL) will be unvailable during the upcoming schedule maintenance. |   
+| 9 Nov, 2pm - 11 Nov, 8am | All transactions for Registration of Precious Stones and Precious Metals Dealers (MINLAW) will be unavailable during the upcoming scheduled maintenance. |     
+
 
 
 
