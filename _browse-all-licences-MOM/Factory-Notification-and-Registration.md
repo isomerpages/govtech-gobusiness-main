@@ -10,46 +10,51 @@ Ministry of Manpower (MOM)
 
 {% include spcp-text.html type="cp" %}
 
-{% include licence-apply-button.html %}
-<a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=54" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>
-<div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-size: 18px; color: #313840;">
-<img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;">
-<span style="font-weight: bold; font-family: hknova-bold; font-size: 18px; ">Please use desktop / laptop to apply for this licence.</span><br>
-<span style="font-family: hknova-regular;">You can only view application details and make payment via mobile. Please use GoBusiness Licensing on desktop to use all features.</span><br><br>
-<a id="mobileNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=54" target="_blank" rel="noopener">Continue to GoBusiness Licencing anyway</a>
-</div>
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/factorynotificationregistration" type="primary" %}
+
 <H3>Application Details</H3>
 
-<p>The Occupier (e.g. factory owner) of premises defined as factories is required to either notify or register their premises with MOM before operations, to facilitate the management of workplace risk and the implementation of Safety and Health Management Systems. If the factory falls under the definition of a Major Hazard Installation (MHI), the Occupier is required to register the premises as an MHI with MOM, at least 6 months before operations.</p>
- <H3>FAQ</H3>
- <p>Note: From 1 April 2019, construction worksites will no longer be required to be registered with MOM. Please refer to <a href="https://www.mom.gov.sg/workplace-safety-and-health/factory-notification-and-registration/requirements-for-factories" target="_blank" rel="noopener">MOM website</a> for information.<br>
- For more information on MHI, Please refer to <a href="https://www.mom.gov.sg/workplace-safety-and-health/major-hazard-installations/mhi-assessment" target="_blank" rel="noopener">https://www.mom.gov.sg/workplace-safety-and-health/major-hazard-installations/mhi-assessment</a>.</p>
+Workplaces specified as factories under the Workplace Safety and Health (WSH) Act, must either notify or register their activities with the Ministry of Manpower (MOM) before starting operations.
+
+If your factory engages in high-risk activities, you will have to apply for a Certificate of Registration.
+
+If your factory engages in low-risk activities, you will have to submit a one-time Factory Notification declaring your activities. 
+
+If your factory falls under the definition of Major Hazard Installation (MHI), you are required to register the premises as an MHI with MOM, at least 6 months before operations. 
+
+From 1 April 2019, construction worksites are not required to be registered with MOM.
+
+Please refer to MOM website for information:
+
+For Factory registration and notification ( https://www.mom.gov.sg/workplace-safety-and-health/factory-notification-and-registration/requirements-for-factories )
+
+For Major Hazard Installation (https://www.mom.gov.sg/workplace-safety-and-health/major-hazard-installations/mhi-assessment)
 
 <strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br />
- N/A</p>
+N/A</p>
 
 <H3>Documents Needed</H3>
 
 <ul>
- <li><strong>Process Hazard Analysis</strong><br>
- Process Hazard Analysis is only applicable for renewable registration ie. For : i. Bulk Storage (of Toxic or Flammable Liquid) Terminal; ii. Petrochemical Plant or Oil Refinery; or iii. Synthetic Polymer or Chemical Plant.<br>
- File format: doc, docx, txt, pdf<br>
- Maximum upload per application: 1.5 MB</li>
- <li><strong>Workplace Safety & Health Management System (SHMS) Audit / Internal Review Documents</strong><br>
- (SHMS) Audit / Internal Review Documents is applicable for all factories except for those under the Factory Notification Scheme. If not submitted during application, documents is to be submitted within 2 month after issue of Certificate of Registration.<br>
- File format: doc, docx, txt, pdf<br>
- Maximum upload per application: 1.5 MB</li>
- <li><strong>Major Hazard Installation (MHI) Assessment form</strong><br>
- MHI assessment form is only applicable for registration of MHI. ie. Any premises processing, manufacturing or bulk storage of one or more dangerous substances specified in the First Schedule of <a href="https://sso.agc.gov.sg/SL/WSHA2006-S202-2017?DocDate=20170502&ProvIds=Sc1-#Sc1-" target="_blank" rel="noopener"><u>WSH (MHI) Regulations</u></a> and meets the conditions specified under the Second Schedule of <a href="https://sso.agc.gov.sg/SL/WSHA2006-S202-2017?DocDate=20170502&ProvIds=Sc2-#Sc2-" target="_blank" rel="noopener"><u>WSH (MHI) Regulations</u></a>.<br>
- File format: xls, xlsx<br>
- Maximum upload per application: 1.5 MB</li>
- <li><strong>Other supporting documents</strong><br>
- e.g. Letter of Award or Purchase Order issued by the developer, the worksite location or layout plan or any other documents requested, if available.<br>
- File format: doc, docx, txt, pdf<br>
- Maximum upload per application: 1.5 MB</li>
- </ul>
+<li><strong>Process Hazard Analysis</strong><br>
+Process Hazard Analysis is only applicable for renewable registration ie. For : i. Bulk Storage (of Toxic or Flammable Liquid) Terminal; ii. Petrochemical Plant or Oil Refinery; or iii. Synthetic Polymer or Chemical Plant.<br>
+File format: doc, docx, txt, pdf<br>
+Maximum upload per application: 2 MB</li>
+<li><strong>Workplace Safety & Health Management System (SHMS) Audit / Internal Review Documents</strong><br>
+(SHMS) Audit / Internal Review Documents is applicable for all factories except for those under the Factory Notification Scheme. If not submitted during application, documents is to be submitted within 2 month after issue of Certificate of Registration.<br>
+File format: doc, docx, txt, pdf<br>
+Maximum upload per application: 2 MB</li>
+<li><strong>Major Hazard Installation (MHI) Assessment form</strong><br>
+MHI assessment form is only applicable for registration of MHI. ie. Any premises processing, manufacturing or bulk storage of one or more dangerous substances specified in the First Schedule of <a href="https://sso.agc.gov.sg/SL/WSHA2006-S202-2017?DocDate=20170502&ProvIds=Sc1-#Sc1-" target="_blank" rel="noopener"><u>WSH (MHI) Regulations</u></a> and meets the conditions specified under the Second Schedule of <a href="https://sso.agc.gov.sg/SL/WSHA2006-S202-2017?DocDate=20170502&ProvIds=Sc2-#Sc2-" target="_blank" rel="noopener"><u>WSH (MHI) Regulations</u></a>.<br>
+File format: xls, xlsx<br>
+Maximum upload per application: 2 MB</li>
+<li><strong>Other supporting documents</strong><br>
+e.g. Letter of Award or Purchase Order issued by the developer, the worksite location or layout plan or any other documents requested, if available.<br>
+File format: doc, docx, txt, pdf<br>
+Maximum upload per application: 2 MB</li>
+</ul>
 
 <H3>Requirements</H3>
 
