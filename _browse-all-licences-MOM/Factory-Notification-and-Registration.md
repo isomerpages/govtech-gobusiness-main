@@ -26,9 +26,9 @@ From 1 April 2019, construction worksites are not required to be registered with
 
 Please refer to MOM website for information:
 
-For Factory registration and notification (https://www.mom.gov.sg/workplace-safety-and-health/factory-notification-and-registration/requirements-for-factories)
+<a href="https://www.mom.gov.sg/workplace-safety-and-health/factory-notification-and-registration/requirements-for-factories" target="_blank" rel="noopener">For Factory registration and notification</a>
 
-For Major Hazard Installation (https://www.mom.gov.sg/workplace-safety-and-health/major-hazard-installations/mhi-assessment)
+<a href="https://www.mom.gov.sg/workplace-safety-and-health/major-hazard-installations/mhi-assessment" target="_blank" rel="noopener">For Major Hazard Installation</a>
 
 <strong>Additional Information</strong>
 
