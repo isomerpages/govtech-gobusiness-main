@@ -18,9 +18,9 @@ Workplaces specified as factories under the Workplace Safety and Health (WSH) Ac
 
 If your factory engages in high-risk activities, you will have to apply for a Certificate of Registration.
 
-If your factory engages in low-risk activities, you will have to submit a one-time Factory Notification declaring your activities. 
+If your factory engages in low-risk activities, you will have to submit a one-time Factory Notification declaring your activities.
 
-If your factory falls under the definition of Major Hazard Installation (MHI), you are required to register the premises as an MHI with MOM, at least 6 months before operations. 
+If your factory falls under the definition of Major Hazard Installation (MHI), you are required to register the premises as an MHI with MOM, at least 6 months before operations.
 
 From 1 April 2019, construction worksites are not required to be registered with MOM.
 
