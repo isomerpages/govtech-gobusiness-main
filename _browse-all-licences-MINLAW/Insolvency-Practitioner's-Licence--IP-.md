@@ -17,7 +17,7 @@ Ministry of Law (MINLAW)
 <p>Application to hold an insolvency practitioner&apos;s licence to undertake insolvency or debt restructuring work in Singapore.</p> 
 <p><strong>FAQ</strong></p> 
 <p><strong>1. How do I log in to GoBusiness to apply for an insolvency practitioner&rsquo;s licence if I do not have a Singpass account as a foreigner?</strong></p> 
-<p>Foreigners without a Singpass account can <a href="https://gobusiness.gov.sg" target="_blank" rel="noopener">request</a> for a foreign user account to submit their licence application.</p> 
+<p>Foreigners without a Singpass account can <a href="https://go.gov.sg/mlaw-sfa" target="_blank" rel="noopener">request</a> for a foreign user account to submit their licence application.</p> 
 <p><strong>2. What are the criteria to hold an insolvency practitioner&apos;s licence?</strong></p> 
 <p>Section 50(3) of the Insolvency, Restructuring and Dissolution Act 2018 (&ldquo;IRDA&rdquo;) requires an applicant to be a &ldquo;qualified person&rdquo; who is a:<br>a. Solicitor;<br>b. Public accountant; or<br>c. Chartered accountant.</p> 
 <p>You must also fulfil the other requirements imposed by the Licensing Officer. For more details, please refer to Minlaw&rsquo;s <a href="https://lripd.mlaw.gov.sg/" target="_blank" rel="noopener"></a></p> 
