@@ -8,7 +8,7 @@ permalink: /browse-all-equipment-Data-Centre/Enterprise-Servers
 ### Technical Requirements
 
 - Certified by ENERGY STAR 
-- Comply with Class A2 (i.e., A3 and A4 are acceptable) of The American Society of Heating, Refrigerating and Air-conditioning Engineers (ASHRAE) Environmental Classes for Data Centres.
+- Comply minimally with Class A2 (i.e., A3 and A4 are acceptable) of The American Society of Heating, Refrigerating and Air-conditioning Engineers (ASHRAE) Environmental Classes for Data Centres.
 
 ### Mode and Schedule of Payment 
 
