@@ -5,7 +5,7 @@ permalink: /intellectual-property/ip-grow/brandcourage/
 
 ## Brandcourage
 
-Brandcourage is a forward-thinking creative agency in Singapore, we create and communicate the essence of brands. We use strategy and design to create brands that are relevant, informed, and unafraid to stand out. We create great brands with courage, common sense, and consensus - We have a 3-step process that we like to call the 3 Is - Investigate, Integrate, and Ignite -  which is used to create your unique Brand DNA® that will give your business the tools to be extraordinary. We pride ourselves on being a creative agency that does more than churn out a great logo, we think about every aspect of your brand and how that will impact the future of your business.
+Brandcourage is a forward-thinking creative agency in Singapore, we create and communicate the essence of brands. We use strategy and design to create brands that are relevant, informed, and unafraid to stand out. We create great brands with courage, common sense, and consensus - We have a 3-step process that we like to call the 3 Is - Investigate, Integrate, and Ignite - which is used to create your unique Brand DNA that will give your business the tools to be extraordinary. We pride ourselves on being a creative agency that does more than churn out a great logo, we think about every aspect of your brand and how that will impact the future of your business.
 
 
 <b>Year established in Singapore:</b> 2005
@@ -82,7 +82,7 @@ Brandcourage is a forward-thinking creative agency in Singapore, we create and c
 - Location: Singapore
 - IA/IP-Related Expertise: Branding Strategy
 - Certifications/Qualifications: Singapore Business Advisers & Consultants Council (SBACC), Senior Practising Management Consultant, Finalist for Management Consultant Project of the Year
-- Awards/Accolades: Australian Posters Hall of Fame — Inaugural Best Outdoor Poster (Top 100), IDA Design Awards x 6, Singapore Design Awards x 2, Creative Communications Awards x 1
+- Awards/Accolades: Australian Posters Hall of Fame - Inaugural Best Outdoor Poster (Top 100), IDA Design Awards x 6, Singapore Design Awards x 2, Creative Communications Awards x 1
 - URL of LinkedIn/Company Profile: <a href="https://www.brandcourage.com" target="_blank" rel="noopener">https://www.brandcourage.com</a>
 
 
