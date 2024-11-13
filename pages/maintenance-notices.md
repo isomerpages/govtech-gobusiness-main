@@ -14,9 +14,11 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 
 
          
-| 24 Oct, 10pm - 25 Oct, 4am <br> 25 Oct, 10pm - 26 Oct, 2am | **Progressive Wage (PW) Mark Services** will be unavailable during the upcoming scheduled maintenance. |      
-| 25 Oct, 10pm - 26 Oct, 6am<br>26 Oct, 10pm - 27 Oct, 8am | GoBusiness Licensing will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |    
-| 25 Oct, 7pm - 28 Oct, 6am | All transactions for these NPARKS licences will be unavailable due to scheduled maintenance.<br>1) Phytosanitary Certification<br>2) Export Health Certificate for Ornamental Fish
+| 8 Nov, 10pm - 9 Nov, 6am<br>9 Nov, 10pm - 10 Nov, 12pm | GoBusiness Licensing will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |  
+| 8 Nov, 11pm - 9 Nov, 7am | Applications for Skills Development Levy (SDL) will be unvailable during the upcoming schedule maintenance. |   
+| 9 Nov, 2pm - 11 Nov, 8am | All transactions for Registration of Precious Stones and Precious Metals Dealers (MINLAW) will be unavailable during the upcoming scheduled maintenance. |     
+
+
 
 
 
