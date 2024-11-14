@@ -28,58 +28,58 @@ SkillsFuture Singapore (SSG)
 <li><strong>ACRA Printout or Society Registration Certificate</strong><br> 
 For companies, the ACRA bizfile or for societies, the certificate of registration of society.<BR> 
 File format: jpg, xls, pdf<br> 
-Maximum upload per application: 2 MB</li> 
+Maximum upload per application: 7 MB</li> 
 <li><strong>Agreement on Sharing of Premises</strong><br> 
 Any arrangements made with other entities on the sharing of premises if applicable.<BR> 
 File format: jpg, xls, pdf<br> 
-Maximum upload per application: 2 MB</li> 
+Maximum upload per application: 7 MB</li> 
 <li><strong>Approval of Use</strong><br> 
 Approval for the premises to be used as a commercial school granted by URA or HDB.<BR> 
 File format: jpg, xls, pdf<br> 
-Maximum upload per application: 2 MB</li> 
+Maximum upload per application: 7 MB</li> 
 <li><strong>Course Developer's Permissions</strong><br> 
 Proof that course developer or proprietor allows the PEI to offer the course, if applicable.<BR> 
 File format: jpg, xls, pdf<br> 
-Maximum upload per application: 2 MB</li> 
+Maximum upload per application: 7 MB</li> 
 <li><strong>Course Write Up (Certificates and Diploma)</strong><br> 
 For certificates and diploma courses only.<BR> 
 File format: jpg, xls, pdf<br> 
-Maximum upload per application: 2 MB</li> 
+Maximum upload per application: 7 MB</li> 
 <li><strong>Course Write-up (EDPs)</strong><br> 
 For External Degree Programmes.<BR> 
 File format: jpg, xls, pdf<br> 
-Maximum upload per application: 2 MB</li> 
+Maximum upload per application: 7 MB</li> 
 <li><strong>Fire Safety Certificate</strong><br> 
 Fire Safety Certificate issued by FSSD.<BR> 
 File format: jpg, xls, pdf<br> 
-Maximum upload per application: 2 MB</li> 
+Maximum upload per application: 7 MB</li> 
 <li><strong>Floor Plan</strong><br> 
 Floor plan of the premises.<BR> 
 File format: jpg, xls, pdf<br> 
-Maximum upload per application: 2 MB</li> 
+Maximum upload per application: 7 MB</li> 
 <li><strong>Management Committee List</strong><br> 
 For societies only. The designation of each manager in the society's management committee.<BR> 
 File format: jpg, xls, pdf<br> 
-Maximum upload per application: 2 MB</li> 
+Maximum upload per application: 7 MB</li> 
 <li><strong>Manager Declaration Form</strong><br> 
 Required for each manager.<BR> 
 File format: jpg, xls, pdf<br> 
-Maximum upload per application: 2 MB</li> 
+Maximum upload per application: 7 MB</li> 
 <li><strong>Sample Student Contract</strong><BR> 
 File format: jpg, xls, pdf<br> 
-Maximum upload per application: 2 MB</li> 
+Maximum upload per application: 7 MB</li> 
 <li><strong>Sample Certificates</strong><BR> 
 File format: jpg, xls, pdf<br> 
-Maximum upload per application: 2 MB</li> 
+Maximum upload per application: 7 MB</li> 
 <li><strong>Proof of subscription to IWC / FPS</strong><BR> 
 File format: jpg, xls, pdf<br> 
-Maximum upload per application: 2 MB</li> 
+Maximum upload per application: 7 MB</li> 
 <li><strong>Financial Documents / Credit Rating</strong><BR> 
 File format: jpg, xls, pdf<br> 
-Maximum upload per application: 2 MB</li> 
+Maximum upload per application: 7 MB</li> 
 <li><strong>Other Support Document</strong><BR> 
 File format: jpg, xls, pdf<br> 
-Maximum upload per application: 2 MB</li> 
+Maximum upload per application: 7 MB</li> 
 </ul>
 
 <H3>Requirements</H3>
