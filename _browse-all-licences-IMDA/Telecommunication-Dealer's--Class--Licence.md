@@ -30,8 +30,8 @@ Infocomm Media Development Authority (IMDA)
 <H3>Documents Needed</H3>
 
 <ul>
- <li><strong>No supporting document required for online application submission.<br>Agencies may contact applicant if any supporting documents are needed subsequently.</strong></li>
- </ul>
+<li><strong>No supporting document required for online application submission.<br>Agencies may contact applicant if any supporting documents are needed subsequently.</strong></li>
+</ul>
 
 <H3>Requirements</H3>
 
