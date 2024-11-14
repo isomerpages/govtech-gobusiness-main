@@ -27,36 +27,36 @@ Microsoft Dynamics 365 Business Central is an ERP Solution that automates and st
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essentials Edition - SaaS 3 Users with InvoiceNow</td>
 <td style='padding: 10px;'>$24,100.00</td>
-<td style='padding: 10px;'>$19,900.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Dalstech_Microsoft_23052024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$9,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Dalstech_Microsoft_01082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essentials Edition - SaaS 5 Users with InvoiceNow</td>
 <td style='padding: 10px;'>$32,000.00</td>
-<td style='padding: 10px;'>$23,100.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Dalstech_Microsoft_23052024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$11,350.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Dalstech_Microsoft_01082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essentials Edition - SaaS 8 Users with InvoiceNow</td>
 <td style='padding: 10px;'>$41,100.00</td>
-<td style='padding: 10px;'>$26,700.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Dalstech_Microsoft_23052024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$11,350.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Dalstech_Microsoft_01082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essentials Edition - SaaS 10 Users with InvoiceNow</td>
 <td style='padding: 10px;'>$46,000.00</td>
-<td style='padding: 10px;'>$29,100.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Dalstech_Microsoft_23052024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$11,350.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Dalstech_Microsoft_01082024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Edition - SaaS 8 Users with InvoiceNow</td>
 <td style='padding: 10px;'>$53,600.00</td>
-<td style='padding: 10px;'>$30,700.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Dalstech_Microsoft_23052024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$13,820.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Dalstech_Microsoft_01082024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

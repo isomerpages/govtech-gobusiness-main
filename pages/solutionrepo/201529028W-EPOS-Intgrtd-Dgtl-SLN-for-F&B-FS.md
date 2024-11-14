@@ -26,28 +26,28 @@ EPOS Integrated Solution for F&B enables customers to scan a QR code to view the
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Kiosk</td>
 <td style='padding: 10px;'>$8,100.00</td>
 <td style='padding: 10px;'>$8,100.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/EPOS_Integrated_Digital_23052024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/EPOS_Integrated_Digital_23052024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Connected Business Suite</td>
 <td style='padding: 10px;'>$8,100.00</td>
 <td style='padding: 10px;'>$8,100.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/EPOS_Integrated_Digital_23052024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/EPOS_Integrated_Digital_23052024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Connected Business Suite</td>
 <td style='padding: 10px;'>$10,600.00</td>
 <td style='padding: 10px;'>$10,600.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/EPOS_Integrated_Digital_23052024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/EPOS_Integrated_Digital_23052024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Connected Business Suite with Kiosk</td>
 <td style='padding: 10px;'>$12,400.00</td>
 <td style='padding: 10px;'>$10,600.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/EPOS_Integrated_Digital_23052024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/EPOS_Integrated_Digital_23052024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

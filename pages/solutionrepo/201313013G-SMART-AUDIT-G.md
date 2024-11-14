@@ -30,10 +30,6 @@ Smart Audit is a new generation cloud-based audit workflow software. It currentl
 </tr>
 </table>
 
-## Mode and Schedule of Payment
-
- - Subscription / Leasing
-
 ## Vendor Information
 
  Company Name: Smart Audit Pte. Ltd.<br>Web URL: www.smartaudit.co <br>Contact Hotline: 91809136 <br>Contact Email: support@smartaudit.co <br>

@@ -24,19 +24,31 @@ This solution is supported by Singapore Food Agency (SFA).
 <td></td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Aqucultur-fry-qurntn-tnk-systm-Food' target='_blank'>Aquaculture fry quarantine tank system</a><br></td>
+<td></td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Aqucultur-hlth-nd-dss-dgnostc-qt-Food' target='_blank'>Aquaculture health and disease diagnostic equipment</a><br></td>
+<td></td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Automtd-Clnng-Robotsys-Food' target='_blank'>Automated Cleaning Robot/System</a><br></td>
+<td></td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/eqt-Automtd-Countr-Bomss-Estmton-sys-Food' target='_blank'>Automated Counter/ Biomass Estimation System</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Automtd-Sortr-Grdr-Food' target='_blank'>Automated Sorter/ Grader</a><br></td>
-<td></td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Automtd-Vccnton-Food' target='_blank'>Automated Vaccination</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Automtd-Fd-Mnufcturng-sys-Food' target='_blank'>Automated Feed Manufacturing System</a><br></td>
 <td></td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/eqt-Automtd-Irrgton-&-Dosng-sys-Food' target='_blank'>Automated Irrigation & Dosing System</a><br></td>
+<td></td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Automtd-Irrgton-Eqt-sys-Food' target='_blank'>Automated Irrigation Equipment/ System</a><br></td>
 <td></td>
 </tr>
 <tr>
@@ -45,6 +57,14 @@ This solution is supported by Singapore Food Agency (SFA).
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/eqt-Automtd-Slughtrng-Eqt-Food' target='_blank'>Automated Slaughtering Equipment</a><br></td>
+<td></td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Automtd-Sortr-Grdr-Food' target='_blank'>Automated Sorter/ Grader</a><br></td>
+<td></td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Automtd-Vccnton-Food' target='_blank'>Automated Vaccination</a><br></td>
 <td></td>
 </tr>
 <tr>
@@ -68,7 +88,19 @@ This solution is supported by Singapore Food Agency (SFA).
 <td></td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Automtc-wshrsntzr-Food' target='_blank'>Automatic washer/sanitizer</a><br></td>
+<td></td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Clmt-&-Env-Montorng-Control-Eqt-sys-Food' target='_blank'>Climate & Environment Monitoring Control Equipment/ System</a><br></td>
+<td></td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/eqt-Closd-Contnmnt-sys-Food' target='_blank'>Closed Containment System</a><br></td>
+<td></td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Collcton-syss-Food' target='_blank'>Collection Systems</a><br></td>
 <td></td>
 </tr>
 <tr>
@@ -76,7 +108,7 @@ This solution is supported by Singapore Food Agency (SFA).
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Crt-Try-wshng-mchn-Food' target='_blank'>Crate/ Tray washing machine</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Coolr-Eqt-Wlkn-Cold-Room-Food' target='_blank'>Cooler Equipment / Walk-in Cold Room</a><br></td>
 <td></td>
 </tr>
 <tr>
@@ -88,23 +120,35 @@ This solution is supported by Singapore Food Agency (SFA).
 <td></td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Dgtl-qulty-tstng-qt-Food' target='_blank'>Digital quality testing equipment</a><br></td>
+<td></td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/eqt-Er-Tggng-Mchn-Food' target='_blank'>Ear Tagging Machine</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Collcton-syss-Food' target='_blank'>Collection Systems</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Egg-Wshng-sys-Food' target='_blank'>Egg Washing System</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Frm-Procssng-Mchn-Food' target='_blank'>Farm Processing Machine</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Enhncd-dsnfcton-dcontmnton-systm-Food' target='_blank'>Enhanced disinfection/ decontamination system</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Frm-Wshng-sys-Food' target='_blank'>Farm Washing System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Env-Wtr-Nutrnt-Smplng-Montorng-&-Control-Eqt-sys-Food' target='_blank'>Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Enhncd-dsnfcton-systm-Food' target='_blank'>Enhanced disinfection system</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Frm-Produc-Procssng-Mchn-Food' target='_blank'>Farm Produce Processing Machine</a><br></td>
+<td></td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Frm-Produc-Wshng-Mchn-Food' target='_blank'>Farm Produce Washing Machine</a><br></td>
+<td></td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Fd-Plltng-Mchn-Food' target='_blank'>Feed Pelleting Machine</a><br></td>
 <td></td>
 </tr>
 <tr>
@@ -112,7 +156,11 @@ This solution is supported by Singapore Food Agency (SFA).
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Hjck-Clnng-Mchnry-Food' target='_blank'>Hi-jack Cleaning Machinery</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Htng-Vntlton-nd-Arcondtonng-HVAC-systm-Food' target='_blank'>Heating, Ventilation and Air-conditioning (HVAC) system</a><br></td>
+<td></td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Hgh-Prssur-Wtr-Jt-Clnng-Mchnry-Food' target='_blank'>High Pressure Water Jet Cleaning Machinery</a><br></td>
 <td></td>
 </tr>
 <tr>
@@ -124,11 +172,19 @@ This solution is supported by Singapore Food Agency (SFA).
 <td></td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-LED-grow-lghts-Food' target='_blank'>LED grow lights</a><br></td>
+<td></td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/eqt-Lv-Pump-Food' target='_blank'>Live Pump</a><br></td>
 <td></td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/eqt-Mnur-Trtmnt-sys-Food' target='_blank'>Manure Treatment System</a><br></td>
+<td></td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Mlk-Psturston-Eqt-Plnt-Food' target='_blank'>Milk Pasteurisation Equipment/ Plant</a><br></td>
 <td></td>
 </tr>
 <tr>
@@ -140,19 +196,19 @@ This solution is supported by Singapore Food Agency (SFA).
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Psturston-Eqt-Plnt-Food' target='_blank'>Pasteurisation Equipment/ Plant</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Pckng-mchn-Food' target='_blank'>Packing machine</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Plltng-Mchn-Food' target='_blank'>Pelleting Machine</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Pst-Dss-Montorng-nd-Control-Eqt-sys-Food' target='_blank'>Pest/ Disease Monitoring and Control Equipment/ System</a><br></td>
+<td></td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Rnwtr-hrvstng-systm-nd-storg-tnk-Food' target='_blank'>Rainwater harvesting system and storage tank</a><br></td>
 <td></td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/eqt-Rcrcultng-Aqucultur-sys-Food' target='_blank'>Recirculating Aquaculture System</a><br></td>
-<td></td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Robot-Clnr--Food' target='_blank'>Robot Cleaner </a><br></td>
 <td></td>
 </tr>
 <tr>
@@ -168,11 +224,15 @@ This solution is supported by Singapore Food Agency (SFA).
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Vcuum-Coolr-Eqt-Food' target='_blank'>Vacuum Cooler Equipment</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Tmprtur-montorng-lbllng-dvc-Food' target='_blank'>Temperature montoring/ labelling device</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Frm-Produc-Wshng-Mchn-Food' target='_blank'>Farm Produce Washing Machine</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Undrwtr-Cmr--Food' target='_blank'>Underwater Camera </a><br></td>
+<td></td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Wst-dschrg-trtmnt-systm-Food' target='_blank'>Waste / discharge treatment system</a><br></td>
 <td></td>
 </tr>
 <tr>
@@ -181,54 +241,6 @@ This solution is supported by Singapore Food Agency (SFA).
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/eqt-Wtr-Trtmnt-sys-for-Wtr-Rcrculton-or-Dschrg-Food' target='_blank'>Water Treatment System for Water Recirculation or Discharge</a><br></td>
-<td></td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Pst-Dss-Montorng-nd-Control-Eqt-sys-Food' target='_blank'>Pest/ Disease Monitoring and Control Equipment/ System</a><br></td>
-<td></td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Clmt-&-Env-Montorng-Control-Eqt-sys-Food' target='_blank'>Climate & Environment Monitoring Control Equipment/ System</a><br></td>
-<td></td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Env-Wtr-Nutrnt-Smplng-Montorng-&-Control-Eqt-sys-Food' target='_blank'>Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System</a><br></td>
-<td></td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Automtd-Irrgton-Eqt-sys-Food' target='_blank'>Automated Irrigation Equipment/ System</a><br></td>
-<td></td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-HVAC-systm-Food' target='_blank'>HVAC system</a><br></td>
-<td></td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-LED-grow-lghts-Food' target='_blank'>LED grow lights</a><br></td>
-<td></td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Rnwtr-hrvstng-systm-nd-storg-tnk-Food' target='_blank'>Rainwater harvesting system and storage tank</a><br></td>
-<td></td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Pckng-mchn-Food' target='_blank'>Packing machine</a><br></td>
-<td></td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Dgtl-qulty-tstng-qt-Food' target='_blank'>Digital quality testing equipment</a><br></td>
-<td></td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Undrwtr-Cmr--Food' target='_blank'>Underwater Camera </a><br></td>
-<td></td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Tmprtur-montorng-lbllng-dvc-Food' target='_blank'>Temperature montoring/ labelling device</a><br></td>
-<td></td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Fsh-fry-qurntn-tnk-systm-Food' target='_blank'>Fish fry quarantine tank system</a><br></td>
 <td></td>
 </tr>
 </table>

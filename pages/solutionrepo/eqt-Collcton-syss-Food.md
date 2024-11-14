@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Collcton-syss-Food
 
 **Description**
 
-Automatic collector used to collect produce, which can also reduce the damage rate.
+Automatic collector used to collect eggs, which can also reduce the egg damage rate.
 
 ## Solution Packages Option(s)
 
@@ -22,7 +22,7 @@ Automatic collector used to collect produce, which can also reduce the damage ra
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Collection Systems</td>
 <td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px;'>Holding Period of 1 year</td>
 </tr>
 </table>
 

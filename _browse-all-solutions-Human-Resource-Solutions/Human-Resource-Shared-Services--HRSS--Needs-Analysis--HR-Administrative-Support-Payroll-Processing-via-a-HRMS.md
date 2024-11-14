@@ -6,10 +6,6 @@ permalink: /browse-all-solutions-Human-Resource-Solutions/Human-Resource-Shared-
 ## Human Resource Shared Services (HRSS) Needs Analysis, HR Administrative Support & Payroll Processing via a HRMS
 ## Overview
 
-**Description**
-
-Review a company's internal HR process, offer a HRMS system and provide HR administrative and payroll processing support such as issuing payslips, ePayment of salaries, leave, attendance and claims.
-
 **Support Level and Conditions**
 
 Up to 50% for SMEs, N.A. for non-SMEs
@@ -32,16 +28,20 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201410040G-BIPO-HR-MGT-Systm-nd-Pyroll-Outsourcng-SVCs-G' target='_blank'>BIPO Human Resource Management System and Payroll Outsourcing Services</a><br></td>
+<td>BIPO Service Singapore Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200005018Z-Frontr-HR-HRSS-v-8-G' target='_blank'>Frontier eHR HRSS Version 8</a><br></td>
 <td>Frontier e-HR Pte Ltd </td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201539815G-HRSS-&-Pyroll-Procssng-wth-QuckHR-G' target='_blank'>HRSS & Payroll Processing with QuickHR</a><br></td>
-<td>Acc Pro (Singapore) Pte. Ltd.</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200801526G-HR-Admnstrton-nd-Pyroll-Procssng-wth-SS-SLNs-v-2341-G' target='_blank'>HR Administration and Payroll Processing with SaaS Solutions Version 23-4.1</a><br></td>
+<td>MATCH RESOURCES PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201725862C-HR-Shrd-SVCs-by-RcrutSG-G' target='_blank'>HR Shared Services by RecruitSG</a><br></td>
-<td>RECRUIT.COM.SG PTE. LTD.</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201539815G-HRSS-&-Pyroll-Procssng-wth-QuckHR-G' target='_blank'>HRSS & Payroll Processing with QuickHR</a><br></td>
+<td>Acc Pro (Singapore) Pte. Ltd.</td>
 </tr>
 </table>
 
