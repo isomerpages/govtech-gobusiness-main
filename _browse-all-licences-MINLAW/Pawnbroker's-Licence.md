@@ -22,7 +22,7 @@ For new licence application, there will also be licence fee payment ($3,000/- pe
 <ol>
 <li><Strong>Who can I contact for further details?</Strong><br>
 You can get more information for Pawnbrokers on Minlaw website.<br>
-Please refer to weblink: <a href="http://www.mlaw.gov.sg/rop" target="_blank" rel="noopener">http://www.mlaw.gov.sg/rop</a>.</li>
+Please refer to weblink: <a href="https://rop.mlaw.gov.sg/" target="_blank" rel="noopener">https://rop.mlaw.gov.sg/</a>.</li>
 </ol>
 
 <strong>Additional Information</strong>
@@ -41,7 +41,7 @@ Security Deposit: $100,000/- in the form of Banker's Guarantee/Insurance Guarant
 <li><strong>Letter of Authorisation for 3rd Party filing</strong><br>
 Upload of NRICs of all personnels - office bearers, manager, directors and shareholders; and upload a copy of tenancy agreement for the proposed pawnshop premises.<br>
 File format: doc, docx, jpg, pdf, gif<br>
-Maximum upload per application: 2 MB</li>
+Maximum upload per application: 7 MB</li>
 </ul>
 
 <H3>Requirements</H3>
