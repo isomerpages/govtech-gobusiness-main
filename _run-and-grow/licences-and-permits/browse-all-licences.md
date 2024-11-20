@@ -150,9 +150,9 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - Asatizah Recognition Scheme
 - [Certificate of Registration of School](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=37)
 - [Early Childhood Development Centre Licence](https://dashboard.gobusiness.gov.sg/task-details/706f7bbc-5f8c-46d6-b908-65b30b831a87)
-- [EduTrust Certification Scheme](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=36)
+- [EduTrust Certification Scheme](https://dashboard.gobusiness.gov.sg/task-details/edutrust)
 - [Islamic Education Centres and Providers Registration](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=234)
-- [Registration of Private Education Institutions](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=35)
+- [Registration of Private Education Institutions](https://dashboard.gobusiness.gov.sg/task-details/ssgpei)
 
 <a name="employment-and-labour-services"></a>
 
@@ -193,7 +193,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Commercial Bank Licence](https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Commercial-Banks.aspx)
 - [Financial Adviser's Licence](https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Financial-Advisers.aspx)
 - [House to House and Street Collections Licence](https://dashboard.gobusiness.gov.sg/task-details/house-house-street-collections)
-- [Insolvency Practitioner Licence (IP)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=274)
+- [Insolvency Practitioner Licence (IP)](https://dashboard.gobusiness.gov.sg/task-details/insolvencypractitioner)
 - [Insurer Licence](https://www.mas.gov.sg/regulation/Insurance/Types-of-Insurers-in-Singapore)
 - [Licence for Debt Collection Business](https://dashboard.gobusiness.gov.sg/task-details/1b4a2551-fd14-4559-ac97-271ea6457409)
 - [Major Payment Institution Licence](https://www.mas.gov.sg/regulation/payments/major-payment-institution-licence)
