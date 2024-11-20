@@ -32,12 +32,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>LittleLives Inc Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199905781M-Qoqolo-SCH-MGT-Systm-v-4-EC' target='_blank'>Qoqolo School Management System Version 4</a><br></td>
-<td>CommonTown Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201304337W-Td-SMART-IT-SLN-for-PrSCH-EC' target='_blank'>Taidii SMART IT Solution for Preschool</a><br></td>
 <td>Taidii Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/199905781M-Qoqolo-SCH-MGT-Systm-v-4-EC' target='_blank'>Qoqolo School Management System Version 4</a><br></td>
+<td>CommonTown Pte Ltd</td>
 </tr>
 </table>
 
