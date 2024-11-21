@@ -11,17 +11,16 @@ permalink: /browse-all-equipment-Manufacturing/Boiler-System
 <tr>
     <th width="30%"><b>Supportable Solutions</b></th>
     <th width="auto"><b>Technical Requirements</b></th>
+    <th width="auto"><b>Pre-Approved Equipment Brands and Models</b></th>
 </tr>
 <tr>
     <td><b>Heat pump</b></td>
     <td>Energy efficient alternative to Natural Gas boiler</td>
-    <td><b>Pre-Approved Equipment Brands and Models</b></td>
     <td>8</td>
 </tr>
 <tr>
     <td><b>Boiler</b></td>
     <td>Natural Gas boiler of 92% efficiency or better</td>
-    <td><b>Pre-Approved Equipment Brands and Models</b></td>
     <td>10</td>
 </tr>
 <tr>
