@@ -14,11 +14,15 @@ permalink: /browse-all-equipment-Manufacturing/Boiler-System
 </tr>
 <tr>
     <td><b>Heat pump</b></td>
-    <td>As an energy efficient alternative to Natural Gas boiler</td>
+    <td>Energy efficient alternative to Natural Gas boiler</td>
+    <td><b>Pre-Approved Equipment Brands and Models</b></td>
+    <td>8</td>
 </tr>
 <tr>
     <td><b>Boiler</b></td>
     <td>Natural Gas boiler of 92% efficiency or better</td>
+    <td><b>Pre-Approved Equipment Brands and Models</b></td>
+    <td>10</td>
 </tr>
 <tr>
     <td><b>Heat recovery for boiler system</b><br><b>- Economiser</b><br><b>- Condensate heat recovery</b></td>
