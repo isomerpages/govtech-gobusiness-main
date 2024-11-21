@@ -13,10 +13,13 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 | **Scheduled Date** | **Remarks** |  
 
 
-         
-| 24 Oct, 10pm - 25 Oct, 4am <br> 25 Oct, 10pm - 26 Oct, 2am | **Progressive Wage (PW) Mark Services** will be unavailable during the upcoming scheduled maintenance. |      
-| 25 Oct, 10pm - 26 Oct, 6am<br>26 Oct, 10pm - 27 Oct, 8am | GoBusiness Licensing will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |    
-| 25 Oct, 7pm - 28 Oct, 6am | All transactions for these NPARKS licences will be unavailable due to scheduled maintenance.<br>1) Phytosanitary Certification<br>2) Export Health Certificate for Ornamental Fish
+ 
+| 21 Nov, 6:30pm - 11pm | Application, amendment, renewal & cancellation of Singapore Police Force (SPF) licences will be unavailable during the upcoming scheduled maintenance. |     
+| 22 Nov, 10pm - 23 Nov, 8am<br>23 Nov, 10pm - 24 Nov, 8am | GoBusiness Licensing will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |    
+| 25 Nov, 12pm - 3 Dec, 2pm | All transactions for these IMDA licences will be unavailable due to scheduled maintenance.<br>1) Telecommunication Dealer’s (Class) Licence (TDC)<br>2) Telecommunication Dealer’s (Individual) Licence (TDI)<br>3) Enhanced Simplified Equipment Registration (ESER)<br>4) Simplified Equipment Registration (SER)<br>5) General Equipment Registration (GER)<br>6) General Equipment Registration by Certification Bodies (GER-CB)<br>7)  Application for Confirmation of Conformity (COFC)    
+
+
+
 
 
 

@@ -28,22 +28,6 @@ Select a service provider below to view their profile and connect with them.
 
 {% include panels-featurelink-ipgrow.html ipTitle="tax advisory (with IA/IP considerations)" secondTitle="tax advisory services (with IA/IP considerations)" %}
 
-#### CLA Global TS Advisory Pte Ltd
-
-CLA Global TS is an Asia-focused business advisor providing assurance, tax and advisory services, including valuation, transaction due diligence and M&A advisory. 
-
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Above $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $20,000</li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/66de4f32e0c3bdf121b98ceb' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/cla-global-ts-advisory-pte-ltd/){:target='_blank'}
-
----
-
 #### PricewaterhouseCoopers Singapore Pte. Ltd.
 
 Community of solvers combining innovative technologies to build trust and deliver sustained outcomes.
@@ -191,6 +175,22 @@ We go beyond business as usual, so you can too.
 </ul>
 
 <a class='btn' href='https://form.gov.sg/6653e255bd207e36db9b8de8' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/grant-thornton-singapore-private-limited/){:target='_blank'}
+
+---
+
+#### CLA Global TS Advisory Pte Ltd
+
+CLA Global TS is an Asia-focused business advisor providing assurance, tax and advisory services, including valuation, transaction due diligence and M&A advisory. 
+
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Above $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $20,000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/66de4f32e0c3bdf121b98ceb' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/cla-global-ts-advisory-pte-ltd/){:target='_blank'}
 
 ---
 

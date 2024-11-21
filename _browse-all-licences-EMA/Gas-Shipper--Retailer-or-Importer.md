@@ -49,37 +49,40 @@ e) any other relevant codes of practice under Section 62 of the Gas Act.</li>
 
 <ul>
 <li><strong>Audited statements, balance sheets, cash flow statements and credit statement</strong><br>
-Past 2 years' audited financial statements which could include income statements, balance sheets, cash flow statements and credit statement or credit rating (if any), including any history of bankruptcy or financial distress<br /><br />For new applications: Newly incorporated companies which could not provide any audited statements, balance sheets, cash flow statements and credit statement may alternatively submit a 5-year projected financial statements, critical assumptions on the financial projection, proposed capital structure and an expense breakdown.
-<br>File format: doc, docx, jpeg, jpg, pdf, png, xls, xlsx
+Past 2 years' audited financial statements which could include income statements, balance sheets, cash flow statements and credit statement or credit rating (if any), including any history of bankruptcy or financial distress<br>For new applications: Newly incorporated companies which could not provide any audited statements, balance sheets, cash flow statements and credit statement may alternatively submit a 5-year projected financial statements, critical assumptions on the financial projection, proposed capital structure and an expense breakdown.
+<br>Document(s) Format(s): (*.doc, *.docx, *.jpeg, *.jpg, *.pdf, *.png, *.xls, *.xlsx)
 <br>Maximum upload per application: 7 MB</li>
 
 <li><strong>Description of the business plan, including but not limited to the proposed sources of natural gas and customers</strong>
-<br>File format: doc, docx, jpeg, jpg, pdf, png, xls, xlsx
+<br>Document(s) Format(s): (*.doc, *.docx, *.jpeg, *.jpg, *.pdf, *.png, *.xls, *.xlsx)
 <br>Maximum upload per application: 7 MB</li>
 
 <li><strong>Proposed annual maximum import quantities, in bbtu, for each year of planned import (For Importers Only)</strong>
-<br>File format: doc, docx, jpeg, jpg, pdf, png, xls, xlsx
+<br>Document(s) Format(s): (*.doc, *.docx, *.jpeg, *.jpg, *.pdf, *.png, *.xls, *.xlsx)
 <br>Maximum upload per application: 7 MB</li>
 
 <li><strong>Certified true copy of the applicant's gas sale agreements/gas contracts with its gas suppliers or other supporting documents, including but not limited to quantities of Piped Natural Gas or Liquefied Natural Gas available, or which are anticipated to be available, for import (For Importers Only)</strong>
-<br>File format: doc, docx, jpeg, jpg, pdf, png, xls, xlsx
+<br>Document(s) Format(s): (*.doc, *.docx, *.jpeg, *.jpg, *.pdf, *.png, *.xls, *.xlsx)
 <br>Maximum upload per application: 7 MB</li>
 
 <li><strong>Anticipated annual quantities for retail, for each year of planned retail purposes (For Retailers Only)</strong>
-<br>File format: doc, docx, jpeg, jpg, pdf, png, xls, xlsx
+<br>Document(s) Format(s): (*.doc, *.docx, *.jpeg, *.jpg, *.pdf, *.png, *.xls, *.xlsx)
 <br>Maximum upload per application: 7 MB</li>
 
 <li><strong>Amount of firm capacity rights issued by PowerGas to a Gas Shipper Licensee to ship gas for the applicant (For Retailers Only)</strong>
-<br>File format: doc, docx, jpeg, jpg, pdf, png, xls, xlsx
+<br>Document(s) Format(s): (*.doc, *.docx, *.jpeg, *.jpg, *.pdf, *.png, *.xls, *.xlsx)
 <br>Maximum upload per application: 7 MB</li>
 
 <li><strong>Organisation chart including resume and curriculum vitae (CV) of key appointment holders</strong>
-<br>File format: doc, docx, jpeg, jpg, pdf, png, xls, xlsx
+<br>Document(s) Format(s): (*.doc, *.docx, *.jpeg, *.jpg, *.pdf, *.png, *.xls, *.xlsx)
 <br>Maximum upload per application: 7 MB</li>
 
-<li><strong>Other supporting documents (if any)</strong></li>
+<li><strong>Other supporting documents (if any)</strong>
+<br>Document(s) Format(s): (*.doc, *.docx, *.jpeg, *.jpg, *.pdf, *.png, *.xls, *.xlsx)
+<br>Maximum upload per application: 7 MB</li>
 </ul>
 
 <H3>Requirements</H3>
 
 Applicant must be ACRA registered company/business
+
