@@ -18,7 +18,7 @@ permalink: /browse-all-equipment-Manufacturing/Compressed-Air-System
 </tr>
 <tr>
     <td><b>Dryer</b> for compressed air system</td>
-    <td>Zero Purge Desiccant dryer<br>Heat of Compression dryer</td>
+    <td>Zero Purge Desiccant dryer or Heat of Compression dryer</td>
 </tr>
 <tr>
     <td><b>Air blowers</b></td>
