@@ -147,7 +147,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 <a name="education"></a>
 
 ## Education
-- Asatizah Recognition Scheme
+- Asatizah Recognition Scheme(https://ilm-tms.muis.gov.sg/)
 - [Certificate of Registration of School](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=37)
 - [Early Childhood Development Centre Licence](https://dashboard.gobusiness.gov.sg/task-details/706f7bbc-5f8c-46d6-b908-65b30b831a87)
 - [EduTrust Certification Scheme](https://dashboard.gobusiness.gov.sg/task-details/edutrust)
