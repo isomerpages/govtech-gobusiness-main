@@ -56,11 +56,11 @@ This solution is supported by National Parks Board (NParks).
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Tr-Dgnostc-qt-Lndscp' target='_blank'>Tree Diagnostic equipment</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Tr-mngmnt-systms-Lndscp' target='_blank'>Tree management systems</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Tr-mngmnt-systms-Lndscp' target='_blank'>Tree management systems</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Tr-Dgnostc-qt-Lndscp' target='_blank'>Tree Diagnostic equipment</a><br></td>
 <td></td>
 </tr>
 </table>
