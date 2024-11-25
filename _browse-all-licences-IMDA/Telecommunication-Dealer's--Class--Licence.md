@@ -1,6 +1,6 @@
 ---
 title: Telecommunication Dealer's (Class) Licence
-permalink: /browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Telecommunication-Dealer's-(Class)-Licence
+permalink: /browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Telecommunication-Dealers-(Class)-Licence
 third_nav_title: Infocomm Media Development Authority (IMDA)
 ---
 
