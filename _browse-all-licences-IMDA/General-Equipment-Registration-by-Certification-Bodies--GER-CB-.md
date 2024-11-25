@@ -18,7 +18,7 @@ Infocomm Media Development Authority (IMDA)
 
 <strong>Additional Information</strong>
 
-<p><strong>Family Series Fee</strong><br />$100.00 or $50.00</p>
+<p><strong>Registration Fee</strong><br />$100.00 (per model) or $50.00 (Family Series Fee)</p>
 
 <H3>Documents Needed</H3>
 

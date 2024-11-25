@@ -596,13 +596,6 @@
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/cofc" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Application-for-Confirmation-of-Conformity-(COFC)">View Licence Details</a>
 
         -----
-        **Arts Entertainment Licence**
-
-        The provision of publicly-accessible Arts entertainment events such as plays, stand-up comedies, dance performances, music performances (such as variety shows and concerts), art exhibitions and literary readings (such as play-readings and poetry-readings), require an Arts Entertainment licence unless exempted. Find out more here.
-
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/artsentertainmentlicence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Arts-Entertainment-Licence">View Licence Details</a>
-
-        -----
         **Computer Online Service Licence**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
@@ -892,7 +885,7 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        Equipment registration under the Simplified Equipment Registration (SER) Scheme is for equipment suppliers who wish to register Mobile Terminals (LTE/3G/GMPCS) or Broadband Access Equipment (ADSL, Cable Modem and CCHN).
+        Equipment registration under the Simplified Equipment Registration (SER) Scheme is for equipment suppliers who wish to register Mobile Terminals (5G/LTE/GMPCS) or Broadband Access Equipment (ADSL, Cable Modem and CCHN).
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/ser" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Simplified-Equipment-Registration-(SER)">View Licence Details</a>
 
@@ -947,18 +940,16 @@
 
         For the manufacture, import, hire, sale, offer or possession for sale of any approved (by way of registration) telecommunication equipment or equipment set out in the First Schedule of the Telecommunication (Dealers) Regulations (the "Regulations").
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=25" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Telecommunication-Dealer's-(Class)-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Telecommunication-Dealer's-(Class)-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/telecommunicationdealersclass" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Telecommunication-Dealers-(Class)-Licence">View Licence Details</a>
 
         -----
         **Telecommunication Dealer's (Individual) Licence**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        For the manufacture, import, hire, sale, offer or possession for sale of any approved telecommunication equipment or equipment set out in the First Schedule of the Telecommunication (Dealers) Regulations (the "Regulations") and includes the manufacture, import and sale of non- approved equipment for the sole purpose of re-export.
+        For the manufacture, import, hire, sale, offer or possession for sale of any approved telecommunication equipment or equipment set out in the First Schedule of the Telecommunication (Dealers) Regulations (the "Regulations") and includes the manufacture, import and sale of non-approved equipment for the sole purpose of re-export.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=26" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Telecommunication-Dealer's-(Individual)-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Telecommunication-Dealer's-(Individual)-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/telecommunicationdealersindividual" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Telecommunication-Dealers-(Individual)-Licence">View Licence Details</a>
 
         -----
         **Telecommunication Wiring Contractor's (Class) Licence**
