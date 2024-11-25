@@ -50,6 +50,34 @@ Xero is an online accounting software for SMEs, to be able to automate their eve
 <td style='padding: 10px;'>$3,750.00</td>
 <td style='padding: 10px;'><a href='/images/psg/Agere_XeroCloudAccounting_17102024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Subscription</td>
+<td style='padding: 10px;'>$960.00</td>
+<td style='padding: 10px;'>$881.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASHOKATREE_Xero_17102024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Essential</td>
+<td style='padding: 10px;'>$2,560.00</td>
+<td style='padding: 10px;'>$2,481.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASHOKATREE_Xero_17102024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 7</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Enhance</td>
+<td style='padding: 10px;'>$3,360.00</td>
+<td style='padding: 10px;'>$3,281.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASHOKATREE_Xero_17102024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 8</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Elevate</td>
+<td style='padding: 10px;'>$4,160.00</td>
+<td style='padding: 10px;'>$4,081.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASHOKATREE_Xero_17102024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment

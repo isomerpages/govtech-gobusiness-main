@@ -31,10 +31,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/199602373D-A2000ERP-v-12X-WT' target='_blank'>A2000ERP Version 12.X</a><br></td>
 <td>A2000 Solutions Pte Ltd</td>
 </tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200615630E-Mcrosoft-Dynmcs-365-Busnss-Cntrl-WT' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
-<td>Winspire Solutions Pte Ltd</td>
-</tr>
 </table>
 
 {% include banner-psg-survey.html %}

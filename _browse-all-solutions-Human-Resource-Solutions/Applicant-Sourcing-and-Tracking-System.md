@@ -20,12 +20,12 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201400012M-AIOSoftwr-G' target='_blank'>AIO-Software</a><br></td>
-<td>AIO Interactive Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201322246H-RcrutrPl-G' target='_blank'>RecruiterPal</a><br></td>
 <td>Hyperscal Solutions Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201400012M-AIOSoftwr-G' target='_blank'>AIO-Software</a><br></td>
+<td>AIO Interactive Pte Ltd</td>
 </tr>
 </table>
 
