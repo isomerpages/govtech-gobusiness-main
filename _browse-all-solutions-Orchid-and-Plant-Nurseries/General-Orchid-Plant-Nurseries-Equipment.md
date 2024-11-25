@@ -20,11 +20,11 @@ This solution is supported by National Parks Board (NParks).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Grnhous-systms-clmt-controlld-mngmnt-systms-Orchd-nd-Plnt-Nursrs' target='_blank'>Greenhouse systems, climate controlled management systems</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Grow-lghts-Orchd-nd-Plnt-Nursrs' target='_blank'>Grow lights</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Grow-lghts-Orchd-nd-Plnt-Nursrs' target='_blank'>Grow lights</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Grnhous-systms-clmt-controlld-mngmnt-systms-Orchd-nd-Plnt-Nursrs' target='_blank'>Greenhouse systems, climate controlled management systems</a><br></td>
 <td></td>
 </tr>
 <tr>
