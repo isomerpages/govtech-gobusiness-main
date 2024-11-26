@@ -1,6 +1,6 @@
 ---
 title: Pawnbroker's Licence
-permalink: /browse-all-licences/Ministry-of-Law-(MINLAW)/Pawnbrokers-Licence
+permalink: /browse-all-licences/Ministry-of-Law-(MINLAW)/Pawnbroker's-Licence
 third_nav_title: Ministry of Law (MINLAW)
 ---
 
