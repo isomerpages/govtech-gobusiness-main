@@ -1,6 +1,6 @@
 ---
 title: Insolvency Practitioner's Licence (IP)
-permalink: /browse-all-licences/Ministry-of-Law-(MINLAW)/Insolvency-Practitioners-Licence-(IP)
+permalink: /browse-all-licences/Ministry-of-Law-(MINLAW)/Insolvency-Practitioner's-Licence-(IP)
 third_nav_title: Ministry of Law (MINLAW)
 ---
 
