@@ -15,7 +15,7 @@ We are the most active consulting company in Asia. We know franchising.
 
 <b>Top focus areas for IA/IP services:</b> IP Brokerage and Licensing
 
-<b>Intellectual property awards received:</b> Presented Appreciation plaque-Egyptian Franchise Development Association 2018 ;  Leadership for Good 2021/2022 Honouree - by Brands for Good (by International Property Council - IPIIC, Singapore Chapter & Intellectual Property Office of Singapore Society) ; Presented the WALI-KADIN “Franchise Appreciation 2018 Award”. WALI is the Indonesia Franchising & Licensing Society, KADIN is the Indonesia Chamber of Commerce ; Listed as one of the leading practitioners in franchising by Who's Who Legal: Franchising 2017
+<b>Intellectual property awards received:</b> Presented Appreciation plaque-Egyptian Franchise Development Association 2018 ;  Leadership for Good 2021/2022 Honouree - by Brands for Good (by International Property Council - IPIIC, Singapore Chapter & Intellectual Property Office of Singapore Society) ; Presented the WALI-KADIN "Franchise Appreciation 2018 Award". WALI is the Indonesia Franchising & Licensing Society, KADIN is the Indonesia Chamber of Commerce ; Listed as one of the leading practitioners in franchising by Who's Who Legal: Franchising 2017
 
 
 <b>Type of organization:</b> SME
@@ -66,7 +66,7 @@ We are the most active consulting company in Asia. We know franchising.
 <a name='testimonials'></a>
 ### Testimonials
 
-*"*Engaged Asiawide Franchise Consultants Pte Ltd as our franchise consultant after our meeting with the major consultants in Singapore due to its professionalism, proven regional experiences and holistic knowledge in franchise and consultancy services. And we certainly made the most correct decision. Asiawide has assisted us diligently in building up and launching our franchise systems and programs in the region in the past few years. We are even more impressed with their prompt and efficient after sales support services. We highly recommend Asiawide Franchise Consultants Pte Ltd to the business community.” - Keith To, Crystal Jade Group
+*"*Engaged Asiawide Franchise Consultants Pte Ltd as our franchise consultant after our meeting with the major consultants in Singapore due to its professionalism, proven regional experiences and holistic knowledge in franchise and consultancy services. And we certainly made the most correct decision. Asiawide has assisted us diligently in building up and launching our franchise systems and programs in the region in the past few years. We are even more impressed with their prompt and efficient after sales support services. We highly recommend Asiawide Franchise Consultants Pte Ltd to the business community.ï¿½ - Keith To, Crystal Jade Group
 
 *"Asiawide Franchise Consultants developed our franchise in the early 1990s before we were even publicly listed. Over the years, they have kept in touch with us and last year, they found for us our Master Franchisee in Indonesia. We find them professional, trustworthy, reliable and most committed to providing excellent service."* - Charlie Teo
 
