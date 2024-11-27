@@ -354,7 +354,7 @@ Claudian Caucus is Asia's leading IP strategy and consulting firm specialising i
 
 #### Collyer Law LLC
 
-Boutique SG law firm with Big Law?  lawyers focused on emerging technology and the innovation economy.
+Boutique SG law firm with Big Law lawyers focused on emerging technology and the innovation economy.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>

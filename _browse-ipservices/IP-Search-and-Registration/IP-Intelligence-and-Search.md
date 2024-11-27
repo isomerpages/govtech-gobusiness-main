@@ -626,7 +626,7 @@ We work as a team to help clients grow their IP assets for international markets
 
 #### Collyer Law LLC
 
-Boutique SG law firm with Big Law?  lawyers focused on emerging technology and the innovation economy.
+Boutique SG law firm with Big Law lawyers focused on emerging technology and the innovation economy.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
