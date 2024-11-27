@@ -36,3 +36,26 @@ Up to 70% for SMEs, 30% for non-SMEs
 
 Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a>.
 
+### Pre-Approved Equipment Brands and Models (Boiler)
+
+- Miura - EI 1000 GS
+- Miura - EI 1500 GS
+- Miura - EI 2000 GU
+- Miura - EX 500 GS
+- Miura - EX 750 GS
+- Miura - SI 2000 GVS
+- Miura - SI 2500 GVS
+- Miura - SQ 2000 AS
+- Miura - SQ 2500 AS
+- Miura - SQ 3000 AS
+
+### Pre-Approved Equipment Brands and Models (Heat Pump)
+
+- MAN Energy Solutions - MAN HPS/HPL - RG
+- MAN Energy Solutions - MAN HPS/HPL - RH
+- MAN Energy Solutions - MAN HPU28
+- MAN Energy Solutions - MAN HPU33
+- MAN Energy Solutions - MAN HPU43
+- MYCOM - HE-HWA-2HTCR-400
+- MYCOM - HE-HWAW-2HTCR-400
+- MYCOM - HE-HWW-2HTCR-400
