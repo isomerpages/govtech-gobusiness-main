@@ -28,11 +28,7 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Automtc-Flng-Sprdr-Eng-Srvcs' target='_blank'>Automatic Flange Spreader</a><br></td>
-<td></td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Automtc-Nut-Splttr-Eng-Srvcs' target='_blank'>Automatic Nut Splitter</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Probng-sys-Eng-Srvcs' target='_blank'>Probing System</a><br></td>
 <td></td>
 </tr>
 <tr>
@@ -40,7 +36,15 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td></td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Vrtcl-Crousl-Eng-Srvcs' target='_blank'>Vertical Carousel</a><br></td>
+<td></td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/eqt-Dgtl-Wldng-Eqt--Eng-Srvcs' target='_blank'>Digital Welding Equipment </a><br></td>
+<td></td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Automtc-Nut-Splttr-Eng-Srvcs' target='_blank'>Automatic Nut Splitter</a><br></td>
 <td></td>
 </tr>
 <tr>
@@ -48,11 +52,11 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Lqud-Fllng-Mchn-Eng-Srvcs' target='_blank'>Liquid Filling Machine</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Torqu-Multplr-Eng-Srvcs' target='_blank'>Torque Multiplier</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Probng-sys-Eng-Srvcs' target='_blank'>Probing System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Automtc-Flng-Sprdr-Eng-Srvcs' target='_blank'>Automatic Flange Spreader</a><br></td>
 <td></td>
 </tr>
 <tr>
@@ -60,11 +64,7 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Torqu-Multplr-Eng-Srvcs' target='_blank'>Torque Multiplier</a><br></td>
-<td></td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Vrtcl-Crousl-Eng-Srvcs' target='_blank'>Vertical Carousel</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Lqud-Fllng-Mchn-Eng-Srvcs' target='_blank'>Liquid Filling Machine</a><br></td>
 <td></td>
 </tr>
 </table>

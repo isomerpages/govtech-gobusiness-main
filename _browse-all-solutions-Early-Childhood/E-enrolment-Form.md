@@ -28,10 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/T14LL1727F-EForm-HAVSCH-v-41-EC' target='_blank'>E-Form (HAVSchool) Version 4.1</a><br></td>
-<td>HAVENCE PORTAL LLP</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/199905781M-Qoqolo-PrSCH-EForm-EC' target='_blank'>Qoqolo Preschool E-Form</a><br></td>
 <td>CommonTown Pte Ltd</td>
 </tr>

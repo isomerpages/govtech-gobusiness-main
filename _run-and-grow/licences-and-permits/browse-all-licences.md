@@ -147,12 +147,12 @@ Select an industry to see a list of relevant licences here. You can also browse 
 <a name="education"></a>
 
 ## Education
-- Asatizah Recognition Scheme
+- Asatizah Recognition Scheme(https://ilm-tms.muis.gov.sg/)
 - [Certificate of Registration of School](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=37)
 - [Early Childhood Development Centre Licence](https://dashboard.gobusiness.gov.sg/task-details/706f7bbc-5f8c-46d6-b908-65b30b831a87)
-- [EduTrust Certification Scheme](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=36)
+- [EduTrust Certification Scheme](https://dashboard.gobusiness.gov.sg/task-details/edutrust)
 - [Islamic Education Centres and Providers Registration](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=234)
-- [Registration of Private Education Institutions](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=35)
+- [Registration of Private Education Institutions](https://dashboard.gobusiness.gov.sg/task-details/ssgpei)
 
 <a name="employment-and-labour-services"></a>
 
@@ -189,7 +189,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Application for Merchant Bank](https://www.mas.gov.sg/regulation/Banking/Licensing-and-Authorisation-for-Banking-Business)
 - [Approval for Debt Collector](https://dashboard.gobusiness.gov.sg/task-details/4eeba687-8b63-4ea8-b303-0079a44fda8c)
 - [Capital Markets Services Licence](https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Securities-Futures-and-Funds-Management.aspx)
-- [Certificate of Exemption (the Moneylenders Act (Cap.188))](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10055)
+- [Certificate of Exemption (the Moneylenders Act (Cap.188))](https://dashboard.gobusiness.gov.sg/task-details/certificateofexemption)
 - [Commercial Bank Licence](https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Commercial-Banks.aspx)
 - [Financial Adviser's Licence](https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Financial-Advisers.aspx)
 - [House to House and Street Collections Licence](https://dashboard.gobusiness.gov.sg/task-details/house-house-street-collections)
@@ -198,8 +198,9 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Licence for Debt Collection Business](https://dashboard.gobusiness.gov.sg/task-details/1b4a2551-fd14-4559-ac97-271ea6457409)
 - [Major Payment Institution Licence](https://www.mas.gov.sg/regulation/payments/major-payment-institution-licence)
 - [Money-Changer's Licence](https://www.mas.gov.sg/regulation/payments/money-changing-licence)
-- [Moneylender's Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=18)
-- [Pawnbroker's Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=24)
+- [Moneylender's Licence](https://dashboard.gobusiness.gov.sg/task-details/moneylender)
+- [Pawnbroker's Licence](https://dashboard.gobusiness.gov.sg/task-details/pawnbrokerlicence)
+- [Registration for Moneylender's Test](https://dashboard.gobusiness.gov.sg/task-details/moneylendertest)
 - [Standard Payment Institution Licence](https://www.mas.gov.sg/regulation/payments/standard-payment-institution-licence)
 - [Trust Business Licence](https://www.mas.gov.sg/regulation/capital-markets/Trust-Business-Licence)
 

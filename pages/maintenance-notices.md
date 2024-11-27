@@ -13,10 +13,9 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 | **Scheduled Date** | **Remarks** |  
 
 
-         
-| 8 Nov, 10pm - 9 Nov, 6am<br>9 Nov, 10pm - 10 Nov, 12pm | GoBusiness Licensing will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |  
-| 8 Nov, 11pm - 9 Nov, 7am | Applications for Skills Development Levy (SDL) will be unvailable during the upcoming schedule maintenance. |   
-| 9 Nov, 2pm - 11 Nov, 8am | All transactions for Registration of Precious Stones and Precious Metals Dealers (MINLAW) will be unavailable during the upcoming scheduled maintenance. |     
+ 
+| 25 Nov, 12pm - 5 Dec, 2pm | All transactions for these IMDA licences will be unavailable due to scheduled maintenance.<br>1) Telecommunication Dealer’s (Class) Licence (TDC)<br>2) Telecommunication Dealer’s (Individual) Licence (TDI)<br>3) Enhanced Simplified Equipment Registration (ESER)<br>4) Simplified Equipment Registration (SER)<br>5) General Equipment Registration (GER)<br>6) General Equipment Registration by Certification Bodies (GER-CB)<br>7)  Application for Confirmation of Conformity (COFC) |          
+
 
 
 
