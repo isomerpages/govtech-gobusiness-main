@@ -7,7 +7,6 @@ permalink: /intellectual-property/ip-grow/brandcourage/
 
 Brandcourage is a forward-thinking creative agency in Singapore, we create and communicate the essence of brands. We use strategy and design to create brands that are relevant, informed, and unafraid to stand out. We create great brands with courage, common sense, and consensus - We have a 3-step process that we like to call the 3 Is - Investigate, Integrate, and Ignite - which is used to create your unique Brand DNA that will give your business the tools to be extraordinary. We pride ourselves on being a creative agency that does more than churn out a great logo, we think about every aspect of your brand and how that will impact the future of your business.
 
-
 <b>Year established in Singapore:</b> 2005
 
 <b>Top focus areas for IA/IP services:</b> Branding Strategy

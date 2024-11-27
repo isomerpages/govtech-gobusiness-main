@@ -32,12 +32,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>FacilityBot Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201612131Z-Smplfy-v-12-BC' target='_blank'>Simplify Version 1.2</a><br></td>
-<td>Noid Singapore Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200604333Z-VsonMn-BC' target='_blank'>VisionMan</a><br></td>
 <td>ECS Techno_Sys (Asia Pacific) Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201612131Z-Smplfy-v-12-BC' target='_blank'>Simplify Version 1.2</a><br></td>
+<td>Noid Singapore Pte Ltd</td>
 </tr>
 </table>
 
