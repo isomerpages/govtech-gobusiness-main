@@ -123,7 +123,7 @@ Digital Impact Awards Asia (2022-2024): Best evaluation strategy (Bronze), Best 
 - IA/IP-Related Expertise: Branding Strategy
 - Certifications/Qualifications: Business Models for Sustainability certification by Coursera (2023), Intro to Data Science certification by Udemy (2023), Inbound Certification by Hubspot (2016)
 - Awards and Accolades: MARKies, Marketing Excellence Awards, Digital Impact Awards and Davey Awards, for brands incl. Schroders (worked on account since 2011), iHerb (since 2023), Polestar 2 (2022-3), Eastspring (2022)
-- URL of LinkedIn/Company Profile: <a href="https:// www.linkedin.com/in/shawn-mak-23899ba6/" target="_blank" rel="noopener">https://www.linkedin.com/in/shawn-mak-23899ba6/</a>
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/shawn-mak-23899ba6/" target="_blank" rel="noopener">https://www.linkedin.com/in/shawn-mak-23899ba6/</a>
 
 
 ---

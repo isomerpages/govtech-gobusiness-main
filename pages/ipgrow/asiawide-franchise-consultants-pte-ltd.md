@@ -66,7 +66,7 @@ We are the most active consulting company in Asia. We know franchising.
 <a name='testimonials'></a>
 ### Testimonials
 
-*"*Engaged Asiawide Franchise Consultants Pte Ltd as our franchise consultant after our meeting with the major consultants in Singapore due to its professionalism, proven regional experiences and holistic knowledge in franchise and consultancy services. And we certainly made the most correct decision. Asiawide has assisted us diligently in building up and launching our franchise systems and programs in the region in the past few years. We are even more impressed with their prompt and efficient after sales support services. We highly recommend Asiawide Franchise Consultants Pte Ltd to the business community.� - Keith To, Crystal Jade Group
+*"*Engaged Asiawide Franchise Consultants Pte Ltd as our franchise consultant after our meeting with the major consultants in Singapore due to its professionalism, proven regional experiences and holistic knowledge in franchise and consultancy services. And we certainly made the most correct decision. Asiawide has assisted us diligently in building up and launching our franchise systems and programs in the region in the past few years. We are even more impressed with their prompt and efficient after sales support services. We highly recommend Asiawide Franchise Consultants Pte Ltd to the business community."* - Keith To, Crystal Jade Group
 
 *"Asiawide Franchise Consultants developed our franchise in the early 1990s before we were even publicly listed. Over the years, they have kept in touch with us and last year, they found for us our Master Franchisee in Indonesia. We find them professional, trustworthy, reliable and most committed to providing excellent service."* - Charlie Teo
 
@@ -87,7 +87,7 @@ We are the most active consulting company in Asia. We know franchising.
 - IA/IP-Related Expertise: IP Brokerage and Licensing
 - Certifications/Qualifications: Certified Franchise Executive (CFE) - USA, Registered Management Consultant (RMC) - Singapore
 - Awards/Accolades: 20 Faces to Watch by UK's Global Franchise (2017), Who's Who Legal - Franchising (2017), Franchise Expert of the Year (2019) by ASEAN Retail-Chains & Franchise Federation (ARFF), Lifetime Achievement Award (2024) by Arab Business Media Group, Ten-Years Contribution to Franchising (2008) and Outstanding Person in Franchising (2017) - by China Chain & Franchise Association
-- URL of LinkedIn/Company Profile: <a href="https:// asiawidefranchise.com.sg/about-us" target="_blank" rel="noopener">https://asiawidefranchise.com.sg/about-us/</a>
+- URL of LinkedIn/Company Profile: <a href="https://asiawidefranchise.com.sg/about-us" target="_blank" rel="noopener">https://asiawidefranchise.com.sg/about-us/</a>
 
 **Christine Rovina Cheung**
 

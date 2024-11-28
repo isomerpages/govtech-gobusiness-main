@@ -11,7 +11,7 @@ With more than 300+ SME clients to date, we have a deep understanding of market 
 
 From innovative design to strategic planning, our comprehensive services are designed to build strong, memorable brands that resonate with your audiences.
 
-At 3D, we're committed to turning visions into reality, ensuring your brand not only thrives but also leaves a lasting impression in the marketplace."
+At 3D, we're committed to turning visions into reality, ensuring your brand not only thrives but also leaves a lasting impression in the marketplace.
 
 
 <b>Year established in Singapore:</b> 2018
@@ -83,8 +83,7 @@ At 3D, we're committed to turning visions into reality, ensuring your brand not 
 <a name='case-studies'></a>
 ### Case studies
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> [case study 1]
-(https://www.3dbrandagency.com/project/moonton)</li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.3dbrandagency.com/project/xing-he" target="_blank" rel="noopener">case study 2</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.3dbrandagency.com/project/atom-payroll" target="_blank" rel="noopener">case study 3</a></li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://www.3dbrandagency.com/project/moonton" target="_blank" rel="noopener">case study 1</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.3dbrandagency.com/project/xing-he" target="_blank" rel="noopener">case study 2</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.3dbrandagency.com/project/atom-payroll" target="_blank" rel="noopener">case study 3</a></li></ul>
 
 ---
 <a name='key-practice-experts'></a>
