@@ -591,7 +591,7 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        Application is for equipment suppliers to apply for Confirmation of Conformity (COFC) for telecommunication equipment under which no approval for sale is required (exempted equipment).
+        COFC is on voluntary basis is for telecommunication equipment under which no approval for sale is required (equipment exempted from registration), e.g. Facsimile Transceiver.
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/cofc" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Application-for-Confirmation-of-Conformity-(COFC)">View Licence Details</a>
 
@@ -610,7 +610,15 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        Equipment registration under the Enhanced Simplified Equipment Registration (ESER) Scheme is for equipment suppliers who wish to register short range/low power devices (SRD/LPD) and complex multi-line equipment.
+        ESER is applicable to:
+        
+        Short range/low power devices (SRD/LPD) e.g. alarm, RFID, radio-detection, on-site paging and vehicle radar systems, remote controls, telecommand, telemetry, wireless microphone and video transmitter, wireless LAN and Bluetooth
+        
+        DECT Cordless Telephone, Portable mobile radio (PMR446) and multi-channel portable radio (MCR446) at less than 500 mW
+        
+        DVB-T2 Integrated Receiver Decoder (e.g. DVB-T2 Set-top box, Integrated Digital TV, In-vehicle receiver)
+        
+        Complex multi-line equipment (e.g. PABX, KTS, ISDN, PABX, PSTN, PLC)
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/eser" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Enhanced-Simplified-Equipment-Registration-(ESER)">View Licence Details</a>
 
@@ -684,7 +692,9 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        Equipment registration under the General Equipment Registration (GER) Scheme is mandatory for equipment suppliers who wish to register Mobile/IoT Base Station/Repeater System, Landmobile radio/walkie-talkie, TV White Space devices, UWB, DSRC, IoT Base Station, RFID > 500 mW, etc. GER scheme is also optional for equipment categories that falls under SER/ESER scheme where applicant may opt for IMDA to evaluate the test reports instead of self-declaration. However this will be subject to registr...
+        GER is mandatory for registration of Mobile/IoT Base Station/Repeater System, Landmobile Radio/walkie-talkie, TV White Space devices, UWB, DSRC, IoT User Equipment and Short Range Devices where the operation requires IMDA�s approval.
+        
+        Application is also optional for equipment categories that falls under SER/ESER scheme but subject to registration fees under GER scheme.
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/ger" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/General-Equipment-Registration-(GER)">View Licence Details</a>
 
@@ -693,7 +703,7 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        Registration under General Equipment Registration by Certification Bodies is applicable only to authorised CB applicant under MRA Phase II for IMDA recognised Certification Bodies.
+        GER-CB is applicable only to authorised CB applicant under MRA Phase II for IMDA recognised Certification Bodies to register all types of equipment.
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/ger-cb" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/General-Equipment-Registration-by-Certification-Bodies-(GER-CB)">View Licence Details</a>
 
@@ -885,7 +895,11 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        Equipment registration under the Simplified Equipment Registration (SER) Scheme is for equipment suppliers who wish to register Mobile Terminals (5G/LTE/GMPCS) or Broadband Access Equipment (ADSL, Cable Modem and CCHN).
+        SER is applicable to:
+        
+        Mobile Terminals e.g. 3G/LTE/GMPCS mobile phone
+        
+        Broadband Access Equipment e.g. ADSL, Cable Modem and CCHN equipment
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/ser" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Simplified-Equipment-Registration-(SER)">View Licence Details</a>
 

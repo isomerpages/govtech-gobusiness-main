@@ -14,11 +14,11 @@ Infocomm Media Development Authority (IMDA)
 
 <H3>Application Details</H3>
 
-<p>Application is for equipment suppliers to apply for Confirmation of Conformity (COFC) for telecommunication equipment under which no approval for sale is required (exempted equipment).</p>
+<p>COFC is on voluntary basis is for telecommunication equipment under which no approval for sale is required (equipment exempted from registration), e.g. Facsimile Transceiver.</p>
 
 <strong>Additional Information</strong>
 
-<p><strong>COFC Fee</strong><br />Self-Declaration: $100.00<br />Evaluated by IMDA: $350.00</p>
+<p><strong>Fee</strong><br />$100 (Self-declaration) / $350 (IMDA Evaluation)</p>
 
 <H3>Documents Needed</H3>
 

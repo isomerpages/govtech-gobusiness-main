@@ -14,11 +14,11 @@ Infocomm Media Development Authority (IMDA)
 
 <H3>Application Details</H3>
 
-<p>Registration under General Equipment Registration by Certification Bodies is applicable only to authorised CB applicant under MRA Phase II for IMDA recognised Certification Bodies.</p>
+<p>GER-CB is applicable only to authorised CB applicant under MRA Phase II for IMDA recognised Certification Bodies to register all types of equipment.</p>
 
 <strong>Additional Information</strong>
 
-<p><strong>Registration Fee</strong><br />$100.00 (per model) or $50.00 (Family Series Fee)</p>
+<p><strong>Fee</strong><br />$100 and $50 (Family Series Fee)</p>
 
 <H3>Documents Needed</H3>
 

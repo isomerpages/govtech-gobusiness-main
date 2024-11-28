@@ -14,11 +14,15 @@ Infocomm Media Development Authority (IMDA)
 
 <H3>Application Details</H3>
 
-<p>Equipment registration under the Enhanced Simplified Equipment Registration (ESER) Scheme is for equipment suppliers who wish to register short range/low power devices (SRD/LPD) and complex multi-line equipment</p>
+<p>ESER is applicable to:<br><br>
+Short range/low power devices (SRD/LPD) e.g. alarm, RFID, radio-detection, on-site paging and vehicle radar systems, remote controls, telecommand, telemetry, wireless microphone and video transmitter, wireless LAN and Bluetooth<br><br>
+DECT Cordless Telephone, Portable mobile radio (PMR446) and multi-channel portable radio (MCR446) at less than 500 mW<br><br>
+DVB-T2 Integrated Receiver Decoder (e.g. DVB-T2 Set-top box, Integrated Digital TV, In-vehicle receiver)<br><br>
+Complex multi-line equipment (e.g. PABX, KTS, ISDN, PABX, PSTN, PLC)</p>
 
 <strong>Additional Information</strong>
 
-<p><strong>Fees</strong><br />N/A</p>
+<p><strong>Fees</strong><br />Free-of-charge</p>
 
 <H3>Documents Needed</H3>
 

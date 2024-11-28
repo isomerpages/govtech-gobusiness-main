@@ -14,11 +14,13 @@ Infocomm Media Development Authority (IMDA)
 
 <H3>Application Details</H3>
 
-<p>Equipment registration under the Simplified Equipment Registration (SER) Scheme is for equipment suppliers who wish to register Mobile Terminals (5G/LTE/GMPCS) or Broadband Access Equipment (ADSL, Cable Modem and CCHN).</p>
+<p>SER is applicable to:<br><br>
+Mobile Terminals e.g. 3G/LTE/GMPCS mobile phone<br><br>
+Broadband Access Equipment e.g. ADSL, Cable Modem and CCHN equipment</p>
 
 <strong>Additional Information</strong>
 
-<p><strong>Registration Fee</strong><br />$100.00 (per model) or $50.00 (Family Series Fee)</p>
+<p><strong>Fee</strong><br />$100 and $50 (Family Series Fee)</p>
 
 <H3>Documents Needed</H3>
 
