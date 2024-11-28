@@ -14,7 +14,7 @@ Infocomm Media Development Authority (IMDA)
 
 <H3>Application Details</H3>
 
-<p>GER is mandatory for registration of Mobile/IoT Base Station/Repeater System, Landmobile Radio/walkie-talkie, TV White Space devices, UWB, DSRC, IoT User Equipment and Short Range Devices where the operation requires IMDA’s approval.<br><br>
+<p>GER is mandatory for registration of Mobile/IoT Base Station/Repeater System, Landmobile Radio/walkie-talkie, TV White Space devices, UWB, DSRC, IoT User Equipment and Short Range Devices where the operation requires IMDA's approval.<br><br>
 Application is also optional for equipment categories that falls under SER/ESER scheme but subject to registration fees under GER scheme.</p>
 
 <strong>Additional Information</strong>
