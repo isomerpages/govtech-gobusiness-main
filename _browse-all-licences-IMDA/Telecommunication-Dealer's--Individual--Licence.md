@@ -18,7 +18,7 @@ Infocomm Media Development Authority (IMDA)
 
 <strong>Additional Information</strong>
 
-<p><strong>Fee: $250.00</strong></p>
+<p><strong>Fee</strong><br />$250.00</p>
 
 <H3>Documents Needed</H3>
 

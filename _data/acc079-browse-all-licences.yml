@@ -591,7 +591,7 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        COFC is on voluntary basis is for telecommunication equipment under which no approval for sale is required (equipment exempted from registration), e.g. Facsimile Transceiver.
+        COFC is on voluntary basis and is for telecommunication equipment under which no approval for sale is required (equipment exempted from registration), e.g. Facsimile Transceiver.
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/cofc" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Application-for-Confirmation-of-Conformity-(COFC)">View Licence Details</a>
 
@@ -692,9 +692,9 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        GER is mandatory for registration of Mobile/IoT Base Station/Repeater System, Landmobile Radio/walkie-talkie, TV White Space devices, UWB, DSRC, IoT User Equipment and Short Range Devices where the operation requires IMDA�s approval.
-        
-        Application is also optional for equipment categories that falls under SER/ESER scheme but subject to registration fees under GER scheme.
+        GER is mandatory for registration of Mobile/IoT Base Station/Repeater System, Landmobile Radio/walkie-talkie, TV White Space devices, UWB, DSRC, IoT User Equipment and Short Range Devices where the operation requires IMDA's approval.
+
+        Application is optional for equipment categories that falls under SER/ESER scheme but subject to registration fees under GER scheme.
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/ger" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/General-Equipment-Registration-(GER)">View Licence Details</a>
 
