@@ -64,7 +64,7 @@ Ditch the spreadsheets, unleash the data! CR Consultancy partners with Xero's cl
 
 ## Vendor Information
 
- Company Name: CR CONSULTANCY PTE. LTD.<br>Web URL: http://www.consultancycr.com/services-4 <br>Contact Hotline: 97590063 <br>Contact Email: sales@consultancycr.com <br>
+ Company Name: CR CONSULTANCY PTE. LTD.<br>Web URL: http://www.consultancycr.com/services-4 <br>Contact Hotline: 60137569 <br>Contact Email: sales@consultancycr.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
