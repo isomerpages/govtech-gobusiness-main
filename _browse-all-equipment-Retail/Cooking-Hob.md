@@ -148,13 +148,26 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - JEMI - S70WIN GP
 - JEMI - T70IN
 - JEMI - T70IN GP
+- JEMI - T70IN/2
+- JEMI - T70IN/2 GP
 - JEMI - T70WIN
 - JEMI - T70WIN GP
+- JEMI - T90IN/2
+- JEMI - T90IN/2 GP
 - KANG JIE  - BT500
 - KANG JIE  - DWXC400
 - KANG JIE  - PAJ300
 - KANG JIE  - PAJ500
 - KANG JIE  - XC300
+- KANG JIE - DCSTBZL
+- KANG JIE - KJ-K600-ES
+- KANG JIE - KJ-K800-ES
+- KANG JIE - PAJ300-DI
+- KANG JIE - PAJ800
+- KANG JIE - PAJ800-KW
+- KANG JIE - STBZL
+- KANG JIE - XC300-2
+- KANG JIE - XC400-2
 - Lincat (UK)  - SLI42
 - Mantru.e  - ZC2-C366A
 - Mantru.e  - ZC2-C366A-Q
@@ -263,7 +276,23 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - TEKA - IZF 68700 BK MST
 - TEKA - IZS 34700 MST
 - Ty Brand  - RTCZ-TIC-B135
-
-
+- Ty Brand - RTCZ-FSC-B170-1B12
+- Ty Brand - RTCZ-FSC-B170-1B80
+- Ty Brand - RTCZ-IBF-4R35
+- Ty Brand - RTCZ-IBF-4R50
+- Ty Brand - RTCZ-IBF-6R35
+- Ty Brand - RTCZ-IBF-6R50
+- Ty Brand - RTCZ-IWC-A2PS80
+- Ty Brand - RTCZ-IWC-B1P80
+- Ty Brand - RTCZ-IWC-B2PS12
+- Ty Brand - RTCZ-TIB-1IB35
+- Ty Brand - RTCZ-TIB-2IB35
+- Ty Brand - RTCZ-TIB-2R35V
+- Ty Brand - RTCZ-TIB-4R35
+- Ty Brand - RTCZ-TIB-6R35
+- Ty Brand - RTCZ-TIC-A35L
+- Ty Brand - RTCZ-TIC-B35M
+- Ty Brand - RTCZ-TIW-C35-1PH
+- Ty Brand - RTCZ-TIW-C50-3PH
 
 <script src='/jquery/resize-tables.js'></script>

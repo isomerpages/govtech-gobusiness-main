@@ -38,6 +38,7 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - ABB - M3BP 132SMC 2 (IE4)
 - ABB - M3BP 132SMC 4M (IE4)
 - ABB - M3BP 132SMD 6 (IE4)
+- ABB - M3BP 160MLA 2 (IE4)
 - ABB - M3BP 160MLC 2 (IE4)
 - ABB - M3BP 180MLA 2 (IE4)
 - ABB - M3BP 180MLA 4
@@ -94,9 +95,12 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - BRAND PORTFOLIO - YE250M2-2E4
 - BRAND PORTFOLIO - YE250M-2E4
 - BRAND PORTFOLIO - YE250M3-2E4
+- HEBEM - VSD315-160
 - Ingersoll Rand - YE4-160L-4
 - Ingersoll Rand - YE4-180L-4
 - Ingersoll Rand - YE4-180M-4
+- INNOMOTICS - 1CV4130A
+- INNOMOTICS - 1CV4164A
 - Leroy Somer - 2P LSES 280MD 90KW
 - Leroy Somer - 4P LSES280MK 90KW
 - Leroy Somer - 4P LSES280SD 55KW
@@ -104,6 +108,7 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - NORD - 132SQ/4
 - SEW-EURODRIVE - DRU100L4
 - SEW-EURODRIVE - DRU112M4
+- SEW-EURODRIVE - DRU90S4
 - Siemens - 1AV4104A
 - Siemens - 1AV4104B
 - Siemens - 1AV4105B
@@ -176,6 +181,7 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - TECO - AEMB4E/AEMV4E-4P-75KW
 - TECO - AEMB4E/AEMV4E-4P-90KW
 - TECO - AEMB4E/AEMV4E-6P-75kW
+- TECO - AEMB4E/AEMV4E-6P-75kW-F#315S
 - TECO - AEMB4E/AEMV4E-6P-90kW
 - TECO - AESV4S/AESU4S-2P-0.75KW
 - TECO - AESV4S/AESU4S-2P-1.1kW
@@ -221,7 +227,6 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - TECO - AESV4S/AESU4S-6P-5.5kW
 - TECO - AESV4S/AESU4S-6P-90kW
 - TECO - AESV4S-AESU4S-4P-18.5KW
-- WALICH - WMB-132S1-2
 - WEG - W21_IE4_0.75KW_4P
 - WEG - W21_IE4_1.1KW_4P
 - WEG - W21_IE4_132KW_4P
@@ -234,6 +239,7 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - WEG - W21_IE4_22KW_4P
 - WEG - W21_IE4_30KW_2P
 - WEG - W21_IE4_30KW_4P
+- WEG - W21_IE4_37KW_4P
 - WEG - W21_IE4_45KW_4P
 - WEG - W21_IE4_4KW_2P
 - WEG - W21_IE4_5.5KW_2P
@@ -244,15 +250,12 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - WEG - W21_IE4_7.5KW_2P
 - WEG - W21_IE4_75KW_4P
 - WEG - W21_IE4_90KW_4P
-- WEG - W22_IE4_15KW_2P
 - WEG - W22_IE4_22KW_4P
 - Wilo  -  WE4-160M-4
 - Wilo -  WE4-160L-4
 - Wilo -  WE4-180M-4
 - Wilo -  WE4-200L-4
 - Wilo -  WE4-225M-4
-
-
-
+- WOLONG - YE4-250M1-2POLE
 
 <script src='/jquery/resize-tables.js'></script>

@@ -33,18 +33,18 @@
         <sup>3</sup> SME is defined as having:
         - <b>Group Annual Sales Turnover</b> of no more than S$100 million; <b><u>or</u></b>
         - <b>Group Employment Size</b> of not more than 200 workers
-
-    - title: Where can I find the list of supported equipment under the EEG (Base)? 
+    
+    - title: Where can I find the list of support equipment under the EEG(Base)?
       content: |
-        The list of EEG equipment supported can be found on [GoBusiness](/energy-efficiency-grant/).
-
+        The list of EEG equipment supported can be found on [GoBusiness](/energy-efficiency-grant/){:target="_blank"}{:rel="noopener"}.
+        
         Companies can submit equipment models under selected categories to be considered for support.
 
-        For Clothes Dryer, Commercial Refrigerator, Cooking Hob and Water Heater, please submit via this <a href="https://form.gov.sg/65dd54803c61c0ff3ca5ae54" target="_blank" rel="noopener">link</a>
-        
-        For Boiler System, Compressed Air System and non-MELS regulated LED Lighting, please submit via this <a href="https://form.gov.sg/668f9429c6fc442e8781efd6" target="_blank" rel="noopener">link</a>
+        For Clothes Dryer, Commercial Refrigerator, Cooking Hob and Water Heater, please submit via this [link](https://form.gov.sg/65dd54803c61c0ff3ca5ae54){:target="_blank"}.
 
-        Please note that all equipment submissions must meet the respective technical requirements to be eligible for support. 
+        For Boiler System, Compressed Air System and non-MELS regulated LED Lighting, please submit via this [link](https://form.gov.sg/668f9429c6fc442e8781efd6){:target="_blank"}.
+
+        Please note that all equipment submissions must meet the respective technical requirements to be eligible for support.
 
     - title: What is the duration of the EEG (Base)?
       content: |
@@ -239,7 +239,7 @@
 
         <tr>
           <td>EEO Assessor (independent)</td>
-          <td><a href="https://eeoa.sg/certified-eeo-assessors/" target="_blank" rel="noopener">Certified EEO Assessors – Energy Efficiency Opportunities Assessor (EEO Assessors)</a><br>Note: EEO Assessor (Independent) is denoted by -SP in their EEOA ID. EEO Assessor (Independent)‘s certification should be valid (i.e. certification has not expired) before or on the sign off date of the third party assessment report.</td>
+          <td><a href="https://eeoa.sg/certified-eeo-assessors/" target="_blank" rel="noopener">Certified EEO Assessors - Energy Efficiency Opportunities Assessor (EEO Assessors)</a><br>Note: EEO Assessor (Independent) is denoted by -SP in their EEOA ID. EEO Assessor (Independent)‘s certification should be valid (i.e. certification has not expired) before or on the sign off date of the third party assessment report.</td>
         </tr>
 
         <tr>
@@ -248,13 +248,8 @@
         </tr>
 
         <tr>
-          <td>Singapore Polytechnic (SP) – Centre for Environmental Sustainability and Energy Efficiency (ESEE)</td>
+          <td>Singapore Polytechnic (SP) - Centre for Environmental Sustainability and Energy Efficiency (ESEE)</td>
           <td>Website:<br><a href="https://www.sp.edu.sg/industry/esee" target="_blank" rel="noopener">Centre ESEE - Industry and Partnerships | SP</a><br>Contact details: <br><a href="mailto:Lam_Kok_Seng@sp.edu.sg">Lam_Kok_Seng@sp.edu.sg</a></td>
-        </tr>
-
-        <tr>
-          <td>Ngee Ann Polytechnic (NP) - The Centre for Environmental Sustainability (CfES) </td>
-          <td>Website: <br><a href="https://www.np.edu.sg/connect/industry-partners/cfes" target="_blank" rel="noopener">CfES (np.edu.sg)</a><br>Contact details: <br><a href="mailto:cfes@np.edu.sg">cfes@np.edu.sg</a><br><a href="mailto:Jin_Weixin@np.edu.sg">Jin_Weixin@np.edu.sg</a></td>
         </tr>
 
         </table>

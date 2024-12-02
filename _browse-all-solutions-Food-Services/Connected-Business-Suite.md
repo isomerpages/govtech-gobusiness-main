@@ -63,6 +63,14 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td><a href='/productivity-solutions-grant/solutionrepo/201510017H-Gtz-F&B-Omn-Chnnl-SLN-v-3-FS' target='_blank'>Getz F&B Omni Channel Solution Version 3</a><br></td>
 <td>Getz Group Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201309369Z-Yumston-F&B-MGT-SLNs-v-50-FS' target='_blank'>Yumstone F&B Management Solutions Version 5.0</a><br></td>
+<td>Yumstone Esolutions Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201718433G-AppsPOS-Dgtl-SLN-v-50-FS' target='_blank'>AppsPOS Digital Solution Version 5.0</a><br></td>
+<td>AppsPOS Pte. Ltd.</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
