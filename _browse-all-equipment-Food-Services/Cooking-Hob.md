@@ -169,6 +169,10 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - KANG JIE - XC300-2
 - KANG JIE - XC400-2
 - Lincat (UK)  - SLI42
+- MANTRU - ZC2-C4030A-W
+- MANTRU - ZC2-C4030A-W2
+- MANTRU - ZC-C4015A-W
+- MANTRU - ZC-C5020A-W
 - Mantru.e  - ZC2-C366A
 - Mantru.e  - ZC2-C366A-Q
 - Mantru.e  - ZC2-C366B-Q
@@ -198,6 +202,12 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - MISTRAL Sia-Huat - (1112-MIC88TSI)
 - NOVA - NIC-3.5T
 - NOVA - NIC-5T
+- NUEVO - BT-700D3
+- NUEVO - BT-D35
+- NUEVO - BT-E27
+- NUEVO - BT-E35
+- NUEVO - EW350C4A-H7
+- NUEVO - EW500S1
 - OZTI  - 7865.N1.80903.IS
 - Penguin - P-AIFC
 - Penguin - P-AIWC
@@ -275,6 +285,10 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - TEKA - IZF 65320 BK MSP
 - TEKA - IZF 68700 BK MST
 - TEKA - IZS 34700 MST
+- Ty - RTCZ-ASF-T50
+- Ty - RTCZ-FSC-P87-2P80
+- Ty - RTCZ-IWF-1810-2PS12
+- Ty - RTCZ-IWF-1PS80
 - Ty Brand  - RTCZ-TIC-B135
 - Ty Brand - RTCZ-FSC-B170-1B12
 - Ty Brand - RTCZ-FSC-B170-1B80
