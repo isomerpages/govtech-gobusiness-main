@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Autonomous-Clnng-Troll
 
 **Description**
 
-Battery operated trolley comprising sensors that enable the trolley to track and follow the user.
+Battery operated trolley comprising sensors that enable the trolley to track and follow the user.
 
 ## Solution Packages Option(s)
 

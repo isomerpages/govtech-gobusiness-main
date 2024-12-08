@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Buldng-WllWndows-Clnng
 
 **Description**
 
-A machine/technology used for wall/windows cleaning.
+A machine/technology used for wall/windows cleaning.
 
 ## Solution Packages Option(s)
 
