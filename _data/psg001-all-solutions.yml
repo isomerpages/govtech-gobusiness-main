@@ -36,6 +36,13 @@
         - <a href='/browse-all-solutions-Building-Construction/3D-Modelling--Immersive-Visualisation-Analysis'>3D Modelling, Immersive Visualisation & Analysis</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
+    - title: Cleaning
+      content: |
+          
+          **Equipment**
+          - <a href='/browse-all-solutions-Cleaning/General-Environmental-Services-Equipment'>General Environmental Services Equipment</a>
+
+          View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Early Childhood
       content: |
         
@@ -141,7 +148,14 @@
         - <a href='/browse-all-solutions-Personal-Care-Services/Salon-Management-System'>Salon Management System</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
-    - title: Precision Engineering
+    - title: Pest Management
+      content: |
+        
+        **Equipment**
+        - <a href='/browse-all-solutions-Pest-Management/General-Environmental-Services-Equipment'>General Environmental Services Equipment</a>
+
+        View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
+        - title: Precision Engineering
       content: |
         
         **Equipment**
@@ -155,7 +169,14 @@
         - <a href='/browse-all-solutions-Retail/Integrated-POS--with-Mobile-features-'>Integrated POS (with Mobile features)</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
-    - title: Wholesale Trade
+    - title: Waste Management
+      content: |
+        
+        **Equipment**
+        - <a href='/browse-all-solutions-Waste-Management/General-Environmental-Services-Equipment'>General Environmental Services Equipment</a>
+
+        View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
+      - title: Wholesale Trade
       content: |
         
         **IT Solution**
