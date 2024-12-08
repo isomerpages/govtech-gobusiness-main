@@ -1,0 +1,6 @@
+collections:
+  browse-all-solutions-Waste-Management:
+    output: true
+    order:
+      - back-to-all-psg-solutions.md
+      - General-Environmental-Services-Equipment.md
