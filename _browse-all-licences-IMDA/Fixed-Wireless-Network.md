@@ -1,6 +1,6 @@
 ---
 title: Fixed Wireless Network Licence
-permalink: /browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Fixed-Wireless-Network-Licence
+permalink: /browse-all-licences/infocomm-media-development-authority-(imda)/fixed-wireless-network-licence
 third_nav_title: Infocomm Media Development Authority (IMDA)
 ---
 
