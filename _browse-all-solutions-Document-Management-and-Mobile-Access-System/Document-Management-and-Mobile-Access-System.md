@@ -32,16 +32,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201539815G-Dropbox-Busnss-Stndrd-for-SMEs-G' target='_blank'>Dropbox Business Standard for SMEs</a><br></td>
-<td>Acc Pro (Singapore) Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201410722E-GncDocs-DOC-MGT-Softwr-G' target='_blank'>GenicDocs - Document Management Software</a><br></td>
 <td>Business Thrust Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201100152G-Evolvcloud-G' target='_blank'>Evolvecloud</a><br></td>
-<td>K&K IT Private Limited</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200408845E-OnStop-DOC-Accss-v-20-G' target='_blank'>One-Stop Document Access Version 2.0</a><br></td>
