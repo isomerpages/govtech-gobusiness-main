@@ -21,7 +21,7 @@ Infocomm Media Development Authority (IMDA)
 
 <H3>Application Details</H3>
 
-<p>For conducting research and development activities, testing, experiments or demonstrations in radio communications/radio communications equipment.</p>
+<p>You should apply for an Experimental Station Licence if you intend to conduct research and development activities, testing, experiments, or demonstrations in radiocommunication / using radiocommunication equipment.</p>
 
 <strong>Additional Information</strong>
 

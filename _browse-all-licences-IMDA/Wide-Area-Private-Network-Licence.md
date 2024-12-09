@@ -21,7 +21,7 @@ Infocomm Media Development Authority (IMDA)
 
 <H3>Application Details</H3>
 
-<p>For establishing and providing Wide Area Private Network services (such as use of walkie talkie services within a non-localised area).</p>
+<p>For establishing and providing Wide-Area Private Network services (such as the use of walkie-talkie services within a non-localised area), as well as the operation of high power radio communication equipment on an island-wide scale.</p>
 
 <strong>Additional Information</strong>
 

@@ -21,7 +21,7 @@ Infocomm Media Development Authority (IMDA)
 
 <H3>Application Details</H3>
 
-<p>For establishing and providing Fixed Wireless Network (such as use of multiple high power base or fixed station within a cluster).</p>
+<p>You should apply for a Fixed Wireless Network Licence if you intend to establish and operate the network or provide fixed wireless services (such as use of multiple high-power base or fixed station within a cluster).</p>
 
 <strong>Additional Information</strong>
 
