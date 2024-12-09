@@ -35,6 +35,41 @@ QIAN YI is specialized in TikTok social media marketing service focuses on reach
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'><a href='/images/psg/QianyiTrading_DM_08022024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMA (Facebook) + SMA (Linkedin) (3 Months Package)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/202205403H_20230008_17102024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SEM & SEO (3 Months Package)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/202205403H_20230008_17102024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEM & SMA (3 Months Package)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/202205403H_20230008_17102024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - SMM & SMA (3 Months Package)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/202205403H_20230008_17102024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 7</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - SMA + Creative Video on Youtube / Tiktok (3 Months Packag</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/202205403H_20230008_17102024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment

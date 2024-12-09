@@ -36,16 +36,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>PLUS 65 MARKETING PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201230283H-RAVEPIXEL-WEB-SUITE-v-80-G' target='_blank'>RAVEPIXEL WEB SUITE Version 8.0</a><br></td>
-<td>Nspire Group Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202106150H-Dgtl-Rtl-Ecommrc-SLNs-G' target='_blank'>Digital Retail Ecommerce Solutions</a><br></td>
 <td>ACCSS Digital Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201433220R-Fooyo-Commrc-v-20-G' target='_blank'>Fooyo Commerce Version 2.0</a><br></td>
-<td>Fooyo Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202012036D-GudToEcom-Prmum-G' target='_blank'>GuideToEcom Premium</a><br></td>
@@ -78,18 +70,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201414976G-SFT-Ecommrc-Advnc-Pckg-G' target='_blank'>SFT Ecommerce Advance Package</a><br></td>
 <td>Superfastech Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201135968W-OS-Stor-ECommrc-v-30-G' target='_blank'>OS Store E-Commerce Version 3.0</a><br></td>
-<td>Orfeostory Pte Ltd </td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201939190G-Shopfy-Wb-Dv-by-MS-Wb-G' target='_blank'>Shopify Web Development by MS Web</a><br></td>
-<td>MSWEBINTERNATIONAL PTE. LTD.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202041876H-Cococrt-Storfront-v-10-G' target='_blank'>Cococart Storefront Version 1.0</a><br></td>
-<td>Cococart Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202011295C-WooCommrc-Dsgn-&-Dv-G' target='_blank'>WooCommerce Design & Development</a><br></td>
@@ -130,6 +110,22 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201701817K-Corsv-Lb-ECommrc-Wbst-Dv-G' target='_blank'>Corsiva Lab - E-Commerce Website Development</a><br></td>
 <td>Corsiva Lab Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201319042M-MIBC-Optmsd-Ecommrc-SLN-v-MAGENTO-245-G' target='_blank'>MIBC Optimised E-commerce solution Version MAGENTO 2.4.5</a><br></td>
+<td>MIBC PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201811373M-Awbstr-Ecommrc-SLN-v2410-G' target='_blank'>Awebstar Ecommerce Solution Version24-1.0</a><br></td>
+<td>Awebstar Technologies Pte.Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202033959E-Dgpxl-Ecommrc-v-10-G' target='_blank'>Digipixel E-commerce Version 1.0</a><br></td>
+<td>Digipixel Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202013665N-SHOPLINE-Commrc-SLN-v-20-G' target='_blank'>SHOPLINE e-Commerce Solution Version 2.0</a><br></td>
+<td>Shopline Commerce Pte. Ltd.</td>
 </tr>
 </table>
 

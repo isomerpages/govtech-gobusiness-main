@@ -32,10 +32,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200603625R-AGHRM-G' target='_blank'>AGHRM</a><br></td>
-<td>AG NET PTE. LTD.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/51322500E-TIME-ACCESS-HRMS-v-V20-G' target='_blank'>TIME ACCESS HRMS Version V2.0</a><br></td>
 <td>TIME ACCESS INTERNATIONAL</td>
 </tr>
