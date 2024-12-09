@@ -24,7 +24,7 @@ Disputes can be costly and time-consuming. If not handled properly, they can dam
 ---
 
 ### Connect with relevant service providers for dispute resolution services
-**39 service providers listed.**
+**40 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -187,7 +187,7 @@ A boutique law firm specialising in IP, media, entertainment, technology, busine
 Goh Phai Cheng LLC, Singapore Lawyers providing Best Value and Good Service.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 11 - 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of cases completed in previous calendar year:</b> 26 to 30</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> Case-by-case basis </li>
@@ -225,6 +225,21 @@ CHP Law LLC provides elegant and creative legal solutions for its clients.
 </ul>
 
 <a class='btn' href='https://form.gov.sg/640806f397130b0011b96163' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/chp-law/){:target='_blank'}
+
+---
+
+#### Kelvin Chia Partnership
+
+An established one-stop Singapore commercial law firm with offices in 6 ASEAN countries.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of cases completed in previous calendar year:</b> 21 to 25</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $5,000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/67443510746742c1d1fcdcda' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/kelvin-chia-partnership/){:target='_blank'}
 
 ---
 
@@ -583,7 +598,7 @@ Full service law firm with strong IP/IT and technology practice.
 
 #### Collyer Law LLC
 
-Boutique SG law firm with Big Law? lawyers focused on emerging technology and the innovation economy.
+Boutique SG law firm with Big Law lawyers focused on emerging technology and the innovation economy.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>

@@ -40,6 +40,9 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Beacon LED Lighting - G95-12-W
 - Beacon LED Lighting - ST64E27N8-D
 - Beacon LED Lighting - ST64E27N8-W
+- Beacon Led Lighting - T5Y18PC-C
+- Beacon Led Lighting - T5Y18PC-D
+- Beacon Led Lighting - T5Y18PC-W
 - Beacon LED Lighting - T8Y10NL01-C
 - Beacon LED Lighting - T8Y10NL01-D
 - Beacon LED Lighting - T8Y10NL01-W
@@ -56,6 +59,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Brite - BG23-018W/6KKT84FF
 - Brite - BG34-018W/4KKT84FH
 - Brite - BG34-018W/6KKT84FH
+- BRITZ - LEDT8-15W2F
 - BRITZ - LEDT8-24W4F
 - BRITZ - LEDT8-30W4F
 - Dluces - DLS-39-1-30W
@@ -185,6 +189,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - LEDVANCE - LEDTUBE T5 AC HO80 P 1449 36W 865
 - Lighting - T8-LED-20W-65
 - Loyal - LY-T8G-120-F 24W Double End
+- Loyal - LY-TB-32W
 - Megaman - A60F7-CL-D-7.2W-E-E27-2700K
 - Megaman - A60F8-D-7.2W-E-E27
 - Megaman - A60F8-D-8.5W-E-E27
@@ -274,13 +279,33 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Osram - LEDVALUE STICK 10W/865 (LL-15000h)
 - Osram - LEDVALUE STICK 12W/840 (LL-15000h)
 - Osram - LEDVALUE STICK 12W/865 (LL-15000h)
+- Osram - LP CLADIM 5.8W/927 FIL E27
+- Osram - LP CLADIM 5.8W/927 GLFR E27
+- Osram - LP CLBDIM 3.4W/927 FIL E14
+- Osram - LP CLBDIM 3.4W/927 FIL E27
+- Osram - LP CLPDIM 3.4W/927 FIL E14
+- Osram - LP CLPDIM 3.4W/927 FIL E27
+- Osram - LSSP CLA60D 5.8W/940 FIL E27
+- Osram - LSSP CLA60D 5.8W/940 GLFR E27
+- Osram - LSSP CLA75D 7.5W/927 FIL E27
+- Osram - LSSP CLA75D 7.5W/927 GLFR E27
+- Osram - LSSP CLA75D 7.5W/940 FIL E27
+- Osram - LSSP CLA75D 7.5W/940 GLFR E27
+- Osram - LSSP CLB40D 3.4W/927 GLFR E14
+- Osram - LSSP CLB40D 3.4W/940 FIL E14
+- Osram - LSSP CLB40D 3.4W/940 GLFR E14
+- Osram - LSSP CLP40D 3.4W/927 GLFR E14
+- Osram - LSSP CLP40D 3.4W/927 GLFR E27
+- Osram - LSSP CLP40D 3.4W/940 FIL E14
+- Osram - LSSP CLP40D 3.4W/940 FIL E27
+- Osram - LSSP CLP40D 3.4W/940 GLFR E14
+- Osram - LSSP CLP40D 3.4W/940 GLFR E27
 - Osram - LV HW 18W/827 100-240V E27
 - Osram - LV HW 18W/865 100-240V E27
 - Osram - LV HW 27W/827 100-240V E27
 - Osram - LV HW 27W/865 100-240V E27
 - Osram - LV HW 36W/827 100-240V E27
 - Osram - LV HW 36W/865 100-240V E27
-- Osram - LV HW 45W/827 100-240V E27
 - Osram - LV HW 45W/827 100-240V E27
 - Osram - LV HW 45W/865 100-240V E27
 - Osram - LV HW 45W/865 100-240V E40
@@ -545,14 +570,11 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Philips - 8720169296442 LED PLC 6.9W 840 G24d-2
 - Philips - 8720169296466 LED PLC 8.9W 830 G24d-3
 - Philips - 8720169296480 LED PLC 8.9W 840 G24d-3
-- Philips - 8720169296480 LED PLC 8.9W 840 G24d-3
-- Philips - 8720169306042 LEDBulb 19W E27 3000K 230V A80 1CT 6 AU
 - Philips - 8720169306042 LEDBulb 19W E27 3000K 230V A80 1CT 6 AU
 - Philips - 8720169306066 LEDBulb 19W E27 6500K 230V A80 1CT 6 AU
 - Philips - 8720169325890 LED PLC 6.9W 865 G24d-2
 - Philips - 8720169325913 LED PLC 8.9W 865 G24d-3
 - Philips - 8720169332843 LEDBulb 14.5W E27 3000K 230V A67 1CT 6 AU
-- Philips - 8720169332867 LEDBulb 14.5W E27 6500K 230V A67 1CT 6 AU
 - Philips - 8720169332867 LEDBulb 14.5W E27 6500K 230V A67 1CT 6 AU
 - Philips - 872016935914 MAS HO 8W830 T8
 - Philips - 872016935938 MAS HO 8W840 T8
@@ -566,9 +588,11 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Philips - 9290011650A
 - Philips - 9290030099A MAS LEDBulb DT3.4
 - Philips - 9290030103A MAS LEDBulbDT5.9
+- Philips - 9290030119A MAS LEDCandleDT2.5-25W E14 B35 CL G
 - Philips - 9290030120A MAS LEDLusterDT2.5
 - Philips - 9290030121A  MAS LEDLusterDT2.5
 - Philips - 9290030121A MAS LEDLusterDT2.5
+- Philips - 9290030122A MAS LEDCandleDT3.4-40W E14 927 B35CL G
 - Philips - 9290030131A MAS LEDLusterDT3.4
 - Philips - 9290030132A MAS LEDLusterDT3.5
 - Philips - 9290037985 MAS LEDBulb DT3.4-40W E27 CRI95A60CL
@@ -694,6 +718,8 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - VIVE - VI-T8-30WCW
 - VIVE - VI-T8-30WDL
 - VIVE - VI-T8-30WWW
+- VIVE - VI-T8-35WCW
+- VIVE - VI-T8-35WDL
 - VIVE - VI-T8-35WWW
 - VIVE - VI-TL-4WE14CF
 
