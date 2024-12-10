@@ -1,5 +1,5 @@
 ---
-title: 'Built Environment'
+title: 'Building and Construction'
 permalink: /enterprisejobskills/programmes-and-initiatives/develop-human-capital/built-environment/
 ---
 
