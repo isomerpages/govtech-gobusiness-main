@@ -28,10 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200603587Z-Mllon-ACC-nd-Stock-Control-Systm-v-3-G' target='_blank'>Million Accounting and Stock Control System Version 3</a><br></td>
-<td>Rockbell International Software Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200106330C-EASPAC-Entrprs-Softwr-v-1011-G' target='_blank'>EASPAC Enterprise Software Version 10.1.1</a><br></td>
 <td>Prosperage Pte Ltd</td>
 </tr>
@@ -40,28 +36,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Zetta Solution Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201000122E-Mcrosoft-Dynmcs-365-Busnss-Cntrl-G' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
-<td>AFON Systems Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201117204M-Mcrosoft-Dynmcs-365-Busnss-Cntrl-G' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
-<td>Microlabs Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201723943H-REACH-MOIBOO-v-28-G' target='_blank'>REACH MOIBOO Version 2.8</a><br></td>
-<td>Reach Process Outsourcing Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200610863D-Mdsoft-SLNs-GST-API-v-320-G' target='_blank'>Madsoft Solutions GST API Version 320</a><br></td>
 <td>Madsoft Solutions Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201323996K-Adptv-BzApp-v-5-G' target='_blank'>Adaptive BizApp Version 5</a><br></td>
 <td>Adaptive Cloud Systems Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200601493C-OC-Sls-&-ACC-MGT-Systm-SAM-v-11-G' target='_blank'>OCi Sales & Accounting Management System (SAM) Version 11</a><br></td>
-<td>OCi System Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200415297M-Sg-300-Advncd-Edton-v-2022-G' target='_blank'>Sage 300 Advanced Edition Version 2022</a><br></td>
@@ -114,6 +94,30 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201109918E-SAP-Busnss-On-v-10-G' target='_blank'>SAP Business One Version 10</a><br></td>
 <td>Integrated Information Systems Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201000122E-Mcrosoft-Dynmcs-365-Busnss-Cntrl-G' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
+<td>AFON Systems Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201008943H-SAP-Busnss-On-SQL-&-HANA-v-100-G' target='_blank'>SAP Business One SQL & HANA Version 10.0</a><br></td>
+<td>MPS Solutions Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200715700E-Mcrosoft-Dynmcs-Busnss-Cntrl-G' target='_blank'>Microsoft Dynamics Business Central</a><br></td>
+<td>R Systems IBIZCS PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200603587Z-MILLION-ACC-&-STOCK-CONTROL-SYSTEM-G' target='_blank'>MILLION ACCOUNTING AND STOCK CONTROL SYSTEM</a><br></td>
+<td>Rockbell International Software Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201621525K-Altc-odoo-ERP-G' target='_blank'>Alitec odoo ERP</a><br></td>
+<td>Alitec Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201100152G-Evolv-Busnss-MGT-Systm-v-14-G' target='_blank'>Evolve Business Management System Version 14</a><br></td>
+<td>K&K IT PRIVATE LTD</td>
 </tr>
 </table>
 

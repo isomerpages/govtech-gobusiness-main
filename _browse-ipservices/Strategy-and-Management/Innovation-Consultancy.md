@@ -22,7 +22,7 @@ By working with an innovation consultant, your business can gain fresh perspecti
 ---
 
 ### Connect with relevant service providers for innovation consultancy services
-**30 service providers listed.**
+**34 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -71,6 +71,22 @@ ZYIP has offices in Singapore and China to assist clients with protection of the
 </ul>
 
 <a class='btn' href='https://form.gov.sg/65b1dc067ed92f9250f30b83' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/zyip-pte-ltd/){:target='_blank'}
+
+---
+
+#### Pureprofile
+
+Pureprofile is a leading market research company specializing in online data collection and insights.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> Above 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free consultation - how market research can support your business growth</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/6719c632a9efcc2520c05e27' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/pureprofile/){:target='_blank'}
 
 ---
 
@@ -133,6 +149,21 @@ Marks & Clerk Singapore LLP is an award-winning firm of Registered Patent and Tr
 </ul>
 
 <a class='btn' href='https://form.gov.sg/648a7891d94807001192ec08' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/marks-clerk-singapore-llp/){:target='_blank'}
+
+---
+
+#### Creative For More
+
+We craft bespoke digital solutions.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 26 to 30</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $3,500</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/673c30b09e48702f02d7e713' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/creative-for-more/){:target='_blank'}
 
 ---
 
@@ -313,13 +344,46 @@ Claudian Caucus is Asia's leading IP strategy and consulting firm specialising i
 A consulting firm, focus in supporting multiple sectoral businesses with transformation strategies.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/665d86803237e9829faacd8b' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/capex-consulting/){:target='_blank'}
+
+---
+
+#### FI Group
+
+We support companies secure grants and tax incentives for their R&D projects.
+
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> No hourly rate, we are paid upon success fee only. No minimum fee.</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free 1-hour eligibility assessment consultation</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/670c71891c37b5657ea9fb75' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/fi-group/){:target='_blank'}
+
+---
+
+#### antics@play
+
+antics@play is an award-winning branding, marketing and PR consultancy.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $3,500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free Consultation</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/6743d588134eac17322b4365' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/antics@play/){:target='_blank'}
 
 ---
 
@@ -482,7 +546,7 @@ We help enhance the value of IP & Brand through driving growth, competitiveness 
 
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1,200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
