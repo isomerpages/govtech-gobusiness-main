@@ -55,7 +55,7 @@
 - accordion:
   letter: b
   data:
-    - title: Building & Construction
+    - title: Built Envrionment
       content: |
         Explore licences you may require with the e-Advisers:
 
@@ -78,10 +78,6 @@
         - [Performing or carrying out work involving use of a laser apparatus](https://eadviser.gobusiness.gov.sg/performingorcarryingoutworkinvolvinguseofalaserapparatus){:target="_blank"}
 
         - [Provisioning of telecommunication internal wiring works](https://eadviser.gobusiness.gov.sg/provisioningoftelecommunicationinternalwiringworks){:target="_blank"}
-
-        - [Radio communication equipment in an airport area](https://www.gobusiness.gov.sg//browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/General-Radio-communication-Station-Licence){:target="_blank"}
-
-        - [Setting up radio determination station](https://www.gobusiness.gov.sg/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/General-Radio-communication-Station-Licence){:target="_blank"}
 
         - [Store petroleum and flammable materials](https://www.gobusiness.gov.sg/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Petroleum---Flammable-Materials-Storage-Licence){:target="_blank"}
 
@@ -244,7 +240,7 @@
 
         - [Setting up cyber/internet cafe](https://eadviser.gobusiness.gov.sg/settingupcyberinternetcafe){:target="_blank"}
 
-        - [Setting up food and beverages (food & beverage) outlet](https://eadviser.gobusiness.gov.sg/settingupfnboutlet){:target="_blank"}
+        - [Setting up food and beverages outlet](https://eadviser.gobusiness.gov.sg/settingupfnboutlet){:target="_blank"}
 
         - [Setting up food catering business](https://eadviser.gobusiness.gov.sg/settingupfoodcateringbusiness){:target="_blank"}
 
@@ -684,8 +680,6 @@
         - [Selling products with embedded SIM cards](https://eadviser.gobusiness.gov.sg/sellingproductswithembeddedsimcards){:target="_blank"}
 
         - [Setting up radio determination station](https://www.gobusiness.gov.sg/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/General-Radio-communication-Station-Licence){:target="_blank"}
-
-        - [Ship station licence](https://www.gobusiness.gov.sg/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Ship-Station-Licence){:target="_blank"}
 
     - title: Tourism
       content: |
