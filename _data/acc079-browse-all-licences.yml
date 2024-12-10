@@ -31,10 +31,9 @@
         -----
         **Health Certificate for Export of Ornamental Fish**
 
-        <p>The Licence to Import or Export Ornamental Fish is issued by Animal & Veterinary Service to traders who wishes to import, export or transship ornamental fish.</p>
+        <p>The Health Certificate for Export of Ornamental Fish is issued by Animal & Veterinary Service to traders who wishes to import, export or transship ornamental fish.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201212070000111" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Health-Certificate-for-Export-of-Ornamental-Fish" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Health-Certificate-for-Export-of-Ornamental-Fish">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/healthcertforexportornamentalfish" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Health-Certificate-for-Export-of-Ornamental-Fish">View Licence Details</a>
 
         -----
         **Licence for Animal Exhibition**
@@ -125,7 +124,7 @@
 
         <p>This service allows importers to register their company to import animal feed for non-food producing animals. This registration is not mandatory to facilitate import.</p>
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/importfeedfornonfoodproducinganimals" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Registration-to-Import-Feed-for-Non-food-producing-animals">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/importfeedfornonfoodproducinganimals" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Food-Agency-(SFA)/Veterinary-Certificate-for-Food-Producing-Animals">View Licence Details</a>
 
         -----
         **Registration to Import Live Frogs for Ornamental Fish Feeding Only**
@@ -137,11 +136,12 @@
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/importfrogforornamentalfish" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Registration-to-Import-Live-Frogs-for-Ornamental-Fish-Feeding-Only">View Licence Details</a>
 
         -----
-        **Veterinary Certificate for Non-Food Animals**
+        **Veterinary Certificate for Food Producing Animals**
 
-        <p>This certificate allows exporters to obtain an endorsement to certify the health and/or facilitate testing of the non-food animals, animal products and for diseases required by the destination country/region..</p>
+        <p>The Veterinary Certificate may be issued by either Animal & Veterinary Service, a cluster of National Parks Board or Singapore Food Agency. This certificate allows exporters to get endorsement for certification of health and/or testing of the animals for diseases required by the destination country/region.</p>
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/vetcertnonfood" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Veterinary-Certificate-for-Non-Food-Animals">View Licence Details</a>
+        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201212070000113" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Veterinary-Certificate-for-Food-Producing-Animals" style="margin-left: 1em;">View Licence Details</a>
+        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Veterinary-Certificate-for-Food-Producing-Animals">View Licence Details</a>
 
 - accordion:
   letter: b
@@ -305,7 +305,7 @@
 
         PATROL is to provide a One-Stop e-Service to allow Traders to perform all transactions pertaining to permit declarations and to align to Government's direction to move towards Electronic Services.
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/cnb-patrol" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Central-Narcotics-Bureau-(CNB)/Permit-Administration-and-Control-System-(PATROL)">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/cnb-patrol" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Central-Narcotics-Bureau-(CNB)/Permit-Administration-and-Control-System(PATROL)">View Licence Details</a>
     
     - title: Cyber Security Agency of Singapore (CSA)
       content: |
@@ -468,16 +468,42 @@
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/roms" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Enterprise-Singapore-(EnterpriseSG)/Representative-Office">View Licence Details</a>
 
-        -----      
-        **Rubber Licence**
+        -----
+        **Rubber Licence (Dealer)**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        For dealing in, treating and storing of natural rubber.
+        <p>For dealing in, treating and storing of natural rubber.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=39" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Enterprise-Singapore-(EnterpriseSG)/Rubber-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Enterprise-Singapore-(EnterpriseSG)/Rubber-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/rubberdealerlicence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Enterprise-Singapore-(EnterpriseSG)/Rubber-Licence-(Dealer)">View Licence Details</a>
 
+        -----
+        **Rubber Licence (Manufacturer)**
+
+        <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
+
+        <p>For dealing in, treating and storing of natural rubber.</p>
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/rubbermanufacturerlicence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Enterprise-Singapore-(EnterpriseSG)/Rubber-Licence-(Manufacturer)">View Licence Details</a>
+
+        -----
+        **Rubber Licence (Packer)**
+
+        <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
+
+        <p>For dealing in, treating and storing of natural rubber.</p>
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/rubberpackerlicence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Enterprise-Singapore-(EnterpriseSG)/Rubber-Licence-(Packer)">View Licence Details</a>
+
+        -----
+        **Rubber Licence (Shipper)**
+
+        <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
+
+        <p>For dealing in, treating and storing of natural rubber.</p>
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/rubbershipperlicence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Enterprise-Singapore-(EnterpriseSG)/Rubber-Licence-(Shipper)">View Licence Details</a>     
+        
 - accordion:
   letter: h
   data:
@@ -574,7 +600,7 @@
         -----
         **Arts Entertainment Licence**
 
-        For carrying out any form of arts entertainment such as plays, stand-up comedies, dance performances, music performances (such as variety shows and concerts), art exhibitions and literary readings (such as play-readings and poetry-readings), unless exempted.
+        The provision of publicly-accessible Arts entertainment events such as plays, stand-up comedies, dance performances, music performances (such as variety shows and concerts), art exhibitions and literary readings (such as play-readings and poetry-readings), require an Arts Entertainment licence unless exempted. Find out more here.
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/artsentertainmentlicence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Arts-Entertainment-Licence">View Licence Details</a>
 
@@ -1265,24 +1291,22 @@
 
     - title: Ministry of Law (MINLAW)
       content: |
-        **Certificate of Exemption (the Moneylenders Act (Cap.188))**
+       **Certificate of Exemption (the Moneylenders Act (Cap.188))**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
         For entities which lend money to borrowers for specific purposes.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10055" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Ministry-of-Law-(MINLAW)/Certificate-of-Exemption-(the-Moneylenders-Act-(Cap188))" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Ministry-of-Law-(MINLAW)/Certificate-of-Exemption-(the-Moneylenders-Act-(Cap188))">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/certificateofexemption" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Law-(MINLAW)/Certificate-of-Exemption-(the-Moneylenders-Act-(Cap188))">View Licence Details</a>
 
         -----
-        **Insolvency Practitioner Licence (IP)**
+         **Insolvency Practitioner's Licence (IP)**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 150px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/sp-mini.png" alt="For Individual Users"> For Individual Users </span>
 
-        Application to hold an insolvency practitioner's licence (new) to undertake insolvency or debt restructuring work in Singapore.
+        Application to hold an insolvency practitioner's licence to undertake insolvency or debt restructuring work in Singapore.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=274" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Ministry-of-Law-(MINLAW)/Insolvency-Practitioner-Licence-(IP)" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Ministry-of-Law-(MINLAW)/Insolvency-Practitioner-Licence-(IP)">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/insolvencypractitioner" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Law-(MINLAW)/Insolvency-Practitioner's-Licence-(IP)">View Licence Details</a>
 
         -----
         **Moneylender's Licence**
@@ -1291,8 +1315,7 @@
 
         The Registry of Moneylenders has temporarily suspended the grant of any new moneylending licences.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=18" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Ministry-of-Law-(MINLAW)/Moneylender's-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Ministry-of-Law-(MINLAW)/Moneylender's-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/moneylender" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Law-(MINLAW)/Moneylender's-Licence">View Licence Details</a>
 
         -----
         **Pawnbroker's Licence**
@@ -1301,8 +1324,16 @@
 
         For institutions who are interested to engage in pawnbroking business.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=24" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Ministry-of-Law-(MINLAW)/Pawnbroker's-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Ministry-of-Law-(MINLAW)/Pawnbroker's-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/pawnbrokerlicence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Law-(MINLAW)/Pawnbroker's-Licence">View Licence Details</a>
+
+        -----
+        **Registration for Moneylender's Test**
+
+        <span style="background: #EEF0F2; border-radius: 3px; width: 150px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/sp-mini.png" alt="For Individual Users"> For Individual Users </span>
+
+        This is for the registration for Moneylender test
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/moneylendertest" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Law-(MINLAW)/Registration-for-Moneylender's-Test">View Licence Details</a>
 
         -----
         **Registration of Precious Stones and Precious Metals Dealers**
@@ -1409,18 +1440,16 @@
 
         A Comprehensive licence allows you to place all types of workers without a salary cap. If you are only placing workers earning more than S$4,500 per month, you can apply for a Select licence. Please note that if you intend to apply for a Select Licence, you cannot register 78103(Maid Agencies) as one of your business activities.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=55" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Ministry-of-Manpower-(MOM)/Employment-Agency-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Ministry-of-Manpower-(MOM)/Employment-Agency-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/employmentagency" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Manpower-(MOM)/Employment-Agency-Licence">View Licence Details</a>
 
         -----
         **Factory Notification and Registration**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        The Occupier (e.g. factory owner) of premises defined as factories is required to either notify or register their premises with MOM before operations, to facilitate the management of workplace risk and the implementation of Safety and Health Management Systems. If the factory falls under the definition of a Major Hazard Installation (MHI), the Occupier is required to register the premises as an MHI with MOM, at least 6 months before operations.
+        Workplaces specified as factories under the Workplace Safety and Health (WSH) Act, must either notify or register their activities with the Ministry of Manpower (MOM) before starting operations.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=54" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Ministry-of-Manpower-(MOM)/Factory-Notification-and-Registration" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Ministry-of-Manpower-(MOM)/Factory-Notification-and-Registration">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/factorynotificationregistration" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Manpower-(MOM)/Factory-Notification-and-Registration">View Licence Details</a>
 
         -----
         **Foreign Employee Dormitories Act Licence**
@@ -1546,8 +1575,7 @@
 
         This licence is required for any individual teaching Islam in Singapore. For example, religious teachers / asatizah conducting religious classes or Quranic classes.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=235" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Majlis-Ugama-Islam-Singapura-(MUIS)/Asatizah-Recognition-Scheme" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Majlis-Ugama-Islam-Singapura-(MUIS)/Asatizah-Recognition-Scheme">View Licence Details</a>
+        <a class="primary-btn" href="https://ilm-tms.muis.gov.sg/" target="_blank" rel="noopener">Apply on MUIS</a>&emsp;<a href = "/browse-all-licences/Majlis-Ugama-Islam-Singapura-(MUIS)/Asatizah-Recognition-Scheme">View Licence Details</a>
 
         -----
         **Halal Certification**
@@ -1865,10 +1893,9 @@
         -----
         **Phytosanitary Certification**
 
-        <p>Phytosanitary Certificates (PCs) are issued by the National Parks Board (NParks) of Singapore. They certify that plants and plant products exported from Singapore are free from injurious pests and diseases and meet the import requirements of the importing countries/regions.</p>
+        <p>This certificate facilitates the export/re-export of plants or plant products, and attests that the consignment of plants or plant products is free from specified plant pests including any additional declarations and/or treatment required, to meet requirements of the destination country.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201212070000112" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/National-Parks-Board-(NPARKS)/Phytosanitary-Certification" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/National-Parks-Board-(NPARKS)/Phytosanitary-Certification">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/phytosanitarycertification" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/Phytosanitary-Certification">View Licence Details</a>
         
         -----
         **Pre-signed CITES Permit**
@@ -1889,7 +1916,7 @@
 
         <p>This stock card will be needed for exporter and re-exporters to facilitate their Export or Re-Export CITES permit application. For expired CITES export/re-port CITES permit, please apply for manual increment to credit the stock back to the respectively stock card.</p>
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/313d4f49-06b3-4368-ac1b-ffaea83426cb" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/Stock-Card-Application-Form">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/stockcard" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/Stock-Card-Application-Form">View Licence Details</a>
 
         -----
         **Usage of Premises in Parks**
@@ -2260,6 +2287,14 @@
         <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1905101601000340" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Temporary-Fair-Stall-Licence" style="margin-left: 1em;">View Licence Details</a>
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Temporary-Fair-Stall-Licence">View Licence Details</a>
 
+        -----
+        **Veterinary Certificate for Food Producing Animals**
+
+        <p>The Veterinary Certificate may be issued by either Animal & Veterinary Service, a cluster of National Parks Board or Singapore Food Agency. This certificate allows exporters to get endorsement for certification of health and/or testing of the animals for diseases required by the destination country/region.</p>
+
+        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201212070000113" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Veterinary-Certificate-for-Food-Producing-Animals" style="margin-left: 1em;">View Licence Details</a>
+        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Veterinary-Certificate-for-Food-Producing-Animals">View Licence Details</a>
+
     - title: Singapore Land Authority (SLA)
       content: |
         **Application of Registering Property**
@@ -2603,8 +2638,7 @@
 
         Private education institutions can apply to be certified under the EduTrust Certification Scheme. It is a quality assurance scheme which distinguishes private schools that consistently maintain a high standard of quality in the overall provision of education services and make continual improvements that lead to positive student outcomes.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=36" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/SkillsFuture-Singapore-(SSG)/EduTrust-Certification-Scheme" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/SkillsFuture-Singapore-(SSG)/EduTrust-Certification-Scheme">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/edutrust" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/SkillsFuture-Singapore-(SSG)/EduTrust-Certification-Scheme">View Licence Details</a>
 
         -----
         **Registration of Private Education Institutions**
@@ -2613,8 +2647,7 @@
 
         An education provider in Singapore must be registered as a Private Education Institution and adhere to the statutory requirements of the Enhanced Registration Framework (ERF).
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=35" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/SkillsFuture-Singapore-(SSG)/Registration-of-Private-Education-Institutions" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/SkillsFuture-Singapore-(SSG)/Registration-of-Private-Education-Institutions">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/ssgpei" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/SkillsFuture-Singapore-(SSG)/Registration-of-Private-Education-Institutions">View Licence Details</a>
 
     - title: Singapore Tourism Board (STB)
       content: |

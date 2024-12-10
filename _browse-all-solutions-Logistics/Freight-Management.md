@@ -31,10 +31,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/198101076M-Frght-Mstr-v-82-G' target='_blank'>Freight Master Version 8.2</a><br></td>
 <td>Innosys Pte Ltd</td>
 </tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200103109D-SYSFREIGHT-v-1001-G' target='_blank'>SYSFREIGHT Version 10.01</a><br></td>
-<td>SYSMAGIC SOFTWARE SOLUTION PTE LTD</td>
-</tr>
 </table>
 
 {% include banner-psg-survey.html %}

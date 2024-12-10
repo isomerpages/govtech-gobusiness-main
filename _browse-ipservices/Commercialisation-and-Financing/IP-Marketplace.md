@@ -24,7 +24,7 @@ For businesses needing help sourcing or selling their IP, head to [IP Brokerage 
 ---
 
 ### Connect with relevant service providers for IP marketplace services
-**1 service providers listed.**
+**2 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -42,6 +42,21 @@ IPI is an innovation catalyst that creates opportunities for enterprises to grow
 </ul>
 
 <a class='btn' href='https://form.gov.sg/64e30a9cc98c410011d5a366' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ipi/){:target='_blank'}
+
+---
+
+#### TEE IP Pte Ltd
+
+TEE IP offers all types of local and overseas IP services: registration, litigation and valuation.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of listings in previous calendar year:</b> 1 to 50</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $200</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/6719ac432086da02f5d93e87' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/tee-ip-pte-ltd/){:target='_blank'}
 
 ---
 

@@ -41,12 +41,16 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - Daikin - RXQ10AYM
 - Daikin - RXQ10AYMG
 - Daikin - RXQ10AYMW
+- Daikin - RXQ10BYMG
 - Daikin - RXQ12AYM
 - Daikin - RXQ12AYMG
 - Daikin - RXQ12AYMW
+- Daikin - RXQ12BYMG
+- Daikin - RXQ14BYMG
 - Daikin - RXQ6AYM
 - Daikin - RXQ6AYMG
 - Daikin - RXQ6AYMW
+- Daikin - RXQ8BYMG
 - Daikin - RXUQ10AYM
 - Daikin - RXUQ10AYMG
 - Daikin - RXUQ10AYMW
