@@ -36,20 +36,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>1103 STUDIOS PRIVATE LIMITED</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201705156N-DM-LtBrw-Dgtl-Mrktng-Pckg-G' target='_blank'>DM LiteBrew Digital Marketing Package</a><br></td>
-<td>Brew Interactive Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200715471C-DM-Idntty-Counsl-Dgtl-Mrktng-PKG-G' target='_blank'>DM Identity Counsel Digital Marketing Packages</a><br></td>
 <td>IDENTITY COUNSEL PTE LTD</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201933089Z-DM-Inbox-Dgtl-Mrktng-PKG-G' target='_blank'>DM Inbox Digital Marketing Packages</a><br></td>
 <td>Inbox Consults Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202008698H-DM-Outrnkco-Dgtl-Mrktng-PKG-v-1-G' target='_blank'>DM Outrankco Digital Marketing Packages Version 1</a><br></td>
-<td>Outrankco Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201840067W-DM-PIXEL-MECHANICS-Dgtl-Mrktng-PKG-G' target='_blank'>DM PIXEL MECHANICS Digital Marketing Packages</a><br></td>
@@ -84,10 +76,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>ROGUE DIGITAL PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201941618M-DM-SBC-Dgtl-Mrktng-PKG-G' target='_blank'>DM SBC Digital Marketing Packages</a><br></td>
-<td>STORY BOX COLLECTIVE PTE. LTD.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202012036D-DM-Gudsfy-Dgtl-Mrktng-PKG-G' target='_blank'>DM Guidesify Digital Marketing Packages</a><br></td>
 <td>Guidesify Pte. Ltd.</td>
 </tr>
@@ -96,24 +84,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Hatch Digital Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202136883R-DM-Smntc-Clnt-Acquston-Dgtl-Mrktng-PKG-G' target='_blank'>DM Semantic Client Acquisition Digital Marketing Packages</a><br></td>
-<td>TRES Client Acquisition Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201135968W-DM-Orfostory-Dgtl-Mrktng-PKG-v-1-G' target='_blank'>DM Orfeostory Digital Marketing Packages Version 1</a><br></td>
-<td>Orfeostory Pte Ltd </td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201229727W-DM-Etro-Dgtl-Mrktng-PKG-G' target='_blank'>DM Etereo Digital Marketing Packages</a><br></td>
 <td>Etereo Group Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200200017N-DM-Crtv-EWorld-Dgtl-Mrktng-PKG-G' target='_blank'>DM Creative E-World Digital Marketing Packages</a><br></td>
-<td>Creative eWorld Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202020389H-DM-Wolfgng-Crtvs-Dgtl-Mrktng-PKG-v-10-G' target='_blank'>DM Wolfgang Creatives Digital Marketing Packages Version 1.0</a><br></td>
-<td>Wolfgang Creatives Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201531216Z-DM-Ldng-SLN-Dgtl-Mrktng-PKG-v-1-G' target='_blank'>DM Leading Solution Digital Marketing Packages Version 1</a><br></td>
@@ -136,10 +108,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Impossible Marketing Services Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201834121D-DM-WECOFA-Dgtl-Mrktng-PKG-G' target='_blank'>DM WECOFA Digital Marketing Packages</a><br></td>
-<td>WECOFA PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201325568H-DM-Bzsqur-Dgtl-Mrktng-Sut-PKG-G' target='_blank'>DM Bizsquare Digital Marketing Suite Packages</a><br></td>
 <td>Bizsquare Management Consultants Pte Ltd</td>
 </tr>
@@ -156,8 +124,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>iClick Media Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201900904K-DM-Dgtl-M-Dgtl-Mrktng-PKG-v-01-G' target='_blank'>DM Digital M Digital Marketing Packages Version 0.1</a><br></td>
-<td>Digital M Pte. Ltd.</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/202205403H-DM-Bluhv-CST-Dgtl-Mrktng-PKG-v-22-32-G' target='_blank'>DM Bluehive Consulting Digital Marketing Packages Version 22 - 3.2</a><br></td>
+<td>Bluehive Consulting Asia Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201410722E-DM-Busnss-Thrust-Dgtl-Mrktng-PKG-v-DM01-G' target='_blank'>DM Business Thrust Digital Marketing Packages Version DM01</a><br></td>
@@ -188,20 +156,28 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Websentials Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201714165W-DM-Bnchmrkng-Socl-md-PKG-G' target='_blank'>DM Benchmarking Social media packages</a><br></td>
-<td>BENCHMARKING PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201832282M-DM-QIANYI-TRADING-TIKTOK-DIGITAL-MARKETING-SLN-G' target='_blank'>DM QIANYI TRADING TIKTOK DIGITAL MARKETING SOLUTION</a><br></td>
 <td>QIANYI TRADING PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202205403H-DM-Bluhv-CST-Dgtl-Mrktng-PKG-v-22-32-G' target='_blank'>DM Bluehive Consulting Digital Marketing Packages Version 22 - 3.2</a><br></td>
-<td>Bluehive Consulting Asia Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201713785N-DM-APEC-SLNS-DIGITAL-MARKETING-PACKAGES-G' target='_blank'>DM APEC SOLUTIONS DIGITAL MARKETING PACKAGES</a><br></td>
 <td>APEC SOLUTIONS PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200200017N-DM-Crtv-EWorld-Dgtl-Mrktng-G' target='_blank'>DM Creative E-World Digital Marketing</a><br></td>
+<td>Creative E-World Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201213801E-DM-Hshmt-Dgtl-Enblmnt-PKG-G' target='_blank'>DM Hashmeta Digital Enablement Packages</a><br></td>
+<td>Hashmeta Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202020389H-DM-Wolfgng-Crtvs-Dgtl-Mrktng-PKG-G' target='_blank'>DM Wolfgang Creatives Digital Marketing Packages</a><br></td>
+<td>Wolfgang Creatives Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201714165W-DM-Bnchmrkng-Socl-md-PKG-G' target='_blank'>DM Benchmarking Social media packages</a><br></td>
+<td>BENCHMARKING PTE LTD</td>
 </tr>
 </table>
 

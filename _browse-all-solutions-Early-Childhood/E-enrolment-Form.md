@@ -32,10 +32,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>CommonTown Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/T14LL1727F-EForm-HAVSCH-v-41-EC' target='_blank'>E-Form (HAVSchool) Version 4.1</a><br></td>
-<td>HAVENCE PORTAL LLP</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201304337W-Td-Smrt-EForm-SLN-EC' target='_blank'>Taidii Smart E-Form Solution</a><br></td>
 <td>Taidii Pte Ltd</td>
 </tr>

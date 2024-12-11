@@ -32,10 +32,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200304779D-TERRA-EMAIL-PROTECTION-v-10-G' target='_blank'>TERRA EMAIL PROTECTION Version 1.0</a><br></td>
-<td>TERRA SYSTEMS PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200823571E-Mcrosoft-Cybr-Scurty-SLNs-G' target='_blank'>Microsoft Cyber Security Solutions</a><br></td>
 <td>VGC TECHNOLOGY PTE LTD</td>
 </tr>
@@ -46,6 +42,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201026975M-Mcrosoft-365-CybrScurty-Pckg-G' target='_blank'>Microsoft 365 CyberSecurity Package</a><br></td>
 <td>Axiom IT Solutions Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/197800982R-AC360-Armour-G' target='_blank'>AC360 Armour</a><br></td>
+<td>Asiacloud Solutions Private Limited</td>
 </tr>
 </table>
 

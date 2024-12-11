@@ -99,6 +99,8 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - Ingersoll Rand - YE4-160L-4
 - Ingersoll Rand - YE4-180L-4
 - Ingersoll Rand - YE4-180M-4
+- INNOMOTICS - 1CV4130A
+- INNOMOTICS - 1CV4164A
 - Leroy Somer - 2P LSES 280MD 90KW
 - Leroy Somer - 4P LSES280MK 90KW
 - Leroy Somer - 4P LSES280SD 55KW
@@ -106,6 +108,7 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - NORD - 132SQ/4
 - SEW-EURODRIVE - DRU100L4
 - SEW-EURODRIVE - DRU112M4
+- SEW-EURODRIVE - DRU90S4
 - Siemens - 1AV4104A
 - Siemens - 1AV4104B
 - Siemens - 1AV4105B
@@ -247,7 +250,6 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - WEG - W21_IE4_7.5KW_2P
 - WEG - W21_IE4_75KW_4P
 - WEG - W21_IE4_90KW_4P
-- WEG - W22_IE4_15KW_2P
 - WEG - W22_IE4_22KW_4P
 - Wilo  -  WE4-160M-4
 - Wilo -  WE4-160L-4
@@ -255,8 +257,5 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - Wilo -  WE4-200L-4
 - Wilo -  WE4-225M-4
 - WOLONG - YE4-250M1-2POLE
-
-
-
 
 <script src='/jquery/resize-tables.js'></script>

@@ -26,7 +26,7 @@ This licence is required if you intend to:<br/>
 <br/>
 1. Where can I get the FAQ for import of animals/birds/eggs/biologics?<br/>
 You can get the FAQ on this link: AVS FAQ website<br/>
-AVS | Homepage (nparks.gov.sg).<br/>
+<a href="https://www.nparks.gov.sg/avs">AVS | Homepage (nparks.gov.sg).</a><br/>
 <br/>
 
 
