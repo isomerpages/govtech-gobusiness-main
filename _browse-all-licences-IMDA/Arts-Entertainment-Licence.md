@@ -28,6 +28,22 @@ If you are applying on behalf of a business entity or organisation:<br>
  <li>You should be an employee, perferably a member of the organisation's management.</li>
 <li>You will need to provide the organisation's Unique Entity Number (UEN), issued by a recognised UEN Issurance Agency (such as the <a href="https://www.acra.gov.sg" target="_blank" rel="noopener">Accounting and Corporate Regulatory Authority</a> (ACRA) or <a href="https://www.mha.gov.sg/mha-e-services/ros/registered-societies" target="_blank" rel="noopener">Registry of Societies</a> (ROS)).</li>
 </ul>
+</p>
+<b>Who can apply</b><br>
+Any individual or Singapore-registered business entity or organisation may apply for an Arts Entertainment Licence.<br>
+As the applicant, you can apply personally, or authorise someone to apply on your behalf.<br><br>
+<b>Note</b><br>
+The applicant and the authorised person (if applicable) must be one of the following:<br>
+<ul>
+ <li>A Singapore citizen.</li>
+ <li>A Singapore Permanent Resident.</li>
+ <li>A foreigner with a valid Singapore work pass.</li>
+</ul>
+If you are applying on behalf of a business entity or organisation:<br>
+<ul>
+ <li>You should be an employee, perferably a member of the organisation's management.</li>
+ <li>You will need to provide the organisation's Unique Entity Number (UEN), issued by a recognised UEN Issurance Agency (such as the Accounting and Corporate Regulatory Authority (ACRA) or Registry of Societies (ROS)</li>
+</ul>
 
 <strong>Additional Information</strong>
 
