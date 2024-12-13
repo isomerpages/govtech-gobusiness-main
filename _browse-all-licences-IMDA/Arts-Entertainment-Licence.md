@@ -26,7 +26,7 @@ The applicant and the authorised person (if applicable) must be one of the follo
 If you are applying on behalf of a business entity or organisation:<br>
 <ul>
  <li>You should be an employee, perferably a member of the organisation's management.</li>
-<li>You will need to provide the organisation's Unique Entity Number (UEN), issued by a recognised UEN Issurance Agency (such as the <a href="https://www.acra.gov.sg" target="_blank" rel="noopener">Accounting and Corporate Regulatory Authority</a> (ACRA) or <a href="https://www.mha.gov.sg/mha-e-services/ros/registered-societies" target="_blank" rel="noopener">Registry of Societies</a> (ROS)).</li>
+ <li>You will need to provide the organisation's Unique Entity Number (UEN), issued by a recognised UEN Issurance Agency (such as the <a href="https://www.acra.gov.sg" target="_blank" rel="noopener">Accounting and Corporate Regulatory Authority</a> (ACRA) or <a href="https://www.mha.gov.sg/mha-e-services/ros/registered-societies"_blank" rel="noopener">Registry of Societies</a> (ROS)).</li>
 </ul>
 </p>
 <b>Who can apply</b><br>
