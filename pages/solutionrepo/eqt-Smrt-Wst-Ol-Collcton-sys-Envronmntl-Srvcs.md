@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Smrt-Wst-Ol-Collcton-s
 
 **Description**
 
-Equipment with diagnostics, fill-level sensors and data management system to transport waste oil from the fryer to the waste oil containment tank with minimal human intervention. Oil must be transferred directly from fryer to waste oil containment tank without an intermediate oil caddy. Containment tank must be equipped with fill-level sensors, data management system and diagnostics functions.
+Equipment with diagnostics, fill-level sensors and data management system to transport waste oil from the fryer to the waste oil containment tank with minimal human intervention. Oil must be transferred directly from fryer to waste oil containment tank without an intermediate oil caddy. Containment tank must be equipped with fill-level sensors, data management system and diagnostics functions.
 
 There is an equipment cap. Refer to BGP for details.
 

@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Bttry-oprtd-Cold-Ultr-
 
 **Description**
 
-A battery operated device that disperses ULV fog or fine mist without being constrained by the need for a power source. (Solution tank capacity 2L and above)
+A battery operated device that disperses ULV fog or fine mist without being constrained by the need for a power source. (Solution tank capacity 2L and above)
 
 There is an equipment cap. Refer to BGP for details.
 
