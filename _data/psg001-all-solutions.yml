@@ -36,13 +36,6 @@
         - <a href='/browse-all-solutions-Building-Construction/3D-Modelling--Immersive-Visualisation-Analysis'>3D Modelling, Immersive Visualisation & Analysis</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
-    - title: Cleaning
-      content: |
-          
-          **Equipment**
-          - <a href='/browse-all-solutions-Cleaning/General-Environmental-Services-Equipment'>General Environmental Services Equipment</a>
-
-          View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Early Childhood
       content: |
         
@@ -61,6 +54,18 @@
         
         **Equipment**
         - <a href='/browse-all-solutions-Engineering-Services/General-Engineering-Services-Equipment'>General Engineering Services Equipment</a>
+
+        View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
+    - title: Environmental Services
+      content: |
+        
+        **IT/Digital Solution**
+        - To be updated when ready
+
+        **Equipment**
+        - <a href='/browse-all-solutions-Environmental-Services/Pest-Management'>Pest Management</a>
+        - <a href='/browse-all-solutions-Environmental-Services/Cleaning'>Cleaning</a>
+        - <a href='/browse-all-solutions-Environmental-Services/Waste-Management'>Waste Management</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Estate Agency
@@ -148,14 +153,6 @@
         - <a href='/browse-all-solutions-Personal-Care-Services/Salon-Management-System'>Salon Management System</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
-    - title: Pest Management
-      content: |
-        
-        **Equipment**
-        - <a href='/browse-all-solutions-Pest-Management/General-Environmental-Services-Equipment'>General Environmental Services Equipment</a>
-
-        View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
-        - title: Precision Engineering
       content: |
         
         **Equipment**
@@ -167,13 +164,6 @@
         
         **IT Solution**
         - <a href='/browse-all-solutions-Retail/Integrated-POS--with-Mobile-features-'>Integrated POS (with Mobile features)</a>
-
-        View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
-    - title: Waste Management
-      content: |
-        
-        **Equipment**
-        - <a href='/browse-all-solutions-Waste-Management/General-Environmental-Services-Equipment'>General Environmental Services Equipment</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Wholesale Trade
@@ -303,7 +293,7 @@
         <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
         <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
         <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
-        <td><p>Coming Soon</p></td>
+        <td><a href='/browse-all-solutions-Cyber-Security-solutions/Firewall'>Firewall</a></td>
         </tr>
         <tr>
         <td>Backup</td>
@@ -312,7 +302,7 @@
         <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
         <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg" alt="Checked"></td>
         <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
-        <td><p>Coming Soon</p></td>
+        <td><a href='/browse-all-solutions-Cyber-Security-solutions/Backup'>Backup</a></td>
         </tr>
         </table>
         <small>SMEs are eligible to adopt a total of <b>one</b> solution across the Cyber Essentials Ready sub-categories.</small>

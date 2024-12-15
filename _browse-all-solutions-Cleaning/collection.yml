@@ -1,6 +1,0 @@
-collections:
-  browse-all-solutions-Cleaning:
-    output: true
-    order:
-      - back-to-all-psg-solutions.md
-      - General-Environmental-Services-Equipment.md

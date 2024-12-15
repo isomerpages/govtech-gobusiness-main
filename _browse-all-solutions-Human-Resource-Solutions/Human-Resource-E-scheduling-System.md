@@ -6,13 +6,9 @@ permalink: /browse-all-solutions-Human-Resource-Solutions/Human-Resource-E-Sched
 ## Human Resource E-Scheduling System
 ## Overview
 
-**Description**
-
-Track overall scheduling of employees, generate attendance and overtime reports and push notifications to employees on their work shifts.
-
 **Support Level and Conditions**
 
-Up to 50% for SMEs, N.A. for non-SMEs
+Up to `50% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
@@ -32,6 +28,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200711480W-InfoTch-Cloud-ESchdulng-Systm-G' target='_blank'>Info-Tech Cloud E-Scheduling System</a><br></td>
+<td>Info-Tech Systems Integrators Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200000956W-JustLogn-HR-ESchdulng-G' target='_blank'>JustLogin HR E-Scheduling</a><br></td>
+<td>JUSTLOGIN PTE LTD</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201324947N-QuckHR-Schdulng-G' target='_blank'>QuickHR (eScheduling)</a><br></td>
 <td>Enable Business Pte. Ltd.</td>
 </tr>
@@ -42,14 +46,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200818854Z-WhyzHR-Schdulng-v-12-G' target='_blank'>WhyzeHR eScheduling Version 12</a><br></td>
 <td>Whyze Solutions Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200711480W-InfoTch-Cloud-ESchdulng-Systm-G' target='_blank'>Info-Tech Cloud E-Scheduling System</a><br></td>
-<td>Info-Tech Systems Integrators Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200000956W-JustLogn-HR-ESchdulng-G' target='_blank'>JustLogin HR E-Scheduling</a><br></td>
-<td>JUSTLOGIN PTE LTD</td>
 </tr>
 </table>
 

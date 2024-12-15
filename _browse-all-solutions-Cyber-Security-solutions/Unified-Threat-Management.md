@@ -57,16 +57,16 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Computer Analysts and Recovery Experts Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199201624D-SngtlFortnt-Unfd-Thrt-MGT-G' target='_blank'>Singtel-Fortinet Unified Threat Management</a><br></td>
-<td>Singapore Telecommunications Limited</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200408845E-GtLnkUp-UTM-v-10-G' target='_blank'>GetLinkUp UTM Version 1.0</a><br></td>
+<td>PROMINDS PTE. LTD.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201402872W-Ntwork-Box-Nxt-Gnrton-Mngd-Scurty-G' target='_blank'>Network Box Next Generation Managed Security</a><br></td>
 <td>Network Box (SIN) Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200408845E-GtLnkUp-UTM-v-10-G' target='_blank'>GetLinkUp UTM Version 1.0</a><br></td>
-<td>PROMINDS PTE. LTD.</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/199201624D-SngtlFortnt-Unfd-Thrt-MGT-G' target='_blank'>Singtel-Fortinet Unified Threat Management</a><br></td>
+<td>Singapore Telecommunications Limited</td>
 </tr>
 </table>
 
