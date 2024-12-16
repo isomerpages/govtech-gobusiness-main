@@ -6,11 +6,11 @@ third_nav_title: Singapore Customs
 
 ## Amend for Chemical Weapons Convention (CWC) Licence
 
-Cybersecurity Services Regulation Office (Customs)
+Singapore Customs
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on Customs" src="https://go.gov.sg/cwc-lic-amdt-form" type="primary" %}
+{% include button.html text="Apply on Singapore Customs" src="https://go.gov.sg/cwc-lic-amdt-form" type="primary" %}
 
 <H3>Application Details</H3>
 

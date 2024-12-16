@@ -1,7 +1,7 @@
 ---
 title: Chemical Weapons Convention (CWC) Licence Application Cover Form / Update of Licensee Contact Information
-permalink: /browse-all-licences/Customs/Chemical-Weapons-Convention-(CWC)-Licence-Application-Cover-Form---Update-of-Licensee-Contact-Information
-third_nav_title: Customs
+permalink: /browse-all-licences/Singapore-Customs/Chemical-Weapons-Convention-(CWC)-Licence-Application-Cover-Form---Update-of-Licensee-Contact-Information
+third_nav_title: Singapore Customs
 ---
 
 ## Update of Chemical Weapons Convention (CWC) Licence
@@ -10,7 +10,7 @@ Singapore Customs
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on Customs" src="https://go.gov.sg/cwc-lic-cover-form" type="primary" %}
+{% include button.html text="Apply on Singapore Customs" src="https://go.gov.sg/cwc-lic-cover-form" type="primary" %}
 
 <H3>Application Details</H3>
 

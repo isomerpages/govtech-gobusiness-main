@@ -1,16 +1,16 @@
 ---
 title: Chemical Weapons Convention (CWC) Licence Application Form (New/Renewal)
-permalink: /browse-all-licences/Cybersecurity-Services-Regulation-Office-(Customs)/Chemical-Weapons-Convention-(CWC)-Licence-Application-Form-(New-Renewal)
-third_nav_title: Cybersecurity Services Regulation Office (Customs)
+permalink: /browse-all-licences/Singapore-Customs/Chemical-Weapons-Convention-(CWC)-Licence-Application-Form-(New-Renewal)
+third_nav_title: Singapore Customs
 ---
 
 ## Apply for Chemical Weapons Convention (CWC) Licence
 
-Cybersecurity Services Regulation Office (Customs)
+Singapore Customs
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on Customs" src="https://go.gov.sg/cwc-lic-form" type="primary" %}
+{% include button.html text="Apply on Singapore Customs" src="https://go.gov.sg/cwc-lic-form" type="primary" %}
 
 <H3>Application Details</H3>
 
