@@ -1,7 +1,7 @@
 ---
 title: Chemical Weapons Convention (CWC) Licence Application Cover Form / Update of Licensee Contact Information
-permalink: /browse-all-licences/Cybersecurity-Services-Regulation-Office-(Customs)/Chemical-Weapons-Convention-(CWC)-Licence-Application-Cover-Form---Update-of-Licensee-Contact-Information
-third_nav_title: Cybersecurity Services Regulation Office (Customs)
+permalink: /browse-all-licences/Customs/Chemical-Weapons-Convention-(CWC)-Licence-Application-Cover-Form---Update-of-Licensee-Contact-Information
+third_nav_title: Customs
 ---
 
 ## Update of Chemical Weapons Convention (CWC) Licence

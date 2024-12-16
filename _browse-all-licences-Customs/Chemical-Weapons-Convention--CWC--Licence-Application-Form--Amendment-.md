@@ -1,6 +1,6 @@
 ---
 title: Chemical Weapons Convention (CWC) Licence Application Form (Amendment)
-permalink: /browse-all-licences/Cybersecurity-Services-Regulation-Office-(Customs)/Chemical-Weapons-Convention-(CWC)-Licence-Application-Form-(Amendment)
+permalink: /browse-all-licences/Customs/Chemical-Weapons-Convention-(CWC)-Licence-Application-Form-(Amendment)
 third_nav_title: Cybersecurity Services Regulation Office (Customs)
 ---
 
