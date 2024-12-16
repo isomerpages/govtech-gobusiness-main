@@ -385,9 +385,7 @@
         <p>For application of the Penetration Testing Service Licence</p>
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/pts" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Cybersecurity-Services-Regulation-Office-(CSRO)/Penetration-Testing-Services-Licence-(PTS)">View Licence Details</a>
-- accordion:
-  letter: c
-  data:
+    
     - title: Customs
       content: |
         **Chemical Weapons Convention (CWC) Licence Application Cover Form / Update of Licensee Contact Information**
