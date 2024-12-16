@@ -10,14 +10,7 @@ Intellectual Property Office of Singapore (IPOS)
 
 {% include spcp-text.html type="sp" %}
 
-{% include licence-apply-button.html %}
-<a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=270" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>
-<div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-size: 18px; color: #313840;">
-<img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;">
-<span style="font-weight: bold; font-family: hknova-bold; font-size: 18px; ">Please use desktop / laptop to apply for this licence.</span><br>
-<span style="font-family: hknova-regular;">You can only view application details and make payment via mobile. Please use GoBusiness Licensing on desktop to use all features.</span><br><br>
-<a id="mobileNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=270" target="_blank" rel="noopener">Continue to GoBusiness Licencing anyway</a>
-</div>
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/patentagentforma" type="primary" %}
 
 <H3>Application Details</H3>
 
@@ -47,42 +40,42 @@ You may email to <a href="mailto:ipos_pau@ipos.gov.sg">ipos_pau@ipos.gov.sg</a><
 <strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br />
-New licence valid for 12 months - <strong>$400</strong> per year</p>
+New licence valid for 12 months - <strong>$250</strong> per year</p>
 
 <H3>Documents Needed</H3>
 
 <ul>
 <li><strong>University Degree Certificate and its transcript</strong><br />University Degree Certificate and its transcript/any other supporting documents for academic qualification (if applicable);
 <br>File format: PDF, jpg, jpeg, png, bmp
-<br>Maximum upload per application: 2 MB
+<br>Maximum upload per application: 7 MB
 </li>
 <li><strong>Master of IP and Innovation Management/Graduate Diploma in IP and Innovation Management/ Graduate Certificate in Intellectual Property Law</strong><br />Master of IP and Innovation Management (MIPIM)/Graduate Diploma in IP and Innovation Management (GDIPIM)/Graduate Certificate in Intellectual Property Law (GCIP)/other supporting documents of equivalent qualification (if applicable);
 
 <br>File format: PDF, jpg, jpeg, png, bmp
-<br>Maximum upload per application: 2 MB
+<br>Maximum upload per application: 7 MB
 </li>
 
 <li><strong>Singapore Patent Agents Qualifying Examination's result slips</strong><br />Singapore Patent Agents Qualifying Examination's result slip(s)/other supporting documents of equivalent qualification (if applicable);
 <br>File format: PDF, jpg, jpeg, png, bmp
-<br>Maximum upload per application: 2 MB
+<br>Maximum upload per application: 7 MB
 </li>
 <li><strong>Original letter from supervisor for Internship completion</strong>
 
 <br>File format: PDF, jpg, jpeg, png, bmp
-<br>Maximum upload per application: 2 MB
+<br>Maximum upload per application: 7 MB
 </li>
 <li><strong>2 sets of Form B (Certificates of Good Character)</strong><br />2 sets of Form B (Certificates of Good Character)<br />The certificates of good character are to be signed by 2 responsible individuals -<br />(i) who are not immediately related to the applicant;<br />(ii) who have known the applicant for at least 12 months and have had opportunities to judge his character; and<br />(iii) at least one of whom is resident in Singapore.</li>
 <li><strong>1 set of Form I (Certificate of Good Performance)</strong><br />1 set of Form I (Certificate of Good Performance)<br />Applicable only for individuals registering on the basis of their experience as an Patent Examiner under rule 6(3)
 <br>File format: PDF, jpg, jpeg, png, bmp
-<br>Maximum upload per application: 2 MB
+<br>Maximum upload per application: 7 MB
 </li>
 <li><strong>Supporting documents for practical experiences</strong><br />E.g.<br />- Verification letters of experience and employment by the managing or supervising partner signed in their professional capacity.<br />- List of patent applications prepared and filed in your name or samples of patent documents prepared by you, verified by the managing or supervising partner signed in their professional capacity.
 <br>File format: PDF, jpg, jpeg, png, bmp
-<br>Maximum upload per application: 2 MB
+<br>Maximum upload per application: 7 MB
 </li>
 <li><strong>Others</strong>
 <br>File format: PDF, jpg, jpeg, png, bmp
-<br>Maximum upload per application: 2 MB
+<br>Maximum upload per application: 7 MB
 </li>
 </ul>
 
