@@ -1,6 +1,6 @@
 ---
 title: Chemical Weapons Convention (CWC) Licence Application Form (New/Renewal)
-permalink: /browse-all-licences/Singapore-Police-Force-(SPF)/Chemical-Weapons-Convention-(CWC)-Licence-Application-Form-(New-Renewal)
+permalink: /browse-all-licences/Singapore-Customs/Chemical-Weapons-Convention-(CWC)-Licence-Application-Form-(New-Renewal)
 third_nav_title: Singapore Customs
 ---
 
