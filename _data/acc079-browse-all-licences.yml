@@ -1290,14 +1290,13 @@
 
     - title: Ministry of Law (MINLAW)
       content: |
-        **Certificate of Exemption (the Moneylenders Act (Cap.188))**
+       **Certificate of Exemption (the Moneylenders Act (Cap.188))**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
         For entities which lend money to borrowers for specific purposes.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10055" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Ministry-of-Law-(MINLAW)/Certificate-of-Exemption-(the-Moneylenders-Act-(Cap188))" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Ministry-of-Law-(MINLAW)/Certificate-of-Exemption-(the-Moneylenders-Act-(Cap188))">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/certificateofexemption" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Law-(MINLAW)/Certificate-of-Exemption-(the-Moneylenders-Act-(Cap188))">View Licence Details</a>
 
         -----
          **Insolvency Practitioner's Licence (IP)**
@@ -1309,14 +1308,13 @@
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/insolvencypractitioner" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Law-(MINLAW)/Insolvency-Practitioner's-Licence-(IP)">View Licence Details</a>
 
         -----
-        **Moneylender's Licence**
+       **Moneylender's Licence**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
         The Registry of Moneylenders has temporarily suspended the grant of any new moneylending licences.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=18" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Ministry-of-Law-(MINLAW)/Moneylender's-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Ministry-of-Law-(MINLAW)/Moneylender's-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/moneylender" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Law-(MINLAW)/Moneylender's-Licence">View Licence Details</a>
 
         -----
         **Pawnbroker's Licence**
@@ -1325,8 +1323,16 @@
 
         For institutions who are interested to engage in pawnbroking business.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=24" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Ministry-of-Law-(MINLAW)/Pawnbroker's-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Ministry-of-Law-(MINLAW)/Pawnbroker's-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/pawnbrokerlicence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Law-(MINLAW)/Pawnbroker's-Licence">View Licence Details</a>
+
+        -----
+        **Registration for Moneylender's Test**
+
+        <span style="background: #EEF0F2; border-radius: 3px; width: 150px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/sp-mini.png" alt="For Individual Users"> For Individual Users </span>
+
+        This is for the registration for Moneylender test
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/moneylendertest" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Law-(MINLAW)/Registration-for-Moneylender's-Test">View Licence Details</a>
 
         -----
         **Registration of Precious Stones and Precious Metals Dealers**
@@ -1440,10 +1446,9 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        The Occupier (e.g. factory owner) of premises defined as factories is required to either notify or register their premises with MOM before operations, to facilitate the management of workplace risk and the implementation of Safety and Health Management Systems. If the factory falls under the definition of a Major Hazard Installation (MHI), the Occupier is required to register the premises as an MHI with MOM, at least 6 months before operations.
+        Workplaces specified as factories under the Workplace Safety and Health (WSH) Act, must either notify or register their activities with the Ministry of Manpower (MOM) before starting operations.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=54" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Ministry-of-Manpower-(MOM)/Factory-Notification-and-Registration" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Ministry-of-Manpower-(MOM)/Factory-Notification-and-Registration">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/factorynotificationregistration" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Manpower-(MOM)/Factory-Notification-and-Registration">View Licence Details</a>
 
         -----
         **Foreign Employee Dormitories Act Licence**
@@ -2017,18 +2022,16 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        The Fire Safety Act (FSA) regulates the storage of petroleum and flammable materials. A licence is required for storage of highly flammable petroleum and flammable materials products with a flash point below 93 degree celsius. 
+        The Fire Safety Act (FSA) regulates the storage of petroleum and flammable materials. A licence is required for storage of highly flammable petroleum and flammable materials products with a flash point below 93 degree celsius.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=22" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Petroleum---Flammable-Materials-Storage-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Petroleum---Flammable-Materials-Storage-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/pfms" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Petroleum---Flammable-Materials-Storage-Licence">View Licence Details</a>
 
         -----
         **Petroleum / Flammable Materials Transportation Licence**
 
         The Fire Safety Act (FSA) regulates the transportation of petroleum and flammable materials . The petroleum and flammable materials transportation licence is to ensure that the transportation is carried out in a safe manner and that proper fire safety measures / procedures are undertaken by the licensee to ensure safety environment.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=17" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Petroleum---Flammable-Materials-Transportation-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Petroleum---Flammable-Materials-Transportation-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/pfmt" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Petroleum---Flammable-Materials-Transportation-Licence">View Licence Details</a>
 
         -----
         **Plan Approval for Fire Safety Works**
@@ -2623,8 +2626,7 @@
 
         Private education institutions can apply to be certified under the EduTrust Certification Scheme. It is a quality assurance scheme which distinguishes private schools that consistently maintain a high standard of quality in the overall provision of education services and make continual improvements that lead to positive student outcomes.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=36" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/SkillsFuture-Singapore-(SSG)/EduTrust-Certification-Scheme" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/SkillsFuture-Singapore-(SSG)/EduTrust-Certification-Scheme">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/edutrust" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/SkillsFuture-Singapore-(SSG)/EduTrust-Certification-Scheme">View Licence Details</a>
 
         -----
         **Registration of Private Education Institutions**
@@ -2633,8 +2635,7 @@
 
         An education provider in Singapore must be registered as a Private Education Institution and adhere to the statutory requirements of the Enhanced Registration Framework (ERF).
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=35" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/SkillsFuture-Singapore-(SSG)/Registration-of-Private-Education-Institutions" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/SkillsFuture-Singapore-(SSG)/Registration-of-Private-Education-Institutions">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/ssgpei" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/SkillsFuture-Singapore-(SSG)/Registration-of-Private-Education-Institutions">View Licence Details</a>
 
     - title: Singapore Tourism Board (STB)
       content: |
