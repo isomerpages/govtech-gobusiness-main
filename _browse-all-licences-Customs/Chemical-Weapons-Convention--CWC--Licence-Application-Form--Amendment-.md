@@ -1,7 +1,7 @@
 ---
 title: Chemical Weapons Convention (CWC) Licence Application Form (Amendment)
-permalink: /browse-all-licences/Customs/Chemical-Weapons-Convention-(CWC)-Licence-Application-Form-(Amendment)
-third_nav_title: Cybersecurity Services Regulation Office (Customs)
+permalink: /browse-all-licences/Singapore-Customs/Chemical-Weapons-Convention-(CWC)-Licence-Application-Form-(Amendment)
+third_nav_title: Singapore Customs
 ---
 
 ## Amend for Chemical Weapons Convention (CWC) Licence

@@ -6,7 +6,7 @@ third_nav_title: Customs
 
 ## Update of Chemical Weapons Convention (CWC) Licence
 
-Cybersecurity Services Regulation Office (Customs)
+Singapore Customs
 
 {% include spcp-text.html type="cp" %}
 
