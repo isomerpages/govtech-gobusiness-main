@@ -4,7 +4,13 @@ permalink: /browse-all-licences/Ministry-of-Law-(MINLAW)/Certificate-of-Exemptio
 third_nav_title: Ministry of Law (MINLAW)
 ---
 
-## Apply for Certificate of Exemption (the Moneylenders Act (Cap.188))
+## For entities which lend money to borrowers for specific purposes.
+
+FAQ
+Is an exempt moneylender exempted from the Moneylenders Act 2008 and all of its subsidiary legislation?
+In general, an exemption does not extend to the Moneylenders (Prevention of Money Laundering And Financing of Terrorism) Rules 2009, the Unsecured Loans under Part III of the Moneylenders Rules 2009 and Sections 43 to 46 of the Moneylenders Act 2008.
+Where do I look for more information pertaining an application for a certificate of exemption?
+You may refer to our website through the following weblink: <a href="https://rom.mlaw.gov.sg/information-for-moneylenders/" target="_blank" rel="noopener">https://rom.mlaw.gov.sg/information-for-moneylenders/</a>.
 
 Ministry of Law (MINLAW)
 
@@ -20,7 +26,7 @@ FAQ
 Is an exempt moneylender exempted from the Moneylenders Act 2008 and all of its subsidiary legislation?
 In general, an exemption does not extend to the Moneylenders (Prevention of Money Laundering And Financing of Terrorism) Rules 2009, the Unsecured Loans under Part III of the Moneylenders Rules 2009 and Sections 43 to 46 of the Moneylenders Act 2008.
 Where do I look for more information pertaining an application for a certificate of exemption?
-You may refer to our website through the following weblink: <a href="https://rom.mlaw.gov.sg/information-for-moneylenders/" target="_blank" rel="noopener">https://rom.mlaw.gov.sg/information-for-moneylenders/</a>.
+You may refer to our website through the following weblink: https://rom.mlaw.gov.sg/information-for-moneylenders/.
 
 <strong>Additional Information</strong>
 

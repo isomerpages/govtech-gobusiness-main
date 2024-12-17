@@ -10,7 +10,7 @@ anchorlinks:
   - anchor: '#aviation'
     anchor_text: 'Aviation'
   - anchor: '#building-and-construction'
-    anchor_text: 'Built Envrionment'
+    anchor_text: 'Building & Construction'
   - anchor: '#cybersecurity'
     anchor_text: 'Cybersecurity'
   - anchor: '#education'
@@ -119,7 +119,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 
 <a name="building-and-construction"></a>
 
-## Built Envrionment
+## Building & Construction
 - [Advertising Sign/ Signboard Licence](https://eservices.bca.gov.sg/advertisementlicence)
 - [Amusement Rides Permit](https://www1.bca.gov.sg/regulatory-info/amusement-rides)
 - [Approval for Additions & Alterations to a Conserved Building](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Planning-Permission/using-CORENET-eSS)
@@ -147,18 +147,18 @@ Select an industry to see a list of relevant licences here. You can also browse 
 <a name="education"></a>
 
 ## Education
-- Asatizah Recognition Scheme(https://ilm-tms.muis.gov.sg/)
+- Asatizah Recognition Scheme
 - [Certificate of Registration of School](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=37)
 - [Early Childhood Development Centre Licence](https://dashboard.gobusiness.gov.sg/task-details/706f7bbc-5f8c-46d6-b908-65b30b831a87)
-- [EduTrust Certification Scheme](https://dashboard.gobusiness.gov.sg/task-details/edutrust)
+- [EduTrust Certification Scheme](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=36)
 - [Islamic Education Centres and Providers Registration](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=234)
-- [Registration of Private Education Institutions](https://dashboard.gobusiness.gov.sg/task-details/ssgpei)
+- [Registration of Private Education Institutions](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=35)
 
 <a name="employment-and-labour-services"></a>
 
 ## Employment & Labour Services
 - [Employment Agency Licence](https://dashboard.gobusiness.gov.sg/task-details/employmentagency)
-- [Factory Notification and Registration](https://dashboard.gobusiness.gov.sg/task-details/factorynotificationregistration)
+- [Factory Notification and Registration](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=54)
 - [Foreign Employee Dormitories Act Licence](https://dashboard.gobusiness.gov.sg/task-details/feda)
 - [Work passes and permits](https://www.mom.gov.sg/passes-and-permits)
 
@@ -189,7 +189,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Application for Merchant Bank](https://www.mas.gov.sg/regulation/Banking/Licensing-and-Authorisation-for-Banking-Business)
 - [Approval for Debt Collector](https://dashboard.gobusiness.gov.sg/task-details/4eeba687-8b63-4ea8-b303-0079a44fda8c)
 - [Capital Markets Services Licence](https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Securities-Futures-and-Funds-Management.aspx)
-- [Certificate of Exemption (the Moneylenders Act (Cap.188))](https://dashboard.gobusiness.gov.sg/task-details/certificateofexemption)
+- [Certificate of Exemption (the Moneylenders Act (Cap.188))](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10055)
 - [Commercial Bank Licence](https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Commercial-Banks.aspx)
 - [Financial Adviser's Licence](https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Financial-Advisers.aspx)
 - [House to House and Street Collections Licence](https://dashboard.gobusiness.gov.sg/task-details/house-house-street-collections)
@@ -198,9 +198,8 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Licence for Debt Collection Business](https://dashboard.gobusiness.gov.sg/task-details/1b4a2551-fd14-4559-ac97-271ea6457409)
 - [Major Payment Institution Licence](https://www.mas.gov.sg/regulation/payments/major-payment-institution-licence)
 - [Money-Changer's Licence](https://www.mas.gov.sg/regulation/payments/money-changing-licence)
-- [Moneylender's Licence](https://dashboard.gobusiness.gov.sg/task-details/moneylender)
-- [Pawnbroker's Licence](https://dashboard.gobusiness.gov.sg/task-details/pawnbrokerlicence)
-- [Registration for Moneylender's Test](https://dashboard.gobusiness.gov.sg/task-details/moneylendertest)
+- [Moneylender's Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=18)
+- [Pawnbroker's Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=24)
 - [Standard Payment Institution Licence](https://www.mas.gov.sg/regulation/payments/standard-payment-institution-licence)
 - [Trust Business Licence](https://www.mas.gov.sg/regulation/capital-markets/Trust-Business-Licence)
 
@@ -211,8 +210,8 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Application for Temporary Fire Permit / Fire Safety Certificate](https://www.scdf.gov.sg/home/fire-safety/permits-and-certifications/fire-safety-certificate-temporary-fire-permit)
 - [Fire Certificate](https://dashboard.gobusiness.gov.sg/task-details/firecert)
 - [Lodgement of Minor Addition / Alteration Works (Minor A&A)](https://www.scdf.gov.sg/home/fire-safety/plans-and-consultations/minor-addition-alteration-works)
-- [Petroleum / Flammable Materials Storage Licence](https://dashboard.gobusiness.gov.sg/task-details/pfms)
-- [Petroleum / Flammable Materials Transportation Licence](https://dashboard.gobusiness.gov.sg/task-details/pfmt)
+- [Petroleum / Flammable Materials Storage Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=22)
+- [Petroleum / Flammable Materials Transportation Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=17)
 - [Petroleum & Flammable Material Import Licence](https://eservices.scdf.gov.sg/fisops/pfm-import-licence)
 - [Petroleum & Flammable Material Pipeline Licence](https://eservices.scdf.gov.sg/fisops/pfm-pipeline-licence)
 - [Plan Approval for Fire Safety Works](https://www.scdf.gov.sg/home/fire-safety/plans-and-consultations/plan-approval)
@@ -383,15 +382,15 @@ Select an industry to see a list of relevant licences here. You can also browse 
 
 ## Telecommunication Infrastructure
 - [Amateur Station Licence](https://dashboard.gobusiness.gov.sg/task-details/amateurstation)
-- [Application for Confirmation of Conformity (COFC)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10076)
-- [Enhanced Simplified Equipment Registration (ESER)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10077)
+- [Application for Confirmation of Conformity (COFC)](https://dashboard.gobusiness.gov.sg/task-details/cofc)
+- [Enhanced Simplified Equipment Registration (ESER)](https://dashboard.gobusiness.gov.sg/task-details/eser)
 - [Exhibition of Telecommunication Equipment (with Frequency)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10070)
 - [Exhibition of Telecommunication Equipment (without Frequency)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10069)
 - [Experimental Station Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=27)
 - [Facilities-based Operations Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10020)
 - [Fixed Wireless Network](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10059)
-- [General Equipment Registration (GER)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10080)
-- [General Equipment Registration by Certification Bodies (GER-CB)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10081)
+- [General Equipment Registration (GER)](https://dashboard.gobusiness.gov.sg/task-details/ger)
+- [General Equipment Registration by Certification Bodies (GER-CB)](https://dashboard.gobusiness.gov.sg/task-details/ger-cb)
 - [General Operator's Certificate of Competency](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10074)
 - [General Radio-communication Station Licence](https://dashboard.gobusiness.gov.sg/task-details/generalradiocomm)
 - [Localised Private Network (Multi-Channel Radiocom Networks and Systems)](https://dashboard.gobusiness.gov.sg/task-details/lpnmulti)
@@ -406,13 +405,13 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Services-Based Operator (Class) Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=29)
 - [Services-Based Operator (Individual) Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=30)
 - [Ship Station Licence](https://dashboard.gobusiness.gov.sg/task-details/shipstation)
-- [Simplified Equipment Registration (SER)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10078)
+- [Simplified Equipment Registration (SER)](https://dashboard.gobusiness.gov.sg/task-details/ser)
 - [Special Purpose Station](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10016)
 - [Technical Trial (with use of Frequency)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10072)
 - [Technical Trial (without Frequency)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10071)
 - [Telecommunication Cable Detection Worker Class Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10017)
-- [Telecommunication Dealer's (Class) Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=25)
-- [Telecommunication Dealer's (Individual) Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=26)
+- [Telecommunication Dealer's (Class) Licence](https://dashboard.gobusiness.gov.sg/task-details/telecommunicationdealersclass)
+- [Telecommunication Dealer's (Individual) Licence](https://dashboard.gobusiness.gov.sg/task-details/telecommunicationdealersindividual)
 - [Telecommunication Wiring Contractor's (Class) Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=31)
 - [Telecommunication Wiring Installer's Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10018)
 - [Temporary Use of Radio Frequency](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10073)
