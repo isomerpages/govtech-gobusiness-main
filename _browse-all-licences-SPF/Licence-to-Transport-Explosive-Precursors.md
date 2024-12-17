@@ -12,5 +12,5 @@ Singapore Police Force (SPF)
 
 <H3>Application Details</H3>
 
-Under the Arms and Explosives Act 1913, a Licence to Transport is required for the transport of any Guns, Explosives or Explosive Precursors. 
+A Licence is required for the transport of any Explosive Precursors.
 
