@@ -25,7 +25,7 @@ There is an equipment cap. Refer to BGP for details.
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Battery operated Leaf Blower / Blower Vacuum</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>Grant cap: Up to S$500 per unit</td>
+<td style='padding: 10px;'>N.A</td>
 </tr>
 </table>
 
