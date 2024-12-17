@@ -11,6 +11,8 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Bttry-oprtd-bckpck-vcu
 
 Battery operated carry on equipment for cleaning of confined spaces (e.g., stairways, cinema aisles, etc.).
 
+There is an equipment cap. Refer to BGP for details.
+
 ## Solution Packages Option(s)
 
 <table>

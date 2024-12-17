@@ -11,6 +11,8 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Moblsttc-rfus-bn-wshng
 
 A system to lift and wash the waste bins automatically with minimal human intervention to operate the system. Comprises bin lifter and enclosure compartment for washing of bins.
 
+There is an equipment cap. Refer to BGP for details.
+
 ## Solution Packages Option(s)
 
 <table>

@@ -12,6 +12,8 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Elctrc-rch-truck-Envro
 Reach truck with load capacity ranging from 1.2 ton onwards, that is able to reach loads located high up in racks, with minimal human intervention. 
 (Only applicable for licensed cleaning / waste / pest management companies) 
 
+There is an equipment cap. Refer to BGP for details.
+
 ## Solution Packages Option(s)
 
 <table>

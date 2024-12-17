@@ -11,6 +11,8 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Smrt-Blr-sys-Envronmnt
 
 The system uses sensor technology to detect and compacts materials automatically to facilitate the transportation of the materials. It has hands-free automatic baling, providing variable bale length control, and must be conveyor feed compatible.
 
+There is an equipment cap. Refer to BGP for details.
+
 ## Solution Packages Option(s)
 
 <table>

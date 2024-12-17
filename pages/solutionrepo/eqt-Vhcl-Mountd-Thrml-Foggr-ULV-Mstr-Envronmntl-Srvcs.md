@@ -11,6 +11,8 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Vhcl-Mountd-Thrml-Fogg
 
 A device attached to a vehicle, that disperses mist or fog for applications such as large-scale pest control operations. (Solution tank capacity 20L and above)
 
+There is an equipment cap. Refer to BGP for details.
+
 ## Solution Packages Option(s)
 
 <table>

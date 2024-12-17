@@ -11,6 +11,8 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Sdlodr-wst-collcton-sy
 
 A side loader compactor body mounted onto a vehicle chassis and has compatible collection bins which allows the driver to remotely operate the waste collection. It must comprise an on-board camera for ease of visibility of remote side loading operation and safety, and a tonnage monitoring mechanism for the tracking of tonnage of waste/recyclables collected. The compatible bins must have minimum bin capacity of 1800L.
 
+There is an equipment cap. Refer to BGP for details.
+
 ## Solution Packages Option(s)
 
 <table>

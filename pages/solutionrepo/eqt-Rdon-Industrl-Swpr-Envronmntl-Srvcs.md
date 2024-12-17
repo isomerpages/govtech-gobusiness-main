@@ -11,6 +11,8 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Rdon-Industrl-Swpr-Env
 
 A machine driven by 1 operator that is able to sweep floors and surfaces, with a hopper volume of > 30L.
 
+There is an equipment cap. Refer to BGP for details.
+
 ## Solution Packages Option(s)
 
 <table>

@@ -11,6 +11,8 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Industrl-crushrshrddr-
 
 A machine equipped with cutting or shearing or shredding functions to reduce the volume of solid waste/recyclables. Treatment capacity of at least 0.5 tonnes/hour.
 
+There is an equipment cap. Refer to BGP for details.
+
 ## Solution Packages Option(s)
 
 <table>

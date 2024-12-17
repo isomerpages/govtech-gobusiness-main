@@ -11,6 +11,8 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Autonomous-floor-scrub
 
 Robotic floor cleaner and/or scrubber (single function) which integrates various types of technology, such as sensors, cameras and navigation systems to clean floors without human intervention.
 
+There is an equipment cap. Refer to BGP for details.
+
 ## Solution Packages Option(s)
 
 <table>
