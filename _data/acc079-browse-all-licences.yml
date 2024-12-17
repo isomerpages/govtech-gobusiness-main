@@ -31,10 +31,9 @@
         -----
         **Health Certificate for Export of Ornamental Fish**
 
-        <p>The Licence to Import or Export Ornamental Fish is issued by Animal & Veterinary Service to traders who wishes to import, export or transship ornamental fish.</p>
+        <p>The Health Certificate for Export of Ornamental Fish is issued by Animal & Veterinary Service to traders who wishes to import, export or transship ornamental fish.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201212070000111" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Health-Certificate-for-Export-of-Ornamental-Fish" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Health-Certificate-for-Export-of-Ornamental-Fish">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/healthcertforexportornamentalfish" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Health-Certificate-for-Export-of-Ornamental-Fish">View Licence Details</a>
 
         -----
         **Licence for Animal Exhibition**
@@ -296,66 +295,96 @@
 
         To apply CNB Permits for import / export / transhipment of CNB controlled precursors, CNB will then issue an import / export permit to effect the shipment.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=272" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Central-Narcotics-Bureau-(CNB)/Company-Registration-(CR)" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Central-Narcotics-Bureau-(CNB)/Company-Registration-(CR)">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/cnb-company-registration" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Central-Narcotics-Bureau-(CNB)/Company-Registration-(CR)">View Licence Details</a>
 
         -----
-        **Permit Administration and Control System(PATROL)**
+        **Permit Administration and Control System (PATROL)**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
         PATROL is to provide a One-Stop e-Service to allow Traders to perform all transactions pertaining to permit declarations and to align to Government's direction to move towards Electronic Services.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=271" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Central-Narcotics-Bureau-(CNB)/Permit-Administration-and-Control-System(PATROL)" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Central-Narcotics-Bureau-(CNB)/Permit-Administration-and-Control-System(PATROL)">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/cnb-patrol" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Central-Narcotics-Bureau-(CNB)/Permit-Administration-and-Control-System-(PATROL)">View Licence Details</a>
     
     - title: Cyber Security Agency of Singapore (CSA)
       content: |
         **Cybersecurity Labelling Scheme for IoT (Level 1)**
 
-        <p>The Cybersecurity Labelling Scheme for IoT is launched by the Cyber Security Agency of Singapore (CSA) as part of efforts to improve Internet of Things (IoT) security, raise overall cyber hygiene levels and better secure Singapore's Cyberspace.</p><p>Under the scheme, smart consumer devices will be rated according to their levels of cybersecurity provisions, and a label will be issued to the smart device, enabling consumers to identify smart products with better cybersecurity provisions.</p><p>For more information, please visit https://www.csa.gov.sg/cls or kindly contact cls_iot@csa.gov.sg.</p>
+        <p>The Cybersecurity Labelling Scheme for IoT is launched by the Cyber Security Agency of Singapore (CSA) as part of efforts to improve Internet of Things (IoT) security, raise overall cyber hygiene levels and better secure Singapore's Cyberspace.</p><p>Under the scheme, smart consumer devices will be rated according to their levels of cybersecurity provisions, and a label will be issued to the smart device, enabling consumers to identify smart products with better cybersecurity provisions.</p><p>For more information, please visit <a href="https://www.csa.gov.sg/cls" target="_blank">https://www.csa.gov.sg/cls</a> or kindly contact cls_iot@csa.gov.sg</p>
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/csaiot1" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-IoT-(Level-1)">View Licence Details</a>
 
         -----
         **Cybersecurity Labelling Scheme for IoT (Level 2)**
 
-        <p>The Cybersecurity Labelling Scheme for IoT is launched by the Cyber Security Agency of Singapore (CSA) as part of efforts to improve Internet of Things (IoT) security, raise overall cyber hygiene levels and better secure Singapore's Cyberspace.</p><p>Under the scheme, smart consumer devices will be rated according to their levels of cybersecurity provisions, and a label will be issued to the smart device, enabling consumers to identify smart products with better cybersecurity provisions.</p><p>For more information, please visit https://www.csa.gov.sg/cls or kindly contact cls_iot@csa.gov.sg.</p>
+        <p>The Cybersecurity Labelling Scheme for IoT is launched by the Cyber Security Agency of Singapore (CSA) as part of efforts to improve Internet of Things (IoT) security, raise overall cyber hygiene levels and better secure Singapore's Cyberspace.</p><p>Under the scheme, smart consumer devices will be rated according to their levels of cybersecurity provisions, and a label will be issued to the smart device, enabling consumers to identify smart products with better cybersecurity provisions.</p><p>For more information, please visit <a href="https://www.csa.gov.sg/cls" target="_blank">https://www.csa.gov.sg/cls</a> or kindly contact cls_iot@csa.gov.sg</p>
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/csaiot2" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-IoT-(Level-2)">View Licence Details</a>
 
         -----
         **Cybersecurity Labelling Scheme for IoT (Level 3)**
 
-        <p>The Cybersecurity Labelling Scheme for IoT is launched by the Cyber Security Agency of Singapore (CSA) as part of efforts to improve Internet of Things (IoT) security, raise overall cyber hygiene levels and better secure Singapore's Cyberspace.</p><p>Under the scheme, smart consumer devices will be rated according to their levels of cybersecurity provisions, and a label will be issued to the smart device, enabling consumers to identify smart products with better cybersecurity provisions.</p><p>For more information, please visit https://www.csa.gov.sg/cls or kindly contact cls_iot@csa.gov.sg.</p>
+        <p>The Cybersecurity Labelling Scheme for IoT is launched by the Cyber Security Agency of Singapore (CSA) as part of efforts to improve Internet of Things (IoT) security, raise overall cyber hygiene levels and better secure Singapore's Cyberspace.</p><p>Under the scheme, smart consumer devices will be rated according to their levels of cybersecurity provisions, and a label will be issued to the smart device, enabling consumers to identify smart products with better cybersecurity provisions.</p><p>For more information, please visit <a href="https://www.csa.gov.sg/cls" target="_blank">https://www.csa.gov.sg/cls</a> or kindly contact cls_iot@csa.gov.sg</p>
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/csaiot3" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-IoT-(Level-3)">View Licence Details</a>
 
         -----
         **Cybersecurity Labelling Scheme for IoT (Level 4)**
 
-        <p>The Cybersecurity Labelling Scheme for IoT is launched by the Cyber Security Agency of Singapore (CSA) as part of efforts to improve Internet of Things (IoT) security, raise overall cyber hygiene levels and better secure Singapore's Cyberspace.</p><p>Under the scheme, smart consumer devices will be rated according to their levels of cybersecurity provisions, and a label will be issued to the smart device, enabling consumers to identify smart products with better cybersecurity provisions.</p><p>For more information, please visit https://www.csa.gov.sg/cls or kindly contact cls_iot@csa.gov.sg.</p>
+        <p>The Cybersecurity Labelling Scheme for IoT is launched by the Cyber Security Agency of Singapore (CSA) as part of efforts to improve Internet of Things (IoT) security, raise overall cyber hygiene levels and better secure Singapore's Cyberspace.</p><p>Under the scheme, smart consumer devices will be rated according to their levels of cybersecurity provisions, and a label will be issued to the smart device, enabling consumers to identify smart products with better cybersecurity provisions.</p><p>For more information, please visit <a href="https://www.csa.gov.sg/cls" target="_blank">https://www.csa.gov.sg/cls</a> or kindly contact cls_iot@csa.gov.sg</p>
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/csaiot4" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-IoT-(Level-4)">View Licence Details</a>
 
         -----
+        **Cybersecurity Labelling Scheme for Medical Devices (Level 1)**
+
+        <p>The Cybersecurity Labelling Scheme for Medical Devices (CLS(MD)) is a joint initiative by the Cyber Security Agency of Singapore (CSA), Ministry of Health (MOH), Health Sciences Authority (HSA), and Synapxe as part of efforts to improve medical device cybersecurity.</p>
+        <p>Under the voluntary CLS(MD), medical devices are rated according to 4 levels of cybersecurity provisions and assessments. The cybersecurity label for medical devices would provide an indication of the level of security in medical devices. The scheme seeks to incentivise manufacturers to adopt a security-by-design approach, and to enable consumers and healthcare providers to make more informed decisions about the use of such devices.</p>
+        <p>For more information, please visit <a href="https://www.csa.gov.sg/cls-md" target="_blank">https://www.csa.gov.sg/cls-md</a> or kindly contact cls_md@csa.gov.sg</p>
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/medicaldeviceslvl1" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-Medical-Devices-(Level-1)">View Licence Details</a>
+
+        -----
+        **Cybersecurity Labelling Scheme for Medical Devices (Level 2)**
+
+        <p>The Cybersecurity Labelling Scheme for Medical Devices (CLS(MD)) is a joint initiative by the Cyber Security Agency of Singapore (CSA), Ministry of Health (MOH), Health Sciences Authority (HSA), and Synapxe as part of efforts to improve medical device cybersecurity.</p>
+        <p>Under the voluntary CLS(MD), medical devices are rated according to 4 levels of cybersecurity provisions and assessments. The cybersecurity label for medical devices would provide an indication of the level of security in medical devices. The scheme seeks to incentivise manufacturers to adopt a security-by-design approach, and to enable consumers and healthcare providers to make more informed decisions about the use of such devices.</p>
+        <p>For more information, please visit <a href="https://www.csa.gov.sg/cls-md" target="_blank">https://www.csa.gov.sg/cls-md</a> or kindly contact cls_md@csa.gov.sg</p>
+        
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/medicaldeviceslvl2" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-Medical-Devices-(Level-2)">View Licence Details</a>
+
+        -----
+        **Cybersecurity Labelling Scheme for Medical Devices (Level 3)**
+
+        <p>The Cybersecurity Labelling Scheme for Medical Devices (CLS(MD)) is a joint initiative by the Cyber Security Agency of Singapore (CSA), Ministry of Health (MOH), Health Sciences Authority (HSA), and Synapxe as part of efforts to improve medical device cybersecurity.</p>
+        <p>Under the voluntary CLS(MD), medical devices are rated according to 4 levels of cybersecurity provisions and assessments. The cybersecurity label for medical devices would provide an indication of the level of security in medical devices. The scheme seeks to incentivise manufacturers to adopt a security-by-design approach, and to enable consumers and healthcare providers to make more informed decisions about the use of such devices.</p>
+        <p>For more information, please visit <a href="https://www.csa.gov.sg/cls-md" target="_blank">https://www.csa.gov.sg/cls-md</a> or kindly contact cls_md@csa.gov.sg</p>
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/medicaldeviceslvl3" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-Medical-Devices-(Level-3)">View Licence Details</a>
+
+        -----
+        **Cybersecurity Labelling Scheme for Medical Devices (Level 4)**
+
+        <p>The Cybersecurity Labelling Scheme for Medical Devices (CLS(MD)) is a joint initiative by the Cyber Security Agency of Singapore (CSA), Ministry of Health (MOH), Health Sciences Authority (HSA), and Synapxe as part of efforts to improve medical device cybersecurity.</p>
+        <p>Under the voluntary CLS(MD), medical devices are rated according to 4 levels of cybersecurity provisions and assessments. The cybersecurity label for medical devices would provide an indication of the level of security in medical devices. The scheme seeks to incentivise manufacturers to adopt a security-by-design approach, and to enable consumers and healthcare providers to make more informed decisions about the use of such devices.</p>
+        <p>For more information, please visit <a href="https://www.csa.gov.sg/cls-md" target="_blank">https://www.csa.gov.sg/cls-md</a> or kindly contact cls_md@csa.gov.sg</p>
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/medicaldeviceslvl4" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-Medical-Devices-(Level-4)">View Licence Details</a>
 
     - title: Cybersecurity Services Regulation Office (CSRO)
       content: |
         **Managed Security Operations Centre (SOC) Monitoring Service Licence**
 
-        For application of the Managed SOC Monitoring Service Licence
+        <p>For application of the Penetration Testing Service Licence</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=280" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Cybersecurity-Services-Regulation-Office-(CSRO)/Managed-Security-Operations-Centre-(SOC)-Monitoring-Service-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Cybersecurity-Services-Regulation-Office-(CSRO)/Managed-Security-Operations-Centre-(SOC)-Monitoring-Service-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/soc" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Cybersecurity-Services-Regulation-Office-(CSRO)/Managed-Security-Operations-Centre-(SOC)-Monitoring-Service-Licence">View Licence Details</a>
 
         -----
         **Penetration Testing Services Licence (PTS)**
 
-        For application of the Penetration Testing Service Licence
+        <p>For application of the Penetration Testing Service Licence</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=278" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Cybersecurity-Services-Regulation-Office-(CSRO)/Penetration-Testing-Services-Licence-(PTS)" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Cybersecurity-Services-Regulation-Office-(CSRO)/Penetration-Testing-Services-Licence-(PTS)">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/pts" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Cybersecurity-Services-Regulation-Office-(CSRO)/Penetration-Testing-Services-Licence-(PTS)">View Licence Details</a>
 
 - accordion:
   letter: e
@@ -395,10 +424,9 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        Required for electricity generation (10 MW or more) and for trading in wholesale electricity market.
+        Required for electricity generation (≥10 MW) and for trading in wholesale electricity market.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=284" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Energy-Market-Authority-(EMA)/Electricity-Generation" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Energy-Market-Authority-(EMA)/Electricity-Generation">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/electricitygeneration" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Energy-Market-Authority-(EMA)/Electricity-Generation">View Licence Details</a>
 
         -----
         **Electricity Retailer**
@@ -439,16 +467,42 @@
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/roms" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Enterprise-Singapore-(EnterpriseSG)/Representative-Office">View Licence Details</a>
 
-        -----      
-        **Rubber Licence**
+        -----
+        **Rubber Licence (Dealer)**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        For dealing in, treating and storing of natural rubber.
+        <p>For dealing in, treating and storing of natural rubber.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=39" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Enterprise-Singapore-(EnterpriseSG)/Rubber-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Enterprise-Singapore-(EnterpriseSG)/Rubber-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/rubberdealerlicence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Enterprise-Singapore-(EnterpriseSG)/Rubber-Licence-(Dealer)">View Licence Details</a>
 
+        -----
+        **Rubber Licence (Manufacturer)**
+
+        <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
+
+        <p>For dealing in, treating and storing of natural rubber.</p>
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/rubbermanufacturerlicence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Enterprise-Singapore-(EnterpriseSG)/Rubber-Licence-(Manufacturer)">View Licence Details</a>
+
+        -----
+        **Rubber Licence (Packer)**
+
+        <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
+
+        <p>For dealing in, treating and storing of natural rubber.</p>
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/rubberpackerlicence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Enterprise-Singapore-(EnterpriseSG)/Rubber-Licence-(Packer)">View Licence Details</a>
+
+        -----
+        **Rubber Licence (Shipper)**
+
+        <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
+
+        <p>For dealing in, treating and storing of natural rubber.</p>
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/rubbershipperlicence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Enterprise-Singapore-(EnterpriseSG)/Rubber-Licence-(Shipper)">View Licence Details</a>     
+        
 - accordion:
   letter: h
   data:
@@ -537,10 +591,9 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        Application is for equipment suppliers to apply for Confirmation of Conformity (COFC) for telecommunication equipment under which no approval for sale is required (exempted equipment).
+        COFC is on voluntary basis and is for telecommunication equipment under which no approval for sale is required (equipment exempted from registration), e.g. Facsimile Transceiver.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10076" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Application-for-Confirmation-of-Conformity-(COFC)" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Application-for-Confirmation-of-Conformity-(COFC)">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/cofc" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Application-for-Confirmation-of-Conformity-(COFC)">View Licence Details</a>
 
         -----
         **Arts Entertainment Licence**
@@ -564,10 +617,17 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        Equipment registration under the Enhanced Simplified Equipment Registration (ESER) Scheme is for equipment suppliers who wish to register short range/low power devices (SRD/LPD) and complex multi-line equipment.
+        ESER is applicable to:
+        
+        Short range/low power devices (SRD/LPD) e.g. alarm, RFID, radio-detection, on-site paging and vehicle radar systems, remote controls, telecommand, telemetry, wireless microphone and video transmitter, wireless LAN and Bluetooth
+        
+        DECT Cordless Telephone, Portable mobile radio (PMR446) and multi-channel portable radio (MCR446) at less than 500 mW
+        
+        DVB-T2 Integrated Receiver Decoder (e.g. DVB-T2 Set-top box, Integrated Digital TV, In-vehicle receiver)
+        
+        Complex multi-line equipment (e.g. PABX, KTS, ISDN, PABX, PSTN, PLC)
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10077" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Enhanced-Simplified-Equipment-Registration-(ESER)" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Enhanced-Simplified-Equipment-Registration-(ESER)">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/eser" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Enhanced-Simplified-Equipment-Registration-(ESER)">View Licence Details</a>
 
         -----
         **Exhibition of Telecommunication Equipment (with Frequency)**
@@ -639,21 +699,21 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        Equipment registration under the General Equipment Registration (GER) Scheme is mandatory for equipment suppliers who wish to register Mobile/IoT Base Station/Repeater System, Landmobile radio/walkie-talkie, TV White Space devices, UWB, DSRC, IoT Base Station, RFID > 500 mW, etc. GER scheme is also optional for equipment categories that falls under SER/ESER scheme where applicant may opt for IMDA to evaluate the test reports instead of self-declaration. However this will be subject to registr...
+        GER is mandatory for registration of Mobile/IoT Base Station/Repeater System, Landmobile Radio/walkie-talkie, TV White Space devices, UWB, DSRC, IoT User Equipment and Short Range Devices where the operation requires IMDA's approval.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10080" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/General-Equipment-Registration-(GER)" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/General-Equipment-Registration-(GER)">View Licence Details</a>
+        Application is optional for equipment categories that falls under SER/ESER scheme but subject to registration fees under GER scheme.
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/ger" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/General-Equipment-Registration-(GER)">View Licence Details</a>
 
         -----
         **General Equipment Registration by Certification Bodies (GER-CB)**
 
-        <span style="background: #EEF0F2; border-radius: 3px; width: 150px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/sp-mini.png" alt="For Individual Users"> For Individual Users </span>
+        <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        Registration under General Equipment Registration by Certification Bodies is applicable only to authorised CB applicant under MRA Phase II for IMDA recognised Certification Bodies.
+        GER-CB is applicable only to authorised CB applicant under MRA Phase II for IMDA recognised Certification Bodies to register all types of equipment.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10081" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/General-Equipment-Registration-by-Certification-Bodies-(GER-CB)" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/General-Equipment-Registration-by-Certification-Bodies-(GER-CB)">View Licence Details</a>
-        
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/ger-cb" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/General-Equipment-Registration-by-Certification-Bodies-(GER-CB)">View Licence Details</a>
+
         -----
         **General Radio-communication Station Licence**
 
@@ -824,7 +884,7 @@
 
         You should apply for a Ship Station Licence if you have radio-communication equipment installed on board ships registered in Singapore.
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/shipstation" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Ship-Station-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/shipstation" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Ship-Station-Licence">View Licence Details</a> 
 
         -----
         **Ship Station Operator's Certificate of Competency**
@@ -842,10 +902,13 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        Equipment registration under the Simplified Equipment Registration (SER) Scheme is for equipment suppliers who wish to register Mobile Terminals (LTE/3G/GMPCS) or Broadband Access Equipment (ADSL, Cable Modem and CCHN).
+        SER is applicable to:
+        
+        Mobile Terminals e.g. 3G/LTE/GMPCS mobile phone
+        
+        Broadband Access Equipment e.g. ADSL, Cable Modem and CCHN equipment
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10078" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Simplified-Equipment-Registration-(SER)" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Simplified-Equipment-Registration-(SER)">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/ser" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Simplified-Equipment-Registration-(SER)">View Licence Details</a>
 
         -----
         **Special Purpose Station**
@@ -898,18 +961,16 @@
 
         For the manufacture, import, hire, sale, offer or possession for sale of any approved (by way of registration) telecommunication equipment or equipment set out in the First Schedule of the Telecommunication (Dealers) Regulations (the "Regulations").
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=25" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Telecommunication-Dealer's-(Class)-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Telecommunication-Dealer's-(Class)-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/telecommunicationdealersclass" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Telecommunication-Dealers-(Class)-Licence">View Licence Details</a>
 
         -----
         **Telecommunication Dealer's (Individual) Licence**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        For the manufacture, import, hire, sale, offer or possession for sale of any approved telecommunication equipment or equipment set out in the First Schedule of the Telecommunication (Dealers) Regulations (the "Regulations") and includes the manufacture, import and sale of non- approved equipment for the sole purpose of re-export.
+        For the manufacture, import, hire, sale, offer or possession for sale of any approved telecommunication equipment or equipment set out in the First Schedule of the Telecommunication (Dealers) Regulations (the "Regulations") and includes the manufacture, import and sale of non-approved equipment for the sole purpose of re-export.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=26" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Telecommunication-Dealer's-(Individual)-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Telecommunication-Dealer's-(Individual)-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/telecommunicationdealersindividual" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Telecommunication-Dealers-(Individual)-Licence">View Licence Details</a>
 
         -----
         **Telecommunication Wiring Contractor's (Class) Licence**
@@ -1236,34 +1297,31 @@
 
     - title: Ministry of Law (MINLAW)
       content: |
-        **Certificate of Exemption (the Moneylenders Act (Cap.188))**
+       **Certificate of Exemption (the Moneylenders Act (Cap.188))**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
         For entities which lend money to borrowers for specific purposes.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10055" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Ministry-of-Law-(MINLAW)/Certificate-of-Exemption-(the-Moneylenders-Act-(Cap188))" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Ministry-of-Law-(MINLAW)/Certificate-of-Exemption-(the-Moneylenders-Act-(Cap188))">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/certificateofexemption" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Law-(MINLAW)/Certificate-of-Exemption-(the-Moneylenders-Act-(Cap188))">View Licence Details</a>
 
         -----
-        **Insolvency Practitioner Licence (IP)**
+         **Insolvency Practitioner's Licence (IP)**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 150px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/sp-mini.png" alt="For Individual Users"> For Individual Users </span>
 
-        Application to hold an insolvency practitioner's licence (new) to undertake insolvency or debt restructuring work in Singapore.
+        Application to hold an insolvency practitioner's licence to undertake insolvency or debt restructuring work in Singapore.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=274" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Ministry-of-Law-(MINLAW)/Insolvency-Practitioner-Licence-(IP)" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Ministry-of-Law-(MINLAW)/Insolvency-Practitioner-Licence-(IP)">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/insolvencypractitioner" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Law-(MINLAW)/Insolvency-Practitioner's-Licence-(IP)">View Licence Details</a>
 
         -----
-        **Moneylender's Licence**
+       **Moneylender's Licence**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
         The Registry of Moneylenders has temporarily suspended the grant of any new moneylending licences.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=18" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Ministry-of-Law-(MINLAW)/Moneylender's-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Ministry-of-Law-(MINLAW)/Moneylender's-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/moneylender" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Law-(MINLAW)/Moneylender's-Licence">View Licence Details</a>
 
         -----
         **Pawnbroker's Licence**
@@ -1272,8 +1330,16 @@
 
         For institutions who are interested to engage in pawnbroking business.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=24" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Ministry-of-Law-(MINLAW)/Pawnbroker's-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Ministry-of-Law-(MINLAW)/Pawnbroker's-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/pawnbrokerlicence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Law-(MINLAW)/Pawnbroker's-Licence">View Licence Details</a>
+
+        -----
+        **Registration for Moneylender's Test**
+
+        <span style="background: #EEF0F2; border-radius: 3px; width: 150px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/sp-mini.png" alt="For Individual Users"> For Individual Users </span>
+
+        This is for the registration for Moneylender test
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/moneylendertest" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Law-(MINLAW)/Registration-for-Moneylender's-Test">View Licence Details</a>
 
         -----
         **Registration of Precious Stones and Precious Metals Dealers**
@@ -1380,18 +1446,16 @@
 
         A Comprehensive licence allows you to place all types of workers without a salary cap. If you are only placing workers earning more than S$4,500 per month, you can apply for a Select licence. Please note that if you intend to apply for a Select Licence, you cannot register 78103(Maid Agencies) as one of your business activities.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=55" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Ministry-of-Manpower-(MOM)/Employment-Agency-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Ministry-of-Manpower-(MOM)/Employment-Agency-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/employmentagency" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Manpower-(MOM)/Employment-Agency-Licence">View Licence Details</a>
 
         -----
         **Factory Notification and Registration**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        The Occupier (e.g. factory owner) of premises defined as factories is required to either notify or register their premises with MOM before operations, to facilitate the management of workplace risk and the implementation of Safety and Health Management Systems. If the factory falls under the definition of a Major Hazard Installation (MHI), the Occupier is required to register the premises as an MHI with MOM, at least 6 months before operations.
+        Workplaces specified as factories under the Workplace Safety and Health (WSH) Act, must either notify or register their activities with the Ministry of Manpower (MOM) before starting operations.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=54" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Ministry-of-Manpower-(MOM)/Factory-Notification-and-Registration" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Ministry-of-Manpower-(MOM)/Factory-Notification-and-Registration">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/factorynotificationregistration" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Manpower-(MOM)/Factory-Notification-and-Registration">View Licence Details</a>
 
         -----
         **Foreign Employee Dormitories Act Licence**
@@ -1517,8 +1581,6 @@
 
         This licence is required for any individual teaching Islam in Singapore. For example, religious teachers / asatizah conducting religious classes or Quranic classes.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=235" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Majlis-Ugama-Islam-Singapura-(MUIS)/Asatizah-Recognition-Scheme" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Majlis-Ugama-Islam-Singapura-(MUIS)/Asatizah-Recognition-Scheme">View Licence Details</a>
 
         -----
         **Halal Certification**
@@ -1836,10 +1898,9 @@
         -----
         **Phytosanitary Certification**
 
-        <p>Phytosanitary Certificates (PCs) are issued by the National Parks Board (NParks) of Singapore. They certify that plants and plant products exported from Singapore are free from injurious pests and diseases and meet the import requirements of the importing countries/regions.</p>
+        <p>This certificate facilitates the export/re-export of plants or plant products, and attests that the consignment of plants or plant products is free from specified plant pests including any additional declarations and/or treatment required, to meet requirements of the destination country.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201212070000112" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/National-Parks-Board-(NPARKS)/Phytosanitary-Certification" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/National-Parks-Board-(NPARKS)/Phytosanitary-Certification">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/phytosanitarycertification" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/Phytosanitary-Certification">View Licence Details</a>
         
         -----
         **Pre-signed CITES Permit**
@@ -1860,7 +1921,7 @@
 
         <p>This stock card will be needed for exporter and re-exporters to facilitate their Export or Re-Export CITES permit application. For expired CITES export/re-port CITES permit, please apply for manual increment to credit the stock back to the respectively stock card.</p>
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/313d4f49-06b3-4368-ac1b-ffaea83426cb" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/Stock-Card-Application-Form">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/stockcard" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/Stock-Card-Application-Form">View Licence Details</a>
 
         -----
         **Usage of Premises in Parks**
@@ -1968,18 +2029,16 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        The Fire Safety Act (FSA) regulates the storage of petroleum and flammable materials. A licence is required for storage of highly flammable petroleum and flammable materials products with a flash point below 93 degree celsius. 
+        The Fire Safety Act (FSA) regulates the storage of petroleum and flammable materials. A licence is required for storage of highly flammable petroleum and flammable materials products with a flash point below 93 degree celsius.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=22" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Petroleum---Flammable-Materials-Storage-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Petroleum---Flammable-Materials-Storage-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/pfms" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Petroleum---Flammable-Materials-Storage-Licence">View Licence Details</a>
 
         -----
         **Petroleum / Flammable Materials Transportation Licence**
 
         The Fire Safety Act (FSA) regulates the transportation of petroleum and flammable materials . The petroleum and flammable materials transportation licence is to ensure that the transportation is carried out in a safe manner and that proper fire safety measures / procedures are undertaken by the licensee to ensure safety environment.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=17" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Petroleum---Flammable-Materials-Transportation-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Petroleum---Flammable-Materials-Transportation-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/pfmt" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Petroleum---Flammable-Materials-Transportation-Licence">View Licence Details</a>
 
         -----
         **Plan Approval for Fire Safety Works**
@@ -2064,7 +2123,7 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        <p>Licence for Import/Export/Transhipment of Meat and Fish Products is required if Traders involved in the import/export/transshipment of meat and fish products.<br /><br />Licence Pre-requisites :<br />1.Top Up CPF Medisave.<br />2.Activate UEN with Singapore Customs.<br />3.Submit original GIRO form.</p>
+        <p>Licence for Import/Export/Transhipment of Meat and Fish Products is required if Traders involved in the import/export/transshipment of meat and fish products.<br /><br />Licence Pre-requisites :<br />1.Top Up CPF MediSave.<br />2.Activate UEN with Singapore Customs.<br />3.Submit original GIRO form.</p>
 
         <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000176" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-for-Import-Export-Transhipment-of-Meat-and-Fish-Products" style="margin-left: 1em;">View Licence Details</a>
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-for-Import-Export-Transhipment-of-Meat-and-Fish-Products">View Licence Details</a>
@@ -2074,7 +2133,7 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        <p>Licence for Import/Transhipment of Fresh Fruits and Vegetables is required if Traders involved in the import/transshipment of fresh fruits and vegetables.<br /><br />Licence Pre-requisites :<br />1.Top Up CPF Medisave.<br />2.Activate UEN with Singapore Customs.<br />3.Submit original GIRO form.</p>
+        <p>Licence for Import/Transhipment of Fresh Fruits and Vegetables is required if Traders involved in the import/transshipment of fresh fruits and vegetables.<br /><br />Licence Pre-requisites :<br />1.Top Up CPF MediSave.<br />2.Activate UEN with Singapore Customs.<br />3.Submit original GIRO form.</p>
 
         <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000175" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-for-Import-Transhipment-of-Fresh-Fruits-and-Vegetables" style="margin-left: 1em;">View Licence Details</a>
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-for-Import-Transhipment-of-Fresh-Fruits-and-Vegetables">View Licence Details</a>
@@ -2200,7 +2259,7 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        <p>Registration to Import Processed Food Products and Food Appliances is required if Traders involve in the import of processed food (not containing meat and fish products, fresh fruits and vegetables) and food appliances.<br /><br />Licence Pre-requisites :<br />1.Top Up CPF Medisave.<br />2.Activate UEN with Singapore Customs.<br />3.Submit original GIRO form.</p>
+        <p>Registration to Import Processed Food Products and Food Appliances is required if Traders involve in the import of processed food (not containing meat and fish products, fresh fruits and vegetables) and food appliances.<br /><br />Licence Pre-requisites :<br />1.Top Up CPF MediSave.<br />2.Activate UEN with Singapore Customs.<br />3.Submit original GIRO form.</p>
 
         <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301070000146" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Registration-to-Import-Processed-Food-Products-and-Food-Appliances" style="margin-left: 1em;">View Licence Details</a>
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Registration-to-Import-Processed-Food-Products-and-Food-Appliances">View Licence Details</a>
@@ -2574,8 +2633,7 @@
 
         Private education institutions can apply to be certified under the EduTrust Certification Scheme. It is a quality assurance scheme which distinguishes private schools that consistently maintain a high standard of quality in the overall provision of education services and make continual improvements that lead to positive student outcomes.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=36" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/SkillsFuture-Singapore-(SSG)/EduTrust-Certification-Scheme" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/SkillsFuture-Singapore-(SSG)/EduTrust-Certification-Scheme">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/edutrust" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/SkillsFuture-Singapore-(SSG)/EduTrust-Certification-Scheme">View Licence Details</a>
 
         -----
         **Registration of Private Education Institutions**
@@ -2584,8 +2642,7 @@
 
         An education provider in Singapore must be registered as a Private Education Institution and adhere to the statutory requirements of the Enhanced Registration Framework (ERF).
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=35" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/SkillsFuture-Singapore-(SSG)/Registration-of-Private-Education-Institutions" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/SkillsFuture-Singapore-(SSG)/Registration-of-Private-Education-Institutions">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/ssgpei" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/SkillsFuture-Singapore-(SSG)/Registration-of-Private-Education-Institutions">View Licence Details</a>
 
     - title: Singapore Tourism Board (STB)
       content: |
