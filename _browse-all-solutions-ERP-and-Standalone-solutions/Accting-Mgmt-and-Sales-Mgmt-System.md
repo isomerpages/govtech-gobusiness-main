@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-ERP-and-Standalone-solutions/Accting-Mgmt-and-S
 
 **Support Level and Conditions**
 
-Up to `50% for SMEs, N.A. for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
@@ -40,12 +40,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>361 Degree Consultancy Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202138250K-ABSS-Prmr-v-30-G' target='_blank'>ABSS Premier Version 30</a><br></td>
-<td>Apscom Solutions Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200918692D-ABSS-Prmr-v-30-G' target='_blank'>ABSS Premier Version 30</a><br></td>
 <td>Andre Corporate Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202138250K-ABSS-Prmr-v-30-G' target='_blank'>ABSS Premier Version 30</a><br></td>
+<td>Apscom Solutions Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201539815G-Acc-Pro-Xro-v-01-G' target='_blank'>Acc Pro : Xero Version 01</a><br></td>
@@ -148,10 +148,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>TRISERV PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/T18LL0812H-Xro-G' target='_blank'>Xero</a><br></td>
-<td>Clooud Consulting LLP</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201916672K-Xro-G' target='_blank'>Xero</a><br></td>
 <td>KloudEx Pte Ltd</td>
 </tr>
@@ -162,6 +158,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201427894D-XERO-G' target='_blank'>XERO</a><br></td>
 <td>ACE BUSINESS PRIVATE LIMITED</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/T18LL0812H-Xro-G' target='_blank'>Xero</a><br></td>
+<td>Clooud Consulting LLP</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201134830C-XERO-ACC-Softwr-G' target='_blank'>XERO Accounting Software</a><br></td>
@@ -176,16 +176,16 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Advante Consulting Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201916672K-Xro-Cloud-ACC-Softwr-G' target='_blank'>Xero Cloud Accounting Software</a><br></td>
-<td>KloudEx Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201326395C-Xro-Cloud-ACC-Softwr-G' target='_blank'>Xero Cloud Accounting Software</a><br></td>
 <td>THINK SME PTE LTD</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200804595N-Xro-Cloud-ACC-Softwr-G' target='_blank'>Xero Cloud Accounting Software</a><br></td>
 <td>361 Degree Consultancy Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201916672K-Xro-Cloud-ACC-Softwr-G' target='_blank'>Xero Cloud Accounting Software</a><br></td>
+<td>KloudEx Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201130282N-Xro-Cloud-ACC-SLNs-G' target='_blank'>Xero Cloud Accounting Solutions</a><br></td>

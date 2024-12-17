@@ -11,8 +11,6 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Tlscopc-systm-for-hgh-
 
 Extendable rods that can reach at least 2m to do cleaning of walls, ledges, piping, etc. and equipped with camera system to check for cleanliness. It can also include a water system generator and pump.
 
-There is an equipment cap. Refer to BGP for details.
-
 ## Solution Packages Option(s)
 
 <table>
@@ -24,7 +22,7 @@ There is an equipment cap. Refer to BGP for details.
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Telescopic system for high ceiling cleaning</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>N.A</td>
+<td style='padding: 10px;'>Grant cap: Up to S$2,700 per unit</td>
 </tr>
 </table>
 

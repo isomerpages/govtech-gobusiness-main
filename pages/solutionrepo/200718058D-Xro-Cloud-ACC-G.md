@@ -26,35 +26,35 @@ Xero is an all-in-one cloud-based accounting software platform for small and med
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (Standard subscription only)</td>
 <td style='padding: 10px;'>$732.00</td>
 <td style='padding: 10px;'>$672.00</td>
-<td style='padding: 10px;'><a href='/images/psg/200718058D_20240189_19122024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/20240189_19122024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (Starter package: Premium subscription + setup)</td>
 <td style='padding: 10px;'>$1,998.00</td>
 <td style='padding: 10px;'>$1,998.00</td>
-<td style='padding: 10px;'><a href='/images/psg/200718058D_20240189_19122024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/20240189_19122024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (Starter package: Premium subscription + setup + training)</td>
 <td style='padding: 10px;'>$2,398.00</td>
 <td style='padding: 10px;'>$2,398.00</td>
-<td style='padding: 10px;'><a href='/images/psg/200718058D_20240189_19122024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/20240189_19122024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D (Standard package: Premium subscription + setup w opening bal + training)</td>
 <td style='padding: 10px;'>$2,999.00</td>
 <td style='padding: 10px;'>$2,999.00</td>
-<td style='padding: 10px;'><a href='/images/psg/200718058D_20240189_19122024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/20240189_19122024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E (Premium package: Premium subscription+setup w historical data+training)</td>
 <td style='padding: 10px;'>$3,798.00</td>
 <td style='padding: 10px;'>$3,436.00</td>
-<td style='padding: 10px;'><a href='/images/psg/200718058D_20240189_19122024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/20240189_19122024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -11,8 +11,6 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Smrt-Wst-Ol-Collcton-s
 
 Equipment with diagnostics, fill-level sensors and data management system to transport waste oil from the fryer to the waste oil containment tank with minimal human intervention. Oil must be transferred directly from fryer to waste oil containment tank without an intermediate oil caddy. Containment tank must be equipped with fill-level sensors, data management system and diagnostics functions.
 
-There is an equipment cap. Refer to BGP for details.
-
 ## Solution Packages Option(s)
 
 <table>
@@ -24,7 +22,7 @@ There is an equipment cap. Refer to BGP for details.
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Smart Waste Oil Collection System</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>N.A</td>
+<td style='padding: 10px;'>Grant cap: Up to S$6,800 per unit</td>
 </tr>
 </table>
 

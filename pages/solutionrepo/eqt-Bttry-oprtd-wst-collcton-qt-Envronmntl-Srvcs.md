@@ -11,8 +11,6 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Bttry-oprtd-wst-collct
 
 The equipment (autonomous or one man operated) is able to facilitate the collection of waste from point to point. It should be able to carry bins of at least 660L in capacity. Examples of features include bin-lifting, towing, pulling and transporting of waste.
 
-There is an equipment cap. Refer to BGP for details.
-
 ## Solution Packages Option(s)
 
 <table>
@@ -24,7 +22,7 @@ There is an equipment cap. Refer to BGP for details.
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Battery operated waste collection equipment</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>N.A</td>
+<td style='padding: 10px;'>Grant cap: Up to S$7,800 per unit</td>
 </tr>
 </table>
 

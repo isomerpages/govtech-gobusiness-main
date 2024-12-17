@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Early-Childhood/Talent-Attraction-Platform
 
 **Support Level and Conditions**
 
-Up to `50% for SMEs, `30% for non-SMEs
+Up to 50% for SMEs, 30% for non-SMEs
 
 This solution is supported by ECDA.
 
