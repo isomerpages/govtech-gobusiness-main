@@ -3,9 +3,10 @@ collections:
     output: true
     order:
       - back-to-all-psg-solutions.md
-      - Unified-Threat-Management.md
       - Managed-Detection-and-Response.md
-      - Endpoint-Protection-Platform.md
-      - EndPoint-Protection-Platform.md
-      - Integrated-Package.md
+      - Backup.md
       - Virus-Malware-Protection.md
+      - Endpoint-Protection-Platform.md
+      - Unified-Threat-Management.md
+      - Integrated-Package.md
+      - Firewall.md
