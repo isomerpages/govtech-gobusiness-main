@@ -8,10 +8,9 @@ const custom_notifications = [
   "<b>[Attention: System Maintenance]</b> Certain GoBusiness services will be unavailable due to upcoming maintenance. Please check our <B><u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>maintenance schedule</a></u></B> for details.",
   "<b>[Attention: Important Notice]</b> Please be informed that the GoBusiness Licensing Helpdesk will operate from <B><U>8:00 AM to 2:00 PM</B></U> on the following festival eves: <br> Tuesday, 24 December 2024 (Christmas Eve)<br>
 Tuesday, 31 December 2024 (New Year's Eve)<br>
-Tuesday, 28 January 2025 (Chinese New Year Eve)
-<P>
+Tuesday, 28 January 2025 (Chinese New Year Eve)<br>
 Normal operating hours will resume on the working day following each festive eve and its respective public holiday. <br>
-For enquiries during this period, please email Askgobiz@crimsonlogic.com.sg. We apologise for any inconvenience and thank you for your understanding. ",
+For enquiries during this period, please email Askgobiz@crimsonlogic.com.sg. We apologise for any inconvenience and thank you for your understanding. "
 ];
 
 
