@@ -26,7 +26,7 @@ In the context of intangible assets (IA) and IP, having a well-written contract 
 ---
 
 ### Connect with relevant service providers for contract drafting services (with IA/IP considerations)
-**52 service providers listed.**
+**53 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -573,7 +573,7 @@ JurisAsia LLC provides legal services globally through our exclusive association
 Adastra has been in existence since 2004 and is formed by a team of technical and legal expertise.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 21 - 30</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 31 - 40</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,500</li>
@@ -611,6 +611,22 @@ Adsan Law LLC, an established law corporation, provides a comprehensive range of
 </ul>
 
 <a class='btn' href='https://form.gov.sg/67048a6d43898c3913271472' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/adsan-law-llc/){:target='_blank'}
+
+---
+
+#### fsLAW
+
+fsLAW is ranked among Singapore's leading firms, specialising in corporate law, fundraising, and M&A.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $750</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Complimentary 30-min introductory call for new clients to see if and how we may assist the client. Please note, no legal advice is given on these calls.</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/67565a125552d17a8f18542e' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/fslaw/){:target='_blank'}
 
 ---
 
