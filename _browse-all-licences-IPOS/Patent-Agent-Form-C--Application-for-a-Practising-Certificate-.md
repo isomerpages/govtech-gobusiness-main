@@ -26,14 +26,13 @@ You may email to <a href="mailto:ipos_pau@ipos.gov.sg">ipos_pau@ipos.gov.sg</a><
 <strong>Additional Information</strong>
 
 <p><strong>Fees</strong><br />
-New licence valid for 12 months - <strong>$150</strong> per year</p>
+$150</p>
 
 <H3>Documents Needed</H3>
 
 <ul>
 <li><strong>Professional Indemnity Insurance</strong></li>
 <li>Indemnity insurance is needed for patent agents to provide protection against liability or gives liability coverage in any case of misjudgement.
-<br>File format: PDF, jpg, jpeg, png, bmp
 <br>Maximum upload per application: 7 MB</li>
 </ul>
 
