@@ -33,6 +33,6 @@ $150</p>
 <ul>
 <li><strong>Professional Indemnity Insurance</strong></li>
 <li>Indemnity insurance is needed for patent agents to provide protection against liability or gives liability coverage in any case of misjudgement.
-<br>Maximum upload per application: 7 MB</li>
+<br>Maximum upload per file: 7 MB</li>
 </ul>
 
