@@ -51,7 +51,7 @@ iv. Hotel with 500 or more rooms - $1,450<br><br>
 <br>File format: pdf, doc, docx
 <br>Maximum upload per application: 7 MB
 </li>
-<li><strong>Temporary Occupation Permit (TOP) / Certificate of Statutory Completion (CSC) / BCA’s Letter of Acceptance of the most recent periodic inspection report of the building.</strong><br>File format: pdf, doc, docx
+<li><strong>Temporary Occupation Permit (TOP) / Certificate of Statutory Completion (CSC) / BCA's Letter of Acceptance of the most recent periodic inspection report of the building.</strong><br>File format: pdf, doc, docx
 <br>Maximum upload per application: 7 MB
 </li>
 
