@@ -107,8 +107,7 @@ We are the most active consulting company in Asia. We know franchising.
 - Location: Singapore
 - IA/IP-Related Expertise: IP Brokerage and Licensing
 - Certifications/Qualifications: Certified Franchise Executive (CFE) - USA, Senior Practicing Management Consultant (SPMC) - Singapore, Senior PMC-IP Management Certification, Certified Management Consultant (CMC) - International
-- URL of LinkedIn/Company Profile: 
-<a href="https://asiawidefranchise.com.sg/about-us/" target="_blank" rel="noopener">https://asiawidefranchise.com.sg/about-us/</a>  
+- URL of LinkedIn/Company Profile: [https://asiawidefranchise.com.sg/about-us/] (https://asiawidefranchise.com.sg/about-us/) 
 
 
 ---

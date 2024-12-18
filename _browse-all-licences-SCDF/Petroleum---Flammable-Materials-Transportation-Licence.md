@@ -8,7 +8,14 @@ third_nav_title: Singapore Civil Defence Force (SCDF)
 
 Singapore Civil Defence Force (SCDF)
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/pfmt" type="primary" %}
+{% include licence-apply-button.html %}
+<a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=17" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>
+<div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-size: 18px; color: #313840;">
+<img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;">
+<span style="font-weight: bold; font-family: hknova-bold; font-size: 18px; ">Please use desktop / laptop to apply for this licence.</span><br>
+<span style="font-family: hknova-regular;">You can only view application details and make payment via mobile. Please use GoBusiness Licensing on desktop to use all features.</span><br><br>
+<a id="mobileNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=17" target="_blank" rel="noopener">Continue to GoBusiness Licencing anyway</a>
+</div>
 
 <H3>Application Details</H3>
 
@@ -18,7 +25,7 @@ Singapore Civil Defence Force (SCDF)
 (3) 200 litres of Class II petroleum; <br>
 (4) 200 litres of Class III petroleum; <br>
 (5) 10 kg of Solid Flammable Material; <br>
-(6) 20 litres of Liquid Flammable Material;or<br>
+(6) 20 litres of Liquid Flammable Material;or<br> 
 (7) 130 kg of Gaseous Flammable Material <br>
 <br>
 Estimated Response Time if applied online here: 3 working days
@@ -55,7 +62,7 @@ No parking of vehicle transporting petroleum is allowed at any car park located 
 No overnight parking of vehicle loaded with drums or cylinders containing petroleum products is allowed at any car park from 2100 hours onwards.<br>
 Vehicle has to be installed with tracking device for bulk and package transportation if the quantity excess 3 metric tonnes (net wt)
 </li>
-
+ 
 <li>
 <strong>What supporting documents do I need to submit?</strong><br>
 For tankers (bulk)<br>
@@ -90,6 +97,7 @@ Alternatively, you may choose to make off-line payment at HQ SCDF's counter via 
 <li>
 <strong>Who can I contact for further details?</strong><br>
 For further clarification, you may contact Licensing Officers at the following contact nos. :<br>
+
 Email: <a href="mailto:Md_Razif_Abd_Rahman@scdf.gov.sg">Md_Razif_Abd_Rahman@scdf.gov.sg</a><br>
 Name: Mohammad Razif Bin Abdul Rahman<br>
 Designation: Senior Transport Licensing Specialist<br>
@@ -102,6 +110,7 @@ Contact: <a href="tel:+6568481474">6848 1474</a><br><br>
 
 Central Tel line: <a href=""tel:+6568481472"">68481472</a><br>
 Fax: 68481494
+
 </li>
 
 <li>
