@@ -13,7 +13,7 @@ We are led by a leading lawyer ranked by Chambers and asialaw Profiles, with pre
 
 We work on commercial arrangements such as licensings, distributions and complex commercial agreements and corporate transactions such as venture capital investments, other fundraisings, M&A and joint ventures.
 
-Our firm works closely with leading international law firms. We also provide -retainer counsel- services designed to give in-house counsel support with flexible resourcing.
+Our firm works closely with leading international law firms. We also provide 'retainer counsel' services designed to give in-house counsel support with flexible resourcing.
 
 <b>Year established in Singapore:</b> 2014
 
@@ -98,8 +98,8 @@ Our firm works closely with leading international law firms. We also provide -re
 - Years of Experience: 26 years
 - Location: Singapore
 - IA/IP-Related Expertise: IP Due Diligence, Contract Drafting
-- Certifications/Qualifications: Advocate and Solicitor, Supreme Court of Singapore, Solicitor, England and Wales, Solicitor, New South Wales and South Australia, 
-- Awards/Accolades: Ranked Lawyer - Chambers Asia-Pacific Guide 2024 - Startups & Emerging Companies - Singapore, Notable Practitioner - asialaw Profiles- 2023, 2024, Notable Practitioner - IFLR 1000 2024
+- Certifications/Qualifications: Advocate and Solicitor, Supreme Court of Singapore, Solicitor, England and Wales, Solicitor, New South Wales and South Australia
+- Awards/Accolades: Ranked Lawyer - Chambers Asia-Pacific Guide 2024 - Startups & Emerging Companies - Singapore, Notable Practitioner - asialaw Profiles' 2023, 2024, Notable Practitioner - IFLR 1000 2024
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/faithsing/" target="_blank" rel="noopener">https://www.linkedin.com/in/faithsing/</a>
 
 **Kelvin Ho**
@@ -118,7 +118,7 @@ Our firm works closely with leading international law firms. We also provide -re
 - Location: Singapore
 - IA/IP-Related Expertise: Contract Drafting, IP Due Diligence
 - Certifications/Qualifications: Advocate and Solicitor, Supreme Court of Singapore, Graduate Certificate in Intellectual Property & Technology Law from the National University of Singapore
-- URL of LinkedIn/Company Profile: [https://www.linkedin.com/in/jonathantwx/] (https://www.linkedin.com/in/jonathantwx/)  
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/jonathantwx/" target="_blank" rel="noopener">https://www.linkedin.com/in/jonathantwx/</a>  
 
 **Ng Hao Ming**
 
@@ -127,8 +127,7 @@ Our firm works closely with leading international law firms. We also provide -re
 - Location: Singapore
 - IA/IP-Related Expertise: IP Due Diligence, Contract Drafting
 - Certifications/Qualifications: Advocate and Solicitor, Supreme Court of Singapore
-- URL of LinkedIn/Company Profile: 
-<a href="https:// www.linkedin.com/in/haomingng/" target="_blank" rel="noopener">https://www.linkedin.com/in/haomingng/</a>  
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/haomingng/" target="_blank" rel="noopener">https://www.linkedin.com/in/haomingng/</a>  
 
 
 ---
