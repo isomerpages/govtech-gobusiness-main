@@ -1,9 +1,9 @@
 ---
-title: 'Equipment Monitoring and Manufacturing Data Collection'
-permalink: /browse-all-solutions-Advanced-Manufacturing/Equipment-Monitoring-and-Manufacturing-Data-Collection
+title: '3-in-1 ERP solution'
+permalink: /browse-all-solutions-Engineering-Services/3-in-1-ERP-solution
 ---
 
-## Equipment Monitoring and Manufacturing Data Collection
+## 3-in-1 ERP solution
 ## Overview
 
 **Support Level and Conditions**

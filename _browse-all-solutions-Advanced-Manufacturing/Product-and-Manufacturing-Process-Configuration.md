@@ -1,9 +1,9 @@
 ---
-title: 'Equipment Monitoring and Manufacturing Data Collection'
-permalink: /browse-all-solutions-Advanced-Manufacturing/Equipment-Monitoring-and-Manufacturing-Data-Collection
+title: 'Product and Manufacturing Process Configuration'
+permalink: /browse-all-solutions-Advanced-Manufacturing/Product-and-Manufacturing-Process-Configuration
 ---
 
-## Equipment Monitoring and Manufacturing Data Collection
+## Product and Manufacturing Process Configuration
 ## Overview
 
 **Support Level and Conditions**

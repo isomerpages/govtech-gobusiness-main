@@ -1,9 +1,9 @@
 ---
-title: 'Equipment Monitoring and Manufacturing Data Collection'
-permalink: /browse-all-solutions-Advanced-Manufacturing/Equipment-Monitoring-and-Manufacturing-Data-Collection
+title: 'Real-time Production Scheduling and Job Tracking'
+permalink: /browse-all-solutions-Advanced-Manufacturing/Real-time-Production-Scheduling-and-Job-Tracking
 ---
 
-## Equipment Monitoring and Manufacturing Data Collection
+## Real-time Production Scheduling and Job Tracking
 ## Overview
 
 **Support Level and Conditions**

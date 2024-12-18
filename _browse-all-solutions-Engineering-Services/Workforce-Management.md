@@ -1,9 +1,9 @@
 ---
-title: 'Equipment Monitoring and Manufacturing Data Collection'
-permalink: /browse-all-solutions-Advanced-Manufacturing/Equipment-Monitoring-and-Manufacturing-Data-Collection
+title: 'Workforce Management'
+permalink: /browse-all-solutions-Engineering-Services/Workforce-Management
 ---
 
-## Equipment Monitoring and Manufacturing Data Collection
+## Workforce Management
 ## Overview
 
 **Support Level and Conditions**

@@ -1,9 +1,9 @@
 ---
-title: 'Equipment Monitoring and Manufacturing Data Collection'
-permalink: /browse-all-solutions-Advanced-Manufacturing/Equipment-Monitoring-and-Manufacturing-Data-Collection
+title: 'Regulatory Reporting for Banks'
+permalink: /browse-all-solutions-Banks/Regulatory-Reporting-for-Banks
 ---
 
-## Equipment Monitoring and Manufacturing Data Collection
+## Regulatory Reporting for Banks
 ## Overview
 
 **Support Level and Conditions**
