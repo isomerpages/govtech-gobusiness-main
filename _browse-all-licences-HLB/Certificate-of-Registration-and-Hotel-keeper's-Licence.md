@@ -36,7 +36,7 @@ Hotels Licensing Board (HLB)
 
 <strong>Additional Information</strong>
 
-<p><strong>Certificate of Registration</strong><br>a. Hotel with 100 rooms and less - $250<br>b. Hotel with 101-299 rooms - $600<br>c. Hotel with 300-499 rooms - $1,100<br>d. Hotel with 500 or more rooms - $1,450<br><br><strong>Hotel-Keeper's licence fees for hotels of all sizes</strong> - $150</p>
+<p><strong>Certificate of Registration fees</strong><br>a. Hotel with 100 rooms and less - $250<br>b. Hotel with 101-299 rooms - $600<br>c. Hotel with 300-499 rooms - $1,100<br>d. Hotel with 500 or more rooms - $1,450<br><br><strong>Hotel-Keeper's licence fees for hotels of all sizes</strong> - $150</p>
 
 <H3>Documents Needed</H3>
 
