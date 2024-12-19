@@ -14,8 +14,7 @@ Singapore Police Force (SPF)
 
 <H3>Application Details</H3>
 
-<p>Under the Arms and Explosives Act, any person licensed to conduct blasting operations shall obtain the approval of the Licensing Officer for a particular blasting
-operation to take place before commencing the blasting operation</p>
+<p>A licence is required to use explosives for blasting operation.</p>
 
 
 <H3>Documents Needed</H3>

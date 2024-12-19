@@ -12,5 +12,5 @@ Singapore Police Force (SPF)
 
 <H3>Application Details</H3>
 
-Under the Arms and Explosives Act 1913, a Licence to Import or Export is required for the import or export of any Guns, Explosives, Explosive Precursors, Weapons or Noxious Substances. 
+A Licence to Import or Export is required for the import or export of any Weapons.
 

@@ -55,29 +55,29 @@ Besides applying for the above electricity licence(s), he will also need to regi
 
 <ul>
 <li><strong>Organisation chart including resume and curriculum vitae (CV) of key appointment holders</strong>
-<br>File format: doc, docx, jpeg, jpg, pdf, png, xls, xlsx
+<br>Document(s) Format(s): (*.doc, *.docx, *.jpeg, *.jpg, *.pdf, *.png, *.xls, *.xlsx)
 <br>Maximum upload per application: 7 MB
 </li>
 <li><strong>Applicant's acceptance of the proposed electricity and/or gas connection scheme(s)</strong>
 <br>For generating unit only.
-<br>File format: doc, docx, jpeg, jpg, pdf, png, xls, xlsx
+<br>Document(s) Format(s): (*.doc, *.docx, *.jpeg, *.jpg, *.pdf, *.png, *.xls, *.xlsx)
 <br>Maximum upload per application: 7 MB
 </li>
 <li><strong>Corporate Bank Account</strong>
-<br>File format: doc, docx, jpeg, jpg, pdf, png, xls, xlsx
+<br>Document(s) Format(s): (*.doc, *.docx, *.jpeg, *.jpg, *.pdf, *.png, *.xls, *.xlsx)
 <br>Maximum upload per application: 7 MB
 </li>
 <li><strong>Applicant's ACRA Business Profile</strong>
-<br>File format: doc, docx, jpeg, jpg, pdf, png, xls, xlsx
+<br>Document(s) Format(s): (*.doc, *.docx, *.jpeg, *.jpg, *.pdf, *.png, *.xls, *.xlsx)
 <br>Maximum upload per application: 7 MB
 </li>
 <li><strong>Evidence to support the linear ramp up and down rates of proposed load facilities (e.g. audit evidence or tests by an independent party)</strong>
 <br>For load facility only
-<br>File format: doc, docx, jpeg, jpg, pdf, png, xls, xlsx
+<br>Document(s) Format(s): (*.doc, *.docx, *.jpeg, *.jpg, *.pdf, *.png, *.xls, *.xlsx)
 <br>Maximum upload per application: 7 MB
 </li>
 <li><strong>Other supporting documents (if any)</strong>
-<br>File format: doc, docx, jpeg, jpg, pdf, png, xls, xlsx
+<br>Document(s) Format(s): (*.doc, *.docx, *.jpeg, *.jpg, *.pdf, *.png, *.xls, *.xlsx)
 <br>Maximum upload per application: 7 MB
 </li>
 </ul>
@@ -85,3 +85,4 @@ Besides applying for the above electricity licence(s), he will also need to regi
 <H3>Requirements</H3>
 
 Applicant must be ACRA registered company/business
+

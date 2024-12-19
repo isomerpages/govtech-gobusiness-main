@@ -14,7 +14,8 @@ Singapore Police Force (SPF)
 
 <H3>Application Details</H3>
 
-<p>Under the Dangerous Fireworks (Exemption Notification) 2018 of the Dangerous Fireworks Act, an exempt company An exempt company must notify the authorised officer in writing of any fireworks event it intends to execute not less than 14 working days before the date of the fireworks event, or at such later date as the authorised officer may determine (but before the date of the fireworks event)</p>
+<p>A licence is required to use explosives for fireworks display.
+For each fireworks display event, you will need to submit a notification to the Authorised Officer under the DFA.</p>
 
 <p>This application is for the exempt company to submit the notification of the fireworks event to the Authorised Officer.</p>
 

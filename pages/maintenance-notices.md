@@ -13,11 +13,16 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 | **Scheduled Date** | **Remarks** |  
 
 
-         
-| 24 Oct, 10pm - 25 Oct, 4am <br> 25 Oct, 10pm - 26 Oct, 2am | **Progressive Wage (PW) Mark Services** will be unavailable during the upcoming scheduled maintenance. |      
-| 25 Oct, 10pm - 26 Oct, 6am<br>26 Oct, 10pm - 27 Oct, 8am | GoBusiness Licensing will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |    
-| 25 Oct, 7pm - 28 Oct, 6am | All transactions for these NPARKS licences will be unavailable due to scheduled maintenance.<br>1) Phytosanitary Certification<br>2) Export Health Certificate for Ornamental Fish
+ 
+      
 
+
+| 11 Dec, 12pm - 7 Jan, 2pm | All transactions for these IMDA licences will be unavailable due to scheduled maintenance.<br>1) Wide Area Private Network Licence<br>2) Fixed Wireless Network Licence<br>3) Experimental Station Licence |          
+| 13 Dec, 6pm - 12am | Applications for MINLAW's Certificate of Exemption, Moneylender's Licence, Pawnbroker's Licence and Moneylender's Test will be unavailable during the upcoming scheduled maintenance. |       
+| 18 Dec, 6pm - 11:59pm | Application, amendment, renewal & cancellation of National Environmental Agency (NEA) licences will be unavailable during the upcoming scheduled maintenance. |     
+| 18 Dec, 7:15pm - 9:15pm | Application, amendment, renewal & cancellation of Singapore Police Force (SPF) licences will be unavailable during the upcoming scheduled maintenance. |      
+| 18 Dec, 8pm - 11pm | Application, amendment, renewal & cancellation of Infocomm Media Development Authority (IMDA) licences will be unavailable during the upcoming scheduled maintenance. |       
+| 20 Dec, 10pm - 21 Dec, 6am<br>21 Dec, 10pm - 22 Dec, 8am | GoBusiness Licensing will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |      
 
 
 <script src="/jquery/jquery.min.js"></script> <script src="/jquery/resize-tables.js"></script>

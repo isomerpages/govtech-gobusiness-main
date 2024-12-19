@@ -32,8 +32,6 @@ Vallaris' mission is to get investors & capital coming to you instead of chasing
 
 <b>Website:</b> <a href='https://www.thevallaris.com'>https://www.thevallaris.com</a>
 
-<b>Offer:</b> N.A.
-
 <a class='btn' href='https://form.gov.sg/642b8054d88e0800129c6474' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_2-ipgrow-company-profile %}
