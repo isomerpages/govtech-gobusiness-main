@@ -4,7 +4,7 @@ permalink: /browse-all-licences/Singapore-Customs/Chemical-Weapons-Convention-(C
 third_nav_title: Singapore Customs
 ---
 
-## Amend for Chemical Weapons Convention (CWC) Licence
+## Amendment for Chemical Weapons Convention (CWC) Licence
 
 Singapore Customs
 
