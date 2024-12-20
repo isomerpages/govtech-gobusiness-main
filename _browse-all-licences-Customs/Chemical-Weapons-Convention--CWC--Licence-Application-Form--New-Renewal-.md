@@ -25,3 +25,7 @@ Any person, company or organization that intends to engage in controlled activit
 <li>Block Diagram of the Process Flow for the Production of Unscheduled Discrete Organic Chemical</li>
 </ul>
 
+<h3>FAQ</h3>
+For FAQS pertaining to general Customs matters, please refer to <a href="https://ask.gov.sg/customs" target="_blank" rel="noopener">https://ask.gov.sg/customs</a>
+
+For FAQs pertaining to Chemical Weapons Convention matters, please refer to <a href="https://ask.gov.sg/customs?topic=Chemical%20Weapons%20Convention%20(CWC)#content" target="_blank" rel="noopener">https://ask.gov.sg/customs?topic=Chemical%20Weapons%20Convention%20(CWC)#content</a>
