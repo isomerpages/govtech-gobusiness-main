@@ -66,11 +66,3 @@ Login to GoBusiness Dashboard to submit returns for the above licences.
 <td><a href="https://go.gov.sg/submit-quarterly-referral-info" target="_blank" rel="noopener">Submit Returns for MOM related licences on GoBusiness Licensing</a></td> 
 </tr>
 </table>
-
-Login to GoBusiness Licensing to submit returns for EMA related licences.
-
-{% include button.html text="Submit Returns for EMA related licences on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/home" type="primary" %}
-
-Login to GoBusiness Licensing to submit returns for MOM related licences.
-
-{% include button.html text="Submit Returns for MOM related licences on GoBusiness Licensing" src="https://go.gov.sg/submit-quarterly-referral-info" type="primary" %}
