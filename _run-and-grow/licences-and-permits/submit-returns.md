@@ -57,13 +57,13 @@ Login to GoBusiness Dashboard to submit returns for the above licences.
 <td>Energy Market Authority (EMA)</td>
 <td>Electricity Generation<br><br>Electricity Retailer<br><br>Electricity Wholesaler<br><br>Gas Shipper, Retailer or Importer<br><br>Other Electricity and Gas Licences</td>
 <td>Compliance declarations and Update contact list</td>
-<td>{% include button.html text="Submit Returns" src="https://licence1.business.gov.sg/feportal/web/frontier/home" type="primary" %}</td>
+<td><a href="https://licence1.business.gov.sg/feportal/web/frontier/home" target="_blank" rel="noopener">Submit Returns for EMA related licences on GoBusiness Licensing</a></td> 
 </tr>
 <tr>
 <td>Ministry of Manpower (MOM)</td>
 <td>Employment Agency Licence</td>
 <td>Referral returns</td>
-<td><a href="https://licence1.business.gov.sg/feportal/web/frontier/home" target="_blank" rel="noopener">Submit Returns for MOM related licences on GoBusiness Licensing</a></td> 
+<td><a href="https://go.gov.sg/submit-quarterly-referral-info" target="_blank" rel="noopener">Submit Returns for MOM related licences on GoBusiness Licensing</a></td> 
 </tr>
 </table>
 
@@ -73,4 +73,4 @@ Login to GoBusiness Licensing to submit returns for EMA related licences.
 
 Login to GoBusiness Licensing to submit returns for MOM related licences.
 
-{% include button.html text="Submit Returns for MOM related licences on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/home" type="primary" %}
+{% include button.html text="Submit Returns for MOM related licences on GoBusiness Licensing" src="https://go.gov.sg/submit-quarterly-referral-info" type="primary" %}
