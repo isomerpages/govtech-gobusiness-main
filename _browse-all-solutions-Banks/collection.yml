@@ -1,0 +1,6 @@
+collections:
+  browse-all-solutions-Banks:
+    output: true
+    order:
+      - back-to-all-psg-solutions.md
+      - Regulatory-Reporting-for-Banks.md
