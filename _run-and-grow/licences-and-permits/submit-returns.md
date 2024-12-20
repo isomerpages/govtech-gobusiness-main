@@ -51,7 +51,7 @@ Login to GoBusiness Dashboard to submit returns for the above licences.
 <tr>
 <th style='width: auto;'><b>Agency</b></th>
 <th style='width: 30%;'><b>Licence(s)</b></th>
-<th style='width: auto;'><b>Return(s)</b></th>
+<th style='width: 20%;'><b>Return(s)</b></th>
 </tr>
 <tr>
 <td>Energy Market Authority (EMA)</td>
