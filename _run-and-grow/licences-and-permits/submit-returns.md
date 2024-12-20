@@ -63,7 +63,6 @@ Login to GoBusiness Dashboard to submit returns for the above licences.
 <td>Ministry of Manpower (MOM)</td>
 <td>Employment Agency Licence</td>
 <td>Referral returns</td>
-<td>{% include button.html text="Submit Returns on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/home" type="primary" %}</td>
 <td><a href="https://licence1.business.gov.sg/feportal/web/frontier/home" target="_blank" rel="noopener">Submit Returns for MOM related licences on GoBusiness Licensing</a></td> 
 </tr>
 </table>
