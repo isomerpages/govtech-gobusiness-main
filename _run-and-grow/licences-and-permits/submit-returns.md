@@ -57,30 +57,14 @@ Login to GoBusiness Dashboard to submit returns for the above licences.
 <td>Energy Market Authority (EMA)</td>
 <td>Electricity Generation<br><br>Electricity Retailer<br><br>Electricity Wholesaler<br><br>Gas Shipper, Retailer or Importer<br><br>Other Electricity and Gas Licences</td>
 <td>Compliance declarations and Update contact list</td>
-<td>{% include button.html text="Submit EMA Returns" src="https://licence1.business.gov.sg/feportal/web/frontier/home" type="primary" %}</td> 
+<td>{% include button.html text="Submit EMA Returns" src="https://licence1.business.gov.sg/feportal/web/frontier/home" type="primary" %}</td>
 </tr>
+
 <tr>
 <td>Ministry of Manpower (MOM)</td>
 <td>Employment Agency Licence</td>
 <td>Referral returns</td>
-<td>{% include button.html text="Submit MOM Returns" src="https://go.gov.sg/submit-quarterly-referral-info" type="primary" %}</td> 
+<td>{% include button.html text="Submit MOM Returns" src="https://go.gov.sg/submit-quarterly-referral-info" type="primary" %}</td>
 </tr>
 </table>
 
-<table>
-<tr>
-<th style='width: auto;'><b>Agency</b></th>
-<th style='width: 30%;'><b>Licence(s)</b></th>
-<th style='width: 30%;'><b>Return(s)</b></th>
-</tr>
-<tr>
-<td>Energy Market Authority (EMA)</td>
-<td>Electricity Generation<br><br>Electricity Retailer<br><br>Electricity Wholesaler<br><br>Gas Shipper, Retailer or Importer<br><br>Other Electricity and Gas Licences</td>
-<td>Compliance declarations and Update contact list <br> {% include button.html text="Submit EMA Returns" src="https://licence1.business.gov.sg/feportal/web/frontier/home" type="primary" %}</td>
-</tr>
-<tr>
-<td>Ministry of Manpower (MOM)</td>
-<td>Employment Agency Licence</td>
-<td>Referral returns <br> {% include button.html text="Submit MOM Returns" src="https://go.gov.sg/submit-quarterly-referral-info" type="primary" %}</td>
-</tr>
-</table>
