@@ -254,7 +254,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Registration to Import Processed Food Products and Food Appliances](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301070000146)
 - [Rice Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=38)
 - [Supermarket Licence](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1901021401000442)
-- [Temporary Fair Stall Licence](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1905101601000340)
+- [Temporary Fair Stall Licence](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1905101601000342)
 
 <a name="health-and-wellness-services"></a>
 
