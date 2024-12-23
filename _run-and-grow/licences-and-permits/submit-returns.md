@@ -14,13 +14,18 @@ After you apply, the relevant government agencies will advise you on submitting 
 
 -----
 
-## Licences with returns submission on GoBusiness Dashboard
+## Submit on GoBusiness Dashboard
 
 <table>
 <tr>
 <th style='width: auto;'><b>Agency</b></th>
 <th style='width: 30%;'><b>Licence(s)</b></th>
 <th style='width: 30%;'><b>Return(s)</b></th>
+</tr>
+<tr>
+<td>Energy Market Authority (EMA)</td>
+<td>Electricity Generation<br><br>Electricity Wholesaler<br><br>Gas Shipper, Retailer or Importer<br><br>Other Electricity and Gas Licences</td>
+<td>Compliance declarations and Update contact list</td>
 </tr>
 <tr>
 <td>National Environment Agency (NEA)</td>
@@ -39,13 +44,11 @@ After you apply, the relevant government agencies will advise you on submitting 
 </tr>
 </table>
 
-Login to GoBusiness Dashboard to submit returns for the above licences.
-
-{% include button.html text="Submit Returns on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/mylicences/submitReturns" type="primary" %}
+{% include button.html text="Log in to GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/mylicences/submitReturns" type="primary" %}
 
 -----
 
-## Licences with returns submission on GoBusiness Licensing
+## Submit on GoBusiness Licencing 
 
 <table>
 <tr>
@@ -55,7 +58,7 @@ Login to GoBusiness Dashboard to submit returns for the above licences.
 </tr>
 <tr>
 <td>Energy Market Authority (EMA)</td>
-<td>Electricity Generation<br><br>Electricity Retailer<br><br>Electricity Wholesaler<br><br>Gas Shipper, Retailer or Importer<br><br>Other Electricity and Gas Licences</td>
+<td>Electricity Retailer</td>
 <td>Compliance declarations and Update contact list</td>
 <td>{% include button.html text="Submit EMA Returns" src="https://licence1.business.gov.sg/feportal/web/frontier/home" type="primary" %}</td>
 </tr>
