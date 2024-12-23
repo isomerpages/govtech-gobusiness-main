@@ -59,7 +59,6 @@ Login to GoBusiness Dashboard to submit returns for the above licences.
 <td>Compliance declarations and Update contact list</td>
 <td>{% include button.html text="Submit EMA Returns" src="https://licence1.business.gov.sg/feportal/web/frontier/home" type="primary" %}</td>
 </tr>
-
 <tr>
 <td>Ministry of Manpower (MOM)</td>
 <td>Employment Agency Licence</td>
