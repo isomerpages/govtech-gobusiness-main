@@ -111,35 +111,35 @@ Applicants can apply for the EEG through the [Business Grants Portal (BGP)](http
 - SuperMicro - SYS-621BT-DNC8R
 - SuperMicro - SYS-621BT-HNTR, SYS-621BT-HNC8R, 827B-R30X13, 827B-30
 - SuperMicro - SYS-621H-TN12R
-- xFusion - 1258H V7\**********
-- xFusion - 1258H V7\**********-1P
-- xFusion - 1288H V6\**********
-- xFusion - 1288H V6\**********-1P
-- xFusion - 1288H V7\**********
-- xFusion - 1288H V7\**********-1P
-- xFusion - 2258 V7\**********
-- xFusion - 2258 V7\**********-1P
-- xFusion - 2288 V7\**********
-- xFusion - 2288 V7\**********-1P
-- xFusion - 2288H V6\**********
-- xFusion - 2288H V6\**********-1P
-- xFusion - 2288H V7\**********
-- xFusion - 2288H V7\**********-1P
-- xFusion - 2488H V6\**********
-- xFusion - 2488H V6\**********-2P
-- xFusion - 2488H V7\**********
-- xFusion - 2488H V7\**********-2P
-- xFusion - 5288 V6\**********
-- xFusion - 5288 V6\**********-1P
-- xFusion - 5885H V6\**********
-- xFusion - 5885H V6\**********-2P
-- xFusion - 5885H V7\**********
-- xFusion - 5885H V7\**********-2P
-- xFusion - G5200 V7\**********
-- xFusion - G5200 V7\**********-1P
-- xFusion - G5500 V6\**********
-- xFusion - G5500 V7\**********
-- xFusion - G8600 V7\**********
+- `xFusion - 1258H V7**********
+- `xFusion - 1258H V7**********-1P
+- `xFusion - 1288H V6**********
+- `xFusion - 1288H V6**********-1P
+- `xFusion - 1288H V7**********
+- `xFusion - 1288H V7**********-1P
+- `xFusion - 2258 V7**********
+- `xFusion - 2258 V7**********-1P
+- `xFusion - 2288 V7**********
+- `xFusion - 2288 V7**********-1P
+- `xFusion - 2288H V6**********
+- `xFusion - 2288H V6**********-1P
+- `xFusion - 2288H V7**********
+- `xFusion - 2288H V7**********-1P
+- `xFusion - 2488H V6**********
+- `xFusion - 2488H V6**********-2P
+- `xFusion - 2488H V7**********
+- `xFusion - 2488H V7**********-2P
+- `xFusion - 5288 V6**********
+- `xFusion - 5288 V6**********-1P
+- `xFusion - 5885H V6**********
+- `xFusion - 5885H V6**********-2P
+- `xFusion - 5885H V7**********
+- `xFusion - 5885H V7**********-2P
+- `xFusion - G5200 V7**********
+- `xFusion - G5200 V7**********-1P
+- `xFusion - G5500 V6**********
+- `xFusion - G5500 V7**********
+- `xFusion - G8600 V7**********
 
 
 <script src='/jquery/resize-tables.js'></script>
