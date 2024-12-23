@@ -118,13 +118,13 @@ Applicants can apply for the EEG through the [Business Grants Portal (BGP)](http
 - xFusion - 1288H V7**********
 - xFusion - 1288H V7**********-1P
 - xFusion - 2258 V7**********
-- xFusion - 2258 V7**********
+- xFusion - 2258 V7**********-1P
 - xFusion - 2288 V7**********
 - xFusion - 2288 V7**********-1P
 - xFusion - 2288H V6**********
 - xFusion - 2288H V6**********-1P
 - xFusion - 2288H V7**********
-- xFusion - 2288H V7**********
+- xFusion - 2288H V7**********-1P
 - xFusion - 2488H V6**********
 - xFusion - 2488H V6**********-2P
 - xFusion - 2488H V7**********
@@ -136,7 +136,7 @@ Applicants can apply for the EEG through the [Business Grants Portal (BGP)](http
 - xFusion - 5885H V7**********
 - xFusion - 5885H V7**********-2P
 - xFusion - G5200 V7**********
-- xFusion - G5200 V7**********
+- xFusion - G5200 V7**********-1P
 - xFusion - G5500 V6**********
 - xFusion - G5500 V7**********
 - xFusion - G8600 V7**********
