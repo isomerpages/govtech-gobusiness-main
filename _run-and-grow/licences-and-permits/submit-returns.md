@@ -100,11 +100,14 @@ After you apply, the relevant government agencies will advise you on submitting 
 <tr>
 <td>Energy Market Authority (EMA)</td>
 <td>Electricity Retailer</td>
-
+<td>Electricity Retailer</td>
 <td>{% include button.html text="Submit EMA Returns" src="https://licence1.business.gov.sg/feportal/web/frontier/home" type="primary" %}</td>
+<td>Electricity Retailer</td>
 </tr>
 <tr>
 <td>Ministry of Manpower (MOM)</td>
+<td>Employment Agency Licence</td>
+<td>Employment Agency Licence</td>
 <td>Employment Agency Licence</td>
 <td>{% include button.html text="Submit MOM Returns" src="https://go.gov.sg/submit-quarterly-referral-info" type="primary" %}</td>
 </tr>
