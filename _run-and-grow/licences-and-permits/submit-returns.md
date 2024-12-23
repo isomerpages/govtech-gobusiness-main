@@ -56,6 +56,7 @@ After you apply, the relevant government agencies will advise you on submitting 
 <th style='width: auto;'><b>Agency</b></th>
 <th style='width: 30%;'><b>Licence(s)</b></th>
 <th style='width: 20%;'><b>Return(s)</b></th>
+<th style='width: auto%;'></th>
 </tr>
 <tr>
 <td>Energy Market Authority (EMA)</td>
