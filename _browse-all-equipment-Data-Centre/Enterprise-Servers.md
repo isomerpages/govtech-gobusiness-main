@@ -140,7 +140,5 @@ Applicants can apply for the EEG through the [Business Grants Portal (BGP)](http
 - `xFusion - G5500 V6**********`
 - `xFusion - G5500 V7**********`
 - `xFusion - G8600 V7**********`
-- xFusion - G8600 V7**********&#42
-
 
 <script src='/jquery/resize-tables.js'></script>
