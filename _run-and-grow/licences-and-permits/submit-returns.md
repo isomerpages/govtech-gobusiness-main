@@ -65,5 +65,11 @@ Login to GoBusiness Dashboard to submit returns for the above licences.
 <td>Referral returns</td>
 <td>{% include button.html text="Submit MOM Returns" src="https://go.gov.sg/submit-quarterly-referral-info" type="primary" %}</td>
 </tr>
+<tr>
+<td>Ministry of Manpower (MOM)</td>
+<td>Employment Agency Licence</td>
+<td>Referral returns</td>
+<td>{% include button.html text="Submit MOM Returns" src="https://go.gov.sg/submit-quarterly-referral-info" type="primary" %}</td>
+</tr>
 </table>
 
