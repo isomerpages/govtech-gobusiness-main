@@ -9,20 +9,6 @@ permalink: /browse-all-equipment-Construction/Hydraulic-Excavator
 
 Excavators equipped with regenerative energy systems and/or energy recovery systems capture and reuse energy that would otherwise be wasted during operations such as boom motions. By harnessing this recovered energy, these excavators significantly reduce fuel consumption and emissions compared to traditional models. 
 
-### Mode and Schedule of Payment 
-
-- Direct Purchase
-- Hire Purchase
-- Lease
-
-### Support Level and Conditions
-
-Up to N.A. for SMEs, N.A. for non-SMEs
-
-Only for businesses within the Construction sectors.
-
-Funded and administered by Enterprise Singapore (EnterpriseSG). For more information, please refer to [https://www.enterprisesg.gov.sg/eeg](https://www.enterprisesg.gov.sg/eeg){:target='_blank'}{:rel='noopener'}
-
 ### Pre-Approved Equipment Brands and Models
 
 - Kobelco - SK200-10 
@@ -33,3 +19,15 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - Kobelco - SK380XDLC-10 
 - Kobelco - SK500XDLC-10 
 - Kobelco - SK520XDLC-10 
+
+### Support Level and Conditions
+
+Up to 70% for SMEs, 30% for non-SMEs
+
+Only for businesses within the Construction sectors.
+
+### Mode and Schedule of Payment 
+
+- Direct Purchase
+- Hire Purchase
+- Lease

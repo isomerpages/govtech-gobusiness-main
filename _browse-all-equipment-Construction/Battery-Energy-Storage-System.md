@@ -26,18 +26,14 @@ Battery energy storage systems replace diesel generators, significantly reducing
 - Reon - MPSIEC5K6B10
 - Sany - SPL210
 
+### Support Level and Conditions
+
+Up to 70% for SMEs, 30% for non-SMEs
+
+Only for businesses within the Construction sectors.
+
 ### Mode and Schedule of Payment 
 
 - Direct Purchase
 - Hire Purchase
 - Lease
-
-### Support Level and Conditions
-
-Up to N.A. for SMEs, N.A. for non-SMEs
-
-Only for businesses within the Construction sectors.
-
-Funded and administered by Enterprise Singapore (EnterpriseSG). For more information, please refer to [https://www.enterprisesg.gov.sg/eeg](https://www.enterprisesg.gov.sg/eeg){:target='_blank'}{:rel='noopener'}
-
-<script src='/jquery/resize-tables.js'></script>
