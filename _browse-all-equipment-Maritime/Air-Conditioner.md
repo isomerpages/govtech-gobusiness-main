@@ -11,6 +11,19 @@ permalink: /browse-all-equipment-Maritime/Air-Conditioner
 
  - Minimum 3-ticks for 3-phase variable refrigerant flow (VRF) models 
 
+### Mode and Schedule of Payment 
+
+- Direct Purchase
+- Hire Purchase
+- Lease
+
+### Support Level and Conditions
+
+Up to 70% for SMEs, 30% for non-SMEs
+
+Only for businesses within the Maritime sectors.
+
+Funded and administered by Enterprise Singapore (EnterpriseSG). For more information, please refer to [https://www.enterprisesg.gov.sg/eeg](https://www.enterprisesg.gov.sg/eeg){:target='_blank'}{:rel='noopener'}
 
 ### Pre-Approved Equipment Brands and Models
 
@@ -252,18 +265,4 @@ permalink: /browse-all-equipment-Maritime/Air-Conditioner
 - Tosot - TR32SAC21CUD
 - Tosot - TR32SAC28CUD
 
-### Mode and Schedule of Payment 
 
-- Direct Purchase
-- Hire Purchase
-- Lease
-
-### Support Level and Conditions
-
-Up to 70% for SMEs, 30% for non-SMEs
-
-Only for businesses within the Maritime sectors.
-
-Funded and administered by Enterprise Singapore (EnterpriseSG). For more information, please refer to [https://www.enterprisesg.gov.sg/eeg](https://www.enterprisesg.gov.sg/eeg){:target='_blank'}{:rel='noopener'}
-
-<script src='/jquery/resize-tables.js'></script>

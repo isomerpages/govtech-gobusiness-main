@@ -13,6 +13,19 @@ permalink: /browse-all-equipment-Maritime/Electric-Forklift
 
 - Up to 5 tons load capacity/ rated load
 
+### Mode and Schedule of Payment 
+
+- Direct Purchase
+- Hire Purchase
+- Lease
+
+### Support Level and Conditions
+
+Up to 70% for SMEs, 30% for non-SMEs
+
+Only for businesses within the Maritime sectors.
+
+Funded and administered by Enterprise Singapore (EnterpriseSG). For more information, please refer to [https://www.enterprisesg.gov.sg/eeg](https://www.enterprisesg.gov.sg/eeg){:target='_blank'}{:rel='noopener'}
 
 ### Pre-Approved Equipment Brands and Models
 
@@ -30,18 +43,5 @@ permalink: /browse-all-equipment-Maritime/Electric-Forklift
 - STILL - RX60-50
 - HELI - CPD25-Li-S
 
-### Mode and Schedule of Payment 
 
-- Direct Purchase
-- Hire Purchase
-- Lease
 
-### Support Level and Conditions
-
-Up to 70% for SMEs, 30% for non-SMEs
-
-Only for businesses within the Maritime sectors.
-
-Funded and administered by Enterprise Singapore (EnterpriseSG). For more information, please refer to [https://www.enterprisesg.gov.sg/eeg](https://www.enterprisesg.gov.sg/eeg){:target='_blank'}{:rel='noopener'}
-
-<script src='/jquery/resize-tables.js'></script>

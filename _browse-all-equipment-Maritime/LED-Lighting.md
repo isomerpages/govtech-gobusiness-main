@@ -11,6 +11,19 @@ permalink: /browse-all-equipment-Maritime/LED-Lighting
 
 - LED lighting for non-regulated lightings under NEA�s MELS with efficacy of at least 110 lumens/watt
 
+### Mode and Schedule of Payment 
+
+- Direct Purchase
+- Hire Purchase
+- Lease
+
+### Support Level and Conditions
+
+Up to 70% for SMEs, 30% for non-SMEs
+
+Only for businesses within the Maritime sectors.
+
+Funded and administered by Enterprise Singapore (EnterpriseSG). For more information, please refer to [https://www.enterprisesg.gov.sg/eeg](https://www.enterprisesg.gov.sg/eeg){:target='_blank'}{:rel='noopener'}
 
 ### Pre-Approved Equipment Brands and Models
 
@@ -278,18 +291,5 @@ permalink: /browse-all-equipment-Maritime/LED-Lighting
 - Philips - 8718696 670019
 - Philips - 8718696 669952
 
-### Mode and Schedule of Payment 
 
-- Direct Purchase
-- Hire Purchase
-- Lease
 
-### Support Level and Conditions
-
-Up to 70% for SMEs, 30% for non-SMEs
-
-Only for businesses within the Maritime sectors.
-
-Funded and administered by Enterprise Singapore (EnterpriseSG). For more information, please refer to [https://www.enterprisesg.gov.sg/eeg](https://www.enterprisesg.gov.sg/eeg){:target='_blank'}{:rel='noopener'}
-
-<script src='/jquery/resize-tables.js'></script>
