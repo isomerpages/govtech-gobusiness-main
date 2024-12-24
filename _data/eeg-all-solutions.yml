@@ -3,7 +3,7 @@
   data:
     - title: Construction
       content: |
-      - <a href='/browse-all-equipment-Construction/Battery-Energy-Storage-System'>Battery Energy Storage System</a>
+        - <a href='/browse-all-equipment-Construction/Battery-Energy-Storage-System'>Battery Energy Storage System</a>
         - <a href='/browse-all-equipment-Construction/Electric-Crawler-Crane'>Electric Crawler Crane</a>
         - <a href='/browse-all-equipment-Construction/Electric-Excavator'>Electric Excavator</a>
         - <a href='/browse-all-equipment-Construction/Electric-Wheel-Loader'>Electric Wheel Loader</a>
