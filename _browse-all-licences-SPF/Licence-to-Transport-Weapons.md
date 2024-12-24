@@ -12,7 +12,7 @@ Singapore Police Force (SPF)
 
 <H3>Application Details</H3>
 
-<p>To operate a shooting range with an armoury onsite, you will need to be licensed under the Arms and Explosives Act 1913</p>
+<p>A Licence is required for the transport of any Weapons.</p>
 
 <H3>Documents Needed</H3>
 

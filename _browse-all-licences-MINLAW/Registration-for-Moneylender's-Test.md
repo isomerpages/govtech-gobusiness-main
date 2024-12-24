@@ -1,6 +1,6 @@
 ---
 title: Registration for Moneylender's Test
-permalink: /browse-all-licences/Ministry-of-Law-(MINLAW)/Registration-for-Moneylenders-Test
+permalink: /browse-all-licences/Ministry-of-Law-(MINLAW)/Registration-for-Moneylender's-Test
 third_nav_title: Ministry of Law (MINLAW)
 ---
 

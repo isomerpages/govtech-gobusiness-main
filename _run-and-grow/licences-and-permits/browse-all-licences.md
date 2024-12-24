@@ -158,7 +158,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 
 ## Employment & Labour Services
 - [Employment Agency Licence](https://dashboard.gobusiness.gov.sg/task-details/employmentagency)
-- [Factory Notification and Registration](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=54)
+- [Factory Notification and Registration](https://dashboard.gobusiness.gov.sg/task-details/factorynotificationregistration)
 - [Foreign Employee Dormitories Act Licence](https://dashboard.gobusiness.gov.sg/task-details/feda)
 - [Work passes and permits](https://www.mom.gov.sg/passes-and-permits)
 
@@ -211,8 +211,8 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Application for Temporary Fire Permit / Fire Safety Certificate](https://www.scdf.gov.sg/home/fire-safety/permits-and-certifications/fire-safety-certificate-temporary-fire-permit)
 - [Fire Certificate](https://dashboard.gobusiness.gov.sg/task-details/firecert)
 - [Lodgement of Minor Addition / Alteration Works (Minor A&A)](https://www.scdf.gov.sg/home/fire-safety/plans-and-consultations/minor-addition-alteration-works)
-- [Petroleum / Flammable Materials Storage Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=22)
-- [Petroleum / Flammable Materials Transportation Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=17)
+- [Petroleum / Flammable Materials Storage Licence](https://dashboard.gobusiness.gov.sg/task-details/pfms)
+- [Petroleum / Flammable Materials Transportation Licence](https://dashboard.gobusiness.gov.sg/task-details/pfmt)
 - [Petroleum & Flammable Material Import Licence](https://eservices.scdf.gov.sg/fisops/pfm-import-licence)
 - [Petroleum & Flammable Material Pipeline Licence](https://eservices.scdf.gov.sg/fisops/pfm-pipeline-licence)
 - [Plan Approval for Fire Safety Works](https://www.scdf.gov.sg/home/fire-safety/plans-and-consultations/plan-approval)
@@ -254,7 +254,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Registration to Import Processed Food Products and Food Appliances](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301070000146)
 - [Rice Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=38)
 - [Supermarket Licence](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1901021401000442)
-- [Temporary Fair Stall Licence](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1905101601000340)
+- [Temporary Fair Stall Licence](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1905101601000342)
 
 <a name="health-and-wellness-services"></a>
 

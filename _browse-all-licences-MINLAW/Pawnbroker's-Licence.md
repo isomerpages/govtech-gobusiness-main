@@ -1,6 +1,6 @@
 ---
 title: Pawnbroker's Licence
-permalink: /browse-all-licences/Ministry-of-Law-(MINLAW)/Pawnbrokers-Licence
+permalink: /browse-all-licences/Ministry-of-Law-(MINLAW)/Pawnbroker's-Licence
 third_nav_title: Ministry of Law (MINLAW)
 ---
 
@@ -34,8 +34,6 @@ Application Fee: $800/- (Stage 1 payment - payable upfront and non-refundable)
 Licence Fee: $3,000/- per year; $6,000/- for 2 years; and $9,000/- for 3 years (Stage 2 payment -fee payable depends on the selected option)
 
 Security Deposit: $100,000/- in the form of Banker's Guarantee/Insurance Guarantee. The Banker's Guarantee/Insurance Guarantee, which should be made payable to "Accountant-General, Singapore", is to be furnished separately to the Registry of Pawnbrokers ("ROP") whilst the application is at Stage 2 - Payment. For format of the Banker's Guarantee/Insurance Guarantee, please refer to ROP's website: <a href="https://rop.mlaw.gov.sg/information-for-pawnbrokers/forms/" target="_blank" rel="noopener">https://rop.mlaw.gov.sg/information-for-pawnbrokers/forms/</a>
-
-
 
 <H3>Documents Needed</H3>
 

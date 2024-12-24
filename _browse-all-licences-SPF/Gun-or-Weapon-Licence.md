@@ -12,5 +12,5 @@ Singapore Police Force (SPF)
 
 <H3>Application Details</H3>
 
-Under the Arms and Explosives Act 1913, a licence is required for the Possession, Control, Supply, Repair, Manufacture of Gun or weapon or to Operate an Armoury or a Shooting Range 
+A licence is required for the Manufacture, Disposal, Storage, Supply, Possession, Use or Transport of Guns, Weapons or Noxious Substances.
 
