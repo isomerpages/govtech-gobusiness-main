@@ -1,6 +1,6 @@
 ---
 title: 'Battery Energy Storage System'
-permalink: /energy-efficiency-grant/solutionrepo/Battery-Energy-Storage-System
+permalink: /browse-all-equipment-Construction/Battery-Energy-Storage-System
 ---
 
 ## Battery Energy Storage System
