@@ -1,6 +1,16 @@
 - accordion:
   letter: a
   data:
+    - title: Construction
+      content: |
+        - <a href='/browse-all-equipment-Data-Centre/Data-Centre-Storage'>Data Centre Storage</a>
+        - <a href='/browse-all-equipment-Data-Centre/Enterprise-Servers'>Enterprise Servers</a>
+
+    - title: Data Centre Sector
+      content: |
+        - <a href='/browse-all-equipment-Data-Centre/Data-Centre-Storage'>Data Centre Storage</a>
+        - <a href='/browse-all-equipment-Data-Centre/Enterprise-Servers'>Enterprise Servers</a>
+
     - title: Food Services
       content: |
         - <a href='/browse-all-equipment-Food-Services/Air-Conditioner'>Air-Conditioner</a>
@@ -22,7 +32,11 @@
         - <a href='/browse-all-equipment-Manufacturing/Refrigerator'>Refrigerator</a>
         - <a href='/browse-all-equipment-Manufacturing/Water-Heater'>Water Heater</a>
 
-        
+    - title: Maritime
+      content: |
+        - <a href='/browse-all-equipment-Manufacturing/Air-Conditioner'>Air-Conditioner</a>
+        - <a href='/browse-all-equipment-Manufacturing/Boiler-System'>Boiler System</a>
+
     - title: Retail
       content: |
         - <a href='/browse-all-equipment-Retail/Air-Conditioner'>Air-Conditioner</a>
@@ -32,7 +46,4 @@
         - <a href='/browse-all-equipment-Retail/Refrigerator'>Refrigerator</a>
         - <a href='/browse-all-equipment-Retail/Water-Heater'>Water Heater</a>
 
-    - title: Data Centre Sector
-      content: |
-        - <a href='/browse-all-equipment-Data-Centre/Data-Centre-Storage'>Data Centre Storage</a>
-        - <a href='/browse-all-equipment-Data-Centre/Enterprise-Servers'>Enterprise Servers</a>
+
