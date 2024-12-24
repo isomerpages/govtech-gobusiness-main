@@ -32,7 +32,7 @@ permalink: /browse-all-equipment-Maritime/Electric-Forklift
 
 ### Mode and Schedule of Payment 
 
-- - Direct Purchase
+- Direct Purchase
 - Hire Purchase
 - Lease
 

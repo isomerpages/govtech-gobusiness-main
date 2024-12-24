@@ -280,7 +280,7 @@ permalink: /browse-all-equipment-Maritime/LED-Lighting
 
 ### Mode and Schedule of Payment 
 
-- - Direct Purchase
+- Direct Purchase
 - Hire Purchase
 - Lease
 
