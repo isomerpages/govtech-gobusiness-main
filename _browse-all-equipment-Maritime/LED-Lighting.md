@@ -7,9 +7,9 @@ permalink: /browse-all-equipment-Maritime/LED-Lighting
 
 ### Technical Requirements
 
-- LED lighting with 2 ticks and above under NEA�s Mandatory Energy Labelling Scheme with omission of linear lamp
+- LED lighting with 2 ticks and above under NEA's Mandatory Energy Labelling Scheme with omission of linear lamp
 
-- LED lighting for non-regulated lightings under NEA�s MELS with efficacy of at least 110 lumens/watt
+- LED lighting for non-regulated lightings under NEA's MELS with efficacy of at least 110 lumens/watt
 
 ### Mode and Schedule of Payment 
 
