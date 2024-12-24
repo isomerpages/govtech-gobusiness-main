@@ -28,7 +28,7 @@ Battery energy storage systems replace diesel generators, significantly reducing
 
 ### Mode and Schedule of Payment 
 
-- - Direct Purchase
+- Direct Purchase
 - Hire Purchase
 - Lease
 
