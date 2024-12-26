@@ -7,8 +7,9 @@ permalink: /browse-all-equipment-Construction/Battery-Energy-Storage-System
 
 ### Technical Requirements
 
-Battery energy storage systems replace diesel generators, significantly reducing emissions while providing a cleaner energy source. These systems efficiently power various construction equipment, including cranes and site offices, ensuring seamless operations. They feature remote monitoring capabilities, allowing for improved performance and energy consumption, supporting more sustainable construction practices.
-
+Battery energy storage systems replace diesel generators, significantly reducing emissions and energy consumption, while providing a cleaner energy source.
+- Battery energy storage system needs to be connected to the grid and be charged using grid electricity.
+- Connection to and charging from standby diesel generators is not permitted.
 
 ### Pre-Approved Equipment Brands and Models
 
