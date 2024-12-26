@@ -3,15 +3,11 @@ title: 'Electric Forklift'
 permalink: /browse-all-equipment-Maritime/Electric-Forklift
 ---
 
-## Electric Forklift
+## Electric Forklift (weight class ≤ 5-ton)
 
 ### Technical Requirements
 
-- Superior energy efficiency than diesel counterparts 
-
-- Evidenced by complete supporting documents, i.e. technical specs for battery capacity & runtime and supporting documents for energy consumption, preferably based on VDI 60/ EN16796 
-
-- Up to 5 tons load capacity/ rated load
+- Manufacturer specs must show that the electric forklift consumes less energy than its typical diesel equivalent. Electric machinery should be powered by grid electricity and not be fitted with diesel engine
 
 ### Mode and Schedule of Payment 
 
