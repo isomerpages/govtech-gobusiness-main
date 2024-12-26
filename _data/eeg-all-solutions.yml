@@ -37,9 +37,13 @@
 
     - title: Maritime
       content: |
-        - <a href='/browse-all-equipment-Maritime/Air-Conditioner'>Air-Conditioner</a>
+        Maritime - Habourcraft
+        - <a href='/browse-all-equipment-Maritime/Air-Conditioner'>Air-Conditioner*</a>
+        - <a href='/browse-all-equipment-Maritime/LED-Lighting'>LED-Lighting*</a>
+        * installed onboard the harbourcraft
+
+        Maritime - Port
         - <a href='/browse-all-equipment-Maritime/Electric-Forklift'>Electric-Forklift</a>
-        - <a href='/browse-all-equipment-Maritime/LED-Lighting'>LED-Lighting</a>
 
     - title: Retail
       content: |

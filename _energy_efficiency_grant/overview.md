@@ -69,6 +69,12 @@ Companies will have up to 1 year from the time an application is approved to pur
 
 {% include letter-accordion.html accordions=site.data.acc039b-eeg-overview letter="b" %}
 
+<a name='eeg-maritime'></a>
+
+### EEG Maritime Sector eligibility
+
+{% include letter-accordion.html accordions=site.data.acc039b-eeg-overview letter="c" %}
+
 <a name='eeg-faq'></a>
 
 ### FAQ
