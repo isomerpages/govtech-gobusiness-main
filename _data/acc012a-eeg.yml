@@ -17,10 +17,11 @@
     - title: What is the eligibility criteria for EEG (Base)?<sup>2</sup>
       content: |
         A company that meets all the following criteria can apply for the EEG (Base):
-        - Business entity registered and operating in Singapore in the Manufacturing, Food Services or Retail sector as defined below;
+        - Business entity registered and operating in Singapore in the Manufacturing, Food Services or Retail and Construction sector as defined below;
           - <b>Manufacturing</b> companies that are classified under SSIC 10 to 32 (including Food Manufacturing)
           - <b>Food Services</b> companies with valid Singapore Food Agency (SFA) licences and classified under SSICs 56 or 68104
           - <b>Retail</b> companies that are classified under SSIC 47
+          - <b>Construction</b> Companies that are classified under SSIC 41 - 43
         <br><br>
         - Has a minimum of 30% local shareholding,
         - Employ at least one local employee at the firm-level
@@ -86,7 +87,7 @@
 
         Approved claims will be credited directly through GIRO bank account provided by the business entity.  
 
-        <u>For Food Services and Retail Companies</u><br>
+        <u>For Food Services, Retail and Construction Companies</u><br>
         Claims will be submitted through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}.
         To claim for the EEG (Base), companies will have to ensure:
         - Claimant has purchased the equipment as approved in the application; and
@@ -102,7 +103,7 @@
 
         Disbursements can only be made after the claims have been approved.
 
-        Approved claims will be credited directly to the registered PayNow Corporate account or through GIRO bank account provided by the business entity.  
+        Approved claims will be credited directly to the registered PayNow Corporate account or through GIRO bank account provided by the business entity or Vendors@Gov.
 
     - title: Can I deploy equipment to a residential address?
       content: |
@@ -129,6 +130,8 @@
         For Food Services and Retail companies, you may wish to visit [Enterprise Singapore's webpage](https://www.enterprisesg.gov.sg/EEG){:target="_blank"}{:rel="noopener"} or [contact Enterprise Singapore](https://go.gov.sg/askenterprisesg){:target="_blank"}{:rel="noopener"} for more information.
 
         For Manufacturing companies, you may wish to visit <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/energy-efficiency-grant" target="_blank" rel="noopener">NEA's webpage</a> or contact <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a> for more information.
+
+        For Construction companies, you may wish to visit Enterprise Singapore's webpage or [Enterprise Singapore's webpage](https://www.enterprisesg.gov.sg/EEG){:target="_blank"}{:rel="noopener"} or [BCA's webpage](https://www1.bca.gov.sg/buildsg/buildsg-transformation-fund){:target="_blank"}{:rel="noopener"} for more information.
 
     - title: How can I enquire for CorpPass assistance?
       content: |
@@ -163,10 +166,11 @@
 
     - title: What is the eligibility criteria for EEG (Advanced)?
       content: |
-        From 1 April 2024, A company that meets all the following criteria can apply for the EEG (Advanced):
+        From 30 December 2024, A company that meets all the following criteria can apply for the EEG (Advanced):
         
         - Business entity registered and operating in Singapore in the Manufacturing sector as defined below
           - <b>Manufacturing</b> companies that are classified under SSIC 10 to 32 (including Food Manufacturing)
+          - <b>Construction</b> companies that are classified under SSIC 41 - 43
         <br><br>
         - Has a minimum of 30% local shareholding;
         - Employ at least one local employee at the firm-level;
@@ -216,6 +220,9 @@
       content: |
         Please refer to the <a href='/images/eeg/EEG Advanced Third-party assessment report (July 2024).docx' target="_blank" rel="noopener">third-party assessment form</a> that the whitelisted third-party qualified assessor would use to document the assessment and endorse the projected energy savings for the project. The signed form shall be submitted along with the application for the grant.
 
+        <u>For Construction Companies</u><br>
+        Please email <a title="" href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a>to request for the third-party assessment documents.
+
     - title: Where can I find the full list of whitelisted third-party qualified assessors for my EEG (Advanced) project?
       content: |
         The list of whitelisted third-party qualified assessors for manufacturing sector is as follows. Only applications endorsed by whitelisted third-party qualified assessor would be processed.
@@ -233,7 +240,7 @@
 
         <tr>
           <td>EEO Assessor (independent)</td>
-          <td><a href="https://eeoa.sg/certified-eeo-assessors/" target="_blank" rel="noopener">Certified EEO Assessors – Energy Efficiency Opportunities Assessor (EEO Assessors)</a><br>Note: EEO Assessor (Independent) is denoted by -SP in their EEOA ID. EEO Assessor (Independent)‘s certification should be valid (i.e. certification has not expired) before or on the sign off date of the third party assessment report.</td>
+          <td><a href="https://eeoa.sg/certified-eeo-assessors/" target="_blank" rel="noopener">Certified EEO Assessors - Energy Efficiency Opportunities Assessor (EEO Assessors)</a><br>Note: EEO Assessor (Independent) is denoted by -SP in their EEOA ID. EEO Assessor (Independent)‘s certification should be valid (i.e. certification has not expired) before or on the sign off date of the third party assessment report.</td>
         </tr>
 
         <tr>
@@ -242,7 +249,7 @@
         </tr>
 
         <tr>
-          <td>Singapore Polytechnic (SP) – Centre for Environmental Sustainability and Energy Efficiency (ESEE)</td>
+          <td>Singapore Polytechnic (SP) - Centre for Environmental Sustainability and Energy Efficiency (ESEE)</td>
           <td>Website:<br><a href="https://www.sp.edu.sg/industry/esee" target="_blank" rel="noopener">Centre ESEE - Industry and Partnerships | SP</a><br>Contact details: <br><a href="mailto:Lam_Kok_Seng@sp.edu.sg">Lam_Kok_Seng@sp.edu.sg</a></td>
         </tr>
 
@@ -267,7 +274,14 @@
         Applications will be submitted through <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a>. Companies will have to:<br>
         i.	Email <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a> to verify company's eligibility and request for application documents.<br>
         ii.	Obtain quotations from the vendor.<br>
-        iii.	Submit application and accompanying documents to <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a>
+        iii.	Submit application and accompanying documents to <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a><br>
+
+        <u>For Construction Companies</u><br>
+        Applications will be submitted through <a title="" href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a>.<br>
+        Companies will have to:<br>
+        i. Email <a title="" href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a>to verify company's eligibility and request for application documents.<br>
+        ii. Obtain quotations from the vendor.<br>
+        iii. Submit application and accompanying documents to <a title="" href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a>
 
         More information on how companies for other sectors can apply will be provided once the other sectors have been onboarded onto the EEG (Advanced).
 

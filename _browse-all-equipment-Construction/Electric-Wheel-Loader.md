@@ -7,7 +7,9 @@ permalink: /browse-all-equipment-Construction/Electric-Wheel-Loader
 
 ### Technical Requirements
 
-Electric wheel loaders offer energy-efficient performance comparable to traditional loaders while consuming lesser energy. These machines feature lower operating costs due to reduced fuel consumption and simpler maintenance requirements. 
+Electric wheel loaders offer energy-efficient performance with energy savings beyond its traditional loader counterparts.
+- Manufacturer specs must show that the electric wheel loader consumes less energy than its typical diesel equivalent. 
+- Electric machinery should be powered by grid electricity (i.e., not electricity generated from diesel generators) and not be fitted with diesel engine.
 
 ### Pre-Approved Equipment Brands and Models
 

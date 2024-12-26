@@ -7,7 +7,9 @@ permalink: /browse-all-equipment-Construction/Electric-Excavator
 
 ### Technical Requirements
 
-Electric excavators offer better energy efficiency compared to traditional diesel-powered models, converting a higher percentage of energy into useful work through the elimination of fuel consumption during idle periods, resulting in enhanced operational and environmental performance.
+Electric excavators offer better energy efficiency through the elimination of fuel consumption during idle periods, resulting in energy savings.
+- Manufacturer specs must show that the electric excavator consumes less energy than its typical diesel equivalent. 
+- Electric machinery should be powered by grid electricity (i.e., not electricity generated from diesel generators) and not be fitted with diesel engine.
 
 ### Pre-Approved Equipment Brands and Models
 

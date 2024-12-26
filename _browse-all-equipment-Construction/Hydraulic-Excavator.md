@@ -7,7 +7,8 @@ permalink: /browse-all-equipment-Construction/Hydraulic-Excavator
 
 ### Technical Requirements
 
-Excavators equipped with regenerative energy systems and/or energy recovery systems capture and reuse energy that would otherwise be wasted during operations such as boom motions. By harnessing this recovered energy, these excavators significantly reduce fuel consumption and emissions compared to traditional models. 
+Energy-efficient hydraulic excavators capture and reuse energy that would otherwise be wasted during operations such as boom motions. By harnessing this recovered energy, these excavators significantly reduce fuel consumption, enhancing energy performance.
+- Hydraulic excavator equipped with regenerative energy system and/or energy recovery systems
 
 ### Pre-Approved Equipment Brands and Models
 
