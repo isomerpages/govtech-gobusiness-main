@@ -39,7 +39,7 @@ More details in the table below:
     - Grant quantum computed based on EE equipment's expected lifetime energy savings</td>
   </tr>
 </table>
-*only applicable for companies in the Manufacturing sector.
+*only applicable for companies in the Manufacturing and Construction sector.
 
 ----
 
