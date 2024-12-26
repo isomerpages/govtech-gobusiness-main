@@ -2,5 +2,6 @@ collections:
   browse-all-equipment-Data-Centre:
     output: true
     order:
+      - back-to-all-eeg-equipment.md
       - Data-Centre-Storage.md
       - Enterprise-Servers.md
