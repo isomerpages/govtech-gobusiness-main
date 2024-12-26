@@ -37,12 +37,12 @@
 
     - title: Maritime
       content: |
-        <u>Maritime - Habourcraft</u>
+        <u>Habourcraft</u>
         - <a href='/browse-all-equipment-Maritime/Air-Conditioner'>Air-Conditioner*</a>
         - <a href='/browse-all-equipment-Maritime/LED-Lighting'>LED-Lighting*</a>
         <p>* installed onboard the harbourcraft</p>
 
-        <u>Maritime - Port</u>
+        <u>Port</u>
         - <a href='/browse-all-equipment-Maritime/Electric-Forklift'>Electric-Forklift</a>
 
     - title: Retail
