@@ -19,7 +19,7 @@
             <td>Base Tier</td>
             <td>
               <ul>
-                <li>Business entity registered and operating in Singapore in the Manufacturing (including Food Manufacturing), Food Services, and Retail sector as defined below:</li>
+                <li>Business entity registered and operating in Singapore in the Manufacturing (including Food Manufacturing), Food Services, Retail and Construction sector as defined below:</li>
                 <ul>
                   <li>Manufacturing companies that are classified under SSIC 10 to 32 (including Food Manufacturing)</li>
                   <li>Food Services companies must have valid Singapore Food Agency (SFA) licence and be classified under SSIC 56 or 68104</li>
@@ -36,7 +36,7 @@
             <td>Advanced Tier (<b>only available for selected sectors*</b>)</td>
             <td>
               <ul>
-                <li>Business entity registered and operating in Singapore in the Manufacturing (including Food Manufacturing) sector as defined below:</li>
+                <li>Business entity registered and operating in Singapore in the Manufacturing (including Food Manufacturing) and Construction sector as defined below:</li>
                 <ul>
                   <li>Manufacturing companies that are classified under SSIC 10 to 32 (including Food Manufacturing)</li>
                   <li>Construction companies that are classified under SSIC 41 - 43</li>
@@ -48,7 +48,7 @@
             </td>
           </tr>
         </table>
-        *only applicable for companies in the Manufacturing sector.
+        *only applicable for companies in the Manufacturing and Construction sector.
 
         You may also wish to use our [calculator to estimate your EEG grant support](https://go.gov.sg/eeg-checker){:target="_blank"}{:rel="noopener"}.
 
@@ -63,7 +63,8 @@
         - Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a>.
        
         For companies in the Construction sector:
-        - Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a title="" href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a>.
+        - Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}.
+        - Applicants can apply for the EEG (Advanced) via this email <a title="" href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a>.
 
 - accordion:
   letter: b
