@@ -61,6 +61,7 @@
         - Applicants can apply for the EEG (Advanced) via this email <a title="" href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a>.
 
         For companies in the Manufacturing sector:
+        - Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}.
         - Applicants can apply for the EEG (Advanced) via this email <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a>.
 
         For companies in the Maritime sector:
@@ -135,7 +136,6 @@
               <li>Companies classified under SSIC 23940, 24109, 49231, 50021. 50023, 52101, 52221, 52222,52224, 52243,52292</li>
               </ul>
               </ul>
-              <br>
             </td>
           </tr>
           <tr>
@@ -151,6 +151,11 @@
             </td>
           </tr>
         </table>
+    - title: How to apply and submit EEG claims?
+      content: |
+        For companies in the Maritime sector:
+        - Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}.
+        - Applicants can apply for the EEG (Advanced) via this email <a title="" href="MPA_EEG@mpa.gov.sg" target="_blank" rel="noopener">MPA_EEG@mpa.gov.sg</a>.
 
 - accordion:
   letter: d
