@@ -51,6 +51,12 @@
 
     - title: How to apply for the EEG (Base)?
       content: |
+        Applications will be submitted through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"} which is a one-stop portal for business to apply for government grants.<br>
+        To apply for the EEG (Base), companies will have to:<br>
+        i. Visit GoBusiness to access the list of supported equipment brands and models.<br>
+        ii. Obtain quotations from the vendor.<br>
+        iii. Submit an application on the BGP. Companies will need to have a CorpPass account to transact on the BGP.<br>
+
         <u>For Manufacturing (including Food Manufacturing) Companies</u><br>
         Applications will be submitted through <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a><br>
         To apply for the EEG (Base), manufacturing companies will have to:
@@ -69,9 +75,7 @@
 
     - title: How to claim for the EEG (Base)? 
       content: |
-        <u>For Manufacturing (including Food Manufacturing) Companies</u><br>
-        Claims will be submitted through <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a><br>
-        To claim for the EEG (Base), manufacturing companies will have to ensure:
+        Claims will be submitted through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}. To claim for the EEG (Base), companies will have to ensure:<br>
         - Claimant has purchased the equipment as approved in the application; and
         - Claimant has deployed and installed the equipment; and
         - Claimant has paid for the equipment in full; and
@@ -80,30 +84,14 @@
           - Payment supporting documents. The documents should indicate important information required such as grant applicant name, payee name, payment date, payment amount and approval status of transaction. Acceptable documents are bank statement, cheque and bank transfer image.
           - Delivery order
           - Pictures
-            - Equipment being installed and used on site. Pictures should be clear to show the equipment and location where it is being used.
+            - Equipment being installed and used on site. Pictures should be clear to show the equipment and location where it is being used (e.g. restaurant, supermarket, industrial facility).
             - Serial number of equipment (if applicable)
 
         Disbursements can only be made after the claims have been approved.
 
         Approved claims will be credited directly through GIRO bank account provided by the business entity.  
 
-        <u>For Food Services, Retail and Construction Companies</u><br>
-        Claims will be submitted through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}.
-        To claim for the EEG (Base), companies will have to ensure:
-        - Claimant has purchased the equipment as approved in the application; and
-        - Claimant has deployed and installed the equipment; and
-        - Claimant has paid for the equipment in full; and
-        - Claimant has submitted all claim documentation including:
-          - Invoice
-          - Payment supporting documents. The documents should indicate important information required such as grant applicant name, payee name, payment date, payment amount and approval status of transaction. Acceptable documents are bank statement, cheque and bank transfer image.
-          - Delivery order
-          - Pictures
-            - Equipment being installed and used on site. Pictures should be clear to show the equipment and location where it is being used (e.g. restaurant, supermarket). 
-            - Serial number of equipment (if applicable)
-
-        Disbursements can only be made after the claims have been approved.
-
-        Approved claims will be credited directly to the registered PayNow Corporate account or through GIRO bank account provided by the business entity or Vendors@Gov.
+        For manufacturing companies, approved claims will be credited through GIRO bank account provided by the business entity.
 
     - title: Can I deploy equipment to a residential address?
       content: |
@@ -287,13 +275,7 @@
 
     - title: How to claim for the EEG (Advanced)? 
       content: |
-        <u>For Manufacturing Companies</u><br>
-        Claims will be submitted through <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a><br>
-
-        <u>For Construction Companies</u><br>
-        Claims will be submitted through <a title="" href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a><br>
-
-        To claim for the EEG (Advanced), companies will have to ensure:
+        Claims will be submitted through <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a> To claim for the EEG (Advanced), companies will have to ensure:<br>
         - Claimant has purchased the equipment as approved in the application; and
         - Claimant has deployed and installed the equipment; and
         - Claimant has paid for the equipment in full; and
@@ -302,7 +284,7 @@
           - Payment supporting documents. The documents should indicate important information required such as grant applicant name, payee name, payment date, payment amount and approval status of transaction. Acceptable documents are bank statement, cheque and bank transfer image.
           - Delivery order
           - Pictures
-            - Equipment being installed and used on site. Pictures should be clear to show the equipment and location where it is being used.
+            - Equipment being installed and used on site. Pictures should be clear to show the equipment and location where it is being used (e.g. restaurant, supermarket, industrial facility)..
             - Serial number of equipment (if applicable)
 
         Disbursements can only be made after the claims have been approved.
@@ -310,6 +292,11 @@
         Approved claims will be credited directly through GIRO bank account provided by the business entity.
 
         More information on how companies for other sectors can claim will be provided once the other sectors have been onboarded onto the EEG (Advanced).
+
+        For manufacturing companies, approved claims will be credited through GIRO bank account provided by the business entity.
+
+        <u>For Construction Companies</u><br>
+        Claims will be submitted through <a title="" href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a><br>
 
     - title: Can I deploy equipment to a residential address?
       content: |
