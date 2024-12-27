@@ -19,7 +19,7 @@
             <td>Base Tier</td>
             <td>
               <ul>
-                <li>Business entity registered and operating in Singapore in the Manufacturing (including Food Manufacturing), Food Services and Retail sector as defined below:</li>
+                <li>Business entity registered and operating in Singapore in the Manufacturing (including Food Manufacturing), Food Services andRetail sector as defined below:</li>
                 <ul>
                   <li>Manufacturing companies that are classified under SSIC 10 to 32 (including Food Manufacturing)</li>
                   <li>Food Services companies must have valid Singapore Food Agency (SFA) licence and be classified under SSIC 56 or 68104</li>
@@ -54,14 +54,20 @@
 
     - title: How to apply and submit EEG claims?
       content: |
-        Applicants can apply for the EEG (Advanced) via this email <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a>.
+        Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}.
 
-        For companies in the Manufacturing sector:
-        - Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a>.
-       
         For companies in the Construction sector:
         - Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}.
         - Applicants can apply for the EEG (Advanced) via this email <a title="" href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a>.
+
+        For companies in the Manufacturing sector:
+        - Applicants can apply for the EEG (Advanced) via this email <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a>.
+
+        For companies in the Maritime sector:
+        - Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}.
+        - Applicants can apply for the EEG (Advanced) via this email <a title="" href="MPA_EEG@mpa.gov.sg" target="_blank" rel="noopener">MPA_EEG@mpa.gov.sg</a>.
+       
+        
 
 - accordion:
   letter: b

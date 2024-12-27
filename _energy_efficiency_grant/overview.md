@@ -63,6 +63,12 @@ Companies will have up to 1 year from the time an application is approved to pur
 
 {% include button.html text="View All Equipment" src="/energy-efficiency-grant/all-eeg-equipment/" target="_self" %}
 
+<a name='eeg-construction'></a>
+
+### EEG Construction Sector eligibility
+
+{% include letter-accordion.html accordions=site.data.acc039b-eeg-overview letter="d" %}
+
 <a name='eeg-data-centre'></a>
 
 ### EEG (Data Centre Sector) eligibility
