@@ -1,148 +1,88 @@
 <style>
-  [class*="mailer"] {
+  [class*="campaigncard"] {
     font-family: hknova-regular;
   }
-
-  .mailer__container {
+  
+  .campaigncard__container {
     display: flex;
-    flex-direction: column;
-    padding: 0px 16px 16px 16px;
+    flex-direction: row;
+    align-items: center;
+    gap: 24px;
+    justify-content: space-between;
     background-color: #ffffff;
-  }
-
-  .mailer__header {
-    line-height: 45px;
-    color: #037e8a;
-  }
-
-  .mailer_url {
-    text-decoration-line: underline;
-  }
-
-  .mailer__title {
-    text-align: center;
-  }
-
-  .mailer__contents {
-    display: grid;
-    grid-template-areas:
-      "content-3"
-      "content-4";
-    grid-gap: 0px;
-    border-bottom: 1px solid #dbdfe4;
-    border-top: 1px solid #dbdfe4;
-    border-left: 1px solid #dbdfe4;
-    border-right: 1px solid #dbdfe4;
+    border: 1px solid #dbdfe4;
     border-radius: 5px;
-    row-gap: 8px;
-    height: auto;
-    width: fit-content;
-    padding: 16px 8px 32px 8px;
+    padding: 24px;
+    max-width: 1140px;
+    margin: auto;
+    font-family: 'HK Nova';
   }
-
-  .mailer__left-bottom {
-    grid-area: content-3;
+  
+  .campaigncard__contents {
     display: flex;
-    flex-wrap: nowrap;
-    border-radius: 5px;
-    row-gap: 8px;
-    height: auto;
+    flex-direction: row;
+    align-items: center;
+    gap: 24px;
   }
-
-  .mailer__title {
+  
+  @media screen and (max-width: 768px) {
+    .campaigncard__container {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+    .campaigncard__contents {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  }
+  
+  .campaigncard__img {
+    width: 90px;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+  }
+  
+  .campaigncard__img img {
+    width: 100%;
+  }
+  
+  .campaigncard__text {
+    max-width: 430px;
+  }
+  
+  .campaigncard__title {
     font-family: hknova-semibold;
+    color: #037e8a;
+    font-weight: 600;
     font-size: 24px;
     line-height: 30px;
-    color: #037E8A;
-    text-align: left;
+    margin-top: 0;
+    margin-bottom: 8px;
   }
-
-  .mailer__right-bottom {
-    grid-area: content-4;
-    display: flex;
-    flex-wrap: nowrap;
-    background: #ffffff;
-
-  }
-
-  .mailer__logoWrapper {
-    padding: 10px;
-    margin-top: 10px;
-  }
-
-  .mailer__logo {
-    width: 300;
-    height: 300px;
-  }
-
-  .mailer__Rcard--body {
+  
+  .campaigncard__body {
+    color: #313840;
     font-size: 16px;
     line-height: 24px;
-    color: #313840;
-    padding: 0 0 0 0px;
-    margin: 16px 0;
-    
+    margin: 0 0 0 0;
   }
-
-  .mailer__Lcard--body {
-    font-size: 16px;
-    line-height: 24px;
-    color: #313840;
-    text-align: center;
-    justify-content: center;
-    margin: auto;
-    width: 50%;
-  }
-
-  @media screen and (min-width: 768px) {
-    .mailer__contents {
-      display: grid;
-      grid-template-areas:
-        "content-3 content-4";
-      margin: 0 auto;
-      grid-template-columns: 1.33fr 1fr;
-      justify-items: center;
-      justify-content: center;
-      padding: 16px 0;
-
-    }
-
-    /* .mailer__left-bottom {
-      height: 100%;
-      width: auto;
-      max-width: 638px;
-    }
-    .mailer__right-bottom {
-      height: 100%;
-      width: auto;
-      max-width: 438px;
-    }
-    .mailer__logoWrapper {
-      padding: 0 24px;
-    }
-    .mailer__logo {
-      width: auto;
-    } */
-  }
-</style>
-<div class="mailer__container">
-  <div class="mailer__header">
-    <div class="mailer__contents">
-      <div class="mailer__left-bottom">
-        <div class="mailer__logoWrapper">
-          <img class="mailer__logo" src="/images/Sneak-Peek-img.svg" alt="Get a sneak peark of our new licensing portal"/>
-        </div>
-        <div class="mailer__Rcard--body">
-          <div class="mailer__title">{{include.title}}</div>
-          Try a few quick interactions and share your thoughts. Your feedback will shape the redesign. This will take about 5 minutes.
-        </div>
+  
+  
+  </style>
+  <div class="campaigncard__container">
+    <div class="campaigncard__contents">
+      <div class="campaigncard__img">
+        <img src="/images/grow/psg/Sneak-Peek-img.svg">
       </div>
-      <div class="mailer__right-bottom">
-        <div class="mailer__Lcard--body">
-          {% include primary-btn.html href=include.url text="Start" target="_blank" %}
+      <div class="campaigncard__text">
+        <div class="campaigncard__title">Get a sneak peak of our new licensing portal</div>
+        <div class="campaigncard__body">Try a few quick interactions and share your thoughts. Your feedback will shape the redesign. This will take about 5 minutes.
         </div>
       </div>
     </div>
+    <div class="campaigncard__CTA">
+      {% include primary-btn.html href="https://go.gov.sg/gobiz-uxresearch" text="Start" target="_blank" %}
+    </div>
   </div>
-</div>
-
