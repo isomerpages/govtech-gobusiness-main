@@ -24,7 +24,7 @@ Conducting IP due diligence empowers your business with valuable information to 
 ---
 
 ### Connect with relevant service providers for IP due diligence services
-**46 service providers listed.**
+**47 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -634,7 +634,7 @@ Gateway IP Services is a regional IP boutique which specialises in patents, trad
 Adastra has been in existence since 2004 and is formed by a team of technical and legal expertise.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 21 - 30</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 31 - 40</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects on database in previous calendar year:</b> 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,000</li>
@@ -732,6 +732,22 @@ We help enhance the value of IP & Brand through driving growth, competitiveness 
 </ul>
 
 <a class='btn' href='https://form.gov.sg/66e24216aa83de55f6f2bdea' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/acorn-management-consulting-pte-ltd/){:target='_blank'}
+
+---
+
+#### fsLAW
+
+fsLAW is ranked among Singapore's leading firms, specialising in corporate law, fundraising, and M&A.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects on database in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $750</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Complimentary 30-min introductory call for new clients to see if and how we may assist the client. Please note, no legal advice is given on these calls.</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/67565a125552d17a8f18542e' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/fslaw/){:target='_blank'}
 
 ---
 

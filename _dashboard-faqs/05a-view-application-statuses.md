@@ -32,7 +32,7 @@ third_nav_title: Applications
 <td>Payment needs to be made on GoBusiness Dashboard or GoBusiness Licensing. This is usually for Stage 2 payment.</td>
 </tr>
 <tr>
-<td><p id="status-border" class="orange">Pending Application Action</p></td>
+<td><p id="status-border" class="orange">Pending Applicant Action</p></td>
 <td>Application requires amendments.</td>
 </tr>
 <tr>
