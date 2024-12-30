@@ -71,7 +71,7 @@ Companies will have up to 1 year from the time an application is approved to pur
 
 <a name='eeg-data-centre'></a>
 
-### EEG (Data Centre Sector) eligibility
+### EEG Data Centre Sector eligibility
 
 {% include letter-accordion.html accordions=site.data.acc039b-eeg-overview letter="b" %}
 
