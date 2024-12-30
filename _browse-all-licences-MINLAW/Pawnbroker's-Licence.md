@@ -35,8 +35,6 @@ Licence Fee: $3,000/- per year; $6,000/- for 2 years; and $9,000/- for 3 years (
 
 Security Deposit: $100,000/- in the form of Banker's Guarantee/Insurance Guarantee. The Banker's Guarantee/Insurance Guarantee, which should be made payable to "Accountant-General, Singapore", is to be furnished separately to the Registry of Pawnbrokers ("ROP") whilst the application is at Stage 2 - Payment. For format of the Banker's Guarantee/Insurance Guarantee, please refer to ROP's website: <a href="https://rop.mlaw.gov.sg/information-for-pawnbrokers/forms/" target="_blank" rel="noopener">https://rop.mlaw.gov.sg/information-for-pawnbrokers/forms/</a>
 
-
-
 <H3>Documents Needed</H3>
 
 <ul>
