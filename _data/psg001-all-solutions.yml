@@ -23,17 +23,17 @@
         - <a href='/browse-all-solutions-Advanced-Manufacturing/General-Advanced-Manufacturing-Equipment'>General Advanced Manufacturing Equipment</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
-    - title: Built Environment
+    - title: Building & Construction 
       content: |
         
         **For more information, please refer to [BCA's PSG website](https://www1.bca.gov.sg/buildsg/buildsg-transformation-fund/productivity-solutions-grant){:target="_blank"}{:rel="noopener"}.**
         
         **IT Solution**
-        - <a href='/browse-all-solutions-Building-Construction/Integrated-and-Smart-Worksite-Monitoring-and-Inspection'>Integrated and Smart Worksite Monitoring and Inspection</a>
-        - <a href='/browse-all-solutions-Building-Construction/FM-Workflow-Automation'>FM Workflow Automation</a>
-        - <a href='/browse-all-solutions-Building-Construction/e-Permit-to-work--e-PTW-'>e-Permit-to-work (e-PTW)</a>
-        - <a href='/browse-all-solutions-Building-Construction/Coordination-Tools-and-Collaboration-Platform'>Coordination Tools and Collaboration Platform</a>
-        - <a href='/browse-all-solutions-Building-Construction/3D-Modelling--Immersive-Visualisation-Analysis'>3D Modelling, Immersive Visualisation & Analysis</a>
+        - <a href='/browse-all-solutions-Built-Environment/Integrated-and-Smart-Worksite-Monitoring-and-Inspection'>Integrated and Smart Worksite Monitoring and Inspection</a>
+        - <a href='/browse-all-solutions-Built-Environment/FM-Workflow-Automation'>FM Workflow Automation</a>
+        - <a href='/browse-all-solutions-Built-Environment/e-Permit-to-work--e-PTW-'>e-Permit-to-work (e-PTW)</a>
+        - <a href='/browse-all-solutions-Built-Environment/Coordination-Tools-and-Collaboration-Platform'>Coordination Tools and Collaboration Platform</a>
+        - <a href='/browse-all-solutions-Built-Environment/3D-Modelling--Immersive-Visualisation-Analysis'>3D Modelling, Immersive Visualisation & Analysis</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Early Childhood
@@ -44,7 +44,8 @@
         - <a href='/browse-all-solutions-Early-Childhood/Pre-School-Management-System'>Pre-School Management System</a>
         - <a href='/browse-all-solutions-Early-Childhood/E-enrolment-Form'>E-enrolment Form</a>
         - <a href='/browse-all-solutions-Early-Childhood/Data-Mining-Analytics-for-Preschools--Centre-Operations-and-Child-Development-'>Data Mining & Analytics for Preschools (Centre Operations and Child Development)</a>
-
+        - <a href='/browse-all-solutions-Early-Childhood/Talent-Attraction-Platform'>Talent Attraction Platform</a>
+        
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Engineering Services
       content: |
@@ -54,6 +55,18 @@
         
         **Equipment**
         - <a href='/browse-all-solutions-Engineering-Services/General-Engineering-Services-Equipment'>General Engineering Services Equipment</a>
+
+        View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
+    - title: Environmental Services
+      content: |
+        
+        **IT/Digital Solution**
+        - To be updated when ready
+
+        **Equipment**
+        - <a href='/browse-all-solutions-Environmental-Services/Pest-Management'>Pest Management</a>
+        - <a href='/browse-all-solutions-Environmental-Services/Cleaning'>Cleaning</a>
+        - <a href='/browse-all-solutions-Environmental-Services/Waste-Management'>Waste Management</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Estate Agency
@@ -159,9 +172,9 @@
       content: |
         
         **IT Solution**
+        - <a href='/browse-all-solutions-Wholesale-Trade/Enterprise-Resource-Planning--ERP--Software-for-Wholesale'>Enterprise Resource Planning (ERP) Software for Wholesale</a>
         - <a href='/browse-all-solutions-Wholesale-Trade/Sales-Management'>Sales Management</a>
         - <a href='/browse-all-solutions-Wholesale-Trade/Inventory-Management-System'>Inventory Management System</a>
-        - <a href='/browse-all-solutions-Wholesale-Trade/Enterprise-Resource-Planning--ERP--Software-for-Wholesale'>Enterprise Resource Planning (ERP) Software for Wholesale</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
 - accordion:
@@ -282,7 +295,7 @@
         <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
         <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
         <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
-        <td><p>Coming Soon</p></td>
+        <td><a href='/browse-all-solutions-Cyber-Security-solutions/Firewall'>View</a></td>
         </tr>
         <tr>
         <td>Backup</td>
@@ -291,7 +304,7 @@
         <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
         <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg" alt="Checked"></td>
         <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
-        <td><p>Coming Soon</p></td>
+        <td><a href='/browse-all-solutions-Cyber-Security-solutions/Backup'>View</a></td>
         </tr>
         </table>
         <small>SMEs are eligible to adopt a total of <b>one</b> solution across the Cyber Essentials Ready sub-categories.</small>
