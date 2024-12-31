@@ -36,7 +36,7 @@ Energy Market Authority (EMA)
 <strong>Additional Information</strong>
 
 Fees
-The annual licence fee is payable each April for the Financial Year starting 1 April. The initial licence fee payable upon issuance of the licence is pro-rated based on the number of days remaining in the current Financial Year.
+The annual licence fee is payable each April for the Financial Year starting 1 April. The initial licence fee payable upon issuance of the licence is pro-rated based on the number of days remaining in the current Financial Year.<br>
 
 Contact Details
 You may contact EMA directly if you require further details on the fees for each licence class.
@@ -57,7 +57,7 @@ You may contact EMA directly if you require further details on the fees for each
     <li><strong>Signed Market Support Services Agreement (MSS Agreement) (if any)</strong>&nbsp;<br>Document(s) Format(s): (*.jpeg, *.jpg, *.pdf, *.png)<br>Maximum upload per application: 7 MB</li>
     <li><strong>Supporting document to demonstrate the implementation of an Electronic Business Transaction (&quot;EBT&quot;) system (if any)</strong>&nbsp;<br>Document(s) Format(s): (*.jpeg, *.jpg, *.pdf, *.png)<br>Maximum upload per application: 7 MB</li>
     <li><strong>Other supporting documents (if any)</strong>&nbsp;<br>Document(s) Format(s): (*.jpeg, *.jpg, *.pdf, *.png)<br>Maximum upload per application: 7 MB</li>
-</ul>
+</ul>   
 
 <H3>Requirements</H3>
 
