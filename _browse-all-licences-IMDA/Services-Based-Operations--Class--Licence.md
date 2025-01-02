@@ -14,7 +14,7 @@ Infocomm Media Development Authority (IMDA)
 
 <H3>Application Details</H3>
 
-<p>For leasing telecommunication network elements from any Facilities-Based Operator (FBO) licensed by the Info-communications Media Development Authority(IMDA) so as to provide their own telecommunication services or to resell the telecommunication services of FBOs or Services-Based Operators (SBOs) to third parties.</p>
+<p>For leasing telecommunication network elements from any Facilities-Based Operator (FBO) licensed by the Info-communications Media Development Authority (IMDA) so as to provide their own telecommunication services or to resell the telecommunication services of FBOs or Services-Based Operators (SBOs) to third parties.</p>
 
 <strong>Additional Information</strong>
 
@@ -30,5 +30,5 @@ Infocomm Media Development Authority (IMDA)
 
 <H3>Requirements</H3>
 
-Applicant must be ACRA registered company/business
+Applicant must be ACRA registered company/business, Limited Liability Partnership or Limited Partnership.
 
