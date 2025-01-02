@@ -1028,8 +1028,7 @@
 
         Application for Registration as a Singapore Patent Agent under rule 7(1) of the Patents (Patent Agents) Rules 2001.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=270" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Intellectual-Property-Office-of-Singapore-(IPOS)/Patent-Agent-Form-A-(Registration-as-a-Singapore-Patent-Agent)" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Intellectual-Property-Office-of-Singapore-(IPOS)/Patent-Agent-Form-A-(Registration-as-a-Singapore-Patent-Agent)">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/patentagentforma" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Intellectual-Property-Office-of-Singapore-(IPOS)/Patent-Agent-Form-A-(Registration-as-a-Singapore-Patent-Agent)">View Licence Details</a>
 
         -----
         **Patent Agent Form C (Application for a Practising Certificate)**
@@ -1038,8 +1037,7 @@
 
         Application for a Practising Certificate under rule 9(1) of the Patents (Patent Agents) Rules 2001.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=269" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Intellectual-Property-Office-of-Singapore-(IPOS)/Patent-Agent-Form-C-(Application-for-a-Practising-Certificate)" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Intellectual-Property-Office-of-Singapore-(IPOS)/Patent-Agent-Form-C-(Application-for-a-Practising-Certificate)">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/patentagentformc" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Intellectual-Property-Office-of-Singapore-(IPOS)/Patent-Agent-Form-C-(Application-for-a-Practising-Certificate)">View Licence Details</a>
 
         -----
         **Patent Agent Form H (Registration /Renewal of Registration as a Foreign Patent Agent)**

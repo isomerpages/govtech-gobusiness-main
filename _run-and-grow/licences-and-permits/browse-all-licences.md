@@ -274,8 +274,8 @@ Select an industry to see a list of relevant licences here. You can also browse 
 <a name="intellectual-property-services"></a>
 
 ## Intellectual Property Services
-- [Patent Agent Form A (Registration as a Singapore Patent Agent)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=270)
-- [Patent Agent Form C (Application for a Practising Certificate)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=269)
+- [Patent Agent Form A (Registration as a Singapore Patent Agent)](https://dashboard.gobusiness.gov.sg/task-details/patentagentforma)
+- [Patent Agent Form C (Application for a Practising Certificate)](https://dashboard.gobusiness.gov.sg/task-details/patentagentformc)
 - [Patent Agent Form H (Registration /Renewal of Registration as a Foreign Patent Agent)](https://www.ipos.gov.sg/docs/default-source/default-document-library/form-h.docx)
 
 <a name="land-transport-infrastructure"></a>
@@ -323,7 +323,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 <a name="others"></a>
 
 ## Others
-- [Certificate of Registration and Hotel-keeper's Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=3)
+- [Certificate of Registration and Hotel-keeper's Licence](https://dashboard.gobusiness.gov.sg/task-details/hotelkeeper)
 - [Company Registration (CR)](https://dashboard.gobusiness.gov.sg/task-details/cnb-company-registration)
 - [Licence for Residential Care Facilities](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10063)
 - [Licence to Supply Professional Engineering Services](https://www.peb.gov.sg/lc_commonqueries.aspx)
