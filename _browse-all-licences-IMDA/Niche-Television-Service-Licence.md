@@ -18,7 +18,7 @@ Infocomm Media Development Authority (IMDA)
 
 <strong>Additional Information</strong>
 
-<p><strong>Fee</strong><br />Licence Fee: To be determined</p>
+<p><strong>Fee</strong><br>Licence Fee to be determined upon successful licence application.</p>
 
 <H3>Documents Needed</H3>
 
@@ -30,5 +30,5 @@ Infocomm Media Development Authority (IMDA)
 
 <H3>Requirements</H3>
 
-Applicant must be ACRA registered company/business
+Licence Holder shall be an ACRA-registered company or business.
 
