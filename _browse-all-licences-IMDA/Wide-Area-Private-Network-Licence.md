@@ -19,3 +19,7 @@ Infocomm Media Development Authority (IMDA)
 For more information on the Wide-Area Private Network Licence, please access <a href="https://iris.imda.gov.sg/application/wide-area-private-network-licence">https://iris.imda.gov.sg/application/wide-area-private-network-licence</a>.
 </p>
 
+<H3>Requirements</H3>
+
+Applicant must be ACRA registered company/business
+

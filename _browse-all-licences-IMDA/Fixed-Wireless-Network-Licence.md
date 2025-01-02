@@ -19,3 +19,7 @@ Infocomm Media Development Authority (IMDA)
 For more information on the Fixed Wireless Network Licence, please access <a href="https://iris.imda.gov.sg/application/fixed-wireless-network-licence">https://iris.imda.gov.sg/application/fixed-wireless-network-licence</a>.
 </p>
 
+<H3>Requirements</H3>
+
+Applicant must be ACRA registered company/business
+
