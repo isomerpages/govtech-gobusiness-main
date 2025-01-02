@@ -14,7 +14,7 @@ Infocomm Media Development Authority (IMDA)
 
 <H3>Application Details</H3>
 
-<p>The Niche Television Service Licence is for service providers targeting specific niche market segments.</p>
+<p>The Niche Television Service Licence applies to service providers of television services targeting niche market segments, and television services transmitted over the Internet, also known as "over-the-top (OTT)" television services.</p>
 
 <strong>Additional Information</strong>
 

@@ -14,7 +14,7 @@ Infocomm Media Development Authority (IMDA)
 
 <H3>Application Details</H3>
 
-<p>For maintaining and operating an international TV broadcasting service for the purpose of transmitting programmes to other Countries/Regions through the lease of transponder(s) on satellites and / or fibre.</p>
+<p>The Subscription International Television Service Licence allows broadcast companies or broadcasters to transmit their TV services from Singapore to the region via satellite or fibre or both.</p>
 
 <strong>Additional Information</strong>
 
