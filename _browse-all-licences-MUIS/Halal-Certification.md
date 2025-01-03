@@ -6,7 +6,7 @@ third_nav_title: Majlis Ugama Islam Singapura (MUIS)
 
 ## Apply for Halal Certification
 
-Majlis Ugama Islam Singapura (MUIS)
+Majlis Ugama Islam Singapura (Muis)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/new-halal-certification" type="primary" %}
 
