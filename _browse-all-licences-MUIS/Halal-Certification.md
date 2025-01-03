@@ -24,78 +24,7 @@ Majlis Ugama Islam Singapura (MUIS)
 </ol>
 
 
-<strong>Additional Information</strong>
-
-<p><strong>Fees</strong><br />Please refer to this <a href="https://www.muis.gov.sg/-/media/Files/Halal/Consumer/Update-of-Fee-Structure-Artboards-1-to-8-2024.ashx" target="_blank" rel="noopener">list of fees schedule</a>.</p>
-
-<H3>Documents Needed</H3>
-
-<ul>
-<li><strong>Halal Questionnaire</strong><br />Please click here to download the Halal Questionnaire template. Halal Questionnaire is applicable to Medium - Low or Medium - High risk ingredients (raw materials / processing aides / additives).<br />File format: pdf<br />Maximum upload per application: 2MB</li>
-<li><strong>Floor plan of premises applying for Halal certification<br /></strong>File format: pdf<br />Maximum upload per application: 2MB<strong><br /></strong></li>
-<li><strong>Pictures of delivery vehicles<br /></strong>File format: jpg, png, pdf<br />Maximum upload per application: 5MB<strong><br /></strong></li>
-<li><strong>Ingredients</strong><br />Please refer to this <a target="" rel=""><u>format for the Ingredients</u></a><br />
-<ul>
-<li>Do not add columns, sub-headers or more than one sheet in the excel file</li>
-<li>Do not change the header and sheet name in the excel file</li>
-<li>Do not upload more than one excel file</li>
-<li>File format: xls,xlsx</li>
-<li>Maximum upload per application: 2MB</li>
-</ul>
-</li>
-</ul>
-<ul>
-<li><strong>List of Product to be Certified</strong><br />Please refer to this <a target="" rel=""><u>format for Product to be Certified</u></a>
-<ul>
-<li>Do not add columns, sub-headers or more than one sheet in the excel file</li>
-<li>Do not change the header and sheet name in the excel file</li>
-<li>Do not upload more than one excel file</li>
-<li>File format: xls,xlsx</li>
-<li>Maximum upload per application: 2MB</li>
-</ul>
-</li>
-</ul>
-<ul>
-<li><strong>Pictures of Product labels<br /></strong>File format: jpg, png, pdf,xls,xlsx<br />Maximum upload per application: 5MB</li>
-</ul>
-<ul>
-<li><strong>List of Product to be stored in location</strong><br />Please refer to this <a target="" rel=""><u>format for Product to be stored in location</u>;</a>
-<ul>
-<li>Do not add columns, sub-headers or more than one sheet in the excel file</li>
-<li>Do not change the header and sheet name in the excel file</li>
-<li>Do not upload more than one excel file</li>
-<li>File format: xls,xlsx</li>
-<li>Maximum upload per application: 2MB</li>
-</ul>
-</li>
-<li><strong>List of Product to be shipped<br /></strong>File format: xls,xlsx<br />Maximum upload per application: 2MB<strong><br /></strong></li>
-<li><strong>Eating Establishment Menu Upload</strong><br />Upload Menu for Eating Establishment. Please refer to this <a target="" rel=""><u>format for the Menu</u></a>.
-<ul>
-<li>Do not add columns, sub-headers or more than one sheet in the excel file</li>
-<li>Do not change the header and sheet name in the excel file</li>
-<li>Do not upload more than one excel file</li>
-<li>File format: xls,xlsx</li>
-<li>Maximum upload per application: 2MB</li>
-</ul>
-</li>
-<li><strong>Food Preparation Area Menu upload</strong><br />Upload Menu for Food Preparation Area. Please refer to this <a target="" rel=""><u>format for the Menu</u></a>.
-<ul>
-<li>Do not add columns, sub-headers or more than one sheet in the excel file</li>
-<li>Do not change the header and sheet name in the excel file</li>
-<li>Do not upload more than one excel file</li>
-<li>File format: xls,xlsx</li>
-<li>Maximum upload per application: 2MB</li>
-</ul>
-</li>
-<li><strong>Packing List</strong><br />Upload list of products.<br />File format: pdf,xls,xlsx<br />Maximum upload per application: 2MB</li>
-<li><strong>Veterinary Public Health Certificate (for the export of frozen/processed poultry)</strong><br />Upload Veterinary Public Health Certificate (for the export of frozen/processed poultry)<br />File format: pdf,xls,xlsx<br />Maximum upload per application: 2MB</li>
-<li><strong>Halal Slaughtering Certificate (for meat items only)</strong><br />Upload Halal Slaughtering Certificate (for meat items only)<br />File format: pdf,xls,xlsx<br />Maximum upload per application: 2MB</li>
-<li><strong>Transport Bill of Lading</strong><br />Upload Transport Bill of Lading<br />File format: pdf,xls,xlsx<br />Maximum upload per application: 2MB</li>
-<li><strong>Valid Halal Certificate (MUIS / Recognised Foreign Certifying Bodies)</strong><br />Upload Valid Halal Certificate (MUIS / Recognised Foreign Certifying Bodies)<br />File format: pdf,xls,xlsx<br />Maximum upload per application: 2MB</li>
-<li><strong>Endorsement Template (Template provided by Muis as attached)</strong><br />Upload Endorsement Template (Template provided by Muis as attached).Please refer to this <a target="" rel=""><u>format for the Template</u></a>.<br />File format: pdf,xls,xlsx<br />Maximum upload per application: 2MB</li>
-<li><strong>Other document<br /></strong>File format: pdf,xls,xlsx<br />Maximum upload per application: 2MB<strong><br /></strong></li>
-</ul>
-
 <H3>Requirements</H3>
 
 <p><strong>Related licences to apply at External Agency</strong><br />SFA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201305310000330">Licence to Operate a Coldstore</a><br />SFA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201306030000332">Licence to Operate Slaughter-house</a><br />SFA - <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201306030000331">Licence to Operate a Food Processing Establishment</a></p>
+
