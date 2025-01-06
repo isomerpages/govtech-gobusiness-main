@@ -16,6 +16,7 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
  
 | 11 Dec, 12pm - 7 Jan, 2pm | All transactions for these IMDA licences will be unavailable due to scheduled maintenance.<br>1) Wide Area Private Network Licence<br>2) Fixed Wireless Network Licence<br>3) Experimental Station Licence |        
 
+| 6 Jan, 6:30pm - 8:30pm | **GoBusiness Dashboard** will be unavailable during the upcoming scheduled maintenance. |    
 | 7 Jan, 7:15pm - 9:15pm | Application, amendment, renewal & cancellation of **Singapore Police Force (SPF) licences** will be unavailable during the upcoming scheduled maintenance. |      
 | 8 Jan, 8pm - 11pm | Application, amendment, renewal & cancellation of **Infocomm Media Development Authority (IMDA) licences** will be unavailable during the upcoming scheduled maintenance. |    
 | 8 Jan, 6pm - 11:59pm | Application, amendment, renewal & cancellation of **National Environmental Agency (NEA) licences** will be unavailable during the upcoming scheduled maintenance. |  
