@@ -29,7 +29,6 @@ Energy Market Authority (EMA)
 <strong>Additional Information</strong>
 
 <p>The annual licence fee is payable each April for the Financial Year starting 1 April. The initial licence fee payable upon issuance of the licence is pro-rated based on the number of days remaining in the current Financial Year.</p>
-<p><br></p>
 <p>You may contact EMA directly if you require further details on the fees for each licence class.</p>
 
 <H3>Documents Needed</H3>
