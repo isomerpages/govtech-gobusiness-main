@@ -304,7 +304,7 @@
 
         PATROL is to provide a One-Stop e-Service to allow Traders to perform all transactions pertaining to permit declarations and to align to Government's direction to move towards Electronic Services.
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/cnb-patrol" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Central-Narcotics-Bureau-(CNB)/Permit-Administration-and-Control-System-(PATROL)">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/cnb-patrol" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Central-Narcotics-Bureau-(CNB)/Permit-Administration-and-Control-System(PATROL)">View Licence Details</a>
     
     - title: Cyber Security Agency of Singapore (CSA)
       content: |
@@ -1563,7 +1563,7 @@
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/residentialcare" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Social-and-Family-Development-(MSF)/Licence-for-Residential-Care-Facilities">View Licence Details</a>
 
-    - title: Majlis Ugama Islam Singapura (MUIS)
+    - title: Majlis Ugama Islam Singapura (Muis)
       content: |
         **Asatizah Recognition Scheme**
 
@@ -1571,14 +1571,12 @@
 
         This licence is required for any individual teaching Islam in Singapore. For example, religious teachers / asatizah conducting religious classes or Quranic classes.
 
-
         -----
         **Halal Certification**
 
         <p>This application allows you to make a new Halal certification application for your business.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=239" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Majlis-Ugama-Islam-Singapura-(MUIS)/Halal-Certification" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Majlis-Ugama-Islam-Singapura-(MUIS)/Halal-Certification">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/new-halal-certification" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Majlis-Ugama-Islam-Singapura-(MUIS)/Halal-Certification">View Licence Details</a>
 
         -----
         **Islamic Education Centres and Providers Registration**
