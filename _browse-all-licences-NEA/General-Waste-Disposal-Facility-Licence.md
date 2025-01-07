@@ -34,7 +34,7 @@ National Environment Agency (NEA)
 
 <strong>Additional Information</strong>
 
-<p><strong>Fees</strong><br>Licence Fees (New/ Renew): $300, valid for two years.<br>Licence Fees (Amend): $70.</p>
+<p><strong>Fees</strong><br>Licence Fees (New/ Renew): $400, valid for three years.<br>Licence Fees (Amend): $138.</p>
 
 <H3>Documents Needed</H3>
 
