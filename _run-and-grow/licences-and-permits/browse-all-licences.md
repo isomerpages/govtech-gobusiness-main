@@ -387,9 +387,9 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Enhanced Simplified Equipment Registration (ESER)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10077)
 - [Exhibition of Telecommunication Equipment (with Frequency)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10070)
 - [Exhibition of Telecommunication Equipment (without Frequency)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10069)
-- [Experimental Station Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=27)
+- [Experimental Station Licence](https://dashboard.gobusiness.gov.sg/task-details/experimentalstation)
 - [Facilities-based Operations Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10020)
-- [Fixed Wireless Network](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10059)
+- [Fixed Wireless Network](https://dashboard.gobusiness.gov.sg/task-details/fixedwirelessnetwork)
 - [General Equipment Registration (GER)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10080)
 - [General Equipment Registration by Certification Bodies (GER-CB)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10081)
 - [General Operator's Certificate of Competency](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10074)
@@ -417,7 +417,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Telecommunication Wiring Installer's Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10018)
 - [Temporary Use of Radio Frequency](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10073)
 - [TV Receive-Only System Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=9)
-- [Wide-Area Private Network Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=34)
+- [Wide-Area Private Network Licence](https://dashboard.gobusiness.gov.sg/task-details/wideareaprivatenetwork)
 
 <a name="tourism"></a>
 
