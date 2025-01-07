@@ -12,7 +12,7 @@ Infocomm Media Development Authority (IMDA)
 
 <H3>Application Details</H3>
 
-<p>For establishing and conduct a proof of concept using radio frequency on a short term basis.</p>
+<p>For establishing and conducting a proof of concept using radio frequency on a temporary basis.</p>
 
 <strong>Additional Information</strong>
 
