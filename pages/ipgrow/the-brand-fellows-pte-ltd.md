@@ -101,7 +101,7 @@ Proven branding methodologies to assist clients with crafting the most appropria
 - Years of Experience: 18 years
 - Location: Singapore
 - IA/IP-Related Expertise: Branding Strategy, Innovation Consultancy
-- Certifications/Qualifications: Expert Singapore Certified Management Consultant Certified by T�V S�D PSB (Business Innovation and Brand & Marketing Strategy), WSQ Advanced Certificate In Learning And Performance (ACLP), Certified PROSCI � Change Practitioner CMC Partnership/ Prosci � Global Affiliate Network
+- Certifications/Qualifications: Expert Singapore Certified Management Consultant Certified by TÜV SÜD PSB (Business Innovation and Brand & Marketing Strategy), WSQ Advanced Certificate In Learning And Performance (ACLP), Certified PROSCI © Change Practitioner CMC Partnership/ Prosci © Global Affiliate Network
 - Awards/Accolades: 14th British Chambers of Commerce Business Awards - Young Professional of the Year, Best Boutique Brand Consultant APAC Insider
 - URL of LinkedIn/Company Profile: 
 <a href="https://www.linkedin.com/in/jinglechenziyun/" target="_blank" rel="noopener">https://www.linkedin.com/in/jinglechenziyun/</a>  
