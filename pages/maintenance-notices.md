@@ -8,9 +8,10 @@ permalink: /maintenance-notices/
 Kindly note the following scheduled maintenance. We apologise for the inconvenience caused. 
 
 
-### 2024 
+### 2025 
 
 | **Scheduled Date** | **Remarks** |  
+
 
 
 | 8 Jan, 12pm - 14 Jan, 2pm | All transactions for these IMDA licences will be unavailable due to scheduled maintenance.<br>1) Technical Trial (with use of Frequency) Licence<br>2) Temporary Use of Radio Frequency Licence<br>3) Special Purchase Station Licence |      

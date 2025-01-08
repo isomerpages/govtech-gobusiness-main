@@ -1,18 +1,15 @@
 ---
 title: 'Air-Conditioner'
-permalink: /browse-all-equipment-Food-Services/Air-Conditioner
+permalink: /browse-all-equipment-Maritime/Air-Conditioner
 ---
 
 ## Air-Conditioner
 
 ### Technical Requirements
 
-- 5-ticks for multi/single split
+ - Minimum 5-ticks for multi/single split models
 
-- Minimum 3-ticks for 3-phase variable refrigerant flow (VRF) models 
-
-Note: From 1st April 2025, the Minimum Energy Performance Standards (MEPS) will be raised to 5-tick for multi-split/ 4-tick for single split. The technical eligibility criteria will be reviewed in 4Q2024.
-
+ - Minimum 3-ticks for 3-phase variable refrigerant flow (VRF) models 
 
 ### Mode and Schedule of Payment 
 
@@ -24,7 +21,9 @@ Note: From 1st April 2025, the Minimum Energy Performance Standards (MEPS) will 
 
 Up to 70% for SMEs, 30% for non-SMEs
 
-Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}
+Only for businesses within the Maritime sectors.
+
+Funded and administered by Enterprise Singapore (EnterpriseSG). For more information, please refer to [https://www.enterprisesg.gov.sg/eeg](https://www.enterprisesg.gov.sg/eeg){:target='_blank'}{:rel='noopener'}
 
 ### Pre-Approved Equipment Brands and Models
 
@@ -313,4 +312,3 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Tosot - TR32SAC32CUD
 
 
-<script src='/jquery/resize-tables.js'></script>
