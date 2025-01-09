@@ -28,44 +28,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201403211Z-QuckDsk-Mrktng-G' target='_blank'>QuickDesk Marketing</a><br></td>
-<td>QuickDesk Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/T13LL1562D-NMTODOOCRM-G' target='_blank'>NMTODOO</a><br></td>
-<td>Neu Media Technology LLP</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201808388R-AI-Commrc-G' target='_blank'>AI Commerce</a><br></td>
+<td>VisionTech Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201400012M-AIO-CRM-G' target='_blank'>AIO CRM</a><br></td>
 <td>AIO Interactive Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201729553C-WrlyCRM-v-12-G' target='_blank'>WarelyCRM Version 1.2</a><br></td>
-<td>PLUS 65 MARKETING PTE. LTD.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201702434C-Pppr-Cloud-CRM-v-140-G' target='_blank'>Pepper Cloud CRM Version 14.0</a><br></td>
-<td>Pepper Cloud Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201705156N-HubSpot-G' target='_blank'>HubSpot</a><br></td>
-<td>Brew Interactive Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201108056G-Zoho-CRM-G' target='_blank'>Zoho CRM</a><br></td>
-<td>Zoho Corporation Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201223262D-MEYZER360-CRM-v-2023-G' target='_blank'>MEYZER360 CRM Version 2023</a><br></td>
-<td>MEYZER BUSINESS ADVISORY PTE. LTD.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202039751G-Flvor-Customr-Rltonshp-MGT-Systm-v-1-G' target='_blank'>Flavor Customer Relationship Management System Version 1</a><br></td>
-<td>FLAVOR PTE. LTD.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201808388R-AI-Commrc-G' target='_blank'>AI Commerce</a><br></td>
-<td>VisionTech Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/198800014D-ClndrOn-CRM-SLN-v-27-G' target='_blank'>CalendarOne CRM Solution Version 2.7</a><br></td>
@@ -74,6 +42,38 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201718654M-CARDDIO-v-2-G' target='_blank'>CARDDIO Version 2</a><br></td>
 <td>Carddio Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202039751G-Flvor-Customr-Rltonshp-MGT-Systm-v-1-G' target='_blank'>Flavor Customer Relationship Management System Version 1</a><br></td>
+<td>FLAVOR PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201705156N-HubSpot-G' target='_blank'>HubSpot</a><br></td>
+<td>Brew Interactive Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201223262D-MEYZER360-CRM-v-2023-G' target='_blank'>MEYZER360 CRM Version 2023</a><br></td>
+<td>MEYZER BUSINESS ADVISORY PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/T13LL1562D-NMTODOOCRM-G' target='_blank'>NMTODOO</a><br></td>
+<td>Neu Media Technology LLP</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201702434C-Pppr-Cloud-CRM-v-140-G' target='_blank'>Pepper Cloud CRM Version 14.0</a><br></td>
+<td>Pepper Cloud Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201403211Z-QuckDsk-Mrktng-G' target='_blank'>QuickDesk Marketing</a><br></td>
+<td>QuickDesk Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201729553C-WrlyCRM-v-12-G' target='_blank'>WarelyCRM Version 1.2</a><br></td>
+<td>PLUS 65 MARKETING PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201108056G-Zoho-CRM-G' target='_blank'>Zoho CRM</a><br></td>
+<td>Zoho Corporation Pte. Ltd.</td>
 </tr>
 </table>
 

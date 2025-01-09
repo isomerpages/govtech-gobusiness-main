@@ -32,15 +32,15 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td></td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Autonomous-Mobl-Robot-Prcson-Eng' target='_blank'>Autonomous Mobile Robot</a><br></td>
+<td></td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/eqt-Probng-sys-Prcson-Eng' target='_blank'>Probing System</a><br></td>
 <td></td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/eqt-Robotc-rms-Prcson-Eng' target='_blank'>Robotic arms</a><br></td>
-<td></td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Autonomous-Mobl-Robot-Prcson-Eng' target='_blank'>Autonomous Mobile Robot</a><br></td>
 <td></td>
 </tr>
 <tr>
