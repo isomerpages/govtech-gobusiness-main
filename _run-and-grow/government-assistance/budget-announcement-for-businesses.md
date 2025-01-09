@@ -7,12 +7,12 @@ description: Budget 2025 for Businesses
 
 ## Budget 2025
 
-Prime Minister and Minister for Finance, Mr Lawrence Wong, delivering Singapore's FY2025 Budget Statement on Tuesday, 18 February 2025 in Parliament.
+Prime Minister and Minister for Finance, Mr Lawrence Wong, will be delivering Singapore's FY2025 Budget Statement on Tuesday, 18 February 2025 in Parliament.
 
 Find out which schemes you may be eligible for, and how you can apply for them in the links below.
 
-- Download the [Budget 2025 Business Booklet (coming soon)](/images/budget2024/MTI Business Budget Booklet 2024_21 Mar.pdf){:target="_blank"}{:rel="noopener"} 
-- Download the [Budget 2025 - Budget Navigator (for Businesses) (coming soon)](/images/budget2024/Budget Navigator (for Businesses) 2024.pdf){:target="_blank"}{:rel="noopener"} 
+- Download the Budget 2025 Business Booklet (coming soon)
+- Download the Budget 2025 - Budget Navigator (for Businesses) (coming soon)
 
 Visit the [MOF website](https://www.mof.gov.sg/){:target="_blank"}{:rel="noopener"} for more information on Budget 2025.
 
