@@ -1,24 +1,24 @@
 ---
-title: Budget 2024
+title: Budget 2025
 permalink: /gov-assist/budget-announcement-for-businesses/
 third_nav_title: Government Assistance
-description: Budget 2024 for Businesses
+description: Budget 2025 for Businesses
 ---
 
-## Budget 2024
+## Budget 2025
 
-Deputy Prime Minister and Minister for Finance, Mr Lawrence Wong, delivered Singapore’s FY2024 Budget Statement on Friday, 16 February 2024 at 3.30pm in Parliament.
+Prime Minister and Minister for Finance, Mr Lawrence Wong, delivering Singapore's FY2025 Budget Statement on Tuesday, 18 February 2025 in Parliament.
 
 Find out which schemes you may be eligible for, and how you can apply for them in the links below.
 
-- Download the [Budget 2024 Business Booklet](/images/budget2024/MTI Business Budget Booklet 2024_21 Mar.pdf){:target="_blank"}{:rel="noopener"} 
-- Download the [Budget 2024 - Budget Navigator (for Businesses)](/images/budget2024/Budget Navigator (for Businesses) 2024.pdf){:target="_blank"}{:rel="noopener"} 
+- Download the [Budget 2025 Business Booklet (coming soon)](/images/budget2024/MTI Business Budget Booklet 2024_21 Mar.pdf){:target="_blank"}{:rel="noopener"} 
+- Download the [Budget 2025 - Budget Navigator (for Businesses) (coming soon)](/images/budget2024/Budget Navigator (for Businesses) 2024.pdf){:target="_blank"}{:rel="noopener"} 
 
-Visit the [MOF website](https://www.mof.gov.sg/){:target="_blank"}{:rel="noopener"} for more information on Budget 2024.
+Visit the [MOF website](https://www.mof.gov.sg/){:target="_blank"}{:rel="noopener"} for more information on Budget 2025.
 
 {% include letter-accordion.html accordions=site.data.acc078a-budget2024 letter="a" %}
 
-<b>Stay Tuned: More information related to Budget 2024 for Businesses will be updated here progressively.</b>
+<b>Stay Tuned: More information related to Budget 2025 for Businesses will be updated here progressively.</b>
 
 {% include subscribe-mailer.html title="Want to be notified when this page is updated?" url="/mailing-list-subscription/?utm_source=gobiz&utm_medium=budget&utm_campaign="%}
 
