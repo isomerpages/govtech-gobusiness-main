@@ -6,10 +6,6 @@ permalink: /browse-all-solutions-Fleet-Safety-and-Fleet-Management-System/Fleet-
 ## Fleet Safety Management System
 ## Overview
 
-**Description**
-
-Offers at least one of Driver Status Monitoring system, Blind Spot detection system and Advanced Driver Assistance System.
-
 **Support Level and Conditions**
 
 Up to 50% for SMEs, N.A. for non-SMEs
@@ -32,8 +28,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/53392060D-FLEETEYE-G' target='_blank'>FLEETEYE</a><br></td>
-<td>ACE PRIME ROBOTICS</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201925557G-MjuFlt-MGT-Systm-G' target='_blank'>MajuFleet Management System</a><br></td>
+<td>MAJUTECH PTE LTD</td>
 </tr>
 </table>
 

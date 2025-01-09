@@ -60,6 +60,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Aks Tech Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201329629H-ECommrc-MPD-Pckg-v-30-G' target='_blank'>E-Commerce MPD Package Version 3.0</a><br></td>
+<td>MediaPlus Digital Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201529118Z-ECommrc-Portl-Dv-WooCommrc-G' target='_blank'>E-Commerce Portal Development (WooCommerce)</a><br></td>
 <td>IPRO DEZIGN PTE. LTD.</td>
 </tr>
