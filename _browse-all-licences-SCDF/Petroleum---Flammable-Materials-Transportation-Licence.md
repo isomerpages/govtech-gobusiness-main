@@ -108,7 +108,7 @@ Name: Claire Yeo<br>
 Designation: Transport Licensing Specialist<br>
 Contact: <a href="tel:+6568481474">6848 1474</a><br><br>
 
-Central Tel line: <a href=""tel:+6568481472"">68481472</a><br>
+Central Tel line: <a href="tel:+6568481472">68481472</a><br>
 Fax: 68481494
 
 </li>
