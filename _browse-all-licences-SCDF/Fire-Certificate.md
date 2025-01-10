@@ -28,23 +28,23 @@ The Section 35 of the Fire Safety Act 1993 contains the following definitions:
     <li>a standalone carpark that complies with the requirements specified in Chapter 2 of the Fire Code; and</li>
     <li>a hawker centre or wet market that is not fully enclosed on all sides.</li>
 </ul>
-<br>
+
 2. An industrial building that
 <ul>
     <li>Has an occupant load of 1,000 persons or more;</li>
     <li>Has a floor area or site area of 5,000 square metres or more; or</li>
     <li>Has a habitable height of more than 24 metres.</li>
 </ul>
-<br>
+
 3. A foreign dormitory that
 <ul>
     <li>Has an occupant load of 1,000 persons or more;</li>
     <li>Has a floor area or site area of 5,000 square metres or more; or</li>
     <li>Has a habitable height of more than 24 metres.</li>
 </ul>
-<br>
+
 4. A Hospital
-<br>
+
 5. A residential building that
 <ul>
     <li>Has a habitable height of more than 24 metres;</li>
@@ -56,7 +56,7 @@ The Section 35 of the Fire Safety Act 1993 contains the following definitions:
         </ul>
     <li>Is not used or intended to be used as an HDB flat</li>
 </ul>
-<br>
+
 6. An engineered timber building (except a building that is used or intended to be used as an HDB flat) that is installed with any of the following:
 <ul>
     <li>An automatic fire alarm system;</li>
@@ -64,7 +64,7 @@ The Section 35 of the Fire Safety Act 1993 contains the following definitions:
     <li>An automatic smoke control system;</li>
     <li>Any other automatic fire detection or suppression system intended to detect or control a fire automatically.</li>
 </ul>
-<br>
+
 7. A fully automated mechanized car park that is installed with a fire protection system and meets any of the following conditions:
 <ul>
     <li>The total floor area of the car parking decks in the fully automated mechanized car park is more than 200 square metres;</li>
@@ -77,6 +77,8 @@ The Section 35 of the Fire Safety Act 1993 contains the following definitions:
 <sup>1</sup>"Public Building" means a building to which the public or a section of the public has access as of right, or by virtue of express or implied permission with or without payment of a fee.
 
 The Fire Certificate Scheme is to ensure that the fire safety systems and fire safety measures are properly maintained and in good working condition. They should be tested in accordance with the relevant codes of practices. Please be informed that the outcome of the application will be notified within 3 business days (subject to complete application).
+
+
 
 <li>
 <p>(a) Public building<br />- has an occupant load of more than 200 persons<br />(b) Industrial building<br />i. has an occupant load of at least 1, 000 persons;<br />ii. has a gross floor area (GFA)* of at least 5, 000 square metres ; or<br />iii. exceeds 24 metres in habitable height</p>
