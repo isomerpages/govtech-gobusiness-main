@@ -13,9 +13,7 @@ permalink: /energy-efficiency-grant/
 
 The Energy Efficiency Grant (EEG) aims to support businesses in their sustainability journey by co-funding investment in energy-efficient (EE) equipment.
  
-The EEG will provide two tiers of support – a Base Tier to provide support for pre-approved EE equipment up to a $30,000 cap; and an Advanced Tier to support companies that wish to make larger investments for greater energy efficiency.
-
-More details in the table below:
+The EEG will provide two tiers of support:
 
 <table>
   <tr>
@@ -28,40 +26,43 @@ More details in the table below:
     <td>Base Tier</td>
     <td>Up to S$30,000</td>
     <td>Pre-approved EE equipment</td>
-    <td>Up to 70% for SMEs and up to 30% for non-SMEs respectively until 31 March 2026</td>
+    <td>
+    <ul>
+      <li>For SMEs: Up to 70%</li>
+      <li>For non-SMEs: Up to 30%</li>
+    </ul>
+    </td>
+    <td>until 31 March 2026</td>
   </tr>
   <tr>
-    <td>Advanced Tier (<b>only available for selected sectors*</b>)</td>
+    <td>Advanced Tier*</td>
     <td>Up to S$350,000 across Base and Advanced Tiers</td>
     <td>EE equipment need not be pre-approved, but must demonstrate energy savings above 350tonnes lifetime carbon abatement</td>
     <td>Lower of:<br>
-    - Support levels under the Base Tier; or<br>
-    - Grant quantum computed based on EE equipment's expected lifetime energy savings</td>
+    <ul>
+    <li>Support levels under the Base Tier; or</li>
+    <li>Grant quantum computed based on EE equipment's expected lifetime energy savings</li>
+    </ul>
+    </td>
   </tr>
 </table>
-*only applicable for companies in the Manufacturing sector.
+*only applicable for selected sectors, see next section.
+
+[Estimate your EEG grant support](https://www.checkfirst.gov.sg/c/551d6762-93f3-466c-a1be-418ef7f8d2f1) with our calculator.
+
+<u><b>Note about Base Tier</b></u> 
+
+Companies will have up to <b>1 year</b> from the time an application is approved to purchase and install the equipment and submit claims for reimbursement. 
+
+Once an application has been submitted, companies may purchase the equipment before the application outcome. However, companies will not be able to claim subsequently if the application is unsuccessful.
 
 ----
 
 <a name='eeg-eligibility'></a>
 
-### EEG eligibility
+### Eligibility and How to Apply
 
 {% include letter-accordion.html accordions=site.data.acc039b-eeg-overview letter="a" %}
-
-**Note:**
-
-<u><b>For EEG (Base)</b></u> 
-
-Companies will have up to 1 year from the time an application is approved to purchase and install the equipment and submit claims for reimbursement. Once an application has been submitted, companies may purchase the equipment before the application outcome. However, companies will not be able to claim subsequently if the application is unsuccessful. This pre-approved energy efficient equipment listing is not to be taken as a form of endorsement or recommendation by the participating government agencies. Companies are reminded to carry out due diligence when engaging vendors, and not to collude with vendors to carry out submission of any grant applications or claims.
-
-----
-<a name='type-of-eeg-soln'></a>
-
-|-|-|
-| **Sector-specific equipment** | Sector-specific equipment are eligible for companies within the respective sectors only. These solutions are specially curated by agencies in consultation with the industry and NEA. |
-
-{% include button.html text="View All Equipment" src="/energy-efficiency-grant/all-eeg-equipment/" target="_self" %}
 
 <a name='eeg-construction'></a>
 
@@ -81,9 +82,19 @@ Companies will have up to 1 year from the time an application is approved to pur
 
 {% include letter-accordion.html accordions=site.data.acc039b-eeg-overview letter="c" %}
 
+
+----
+<a name='type-of-eeg-soln'></a>
+
+|-|-|
+| **Sector-specific equipment** | Sector-specific equipment are eligible for companies within the respective sectors only. These solutions are specially curated by agencies in consultation with the industry and NEA. |
+
+{% include button.html text="View All Equipment" src="/energy-efficiency-grant/all-eeg-equipment/" target="_self" %}
+
+
 <a name='eeg-faq'></a>
 
-### FAQ
+### Frequently Asked Questions (FAQ)
 
 Have more questions? Refer to the [FAQ for EEG](/business-grants-portal-faq/eeg/){:target='_blank'}{:rel='noopener'}.
 
