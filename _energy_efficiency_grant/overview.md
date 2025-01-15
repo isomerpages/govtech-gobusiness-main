@@ -31,8 +31,8 @@ The EEG will provide two tiers of support:
       <li>For SMEs: Up to 70%</li>
       <li>For non-SMEs: Up to 30%</li>
     </ul>
+    Until 31 March 2026
     </td>
-    <td>until 31 March 2026</td>
   </tr>
   <tr>
     <td>Advanced Tier*</td>
@@ -46,7 +46,7 @@ The EEG will provide two tiers of support:
     </td>
   </tr>
 </table>
-*only applicable for selected sectors, see next section.
+*Only applicable for selected sectors, see next section.
 
 [Estimate your EEG grant support](https://www.checkfirst.gov.sg/c/551d6762-93f3-466c-a1be-418ef7f8d2f1) with our calculator.
 
