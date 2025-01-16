@@ -77,11 +77,11 @@ Proven branding methodologies to assist clients with crafting the most appropria
 <a name='testimonials'></a>
 ### Testimonials
 
-*"During the course of engagement, she impressed us with her knowledge and creativity, flexibility and adaptability to the ever changing scenarios presented each time. She is able to use analogies to explain her ideas and connect with our employees of any level. Most importantly she is able to conduct focus groups, present to us a feasible brand strategy to align all our brands, services and products, and positioning them in the global market. I would strongly recommend her for projects which needs an eye for details spanning many fields of study as she has also proven track records for UI/UX and change management."* - Mr Wong H.K,Managing Director,Unidbox Pte Ltd
+*"During the course of engagement, she impressed us with her knowledge and creativity, flexibility and adaptability to the ever changing scenarios presented each time. She is able to use analogies to explain her ideas and connect with our employees of any level. Most importantly she is able to conduct focus groups, present to us a feasible brand strategy to align all our brands, services and products, and positioning them in the global market. I would strongly recommend her for projects which needs an eye for details spanning many fields of study as she has also proven track records for UI/UX and change management."* - Mr Wong H.K, Managing Director, Unidbox Pte Ltd
 
-*"We have appointed Jingle from The Brand Fellows to assist us in our branding when we started our skin and aesthetics clinic few years ago. Jingle was very organized in her approach and had guided us on how to assess our new branding from both a business and design perspective. She has differentiated herself by not being seen as just a "design person", but someone who puts herself in our shoes and sincerely cares for all the large and minute details, including advising on business innovation and transformation aspects."* - Dr Peter Ng,Founder,Face the Facts Skin Creations Pte Ltd
+*"We have appointed Jingle from The Brand Fellows to assist us in our branding when we started our skin and aesthetics clinic few years ago. Jingle was very organized in her approach and had guided us on how to assess our new branding from both a business and design perspective. She has differentiated herself by not being seen as just a "design person", but someone who puts herself in our shoes and sincerely cares for all the large and minute details, including advising on business innovation and transformation aspects."* - Dr Peter Ng, Founder, Face the Facts Skin Creations Pte Ltd
 
-*"I am happy that someone understands the brand!"* - Peter Haag,Executive Director, Marketing,Raffles Hotels & Resorts
+*"I am happy that someone understands the brand!"* - Peter Haag, Executive Director, Marketing, Raffles Hotels & Resorts
 
 
 
