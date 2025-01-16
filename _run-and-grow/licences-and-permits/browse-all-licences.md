@@ -178,7 +178,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Security Clearance for Special Worker (Add New Employee)](https://dashboard.gobusiness.gov.sg/task-details/49df4e39-3fbd-4f74-b008-88448443e22e)
 - [Termination of Security Clearance for Special Worker (Remove Existing Employee)](https://dashboard.gobusiness.gov.sg/task-details/925dd652-6961-4503-b78c-da19799f07b1)
 
-<a name="financial-service"></a>
+<a name="financial-services"></a>
 
 ## Financial Services
 - [Application for Approved MAT Insurers](https://www.mas.gov.sg/regulation/Insurance/Approved-MAT-Insurer-Apply-for-Approval)
