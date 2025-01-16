@@ -47,7 +47,9 @@
 - title: Enterprise Singapore
   description: Call Centre - Rubber
   tel: +65 6898 1800
-  email: indriyanti_ismail@enterprisesg.gov.sg, vivian_sia@enterprisesg.gov.sg
+  url: go.gov.sg/askenterprisesg
+  url-new-tab: true
+  protocol: https
 
 - title: Housing & Development Board (HDB)
   description: For Commercial Properties Inquiry
