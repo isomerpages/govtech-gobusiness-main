@@ -3,37 +3,36 @@
   data:
     - title: What is the Energy Efficiency Grant?
       content: |
-        The Energy Efficiency Grant helps businesses transition towards being more energy efficient by co-funding investments in energy-efficient equipment. As announced at Budget 2024, the EEG will be expanded to more sectors from 1 April 2024. With the expanded EEG, EEG applications will be streamlined under one shopfront on GoBusiness, so that it is easier for businesses to access support for energy efficiency.
+        The Energy Efficiency Grant helps businesses transition towards being more energy efficient by co-funding investments in energy-efficient equipment. As announced at Budget 2024, the EEG will be expanded to more sectors from 1 April 2024. With the expanded EEG, information regarding EEG applications will be streamlined under one shopfront on GoBusiness, so that it is easier for businesses to access support for energy efficiency.
 
     - title: Which sectors are covered by the EEG?
       content: |
-        As announced at Budget 2024, the EEG will be expanded to more sectors. From 1 April 2024, companies in the Manufacturing, Food Services and Retail sectors<sup>1</sup> can apply for the EEG. We will further expand EEG to cover maritime, construction, data centres and their users by end 2024. More information will be available in due course.
-
-        <sup>1</sup> Based on company's ACRA registered SSIC code.
+        As of 30 December 2024, eligible companies<sup>1</sup> in Construction, Food Services, Manufacturing (including Food Manufacturing), Maritime, Retail sectors and users of data centres will be able to tap on the EEG.
 
 - accordion:
   letter: b
   data:
-    - title: What is the eligibility criteria for EEG (Base)?<sup>2</sup>
+    - title: What is the eligibility criteria for EEG (Base)?<sup>3</sup>
       content: |
         A company that meets all the following criteria can apply for the EEG (Base):
-        - Business entity registered and operating in Singapore in the Manufacturing, Food Services or Retail and Construction sector as defined below;
+        - Business entity registered and operating in Singapore in the following sectors:
+          - <b>Construction</b> companies classified under <b>SSIC 41 to 43</b>
           - <b>Manufacturing</b> companies that are classified under SSIC 10 to 32 (including Food Manufacturing)
-          - <b>Food Services</b> companies with valid Singapore Food Agency (SFA) licences and classified under SSICs 56 or 68104
-          - <b>Retail</b> companies that are classified under SSIC 47
-          - <b>Construction</b> companies that are classified under SSIC 41 - 43
+          - <b>Maritime</b> companies which include:
+            - <b>Harbourcraft</b> companies owning/operating harbourcraft <b>licensed by MPA</b>
+            - <b>Port</b> companies classified under <b>SSIC 23940, 24109, 49231, 50021, 50023, 52101, 52221, 52222, 52224, 52243, 52292</b>
+          - <b>Retail</b> companies classified under <b>SSIC 47</b>
         <br><br>
-        - Has a minimum of 30% local shareholding,
-        - Employ at least one local employee at the firm-level
-        - Has a Group Annual Sales Turnover no more than S$500 million<sup>3</sup>
-
-        The project shall not have commenced at the time of application.
-
-         <sup>2</sup> Companies may be requested to furnish supporting documents as part of the grant application process.
-
-        <sup>3</sup> SME is defined as having:
-        - <b>Group Annual Sales Turnover</b> of no more than S$100 million; <b><u>or</u></b>
-        - <b>Group Employment Size</b> of not more than 200 workers
+        - Minimum of 30% local shareholding<sup>4</sup>,
+        - Employs at least one local employee at the firm-level
+        - Group Annual Sales Turnover no more than S$500 million<sup>5</sup>
+        
+        <sup>1</sup>Based on company's ACRA registered SSIC code.
+        <sup>3</sup> Companies may be requested to furnish supporting documents as part of the grant application process.
+        <sup>4</sup> For users of data centres, business entities need not have a minimum of 30% local shareholding criteria.
+        <sup>5</sup> SME is defined as having:
+        - Group Annual Sales Turnover of not more than S$100 million; or
+        - Group Employment Size of not more than 200 workers
     
     - title: Where can I find the list of support equipment under the EEG(Base)?
       content: |
@@ -93,6 +92,10 @@
       content: |
         For EEG (Base) equipment supported, the holding period is one year from the date of approval of the final claim.
 
+    - title: Can I submit a future-dated Tenancy Agreement for my application?
+      content: |
+        Food Services and Retail Companies are required to submit their application together with a valid tenancy agreement that is current, indicating that they have started operations at the mentioned location. This is to ensure that they are deploying the solution to a location that they are operating from.
+
     - title: What is the grant cap for EEG (Base)?
       content: |
         Each company is subjected to a grant cap of S$30,000 for EEG equipment supported under EEG (Base), starting on 1 April 2024 and ending on 31 March 2026.
@@ -103,15 +106,23 @@
 
     - title: How many EEG (Base) grants can a company apply for?
       content: |
-        Companies can put in more than one EEG (Base) application depending on business needs. Concurrent EEG (Base) applications are also possible.
+        Companies can put in more than one EEG (Base) application depending on business needs. Concurrent EEG (Base) applications are also possible. Please note that companies with multiple EEG applications are still subject to the grant cap of S$30,000 starting on 1 April 2024 and ending on 31 March 2026.
 
     - title: Where can I find more information on the EEG (Base)?
       content: |
-        For Food Services and Retail companies, you may wish to visit [Enterprise Singapore's webpage](https://www.enterprisesg.gov.sg/EEG){:target="_blank"}{:rel="noopener"} or [contact Enterprise Singapore](https://go.gov.sg/askenterprisesg){:target="_blank"}{:rel="noopener"} for more information.
+        Please visit the [EEG webpage](/energy-efficiency-grant/?src=home_quicklinks) on GoBusiness for more information.
+        
+        You may reach out to the following agencies for sector specific queries:
 
-        For Manufacturing companies, you may wish to visit <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/energy-efficiency-grant" target="_blank" rel="noopener">NEA's webpage</a> or contact <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a> for more information.
+        - Food Services and Retail companies, may contact [Enterprise Singapore](https://go.gov.sg/askenterprisesg){:target="_blank"}{:rel="noopener"} or [contact Enterprise Singapore](){:target="_blank"}{:rel="noopener"} for more information.
 
-        For Construction companies, you may wish to contact <a title="" href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a> for more information.
+        - Manufacturing companies, may visit <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/energy-efficiency-grant" target="_blank" rel="noopener">NEA's webpage</a> or contact <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a> for more information.
+
+        - Construction companies, may contact BCA at <a title="" href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a> for more information.
+
+        - Maritime companies, may contact MPA at <a title="" href="mailto:MPA_EEG@mpa.gov.sg" target="_blank" rel="noopener">MPA_EEG@mpa.gov.sg</a>
+
+        - Data Centre companies, may contact IMDA at <a title="" href="IT_Energy_Efficiency@imda.gov.sg" target="_blank" rel="IT_Energy_Efficiency@imda.gov.sg</a>
 
     - title: How can I enquire for CorpPass assistance?
       content: |
@@ -241,9 +252,9 @@
       content: |
         The grant application window for the EEG (Advanced) is from 1 April 2024 to 31 Mar 2026.
         
-        Companies will have up to 1 year from the time an application is approved to purchase and install<sup>5</sup> the equipment, and submit claims for reimbursement. Once an application has been submitted, companies may choose to proceed to purchase the equipment before the application outcome. However, companies will not be able to claim subsequently if the application is unsuccessful.
+        Companies will have up to 1 year from the time an application is approved to purchase and install<sup>6</sup> the equipment, and submit claims for reimbursement. Once an application has been submitted, companies may choose to proceed to purchase the equipment before the application outcome. However, companies will not be able to claim subsequently if the application is unsuccessful.
 
-        <sup>5</sup> EEG (Advanced) supports the purchase of the equipment as well as any costs that are necessary to bring the equipment or system to a functioning state. Recurring fees or compliance costs will not be supported. 
+        <sup>6</sup> Only the actual purchase of the equipment is supportable. This excludes other related administrative fees/charges, e.g. delivery fees, installation.
 
     - title: How to apply for the EEG (Advanced)?
       content: |
