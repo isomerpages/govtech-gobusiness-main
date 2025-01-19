@@ -65,22 +65,17 @@ Applicants must meet all sector eligibility criteria at the point of application
 All <b>EEG (Base)</b> applications are through the Business Grants Portal. Please refer to this [step-by-step guide](/images/eeg/EEG(Base)%20step-by-step%20guide%20(25.01.16)_vf.pdf) for the application process.
 
 {% include letter-accordion.html accordions=site.data.acc039b-eeg-overview letter="a" %}
-
 {% include letter-accordion.html accordions=site.data.acc039b-eeg-overview letter="b" %}
-
 {% include letter-accordion.html accordions=site.data.acc039b-eeg-overview letter="c" %}
-
 {% include letter-accordion.html accordions=site.data.acc039b-eeg-overview letter="d" %}
-
 {% include letter-accordion.html accordions=site.data.acc039b-eeg-overview letter="e" %}
-
 {% include letter-accordion.html accordions=site.data.acc039b-eeg-overview letter="f" %}
 
 
 ----
 <a name='type-of-eeg-soln'></a>
 
-**What to use EEG on** 
+### What to use EEG on
 
 {% include button.html text="View All Equipment" src="/energy-efficiency-grant/all-eeg-equipment/" target="_self" %}
 
