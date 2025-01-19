@@ -66,21 +66,9 @@ All <b>EEG (Base)</b> applications are through the Business Grants Portal. Pleas
 
 {% include letter-accordion.html accordions=site.data.acc039b-eeg-overview letter="a" %}
 
-<a name='eeg-construction'></a>
-
-### EEG Construction Sector eligibility
-
 {% include letter-accordion.html accordions=site.data.acc039b-eeg-overview letter="d" %}
 
-<a name='eeg-data-centre'></a>
-
-### EEG Data Centre Sector eligibility
-
 {% include letter-accordion.html accordions=site.data.acc039b-eeg-overview letter="b" %}
-
-<a name='eeg-maritime'></a>
-
-### EEG Maritime Sector eligibility
 
 {% include letter-accordion.html accordions=site.data.acc039b-eeg-overview letter="c" %}
 
@@ -88,11 +76,17 @@ All <b>EEG (Base)</b> applications are through the Business Grants Portal. Pleas
 ----
 <a name='type-of-eeg-soln'></a>
 
-|-|-|
-| **Sector-specific equipment** | Sector-specific equipment are eligible for companies within the respective sectors only. These solutions are specially curated by agencies in consultation with the industry and NEA. |
+| **What to use EEG on** 
 
 {% include button.html text="View All Equipment" src="/energy-efficiency-grant/all-eeg-equipment/" target="_self" %}
 
+This pre-approved energy efficient equipment listing is not to be taken as a form of endorsement
+or recommendation by the participating government agencies. Companies are reminded to carry out due diligence when engaging vendors, and not to collude with vendors to carry out submission of any grant applications or claims.
+
+<u><b>Note about sector-specific equipment</b></u> 
+Sector-specific equipment are eligible for companies within the respective sectors only. These solutions are specially curated by agencies in consultation with the industry and NEA.
+
+----
 
 <a name='eeg-faq'></a>
 
