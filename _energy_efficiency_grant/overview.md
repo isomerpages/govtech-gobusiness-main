@@ -66,17 +66,21 @@ All <b>EEG (Base)</b> applications are through the Business Grants Portal. Pleas
 
 {% include letter-accordion.html accordions=site.data.acc039b-eeg-overview letter="a" %}
 
-{% include letter-accordion.html accordions=site.data.acc039b-eeg-overview letter="d" %}
-
 {% include letter-accordion.html accordions=site.data.acc039b-eeg-overview letter="b" %}
 
 {% include letter-accordion.html accordions=site.data.acc039b-eeg-overview letter="c" %}
+
+{% include letter-accordion.html accordions=site.data.acc039b-eeg-overview letter="d" %}
+
+{% include letter-accordion.html accordions=site.data.acc039b-eeg-overview letter="e" %}
+
+{% include letter-accordion.html accordions=site.data.acc039b-eeg-overview letter="f" %}
 
 
 ----
 <a name='type-of-eeg-soln'></a>
 
-| **What to use EEG on** 
+**What to use EEG on** 
 
 {% include button.html text="View All Equipment" src="/energy-efficiency-grant/all-eeg-equipment/" target="_self" %}
 
