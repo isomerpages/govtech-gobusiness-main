@@ -87,7 +87,8 @@ All <b>EEG (Base)</b> applications are through the Business Grants Portal. Pleas
 This pre-approved energy efficient equipment listing is not to be taken as a form of endorsement
 or recommendation by the participating government agencies. Companies are reminded to carry out due diligence when engaging vendors, and not to collude with vendors to carry out submission of any grant applications or claims.
 
-<u><b>Note about sector-specific equipment</b></u> 
+<u><b>Note about sector-specific equipment</b></u>
+
 Sector-specific equipment are eligible for companies within the respective sectors only. These solutions are specially curated by agencies in consultation with the industry and NEA.
 
 ----
