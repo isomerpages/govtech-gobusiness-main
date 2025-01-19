@@ -14,9 +14,6 @@
         - Base Tier: Apply through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}
         - Advanced Tier: Email <a title="" href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a>
 
-- accordion:
-  letter: b
-  data:
     - title: Data Centre Sector
       content: |
         <b>Your business must:</b>
@@ -34,9 +31,6 @@
 
         For more information, please contact <a title="" href="mailto:IT_Energy_Efficiency@imda.gov.sg" target="_blank" rel="noopener">IT_Energy_Efficiency@imda.gov.sg</a>.
 
-- accordion:
-  letter: c
-  data:
     - title: Food Services Sector
       content: |
         <b>Your business must:</b>
@@ -51,9 +45,6 @@
 
         Only Base Tier is applicable. Apply through the[Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}.
 
-- accordion:
-  letter: d
-  data:
     - title: Maritime Sector
       content: |
         <b>Your business must:</b>
@@ -86,9 +77,6 @@
         - Base Tier: Apply through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}
         - Advanced Tier: Email <a title="" href="MPA_EEG@mpa.gov.sg" target="_blank" rel="noopener">MPA_EEG@mpa.gov.sg</a>
 
-- accordion:
-  letter: e
-  data:
     - title: Manufacturing Sector (includes Food Manufacturing)
       content: |
         <b>Your business must:</b>
@@ -102,9 +90,6 @@
         - Base Tier: Apply through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}
         - Advanced Tier: Email <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a>
 
-- accordion:
-  letter: f
-  data:
     - title: Retail Sector
       content: |
         <b>Your business must:</b>
