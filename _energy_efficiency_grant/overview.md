@@ -42,6 +42,8 @@ The EEG will provide two tiers of support:
     <ul>
     <li>Support levels under the Base Tier; or</li>
     <li>Grant quantum computed based on EE equipment's expected lifetime energy savings</li>
+
+    You may also wish to use our [calculator to estimate your EEG grant support](go.gov.sg/eeg-checker).
     </ul>
     </td>
   </tr>
