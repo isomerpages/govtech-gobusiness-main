@@ -42,15 +42,11 @@ The EEG will provide two tiers of support:
     <ul>
     <li>Support levels under the Base Tier; or</li>
     <li>Grant quantum computed based on EE equipment's expected lifetime energy savings</li>
-
-    You may also wish to use our [calculator to estimate your EEG grant support](go.gov.sg/eeg-checker).
     </ul>
     </td>
+    You may also wish to use our [calculator to estimate your EEG grant support](https://go.gov.sg/eeg-checker).
   </tr>
 </table>
-*Only applicable for selected sectors, see next section.
-
-[Estimate your EEG grant support](https://www.checkfirst.gov.sg/c/551d6762-93f3-466c-a1be-418ef7f8d2f1) with our calculator.
 
 <u><b>Note about Base Tier</b></u> 
 
@@ -63,6 +59,10 @@ Once an application has been submitted, companies may purchase the equipment bef
 <a name='eeg-eligibility'></a>
 
 ### Eligibility and How to Apply
+
+Applicants must meet all sector eligibility criteria at the point of application for the respective tiers of support. The project shall not have commenced at the time of application.
+
+All <b>EEG (Base)</b> applications are through the Business Grants Portal. Please refer to this [step-by-step guide](/images/eeg/EEG(Base)%20step-by-step%20guide%20(25.01.16)_vf.pdf) for the application process.
 
 {% include letter-accordion.html accordions=site.data.acc039b-eeg-overview letter="a" %}
 
