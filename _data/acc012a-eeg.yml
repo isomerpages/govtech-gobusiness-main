@@ -151,27 +151,28 @@
 
     - title: What sectors does the EEG (Advanced) cover?
       content: |
-        From 1 April 2024, companies in the Manufacturing sector<sup>3</sup> can apply for the EEG (Advanced). We will further expand EEG (Advanced) to cover the maritime and construction sectors.
+        As of 30 December 2024, eligible companies in the Construction, Manufacturing (including Food Manufacturing) and Maritime sectors<sup>1</sup> can apply for the EEG (Advanced). 
 
-        <sup>3</sup> Based on company's ACRA registered SSIC code.
+        <sup>1</sup> Based on company's ACRA registered SSIC code.
 
-    - title: What is the eligibility criteria for EEG (Advanced)?
+    - title: What is the eligibility criteria for EEG (Advanced)?<sup>2</sup>
       content: |
-        From 30 December 2024, A company that meets all the following criteria can apply for the EEG (Advanced):
+        A company that meets all the following criteria can apply for the EEG (Advanced):
         
-        - Business entity registered and operating in Singapore in the Manufacturing sector as defined below
-          - <b>Manufacturing</b> companies that are classified under SSIC 10 to 32 (including Food Manufacturing)
+        - Business entity registered and operating in Singapore in the following sectors:
           - <b>Construction</b> companies that are classified under SSIC 41 - 43
+          - <b>Manufacturing</b> companies that are classified under SSIC 10 to 32 (including Food Manufacturing)
+          - <b>Maritime</b> companies which include:
+            - <b>Harbourcraft</b> companies owning/operating harbourcraft <b>licensed by MPA</b>
+            - <b>Port</b> companies classified under <b>SSIC 23940, 24109, 49231, 50021, 50023, 52101, 52221, 52222, 52224, 52243, 52292</b>
         <br><br>
         - Has a minimum of 30% local shareholding;
         - Employ at least one local employee at the firm-level;
-        - Has a Group Annual Sales Turnover no more than S$500 million.
+        - Has a Group Annual Sales Turnover no more than S$500 million<sup>3</sup>.
 
-        The project shall not have commenced at the time of application.
-
-        Note that SME is defined as having:
-        - <b>Group Annual Sales Turnover</b> of no more than S$100 million; <b><u>or</u></b>
-        - <b>Group Employment Size</b> of not more than 200 workers
+        <sup>3</sup>SME is defined as having:
+          - Group Annual Sales Turnover of not more than S$100 million; or 
+          - Group Employment Size of not more than 200 workers
 
     - title: What is the difference between the EEG (Base) and the EEG (Advanced)?
       content: |
@@ -197,8 +198,8 @@
 
           For chilled water system that shall comply with NEA's MEES, EEG (Advanced) can support chilled water system replacement/new installation that<br>
 
-          (1a) can meet or exceed MEES performance standard before MEES comes into effect, or<br>
-          (1b) exceed MEES performance standard after MEES comes into effect, whichever applies at the point of the first EEG(Advanced) submission; and<br>
+          (1a) can meet or exceed MEES performance standard <b>before</b> MEES comes into effect, or<br>
+          (1b) exceed MEES performance standard <b>after</b> MEES comes into effect, whichever applies at the point of the first EEG(Advanced) submission; and<br>
           (2) is installed with M&V sensors/meters to facilitate post retrofit system efficiency determination for compliance with MEES. The cost of M&V sensors/meters would not be funded under EEG(Advanced).
 
           Applicant shall refer to the <a href='/images/eeg/EEG Advanced Third-party assessment report (July 2024).docx' target="_blank" rel="noopener">third-party assessment form</a> for details.  
@@ -231,7 +232,7 @@
 
         <tr>
           <td>EEO Assessor (independent)</td>
-          <td><a href="https://eeoa.sg/certified-eeo-assessors/" target="_blank" rel="noopener">Certified EEO Assessors - Energy Efficiency Opportunities Assessor (EEO Assessors)</a><br>Note: EEO Assessor (Independent) is denoted by -SP in their EEOA ID. EEO Assessor (Independent)‘s certification should be valid (i.e. certification has not expired) before or on the sign off date of the third party assessment report.</td>
+          <td><a href="https://eeoa.sg/certified-eeo-assessors/" target="_blank" rel="noopener">Certified EEO Assessors - Energy Efficiency Opportunities Assessor (EEO Assessors)</a><br>Note: EEO Assessor (Independent) is denoted by -SP in their EEOA ID. EEO Assessor (Independent)'s certification should be valid (i.e. certification has not expired) before or on the sign off date of the third party assessment report.</td>
         </tr>
 
         <tr>
@@ -258,12 +259,6 @@
 
     - title: How to apply for the EEG (Advanced)?
       content: |
-        <u>For Manufacturing Companies</u><br>
-        Applications will be submitted through <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a>. Companies will have to:<br>
-        i.	Email <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a> to verify company's eligibility and request for application documents.<br>
-        ii.	Obtain quotations from the vendor.<br>
-        iii.	Submit application and accompanying documents to <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a><br>
-
         <u>For Construction Companies</u><br>
         Applications will be submitted through <a title="" href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a>.<br>
         Companies will have to:<br>
@@ -271,9 +266,27 @@
         ii. Obtain quotations from the vendor.<br>
         iii. Submit application and accompanying documents to <a title="" href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a>
 
+        <u>For Manufacturing Companies</u><br>
+        Applications will be submitted through <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a>. Companies will have to:<br>
+        i.	Email <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a> to verify company's eligibility and request for application documents.<br>
+        ii.	Obtain quotations from the vendor.<br>
+        iii.	Submit application and accompanying documents to <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a><br>
+
+        <u>For Maritime Companies</u><br>
+        Applications will be submitted through <a title="" href="mailto:MPA_EEG@nea.gov.sg" target="_blank" rel="noopener">MPA_EEG@nea.gov.sg</a>.
+
     - title: How to claim for the EEG (Advanced)? 
       content: |
-        Claims will be submitted through <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a> To claim for the EEG (Advanced), companies will have to ensure:<br>
+        <u>For Construction Companies</u><br>
+        Claims will be submitted through <a title="" href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a><br>
+
+        <u>For Manufacturing (including Food Manufacturing) Companies</u><br>
+        Claims will be submitted through <a title="" href="mailto:NEA_EEG_admin@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG_admin@nea.gov.sg</a><br>
+
+        <u>For Maritime Companies</u><br>
+        Claims will be submitted through <a title="" href="mailto:MPA_EEG_admin@mpa.gov.sg" target="_blank" rel="noopener">MPA_EEG_admin@mpa.gov.sg</a><br>
+
+        To claim for the EEG (Advanced), companies will have to ensure:<br>
         - Claimant has purchased the equipment as approved in the application; and
         - Claimant has deployed and installed the equipment; and
         - Claimant has paid for the equipment in full; and
@@ -286,13 +299,6 @@
             - Serial number of equipment (if applicable)
 
         Disbursements can only be made after the claims have been approved.
-
-        Approved claims will be credited directly through GIRO bank account provided by the business entity.
-
-        For manufacturing companies, approved claims will be credited through GIRO bank account provided by the business entity.
-
-        <u>For Construction Companies</u><br>
-        Claims will be submitted through <a title="" href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a><br>
 
     - title: Can I deploy equipment to a residential address?
       content: |
