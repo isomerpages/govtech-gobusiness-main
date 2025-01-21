@@ -47,9 +47,7 @@
 - title: Enterprise Singapore
   description: Call Centre - Rubber
   tel: +65 6898 1800
-  url: go.gov.sg/askenterprisesg
-  url-new-tab: true
-  protocol: https
+  email: indriyanti_ismail@enterprisesg.gov.sg, vivian_sia@enterprisesg.gov.sg
 
 - title: Housing & Development Board (HDB)
   description: For Commercial Properties Inquiry
@@ -192,9 +190,8 @@
 
 - title: Singapore Civil Defence Force (SCDF)
   description: Application for Temporary Change of Use Permit
-  url: www.scdf.gov.sg/home/feedback
-  url-new-tab: true
-  protocol: https
+  tel: +65 6848 1483, +65 6848 1481
+  email: Veerasingam_MUTHUSAMY@scdf.gov.sg, TEO_Mei_Tin@scdf.gov.sg
 
 - title: Singapore Food Agency (SFA)
   description: Contact Centre<br>(including Rice Licence)

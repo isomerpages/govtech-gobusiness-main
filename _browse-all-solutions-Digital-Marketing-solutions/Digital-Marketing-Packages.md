@@ -132,10 +132,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Leading Solution Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201705156N-DM-LtBrw-Dgtl-Mrktng-Pckg-G' target='_blank'>DM LiteBrew Digital Marketing Package</a><br></td>
-<td>Brew Interactive Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201322157W-DM-MdOn-SEO-SEM-SMM-SMA-Dgtl-Mrktng-Boost-Up-v-3-G' target='_blank'>DM MediaOne SEO | SEM | SMM | SMA Digital Marketing Boost Up Version 3</a><br></td>
 <td>MediaOne Business Group Pte Ltd</td>
 </tr>

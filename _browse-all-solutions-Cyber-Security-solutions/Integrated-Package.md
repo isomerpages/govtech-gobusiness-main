@@ -23,10 +23,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td><a href='/productivity-solutions-grant/solutionrepo/201309957M-Mcrosoft-Cybrscurty-Pckg-G' target='_blank'>Microsoft Cybersecurity Package</a><br></td>
 <td>Rah Tech Pte. Ltd.</td>
 </tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200823571E-Mcrosoft-Cybrscurty-SLN-G' target='_blank'>Microsoft Cybersecurity Solution</a><br></td>
-<td>VGC Technology Pte Ltd</td>
-</tr>
 </table>
 
 {% include banner-psg-survey.html %}

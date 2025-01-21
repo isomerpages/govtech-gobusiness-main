@@ -96,10 +96,10 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Film (Distribution/Exhibition) Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=15)
 - [Nationwide TV Service Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10064)
 - [Newspaper Permit](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=13)
-- [Niche Television Service Licence](https://dashboard.gobusiness.gov.sg/task-details/nichetv)
+- [Niche Television Service Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10065)
 - [Printing Press Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=14)
 - [Registration Form C for Class Licensable Broadcasting Services](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10066)
-- [Subscription International Television Service Licence](https://dashboard.gobusiness.gov.sg/task-details/subscriptioninternationaltv)
+- [Subscription International Television Service Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=16)
 
 <a name="aviation"></a>
 
@@ -147,7 +147,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 <a name="education"></a>
 
 ## Education
-- [Asatizah Recognition Scheme](https://ilm-tms.muis.gov.sg/)
+- Asatizah Recognition Scheme(https://ilm-tms.muis.gov.sg/)
 - [Certificate of Registration of School](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=37)
 - [Early Childhood Development Centre Licence](https://dashboard.gobusiness.gov.sg/task-details/706f7bbc-5f8c-46d6-b908-65b30b831a87)
 - [EduTrust Certification Scheme](https://dashboard.gobusiness.gov.sg/task-details/edutrust)
@@ -178,7 +178,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Security Clearance for Special Worker (Add New Employee)](https://dashboard.gobusiness.gov.sg/task-details/49df4e39-3fbd-4f74-b008-88448443e22e)
 - [Termination of Security Clearance for Special Worker (Remove Existing Employee)](https://dashboard.gobusiness.gov.sg/task-details/925dd652-6961-4503-b78c-da19799f07b1)
 
-<a name="financial-services"></a>
+<a name="financial-service"></a>
 
 ## Financial Services
 - [Application for Approved MAT Insurers](https://www.mas.gov.sg/regulation/Insurance/Approved-MAT-Insurer-Apply-for-Approval)
@@ -232,7 +232,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Free Sale Certificate (Food)](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301070000166)
 
 
-- [Halal Certification](https://dashboard.gobusiness.gov.sg/task-details/new-halal-certification)
+- [Halal Certification](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=239)
 - [Health Certificate for Export of Live Foodfish for Breeding](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201212070000110)
 - [Licence for Import/Export/Transhipment of Meat and Fish Products](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000176)
 - [Licence for Import/Transhipment of Fresh Fruits and Vegetables](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000175)
@@ -283,16 +283,14 @@ Select an industry to see a list of relevant licences here. You can also browse 
 ## Land Transport Infrastructure
 - [Application for Change of Use and Parking Layout to Existing Developments](https://www.lta.gov.sg/content/ltagov/en/industry_innovations/industry_matters/development_construction_resources/vehicle_parking/requirements_for_vehicle_parking_proposals.html)
 - [Building Works & Restricted Activities in Railway Protection Zone](https://www.lta.gov.sg/content/dam/ltagov/industry_innovations/industry_matters/development_construction_resources/Building_Works_Restricted_Activities_in_Railway_Protection_Zone/Codes_of_Practice_Standards_Specifications_Guides_Forms/Guide_to_carrying_out_restricted_activities_within_railway_protection_and_safety_zones.pdf)
-- [Bus Attendant Vocational Licence (BAVL)](https://dashboard.gobusiness.gov.sg/task-details/bavl)
-- [Bus Driver's Vocational Licence (BDVL)](https://dashboard.gobusiness.gov.sg/task-details/bdvl)
+- [Bus Driver's Vocational Licence (BDVL) / Bus Attendant Vocational Licence (BAVL)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=103)
 - [Class 2 Bus Service Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=104)
 - [Display of Vertical Banners on Public Street Lamp Posts](https://www.lta.gov.sg/content/dam/ltagov/industry_innovations/industry_matters/development_construction_resources/Street_Work_Proposals/PDF/Submission_Guide_and_Technical_Requirements_15122022.pdf)
 - [Notification of Road Closure](https://prompt.lta.gov.sg/WebUIPWAS/Login.aspx)
-- [Omnibus Driver's Vocational Licence](https://dashboard.gobusiness.gov.sg/task-details/odvl)
+- [Omnibus Driver's Vocational Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=100)
 - [Permit for Vehicle Movement](https://prompt.lta.gov.sg/WebUIPWAS/Login.aspx)
 - [Permit to Work on Public Streets](https://prompt.lta.gov.sg/WebUIPWAS/Home/FaqInfo?faqType=Works)
-- [Private Hire Car Driver's Vocational Licence (PDVL)](https://dashboard.gobusiness.gov.sg/task-details/pdvl)
-- [Taxi Driver's Vocational Licence (TDVL)](https://dashboard.gobusiness.gov.sg/task-details/tdvl)
+- [Taxi Driver's Vocational Licence (TDVL) / Private Hire Car Driver's Vocational Licence (PDVL)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=101)
 - [Traffic Police Road Closure Permit](https://dashboard.gobusiness.gov.sg/task-details/roadclosurepermit)
 
 <a name="manufacturing-and-industrial-services"></a>
@@ -389,9 +387,9 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Enhanced Simplified Equipment Registration (ESER)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10077)
 - [Exhibition of Telecommunication Equipment (with Frequency)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10070)
 - [Exhibition of Telecommunication Equipment (without Frequency)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10069)
-- [Experimental Station Licence](https://dashboard.gobusiness.gov.sg/task-details/experimentalstation)
+- [Experimental Station Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=27)
 - [Facilities-based Operations Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10020)
-- [Fixed Wireless Network](https://dashboard.gobusiness.gov.sg/task-details/fixedwirelessnetwork)
+- [Fixed Wireless Network](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10059)
 - [General Equipment Registration (GER)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10080)
 - [General Equipment Registration by Certification Bodies (GER-CB)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10081)
 - [General Operator's Certificate of Competency](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10074)
@@ -405,8 +403,8 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Registration Form C for Class Licensable Broadcasting Services](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10066)
 - [Restricted Operator's Certificate of Competency](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10075)
 - [Satellite Communication Station Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=33)
-- [Services-Based Operations (Class) Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=29)
-- [Services-Based Operator (Individual) Licence](https://dashboard.gobusiness.gov.sg/task-details/sboclass)
+- [Services-Based Operator (Class) Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=29)
+- [Services-Based Operator (Individual) Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=30)
 - [Ship Station Licence](https://dashboard.gobusiness.gov.sg/task-details/shipstation)
 - [Simplified Equipment Registration (SER)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10078)
 - [Special Purpose Station](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10016)
@@ -419,7 +417,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Telecommunication Wiring Installer's Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10018)
 - [Temporary Use of Radio Frequency](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10073)
 - [TV Receive-Only System Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=9)
-- [Wide-Area Private Network Licence](https://dashboard.gobusiness.gov.sg/task-details/wideareaprivatenetwork)
+- [Wide-Area Private Network Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=34)
 
 <a name="tourism"></a>
 

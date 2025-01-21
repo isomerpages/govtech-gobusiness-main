@@ -44,10 +44,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Staffany Private Limited</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/51322500E-Tm-Accss-ESchdulng-Systm-v-18-G' target='_blank'>Time Access E-Scheduling System Version 1.8</a><br></td>
-<td>TIME ACCESS INTERNATIONAL</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200818854Z-WhyzHR-Schdulng-v-12-G' target='_blank'>WhyzeHR eScheduling Version 12</a><br></td>
 <td>Whyze Solutions Pte Ltd</td>
 </tr>

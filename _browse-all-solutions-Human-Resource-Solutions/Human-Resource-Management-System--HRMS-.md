@@ -88,10 +88,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Payboy Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201324947N-QuckHR-G' target='_blank'>QuickHR</a><br></td>
-<td>Enable Business Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200604587R-SMARTHRMS-v-1-G' target='_blank'>SMARTHRMS Version 1</a><br></td>
 <td>AVELOGIC PTE LTD</td>
 </tr>
