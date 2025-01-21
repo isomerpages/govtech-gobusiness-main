@@ -96,7 +96,19 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Rockbell International Software Pte. Ltd.</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200507412D-Sg-300-G' target='_blank'>Sage 300</a><br></td>
+<td>Seg IT Services Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200507412D-Sg-300-G' target='_blank'>Sage 300</a><br></td>
+<td>Flex-Solver Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/198000012M-Sg-300-Advnc-Edton-G' target='_blank'>Sage 300 Advance Edition</a><br></td>
+<td>The World Management Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/198000012M-SAP-BUSINESS-ONE-G' target='_blank'>SAP BUSINESS ONE</a><br></td>
 <td>The World Management Pte Ltd</td>
 </tr>
 <tr>
