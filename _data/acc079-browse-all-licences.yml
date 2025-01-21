@@ -504,20 +504,18 @@
   data:
     - title: Housing & Development Board (HDB)
       content: |
-        **Application for Changes (HDB Commercial Properties)**
+        **Apply to Rent Out or Change Tenancy of HDB Commercial Properties**
 
         <p>HDB Commercial Tenants may apply for change in trade/partner(s)/business mode, transfer or renting out their properties. HDB Commercial Owners may apply for renting out their living quarters.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=7" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Housing-&-Development-Board-(HDB)/Application-for-Changes-(HDB-Commercial-Properties)" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Housing-&-Development-Board-(HDB)/Application-for-Changes-(HDB-Commercial-Properties)">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/hdbcot" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Housing-&-Development-Board-(HDB)/Apply-to-Rent-Out-or-Change-Tenancy-of-HDB-Commercial-Properties">View Licence Details</a>
 
         -----
-        **Application for Resale/Transfer of HDB Commercial Properties**
+        **Apply to Transfer Ownership or Sell HDB Commercial Properties**
 
-        HDB commercial premises can now lodge / or apply for their resale / transfer depending on the nature of each request.
+        <p>HDB commercial premises can now lodge / or apply for their resale / transfer depending on the nature of each request.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Housing-&-Development-Board-(HDB)/Application-for-Resale-Transfer-of-HDB-Commercial-Properties" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Housing-&-Development-Board-(HDB)/Application-for-Resale-Transfer-of-HDB-Commercial-Properties">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/hdbrt" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Housing-&-Development-Board-(HDB)/Apply-to-Transfer-Ownership-or-Sell-HDB-Commercial-Properties">View Licence Details</a>
 
         -----
         **Change of Company's Name for HDB Commercial Tenants**
