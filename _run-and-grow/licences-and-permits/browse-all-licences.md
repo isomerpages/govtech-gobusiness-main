@@ -109,11 +109,11 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Aircraft Maintenance Engineer](https://www.caas.gov.sg/personnel-licences-training/aircraft-maintenance-engineer)
 - [Aircraft Maintenance Organisation](https://www.caas.gov.sg/operations-safety/aircraft/maintenance-repair-overhaul)
 - [Aircraft Station Licence](https://dashboard.gobusiness.gov.sg/task-details/aircraftstation")
-- [Clearance for Aerial Photography/Videography](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=288)
-- [Clearance for Erection of Cranes and Tall Construction Machinery](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=289)
-- [Clearance for Ship Crossing](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=286)
+- [Clearance for Aerial Photography/Videography](https://skysafe.caas.gov.sg/#/home)
+- [Clearance for Erection of Cranes and Tall Construction Machinery](https://skysafe.caas.gov.sg/#/home)
+- [Clearance for Ship Crossing](https://skysafe.caas.gov.sg/#/home)
 - [Flight Crew Licence](https://www.caas.gov.sg/personnel-licences-training/flight-crew)
-- [Permit for Aerial Activities](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=287)
+- [Permit for Aerial Activities](https://skysafe.caas.gov.sg/#/home)
 - [Permit to fly](https://www.caas.gov.sg/operations-safety/aircraft/permit-to-fly)
 - [Permits for Carriage of Dangerous Goods](https://www.caas.gov.sg/operations-safety/carriage-of-dangerous-goods/)
 
@@ -362,8 +362,8 @@ Select an industry to see a list of relevant licences here. You can also browse 
 <a name="real-estate-and-property"></a>
 
 ## Real Estate & Property
-- [Application for Changes (HDB Commercial Properties)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=7)
-- [Application for Resale/Transfer of HDB Commercial Properties](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10)
+- [Apply to Rent Out or Change Tenancy of HDB Commercial Properties](https://dashboard.gobusiness.gov.sg/task-details/hdbcot)
+- [Apply to Transfer Ownership or Sell HDB Commercial Properties](https://dashboard.gobusiness.gov.sg/task-details/hdbrt)
 - [Application of Registering Property](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=277)
 - [Appraiser's Licence (Lands and Buildings)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=230)
 - [Change of Company's Name for HDB Commercial Tenants](https://ilinked.hdb.gov.sg/retailerlink/change-company-name)
