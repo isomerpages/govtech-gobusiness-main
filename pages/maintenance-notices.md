@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f34fc9ce-2c74-425f-9a3f-7e3ee5095a05)---
+---
 title: 'GoBusiness Maintenance Notices'
 permalink: /maintenance-notices/
 ---
