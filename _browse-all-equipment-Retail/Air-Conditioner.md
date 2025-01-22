@@ -7,9 +7,15 @@ permalink: /browse-all-equipment-Retail/Air-Conditioner
 
 ### Technical Requirements
 
-- 5-ticks for multi/single split
+- Household refrigerator: Minimum 3- ticks
+- Commercial refrigerator: Invertor technology
 
-- Minimum 3-ticks for 3-phase variable refrigerant flow (VRF) models 
+Note: From 1st April 2025, MEPS/MELS will be implemented for commercial storage refrigerators.
+
+The technical criteria will be updated to:
+- Household refrigerator: Minimum 3- ticks
+- Regulated commercial storage refrigerators: Minimum 4-ticks, and
+- All other commercial refrigerators: inverter technology
 
 ### Mode and Schedule of Payment 
 

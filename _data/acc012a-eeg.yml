@@ -19,12 +19,14 @@
         A company that meets all the following criteria can apply for the EEG (Base):
         - Business entity registered and operating in Singapore in the following sectors:
           - <b>Construction</b> companies classified under <b>SSIC 41 to 43</b>
-          - <b>Manufacturing</b> companies that are classified under SSIC 10 to 32 (including Food Manufacturing)
+          - <b>Manufacturing</b> companies that are classified under <b>SSIC 10 to 32</b> (including Food Manufacturing)
           - <b>Maritime</b> companies which include:
             - <b>Harbourcraft</b> companies owning/operating harbourcraft <b>licensed by MPA</b>
             - <b>Port</b> companies classified under <b>SSIC 23940, 24109, 49231, 50021, 50023, 52101, 52221, 52222, 52224, 52243, 52292</b>
           - <b>Retail</b> companies classified under <b>SSIC 47</b>
         <br><br>
+        
+        - Business entity registered and operating in Singapore who is a user of commercial data centres in Singapore
         - Minimum of 30% local shareholding<sup>4</sup>,
         - Employs at least one local employee at the firm-level
         - Group Annual Sales Turnover no more than S$500 million<sup>5</sup>
@@ -69,6 +71,8 @@
         ii. Obtain quotations from the vendor.<br>
         iii. Submit an application on the BGP. Companies will need to have a CorpPass account to transact on the BGP.<br>
 
+        Companies should not have made payment, and/or have any form of deposits prior to application.
+
         Companies should refer to their primary SSIC code to determine the appropriate sector and agency to apply to.
 
     - title: How to claim for the EEG (Base)? 
@@ -86,10 +90,6 @@
             - Serial number of equipment (if applicable)
 
         Disbursements can only be made after the claims have been approved.
-
-        Approved claims will be credited directly through GIRO bank account provided by the business entity.  
-
-        For manufacturing companies, approved claims will be credited through GIRO bank account provided by the business entity.
 
     - title: Can I deploy equipment to a residential address?
       content: |
@@ -121,15 +121,15 @@
         
         You may reach out to the following agencies for sector specific queries:
 
-        - Food Services and Retail companies, may contact [Enterprise Singapore](https://go.gov.sg/askenterprisesg){:target="_blank"}{:rel="noopener"} or [contact Enterprise Singapore](){:target="_blank"}{:rel="noopener"} for more information.
+        - <b>Food Services</b> and <b>Retail companies</b>, may contact <b>[Enterprise Singapore](https://go.gov.sg/askenterprisesg){:target="_blank"}{:rel="noopener"} or [contact Enterprise Singapore](){:target="_blank"}{:rel="noopener"}</b>.
 
-        - Manufacturing companies, may visit <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/energy-efficiency-grant" target="_blank" rel="noopener">NEA's webpage</a> or contact <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a> for more information.
+        - <b>Manufacturing</b> companies, may visit <b><a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/energy-efficiency-grant" target="_blank" rel="noopener">NEA's webpage</a></b> or contact </b><a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a></b>.
 
-        - Construction companies, may contact BCA at <a title="" href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a> for more information.
+        - <b>Construction</b> companies, may contact </b>BCA</b> at </b><a title="" href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a></b>.
 
-        - Maritime companies, may contact MPA at <a title="" href="mailto:MPA_EEG@mpa.gov.sg" target="_blank" rel="noopener">MPA_EEG@mpa.gov.sg</a>
+        - <b>Maritime</b> companies, may contact <b>MPA</b> at <b><a title="" href="mailto:MPA_EEG@mpa.gov.sg" target="_blank" rel="noopener">MPA_EEG@mpa.gov.sg</a></b>
 
-        - Data Centre companies, may contact IMDA at <a title="" href="IT_Energy_Efficiency@imda.gov.sg" target="_blank" rel="noopener">IT_Energy_Efficiency@imda.gov.sg</a>
+        - Users of data centres may contact <b>IMDA</b> at <b><a title="" href="IT_Energy_Efficiency@imda.gov.sg" target="_blank" rel="noopener">IT_Energy_Efficiency@imda.gov.sg</a></b>
 
     - title: How can I enquire for CorpPass assistance?
       content: |
