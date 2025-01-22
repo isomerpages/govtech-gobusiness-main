@@ -44,10 +44,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Cartrack Technologies South East Asia Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201925557G-MjuFlt-MGT-Systm-G' target='_blank'>MajuFleet Management System</a><br></td>
-<td>MAJUTECH PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201316550G-SKYFY-VTS-FLEET-MANAGEMENT-SYSTEM-G' target='_blank'>SKYFY VTS FLEET MANAGEMENT SYSTEM</a><br></td>
 <td>Skyfy Technology Pte Ltd</td>
 </tr>
