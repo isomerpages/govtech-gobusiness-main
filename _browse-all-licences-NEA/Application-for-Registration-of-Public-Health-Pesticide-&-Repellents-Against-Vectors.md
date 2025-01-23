@@ -14,5 +14,5 @@ National Environment Agency (NEA)
 
 <H3>Application Details</H3>
 
-<p>All Public Health Pesticide/Repellent Products intended for use against the five vectors (namely mosquitos, flies, cockroaches, rats and rat fleas) have to be registered prior to any sale, supply or advertising in Singapore.</p>
+<p>Under the Control of Vectors and Pesticides Act 1998, all Public Health Pesticide/Repellent Products intended for use against the five vectors (namely mosquitos, flies, cockroaches, rats and rat fleas) have to be registered prior to any sale, supply or advertising in Singapore.</p>
 
