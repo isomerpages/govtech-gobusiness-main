@@ -12,7 +12,7 @@ Housing & Development Board (HDB)
 
 <H3>Application Details</H3>
 
-"<p>HDB commercial premises can now lodge / or apply for their resale / transfer depending on the nature of each request.</p>
+<p>HDB commercial premises can now lodge / or apply for their resale / transfer depending on the nature of each request.</p>
 <h3><strong>FAQ</strong></h3>
 <ol>
 <li><strong>Do I need to apply for this application?<br></strong>Yes, you need to obtain HDB&rsquo;s written consent for the Resale / Transfer of Commercial Properties if you own an HDB shop and wish to dispose it in the open market or would like to transfer your share of the property to another person(s).<br>Online application must be submitted by the transferors' solicitors who have to ensure that all particulars given are true and correct with the authorisation of the transferors and transferees. The transferors and transferees must also jointly and severally agree to the Terms and Conditions for Resale / Transfer of an HDB shop. Should the parties agree upon it, the transferees&rsquo; solicitor may also submit the online application and the necessary authorisation.</li>
@@ -29,7 +29,7 @@ Housing & Development Board (HDB)
 <li><strong>When do I submit my Transfer Instrument?</strong><br>You are required to submit the duly executed and stamped Transfer Instrument to HDB for updating of our records within 2 weeks after completion. Pending the submission of the Transfer, HDB&rsquo;s records will continue to reflect the ownership of the property under the Transferor. In that instance, HDB will not be responsible for any late fees / penalties etc imposed on payments related to the premises arising from a delay in the updating of the ownership records.</li>
 <li><strong>I am the purchaser and I am taking over the tenanted premises and will continue to rent out to the current tenantwith a trade that involves material change of use. If I select ""Waiver of inspection"" what fee do I pay?</strong><br>The fee payable is $500/- (excluding GST). Approval for Resale / Transfer will be granted after the assessment of whether the proposed use will cause any disamenities to the surrounding (eg. Family Restaurant, living quarters change to non-residential use).</li>
 <li><strong>If I submitted an application wrongly or the application is subsequently aborted, can I request for a refund of the admin fee?</strong><br>No, all admin fees paid are not refundable.</li>
-</ol>"
+</ol>
 
 <H3>Documents Needed</H3>
 
