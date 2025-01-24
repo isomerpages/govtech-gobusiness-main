@@ -14,9 +14,11 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 
 
 
+| 24 Jan, 12pm - 5 Feb, 2pm | All transactions for these IMDA licences will be unavailable from Friday, 24th January 2025, 12PM to Wednesday, 5th February 2025, 2pm due to scheduled maintenance.<br>1) Newspaper Permit<br>2) Printing Press Licence |  
 | 24 Jan, 6pm - 11:59pm | **Applications for Certificate of Exemption, Moneylender's Licence, Pawnbroker's Licence and Moneylender Test** are scheduled for maintenance and not available on every Friday. |    
 | 24 Jan, 9:30pm - 25 Jan, 4am | **Progressive Wage (PW) Mark Services** will be unavailable during the upcoming scheduled maintenance. |      
 | 24 Jan, 10pm - 24 Jan Jan, 7am<br>24 Jan, 8pm - 25 Jan, 8am<br>31 Jan, 10pm - 1 Feb, 6am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |   
+| 26 Jan, 12am - 8am | Application, amendment, renewal & cancellation of Infocomm Media Development Authority (IMDA) licences will be unavailable during the upcoming scheduled maintenance. |   
 | 29 Jan, 8pm - 11pm | Application, amendment, renewal & cancellation of **Infocomm Media Development Authority (IMDA) licences** will be unavailable during the upcoming scheduled maintenance. |   
 | 29 Jan, 6pm - 11:59pm | Application, amendment, renewal & cancellation of **National Environmental Agency (NEA) licences** will be unavailable during the upcoming scheduled maintenance. |       
 | 29 Jan, 7:15pm - 9:15pm | Application, amendment, renewal & cancellation of **Singapore Police Force (SPF) licences** will be unavailable during the upcoming scheduled maintenance. |      
