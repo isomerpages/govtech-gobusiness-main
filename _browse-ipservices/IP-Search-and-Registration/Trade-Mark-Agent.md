@@ -24,7 +24,7 @@ The scope of protection provided by a trade mark relies heavily on how the mark 
 ---
 
 ### Connect with relevant service providers for trade mark agent
-**76 service providers listed.**
+**77 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -1198,6 +1198,21 @@ Adsan Law LLC, an established law corporation, provides a comprehensive range of
 </ul>
 
 <a class='btn' href='https://form.gov.sg/67048a6d43898c3913271472' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/adsan-law-llc/){:target='_blank'}
+
+---
+
+#### ATOZ SG Consulting Pte Ltd
+
+Delivering expert corporate, accounting, and tax solutions for business growth, and global success.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,450</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/677f408d24ce7dc56581a9d2' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/atoz-sg-consulting-pte-ltd/){:target='_blank'}
 
 ---
 
