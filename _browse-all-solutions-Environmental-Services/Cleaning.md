@@ -92,10 +92,6 @@ This solution is supported by National Environmental Agency (NEA).
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Tlscopc-systm-for-hgh-clng-clnng-Envronmntl-Srvcs' target='_blank'>Telescopic system for high ceiling cleaning</a><br></td>
-<td></td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/eqt-Wlk-bhnd-clnrscrubbr-Envronmntl-Srvcs' target='_blank'>Walk behind cleaner/scrubber</a><br></td>
 <td></td>
 </tr>

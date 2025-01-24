@@ -9,9 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Autonomous-Clnng-Troll
 
 **Description**
 
-Battery operated trolley comprising sensors that enable the trolley to track and follow the user.
-
-There is an equipment cap. Refer to BGP for details.
+Battery operated trolley comprising sensors that enable the trolley to track and follow the user.
 
 ## Solution Packages Option(s)
 
@@ -24,7 +22,7 @@ There is an equipment cap. Refer to BGP for details.
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autonomous Cleaning Trolley</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>N.A</td>
+<td style='padding: 10px;'>Grant cap: Up to S$900 per unit</td>
 </tr>
 </table>
 

@@ -36,20 +36,16 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Ascent Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201022639R-Automotv-Trckng-Systm-v-1-G' target='_blank'>Automotive Tracking System Version 1</a><br></td>
-<td>TRACK 365 PTE. LTD.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201206280Z-Crtrck-Flt-MGT-G' target='_blank'>Cartrack Fleet Management</a><br></td>
 <td>Cartrack Technologies South East Asia Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201316550G-SKYFY-VTS-FLEET-MANAGEMENT-SYSTEM-G' target='_blank'>SKYFY VTS FLEET MANAGEMENT SYSTEM</a><br></td>
-<td>Skyfy Technology Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201136382G-Trck-Vhcl-Flt-Trckng-G' target='_blank'>iTrack Vehicle Fleet Tracking</a><br></td>
+<td>PIVOTAL PRIVATE LIMITED</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200101511N-V3NtyFMS-Flt-MGT-Systm-v-30-G' target='_blank'>V3Nity-FMS Fleet Management System Version 3.0</a><br></td>
-<td>V3 Smart Technologies Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201316550G-SKYFY-VTS-FLEET-MANAGEMENT-SYSTEM-G' target='_blank'>SKYFY VTS FLEET MANAGEMENT SYSTEM</a><br></td>
+<td>Skyfy Technology Pte Ltd</td>
 </tr>
 </table>
 

@@ -11,8 +11,6 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Industrl-Stm-Clnr-Envr
 
 Generates high steam pressures for removal of dirt and grease, with a steam pressure of > 1bar/120 degree Celsius and tank capacity of > 1L.
 
-There is an equipment cap. Refer to BGP for details.
-
 ## Solution Packages Option(s)
 
 <table>
@@ -24,7 +22,7 @@ There is an equipment cap. Refer to BGP for details.
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Industrial Steam Cleaner</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>N.A</td>
+<td style='padding: 10px;'>Grant cap: Up to S$2,900 per unit</td>
 </tr>
 </table>
 

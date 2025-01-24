@@ -96,10 +96,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Beaufort Tax Consultants Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201525687E-CFOSg-QuckBooks-Cloud-ACC-G' target='_blank'>CFOSg QuickBooks Cloud Accounting</a><br></td>
-<td>Cloud Accounting & Consultancy Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202001560N-CR-x-Xro-Cloud-ACC-G' target='_blank'>CR x Xero Cloud Accounting</a><br></td>
 <td>CR CONSULTANCY PTE. LTD.</td>
 </tr>
@@ -140,10 +136,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>PROFECTANT CORPORATE SERVICES PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201821187W-Quckbooks-Onln-ACC-Softwr-G' target='_blank'>Quickbooks Online Accounting Software</a><br></td>
-<td>Zenit Accountancy Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202138250K-SQL-Account-v-5-G' target='_blank'>SQL Account Version 5</a><br></td>
 <td>Apscom Solutions Pte. Ltd.</td>
 </tr>
@@ -170,10 +162,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/T18LL0812H-Xro-G' target='_blank'>Xero</a><br></td>
 <td>Clooud Consulting LLP</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201134830C-XERO-ACC-Softwr-G' target='_blank'>XERO Accounting Software</a><br></td>
-<td>TIMCOLE PTE LTD</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201300570R-Xro-ACC-Systm-G' target='_blank'>Xero Accounting System</a><br></td>

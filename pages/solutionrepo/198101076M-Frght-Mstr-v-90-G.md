@@ -1,9 +1,9 @@
 ---
-title: 'Freight Master Version 8.2'
-permalink: /productivity-solutions-grant/solutionrepo/198101076M-Frght-Mstr-v-82-G
+title: 'Freight Master Version 9.0'
+permalink: /productivity-solutions-grant/solutionrepo/198101076M-Frght-Mstr-v-90-G
 ---
 
-## Freight Master Version 8.2
+## Freight Master Version 9.0
 
 ## Overview
 
@@ -24,37 +24,37 @@ The Freight Master software is a suite of integrated and comprehensive software 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 4 User Package</td>
-<td style='padding: 10px;'>$14,800.00</td>
-<td style='padding: 10px;'>$14,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Innosys_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$16,480.00</td>
+<td style='padding: 10px;'>$16,480.00</td>
+<td style='padding: 10px;'><a href='/psg/198101076M_20240199_30012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 7 User Package</td>
-<td style='padding: 10px;'>$20,440.00</td>
-<td style='padding: 10px;'>$20,440.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Innosys_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 8 User Package</td>
+<td style='padding: 10px;'>$21,580.00</td>
+<td style='padding: 10px;'>$21,580.00</td>
+<td style='padding: 10px;'><a href='/psg/198101076M_20240199_30012025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 12 User Package</td>
-<td style='padding: 10px;'>$28,000.00</td>
-<td style='padding: 10px;'>$28,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Innosys_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$27,900.00</td>
+<td style='padding: 10px;'>$27,900.00</td>
+<td style='padding: 10px;'><a href='/psg/198101076M_20240199_30012025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 18 User Package</td>
-<td style='padding: 10px;'>$36,240.00</td>
-<td style='padding: 10px;'>$36,240.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Innosys_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 16 User Package</td>
+<td style='padding: 10px;'>$33,080.00</td>
+<td style='padding: 10px;'>$33,080.00</td>
+<td style='padding: 10px;'><a href='/psg/198101076M_20240199_30012025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 24 User Package</td>
-<td style='padding: 10px;'>$40,800.00</td>
-<td style='padding: 10px;'>$37,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Innosys_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 22 User Package</td>
+<td style='padding: 10px;'>$41,100.00</td>
+<td style='padding: 10px;'>$39,600.00</td>
+<td style='padding: 10px;'><a href='/psg/198101076M_20240199_30012025_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ The Freight Master software is a suite of integrated and comprehensive software 
 
 ## Vendor Information
 
- Company Name:Innosys Pte Ltd<br>Web URL: www.innosys.com.sg <br>Contact Hotline: +6567443002 <br>Contact Email: pflam@innosys.com.sg <br>
+ Company Name: Innosys Pte Ltd<br>Web URL: www.innosys.com.sg <br>Contact Hotline: +6567443002 <br>Contact Email: pflam@innosys.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

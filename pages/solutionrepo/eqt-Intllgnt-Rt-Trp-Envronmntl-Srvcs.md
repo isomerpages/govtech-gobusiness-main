@@ -9,9 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Intllgnt-Rt-Trp-Envron
 
 **Description**
 
-A device to sense, detect and/or trap/kill rats. It can include alerting and notification functions.
-
-There is an equipment cap. Refer to BGP for details.
+A device to sense, detect and/or trap/kill rats. It can include alerting and notification functions.
 
 ## Solution Packages Option(s)
 
@@ -24,7 +22,7 @@ There is an equipment cap. Refer to BGP for details.
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Intelligent Rat Trap</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>N.A</td>
+<td style='padding: 10px;'>Grant cap: Up to S$100 per unit</td>
 </tr>
 </table>
 

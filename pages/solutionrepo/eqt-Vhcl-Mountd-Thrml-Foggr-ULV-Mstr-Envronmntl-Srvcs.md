@@ -9,9 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Vhcl-Mountd-Thrml-Fogg
 
 **Description**
 
-A device attached to a vehicle, that disperses mist or fog for applications such as large-scale pest control operations. (Solution tank capacity 20L and above)
-
-There is an equipment cap. Refer to BGP for details.
+A device attached to a vehicle, that disperses mist or fog for applications such as large-scale pest control operations. (Solution tank capacity 20L and above)
 
 ## Solution Packages Option(s)
 
@@ -24,7 +22,7 @@ There is an equipment cap. Refer to BGP for details.
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vehicle Mounted Thermal Fogger/ ULV / Mister</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>N.A</td>
+<td style='padding: 10px;'>Grant cap: Up to S$16,600 per unit</td>
 </tr>
 </table>
 

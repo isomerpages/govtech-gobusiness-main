@@ -36,7 +36,7 @@ CET Global Pte Ltd provides Insights, Advisory and Actions for People, Process a
 
 ## Vendor Information
 
- Company Name: CET Global Pte Ltd<br>Web URL: www.cetglobal.com.sg<br>Contact Name: Mr Brandon Koh<br>Contact Email: brandon.koh@cetglobal.com.sg<br>Contact Number: 9112 9157
+ Company Name: CET Global Pte Ltd<br>Web URL: www.cetglobal.com.sg<br>Contact Name: Ms Ruby Oh<br>Contact Email: ruby.oh@cetglobal.com.sg<br>Contact Number: +65 8806 7431
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
