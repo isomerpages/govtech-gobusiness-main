@@ -7,12 +7,15 @@ permalink: /browse-all-equipment-Retail/Refrigerator
 
 ### Technical Requirements
 
-- Household refrigerator: Minimum 3-ticks
+- Household refrigerator: Minimum 3- ticks
+- Commercial refrigerator: Invertor technology
 
-- Commercial refrigerator: Inverter technology
+Note: From 1st April 2025, MEPS/MELS will be implemented for commercial storage refrigerators.
 
-Note: From 1st April 2025,  MEPS/MEPS to be implemented for commercial storage refrigerators. The technical criteria will be reviewed in 4Q2024.
-
+The technical criteria will be updated to:
+- Household refrigerator: Minimum 3- ticks
+- Regulated commercial storage refrigerators: Minimum 4-ticks, and
+- All other commercial refrigerators: inverter technology
 
 ### Mode and Schedule of Payment 
 

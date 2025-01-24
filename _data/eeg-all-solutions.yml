@@ -1,7 +1,7 @@
 - accordion:
   letter: a
   data:
-    - title: Construction
+    - title: Construction Sector
       content: |
         - <a href='/browse-all-equipment-Construction/Battery-Energy-Storage-System'>Battery Energy Storage System</a>
         - <a href='/browse-all-equipment-Construction/Electric-Crawler-Crane'>Electric Crawler Crane</a>
@@ -14,7 +14,7 @@
         - <a href='/browse-all-equipment-Data-Centre/Data-Centre-Storage'>Data Centre Storage</a>
         - <a href='/browse-all-equipment-Data-Centre/Enterprise-Servers'>Enterprise Servers</a>
 
-    - title: Food Services
+    - title: Food Services Sector
       content: |
         - <a href='/browse-all-equipment-Food-Services/Air-Conditioner'>Air-Conditioner</a>
         - <a href='/browse-all-equipment-Food-Services/Clothes-Dryer'>Clothes Dryer</a>
@@ -23,7 +23,17 @@
         - <a href='/browse-all-equipment-Food-Services/Refrigerator'>Refrigerator</a>
         - <a href='/browse-all-equipment-Food-Services/Water-Heater'>Water Heater</a>
 
-    - title: Manufacturing
+    - title: Maritime Sector
+      content: |
+        <u>Habourcraft</u>
+        - <a href='/browse-all-equipment-Maritime/Air-Conditioner'>Air-Conditioner*</a>
+        - <a href='/browse-all-equipment-Maritime/LED-Lighting'>LED Lighting*</a>
+        <p>* installed onboard the harbourcraft</p>
+
+        <u>Port</u>
+        - <a href='/browse-all-equipment-Maritime/Electric-Forklift'>Electric Forklift</a>
+
+    - title: Manufacturing Sector (includes Food Manufacturing)
       content: |
         - <a href='/browse-all-equipment-Manufacturing/Air-Conditioner'>Air-Conditioner</a>
         - <a href='/browse-all-equipment-Manufacturing/Boiler-System'>Boiler System</a>
@@ -35,17 +45,7 @@
         - <a href='/browse-all-equipment-Manufacturing/Refrigerator'>Refrigerator</a>
         - <a href='/browse-all-equipment-Manufacturing/Water-Heater'>Water Heater</a>
 
-    - title: Maritime
-      content: |
-        <u>Habourcraft</u>
-        - <a href='/browse-all-equipment-Maritime/Air-Conditioner'>Air-Conditioner*</a>
-        - <a href='/browse-all-equipment-Maritime/LED-Lighting'>LED Lighting*</a>
-        <p>* installed onboard the harbourcraft</p>
-
-        <u>Port</u>
-        - <a href='/browse-all-equipment-Maritime/Electric-Forklift'>Electric Forklift</a>
-
-    - title: Retail
+    - title: Retail Sector
       content: |
         - <a href='/browse-all-equipment-Retail/Air-Conditioner'>Air-Conditioner</a>
         - <a href='/browse-all-equipment-Retail/Clothes-Dryer'>Clothes Dryer</a>

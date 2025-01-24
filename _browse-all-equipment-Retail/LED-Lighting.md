@@ -8,6 +8,7 @@ permalink: /browse-all-equipment-Retail/LED-Lighting
 ### Technical Requirements
 
 - LED lighting with 2 ticks and above under NEA’s Mandatory Energy Labelling Scheme 
+- LED lighting for non-regulated lightings under NEA’s Mandatory Energy Labelling Scheme with an efficacy of at least 110 lumens/ watt
 
 ### Mode and Schedule of Payment 
 
