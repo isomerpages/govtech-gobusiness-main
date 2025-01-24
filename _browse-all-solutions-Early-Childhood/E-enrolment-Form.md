@@ -8,9 +8,9 @@ permalink: /browse-all-solutions-Early-Childhood/E-enrolment-Form
 
 **Support Level and Conditions**
 
-Up to 50% for SMEs, 30% for non-SMEs
+Up to  for SMEs, N.A. for non-SMEs
 
-This solution is supported by Early Child Development Agency (ECDA).
+This solution is supported by ECDA.
 
 **Recommended courses**
 
@@ -26,14 +26,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <th style='width: auto;'><b>Solutions Name</b></th>
 <th style='width: 30%;'><b>Vendor</b></th>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/T14LL1727F-EForm-HAVSCH-v-41-EC' target='_blank'>E-Form (HAVSchool) Version 4.1</a><br></td>
-<td>HAVENCE PORTAL LLP</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199905781M-Qoqolo-PrSCH-EForm-EC' target='_blank'>Qoqolo Preschool E-Form</a><br></td>
-<td>CommonTown Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201304337W-Td-Smrt-EForm-SLN-EC' target='_blank'>Taidii Smart E-Form Solution</a><br></td>

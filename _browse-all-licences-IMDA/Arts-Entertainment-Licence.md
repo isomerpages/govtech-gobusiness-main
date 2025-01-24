@@ -12,7 +12,7 @@ Infocomm Media Development Authority (IMDA)
 
 <H3>Application Details</H3>
 
-<p>The provision of publicly-accessible Arts entertainment events such as plays, stand-up comedies, dance performances, music performances (such as variety shows and concerts), art exhibitions and literary readings (such as play-readings and poetry-readings), require an Arts Entertainment licence unless <a href="https://iris.imda.gov.sg/application/arts-entertainment-licence#exempted-categories-of-arts-entertainment" target="_blank" rel="noopener">exempted</a>. Find out more <a href="https://iris.imda.gov.sg/application/arts-entertainment-licence#about-arts-entertainment-licensing" target="_blank" rel="noopener">here</a>.</p>
+<p>For carrying out any form of arts entertainment such as plays, stand-up comedies, dance performances, music performances (such as variety shows and concerts), art exhibitions and literary readings (such as play-readings and poetry-readings), unless <a href="https://iris.imda.gov.sg/application/arts-entertainment-licence#exempted-categories-of-arts-entertainment" target="_blank" rel="noopener">exempted</a>. Find out more <a href="https://iris.imda.gov.sg/application/arts-entertainment-licence#about-arts-entertainment-licensing" target="_blank" rel="noopener">here</a>.</p>
 <b>Who can apply</b><br>
 Any individual or Singapore-registered business entity or organisation may apply for an Arts Entertainment Licence.<br>
 As the applicant, you can apply personally, or authorise someone to apply on your behalf.<br><br>
@@ -26,7 +26,7 @@ The applicant and the authorised person (if applicable) must be one of the follo
 If you are applying on behalf of a business entity or organisation:<br>
 <ul>
  <li>You should be an employee, perferably a member of the organisation's management.</li>
- <li>You will need to provide the organisation's Unique Entity Number (UEN), issued by a recognised UEN Issurance Agency (such as the Accounting and Corporate Regulatory Authority (ACRA) or Registry of Societies (ROS)</li>
+<li>You will need to provide the organisation's Unique Entity Number (UEN), issued by a recognised UEN Issuance Agency (such as the <a href="https://www.acra.gov.sg" target="_blank" rel="noopener">Accounting and Corporate Regulatory Authority</a> (ACRA) or <a href="https://www.mha.gov.sg/mha-e-services/ros/registered-societies" target="_blank" rel="noopener">Registry of Societies</a> (ROS)).</li>
 </ul>
 
 <strong>Additional Information</strong>

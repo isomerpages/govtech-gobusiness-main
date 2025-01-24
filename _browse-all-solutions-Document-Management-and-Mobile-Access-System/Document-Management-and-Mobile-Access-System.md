@@ -32,18 +32,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Adept Ventures Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201402351H-Dropbox-Busnss-G' target='_blank'>Dropbox Business</a><br></td>
-<td>WEB IMP PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201539815G-Dropbox-Busnss-Stndrd-for-SMEs-G' target='_blank'>Dropbox Business Standard for SMEs</a><br></td>
-<td>Acc Pro (Singapore) Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201100152G-Evolvcloud-G' target='_blank'>Evolvecloud</a><br></td>
-<td>K&K IT Private Limited</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201410722E-GncDocs-DOC-MGT-Softwr-G' target='_blank'>GenicDocs - Document Management Software</a><br></td>
 <td>Business Thrust Pte Ltd</td>
 </tr>

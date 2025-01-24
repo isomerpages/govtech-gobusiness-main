@@ -20,8 +20,16 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201718433G-AppsPOS-Dgtl-SLN-v-50-FS' target='_blank'>AppsPOS Digital Solution Version 5.0</a><br></td>
+<td>AppsPOS Pte. Ltd.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201628309N-APPZPOS-F&B-Pont-of-Sls-v-11-FS' target='_blank'>APPZPOS F&B Point of Sales Version 1.1</a><br></td>
 <td>APPZGATE SOLUTIONS PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201119932D-Aptsys-Dgtl-Ordrng-SLNs-FS' target='_blank'>Aptsys - Digital Ordering Solutions</a><br></td>
+<td>Aptsys Technology Solutions Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/198901360G-AZ-DIGITAL-CONNECTED-BUSINESS-SUITE-SLN-v-10-FS' target='_blank'>AZ DIGITAL CONNECTED BUSINESS SUITE SOLUTION Version 1.0</a><br></td>
@@ -34,6 +42,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201529028W-EPOS-Intgrtd-Dgtl-SLN-for-F&B-FS' target='_blank'>EPOS Integrated Digital Solution for F&B</a><br></td>
 <td> EPOS Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201501199E-F&B-Connctd-Hub-FS' target='_blank'>F&B Connected Hub</a><br></td>
+<td>Flex-Solver Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201510017H-Gtz-F&B-Omn-Chnnl-SLN-v-3-FS' target='_blank'>Getz F&B Omni Channel Solution Version 3</a><br></td>
@@ -56,12 +68,20 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>Lunchbox Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201220029K-NPOS-FS' target='_blank'>NPOS</a><br></td>
+<td>NSTORY PTE. LTD.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201729553C-WrlyPOS-v-15-FS' target='_blank'>WarelyPOS Version 1.5</a><br></td>
 <td>Plus 65 Marketing Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201814201R-Wcom-ONE-Busnss-Hub-v-11-FS' target='_blank'>Wecome ONE Business Hub Version 1.1</a><br></td>
 <td>WECOME PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201309369Z-Yumston-F&B-MGT-SLNs-v-50-FS' target='_blank'>Yumstone F&B Management Solutions Version 5.0</a><br></td>
+<td>Yumstone Esolutions Pte. Ltd.</td>
 </tr>
 </table>
 

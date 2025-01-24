@@ -28,16 +28,16 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200900723K-Butc-cntrlzd-v-G' target='_blank'>Beautec centralized version</a><br></td>
-<td>Beautec Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200205174N-ButSoft-v-6372-G' target='_blank'>BeauteSoft Version 6.3.7.2</a><br></td>
 <td>Sequoia Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200100911R-Studo-Mngr-v-9-G' target='_blank'>Studio Manager Version 9</a><br></td>
 <td>ARCHER LOGIC (S) PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200809939C-WESS-Wllnss-MGT-Softwr-v-20-G' target='_blank'>WESS - Wellness Management Software Version 2.0</a><br></td>
+<td>Refine Solutions Pte. Ltd.</td>
 </tr>
 </table>
 

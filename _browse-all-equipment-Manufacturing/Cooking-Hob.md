@@ -50,7 +50,6 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - Dambo - H80B-HJ208-A10S
 - Dambo - H80-HJ098-A15S
 - Dambo - HJ018-BZL4T35K+
-- Dambo - HJ-TCJ05C-28
 - Dambo - LDS-DCL600-HJ098-15PS
 - Dambo - LDS-DT300-HJ208-A6PS
 - Dambo - LDS-DTDW-HJ098-A15PS
@@ -114,9 +113,6 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - FBK - FBKCZC-TIC3.5
 - FBK - FBKCZC-TIC5
 - FBK - FBKCZC-TIW
-- FBK - FBKMDC-MLD-TGS30-S
-- FBK - FBKMDC-SD-G30D1-STG-S
-- FBK - FBKMDC-SD-G30DA-STG-S
 - Garland  - Instinct Hob 3.5
 - Garland  - Instinct Hob 5
 - Hatco  - IRNG-PB1-36
@@ -167,6 +163,10 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - KANG JIE - XC300-2
 - KANG JIE - XC400-2
 - Lincat (UK)  - SLI42
+- MANTRU - ZC2-C4030A-W
+- MANTRU - ZC2-C4030A-W2
+- MANTRU - ZC-C4015A-W
+- MANTRU - ZC-C5020A-W
 - Mantru.e  - ZC2-C366A
 - Mantru.e  - ZC2-C366A-Q
 - Mantru.e  - ZC2-C366B-Q
@@ -196,6 +196,12 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - MISTRAL Sia-Huat - (1112-MIC88TSI)
 - NOVA - NIC-3.5T
 - NOVA - NIC-5T
+- NUEVO - BT-700D3
+- NUEVO - BT-D35
+- NUEVO - BT-E27
+- NUEVO - BT-E35
+- NUEVO - EW350C4A-H7
+- NUEVO - EW500S1
 - OZTI  - 7865.N1.80903.IS
 - Penguin - P-AIFC
 - Penguin - P-AIWC
@@ -273,6 +279,10 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - TEKA - IZF 65320 BK MSP
 - TEKA - IZF 68700 BK MST
 - TEKA - IZS 34700 MST
+- Ty - RTCZ-ASF-T50
+- Ty - RTCZ-FSC-P87-2P80
+- Ty - RTCZ-IWF-1810-2PS12
+- Ty - RTCZ-IWF-1PS80
 - Ty Brand  - RTCZ-TIC-B135
 - Ty Brand - RTCZ-FSC-B170-1B12
 - Ty Brand - RTCZ-FSC-B170-1B80

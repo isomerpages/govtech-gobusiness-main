@@ -32,16 +32,20 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>BIPO Service Singapore Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200005018Z-Frontr-HR-HRSS-v-8-G' target='_blank'>Frontier eHR HRSS Version 8</a><br></td>
-<td>Frontier e-HR Pte Ltd </td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200801526G-HR-Admnstrton-nd-Pyroll-Procssng-wth-SS-SLNs-v-2341-G' target='_blank'>HR Administration and Payroll Processing with SaaS Solutions Version 23-4.1</a><br></td>
 <td>MATCH RESOURCES PTE LTD</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201539815G-HRSS-&-Pyroll-Procssng-wth-QuckHR-G' target='_blank'>HRSS & Payroll Processing with QuickHR</a><br></td>
 <td>Acc Pro (Singapore) Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201709373C-Impct-Bst-HR-Shrd-SVC-&-Pyroll-Procssng-G' target='_blank'>Impact Best HR Shared Service & Payroll Processing</a><br></td>
+<td>IMPACT BEST PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201725862C-rcrutSG-HR-Shrd-SVCs-HRSS-G' target='_blank'>recruitSG HR Shared Services (HRSS)</a><br></td>
+<td>HR SG PTE. LTD.</td>
 </tr>
 </table>
 

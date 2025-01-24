@@ -9,7 +9,11 @@ permalink: /browse-all-equipment-Food-Services/Water-Heater
 
 - Heat pump technology
 
-Note: After 1st April 2025, MELS/MEPS for household water heaters to be implemented. The technical criteria will be reviewed in 4Q2024.
+Note: From 1st April 2025, MEPS/MELS will be implemented for household water heaters.
+
+The technical criteria will be updated to:
+- Regulated water heaters: 5-ticks, and
+- All other water heaters: heat pump technology.
 
 ### Mode and Schedule of Payment 
 

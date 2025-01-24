@@ -28,8 +28,16 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201333490K-ABA-Xro-ACC-Softwr-G' target='_blank'>ABA - Xero Accounting Software</a><br></td>
+<td>Abundant Accounting Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200914556R-ABSS-Prmr-G' target='_blank'>ABSS Premier</a><br></td>
 <td>Asian Business Software Solutions Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/53295423L-ABSS-Prmr-G' target='_blank'>ABSS Premier</a><br></td>
+<td>E-Click Solutions</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200804595N-ABSS-Prmr-V303-G' target='_blank'>ABSS Premier V30.3</a><br></td>
@@ -40,20 +48,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Andre Corporate Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202138250K-ABSS-Prmr-v-30-G' target='_blank'>ABSS Premier Version 30</a><br></td>
+<td>Apscom Solutions Pte. Ltd.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201539815G-Acc-Pro-Xro-v-01-G' target='_blank'>Acc Pro : Xero Version 01</a><br></td>
 <td>Acc Pro (Singapore) Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200718058D-Advnt-CST-Xro-Cloud-ACC-G' target='_blank'>Advante Consulting - Xero Cloud Accounting</a><br></td>
-<td>Advante Consulting Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201529234R-AGERE-Xro-Cloud-ACC-Softwr-G' target='_blank'>AGERE - Xero Cloud Accounting Software</a><br></td>
-<td>Agere Accounting & Advisory Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201529234R-AGERE-Xro-Cloud-ACC-Softwr-G' target='_blank'>AGERE - Xero Cloud Accounting Software</a><br></td>
-<td>YYC Corporate Services Pte. Ltd. f.k.a Agere Accounting & Advisory Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201807430D-Aggrgt-Cloud-ACC-Softwr-Xro-G' target='_blank'>Aggregate Cloud Accounting Software (Xero)</a><br></td>
@@ -92,28 +92,32 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Bamboo Sea Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200900564D-BEAUFORTXERO-Dgtl-SLNs-G' target='_blank'>BEAUFORT-XERO Digital Solutions</a><br></td>
+<td>Beaufort Tax Consultants Pte. Ltd.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201525687E-CFOSg-QuckBooks-Cloud-ACC-G' target='_blank'>CFOSg QuickBooks Cloud Accounting</a><br></td>
 <td>Cloud Accounting & Consultancy Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202001560N-CR-x-Xro-Cloud-ACC-G' target='_blank'>CR x Xero Cloud Accounting</a><br></td>
+<td>CR CONSULTANCY PTE. LTD.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201820495R-Dsy-XERO-ACC-Softwr-G' target='_blank'>Daisy XERO Accounting Software</a><br></td>
 <td>Daisy Consultants Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200601747E-EZ-ACC-nd-Invntory-Softwr-G' target='_blank'>EZ Accounting and Inventory Software</a><br></td>
-<td>User Basic Software Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/202115139D-Evrydy-Corport-Xro-Cloud-ACC-Softwr-G' target='_blank'>Everyday Corporate Xero Cloud Accounting Software</a><br></td>
+<td>Everyday Corporate Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200914556R-Fnnco-Cloud-ACC-Softwr-G' target='_blank'>Financio Cloud Accounting Software</a><br></td>
 <td>Asian Business Software Solutions Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200711480W-INFOTECH-Cloud-ACC-Softwr-v-10-G' target='_blank'>INFO-TECH Cloud Accounting Software Version 1.0</a><br></td>
-<td>Info-Tech Systems Integrators Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201539815G-Intut-Quckbooks-Onln-Full-Trnsformton-PKG-G' target='_blank'>Intuit Quickbooks Online Full Transformation Packages</a><br></td>
-<td>Acc Pro (Singapore) Pte. Ltd.</td>
+<td>Acc Pro (Singapore) Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200504354M-MFP-Xro-ACC-Softwr-G' target='_blank'>MFP: Xero Accounting Software</a><br></td>
@@ -124,8 +128,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>METROPOLITAN MANAGEMENT SERVICES PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/T13LL1562D-NMTODOO-G' target='_blank'>NMTODOO</a><br></td>
-<td>Neu Media Technology LLP</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/199204515R-Monyworks-v-9-G' target='_blank'>Moneyworks Version 9</a><br></td>
+<td>Advanced Micro Control Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201222896R-Monyworks-v-9-G' target='_blank'>Moneyworks Version 9</a><br></td>
+<td>Ostendo Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201016773D-Profctnt-Xro-G' target='_blank'>Profectant Xero</a><br></td>
@@ -137,7 +145,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202138250K-SQL-Account-v-5-G' target='_blank'>SQL Account Version 5</a><br></td>
-<td>Apscom Solutions Pte Ltd</td>
+<td>Apscom Solutions Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201809937E-Tsch-Globl-QuckBooks-Onln-G' target='_blank'>Tisch Global - QuickBooks Online</a><br></td>
@@ -148,20 +156,20 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Tisch Global Private Limited</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200311122E-TNB-Intut-Quckbooks-Onln-G' target='_blank'>TNB Intuit Quickbooks Online</a><br></td>
-<td>TNB GLOBAL OUTSOURCE PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201529809Z-TRISERV-Xro-Xro-ACC-Softwr-G' target='_blank'>TRISERV: Xero - Xero Accounting Software</a><br></td>
 <td>TRISERV PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201916672K-Xro-G' target='_blank'>Xero</a><br></td>
-<td>KloudEx Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201200009H-XERO-G' target='_blank'>XERO</a><br></td>
 <td>Accounting Consultancy Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201427894D-XERO-G' target='_blank'>XERO</a><br></td>
+<td>ACE BUSINESS PRIVATE LIMITED</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/T18LL0812H-Xro-G' target='_blank'>Xero</a><br></td>
+<td>Clooud Consulting LLP</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201134830C-XERO-ACC-Softwr-G' target='_blank'>XERO Accounting Software</a><br></td>
@@ -172,12 +180,20 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>EBOS SG PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200804595N-Xro-Cloud-ACC-Softwr-G' target='_blank'>Xero Cloud Accounting Software</a><br></td>
-<td>361 Degree Consultancy Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200718058D-Xro-Cloud-ACC-G' target='_blank'>Xero Cloud Accounting</a><br></td>
+<td>Advante Consulting Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201326395C-Xro-Cloud-ACC-Softwr-G' target='_blank'>Xero Cloud Accounting Software</a><br></td>
 <td>THINK SME PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200804595N-Xro-Cloud-ACC-Softwr-G' target='_blank'>Xero Cloud Accounting Software</a><br></td>
+<td>361 Degree Consultancy Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201916672K-Xro-Cloud-ACC-Softwr-G' target='_blank'>Xero Cloud Accounting Software</a><br></td>
+<td>KloudEx Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201130282N-Xro-Cloud-ACC-SLNs-G' target='_blank'>Xero Cloud Accounting Solutions</a><br></td>

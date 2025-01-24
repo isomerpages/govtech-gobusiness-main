@@ -32,8 +32,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Innosys Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200103109D-SYSFREIGHT-v-1001-G' target='_blank'>SYSFREIGHT Version 10.01</a><br></td>
-<td>SYSMAGIC SOFTWARE SOLUTION PTE LTD</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200103109D-SysFrght-G' target='_blank'>SysFreight</a><br></td>
+<td>Sysmagic Software Solution Pte Ltd</td>
 </tr>
 </table>
 

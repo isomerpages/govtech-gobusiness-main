@@ -40,10 +40,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Adaptive Cloud Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200603625R-AGHRM-G' target='_blank'>AGHRM</a><br></td>
-<td>AG NET PTE. LTD.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/199101278H-BAS-v-v10-G' target='_blank'>BAS Version v10</a><br></td>
 <td>Intercorp Solutions Pte Ltd</td>
 </tr>
@@ -90,6 +86,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201333659G-Pyboy-HRMS-G' target='_blank'>Payboy HRMS</a><br></td>
 <td>Payboy Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201324947N-QuckHR-G' target='_blank'>QuickHR</a><br></td>
+<td>Enable Business Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200604587R-SMARTHRMS-v-1-G' target='_blank'>SMARTHRMS Version 1</a><br></td>

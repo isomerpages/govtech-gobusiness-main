@@ -76,12 +76,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Corsiva Lab Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200200017N-DM-Crtv-EWorld-Dgtl-Mrktng-G' target='_blank'>DM Creative E-World Digital Marketing</a><br></td>
-<td>Creative E-World Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201920974R-DM-Crft-Crtv-Dgtl-Mrktng-PKG-G' target='_blank'>DM Craft Creative Digital Marketing Packages</a><br></td>
+<td>Craft Creative Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201900904K-DM-Dgtl-M-Dgtl-Mrktng-PKG-v-01-G' target='_blank'>DM Digital M Digital Marketing Packages Version 0.1</a><br></td>
-<td>Digital M Pte. Ltd.</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200200017N-DM-Crtv-EWorld-Dgtl-Mrktng-G' target='_blank'>DM Creative E-World Digital Marketing</a><br></td>
+<td>Creative E-World Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201621104R-DM-Dgtl-Mrktng-Googl-SEO-SEM-PPC-SMA-SMM-Contnt-G' target='_blank'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | SMM | Content</a><br></td>
@@ -120,10 +120,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>iClick Media Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200715471C-DM-Idntty-Counsl-Dgtl-Mrktng-PKG-G' target='_blank'>DM Identity Counsel Digital Marketing Packages</a><br></td>
-<td>IDENTITY COUNSEL PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201933089Z-DM-Inbox-Dgtl-Mrktng-PKG-G' target='_blank'>DM Inbox Digital Marketing Packages</a><br></td>
 <td>Inbox Consults Pte Ltd</td>
 </tr>
@@ -156,10 +152,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>OOm Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201135968W-DM-Orfostory-Dgtl-Mrktng-PKG-v-1-G' target='_blank'>DM Orfeostory Digital Marketing Packages Version 1</a><br></td>
-<td>Orfeostory Pte Ltd </td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201840067W-DM-PIXEL-MECHANICS-Dgtl-Mrktng-PKG-G' target='_blank'>DM PIXEL MECHANICS Digital Marketing Packages</a><br></td>
 <td>PIXEL MECHANICS PTE LTD</td>
 </tr>
@@ -172,12 +164,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>ROGUE DIGITAL PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201941618M-DM-SBC-Dgtl-Mrktng-PKG-G' target='_blank'>DM SBC Digital Marketing Packages</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201941618M-DM-SBC-DIGITAL-MARKETING-PACKAGES-G' target='_blank'>DM SBC DIGITAL MARKETING PACKAGES</a><br></td>
 <td>STORY BOX COLLECTIVE PTE. LTD.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202136883R-DM-Smntc-Clnt-Acquston-Dgtl-Mrktng-PKG-G' target='_blank'>DM Semantic Client Acquisition Digital Marketing Packages</a><br></td>
-<td>TRES Client Acquisition Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201605009E-DM-SEOcty-Dgtl-Mrktng-G' target='_blank'>DM SEOciety Digital Marketing</a><br></td>
@@ -196,7 +184,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Websentials Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202020389H-DM-Wolfgng-Crtvs-Dgtl-Mrktng-PKG-v-10-G' target='_blank'>DM Wolfgang Creatives Digital Marketing Packages Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/202020389H-DM-Wolfgng-Crtvs-Dgtl-Mrktng-PKG-G' target='_blank'>DM Wolfgang Creatives Digital Marketing Packages</a><br></td>
 <td>Wolfgang Creatives Pte. Ltd.</td>
 </tr>
 </table>
