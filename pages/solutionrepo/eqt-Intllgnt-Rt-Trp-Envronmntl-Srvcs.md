@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Intllgnt-Rt-Trp-Envron
 
 **Description**
 
-A device to sense, detect and/or trap/kill rats. It can include alerting and notification functions.
+A device to sense, detect and/or trap/kill rats. It can include alerting and notification functions.
 
 ## Solution Packages Option(s)
 
