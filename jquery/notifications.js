@@ -3,8 +3,7 @@
 const custom_notifications = [
 
   //1 system downtime only
-  //"<b>[Attention: System Maintenance]</b> LTA e-Services for Vocational Licence renewal (i.e. Taxi Driver, Private Car Driver, Bus Driver and Bus Attendant ) will be scheduled for a data maintenance on 01 February 2025, from 08 00 Hrs till 01 February 2025, 16 00 Hrs.
-All applications for the above licences will be unavailable. Please view the <u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>upcoming maintenance schedule</a></u> for details. We apologise for the inconvenience caused."
+  //"<b>[Attention: System Maintenance]</b> Please view the <u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>upcoming maintenance schedule</a></u> for details. We apologise for the inconvenience caused."
   //multiple services
   //"<b>[Attention: System Maintenance]</b> Certain GoBusiness services will be unavailable due to upcoming maintenance. Please check our <B><u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>maintenance schedule</a></u></B> for details."
   //"<b>[Attention: System Maintenance]</b> GoBusiness Dashboard will be unavailable due to maintenance on 06 Jan, 6:30pm to 8:30pm."
