@@ -20,6 +20,7 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 | 29 Jan, 6pm - 11:59pm | Application, amendment, renewal & cancellation of **National Environmental Agency (NEA) licences** will be unavailable during the upcoming scheduled maintenance. |       
 | 29 Jan, 7:15pm - 9:15pm | Application, amendment, renewal & cancellation of **Singapore Police Force (SPF) licences** will be unavailable during the upcoming scheduled maintenance. |      
 | 1 Feb, 8am - 4pm | Application, amendment, renewal & cancellation of **Land Transport Authority (LTA) Vocational licences** will be unavailable during the upcoming scheduled maintenance. |   
+| 8 Feb, 2pm - 10 Feb, 8am | Applications for all Minlaw licences will be unavailable during the upcoming scheduled maintenance. |       
 
 
 
