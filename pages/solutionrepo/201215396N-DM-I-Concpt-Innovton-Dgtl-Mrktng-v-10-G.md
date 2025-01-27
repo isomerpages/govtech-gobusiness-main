@@ -26,14 +26,14 @@ I Concept offers Social Media, SEM and GDN campaigns to help brands to get on di
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SM + SEM (3 Months)</td>
 <td style='padding: 10px;'>$9,900.00</td>
 <td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'><a href='/psg/IConcept_DM_I_Concept_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='images/psg/IConcept_DM_I_Concept_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SM + GDN (3 Months)</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/psg/IConcept_DM_I_Concept_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='images/psg/IConcept_DM_I_Concept_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

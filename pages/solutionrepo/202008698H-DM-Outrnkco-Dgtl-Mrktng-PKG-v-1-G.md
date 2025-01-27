@@ -26,21 +26,21 @@ Outrankco is a digital marketing agency that offers transparent and trusted SEO 
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEO + SEM Packages - Starter (3 Months)</td>
 <td style='padding: 10px;'>$5,400.00</td>
 <td style='padding: 10px;'>$5,400.00</td>
-<td style='padding: 10px;'><a href='/psg/Outrankco_DM_Outrankco_DigitalMarketing_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='images/psg/Outrankco_DM_Outrankco_DigitalMarketing_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SEO + SEM Packages - Advanced (4 Months)</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/psg/Outrankco_DM_Outrankco_DigitalMarketing_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='images/psg/Outrankco_DM_Outrankco_DigitalMarketing_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEO + SEM Packages - Specialized (6 months)</td>
 <td style='padding: 10px;'>$10,700.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/psg/Outrankco_DM_Outrankco_DigitalMarketing_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='images/psg/Outrankco_DM_Outrankco_DigitalMarketing_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

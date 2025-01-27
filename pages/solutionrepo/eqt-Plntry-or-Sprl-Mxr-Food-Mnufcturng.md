@@ -26,7 +26,7 @@ Cost of equipment capped at $10,000 per unit
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Planetary or Spiral Mixer</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>1. Machine has minimum bowl capacity of 20 liters<br>2. Machine has minimally 3 speed options for Planetary Mixer <br>3. Machine has minimally 2 speed options for Spiral Mixer<br>4. Machine has a minimum speed of 100rpm<br>5. Machine comes with bowl and minimum of 2 out of 3 tools for Planetary Mixer</td>
+<td style='padding: 10px;'>Planetary Mixer:<br><br>1. Minimum bowl capacity 40L <br><br>2. Comes with minimum of 2 out of 3 tools (Mixing paddle, whisk, hook, and similar tools. Similar tools will include beater, whip. Safety guard should be supportable)<br><br>3. Minimally 3 speed options <br><br>Spiral Mixer:<br><br>1. Minimum bowl capacity of 120L or minimum dough load of 80kg<br><br>2. Minimally 2 speed options  </td>
 </tr>
 </table>
 

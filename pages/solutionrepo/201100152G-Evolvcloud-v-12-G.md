@@ -26,35 +26,35 @@ Evolvecloud: Enterprise-ready platform for secure, compliant document management
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Evolvecloud PSG Edition Package 1 (up to 5 users)</td>
 <td style='padding: 10px;'>$4,500.00</td>
 <td style='padding: 10px;'>$4,500.00</td>
-<td style='padding: 10px;'><a href='/psg/201100152G_20240191_30012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='images/psg/201100152G_20240191_30012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Evolvecloud PSG Edition Package 2 (up to 7 users)</td>
 <td style='padding: 10px;'>$5,900.00</td>
 <td style='padding: 10px;'>$5,900.00</td>
-<td style='padding: 10px;'><a href='/psg/201100152G_20240191_30012025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='images/psg/201100152G_20240191_30012025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Evolvecloud PSG Edition Package 3 (up to 10 users)</td>
 <td style='padding: 10px;'>$9,600.00</td>
 <td style='padding: 10px;'>$8,600.00</td>
-<td style='padding: 10px;'><a href='/psg/201100152G_20240191_30012025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='images/psg/201100152G_20240191_30012025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Evolvecloud PSG Edition Package 4 (up to 15 users)</td>
 <td style='padding: 10px;'>$13,400.00</td>
 <td style='padding: 10px;'>$9,400.00</td>
-<td style='padding: 10px;'><a href='/psg/201100152G_20240191_30012025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='images/psg/201100152G_20240191_30012025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Evolvecloud PSG Edition Package 5 (up to 25 users)</td>
 <td style='padding: 10px;'>$21,000.00</td>
 <td style='padding: 10px;'>$10,300.00</td>
-<td style='padding: 10px;'><a href='/psg/201100152G_20240191_30012025_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='images/psg/201100152G_20240191_30012025_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

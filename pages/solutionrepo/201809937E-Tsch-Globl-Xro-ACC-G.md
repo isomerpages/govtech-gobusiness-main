@@ -26,35 +26,35 @@ Tisch Global - Xero Accounting helps businesses manage their accounting and fina
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan A</td>
 <td style='padding: 10px;'>$671.00</td>
 <td style='padding: 10px;'>$671.00</td>
-<td style='padding: 10px;'><a href='/psg/201809937E_20240271_30012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='images/psg/201809937E_20240271_30012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan B</td>
 <td style='padding: 10px;'>$1,421.00</td>
 <td style='padding: 10px;'>$1,421.00</td>
-<td style='padding: 10px;'><a href='/psg/201809937E_20240271_30012025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='images/psg/201809937E_20240271_30012025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan C</td>
 <td style='padding: 10px;'>$2,546.00</td>
 <td style='padding: 10px;'>$2,546.00</td>
-<td style='padding: 10px;'><a href='/psg/201809937E_20240271_30012025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='images/psg/201809937E_20240271_30012025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan D</td>
 <td style='padding: 10px;'>$4,677.50</td>
 <td style='padding: 10px;'>$3,840.00</td>
-<td style='padding: 10px;'><a href='/psg/201809937E_20240271_30012025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='images/psg/201809937E_20240271_30012025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan E</td>
 <td style='padding: 10px;'>$7,490.00</td>
 <td style='padding: 10px;'>$3,840.00</td>
-<td style='padding: 10px;'><a href='/psg/201809937E_20240271_30012025_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='images/psg/201809937E_20240271_30012025_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -26,7 +26,7 @@ Financio is a cloud accounting software, designed for today's smart businesses. 
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premier Plan</td>
 <td style='padding: 10px;'>$1,230.24</td>
 <td style='padding: 10px;'>$930.24</td>
-<td style='padding: 10px;'><a href='/psg/200914556R_20200896_30012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='images/psg/200914556R_20200896_30012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

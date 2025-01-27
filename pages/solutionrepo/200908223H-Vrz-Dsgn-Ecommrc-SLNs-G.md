@@ -26,21 +26,21 @@ Verz Design is one of the key and leading players when it comes to providing Sho
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Shopify E-commerce (Turquoise)</td>
 <td style='padding: 10px;'>$4,998.00</td>
 <td style='padding: 10px;'>$4,998.00</td>
-<td style='padding: 10px;'><a href='/psg/200908223H_20240111_30012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='images/psg/200908223H_20240111_30012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced WooCommerce eCommerce (Ruby)</td>
 <td style='padding: 10px;'>$5,000.00</td>
 <td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/psg/200908223H_20240111_30012025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='images/psg/200908223H_20240111_30012025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Shopify & WooCommerce Ecommerce (Crystal)</td>
 <td style='padding: 10px;'>$6,998.00</td>
 <td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/psg/200908223H_20240111_30012025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='images/psg/200908223H_20240111_30012025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
