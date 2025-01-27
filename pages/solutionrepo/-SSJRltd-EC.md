@@ -1,6 +1,6 @@
 ---
 title: 'SSJ-Related'
-permalink: /productivity-solutions-grant/solutionrepo/-SSJRltd-G
+permalink: /productivity-solutions-grant/solutionrepo/-SSJRltd-EC
 ---
 
 ## SSJ-Related
@@ -23,24 +23,24 @@ When adopting the solutions under this sub-category, you might wish to think abo
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1. Analyse Risk Management Data Through the Effective Use of Risk Tools</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1. Effective Office and Administrative Skills</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2019504277' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2020503896' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2. The Financial Potential and Risks of New Business Ideas</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2. Interpersonal Communication, Active Listening & Empathetic Speaking</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2020501679' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2020000399' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3. Contingency Management (Assess and Manage Security Risk Control Measures)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3. Adapt to Change</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2019503022' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2020505601' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
