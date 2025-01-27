@@ -397,7 +397,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [General Operator's Certificate of Competency](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10074)
 - [General Radio-communication Station Licence](https://dashboard.gobusiness.gov.sg/task-details/generalradiocomm)
 - [Localised Private Network (Multi-Channel Radiocom Networks and Systems)](https://dashboard.gobusiness.gov.sg/task-details/lpnmulti)
-- [Localised Private Network Licence](https://dashboard.gobusiness.gov.sg/task-details/lpn)
+- [Localised Private Network Licence](https://dashboard.gobusiness.gov.sg/task-details/lpn) 
 - [Localised Radio-Communication Station Licence](https://dashboard.gobusiness.gov.sg/task-details/localisedradiocomm)
 - [Public Mobile Network Licence](https://dashboard.gobusiness.gov.sg/task-details/publicmobilenetwork)
 - [Radio Service Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10067)
