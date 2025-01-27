@@ -24,7 +24,7 @@ After you apply, the relevant government agencies will advise you on submitting 
 </tr>
 <tr>
 <td>Energy Market Authority (EMA)</td>
-<td>Electricity Generation<br><br>Electricity Wholesaler<br><br>Gas Shipper, Retailer or Importer<br><br>Other Electricity and Gas Licences</td>
+<td>Electricity Generation<br><br>Electricity Retailer<br><br>Electricity Wholesaler<br><br>Gas Shipper, Retailer or Importer<br><br>Other Electricity and Gas Licences</td>
 <td>Compliance declarations and Update contact list</td>
 </tr>
 <tr>
@@ -57,12 +57,6 @@ After you apply, the relevant government agencies will advise you on submitting 
 <th style='width: 30%;'><b>Licence(s)</b></th>
 <th style='width: 20%;'><b>Return(s)</b></th>
 <th style='width: auto%;'></th>
-</tr>
-<tr>
-<td>Energy Market Authority (EMA)</td>
-<td>Electricity Retailer</td>
-<td>Compliance declarations and Update contact list</td>
-<td>{% include button.html text="Submit EMA Returns" src="https://licence1.business.gov.sg/feportal/web/frontier/home" type="primary" %}</td>
 </tr>
 <tr>
 <td>Ministry of Manpower (MOM)</td>

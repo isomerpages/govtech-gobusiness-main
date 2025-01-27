@@ -365,7 +365,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Apply to Rent Out or Change Tenancy of HDB Commercial Properties](https://dashboard.gobusiness.gov.sg/task-details/hdbcot)
 - [Apply to Transfer Ownership or Sell HDB Commercial Properties](https://dashboard.gobusiness.gov.sg/task-details/hdbrt)
 - [Application of Registering Property](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=277)
-- [Appraiser's Licence (Lands and Buildings)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=230)
+- [Appraiser's Licence (Lands and Buildings)](https://dashboard.gobusiness.gov.sg/task-details/appraiser-licence)
 - [Change of Company's Name for HDB Commercial Tenants](https://ilinked.hdb.gov.sg/retailerlink/change-company-name)
 - [Estate Agent Licence and Salesperson Registration](https://www.cea.gov.sg/)
 - [Home Office Scheme (HDB)](https://dashboard.gobusiness.gov.sg/task-details/hdbhomeofficescheme)
