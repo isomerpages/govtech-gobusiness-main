@@ -9,7 +9,7 @@ permalink: /browse-all-equipment-Construction/Battery-Energy-Storage-System
 
 Battery energy storage systems replace diesel generators, significantly reducing emissions and energy consumption, while providing a cleaner energy source.
 - Battery energy storage system needs to be connected to the grid and be charged using grid electricity.
-- Connection to and charging from standby diesel generators is not permitted.
+- Connection to and charging from standby diesel generators is not permitted. 
 
 ### Pre-Approved Equipment Brands and Models
 
