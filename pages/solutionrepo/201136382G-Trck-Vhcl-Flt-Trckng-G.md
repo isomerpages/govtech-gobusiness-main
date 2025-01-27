@@ -26,35 +26,35 @@ iTrack fleet management software offers you a complete solution for monitoring a
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A Rental (Per Vehicle)</td>
 <td style='padding: 10px;'>$560.00</td>
 <td style='padding: 10px;'>$560.00</td>
-<td style='padding: 10px;'><a href='images/psg/201136382G_20240100_30012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201136382G_20240100_30012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (Per Vehicle)</td>
 <td style='padding: 10px;'>$680.00</td>
 <td style='padding: 10px;'>$680.00</td>
-<td style='padding: 10px;'><a href='images/psg/201136382G_20240100_30012025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201136382G_20240100_30012025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C with 1 Camera (Per Vehicle)</td>
 <td style='padding: 10px;'>$930.00</td>
 <td style='padding: 10px;'>$930.00</td>
-<td style='padding: 10px;'><a href='images/psg/201136382G_20240100_30012025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201136382G_20240100_30012025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D with 2 Cameras (Per Vehicle)</td>
 <td style='padding: 10px;'>$1,090.00</td>
 <td style='padding: 10px;'>$1,090.00</td>
-<td style='padding: 10px;'><a href='images/psg/201136382G_20240100_30012025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201136382G_20240100_30012025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E with 5 Cameras (Per Vehicle)</td>
 <td style='padding: 10px;'>$1,730.00</td>
 <td style='padding: 10px;'>$1,480.00</td>
-<td style='padding: 10px;'><a href='images/psg/201136382G_20240100_30012025_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201136382G_20240100_30012025_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

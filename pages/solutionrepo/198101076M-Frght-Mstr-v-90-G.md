@@ -26,35 +26,35 @@ The Freight Master software is a suite of integrated and comprehensive software 
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 4 User Package</td>
 <td style='padding: 10px;'>$16,480.00</td>
 <td style='padding: 10px;'>$16,480.00</td>
-<td style='padding: 10px;'><a href='images/psg/198101076M_20240199_30012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/198101076M_20240199_30012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 8 User Package</td>
 <td style='padding: 10px;'>$21,580.00</td>
 <td style='padding: 10px;'>$21,580.00</td>
-<td style='padding: 10px;'><a href='images/psg/198101076M_20240199_30012025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/198101076M_20240199_30012025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 12 User Package</td>
 <td style='padding: 10px;'>$27,900.00</td>
 <td style='padding: 10px;'>$27,900.00</td>
-<td style='padding: 10px;'><a href='images/psg/198101076M_20240199_30012025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/198101076M_20240199_30012025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 16 User Package</td>
 <td style='padding: 10px;'>$33,080.00</td>
 <td style='padding: 10px;'>$33,080.00</td>
-<td style='padding: 10px;'><a href='images/psg/198101076M_20240199_30012025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/198101076M_20240199_30012025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 22 User Package</td>
 <td style='padding: 10px;'>$41,100.00</td>
 <td style='padding: 10px;'>$39,600.00</td>
-<td style='padding: 10px;'><a href='images/psg/198101076M_20240199_30012025_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/198101076M_20240199_30012025_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

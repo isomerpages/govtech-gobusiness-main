@@ -26,35 +26,35 @@ Glodon International Pte. Ltd. is a Singapore-based subsidiary of Glodon, a lead
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 (5D BIM For BQ Cost Management)</td>
 <td style='padding: 10px;'>$8,940.00</td>
 <td style='padding: 10px;'>$8,940.00</td>
-<td style='padding: 10px;'><a href='images/psg/201102124D_20240118_30012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201102124D_20240118_30012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 (5D BIM Takeoff for MEP - Full Specs)</td>
 <td style='padding: 10px;'>$11,500.00</td>
 <td style='padding: 10px;'>$11,500.00</td>
-<td style='padding: 10px;'><a href='images/psg/201102124D_20240118_30012025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201102124D_20240118_30012025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 (5D BIM Takeoff for Architecture & Structure)</td>
 <td style='padding: 10px;'>$13,070.00</td>
 <td style='padding: 10px;'>$13,070.00</td>
-<td style='padding: 10px;'><a href='images/psg/201102124D_20240118_30012025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201102124D_20240118_30012025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 (5D BIM Takeoff for Rebar)</td>
 <td style='padding: 10px;'>$15,070.00</td>
 <td style='padding: 10px;'>$14,664.00</td>
-<td style='padding: 10px;'><a href='images/psg/201102124D_20240118_30012025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201102124D_20240118_30012025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 (5D BIM TAS with Rvt Integration)</td>
 <td style='padding: 10px;'>$21,870.00</td>
 <td style='padding: 10px;'>$14,686.00</td>
-<td style='padding: 10px;'><a href='images/psg/201102124D_20240118_30012025_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201102124D_20240118_30012025_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

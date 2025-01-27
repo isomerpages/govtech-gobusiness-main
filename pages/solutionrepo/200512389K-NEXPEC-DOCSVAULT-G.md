@@ -26,28 +26,28 @@ NEXPEC X Docsvault is a revolutionary, Singapore-hosted document management and 
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
 <td style='padding: 10px;'>$19,170.00</td>
 <td style='padding: 10px;'>$17,920.00</td>
-<td style='padding: 10px;'><a href='images/psg/200512389K_20230270_30012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/200512389K_20230270_30012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
 <td style='padding: 10px;'>$25,320.00</td>
 <td style='padding: 10px;'>$23,320.00</td>
-<td style='padding: 10px;'><a href='images/psg/200512389K_20230270_30012025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/200512389K_20230270_30012025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Plus</td>
 <td style='padding: 10px;'>$30,720.00</td>
 <td style='padding: 10px;'>$28,720.00</td>
-<td style='padding: 10px;'><a href='images/psg/200512389K_20230270_30012025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/200512389K_20230270_30012025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
 <td style='padding: 10px;'>$39,910.00</td>
 <td style='padding: 10px;'>$36,160.00</td>
-<td style='padding: 10px;'><a href='images/psg/200512389K_20230270_30012025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/200512389K_20230270_30012025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

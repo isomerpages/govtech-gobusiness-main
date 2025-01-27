@@ -26,28 +26,28 @@ OOm Pte Ltd provides e-commerce solutions for Shopify and WooCommerce platforms.
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WooCommerce (Basic)</td>
 <td style='padding: 10px;'>$3,800.00</td>
 <td style='padding: 10px;'>$3,800.00</td>
-<td style='padding: 10px;'><a href='images/psg/200617554M_20240117_30012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/200617554M_20240117_30012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WooCommerce (Value)</td>
 <td style='padding: 10px;'>$5,000.00</td>
 <td style='padding: 10px;'>$4,400.00</td>
-<td style='padding: 10px;'><a href='images/psg/200617554M_20240117_30012025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/200617554M_20240117_30012025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopify (Gold)</td>
 <td style='padding: 10px;'>$5,000.00</td>
 <td style='padding: 10px;'>$4,400.00</td>
-<td style='padding: 10px;'><a href='images/psg/200617554M_20240117_30012025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/200617554M_20240117_30012025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WooCommerce (Advance)</td>
 <td style='padding: 10px;'>$8,000.00</td>
 <td style='padding: 10px;'>$4,400.00</td>
-<td style='padding: 10px;'><a href='images/psg/200617554M_20240117_30012025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/200617554M_20240117_30012025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

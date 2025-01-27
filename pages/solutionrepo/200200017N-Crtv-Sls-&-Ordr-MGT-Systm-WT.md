@@ -26,21 +26,21 @@ The Creative Sales and Order Management system is a user-friendly end-to-end sol
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package SMEZ</td>
 <td style='padding: 10px;'>$9,800.00</td>
 <td style='padding: 10px;'>$9,800.00</td>
-<td style='padding: 10px;'><a href='images/psg/200200017N_20230284_30012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/200200017N_20230284_30012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Lite</td>
 <td style='padding: 10px;'>$12,800.00</td>
 <td style='padding: 10px;'>$12,800.00</td>
-<td style='padding: 10px;'><a href='images/psg/200200017N_20230284_30012025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/200200017N_20230284_30012025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Standard</td>
 <td style='padding: 10px;'>$15,000.00</td>
 <td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'><a href='images/psg/200200017N_20230284_30012025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/200200017N_20230284_30012025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

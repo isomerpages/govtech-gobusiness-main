@@ -26,14 +26,14 @@ CalendarOne E-Loyalty solution is a comprehensive customer incentive management 
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>25 Users License Package</td>
 <td style='padding: 10px;'>$11,000.00</td>
 <td style='padding: 10px;'>$7,900.00</td>
-<td style='padding: 10px;'><a href='images/psg/198800014D_20240184_30012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/198800014D_20240184_30012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>50 Users License Package</td>
 <td style='padding: 10px;'>$13,200.00</td>
 <td style='padding: 10px;'>$7,900.00</td>
-<td style='padding: 10px;'><a href='images/psg/198800014D_20240184_30012025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/198800014D_20240184_30012025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

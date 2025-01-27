@@ -26,14 +26,14 @@ This solution brings together two best-in-class CAD & CAM software, providing a 
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 [CADCAM]</td>
 <td style='padding: 10px;'>$29,600.22</td>
 <td style='padding: 10px;'>$29,600.22</td>
-<td style='padding: 10px;'><a href='images/psg/201838394Z_20240023_30012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201838394Z_20240023_30012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 [CADCAM]</td>
 <td style='padding: 10px;'>$44,567.47</td>
 <td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='images/psg/201838394Z_20240023_30012025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201838394Z_20240023_30012025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

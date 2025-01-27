@@ -28,35 +28,35 @@ Proudly designed in Singapore, it offers sleek hardware, user-friendly software,
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter</td>
 <td style='padding: 10px;'>$5,180.00</td>
 <td style='padding: 10px;'>$5,180.00</td>
-<td style='padding: 10px;'><a href='images/psg/200503951K_20240166_30012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/200503951K_20240166_30012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Regular</td>
 <td style='padding: 10px;'>$6,780.00</td>
 <td style='padding: 10px;'>$6,780.00</td>
-<td style='padding: 10px;'><a href='images/psg/200503951K_20240166_30012025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/200503951K_20240166_30012025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advance</td>
 <td style='padding: 10px;'>$7,980.00</td>
 <td style='padding: 10px;'>$7,980.00</td>
-<td style='padding: 10px;'><a href='images/psg/200503951K_20240166_30012025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/200503951K_20240166_30012025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pro+</td>
 <td style='padding: 10px;'>$9,980.00</td>
 <td style='padding: 10px;'>$9,980.00</td>
-<td style='padding: 10px;'><a href='images/psg/200503951K_20240166_30012025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/200503951K_20240166_30012025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pro+ Max</td>
 <td style='padding: 10px;'>$13,360.00</td>
 <td style='padding: 10px;'>$13,360.00</td>
-<td style='padding: 10px;'><a href='images/psg/200503951K_20240166_30012025_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/200503951K_20240166_30012025_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

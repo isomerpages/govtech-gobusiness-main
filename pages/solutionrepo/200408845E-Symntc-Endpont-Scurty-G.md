@@ -26,28 +26,28 @@ Protect your business with Prominds, powered by Symantec Endpoint Security Enter
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite</td>
 <td style='padding: 10px;'>$3,300.00</td>
 <td style='padding: 10px;'>$2,250.00</td>
-<td style='padding: 10px;'><a href='images/psg/200408845E_20240136_30012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/200408845E_20240136_30012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus</td>
 <td style='padding: 10px;'>$6,480.00</td>
 <td style='padding: 10px;'>$4,500.00</td>
-<td style='padding: 10px;'><a href='images/psg/200408845E_20240136_30012025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/200408845E_20240136_30012025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pro</td>
 <td style='padding: 10px;'>$10,560.00</td>
 <td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'><a href='images/psg/200408845E_20240136_30012025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/200408845E_20240136_30012025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
 <td style='padding: 10px;'>$20,040.00</td>
 <td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'><a href='images/psg/200408845E_20240136_30012025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/200408845E_20240136_30012025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
