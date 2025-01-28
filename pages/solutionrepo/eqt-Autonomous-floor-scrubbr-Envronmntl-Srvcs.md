@@ -11,8 +11,6 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Autonomous-floor-scrub
 
 Robotic floor cleaner and/or scrubber (single function) which integrates various types of technology, such as sensors, cameras and navigation systems to clean floors without human intervention.
 
-There is an equipment cap. Refer to BGP for details.
-
 ## Solution Packages Option(s)
 
 <table>
@@ -24,7 +22,7 @@ There is an equipment cap. Refer to BGP for details.
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autonomous floor scrubber</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>N.A</td>
+<td style='padding: 10px;'>Grant cap: Up to S$42,900 per unit</td>
 </tr>
 </table>
 

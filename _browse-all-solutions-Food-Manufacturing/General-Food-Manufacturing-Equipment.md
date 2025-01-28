@@ -36,10 +36,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Commrcl-Inkjt-Prntr-Food-Mnufcturng' target='_blank'>Commercial Inkjet Printer</a><br></td>
-<td></td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/eqt-Dough-Shtr-Food-Mnufcturng' target='_blank'>Dough Sheeter</a><br></td>
 <td></td>
 </tr>
@@ -61,10 +57,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/eqt-Rotry-Wok-Fryr-Food-Mnufcturng' target='_blank'>Rotary Wok Fryer</a><br></td>
-<td></td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Stndlon-Automtd-Industrl-Utnsl-Wshr-Food-Mnufcturng' target='_blank'>Standalone Automated Industrial Utensil Washer</a><br></td>
 <td></td>
 </tr>
 <tr>

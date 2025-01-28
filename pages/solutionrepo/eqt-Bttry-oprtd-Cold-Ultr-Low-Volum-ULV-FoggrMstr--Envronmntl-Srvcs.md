@@ -11,8 +11,6 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Bttry-oprtd-Cold-Ultr-
 
 A battery operated device that disperses ULV fog or fine mist without being constrained by the need for a power source. (Solution tank capacity 2L and above)
 
-There is an equipment cap. Refer to BGP for details.
-
 ## Solution Packages Option(s)
 
 <table>
@@ -24,7 +22,7 @@ There is an equipment cap. Refer to BGP for details.
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Battery operated Cold Ultra Low Volume (ULV) Fogger/Mister </td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>N.A</td>
+<td style='padding: 10px;'>Grant cap: Up to S$1,200 per unit</td>
 </tr>
 </table>
 

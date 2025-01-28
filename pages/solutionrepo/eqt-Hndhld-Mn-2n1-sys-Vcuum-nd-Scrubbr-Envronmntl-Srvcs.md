@@ -11,8 +11,6 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Hndhld-Mn-2n1-sys-Vcuu
 
 Compact handheld 2-in-1 combines the high power and performance of a commercial scrubber with built-in water dispensing and vacuuming function. Equipment must be able to clean different types of surfaces, e.g., hard floors, with a solution tank capacity of >1L.
 
-There is an equipment cap. Refer to BGP for details.
-
 ## Solution Packages Option(s)
 
 <table>
@@ -24,7 +22,7 @@ There is an equipment cap. Refer to BGP for details.
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Handheld Mini 2-in-1 System (Vacuum and Scrubber)</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>N.A</td>
+<td style='padding: 10px;'>Grant cap: Up to S$3,700 per unit</td>
 </tr>
 </table>
 

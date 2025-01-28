@@ -62,10 +62,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201402872W-Ntwork-Box-Nxt-Gnrton-Mngd-Scurty-G' target='_blank'>Network Box Next Generation Managed Security</a><br></td>
-<td>Network Box (SIN) Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201402872W-Ntwork-Box-Nxt-Gnrton-Mngd-Scurty-G' target='_blank'>Network Box Next Generation Managed Security</a><br></td>
 <td>NETWORK BOX (SIN) PTE. LTD.</td>
 </tr>
 <tr>
