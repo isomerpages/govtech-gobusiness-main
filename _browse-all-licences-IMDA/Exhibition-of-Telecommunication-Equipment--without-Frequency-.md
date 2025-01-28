@@ -21,6 +21,6 @@ Infocomm Media Development Authority (IMDA)
 <H3>Documents Needed</H3>
 
 <ul>
-<li><strong>A brief description on the intended use of frequency, the types of equipment to be exhibited and their functions.<strong></li>
+<li><strong>A brief description on the intended use of frequency, the types of equipment to be exhibited and their functions.</strong></li>
 </ul>
 
