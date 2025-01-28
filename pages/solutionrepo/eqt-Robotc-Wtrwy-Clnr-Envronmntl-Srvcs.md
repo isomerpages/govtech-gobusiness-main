@@ -11,8 +11,6 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Robotc-Wtrwy-Clnr-Envr
 
 A robotic vessel equipped with sensors and navigation systems, to remove debris, pollutants, algae, etc, from waterway.
 
-There is an equipment cap. Refer to BGP for details.
-
 ## Solution Packages Option(s)
 
 <table>
@@ -24,7 +22,7 @@ There is an equipment cap. Refer to BGP for details.
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Robotic Waterway Cleaner</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>N.A</td>
+<td style='padding: 10px;'>Grant cap: Up to S$30,000 per unit</td>
 </tr>
 </table>
 

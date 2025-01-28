@@ -11,8 +11,6 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Autonomous-vcuum-swpr-
 
 Robotic sweeper and/or vacuum to remove dirt and dust from floor and carpeted surfaces without human intervention, with a capacity of > 5L.
 
-There is an equipment cap. Refer to BGP for details.
-
 ## Solution Packages Option(s)
 
 <table>
@@ -24,7 +22,7 @@ There is an equipment cap. Refer to BGP for details.
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autonomous vacuum sweeper</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>N.A</td>
+<td style='padding: 10px;'>Grant cap: Up to S$22,200 per unit</td>
 </tr>
 </table>
 

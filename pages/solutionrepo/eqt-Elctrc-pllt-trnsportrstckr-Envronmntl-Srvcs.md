@@ -12,8 +12,6 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Elctrc-pllt-trnsportrs
 Pallet with load capacity ranging from 1.2 ton onwards, that is able to transport or stack the pallets, with minimal human intervention. 
 (Only applicable for licensed cleaning / waste / pest management companies)
 
-There is an equipment cap. Refer to BGP for details.
-
 ## Solution Packages Option(s)
 
 <table>
@@ -25,7 +23,7 @@ There is an equipment cap. Refer to BGP for details.
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Electric pallet transporter/stacker</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>N.A</td>
+<td style='padding: 10px;'>Grant cap: Up to S$800 per unit</td>
 </tr>
 </table>
 
