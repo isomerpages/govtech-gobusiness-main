@@ -18,17 +18,17 @@ Infocomm Media Development Authority (IMDA)
 
 <strong>Additional Information</strong>
 
-<p><strong>Fee</strong><br />Licence Fee: To be determined</p>
+<p><strong>Fee</strong><br />Licence Fee: $1,000 or $100 per annum, depending on the licence type</p>
 
 <H3>Documents Needed</H3>
 
 <ul>
-<li><strong>Fees/Rates Charges</strong></li>
+<li><strong>Charges</strong></li>
 <li><strong>Programming Guidelines/Acceptable Use Policy</strong></li>
 <li><strong>Schematic of the Delivery System</strong></li>
 </ul>
 
 <H3>Requirements</H3>
 
-Applicant must be ACRA registered company/business
+Licence Holder shall be an ACRA-registered company or business
 
