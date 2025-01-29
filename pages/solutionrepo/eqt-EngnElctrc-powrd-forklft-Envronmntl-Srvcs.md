@@ -12,8 +12,6 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-EngnElctrc-powrd-forkl
 Forklift with load capacity from 1.5 ton onwards, that is able to lift, move and/or stack materials, with minimal human intervention. 
 (Only applicable for licensed cleaning / waste / pest management companies)
 
-There is an equipment cap. Refer to BGP for details.
-
 ## Solution Packages Option(s)
 
 <table>
@@ -25,7 +23,7 @@ There is an equipment cap. Refer to BGP for details.
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Engine/Electric- powered forklift</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>N.A</td>
+<td style='padding: 10px;'>Grant cap: Up to S$19,800 per unit</td>
 </tr>
 </table>
 

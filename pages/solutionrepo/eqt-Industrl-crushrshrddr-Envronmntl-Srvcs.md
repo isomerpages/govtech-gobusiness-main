@@ -11,8 +11,6 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Industrl-crushrshrddr-
 
 A machine equipped with cutting or shearing or shredding functions to reduce the volume of solid waste/recyclables. Treatment capacity of at least 0.5 tonnes/hour.
 
-There is an equipment cap. Refer to BGP for details.
-
 ## Solution Packages Option(s)
 
 <table>
@@ -24,7 +22,7 @@ There is an equipment cap. Refer to BGP for details.
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Industrial crusher/shredder</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>N.A</td>
+<td style='padding: 10px;'>Grant cap: Up to S$117,400 per unit</td>
 </tr>
 </table>
 

@@ -20,6 +20,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/198800014D-ClndrOn-ELoylty-SLN-v-3-G' target='_blank'>CalendarOne E-Loyalty Solution Version 3</a><br></td>
+<td>CalendarOne Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201529028W-EPOS-Mrktng-AI-v-10-G' target='_blank'>EPOS Marketing AI Version 1.0</a><br></td>
 <td>EPOS Pte Ltd</td>
 </tr>

@@ -20,16 +20,8 @@ This solution is supported by BCA.
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199400358M-Autodsk-AEC-Collcton-G' target='_blank'>Autodesk AEC Collection</a><br></td>
-<td>INNOCOM TECHNOLOGIES PTE LTD </td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201014126M-BIMAGE-AUTODESK-COLLECTION-G' target='_blank'>BIMAGE - AUTODESK COLLECTION</a><br></td>
 <td>BIMAGE Consulting Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201600202R-CSG-Autodsk-Collcton-G' target='_blank'>CSG - Autodesk Collection</a><br></td>
-<td>CSG Software Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/T11FC0171H-Grphsoft-Archcd-G' target='_blank'>Graphisoft Archicad</a><br></td>

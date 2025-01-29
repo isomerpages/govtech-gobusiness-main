@@ -32,6 +32,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>Sequoia Pte. Ltd.</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200503951K-MEGAPOS-Buty-&-Wllnss-G' target='_blank'>MEGAPOS Beauty & Wellness</a><br></td>
+<td>Megasafe Technology Pte. Ltd.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200100911R-Studo-Mngr-v-9-G' target='_blank'>Studio Manager Version 9</a><br></td>
 <td>ARCHER LOGIC (S) PTE LTD</td>
 </tr>
