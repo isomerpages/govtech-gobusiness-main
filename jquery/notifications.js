@@ -7,8 +7,7 @@ const custom_notifications = [
   //multiple services
   //"<b>[Attention: System Maintenance]</b> Certain GoBusiness services will be unavailable due to upcoming maintenance. Please check our <B><u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>maintenance schedule</a></u></B> for details."
   //"<b>[Attention: System Maintenance]</b> GoBusiness Dashboard will be unavailable due to maintenance on 06 Jan, 6:30pm to 8:30pm."
-"<b>[Attention: System Maintenance]</b> LTA e-Services for Vocational Licence renewal (i.e. Taxi Driver, Private Car Driver, Bus Driver and Bus Attendant ) will be scheduled for maintenance on 01 February 2025, from 8:00 AM to 4:00 PM. All applications for the above licences will be unavailable. Please view the <u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>upcoming maintenance schedule</a></u> for details. We apologise for the inconvenience caused.",  
-"<b>[Attention: Important Notice]</b> Please be informed that the GoBusiness Helpdesk will operate from <B><u>8:00 AM to 2:00 PM</u></B> on Tuesday, 28 January 2025 (Chinese New Year Eve)<br>Normal operating hours will resume on the working day.<br>For enquiries during this period, please email Askgobiz@crimsonlogic.com.sg. We apologise for any inconvenience and thank you for your understanding."
+
 ]; 
 
 
