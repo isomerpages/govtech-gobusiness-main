@@ -206,7 +206,9 @@
 - title: Singapore Police Force (SPF)
   description: Business Contact
   tel: +65 6835 0000
-  email: SPF_Licensing_Feedback@spf.gov.sg
+  url: www.go.gov.sg/PLRD
+  url-new-tab: true
+  protocol: https
 
 - title: Singapore Police Force (SPF)
   description: Road Closure Permit for Events
