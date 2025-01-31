@@ -21,12 +21,13 @@ Infocomm Media Development Authority (IMDA)
 <H3>Documents Needed</H3>
 
 <ul>
-<li><strong>Bank Guarantee and Special Conditions</strong></li>
-<li><strong>Kementerian Dalam Negeri (KDN) Permit</strong></li>
-<li><strong>Letter of Authorisation</strong></li>
-<li><strong>Mock-up or sample copy of proposed newspaper</strong></li>
-<li><strong>Permit Agent Form - Malaysian Newspaper</strong></li>
-<li><strong>Scanned copy of the Foreign Identification Number (FIN) document and passport</strong></li>
-<li><strong>Two copies each of three recent issues of your newspaper</strong></li>
+<li>Banker&rsquo;s Guarantee and Special Conditions</li>
+<li>Kementerian Dalam Negeri (&ldquo;KDN&rdquo;) Permit</li>
+<li>Letter of Authorisation (For application filed by an authorised third party who is an individual and is using a Singpass login.)</li>
+<li>Mock-up or sample copy of the proposed newspaper</li>
+<li>Permit Agent Form for Malaysian newspapers</li>
+<li>Scanned copy of passport and immigration pass (front and back) showing foreign identification number (&ldquo;FIN&rdquo;), if the applicant and chief editor is a foreigner employed/ residing in Singapore.</li>
+<li>Two copies each of the three recent issues of your newspaper</li>
+<li>Latest copy of the business profile from the Accounting and Corporate Regulatory Authority (&ldquo;ACRA&rdquo;)</li>
 </ul>
 
