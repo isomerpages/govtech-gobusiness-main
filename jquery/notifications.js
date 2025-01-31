@@ -5,7 +5,7 @@ const custom_notifications = [
   //1 system downtime only
   //"<b>[Attention: System Maintenance]</b> Please view the <u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>upcoming maintenance schedule</a></u> for details. We apologise for the inconvenience caused."
   //multiple services
-  //"<b>[Attention: System Maintenance]</b> Certain GoBusiness services will be unavailable due to upcoming maintenance. Please check our <B><u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>maintenance schedule</a></u></B> for details."
+  "<b>[Attention: System Maintenance]</b> Certain GoBusiness services will be unavailable due to upcoming maintenance. Please check our <B><u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>maintenance schedule</a></u></B> for details."
   //"<b>[Attention: System Maintenance]</b> GoBusiness Dashboard will be unavailable due to maintenance on 06 Jan, 6:30pm to 8:30pm."
 
 ]; 
