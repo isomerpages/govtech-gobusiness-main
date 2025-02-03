@@ -14,7 +14,7 @@
 - accordion:
   letter: b
   data:
-    - title: What is the eligibility criteria for EEG (Base)?<sup>3</sup>
+    - title: What is the eligibility criteria for EEG (Base)?<sup>2</sup>
       content: |
         A company that meets all the following criteria can apply for the EEG (Base):
         - Business entity registered and operating in Singapore in the following sectors:
@@ -28,17 +28,17 @@
         
         Business entities using commercial data centres in Singapore who meet the [Data Centre Sector eligibility requirements](/energy-efficiency-grant/#eeg-eligibility) can tap on pre-approved energy efficient equipment for the data centre sector regardless of industry.
 
-        - Minimum of 30% local shareholding<sup>4</sup>,
-        - Employs at least one local employee at the firm-level<sup>5</sup>
-        - Group Annual Sales Turnover no more than S$500 million<sup>6</sup>
+        - Minimum of 30% local shareholding<sup>3</sup>,
+        - Employs at least one local employee at the firm-level<sup>4</sup>
+        - Group Annual Sales Turnover no more than S$500 million<sup>5</sup>
                
-        <sup>3</sup> Companies may be requested to furnish supporting documents as part of the grant application process.
+        <sup>2</sup> Companies may be requested to furnish supporting documents as part of the grant application process.
 
-        <sup>4</sup> For maritime companies and users of data centres, business entities need not have a minimum of 30% local shareholding criteria.
+        <sup>3</sup> For maritime companies and users of data centres, business entities need not have a minimum of 30% local shareholding criteria.
         
-        <sup>5</sup> Maritime companies should employ at least one local employee at the group-level.
+        <sup>4</sup> Maritime companies should employ at least one local employee at the group-level.
 
-        <sup>6</sup> SME is defined as having:
+        <sup>5</sup> SME is defined as having:
         - Group Annual Sales Turnover of not more than S$100 million; or
         - Group Employment Size of not more than 200 workers
         
@@ -58,9 +58,9 @@
       content: |
         The grant application window for the EEG (Base) is from 1 April 2024 to 31 March 2026.
         
-        Companies will have up to 1 year from the time an application is approved to purchase and install<sup>4</sup> the equipment and submit claims for reimbursement. Once an application has been submitted, companies may choose to proceed to purchase the equipment before the application outcome. However, companies will not be able to claim subsequently if the application is unsuccessful. 
+        Companies will have up to 1 year from the time an application is approved to purchase and install<sup>6</sup> the equipment and submit claims for reimbursement. Once an application has been submitted, companies may choose to proceed to purchase the equipment before the application outcome. However, companies will not be able to claim subsequently if the application is unsuccessful. 
 
-        <sup>4</sup> Only the actual purchase of the equipment is supportable. This excludes other related administrative fees/charges, e.g. delivery fees, installation.
+        <sup>6</sup> Only the actual purchase of the equipment is supportable. This excludes other related administrative fees/charges, e.g. delivery fees, installation.
 
     - title: How to apply for the EEG (Base)?
       content: |
@@ -173,33 +173,30 @@
             - <b>Harbourcraft</b> companies owning/operating harbourcraft <b>licensed by MPA</b>
             - <b>Port</b> companies classified under <b>SSIC 23940, 24109, 49231, 50021, 50023, 52101, 52221, 52222, 52224, 52243, 52292</b>
         <br><br>
-        - Has a minimum of 30% local shareholding;<sup>4</sup>
-        - Employ at least one local employee at the firm-level;<sup>5</sup>
-        - Has a Group Annual Sales Turnover no more than S$500 million<sup>3</sup>
-
-        <sup>1</sup> Based on company's ACRA registered SSIC code.
+        - Has a minimum of 30% local shareholding;<sup>3</sup>
+        - Employ at least one local employee at the firm-level;<sup>4</sup>
+        - Has a Group Annual Sales Turnover no more than S$500 million<sup>5</sup>
 
         <sup>2</sup> Companies may be requested to furnish supporting documents as part of the grant application process.
 
-        <sup>3</sup> SME is defined as having:
+        <sup>3</sup> For maritime companies, business entities need not have a minimum of 30% local shareholding criteria.
+
+        <sup>4</sup> Maritime companies should employ at least one local employee at the group-level.
+
+        <sup>5</sup> SME is defined as having:
           - Group Annual Sales Turnover of not more than S$100 million; or 
           - Group Employment Size of not more than 200 workers
-
-        <sup>4</sup> For maritime companies, business entities need not have a minimum of 30% local shareholding criteria.
-
-        <sup>5</sup> Maritime companies should employ at least one local employee at the group-level.
-
         
     - title: What is the difference between the EEG (Base) and the EEG (Advanced)?
       content: |
         Unlike the EEG (Base), the EEG (Advanced) can support non-pre-approved equipment as long as the equipment demonstrates energy savings above 350 tonnes of lifetime carbon abatement. Support under the EEG (Advanced) is based on the lower of 
         
-        (i) support levels under the EEG (Base) according to company's size<sup>4</sup>, or <br>
+        (i) support levels under the EEG (Base) according to company's size<sup>6</sup>, or <br>
         (ii) based on the equipment's expected lifetime carbon abatement. Support will be capped at $350,000 across all of a company's EEG (Base) and EEG (Advanced) applications. 
 
         Companies applying for the EEG (Advanced) would also need to submit a third-party assessment report from a whitelisted third-party qualified assessor on the projected energy savings that the purchase of the energy efficient equipment would generate. This is not required for EEG (Base).
 
-        <sup>4</sup> This will be 70% and 30% of energy efficient equipment costs for SMEs and non-SMEs respectively.
+        <sup>6</sup> This will be 70% and 30% of energy efficient equipment costs for SMEs and non-SMEs respectively.
 
     - title: What equipment are currently not supported under EEG (Advanced)?
       content: | 
@@ -280,9 +277,9 @@
       content: |
         The grant application window for the EEG (Advanced) is from 1 April 2024 to 31 Mar 2026.
         
-        Companies will have up to 1 year from the time an application is approved to purchase and install<sup>6</sup> the equipment, and submit claims for reimbursement. Once an application has been submitted, companies may choose to proceed to purchase the equipment before the application outcome. However, companies will not be able to claim subsequently if the application is unsuccessful.
+        Companies will have up to 1 year from the time an application is approved to purchase and install<sup>7</sup> the equipment, and submit claims for reimbursement. Once an application has been submitted, companies may choose to proceed to purchase the equipment before the application outcome. However, companies will not be able to claim subsequently if the application is unsuccessful.
 
-        <sup>6</sup> Only the actual purchase of the equipment is supportable. This excludes other related administrative fees/charges, e.g. delivery fees, installation.
+        <sup>7</sup> Only the actual purchase of the equipment is supportable. This excludes other related administrative fees/charges, e.g. delivery fees, installation.
 
     - title: How to apply for the EEG (Advanced)?
       content: |
