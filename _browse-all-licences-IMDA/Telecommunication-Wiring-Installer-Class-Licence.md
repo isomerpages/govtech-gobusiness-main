@@ -1,10 +1,10 @@
 ---
-title: Telecommunication Wiring (Installer) Class Licence
-permalink: /browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Telecommunication-Wiring-(Installer)-Class-Licence
+title: Telecommunication Wiring Installer Class Licence
+permalink: /browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Telecommunication-Wiring-Installer-Class-Licence
 third_nav_title: Infocomm Media Development Authority (IMDA)
 ---
 
-## Apply for Telecommunication Wiring (Installer) Class Licence
+## Apply for Telecommunication Wiring Installer Class Licence
 
 Infocomm Media Development Authority (IMDA)
 
@@ -14,7 +14,7 @@ Infocomm Media Development Authority (IMDA)
 
 <H3>Application Details</H3>
 
-<p>For performing or carrying out personally installation or internal telecommunication wiring works.</p>
+<p>For carrying out installation, maintenance or repair of telecommunication wiring works</p>
 
 <strong>Additional Information</strong>
 
