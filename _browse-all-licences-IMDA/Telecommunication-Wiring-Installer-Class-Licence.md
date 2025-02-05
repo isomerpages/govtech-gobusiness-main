@@ -18,7 +18,7 @@ Infocomm Media Development Authority (IMDA)
 
 <strong>Additional Information</strong>
 
-<p><strong>Fee</strong><br />Licence Fee: $30.00</p>
+<p><strong>Fee</strong><br/>$30.00</p>
 
 <H3>Documents Needed</H3>
 
