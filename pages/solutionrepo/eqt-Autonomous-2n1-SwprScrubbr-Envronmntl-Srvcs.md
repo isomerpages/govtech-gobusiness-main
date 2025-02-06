@@ -11,7 +11,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Autonomous-2n1-SwprScr
 
 Cleaning robot that allows users to adopt multi-function autonomous scrubbing and sweeping functions.
 
-There is an equipment cap. Refer to BGP for details.
+There is an equipment cap. Please refer to BGP for details.
 
 ## Solution Packages Option(s)
 

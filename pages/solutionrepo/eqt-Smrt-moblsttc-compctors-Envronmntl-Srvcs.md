@@ -11,7 +11,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Smrt-moblsttc-compctor
 
 Equipment is fitted with fill level sensors or weight monitoring system to allow monitoring of fill level or weight in compactors. This allows operators to monitor its usage to facilitate and improve waste management operations.
 
-There is an equipment cap. Refer to BGP for details.
+There is an equipment cap. Please refer to BGP for details.
 
 ## Solution Packages Option(s)
 

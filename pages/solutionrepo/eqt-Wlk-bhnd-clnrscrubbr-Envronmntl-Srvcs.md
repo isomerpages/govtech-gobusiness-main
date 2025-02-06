@@ -11,7 +11,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Wlk-bhnd-clnrscrubbr-E
 
 Equipment is operated by 1 operator with solution tank capacity of > 1L to provide cleaning scrubbing performance.
 
-There is an equipment cap. Refer to BGP for details.
+There is an equipment cap. Please refer to BGP for details.
 
 ## Solution Packages Option(s)
 
