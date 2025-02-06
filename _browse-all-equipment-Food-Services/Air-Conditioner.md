@@ -30,9 +30,12 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Daikin - MKC70WVMG
 - Daikin - MKM100VVMG
 - Daikin - MKM50VVMG
+- Daikin - MKM50ZVMG
 - Daikin - MKM75VVMG
 - Daikin - MKM75VVMG-HW
+- Daikin - MKM75ZVMG
 - Daikin - MKM85VVMG
+- Daikin - MKM85ZVMG
 - Daikin - MKP50VVMG
 - Daikin - MKP75VVMG
 - Daikin - RKM25PVMG
@@ -115,6 +118,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Haier - 4U65RH1SRA
 - Haier - 4U80SH1SRA
 - Haier - 5U90NH1SRA
+- Hisense - AMW150TERQ
 - Hitachi - PAS-2.0UFASNQ1
 - Hitachi - RAM-Z23C2MS
 - Hitachi - RAM-Z30C3MS
@@ -163,6 +167,13 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Midea - MDV-V28WDHN1(SG)
 - Midea - MDV-V36WDHN1(SG)
 - Midea - MDV-V42WDHN1(SG)
+- Midea - MDV-V42WDHN1(SG2)
+- Midea - MDV-V48WDHN1(SG2)
+- Midea - MDV-V56WDHN1(SG2)
+- Midea - MEZ-3M28E
+- Midea - MEZ-4M32E
+- Midea - MGP-3M28E
+- Midea - MGP-4M32E
 - Midea - MKC-2M15E
 - Midea - MKC-3M22E
 - Midea - MKC-4M27E

@@ -1,10 +1,10 @@
 ---
-title: Singpass Foreign user Account (Individual)
+title: Singpass Foreign Account (Individual)
 permalink: /dashboard-faqs/account-access/foreign-users-individual
 third_nav_title: Account access
 ---
 
-### Register for a Singpass Foreign user Account
+### Register for a Singpass Foreign Account
 
 Register for an account with the links below, if you wish to apply for licences in your own name without a Singapore government-issued ID.
 
@@ -32,7 +32,7 @@ Register for an account with the links below, if you wish to apply for licences 
 
 {% include letter-accordion.html accordions=site.data.acc103c-account-access-foreign-business letter="b" %}
 
-### Singpass Foreign user Account on GoBusiness
+### Singpass Foreign Account on GoBusiness
 
 {% include letter-accordion.html accordions=site.data.acc103c-account-access-foreign-business letter="c" %}
 

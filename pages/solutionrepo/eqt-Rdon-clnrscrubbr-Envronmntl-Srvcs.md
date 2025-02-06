@@ -11,7 +11,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Rdon-clnrscrubbr-Envro
 
 A machine driven by 1 operator that is able to clean areas and surfaces, with solution tank capacity of > 30L.
 
-There is an equipment cap. Refer to BGP for details.
+There is an equipment cap. Please refer to BGP for details.
 
 ## Solution Packages Option(s)
 

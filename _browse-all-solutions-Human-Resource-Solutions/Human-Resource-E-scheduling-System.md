@@ -36,10 +36,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>JUSTLOGIN PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201324947N-QuckHR-Schdulng-G' target='_blank'>QuickHR (eScheduling)</a><br></td>
-<td>Enable Business Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201801640G-StffAny-G' target='_blank'>StaffAny</a><br></td>
 <td>Staffany Private Limited</td>
 </tr>

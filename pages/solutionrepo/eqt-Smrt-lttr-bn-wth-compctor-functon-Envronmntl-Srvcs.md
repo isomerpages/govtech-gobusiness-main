@@ -11,7 +11,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Smrt-lttr-bn-wth-compc
 
 It allows monitoring of bin fill levels, compacting of litter, sends notifications when bins are reaching capacity and allows gathering of data for analytics to facilitate and improve efficiency of waste management operations. Equipment needs to be integrated with fill-level sensor(s) and communication system(s), with a minimum bin capacity of 120L.
 
-There is an equipment cap. Refer to BGP for details.
+There is an equipment cap. Please refer to BGP for details.
 
 ## Solution Packages Option(s)
 

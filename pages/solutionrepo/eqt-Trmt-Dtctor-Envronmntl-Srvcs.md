@@ -11,7 +11,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Trmt-Dtctor-Envronmntl
 
 A device with components such as scanners and sensors to detect termites. The device is able to capture data and generate report relating to termites.
 
-There is an equipment cap. Refer to BGP for details.
+There is an equipment cap. Please refer to BGP for details.
 
 ## Solution Packages Option(s)
 
