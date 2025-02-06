@@ -11,6 +11,8 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-All-Trrn-Swpr-Envronmn
 
 Ride on, outdoor sweeper system/equipment that can travel and perform cleaning operations on various types of terrains (e.g., concretized, muddy, etc), or public roads (e.g., site roads, expressway etc), with a hopper volume of >200L.
 
+There is an equipment cap. Please refer to BGP for details.
+
 ## Solution Packages Option(s)
 
 <table>
@@ -22,7 +24,7 @@ Ride on, outdoor sweeper system/equipment that can travel and perform cleaning o
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>All Terrain Sweeper</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>Grant cap: Up to S$37,900 per unit</td>
+<td style='padding: 10px;'>N.A</td>
 </tr>
 </table>
 

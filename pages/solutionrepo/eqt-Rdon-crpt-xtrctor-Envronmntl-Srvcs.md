@@ -11,6 +11,8 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Rdon-crpt-xtrctor-Envr
 
 Deep cleaning extraction technology to remove dirt and debris for carpet flooring, with a liquid solution tank with a minimum capacity of 100L and recovery tank with minimum capacity of 100L.
 
+There is an equipment cap. Please refer to BGP for details.
+
 ## Solution Packages Option(s)
 
 <table>
@@ -22,7 +24,7 @@ Deep cleaning extraction technology to remove dirt and debris for carpet floorin
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ride-on carpet extractor</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>Grant cap: Up to S$13,200 per unit</td>
+<td style='padding: 10px;'>N.A</td>
 </tr>
 </table>
 

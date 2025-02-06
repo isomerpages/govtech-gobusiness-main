@@ -11,6 +11,8 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Autonomous-Dsnfctnt-Sp
 
 A robotic disinfectant sprayer suitable for disinfecting cleaning such as in health care settings  (e.g hospital, clinics, nursing homes), with a minimum solution tank capacity of 10L.
 
+There is an equipment cap. Please refer to BGP for details.
+
 ## Solution Packages Option(s)
 
 <table>
@@ -22,7 +24,7 @@ A robotic disinfectant sprayer suitable for disinfecting cleaning such as in hea
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autonomous Disinfectant Sprayer</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>Grant cap: Up to S$15,000 per unit</td>
+<td style='padding: 10px;'>N.A</td>
 </tr>
 </table>
 
