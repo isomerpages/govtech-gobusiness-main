@@ -412,7 +412,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Special Purpose Station](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10016)
 - [Technical Trial (with use of Frequency)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10072)
 - [Technical Trial (without Frequency)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10071)
-- [Telecommunication Cable Detection Worker Class Licence](https://dashboard.gobusiness.gov.sg/task-details/cabledetection)
+- [Telecommunication Cable Detection Worker Licence](https://dashboard.gobusiness.gov.sg/task-details/cabledetection)
 - [Telecommunication Dealer's (Class) Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=25)
 - [Telecommunication Dealer's (Individual) Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=26)
 - [Telecommunication Wiring Contractor Class Licence](https://dashboard.gobusiness.gov.sg/task-details/wiringcontractor)
