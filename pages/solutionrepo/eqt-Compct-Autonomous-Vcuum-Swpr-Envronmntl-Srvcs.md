@@ -11,6 +11,8 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Compct-Autonomous-Vcuu
 
 Robotic vacuum sweeper suitable for cleaning in small-scale settings such as in office (e.g beneath furniture, desks, etc), with bin capacity ranging from 1L - 5L.
 
+There is an equipment cap. Please refer to BGP for details.
+
 ## Solution Packages Option(s)
 
 <table>
@@ -22,7 +24,7 @@ Robotic vacuum sweeper suitable for cleaning in small-scale settings such as in 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Compact Autonomous Vacuum Sweeper</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>Grant cap: Up to S$5,500 per unit</td>
+<td style='padding: 10px;'>N.A</td>
 </tr>
 </table>
 

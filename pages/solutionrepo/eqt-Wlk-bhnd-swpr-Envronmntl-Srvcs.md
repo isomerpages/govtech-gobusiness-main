@@ -11,6 +11,8 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Wlk-bhnd-swpr-Envronmn
 
 The walk-behind sweeper is able to provide consistent cleaning sweeping performance, with a hopper volume of > 20L.
 
+There is an equipment cap. Please refer to BGP for details.
+
 ## Solution Packages Option(s)
 
 <table>
@@ -22,7 +24,7 @@ The walk-behind sweeper is able to provide consistent cleaning sweeping performa
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Walk behind sweeper</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>Grant cap: Up to S$300 per unit</td>
+<td style='padding: 10px;'>N.A</td>
 </tr>
 </table>
 

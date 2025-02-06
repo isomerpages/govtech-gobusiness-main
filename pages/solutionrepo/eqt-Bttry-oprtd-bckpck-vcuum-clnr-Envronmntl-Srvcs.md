@@ -11,6 +11,8 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Bttry-oprtd-bckpck-vcu
 
 Battery operated carry on equipment for cleaning of confined spaces (e.g., stairways, cinema aisles, etc.).
 
+There is an equipment cap. Please refer to BGP for details.
+
 ## Solution Packages Option(s)
 
 <table>
@@ -22,7 +24,7 @@ Battery operated carry on equipment for cleaning of confined spaces (e.g., stair
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Battery operated backpack vacuum cleaner</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>Grant cap: Up to S$700 per unit</td>
+<td style='padding: 10px;'>N.A</td>
 </tr>
 </table>
 

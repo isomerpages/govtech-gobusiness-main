@@ -12,6 +12,8 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Bttry-oprtd-Lf-Blowr-B
 Battery operated device that generates air stream, primarily used for clearing items such as leaves, debris, and grass clippings from common spaces. It can include vacuum function.
 (Only applicable for licensed cleaning / waste / pest management companies)
 
+There is an equipment cap. Please refer to BGP for details.
+
 ## Solution Packages Option(s)
 
 <table>
@@ -23,7 +25,7 @@ Battery operated device that generates air stream, primarily used for clearing i
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Battery operated Leaf Blower / Blower Vacuum</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>Grant cap: Up to S$500 per unit</td>
+<td style='padding: 10px;'>N.A</td>
 </tr>
 </table>
 
