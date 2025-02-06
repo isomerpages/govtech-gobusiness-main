@@ -11,6 +11,8 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-All-Trrn-Mstr-Envronmn
 
 A system (autonomous or remote operated) that can traverse/navigate spaces to perform fogging/misting operations on various types of terrains (e.g., concretized, muddy, etc), with a solution tank capacity of 100L and above. It may include GPS function to map out area for complete autonomous function.
 
+There is an equipment cap. Please refer to BGP for details.
+
 ## Solution Packages Option(s)
 
 <table>
@@ -22,7 +24,7 @@ A system (autonomous or remote operated) that can traverse/navigate spaces to pe
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>All Terrain Mister</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>Grant cap: Up to S$30,600 per unit</td>
+<td style='padding: 10px;'>N.A</td>
 </tr>
 </table>
 

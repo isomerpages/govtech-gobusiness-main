@@ -11,6 +11,8 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Smrt-Blr-sys-Envronmnt
 
 The system uses sensor technology to detect and compacts materials automatically to facilitate the transportation of the materials. It has hands-free automatic baling, providing variable bale length control, and must be conveyor feed compatible.
 
+There is an equipment cap. Please refer to BGP for details.
+
 ## Solution Packages Option(s)
 
 <table>
@@ -22,7 +24,7 @@ The system uses sensor technology to detect and compacts materials automatically
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Smart Baler System</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>Grant cap: Up to S$102,000 per unit</td>
+<td style='padding: 10px;'>N.A</td>
 </tr>
 </table>
 

@@ -11,6 +11,8 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Rdon-clnrscrubbr-Envro
 
 A machine driven by 1 operator that is able to clean areas and surfaces, with solution tank capacity of > 30L.
 
+There is an equipment cap. Please refer to BGP for details.
+
 ## Solution Packages Option(s)
 
 <table>
@@ -22,7 +24,7 @@ A machine driven by 1 operator that is able to clean areas and surfaces, with so
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ride-on cleaner/scrubber</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>Grant cap: Up to S$5,500 per unit</td>
+<td style='padding: 10px;'>N.A</td>
 </tr>
 </table>
 

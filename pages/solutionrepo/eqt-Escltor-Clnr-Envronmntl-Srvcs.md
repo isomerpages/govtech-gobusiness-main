@@ -11,6 +11,8 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Escltor-Clnr-Envronmnt
 
 Automated machine that is able to function in either dry or wet mode to clean escalators and travellators. It must be able to perform brushing and vacuuming functions to remove dirt and water.
 
+There is an equipment cap. Please refer to BGP for details.
+
 ## Solution Packages Option(s)
 
 <table>
@@ -22,7 +24,7 @@ Automated machine that is able to function in either dry or wet mode to clean es
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Escalator Cleaner</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>Grant cap: Up to S$3,100 per unit</td>
+<td style='padding: 10px;'>N.A</td>
 </tr>
 </table>
 
