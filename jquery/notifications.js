@@ -7,7 +7,7 @@ const custom_notifications = [
   //multiple services
   "<b>[Attention: System Maintenance]</b> Certain GoBusiness services will be unavailable due to upcoming maintenance. Please check our <B><u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>maintenance schedule</a></u></B> for details.",
   "<b>[Attention: Important Announcement]</b> For IR1, IR2, IR3, IR4A/B, IR5A/B/C, R1, N1, N2, N3, N4A/B licences, you are advised to submit your draft applications before 19 Feb 2025. Draft applications created prior to 19 Feb 2025 may no longer be submitted after 19 Feb 2025 due to updates made to the application forms. <br>Alternatively, you may wish to initiate your applications after 19 Feb 2025 so that you can use the updated application forms.", 
-  "[Attention: System Maintenance]</b> GoBusiness Dashboard will not be available from 8 Feb, 9pm till 9 Feb, 8am due to system maintenance."
+  "<b>[Attention: System Maintenance]</b> GoBusiness Dashboard will not be available from 8 Feb, 9pm till 9 Feb, 8am due to system maintenance."
 
 ]; 
 
