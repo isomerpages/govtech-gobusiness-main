@@ -81,6 +81,11 @@
     /* flex: 1 0 auto; */
     padding: 0;
   }
+  .resizable-logo {
+  width: auto; /* Maintain aspect ratio */
+  height: 50px; /* Set a fixed height or use percentages, vw, etc. */
+  max-width: 100%; /* Ensure it doesn't exceed its container's width */
+}
 </style>
 <footer class="bp-footer" style="padding-bottom: 0px">
   <div class="bp-container">
@@ -102,7 +107,8 @@
             />
           </div>
           <div class="pre-footer__image">
-            <img src="/images/GovTechSg-True-Inline-Logo-2-White.png" alt="Singapore Govtech Logo" />
+            <img src="/images/GovTechSg-True-Inline-Logo-2-White.png" alt="Singapore Govtech Logo" class="resizable-logo"
+            />
           </div>
         </div>
       </div>
