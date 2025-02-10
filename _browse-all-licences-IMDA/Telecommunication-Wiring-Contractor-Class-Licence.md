@@ -23,9 +23,8 @@ Infocomm Media Development Authority (IMDA)
 <H3>Documents Needed</H3>
 
 <ul>
-<li>Documentary evidence to show proof of employment of wiring installer (e.g. CPF Statement) and Telecommunication Wiring Installer Licence</li>
-<li>Documentary evidence to show proof of business profile if applicant is the owner and Telecommunication Wiring Installer Licence</li>
-<li>Letter of Authentication for Third Party (if applicable)</li>
+<li>Documentary evidence to show proof of employment of wiring installer (e.g. CPF statement) and a Telecommunication Wiring Installer Class Licence</li>
+<li>Documentary evidence to show proof of business ownership if applicant is both the owner and wiring installer (e,g, ACRA business profile) and a Telecommunication Wiring Installer Class Licence</li>
 </ul>
 
 <H3>Requirements</H3>
