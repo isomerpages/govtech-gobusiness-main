@@ -9,8 +9,7 @@ third_nav_title: Account access
 Register for an account with the links below, if you wish to apply for licences in your own name without a Singapore government-issued ID.
 
 **Cybersecurity Services Regulation Office (CSRO)**
-<br>[Account Registration Form (CSRO licences)](https://go.gov.sg/csro-sfa)
-<br>To apply for CSRO licences, please complete this form.
+<br>For foreign individuals applying for CSRO licences, please contact <a title="" href="mailto:contact@csro.gov.sg" target="_blank" rel="noopener">contact@csro.gov.sg</a> for futher instructions.
 
 **Infocomm Media Development Authority (IMDA)**
 <br>[Account Registration Form (IMDA licences)](https://go.gov.sg/imda-sfa)
