@@ -10,7 +10,7 @@ Infocomm Media Development Authority (IMDA)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/filmdistributionexhibition" type="primary" %}
+{% include button.html text="Apply on IMDA" src="https://iris.imda.gov.sg/applications" type="primary" %}
 
 <H3>Application Details</H3>
 
@@ -18,7 +18,8 @@ Infocomm Media Development Authority (IMDA)
 
 <strong>Additional Information</strong>
 
-<p><strong>Fee</strong><br />Licence Fee: To be determined</p>
+<p><strong>Licence Fee</strong><br>Not required</p>
+<p><strong>Security Deposit</strong><br>Film Exhibition (Restricted) Licence (1-year or 3-year) - $20,000 per licence<br>Film Exhibition (Restricted) Licence (Temporary) - $10,000 per exhibition point</p>
 
 <H3>Documents Needed</H3>
 

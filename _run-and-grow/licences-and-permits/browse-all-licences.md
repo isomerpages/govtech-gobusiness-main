@@ -93,7 +93,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 ## Arts & Media
 - [Arts Entertainment Licence](https://dashboard.gobusiness.gov.sg/task-details/artsentertainmentlicence)
 - [Computer Online Service Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10068)
-- [Film (Distribution/Exhibition) Licence](https://dashboard.gobusiness.gov.sg/task-details/filmdistributionexhibition)
+- [Film (Distribution/Exhibition) Licence](https://iris.imda.gov.sg/applications)
 - [Nationwide TV Service Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10064)
 - [Newspaper Permit](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=13)
 - [Niche Television Service Licence](https://dashboard.gobusiness.gov.sg/task-details/nichetv)
