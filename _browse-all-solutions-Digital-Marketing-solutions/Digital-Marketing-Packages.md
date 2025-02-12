@@ -88,6 +88,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Fier Capital Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201916250E-DM-GENIA-Smntc-SEO-G' target='_blank'>DM GENIA Semantic SEO</a><br></td>
+<td>THE GENIA PTE. LTD.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202012036D-DM-Gudsfy-Dgtl-Mrktng-PKG-G' target='_blank'>DM Guidesify Digital Marketing Packages</a><br></td>
 <td>Guidesify Pte. Ltd.</td>
 </tr>
@@ -178,10 +182,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202020389H-DM-Wolfgng-Crtvs-Dgtl-Mrktng-PKG-G' target='_blank'>DM Wolfgang Creatives Digital Marketing Packages</a><br></td>
 <td>Wolfgang Creatives Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201916250E-DM-GENIA-Smntc-SEO-G' target='_blank'>DM GENIA Semantic SEO</a><br></td>
-<td>THE GENIA PTE. LTD.</td>
 </tr>
 </table>
 

@@ -20,6 +20,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201808388R-AI-Customr-Enggmnt-G' target='_blank'>AI Customer Engagement</a><br></td>
+<td>VisionTech Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201509275C-OLLA-AI-G' target='_blank'>OLLA AI</a><br></td>
 <td>CLOUDE8 PTE. LTD.</td>
 </tr>
@@ -34,10 +38,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201736601Z-Wbsntls-Omnbot-G' target='_blank'>Websentials Omnibot</a><br></td>
 <td>Websentials Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201808388R-AI-Customr-Enggmnt-G' target='_blank'>AI Customer Engagement</a><br></td>
-<td>VisionTech Pte Ltd</td>
 </tr>
 </table>
 
