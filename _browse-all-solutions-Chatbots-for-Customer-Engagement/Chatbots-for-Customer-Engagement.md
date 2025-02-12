@@ -35,6 +35,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td><a href='/productivity-solutions-grant/solutionrepo/201736601Z-Wbsntls-Omnbot-G' target='_blank'>Websentials Omnibot</a><br></td>
 <td>Websentials Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201808388R-AI-Customr-Enggmnt-G' target='_blank'>AI Customer Engagement</a><br></td>
+<td>VisionTech Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
