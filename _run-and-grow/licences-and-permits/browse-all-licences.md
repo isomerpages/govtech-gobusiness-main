@@ -418,7 +418,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Telecommunication Wiring Contractor's (Class) Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=31)
 - [Telecommunication Wiring Installer's Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10018)
 - [Temporary Use of Radio Frequency](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10073)
-- [TV Receive-Only System Licence](https://dashboard.gobusiness.gov.sg/task-details/tvreceiveonlysystem)
+- [TV Receive-Only System Licence](https://iris.imda.gov.sg/application/television-receive-only-satellite-receiving-system-licence)
 - [Wide-Area Private Network Licence](https://dashboard.gobusiness.gov.sg/task-details/wideareaprivatenetwork)
 
 <a name="tourism"></a>
