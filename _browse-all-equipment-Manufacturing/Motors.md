@@ -17,7 +17,7 @@ permalink: /browse-all-equipment-Manufacturing/Motors
 
 Up to 70% for SMEs, 30% for non-SMEs
 
-Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a>.
+Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}.
 
 ### Pre-Approved Equipment Brands and Models
 
@@ -41,7 +41,6 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - ABB - M3BP 160MLA 2 (IE4)
 - ABB - M3BP 160MLC 2 (IE4)
 - ABB - M3BP 180MLA 2 (IE4)
-- ABB - M3BP 180MLA 4
 - ABB - M3BP 180MLA 6 (IE4)
 - ABB - M3BP 200MLA 4 (IE4)
 - ABB - M3BP 200MLB 2 (IE4)
@@ -136,6 +135,10 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - INNOMOTICS  -  1CV4317A
 - INNOMOTICS  -  1CV4317B
 - INNOMOTICS  -  1CV4353A
+- INNOMOTICS  - 1CV4222B
+- INNOMOTICS  - 1CV4316B
+- INNOMOTICS  - 1CV4352C
+- INNOMOTICS  - 1CV4353B
 - INNOMOTICS - 1CV4130A
 - INNOMOTICS - 1CV4164A
 - Leroy Somer - 2P LSES 280MD 90KW
@@ -267,8 +270,10 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - WEG  -  W22_IE4_15KW_2P
 - WEG - W21_IE4_0.75KW_4P
 - WEG - W21_IE4_1.1KW_4P
+- WEG - W21_IE4_1.5kW_4P
 - WEG - W21_IE4_132KW_4P
 - WEG - W21_IE4_15KW_4P
+- WEG - W21_IE4_160kW_2P
 - WEG - W21_IE4_18.5KW_2P
 - WEG - W21_IE4_18.5KW_4P
 - WEG - W21_IE4_18.5KW_6P

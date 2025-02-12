@@ -11,6 +11,8 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Smrt-lttr-bn-wth-compc
 
 It allows monitoring of bin fill levels, compacting of litter, sends notifications when bins are reaching capacity and allows gathering of data for analytics to facilitate and improve efficiency of waste management operations. Equipment needs to be integrated with fill-level sensor(s) and communication system(s), with a minimum bin capacity of 120L.
 
+There is an equipment cap. Please refer to BGP for details.
+
 ## Solution Packages Option(s)
 
 <table>
@@ -22,7 +24,7 @@ It allows monitoring of bin fill levels, compacting of litter, sends notificatio
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Smart litter bin with compactor function</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>Grant cap: Up to S$4,100 per unit</td>
+<td style='padding: 10px;'>N.A</td>
 </tr>
 </table>
 
