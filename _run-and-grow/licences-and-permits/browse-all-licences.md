@@ -10,7 +10,7 @@ anchorlinks:
   - anchor: '#aviation'
     anchor_text: 'Aviation'
   - anchor: '#building-and-construction'
-    anchor_text: 'Building & Construction'
+    anchor_text: 'Built Environment'
   - anchor: '#cybersecurity'
     anchor_text: 'Cybersecurity'
   - anchor: '#education'
@@ -119,7 +119,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 
 <a name="building-and-construction"></a>
 
-## Building & Construction
+## Built Environment
 - [Advertising Sign/ Signboard Licence](https://eservices.bca.gov.sg/advertisementlicence)
 - [Amusement Rides Permit](https://www1.bca.gov.sg/regulatory-info/amusement-rides)
 - [Approval for Additions & Alterations to a Conserved Building](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Planning-Permission/using-CORENET-eSS)
