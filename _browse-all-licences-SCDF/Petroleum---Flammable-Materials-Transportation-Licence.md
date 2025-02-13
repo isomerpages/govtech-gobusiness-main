@@ -8,14 +8,7 @@ third_nav_title: Singapore Civil Defence Force (SCDF)
 
 Singapore Civil Defence Force (SCDF)
 
-{% include licence-apply-button.html %}
-<a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=17" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>
-<div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-size: 18px; color: #313840;">
-<img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;">
-<span style="font-weight: bold; font-family: hknova-bold; font-size: 18px; ">Please use desktop / laptop to apply for this licence.</span><br>
-<span style="font-family: hknova-regular;">You can only view application details and make payment via mobile. Please use GoBusiness Licensing on desktop to use all features.</span><br><br>
-<a id="mobileNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=17" target="_blank" rel="noopener">Continue to GoBusiness Licencing anyway</a>
-</div>
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/pfmt" type="primary" %}
 
 <H3>Application Details</H3>
 
@@ -30,7 +23,6 @@ Singapore Civil Defence Force (SCDF)
 <li><strong>Who can I contact for further details?</strong><br>For further clarification, you may contact Licensing Officers at the following contact nos. :<br>Email: <a href="mailto:Md_Razif_Abd_Rahman@scdf.gov.sg" target="_blank" rel="noopener">Md_Razif_Abd_Rahman@scdf.gov.sg</a><br>Name: Mohammad Razif Bin Abdul Rahman<br>Designation: Senior Transport Licensing Specialist<br>Contact: <a>68481474</a><br><br>Email: <a href="Claire_Yeo@scdf.gov.sg" target="_blank" rel="noopener">Claire_Yeo@scdf.gov.sg</a><br>Name: Clare Yeo<br>Designation:&nbsp;Transport Licensing Specialist<br>Contact: <a>68481474</a><br><br>Central Tel line: <a>68481472</a><br><br></li>
 <li><strong>What is the application process like?</strong><br>You can submit the application form and the supporting documents, if required, via the GoBusiness Licensing. As the applicant, you can either file personally or authorise a representative to apply on your behalf. For offline submission, please indicate the case ID number on your supporting documents before sending to SCDF/CED.</li>
 </ol>
-
 
 <strong>Additional Information</strong>
 
