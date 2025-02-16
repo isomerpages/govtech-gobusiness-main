@@ -16,7 +16,6 @@ Singapore, you will need to complete the steps listed below.
 {% include panels-featurelink.html panels=site.data.rgp011_import-export %}
 
 
-
 ---
 
 ### Timeline of things to do to operate in Singapore
