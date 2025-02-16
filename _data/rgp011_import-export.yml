@@ -11,7 +11,7 @@
   text: Find Out More
 
 - title: "Step 3: If your goods are controlled, apply for relevant Licence(s) from Competent Authority CA"
-  description: A Harmonised System (HS) code is required for all goods moving in and out of Singapore. Some goods are controlled and may be subjected to additional requirements.
+  description: Use the HS/CA Product Code Checker to find out the recommended licences.
   url: https://eadviser.gobusiness.gov.sg/ipservice?src=ipgrow-about
   url-new-tab: false
   text: Find Out More
@@ -23,7 +23,7 @@
   text: Find Out More
 
 - title: "Step 5: Apply for Interbank GIRO (IBG) and eGuarantees"
-  description: Payment of duties, taxes fees and any other charges are deducted via IBG. eGuarantees may not required for regulatory requirements and revenue protection purposes.
+  description: Payment of duties, taxes fees and any other charges are deducted via IBG. <br>eGuarantees may not required for regulatory requirements and revenue protection purposes.
   url: https://eadviser.gobusiness.gov.sg/ipservice?src=ipgrow-about
   url-new-tab: false
   text: Find Out More
