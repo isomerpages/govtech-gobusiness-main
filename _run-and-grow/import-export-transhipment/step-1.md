@@ -1,6 +1,6 @@
 ---
 title: Activate your Customs Account via TradeNet
-permalink: /run-and-grow/import-export-transhipment/step-1
+permalink: /import-export-transhipment/step-1
 third_nav_title: Import, Export, and Transhipment
 ---
 
@@ -12,7 +12,7 @@ third_nav_title: Import, Export, and Transhipment
     <th style='width: auto;'><b>Description</b></th>
     </tr>
     <tr>
-    <td><a href='https://www.customs.gov.sg/businesses/new-traders-and-registration-services/registration-services/activate-customs-account/' target='_blank'>Information on CUStoms Account</a></td>
+    <td><a href='https://www.customs.gov.sg/businesses/new-traders-and-registration-services/registration-services/activate-customs-account/' target='_blank'>Information on CuStoms Account</a></td>
     <td>More details on Customs Accounts and which activities and permits require it.
     </td>
     </tr>
