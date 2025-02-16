@@ -1,9 +1,8 @@
-- image: <img src="/images/start/submitreturns-icon.png" aria-hidden="true">
-  title: I want guidance for starting a business
-  description: Get step-by-step guidance in starting a business and registering it with this e-Adviser. 
+- title: "Step 1: Activate your Customs Account via TradeNet"
+  description: To perform transactions with Singapore Customs
   url: https://eadviser.gobusiness.gov.sg/startabusiness/?src=startup_guide
-  url-new-tab: true
-  text: Go to e-Adviser for Starting a Business
+  url-new-tab: false
+  text: Find Out More
 
 # - title: Step 1: Activate your Customs Account via TradeNet
 #   description: To perform transactions with Singapore Customs
