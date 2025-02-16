@@ -1,7 +1,7 @@
 ---
 title: Activate your Customs Account via TradeNet
-permalink: /intellectual-property/ip-grow/
-third_nav_title: Intellectual Property
+permalink: /run-and-grow/import-export-transhipment/step-1
+third_nav_title: Import, Export, and Transhipment
 ---
 
 ## Step 1: Activate your Customs Account via TradeNet
