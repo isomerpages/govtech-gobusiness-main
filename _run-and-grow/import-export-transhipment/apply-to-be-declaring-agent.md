@@ -22,7 +22,7 @@ third_nav_title: Import, Export, and Transhipment
     </td>
     </tr>
     <tr>
-    <td><a href='https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct' target='_blank'>Register as a Declaring Agent</a>
+    <td><a href='https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct' target='_blank'>Register as a Declaring Agent</a><br>
     <a href='https://www.tradenet.gov.sg/TN41EFORM/tdsui/authdeclaringagent/addanddelete.do?doAction=INITIALIZE&APPLICATION_ID=TXWP' target='_blank'>Application for the Authorisation of-Declaring-Agent(s)</a></td>
     <td>Log into TradeNet to register as DA or authorise a DA.
     </td>

@@ -48,4 +48,7 @@ collections:
       - import-export-transhipment/imports-exports.md
       - import-export-transhipment/overview.md
       - import-export-transhipment/activate-customs-account.md
+      - import-export-transhipment/determine-hs-code-goods.md
+      - import-export-transhipment/apply-for-relevant-licences.md
+      - import-export-transhipment/apply-to-be-declaring-agent.md
       - gebiz-alerts.md
