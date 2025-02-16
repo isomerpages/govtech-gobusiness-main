@@ -1,4 +1,5 @@
 - title: "Step 1: Activate your Customs Account via TradeNet"
+  is_new: true
   description: To perform transactions with Singapore Customs
   url: https://eadviser.gobusiness.gov.sg/ipservice?src=ipgrow-about
   url-new-tab: false

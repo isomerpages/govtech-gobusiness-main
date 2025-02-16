@@ -1,6 +1,6 @@
 ---
 title: Activate your Customs Account via TradeNet
-permalink: /import-export-transhipment/step-1
+permalink: /import-export-transhipment/activate-customs-account/
 third_nav_title: Import, Export, and Transhipment
 ---
 

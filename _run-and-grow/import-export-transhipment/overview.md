@@ -1,12 +1,12 @@
 ---
 title: Overview
-permalink: /run-and-grow/import-export-transhipment
+permalink: /run-and-grow/import-export-transhipment/
 third_nav_title: Import, Export, and Transhipment
 ---
 
 ## Getting Started
 
-<!-- image -->
+<!-- ![Start Biz Structure](/images/start/StartSJ_BusinessStructure.jpg) -->
 
 If your business entity wishes to engage in import, export and/or transhipment activities in
 Singapore, you will need to complete the steps listed below.
