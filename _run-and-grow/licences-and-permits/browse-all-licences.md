@@ -93,7 +93,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 ## Arts & Media
 - [Arts Entertainment Licence](https://dashboard.gobusiness.gov.sg/task-details/artsentertainmentlicence)
 - [Computer Online Service Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10068)
-- [Film (Distribution/Exhibition) Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=15)
+- [Film (Distribution/Exhibition) Licence](https://iris.imda.gov.sg/applications)
 - [Nationwide TV Service Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10064)
 - [Newspaper Permit](https://dashboard.gobusiness.gov.sg/task-details/newspaperpermit)
 - [Niche Television Service Licence](https://dashboard.gobusiness.gov.sg/task-details/nichetv)
@@ -404,9 +404,9 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Registration for Internet Access Service Providers and Resellers Class Licence](https://dashboard.gobusiness.gov.sg/task-details/internetaccessserviceproviders)
 - [Registration Form C for Class Licensable Broadcasting Services](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10066)
 - [Restricted Operator's Certificate of Competency](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10075)
-- [Satellite Communication Station Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=33)
-- [Services-Based Operations (Class) Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=29)
-- [Services-Based Operator (Individual) Licence](https://dashboard.gobusiness.gov.sg/task-details/sboclass)
+- [Satellite Communication Station Licence](https://dashboard.gobusiness.gov.sg/task-details/satellitecommunication)
+- [Services-Based Operations (Class) Licence](https://dashboard.gobusiness.gov.sg/task-details/sboclass)
+- [Services-Based Operations (Individual) Licence](https://dashboard.gobusiness.gov.sg/task-details/sboindividual)
 - [Ship Station Licence](https://dashboard.gobusiness.gov.sg/task-details/shipstation)
 - [Simplified Equipment Registration (SER)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10078)
 - [Special Purpose Station](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10016)
@@ -418,7 +418,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Telecommunication Wiring Contractor Class Licence](https://dashboard.gobusiness.gov.sg/task-details/wiringcontractor)
 - [Telecommunication Wiring Installer Class Licence](https://dashboard.gobusiness.gov.sg/task-details/wiringinstaller)
 - [Temporary Use of Radio Frequency](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10073)
-- [TV Receive-Only System Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=9)
+- [TV Receive-Only System Licence](https://iris.imda.gov.sg/application/television-receive-only-satellite-receiving-system-licence)
 - [Wide-Area Private Network Licence](https://dashboard.gobusiness.gov.sg/task-details/wideareaprivatenetwork)
 
 <a name="tourism"></a>
