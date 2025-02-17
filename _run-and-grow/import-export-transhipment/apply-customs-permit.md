@@ -46,6 +46,10 @@ third_nav_title: Import, Export, and Transhipment
  <li><a href='https://www.customs.gov.sg/businesses/transhipping-goods/transhipment-procedures/documentation-for-clearance-of-goods/' target='_blank'>Transhipment</a></li>
  </ul>
  </td>
+ <td>
+Different requirements depending on the mode (via air, sea, land).<br><br>
+E.g. customs permit, invoice, packing list, bill of lading.
+ </td>
  </tr>
 </table>
 
