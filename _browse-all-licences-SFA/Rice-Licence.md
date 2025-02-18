@@ -10,7 +10,7 @@ Singapore Food Agency (SFA)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on SFA" src="https://dashboard.gobusiness.io/task-details/ricelicence" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/ricelicence" type="primary" %}
 
 <H3>Application Details</H3>
 
