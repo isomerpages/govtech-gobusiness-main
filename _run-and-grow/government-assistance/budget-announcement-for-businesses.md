@@ -16,7 +16,7 @@ Find out which schemes you may be eligible for, and how you can apply for them i
 
 Visit the [MOF website](https://www.mof.gov.sg/singaporebudget){:target="_blank"}{:rel="noopener"} for more information on Budget 2025.
 
-
+<!-- accordions=site.data.acc078a-budget2024 -->
 
 <b>Stay Tuned: More information related to Budget 2025 for Businesses will be updated here progressively.</b>
 
@@ -30,7 +30,3 @@ Simply answer a few questions about your business needs to get our recommendatio
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
-
-```
-{% include letter-accordion.html accordions=site.data.acc078a-budget2024 letter="a" %}
-```
