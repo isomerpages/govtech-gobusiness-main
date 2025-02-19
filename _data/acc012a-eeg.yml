@@ -9,7 +9,7 @@
       content: |
         As of 30 December 2024, eligible companies<sup>1</sup> in Construction, Food Services, Manufacturing (including Food Manufacturing), Maritime, Retail sectors and users of data centres will be able to tap on the EEG.
 
-        <sup>1</sup>Based on company's ACRA registered SSIC code.
+        <sup>1</sup>Based on company's ACRA registered primary or secondary SSIC code.
 
 - accordion:
   letter: b
@@ -25,6 +25,14 @@
             - <b>Port</b> companies classified under <b>SSIC 23940, 24109, 49231, 50021, 50023, 52101, 52221, 52222, 52224, 52243, 52292</b>
           - <b>Retail</b> companies classified under <b>SSIC 47</b>
         <br><br>
+
+        The following entities do not qualify for grant support:
+        - Charities
+        - Institutions of Public Characters (IPCs)
+        - Religious entities
+        - Voluntary Welfare Organisations (VWOs)
+        - Government agencies and subsidiaries
+        - Co-operative societies and societies
         
         Business entities using commercial data centres in Singapore who meet the [Data Centre Sector eligibility requirements](/energy-efficiency-grant/#eeg-eligibility) can tap on pre-approved energy efficient equipment for the data centre sector regardless of industry.
 
@@ -41,7 +49,20 @@
         <sup>5</sup> SME is defined as having:
         - Group Annual Sales Turnover of not more than S$100 million; or
         - Group Employment Size of not more than 200 workers
-        
+    
+    - title: Which agency will process my EEG (Base) application?
+      content: |
+        The following EEG administering agencies will administer the applications from eligible companies from the respective sectors.
+        - Building and Construction Agency (BCA): <b>Construction</b>
+        - National Environment Agency (NEA): <b>Manufacturing<b/> (including Food <b>Manufacturing<b/>)
+        - Maritime and Port Authority of Singapore (MPA): <b>Maritime<b/>
+        - Enterprise Singapore: <b>Food Services<b/> and <b>Retail<b/>
+        - Infocomm Media Development Authority: Eligible companies tapping on pre-approved energy efficient equipment for the data centre sector
+
+        When submitting an application, companies should select their sector based on their primary SSIC registration as a default. [Exception: If energy efficiency equipment is supportable on the secondary SSIC only, companies may then select their sector based on their secondary SSIC.]
+
+        You may be asked to resubmit your application with the appropriate administering agency<sup>5</sup> in the event of an incorrect selection.
+
     - title: Where can I find the list of support equipment under the EEG(Base)?
       content: |
         The list of EEG equipment supported can be found on [GoBusiness](/energy-efficiency-grant/){:target="_blank"}{:rel="noopener"}.
@@ -58,10 +79,6 @@
       content: |
         The grant application window for the EEG (Base) is from 1 April 2024 to 31 March 2026.
         
-        Companies will have up to 1 year from the time an application is approved to purchase and install<sup>6</sup> the equipment and submit claims for reimbursement. Once an application has been submitted, companies may choose to proceed to purchase the equipment before the application outcome. However, companies will not be able to claim subsequently if the application is unsuccessful. 
-
-        <sup>6</sup> Only the actual purchase of the equipment is supportable. This excludes other related administrative fees/charges, e.g. delivery fees, installation.
-
     - title: How to apply for the EEG (Base)?
       content: |
         Applications will be submitted through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"} which is a one-stop portal for business to apply for government grants.<br>
@@ -70,6 +87,8 @@
         i. Visit GoBusiness to access the list of supported equipment brands and models.<br>
         ii. Obtain quotations from the vendor.<br>
         iii. Submit an application on the BGP. Companies will need to have a CorpPass account to transact on the BGP.<br>
+
+        Companies will have up to one year from the time an application is approved to purchase and install 6 the equipment, and submit claims for reimbursement. Once an application has been submitted, companies may choose to proceed to purchase and/or install the equipment before the application outcome. However, companies will not be able to claim subsequently for costs incurred if the application is unsuccessful.
 
         Companies should not have made payment, and/or have any form of deposits prior to application.
 
@@ -160,7 +179,7 @@
       content: |
         As of 30 December 2024, eligible companies in the Construction, Manufacturing (including Food Manufacturing) and Maritime sectors<sup>1</sup> can apply for the EEG (Advanced). 
 
-        <sup>1</sup> Based on company's ACRA registered SSIC code.
+        <sup>1</sup> Based on company's ACRA registered primary or secondary SSIC code.
 
     - title: What is the eligibility criteria for EEG (Advanced)?<sup>2</sup>
       content: |
