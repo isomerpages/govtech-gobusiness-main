@@ -20,6 +20,8 @@ Visit the [MOF website](https://www.mof.gov.sg/singaporebudget){:target="_blank"
 
 [![FY2025 Budget Empowering Businesses](/images/budget2025/fy2025_budget_empowering_businesses_english.png)](https://www.mof.gov.sg/singaporebudget/budget-resources)
 
+Find specific guides at [MOF's budget resource page](https://www.mof.gov.sg/singaporebudget/budget-resources){:target="_blank"}{:rel="noopener"}.
+
 
 <b>Stay Tuned: More information related to Budget 2025 for Businesses will be updated here progressively.</b>
 
