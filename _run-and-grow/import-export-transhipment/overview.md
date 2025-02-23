@@ -14,8 +14,6 @@ Singapore, you will need to complete the steps listed below.
 ---
 ### Launch of HS/CA Product Code Checker
 
-{% include panels-featurelink-stretched.html panels=site.data.acc303-import-export-panel %}
-
 {% include panels-featurelink.html panels=site.data.acc303-import-export-panel %}
 
 ---
