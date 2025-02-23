@@ -20,6 +20,8 @@ Singapore, you will need to complete the steps listed below.
 
 {% include panels-overview.html panels=site.data.acc303-import-export-panel %}
 
+{% include panels-featurelink.html panels=site.data.acc303-import-export-panel %}
+
 
 ---
 
