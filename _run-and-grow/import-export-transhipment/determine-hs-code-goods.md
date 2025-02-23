@@ -1,10 +1,12 @@
 ---
-title: Determine HS code of good(s) and if it is controlled
+title: Determine HS code of goods
 permalink: /import-export-transhipment/determine-hs-code-goods/
 third_nav_title: Import, Export, and Transhipment
 ---
 
-## Step 2: Determine HS code of good(s) and if it is controlled
+## Step 2: Determine HS code of goods
+
+The Harmonised Commodity Description and Coding System (HS) is an international naming system to classify goods. You can use the links below to find out the HS code for your goods and check if it is controlled.
 
 <table>
     <tr>

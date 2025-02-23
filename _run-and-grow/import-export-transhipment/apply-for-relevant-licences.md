@@ -1,14 +1,14 @@
 ---
-title: If your goods are controlled, apply for relevant Licence(s) from Competent Authority (CA)
+title: Apply for relevant Licences
 permalink: /import-export-transhipment/apply-for-relevant-licences/
 third_nav_title: Import, Export, and Transhipment
 ---
 
-## Step 3: Determine HS code of good(s) and if it is controlled
+## Step 3: Apply for relevant Licences
 
-Use the HS/CA Product Code Checker to find out the recommended licences.
+If your goods are controlled, you will need to apply for relevant licences from the Competent Authority (CA). Use the HS/CA Product Code Checker to find out the recommended licences.
 
-<!-- insert card -->
+{% include panels-featurelink.html panels=site.data.acc303-import-export-panel %}
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>

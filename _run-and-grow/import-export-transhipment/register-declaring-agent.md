@@ -1,10 +1,12 @@
 ---
-title: Apply to be a Declaring Agent (DA) or Authorise a DA to act on your behalf
-permalink: /import-export-transhipment/apply-to-be-declaring-agent/
+title: Register a Declaring Agent
+permalink: /import-export-transhipment/register-declaring-agent/
 third_nav_title: Import, Export, and Transhipment
 ---
 
-## Step 4: Apply to be a Declaring Agent (DA) or Authorise a DA to act on your behalf
+## Step 4: Register a Declaring Agent
+
+You can either apply to be a Declaring Agent (DA) or authorise someone to be a Declaring Agent on your behalf at the links below.
 
 <table>
     <tr>

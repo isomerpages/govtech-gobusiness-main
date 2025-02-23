@@ -1,10 +1,12 @@
 ---
-title: Activate your Customs Account via TradeNet
+title: Activate your Customs Account
 permalink: /import-export-transhipment/activate-customs-account/
 third_nav_title: Import, Export, and Transhipment
 ---
 
-## Step 1: Activate your Customs Account via TradeNet
+## Step 1: Activate your Customs Account
+
+A Customs Account is required to transact with Singapore Customs. You can apply for it via TradeNet at the links below.
 
 <table>
     <tr>

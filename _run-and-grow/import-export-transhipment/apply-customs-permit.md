@@ -1,10 +1,12 @@
 ---
-title: Proceed to apply for a Customs Permit
+title: Apply for Customs Permit
 permalink: /import-export-transhipment/apply-to-customs-permit/
 third_nav_title: Import, Export, and Transhipment
 ---
 
-## Step 6: Proceed to apply for a Customs Permit
+## Step 6: Apply for Customs Permit
+
+After clearing steps 1 to 5, you may proceed to apply for a Customs Permit.
 
 <table>
  <tr>
