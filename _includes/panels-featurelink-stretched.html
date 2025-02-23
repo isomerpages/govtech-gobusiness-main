@@ -104,3 +104,80 @@
     }
 
 </style>
+<div class="panels">
+    {% for panel in include.panels %}
+    <div class="panel">
+        {% if {{panel.label}} %}
+        <div class="panel-label">{% include label.html label=panel.label %}</div>
+        {% endif %}
+        {% if panel.image %}
+        <div class="panel-image" aria-hidden="true">{{ panel.image }}</div>
+        {% endif %}
+        {% if panel.banner %}
+        <div class="panel-banner" aria-hidden="true">{{ panel.banner }}</div>
+        {% endif %}
+        <h4 class="panel-title">{{ panel.title }}
+        {% if panel.is_new %}
+        <span style="margin-left: 8px;">
+          {% include new-tag.html %}
+        </span>
+        {% endif %}
+        </h4>
+        {% if panel.description %}
+        <p class="panel-description">{{ panel.description }}</p>
+        {% endif %}
+        {% if panel.tel or panel.email or panel.url or panel.text %}
+        <div class="panel-links-container">
+            {% if panel.tel %}
+            <hr style="width:100%;text-align:left;margin:0">
+            <div class="panel-links-group">
+                {% assign tels = panel.tel | split: ',' %}
+                {% for tel in tels %}
+                <a class="panel-link" href="tel:{{ tel }}">{{ tel }}</a>
+                {% endfor %}
+            </div>
+            {% endif %}
+            {% if panel.email %}
+            <hr style="width:100%;text-align:left;margin:0">
+            <div class="panel-links-group">
+                {% assign emails = panel.email | split: ',' %}
+                {% for email in emails %}
+                <a class="panel-link" href="mailto:{{ email }}">{{ email }}</a>
+                {% endfor %}
+            </div>
+            {% endif %}
+            {% if panel.url %}
+            <hr style="width:100%;text-align:left;margin:0">
+            <div class="panel-links-group">
+                {% assign urls = panel.url | split: ',' %}
+                {% for url in urls %}
+                    {% if panel.url-new-tab %}
+                        {%if url.endsWith(".pdf") %}
+                            <a class="panel-pdf-link"
+                                href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}"
+                                target="_blank" rel="noopenner">
+                        {% else %}
+                            <a class="panel-link"
+                                href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}"
+                                target="_blank" rel="noopenner">
+                    {% endif %}
+                    {% else %}
+                        <a class="panel-link" href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}">
+                    {% endif %}
+                    {% if panel.pdf-icon %}<img style='width:21px; height:auto; margin-right: 8px; display: inline-flex; vertical-align: middle;' src="/images/pdficon.png">{% endif %}{% if panel.text %}<span style='font-size: 18px; font-family: hknova-regular; line-height: 27px;'>{{panel.text}}</span>
+                        {% else %}{{url}}{% endif %}</a>
+                {% endfor %}
+            </div>
+            {% else %}
+                {% if panel.text %}
+                <hr style="width:100%;text-align:left;margin:0">
+                <div class="panel-info">
+                    {{panel.text}}
+                </div>
+                {% endif %}
+            {% endif %}
+        </div>
+        {% endif %}
+    </div>
+    {% endfor %}
+</div>

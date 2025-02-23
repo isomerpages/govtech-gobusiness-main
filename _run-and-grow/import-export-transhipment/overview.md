@@ -16,6 +16,8 @@ Singapore, you will need to complete the steps listed below.
 
 {% include panels-featurelink-stretched.html panels=site.data.acc303-import-export-panel %}
 
+{% include panels-featurelink.html panels=site.data.acc303-import-export-panel %}
+
 ---
 
 ### Key steps to start your import, export and/or transhipment journey
