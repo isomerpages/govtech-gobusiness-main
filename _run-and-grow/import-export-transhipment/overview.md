@@ -16,11 +16,11 @@ Singapore, you will need to complete the steps listed below.
 
 {% include panel-stretched-featurelink.html panels=site.data.acc303-import-export-panel %}
 
-{% include panels-featurelink-image.html panels=site.data.acc303-import-export-panel %}
+<!-- {% include panels-featurelink-image.html panels=site.data.acc303-import-export-panel %}
 
-{% include panels-overview.html panels=site.data.acc303-import-export-panel %}
+<!-- {% include panels-overview.html panels=site.data.acc303-import-export-panel %} -->
 
-{% include panels-featurelink.html panels=site.data.acc303-import-export-panel %}
+<!-- {% include panels-featurelink.html panels=site.data.acc303-import-export-panel %} -->
 
 
 ---
