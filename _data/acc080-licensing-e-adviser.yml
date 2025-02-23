@@ -18,7 +18,7 @@
     - title: Import, Export and Transhipment
       is_new: true
       content: |
-        - [HS/CA Product Code Checker](https://eadviser.gobusiness.gov.sg/premisesusecheck){:target="_blank"}
+        - [HS/CA Product Code Checker](https://hscodechecker.gobusiness.gov.sg/){:target="_blank"}
           <br>This e-service allows you to find out the Harmonised System (HS) code for the type of product you are importing, exporting or transhipping. If your product is controlled, you will get the Competent Authority (CA) product code, CA contact details and recommended licence(s).<br><br>
     
     - title: Premises Use Check

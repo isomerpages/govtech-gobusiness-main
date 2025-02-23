@@ -75,9 +75,9 @@ The [SkillsFuture for Business User Guide](https://skillsfuture.gobusiness.gov.s
 
 ### For import, export and/or transhipment
 
-- [Key steps to start your import, export and/or transhipment journey](https://dashboard.gobusiness.gov.sg/verify-accreditation?src=eservices_guidesforbiz){:target="_blank"}<span style="background: #E6F2F3; border-radius: 3px; width: 53px; height: 22px; padding: 2px 8px; font-family: hknova-bold; font-size: 12px; line-height: 18px; color: #02737D; display: inline-block; vertical-align: middle; margin-left: 8px;"> NEW!</span>
+- [Key steps to start your import, export and/or transhipment journey](/run-and-grow/import-export-transhipment/?src=rungrow_overview){:target="_blank"}<span style="background: #E6F2F3; border-radius: 3px; width: 53px; height: 22px; padding: 2px 8px; font-family: hknova-bold; font-size: 12px; line-height: 18px; color: #02737D; display: inline-block; vertical-align: middle; margin-left: 8px;"> NEW!</span>
   <br>If your business entity wishes to engage in import, export and/or transhipment activities in Singapore, you will need to complete the steps listed.
-- [HS/CA Product Code Checker](https://dashboard.gobusiness.gov.sg/verify-accreditation?src=eservices_guidesforbiz){:target="_blank"}<span style="background: #E6F2F3; border-radius: 3px; width: 53px; height: 22px; padding: 2px 8px; font-family: hknova-bold; font-size: 12px; line-height: 18px; color: #02737D; display: inline-block; vertical-align: middle; margin-left: 8px;"> NEW!</span>
+- [HS/CA Product Code Checker](https://hscodechecker.gobusiness.gov.sg/){:target="_blank"}<span style="background: #E6F2F3; border-radius: 3px; width: 53px; height: 22px; padding: 2px 8px; font-family: hknova-bold; font-size: 12px; line-height: 18px; color: #02737D; display: inline-block; vertical-align: middle; margin-left: 8px;"> NEW!</span>
   <br>If your business entity wishes to engage in import, export and/or transhipment activities in Singapore, you will need to complete the steps listed.
 
 <a name="organising-events"></a>
