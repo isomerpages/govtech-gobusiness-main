@@ -1,16 +1,21 @@
 
 <style> 
-    .content .panels {
-    display: grid;
-    grid-gap: 20px;
-    grid-template-columns: 1fr; /* Change to a single column */
-    margin: 24px 0;
-    width: 100%; /* Ensure it takes up the full width */
-}
+    .content {
+        width: 100%;
+    }
 
-.content .panel {
-    width: 100%; /* Make each panel take the full width */
-}
+    .content .panels {
+        display: grid;
+        grid-template-columns: 1fr; /* Single column */
+        width: 100%; /* Full width */
+        max-width: 100vw; /* Prevent unintended restrictions */
+        margin: 0; /* Remove extra margins */
+    }
+
+    .content .panel {
+        width: 100%; /* Ensure panel takes up full width */
+    }
+
 
     .content .panel .panel-image {
         font-family: hknova-semibold;
