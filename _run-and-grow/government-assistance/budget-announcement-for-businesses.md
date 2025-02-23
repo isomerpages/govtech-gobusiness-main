@@ -13,6 +13,7 @@ Find out which schemes you may be eligible for, and how you can apply for them i
 
 - Download the Budget 2025 Business Booklet (coming soon)
 - [Download the Budget 2025 - Budget Navigator (for Businesses)](/images/budget2025/Key%20Budget%202025%20Measures%20for%20Businesses.pdf){:target="_blank"}{:rel="noopener"}
+- [Download infographic on support for businesses](https://www.mof.gov.sg/docs/librariesprovider3/budget2025/images/resources/fy2025_budget_empowering_businesses_english.png)
 
 Visit the [MOF website](https://www.mof.gov.sg/singaporebudget){:target="_blank"}{:rel="noopener"} for more information on Budget 2025.
 
