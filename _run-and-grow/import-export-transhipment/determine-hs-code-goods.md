@@ -14,33 +14,6 @@ The Harmonised Commodity Description and Coding System (HS) is an international 
     <th style='width: auto;'><b>Description</b></th>
     </tr>
     <tr>
-    <td><a href='https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do' target='_blank'>HS/CA Product Code Search Engine</a></td>
-    <td>Certain goods are controlled and require additional authorisation from Competent Authorities (CAs). Search your HS code and find out if your goods are controlled.
-    </td>
-    </tr>
-    <tr>
-    <td><a href='https://www.customs.gov.sg/businesses/harmonised-system-classification-of-goods/understanding-hs-classification/' target='_blank'>Understanding HS Classification</a></td>
-    <td>All goods for import, export, and transhipment require a Harmonised System (HS) code, which is used by Customs Authorities for international trade. Find out more about HS and its classification.
-    </td>
-    </tr>
-    <tr>
-    <td><a href='https://go.gov.sg/customsruling' target='_blank'>Application for Customs Ruling on HS Classification of Goods</a></td>
-    <td>If you are unsure about your HS classification of goods and would like to seek advice from Customs, you can submit an application for a fee of S$75.
-    </td>
-    </tr>
-    <tr>
-    <td><a href='https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do' target='_blank'>Contact List for Competent Authorities (PDF, 142 KB)</a></td>
-    <td>If your goods are controlled, contact the relevant CAs to learn more.
-    </td>
-    </tr>
-</table>
-
-<table>
-    <tr>
-    <th style='width: 39%;'><b>Resources</b></th>
-    <th style='width: auto;'><b>Description</b></th>
-    </tr>
-    <tr>
     <td><a href='https://www.customs.gov.sg/businesses/harmonised-system-classification-of-goods/understanding-hs-classification/' target='_blank'>Understanding HS Classification</a></td>
     <td>All goods for import, export, and transhipment require a Harmonised System (HS) code, which is used by Customs Authorities for international trade. Find out more about HS and its classification.
     </td>
