@@ -10,7 +10,7 @@ anchorlinks:
   - anchor: '#aviation'
     anchor_text: 'Aviation'
   - anchor: '#building-and-construction'
-    anchor_text: 'Building & Construction'
+    anchor_text: 'Built Environment'
   - anchor: '#cybersecurity'
     anchor_text: 'Cybersecurity'
   - anchor: '#education'
@@ -93,11 +93,11 @@ Select an industry to see a list of relevant licences here. You can also browse 
 ## Arts & Media
 - [Arts Entertainment Licence](https://dashboard.gobusiness.gov.sg/task-details/artsentertainmentlicence)
 - [Computer Online Service Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10068)
-- [Film (Distribution/Exhibition) Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=15)
+- [Film (Distribution/Exhibition) Licence](https://iris.imda.gov.sg/applications)
 - [Nationwide TV Service Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10064)
-- [Newspaper Permit](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=13)
+- [Newspaper Permit](https://dashboard.gobusiness.gov.sg/task-details/newspaperpermit)
 - [Niche Television Service Licence](https://dashboard.gobusiness.gov.sg/task-details/nichetv)
-- [Printing Press Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=14)
+- [Printing Press Licence](https://dashboard.gobusiness.gov.sg/task-details/printingpress)
 - [Registration Form C for Class Licensable Broadcasting Services](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10066)
 - [Subscription International Television Service Licence](https://dashboard.gobusiness.gov.sg/task-details/subscriptioninternationaltv)
 
@@ -119,7 +119,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 
 <a name="building-and-construction"></a>
 
-## Building & Construction
+## Built Environment
 - [Advertising Sign/ Signboard Licence](https://eservices.bca.gov.sg/advertisementlicence)
 - [Amusement Rides Permit](https://www1.bca.gov.sg/regulatory-info/amusement-rides)
 - [Approval for Additions & Alterations to a Conserved Building](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Planning-Permission/using-CORENET-eSS)
@@ -387,8 +387,8 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Amateur Station Licence](https://dashboard.gobusiness.gov.sg/task-details/amateurstation)
 - [Application for Confirmation of Conformity (COFC)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10076)
 - [Enhanced Simplified Equipment Registration (ESER)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10077)
-- [Exhibition of Telecommunication Equipment (with Frequency)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10070)
-- [Exhibition of Telecommunication Equipment (without Frequency)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10069)
+- [Exhibition of Telecommunication Equipment (with Frequency)](https://dashboard.gobusiness.gov.sg/task-details/telecommunicationequipmentwithfrequency)
+- [Exhibition of Telecommunication Equipment (without Frequency)](https://dashboard.gobusiness.gov.sg/task-details/telecommunicationequipmentwithoutfrequency)
 - [Experimental Station Licence](https://dashboard.gobusiness.gov.sg/task-details/experimentalstation)
 - [Facilities-based Operations Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10020)
 - [Fixed Wireless Network](https://dashboard.gobusiness.gov.sg/task-details/fixedwirelessnetwork)
@@ -401,24 +401,24 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Localised Radio-Communication Station Licence](https://dashboard.gobusiness.gov.sg/task-details/localisedradiocomm)
 - [Public Mobile Network Licence](https://dashboard.gobusiness.gov.sg/task-details/publicmobilenetwork)
 - [Radio Service Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10067)
-- [Registration for Internet Access Service Providers and Resellers Class Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=12)
+- [Registration for Internet Access Service Providers and Resellers Class Licence](https://dashboard.gobusiness.gov.sg/task-details/internetaccessserviceproviders)
 - [Registration Form C for Class Licensable Broadcasting Services](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10066)
 - [Restricted Operator's Certificate of Competency](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10075)
-- [Satellite Communication Station Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=33)
-- [Services-Based Operations (Class) Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=29)
-- [Services-Based Operator (Individual) Licence](https://dashboard.gobusiness.gov.sg/task-details/sboclass)
+- [Satellite Communication Station Licence](https://dashboard.gobusiness.gov.sg/task-details/satellitecommunication)
+- [Services-Based Operations (Class) Licence](https://dashboard.gobusiness.gov.sg/task-details/sboclass)
+- [Services-Based Operations (Individual) Licence](https://dashboard.gobusiness.gov.sg/task-details/sboindividual)
 - [Ship Station Licence](https://dashboard.gobusiness.gov.sg/task-details/shipstation)
 - [Simplified Equipment Registration (SER)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10078)
 - [Special Purpose Station](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10016)
-- [Technical Trial (with use of Frequency)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10072)
-- [Technical Trial (without Frequency)](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10071)
-- [Telecommunication Cable Detection Worker Class Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10017)
+- [Telecommunication Cable Detection Worker Licence](https://dashboard.gobusiness.gov.sg/task-details/cabledetection)
+- [Technical Trial (with use of Frequency)](https://dashboard.gobusiness.gov.sg/task-details/technicaltrialwithuseoffrequency)
+- [Technical Trial (without Frequency)](https://dashboard.gobusiness.gov.sg/task-details/technicaltrialwithoutfrequency)
 - [Telecommunication Dealer's (Class) Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=25)
 - [Telecommunication Dealer's (Individual) Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=26)
-- [Telecommunication Wiring Contractor's (Class) Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=31)
-- [Telecommunication Wiring Installer's Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10018)
+- [Telecommunication Wiring Contractor Class Licence](https://dashboard.gobusiness.gov.sg/task-details/wiringcontractor)
+- [Telecommunication Wiring Installer Class Licence](https://dashboard.gobusiness.gov.sg/task-details/wiringinstaller)
 - [Temporary Use of Radio Frequency](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10073)
-- [TV Receive-Only System Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=9)
+- [TV Receive-Only System Licence](https://iris.imda.gov.sg/application/television-receive-only-satellite-receiving-system-licence)
 - [Wide-Area Private Network Licence](https://dashboard.gobusiness.gov.sg/task-details/wideareaprivatenetwork)
 
 <a name="tourism"></a>

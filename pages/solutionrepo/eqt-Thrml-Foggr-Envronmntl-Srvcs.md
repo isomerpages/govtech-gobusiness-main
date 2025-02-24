@@ -11,6 +11,8 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Thrml-Foggr-Envronmntl
 
 A gasoline device that uses heat to vaporise and produces fog for pest management needs. (maximum solution tank capacity up to 10L)
 
+There is an equipment cap. Please refer to BGP for details.
+
 ## Solution Packages Option(s)
 
 <table>
@@ -22,7 +24,7 @@ A gasoline device that uses heat to vaporise and produces fog for pest managemen
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Thermal Fogger</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'>Grant cap: Up to S$1,400 per unit</td>
+<td style='padding: 10px;'>N.A</td>
 </tr>
 </table>
 
