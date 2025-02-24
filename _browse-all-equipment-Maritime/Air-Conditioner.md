@@ -31,6 +31,7 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - AVOLTA - SGTC4T-S1B12
 - Daikin - MKC70WVMG
 - Daikin - MKM100VVMG
+- Daikin - MKM100ZVMG
 - Daikin - MKM50VVMG
 - Daikin - MKM50ZVMG
 - Daikin - MKM75VVMG
@@ -42,6 +43,7 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - Daikin - MKP75VVMG
 - Daikin - RKM25PVMG
 - Daikin - RKM25XVMG
+- Daikin - RKM25ZVMG
 - Daikin - RXMUQ4AVEG
 - Daikin - RXMUQ5AVEG
 - Daikin - RXMUQ6AVEG
@@ -101,6 +103,8 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - Fujitsu - AOAH24CBTA3
 - Fujitsu - AOAH30CBTA4
 - Fujitsu - AOAH36CBTA
+- General - AJG090JATAH
+- General - AJG108JATAH
 - GREE - GMVL-120WL/A-K(P)
 - GREE - GMVL-140WL/A-K(P)
 - GREE - GMVL-160WL/A-K(P)
@@ -180,6 +184,7 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - Midea - MKC-3M22E
 - Midea - MKC-4M27E
 - Midea - MMY-MUP1401T8P-SG
+- Midea - MOU24-HVN32E(SG)
 - Midea - MPAG-1S12D
 - Midea - MSEOD-09
 - Midea - MSM-3M21D
@@ -321,5 +326,6 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - Tosot - TR32SAC21CUD
 - Tosot - TR32SAC28CUD
 - Tosot - TR32SAC32CUD
+- WSE - TKF-100W/BP-M
 
 
