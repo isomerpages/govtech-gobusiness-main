@@ -31,19 +31,19 @@ Start by securing your trademarks so that you can exercise your rights to stop o
 
 However, it is important to note that unregistered trademarks offer limited protection. They are only protected under common law in certain jurisdictions, typically through passing-off claims, which can be challenging to prove and enforce. 
 
-### <b>2. Regularly monitor marketplaces, online platforms and beyond</b>
+### 2. Regularly monitor marketplaces, online platforms and beyond
 
 The internet has made it easier for copycats to exploit brands, but protecting your brand requires vigilance across all channels. By actively monitoring e-commerce platforms, social media, and physical retail spaces and suppliers, you can stay one step ahead. 
 
 You may consider using [IP watch services](/intellectual-property/ip-grow/ip-search-and-registration/ip-watch/){:target="_blank"}{:rel="noopener"} to streamline this process for you, helping you to  quickly spot and address counterfeits and infringements before they cause serious harm to your reputation and market share.
 
-### <b>3. Take action fast on brand infringement </b>
+### 3. Take action fast on brand infringement
 
 The moment you spot someone infringing on your rights, act quickly! You can take proactive steps such as filing removal requests, issuing cease-and-desist letters, or using marketplace policies to shut them down. Fast action minimises damage and shows that you mean business when it comes to protecting your brand. Working with legal experts can give you the confidence to take the right steps to handle any disputes. 
 
 It’s also worth noting that a dispute can be resolved without going to court. [Alternative methods](/intellectual-property/ip-grow/others/dispute-resolution/){:target="_blank"}{:rel="noopener"} such as negotiation, mediation, and arbitration offer cost-effective and efficient options.
 
-### <b>4. Stay vigilant – protecting your brand is a continuous effort</b>
+### 4. Stay vigilant – protecting your brand is a continuous effort 
 
 Brand protection isn’t a one-time thing — it takes continuous commitment. Make monitoring and enforcement part of your operations to counter these brand threats. Consider equipping your team with the right tools and [IP training](/intellectual-property/ip-grow/others/ip-training/){:target="_blank"}{:rel="noopener"} to boost your internal capabilities. 
 
