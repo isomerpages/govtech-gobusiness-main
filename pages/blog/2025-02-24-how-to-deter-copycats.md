@@ -58,7 +58,7 @@ With free talks led by industry leaders and networking opportunities, this event
 
 Connect @ IP Grow is a signature event under [GoBusiness IP Grow](/intellectual-property/ip-grow/){:target="_blank"}{:rel="noopener"}, an online government marketplace that connects enterprises with the right intangible assets (IA) and intellectual property (IP) solutions.
 
-[Register here!](https://e27co.e27.co/ipgrowregistration){:target="_blank"}{:rel="noopener"}
+[Register here!](https://go.gov.sg/ipgrow-nlb-gbblog){:target="_blank"}{:rel="noopener"}
 
 <em>This article is accurate as at 5 Feb 2025</em>
 
