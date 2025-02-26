@@ -49,20 +49,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Contfinity Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200312912E-Cybr-Scurty-SLN-Unfd-Thrt-MGT-G' target='_blank'>Cyber Security Solution - Unified Threat Management</a><br></td>
-<td>DATA CONNECT TECHNOLOGIES PTE. LTD.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200715324R-Fortgt-Frwll-for-IT-Scurty-or-VPN-v-1-G' target='_blank'>Fortigate Firewall for IT Security or VPN Version 1</a><br></td>
 <td>Computer Analysts and Recovery Experts Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200408845E-GtLnkUp-UTM-v-10-G' target='_blank'>GetLinkUp UTM Version 1.0</a><br></td>
 <td>PROMINDS PTE. LTD.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201402872W-Ntwork-Box-Nxt-Gnrton-Mngd-Scurty-G' target='_blank'>Network Box Next Generation Managed Security</a><br></td>
-<td>Network Box (SIN) Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201402872W-Ntwork-Box-Nxt-Gnrton-Mngd-Scurty-G' target='_blank'>Network Box Next Generation Managed Security</a><br></td>

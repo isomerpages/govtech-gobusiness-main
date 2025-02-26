@@ -52,14 +52,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Brew Interactive Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201223262D-MEYZER360-CRM-v-2023-G' target='_blank'>MEYZER360 CRM Version 2023</a><br></td>
-<td>MEYZER BUSINESS ADVISORY PTE. LTD.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/T13LL1562D-NMTODOOCRM-G' target='_blank'>NMTODOO</a><br></td>
-<td>Neu Media Technology LLP</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201702434C-Pppr-Cloud-CRM-v-140-G' target='_blank'>Pepper Cloud CRM Version 14.0</a><br></td>
 <td>Pepper Cloud Pte. Ltd.</td>
 </tr>
@@ -70,10 +62,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201729553C-WrlyCRM-v-12-G' target='_blank'>WarelyCRM Version 1.2</a><br></td>
 <td>PLUS 65 MARKETING PTE. LTD.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201108056G-Zoho-CRM-G' target='_blank'>Zoho CRM</a><br></td>
-<td>Zoho Corporation Pte. Ltd.</td>
 </tr>
 </table>
 

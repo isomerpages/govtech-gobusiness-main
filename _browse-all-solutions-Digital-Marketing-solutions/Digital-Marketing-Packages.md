@@ -32,16 +32,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201716835N-DM-1103-Studos-Dgtl-Mrktng-PKG-G' target='_blank'>DM 1103 Studios Digital Marketing Packages</a><br></td>
-<td>1103 STUDIOS PRIVATE LIMITED</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201529110M-DM-2Stllons-Complt-Dgtl-Mrktng-PKG-G' target='_blank'>DM 2Stallions Complete Digital Marketing Packages</a><br></td>
 <td>2STALLIONS PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201426038W-DM-33-Dgrs-Dgtl-Mrktng-PKG-G' target='_blank'>DM 33 Degrees Digital Marketing Packages</a><br></td>
-<td>33 Degrees Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201535836W-DM-AKS-TECH-DIGITAL-MARKETING-PACKAGES-v-10-G' target='_blank'>DM AKS TECH DIGITAL MARKETING PACKAGES Version 1.0</a><br></td>
@@ -72,16 +64,16 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Cleverly SG Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201701817K-DM-Corsv-Lb-Dgtl-Mrktng-PKG-G' target='_blank'>DM Corsiva Lab Digital Marketing Packages</a><br></td>
-<td>Corsiva Lab Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201920974R-DM-Crft-Crtv-Dgtl-Mrktng-PKG-G' target='_blank'>DM Craft Creative Digital Marketing Packages</a><br></td>
 <td>Craft Creative Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200200017N-DM-Crtv-EWorld-Dgtl-Mrktng-G' target='_blank'>DM Creative E-World Digital Marketing</a><br></td>
 <td>Creative E-World Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201900904K-DM-Dgtl-M-Dgtl-Mrktng-PKG-v-01-G' target='_blank'>DM Digital M Digital Marketing Packages Version 0.1</a><br></td>
+<td>Digital M Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201621104R-DM-Dgtl-Mrktng-Googl-SEO-SEM-PPC-SMA-SMM-Contnt-G' target='_blank'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | SMM | Content</a><br></td>
@@ -96,8 +88,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Fier Capital Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/197903957E-DM-GSK-Group-Dgtl-Mrktng-PKG-G' target='_blank'>DM GSK Group Digital Marketing Packages</a><br></td>
-<td>GSK Group Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201916250E-DM-GENIA-Smntc-SEO-G' target='_blank'>DM GENIA Semantic SEO</a><br></td>
+<td>THE GENIA PTE. LTD.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202012036D-DM-Gudsfy-Dgtl-Mrktng-PKG-G' target='_blank'>DM Guidesify Digital Marketing Packages</a><br></td>
@@ -112,6 +104,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Hatch Digital Pte. Ltd.</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201215396N-DM-I-Concpt-Innovton-Dgtl-Mrktng-v-10-G' target='_blank'>DM I Concept Innovation Digital Marketing Version 1.0</a><br></td>
+<td>I Concept Innovation Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201808580W-DM-Ic-Cub-Prdctbl-Lds-Gnrton-Progrm-G' target='_blank'>DM Ice Cube Predictable Leads Generation Program</a><br></td>
 <td>Ice Cube Marketing Pte Ltd</td>
 </tr>
@@ -120,16 +116,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>iClick Media Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201933089Z-DM-Inbox-Dgtl-Mrktng-PKG-G' target='_blank'>DM Inbox Digital Marketing Packages</a><br></td>
-<td>Inbox Consults Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202008814M-DM-Klbr-As-Dgtl-Mrktng-G' target='_blank'>DM Kaliber Asia Digital Marketing</a><br></td>
 <td>Kaliber Asia Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201531216Z-DM-Ldng-SLN-Dgtl-Mrktng-PKG-v-1-G' target='_blank'>DM Leading Solution Digital Marketing Packages Version 1</a><br></td>
-<td>Leading Solution Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201531216Z-DM-LEADING-SLN-DIGITAL-MARKETING-PACKAGES-G' target='_blank'>DM LEADING SOLUTION DIGITAL MARKETING PACKAGES</a><br></td>
+<td>LEADING SOLUTION PTE. LTD.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201705156N-DM-LtBrw-Dgtl-Mrktng-Pckg-G' target='_blank'>DM LiteBrew Digital Marketing Package</a><br></td>
@@ -152,6 +144,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>OOm Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202008698H-DM-Outrnkco-Dgtl-Mrktng-PKG-v-1-G' target='_blank'>DM Outrankco Digital Marketing Packages Version 1</a><br></td>
+<td>Outrankco Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201840067W-DM-PIXEL-MECHANICS-Dgtl-Mrktng-PKG-G' target='_blank'>DM PIXEL MECHANICS Digital Marketing Packages</a><br></td>
 <td>PIXEL MECHANICS PTE LTD</td>
 </tr>
@@ -164,16 +160,16 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>ROGUE DIGITAL PTE. LTD.</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201610836D-DM-Roots-Dgtl-Mrktng-PKG-G' target='_blank'>DM Roots Digital Marketing Packages</a><br></td>
+<td>Roots Digital Pte. Ltd.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201941618M-DM-SBC-DIGITAL-MARKETING-PACKAGES-G' target='_blank'>DM SBC DIGITAL MARKETING PACKAGES</a><br></td>
 <td>STORY BOX COLLECTIVE PTE. LTD.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201605009E-DM-SEOcty-Dgtl-Mrktng-G' target='_blank'>DM SEOciety Digital Marketing</a><br></td>
 <td>SEOciety Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201202877E-DM-Suprmom-Dgtl-Mrktng-PKG-G' target='_blank'>DM Supermom Digital Marketing Packages</a><br></td>
-<td>welovesupermom pte ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201842642W-DM-W360-DIGITAL-POWER-PACK-v-10-G' target='_blank'>DM W360 DIGITAL POWER PACK Version 1.0</a><br></td>

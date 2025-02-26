@@ -55,7 +55,7 @@
 - accordion:
   letter: b
   data:
-    - title: Building & Construction
+    - title: Built Environment
       content: |
         Explore licences you may require with the e-Advisers:
 
@@ -142,8 +142,6 @@
         - [Residential Consumer buying electricity at retail price and installing solar PV of < 1 MWac](https://eadviser.gobusiness.gov.sg/residentialconsumerbuyingelectricityinstallingsolarpvless1mwac){:target="_blank"}
 
         - [Residential Consumer buying electricity at retail price and installing solar PV of >= 1 MWac](https://eadviser.gobusiness.gov.sg/residentialconsumerbuyingelectricityinstallingsolarpvmore1mwac){:target="_blank"}
-
-        - [Setting up business to generate, retail, transmit electricity](https://eadviser.gobusiness.gov.sg/settingupbusinesstogenerateretailtransmitelectricity){:target="_blank"}
 
         - [Setting up business to import, ship or retail gas](https://eadviser.gobusiness.gov.sg/settingupbusinesstoimportshiporretailgas){:target="_blank"}
 

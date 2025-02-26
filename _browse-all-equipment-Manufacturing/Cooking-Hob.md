@@ -17,7 +17,7 @@ permalink: /browse-all-equipment-Manufacturing/Cooking-Hob
 
 Up to 70% for SMEs, 30% for non-SMEs
 
-Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a>.
+Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}.
 
 ### Pre-Approved Equipment Brands and Models
 

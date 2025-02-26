@@ -8,6 +8,7 @@ permalink: /browse-all-equipment-Food-Services/LED-Lighting
 ### Technical Requirements
 
 - LED lighting with 2 ticks and above under NEA’s Mandatory Energy Labelling Scheme 
+- LED lighting for non-regulated lightings under NEA’s Mandatory Energy Labelling Scheme with an efficacy of at least 110 lumens/ watt
 
 ### Mode and Schedule of Payment 
 
@@ -40,11 +41,14 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Beacon LED Lighting - G45E27N4-W
 - Beacon LED Lighting - G95-12-D
 - Beacon LED Lighting - G95-12-W
+- Beacon Led Lighting - LEDT8-18W4FH
 - Beacon LED Lighting - ST64E27N8-D
 - Beacon LED Lighting - ST64E27N8-W
 - Beacon Led Lighting - T5Y18PC-C
 - Beacon Led Lighting - T5Y18PC-D
 - Beacon Led Lighting - T5Y18PC-W
+- Beacon Led Lighting - T8Y08PC-D
+- Beacon Led Lighting - T8Y08PC-W
 - Beacon LED Lighting - T8Y10NL01-C
 - Beacon LED Lighting - T8Y10NL01-D
 - Beacon LED Lighting - T8Y10NL01-W
@@ -57,6 +61,8 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Beacon LED Lighting - T8Y18NL05-C
 - Beacon LED Lighting - T8Y18NL05-D
 - Beacon LED Lighting - T8Y18NL05-W
+- Beacon Led Lighting - T8Y18PC-D
+- Beacon Led Lighting - T8Y18PC-W
 - Brite - BG23-018W/4KKT84FF
 - Brite - BG23-018W/6KKT84FF
 - Brite - BG34-018W/4KKT84FH
@@ -78,12 +84,15 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - DMS - ST64-6W-LED-4SD-CLEAR
 - DMS - ST64-6W-LED-DIM-AMBER
 - DMS - ST64-COG-I DIM
+- DYCORRA - DY-CANB-5E14
 - DYCORRA - DY-CORN-7E27
 - DYCORRA - DY-CORN-9E14T
 - DYCORRA - DY-CORN-9E27
+- DYCORRA - DY-GP-40E27
 - DYCORRA - DY-GT-7912E27S
 - DYCORRA - DY-LFCN-4E14
 - DYCORRA - DY-LFCN-4E27
+- DYCORRA - DY-LFCNA-4E14
 - DYCORRA - DY-LFGB-6E27
 - DYCORRA - DY-LFGB-6E27CL
 - DYCORRA - DY-LFGB-8E27
@@ -92,6 +101,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - DYCORRA - DY-LFST-8E27
 - DYCORRA - DY-LFT45-4E27
 - DYCORRA - DY-PIN-7G24
+- DYCORRA - DY-PIN-9E27S
 - DYCORRA - DY-PIN-9G24
 - DYCORRA - DY-PINA-7E14
 - DYCORRA - DY-PINA-9B22
@@ -99,9 +109,11 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - DYCORRA - DY-PINW-9E27
 - ECOLINK - 8719514683877
 - ECOLINK - 8719514683877 Ecolink LEDBulb 11W E27 6500K  1CT/12APR
+- ECOLINK - 8719514683877 Ecolink LEDBulb 11W E27 6500K 1CT/12APR
 - ECOLINK - 8720169679764 ECOLINK LEDBulb A60 15W E27 6500K APR
 - ECOLINK - 8720169682641 ECOLINK LEDBulb A67 19W E27 6500K APR
 - ECOLINK - 8720169683037 Ecolink LEDBulb 13W E27 6500K  1CT/12APR
+- ECOLINK - 8720169683037 Ecolink LEDBulb 13W E27 6500K 1CT/12APR
 - First LED - DL-T8-10w-3000k
 - First LED - DL-T8-10w-4000k
 - First LED - DL-T8-10w-6000k
@@ -117,6 +129,24 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Glowlit - YMB2835165-W30K3
 - Glowlit - YMB2835165-W30K4
 - Glowlit - YMB2835165-W30K6
+- GONEO - MQ-E009A-AS
+- GONEO - MQ-E009B-AS
+- GONEO - MQ-E009C-AS
+- GONEO - MQ-E012A-AS
+- GONEO - MQ-E012B-AS
+- GONEO - MQ-E012C-AS
+- GONEO - MQ-G003B-AS
+- GONEO - MQ-G003C-AS
+- GONEO - MQ-G005A-AS
+- GONEO - MQ-G005B-AS
+- GONEO - MQ-G005C-AS
+- GONEO - MQ-G007A-AS
+- GONEO - MQ-G007B-AS
+- GONEO - MQ-G007C-AS
+- GONEO - MQ-G009A-AS
+- GONEO - MQ-G009B-AS
+- GONEO - MQ-G009C-AS
+- GONEO - MQ-G012C-AS
 - IKEA - LED2003G10
 - IKEA - LED2012G6
 - IKEA - LED2012G6K4
@@ -147,6 +177,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - IKEA - LED2311G3
 - IKEA - LED2312G5
 - IKEA - LED2329G3
+- IKEA - LED2333B2
 - IKEA - LED2335G3
 - IKEA - LED2337G7
 - iLumston - WN-CL06-30W
@@ -160,6 +191,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - IWILL - IW-T8-14W
 - IWILL - IW-T8-30W
 - KGR - KGRT8-8W1200MM
+- Kuo Lian LED - T8-20KL6500
 - LEDVANCE - LED PERFORMANCE FILA CLA 7.5W/827
 - LEDVANCE - LED PERFORMANCE FILA CLA 7W/827
 - LEDVANCE - LED PERFORMANCE FILA CLA 7W/840
@@ -240,6 +272,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - MIKA - T8-1200-GL-24W
 - MIKA - T8-1200-GL-32W
 - MIKA - T8-600-GL-10W
+- MIRAGE - LED BULB 7W
 - MR.DIY Premium - A70-13-65/A12J/14
 - NIE - JT8-18-3000-4FT-1SI-FWW
 - NIE - JT8-18-4000-4FT-1SI-FNW
@@ -591,6 +624,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Philips - 872016936119 MAS HO 13W865 T8
 - Philips - 929001165037
 - Philips - 9290011650A
+- Philips - 9290020000A CNG HO 1200mm 18W 840 T8
 - Philips - 9290030099A MAS LEDBulb DT3.4
 - Philips - 9290030103A MAS LEDBulbDT5.9
 - Philips - 9290030119A MAS LEDCandleDT2.5-25W E14 B35 CL G
@@ -620,6 +654,9 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Philips - LEDCla4-50W A60 E27 CL ND 8718696574195
 - Philips - LEDCla4-50W ST64 E27 CL ND 8718696574232
 - PNT - LBAC/270010
+- PowerPac - PP2110
+- PowerPac - PP2110WW
+- PowerPac - PP2111
 - PowerPac - PP6021
 - PowerPac - PP6022
 - PowerPac - PP6023
@@ -650,6 +687,8 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Sunshine - LFSTC-4E27W-NEW
 - Sunshine - LFSTC-6E27D-NEW
 - Sunshine - LFSTC-6E27W-NEW
+- Sunshine - LGG-12B22W
+- Sunshine - LGG-12E27W
 - Sunshine - LGM-13B22D-NEW
 - Sunshine - LGM-13B22W-NEW
 - Sunshine - LGM-13E27D-NEW

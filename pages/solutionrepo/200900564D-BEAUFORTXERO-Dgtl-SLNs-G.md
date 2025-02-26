@@ -24,37 +24,38 @@ BEAUFORT-XERO DIGITAL SOLUTIONS include multi-currency invoice & bill mgmt with 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A-Subscription Only</td>
-<td style='padding: 10px;'>$960.00</td>
-<td style='padding: 10px;'>$881.00</td>
-<td style='padding: 10px;'><a href='/images/psg/200900564D_20230275_26112024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$1,056.00</td>
+<td style='padding: 10px;'>$969.00</td>
+<td style='padding: 10px;'><a href='/images/psg/200900564D_20230275_30012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B-Subscription+Set Up</td>
-<td style='padding: 10px;'>$1,760.00</td>
-<td style='padding: 10px;'>$1,681.00</td>
-<td style='padding: 10px;'><a href='/images/psg/200900564D_20230275_26112024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$1,856.00</td>
+<td style='padding: 10px;'>$1,769.00</td>
+<td style='padding: 10px;'><a href='/images/psg/200900564D_20230275_30012025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C-Subscription+Set Up+Training(B)</td>
-<td style='padding: 10px;'>$2,632.00</td>
-<td style='padding: 10px;'>$2,548.00</td>
-<td style='padding: 10px;'><a href='/images/psg/200900564D_20230275_26112024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$2,728.00</td>
+<td style='padding: 10px;'>$2,636.00</td>
+<td style='padding: 10px;'><a href='/images/psg/200900564D_20230275_30012025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D-Subscription+SetUp+Training(B,I)+Custom+Data(Opening)</td>
-<td style='padding: 10px;'>$6,232.00</td>
-<td style='padding: 10px;'>$4,148.00</td>
-<td style='padding: 10px;'><a href='/images/psg/200900564D_20230275_26112024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D - Subscription+
+SetUp+Training(B,I)+Custom+Data(Opening)</td>
+<td style='padding: 10px;'>$6,328.00</td>
+<td style='padding: 10px;'>$4,236.00</td>
+<td style='padding: 10px;'><a href='/images/psg/200900564D_20230275_30012025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E-Subscription+SetUp+Training(B,I,A)+Custom+Data(Opening&1yr)</td>
-<td style='padding: 10px;'>$10,032.00</td>
-<td style='padding: 10px;'>$4,148.00</td>
-<td style='padding: 10px;'><a href='/images/psg/200900564D_20230275_26112024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E - Subscription+SetUp+Training(B,I,A)+Custom+Data(Opening&1yr)</td>
+<td style='padding: 10px;'>$10,128.00</td>
+<td style='padding: 10px;'>$4,236.00</td>
+<td style='padding: 10px;'><a href='/images/psg/200900564D_20230275_30012025_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

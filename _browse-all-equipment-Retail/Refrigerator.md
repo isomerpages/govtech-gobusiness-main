@@ -7,12 +7,15 @@ permalink: /browse-all-equipment-Retail/Refrigerator
 
 ### Technical Requirements
 
-- Household refrigerator: Minimum 3-ticks
+- Household refrigerator: Minimum 3- ticks
+- Commercial refrigerator: Invertor technology
 
-- Commercial refrigerator: Inverter technology
+Note: From 1st April 2025, MEPS/MELS will be implemented for commercial storage refrigerators.
 
-Note: From 1st April 2025,  MEPS/MEPS to be implemented for commercial storage refrigerators. The technical criteria will be reviewed in 4Q2024.
-
+The technical criteria will be updated to:
+- Household refrigerator: Minimum 3- ticks
+- Regulated commercial storage refrigerators: Minimum 4-ticks, and
+- All other commercial refrigerators: inverter technology
 
 ### Mode and Schedule of Payment 
 
@@ -621,6 +624,10 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Hitachi - R-ZXC740WS
 - Hold - LRRF12i
 - Hold - LRRF9i
+- Hold - SWCC48-I
+- Hold - SWCC60-I
+- Hold - SWRBC48-I
+- Hold - SWRBC60-I
 - Hoshiaki - HRF-120AFT
 - Hoshizaki  - FT-120SDG-1
 - Hoshizaki  - FT-120SNG-1
@@ -957,6 +964,9 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Mitsubishi Electric - MR-FX47EX-GWH-P
 - Mitsubishi Electric - MR-HGS52EX-GBK-P
 - Mitsubishi Electric - MR-HGS52EX-GWH-P
+- Mitsubishi Electric - MR-LX55EY-GBK-P
+- Mitsubishi Electric - MR-LX55EY-GDS-P
+- Mitsubishi Electric - MR-LX55EY-GWH-P
 - Mitsubishi Electric - MR-V50EX-SB-P
 - Mitsubishi Electric - MR-V50EX-ST-P
 - Mitsubishi Electric - MR-WX47LG-F-P
@@ -1185,6 +1195,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Panasonic - NR-TC311BUSS
 - Panasonic - NR-TC361BUSS
 - Panasonic - NR-XC541CUHS
+- Panasonic - NR-Y561HB-SG
 - Panasonic - SRF-K781B
 - Panasonic - SRR-K781B
 - Panasonic - SUF-K1571SB
@@ -1330,6 +1341,8 @@ RT62K7057BS
 - Samsung - RF62DB9KA5AP
 - Samsung - RL4354RBAS8
 - Samsung - RS64R5308M9
+- Samsung - RS70F65Q3F
+- Samsung - RS70F65Q3T
 - Samsung - RT31CG5424S9
 - Samsung - RT35CG5444S9
 - Samsung - RT53DG7A6CB1
@@ -1606,7 +1619,6 @@ RT62K7057BS
 - Sub-Zero - ICBCL3650UID/S/P/R
 - Sub-Zero - ICBCL3650UID/S/T/L
 - Sub-Zero - ICBCL3650UID/S/T/R
-- Sub-Zero - ICBCL3650UID/S/T/R
 - Sub-Zero - ICBCL4250S
 - Sub-Zero - ICBCL4250S/O
 - Sub-Zero - ICBCL4250S/S/P
@@ -1678,11 +1690,8 @@ RT62K7057BS
 - SUPREME - 1507680F
 - SUPREME - 1807680C
 - SUPREME - 1807680F
-- SUPREME - 2DUFF
 - Supreme - 2DUFF
-- SUPREME - 4DUFC
 - Supreme - 4DUFC
-- SUPREME - 4DUFF
 - Supreme - 4DUFF
 - Tecno  - TFR 1288-V2
 - Tecno  - TFR 330 Retro
@@ -1725,15 +1734,25 @@ RT62K7057BS
 - Toshiba  - GR-RT624WE-PMX(22S)
 - Toshiba  - GR-RT624WE-PMX(37S)
 - Toshiba  - GR-RT624WE-PMX(57S)
+- Toshiba - GR-RB405WE-PMX(06S)
 - Toshiba - GR-RF677WI-PGX(22)
 - Toshiba - GR-RF677WI-PMX(06)
 - Toshiba - GR-RM593WE-PGX(B3)
 - Toshiba - GR-RS780WI-PMX(06)
 - Toshiba - GR-RT234WE-PMX
 - Toshiba - GR-RT303WE-PMX
+- Toshiba - GR-RT416WE-PMX(58)
 - Toshiba - GR-RT735WE-PGX(GG)
 - Toshiba - GR-RT835WE-PGX(B5)
 - Toshiba - GR-RT835WE-PGX(PGB)
+- Ty - RTGD-1DF-460-INV
+- Ty - RTGD-4FSLD-PT-INV
+- Ty - UNGD-2DC-2245H-INV
+- Ty - UNGD-2DF-2245H-INV
+- Ty - UNGD-2DF-INV
+- Ty - UNGD-3DC-2245H-INV
+- Ty - UNGD-3DF-2245H-INV
+- Ty - UNGD-3DF-INV
 - Ty Brand  - RTGD-1DC-260-IVTH
 - Ty Brand  - RTGD-1DC-330-IVTH
 - Ty Brand  - RTGD-1DC-IVTH-B

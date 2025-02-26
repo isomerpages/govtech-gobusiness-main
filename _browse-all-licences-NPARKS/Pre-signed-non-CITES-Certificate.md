@@ -15,7 +15,7 @@ National Parks Board (NPARKS)
 <p>The Pre-signed non-CITES Certificate allows exporters and re-exporters to get National Parks Board approval for exporting and re-exporting tourist manufactured products made from non-CITES wildlife such as non-CITES ostrich skins and its manufactured products. A retailer of such products may apply for Pre-signed non-CITES Certificate. These permits are pre-approved with no quantity of products listed. The retailer will have to indicate on the Pre-signed non-CITES Certificate, the quantity for the items and complete the consignee details, when a walk-in customer makes a purchase.</p>
 <h3>FAQs</h3>
 <ol>
-<li><strong>Where can I get more information on traded in non-CITES wildlife parts and products?</strong><br />You can find out more at <a href="https://www.nparks.gov.sg/biodiversity/cites/trade-of-non-cites-listed-wildlife" target="_blank" rel="noopener">https://www.nparks.gov.sg/biodiversity/cites/trade-of-non-cites-listed-wildlife</a></li>
+<li><strong>Where can I get more information on traded in non-CITES wildlife parts and products?</strong><br />You can find out more at <a href="https://www.nparks.gov.sg/avs/animals/cites/trade-of-non-cites-listed-wildlife" target="_blank" rel="noopener">https://www.nparks.gov.sg/avs/animals/cites/trade-of-non-cites-listed-wildlife</a></li>
 </ol>
 
 <strong>Additional Information</strong>

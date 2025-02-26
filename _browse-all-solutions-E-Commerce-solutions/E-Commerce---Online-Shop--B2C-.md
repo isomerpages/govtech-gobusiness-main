@@ -52,10 +52,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Digipixel Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202106150H-Dgtl-Rtl-Ecommrc-SLNs-G' target='_blank'>Digital Retail Ecommerce Solutions</a><br></td>
-<td>ACCSS Digital Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201535836W-Commrc-Mstrpln-v-20-G' target='_blank'>eCommerce Masterplan Version 2.0</a><br></td>
 <td>Aks Tech Pte Ltd</td>
 </tr>
@@ -84,6 +80,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>MIBC PTE. LTD.</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200617554M-OOm-Ecommrc-SLNs-G' target='_blank'>OOm Ecommerce Solutions</a><br></td>
+<td>OOm Pte. Ltd.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201840067W-PxlCommrc-v-593-G' target='_blank'>PixelCommerce Version 5.9.3</a><br></td>
 <td>PIXEL MECHANICS PTE. LTD.</td>
 </tr>
@@ -92,12 +92,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Superfastech Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201736986Z-Shopfy-G' target='_blank'>Shopify</a><br></td>
-<td>Shopify Commerce Singapore Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201723984K-Sunpro-Ecommrc-SLN-G' target='_blank'>Sunpro E-commerce Solution</a><br></td>
 <td>SUNPRO INNO APPS PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200908223H-Vrz-Dsgn-Ecommrc-SLNs-G' target='_blank'>Verz Design Ecommerce Solutions</a><br></td>
+<td>Verz Design Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201608054D-Vu-Tch-Ecommrc-Wbst-Pckg-G' target='_blank'>Vue Tech Ecommerce Website Package</a><br></td>
