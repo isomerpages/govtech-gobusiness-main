@@ -23,6 +23,8 @@ We are a member of the international law practice group, PLG International Lawye
 
 <b>Website:</b> <a href='https://trc.com.sg/'>https://trc.com.sg/</a>
 
+<b>Offer:</b> SIPDA participating service provider
+
 <a class='btn' href='https://form.gov.sg/645a0c2d02527d0013e622ed' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}

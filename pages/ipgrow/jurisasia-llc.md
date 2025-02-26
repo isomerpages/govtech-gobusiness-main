@@ -25,9 +25,9 @@ Through our association with international law firm Gowling WLG, we support our 
 
 <b>Website:</b> <a href='https://jurisasiallc.com/'>https://jurisasiallc.com/</a>
 
-<b>Offer:</b> Free 30 min discussion of technology (if necessary) prior to patent drafting. 
+<b>Offer:</b> IP Business Clinic participating service provider; Free 30 min discussion of technology (if necessary) prior to patent drafting. 
 
-<a class='btn' href='https://form.gov.sg/64d05bad09d6fc0011d7a842' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67b6eff5850c213032819ee7' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -180,6 +180,6 @@ Through our association with international law firm Gowling WLG, we support our 
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/64d05bad09d6fc0011d7a842' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67b6eff5850c213032819ee7' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 26 February 2025
