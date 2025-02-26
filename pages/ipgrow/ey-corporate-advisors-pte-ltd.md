@@ -119,7 +119,7 @@ EY teams work across a full spectrum of services in assurance, consulting, tax, 
 - Location: Singapore
 - IA/IP-Related Expertise: Valuation (with IA/IP considerations)
 - Certifications/Qualifications: Member of Institute of Singapore Chartered Accountants (ISCA), Chartered Valuer & Appraiser, Institute of Valuers and Appraisers, Singapore (IVAS), Member of Institute of Valuers and Appraisers, Singapore's Disciplinary Panel, Member of Institute of Valuers and Appraisers, Singapore's Learning & Assessment Working Group
-- URL of LinkedIn/Company Profile: <a href="https://www.www.ey.com/en_sg/people/ai-leng-chua" target="_blank" rel="noopener">https://www.www.ey.com/en_sg/people/ai-leng-chua</a>
+- URL of LinkedIn/Company Profile: <a href="https://www.ey.com/en_sg/people/ai-leng-chua" target="_blank" rel="noopener">https://www.ey.com/en_sg/people/ai-leng-chua</a>
 
 **James Choo**
 - Job Title: Partner, International Tax and Transaction Services
