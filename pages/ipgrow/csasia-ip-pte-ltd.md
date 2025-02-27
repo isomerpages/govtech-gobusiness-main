@@ -19,9 +19,9 @@ We offer a comprehensive suite of services tailored for both international and d
 
 <b>Website:</b> <a href='https://www.csasiaip.com/'>https://www.csasiaip.com/</a>
 
-<b>Offer:</b> First consultation is free for local start-ups and SMEs upon request.
+<b>Offer:</b> IP Business Clinic participating service provider; First consultation is free for local start-ups and SMEs upon request.
 
-<a class='btn' href='https://form.gov.sg/6490fe43ac885100110f899f' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67b6cb3e550d8bce0d5b9a54' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -115,6 +115,6 @@ We offer a comprehensive suite of services tailored for both international and d
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/6490fe43ac885100110f899f' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67b6cb3e550d8bce0d5b9a54' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 4 September 2024
+Profile last updated on 26 February 2025

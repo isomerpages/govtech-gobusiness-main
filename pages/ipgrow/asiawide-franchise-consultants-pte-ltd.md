@@ -24,7 +24,9 @@ We are the most active consulting company in Asia. We know franchising.
 
 <b>Website:</b> <a href='https://www.asiawidefranchise.com.sg'>https://www.asiawidefranchise.com.sg</a>
 
-<a class='btn' href='https://form.gov.sg/673aea547aec6671d6d63872' target='_blank' rel='noopener'>Get in touch</a>
+<b>Offer:</b> IP Business Clinic participating service provider
+
+<a class='btn' href='https://form.gov.sg/67b69f841c1ec67dcb772d96' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1a-ipgrow-company-profile %}
 
@@ -112,6 +114,6 @@ We are the most active consulting company in Asia. We know franchising.
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/673aea547aec6671d6d63872' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67b69f841c1ec67dcb772d96' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 27 November 2024
+Profile last updated on 26 February 2025
