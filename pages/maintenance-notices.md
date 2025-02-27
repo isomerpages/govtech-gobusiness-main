@@ -13,7 +13,7 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 | **Scheduled Date** | **Remarks** |  
 
 
-| 26 Feb, 6pm - 8pm<br>2 Mar, 12am - 2am | **GoBusiness Dashboard** will be unavailable due to scheduled maintenance. All services may not be available during this period. |        
+| 2 Mar, 12am - 2am | **GoBusiness Dashboard** will be unavailable due to scheduled maintenance. All services may not be available during this period. |        
 | 28 Feb, 6pm - 29 Feb, 12am | Applications for **Certificate of Exemption, Moneylender's Licence, Pawnbroker's Licence and Moneylender's Test** will be unavailable every Friday during the scheduled maintenance. |       
 | 28 Feb, 6pm - 03 Mar, 9am | Application, amendment, renewal & cancellation of **Singapore Food Agency (SFA) licences** will be unavailable during the upcoming scheduled maintenance. |     
 | 28 Feb, 9:30pm - 1 Mar, 4am | **Progressive Wage (PW) Mark Services** will be unavailable during the upcoming scheduled maintenance. |     
