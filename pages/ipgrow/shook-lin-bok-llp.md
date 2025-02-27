@@ -201,7 +201,7 @@ Shook Lin & Bok LLP is a leading full service Singapore law Firm with an Asian p
 - Awards/Accolades: IAM Patent 1000 (2018 - 2020 and 2022 - 2023) as a leading individual for patent litigation and patent-related transactions, Asia IP (2021 and 2023) as an IP Expert, Managing IP (since 2020) as an IP Star for patents, Asialaw Leading Lawyers (since 2022) as a Notable Practitioner in intellectual property, WTR 1000 (since 2022) as a leading individual for trademark enforcement and litigation and trademark-related transactions, Benchmark Litigation Asia-Pacific as a 'Future Star' in Singapore for Intellectual property and was awarded "Singapore Practitioner of the Year" at the Managing IP Asia Pacific Awards 2023
 - URL of LinkedIn/Company Profile: <a href="https://www.shooklin.com/en/our-partners/jevon-louis" target="_blank" rel="noopener">https://www.shooklin.com/en/our-partners/jevon-louis</a>
 
-'**Emma Qing**
+**Emma Qing**
 
 - Job Title: Senior Associate
 - Years of Experience: 10 years
