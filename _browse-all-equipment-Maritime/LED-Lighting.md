@@ -49,6 +49,7 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - Beacon Led Lighting - T5Y18PC-C
 - Beacon Led Lighting - T5Y18PC-D
 - Beacon Led Lighting - T5Y18PC-W
+- Beacon LED Lighting - T8Y08PC-C
 - Beacon Led Lighting - T8Y08PC-D
 - Beacon Led Lighting - T8Y08PC-W
 - Beacon LED Lighting - T8Y10NL01-C
@@ -63,6 +64,7 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - Beacon LED Lighting - T8Y18NL05-C
 - Beacon LED Lighting - T8Y18NL05-D
 - Beacon LED Lighting - T8Y18NL05-W
+- Beacon LED Lighting - T8Y18PC-C
 - Beacon Led Lighting - T8Y18PC-D
 - Beacon Led Lighting - T8Y18PC-W
 - Brite - BG23-018W/4KKT84FF
@@ -90,7 +92,10 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - DYCORRA - DY-CORN-7E27
 - DYCORRA - DY-CORN-9E14T
 - DYCORRA - DY-CORN-9E27
+- DYCORRA - DY-GP-20E27
+- DYCORRA - DY-GP-30E27
 - DYCORRA - DY-GP-40E27
+- DYCORRA - DY-GP-50E27
 - DYCORRA - DY-GT-7912E27S
 - DYCORRA - DY-LFCN-4E14
 - DYCORRA - DY-LFCN-4E27
@@ -109,6 +114,9 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - DYCORRA - DY-PINA-9B22
 - DYCORRA - DY-PINA-9E14
 - DYCORRA - DY-PINW-9E27
+- DYCORRA - DY-UFO-18
+- DYCORRA - DY-UFO-28
+- DYCORRA - DY-UFO-38E27
 - ECOLINK - 8719514683877
 - ECOLINK - 8719514683877 Ecolink LEDBulb 11W E27 6500K  1CT/12APR
 - ECOLINK - 8719514683877 Ecolink LEDBulb 11W E27 6500K 1CT/12APR
@@ -627,6 +635,7 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - Philips - 929001165037
 - Philips - 9290011650A
 - Philips - 9290020000A CNG HO 1200mm 18W 840 T8
+- Philips - 9290020001A CNG HO 1200mm 18W 865 T8
 - Philips - 9290030099A MAS LEDBulb DT3.4
 - Philips - 9290030103A MAS LEDBulbDT5.9
 - Philips - 9290030119A MAS LEDCandleDT2.5-25W E14 B35 CL G
@@ -644,6 +653,11 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - Philips - 9290037990 MAS LEDBulb DT5.9-60W E27 CRI95 A60 FR G
 - Philips - 9290037991 MAS LEDBulb DT7.2-75W E27 CRI95 A60 FR G
 - Philips - 9290037992 MAS LEDBulb DT10.5-100W E27 CRI95A60FR G
+- Philips - 9290042458 MAS LEDtube 1200mm UO+ 18.7W840 T8
+- Philips - 9290042458 MAS LEDtube 1200mm UO+ 18.7W840 T8
+- Philips - 9290042459 MAS LEDtube 1200mm UO+ 18.7W865 T8
+- Philips - 9290042460 MAS LEDtube 1200mm MO 23W840 T8
+- Philips - 9290042461 MAS LEDtube 1200mm MO 23W865 T8
 - Philips - LEDCla 2-25W B35 E14 CL ND 8718696574270
 - Philips - LEDCla 2-25W P45 E14 CL ND 8718696574317
 - Philips - LEDCla 2-25W P45 E27 CL ND 8718696574331
