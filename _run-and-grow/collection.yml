@@ -44,7 +44,6 @@ collections:
       - taxes-gst-customs/.keep
       - taxes-gst-customs/taxes-gst.md
       - taxes-gst-customs/annual-returns.md
-      - taxes-gst-customs/imports-exports.md
       - import-export-transhipment/imports-exports.md
       - import-export-transhipment/overview.md
       - import-export-transhipment/activate-customs-account.md
