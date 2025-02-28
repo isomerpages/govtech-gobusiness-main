@@ -1,7 +1,7 @@
 ---
 title: Annual returns
 permalink: /run-and-grow/annual-returns/
-third_nav_title: Taxes, GST and Customs
+third_nav_title: Taxes and GST 
 ---
 
 ## Annual filing with Accounting and Corporate Regulatory Authority (ACRA)

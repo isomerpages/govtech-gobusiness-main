@@ -1,8 +1,7 @@
 ---
 title: Income Taxes, Levy and GST
-
 permalink: /run-and-grow/taxes-and-gst/
-third_nav_title: Taxes, GST and Customs
+third_nav_title: Taxes and GST
 ---
 
 
