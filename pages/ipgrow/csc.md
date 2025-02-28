@@ -17,7 +17,9 @@ CSC is the trusted provider of choice for the Forbes Global 2000 and the 100 Bes
 
 <b>Website:</b> <a href='https://www.cscdbs.com/'>https://www.cscdbs.com/</a>
 
-<a class='btn' href='https://form.gov.sg/64e30056ffdaa6001331f510' target='_blank' rel='noopener'>Get in touch</a>
+<b>Offer:</b> IP Business Clinic participating service provider
+
+<a class='btn' href='https://form.gov.sg/67b6c8f747388b17799a97af' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1b-ipgrow-company-profile %}
 
@@ -132,6 +134,6 @@ CSC is the trusted provider of choice for the Forbes Global 2000 and the 100 Bes
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/64e30056ffdaa6001331f510' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67b6c8f747388b17799a97af' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 26 February 2025
