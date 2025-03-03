@@ -74,7 +74,7 @@ The permit-holder must also ensure that all payments out of the funds raised are
 The statement of accounts of the fund-raising appeal must be submitted to the Commissioner of Charities within 60 days after the last day of the appeal.</li>
 <li><strong>Under what circumstances will the 80/20 rule not apply or be waived?</strong><br>
 The Commissioner of Charities may consider granting a waiver of the 80/20 rule when it is a private fund-raising appeal or if the fund-raising appeal is in aid of providing immediate disaster relief or humanitarian aid for natural disasters.<br>
-For more information, please refer to the <a href="https://www.charities.gov.sg/_layouts/15/download.aspx?SourceUrl=/PublishingImages/Fund-Raising/Types-of-FR-Permits/Documents/Revised%20Guidelines%20on%20public%20and%20private%20donations-FR.pdf" target="_blank" rel="noopener">Guideline on Public abd Private Fund-Raising</a>.</li>
+For more information, please refer to the <a href="https://www.charities.gov.sg/_layouts/15/download.aspx?SourceUrl=/PublishingImages/Fund-Raising/Types-of-FR-Permits/Documents/Revised%20Guidelines%20on%20public%20and%20private%20donations-FR.pdf" target="_blank" rel="noopener">Guideline on Public and Private Fund-Raising</a>.</li>
 <li><strong>Do organisations need to apply for permits?</strong><br>
 If they have been duly authorised by the permit holders (i.e. the authorised fund-raisers) to collect donations on their behalf, they are not required to apply for the permits from the Commissioner of Charities.<br>
 If your organisation is a commercial fund raiser or collecting money on behalf of the permit holders, there must be a written agreement between your organisation and the permit holder. The agreement should include:<br>

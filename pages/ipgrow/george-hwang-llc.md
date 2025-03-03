@@ -25,6 +25,8 @@ Besides Singapore, George has worked in Hong Kong, Bulgaria, the Bahamas and the
 
 <b>Website:</b> <a href='https://georgehwangllc.com'>https://georgehwangllc.com</a>
 
+<b>Offer:</b> SIPDA participating service provider
+
 <a class='btn' href='https://form.gov.sg/65dc2d40fb3b748399692075' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}

@@ -15,7 +15,7 @@ National Parks Board (NPARKS)
 <p>A pre-signed CITES permit is issued for tourist manufactured products made from CITES reptilian/non-reptilian species, like handbags, wallets/purses, belts, key holder/chains etc. A retailer of such products may apply for pre-signed CITES permits. These permits are pre-approved with no quantity of products listed. The retailer will have to indicate on the pre-signed CITES permit, the quantity for the items and complete the consignee details, when a walk-in customer makes a purchase. The customer may be required to produce the permit when clearing customs inspections at the country/region of destination.</p>
 <h3>FAQs</h3>
 <ol>
-<li><strong>Where can I get more information on CITES?</strong><br />You can get more information from NParks website at <a href="https://www.nparks.gov.sg/biodiversity/cites" target="_blank" rel="noopener">https://www.nparks.gov.sg/biodiversity/cites</a></li>
+<li><strong>Where can I get more information on CITES?</strong><br />You can get more information from NParks website at <a href="https://www.nparks.gov.sg/avs/animals/cites/about-cites" target="_blank" rel="noopener">https://www.nparks.gov.sg/avs/animals/cites/about-cites</a></li>
 </ol>
 
 <strong>Additional Information</strong>

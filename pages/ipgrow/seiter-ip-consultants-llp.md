@@ -19,9 +19,9 @@ As a small firm, our work ethics revolve around transparency, honesty, and integ
 
 <b>Website:</b> <a href='https://www.ipconsultants.asia'>https://www.ipconsultants.asia</a>
 
-<b>Offer:</b> Free 45 to 1 hour consultation, special discount for startups in trademark registration.
+<b>Offer:</b> IP Business Clinic participating service provider; Free 45 to 1 hour consultation, special discount for startups in trademark registration.
 
-<a class='btn' href='https://form.gov.sg/6422470187c43200127ec2d7' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67b7d9ce02e5e7efa1f62454' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -183,6 +183,6 @@ As a small firm, our work ethics revolve around transparency, honesty, and integ
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/6422470187c43200127ec2d7' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67b7d9ce02e5e7efa1f62454' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 26 February 2025

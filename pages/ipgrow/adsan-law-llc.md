@@ -34,7 +34,9 @@ We provide services in the following areas of practice:
 
 <b>Website:</b> <a href='https://www.adsanlaw.com'>https://www.adsanlaw.com</a>
 
-<a class='btn' href='https://form.gov.sg/67048a6d43898c3913271472' target='_blank' rel='noopener'>Get in touch</a>
+<b>Offer:</b> IP Business Clinic participating service provider; SIPDA participating service provider
+
+<a class='btn' href='https://form.gov.sg/67b6943efac419d7ddf4cc34' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -134,6 +136,6 @@ We provide services in the following areas of practice:
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/67048a6d43898c3913271472' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67b6943efac419d7ddf4cc34' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 16 October 2024
+Profile last updated on 26 February 2025
