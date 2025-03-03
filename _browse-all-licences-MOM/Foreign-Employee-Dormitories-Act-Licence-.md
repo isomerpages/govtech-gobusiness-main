@@ -18,5 +18,4 @@ Ministry of Manpower (MOM)
 
 <strong>Additional Information</strong>
 
-To facilitate a smooth FEDA license processing, we recommend using the [e-Adviser for Setting
-up of Foreign Employee Dormitories](https://eadviser.gobusiness.gov.sg/operatingdormitoryforforeignemployees){:target="_blank"}{:rel="noopener"} to navigate and obtain the required agency approvals prior to application.
+To facilitate a smooth FEDA license processing, we recommend using the [e-Adviser for Setting up Dormitory to house Foreign Employees](https://go.gov.sg/settingupdormitory){:target="_blank"}{:rel="noopener"} to navigate and obtain the required agency approvals prior to application.
