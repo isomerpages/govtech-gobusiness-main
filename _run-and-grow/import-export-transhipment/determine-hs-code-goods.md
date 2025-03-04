@@ -29,7 +29,7 @@ The Harmonised Commodity Description and Coding System (HS) is an international 
     </td>
     </tr>
     <tr>
-    <td><a href='https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do' target='_blank'>Contact List for Competent Authorities</a></td>
+    <td><a href='https://hscodechecker.gobusiness.gov.sg/downloads' target='_blank'>Contact List for Competent Authorities</a></td>
     <td>If your goods are controlled, contact the relevant CAs to learn more.
     </td>
     </tr>
