@@ -27,8 +27,3 @@ Singapore Food Agency (SFA)
 <li><strong>Others</strong><br>File Format: DOC,DOCX,GIF,JPG,PNG,PDF<br>Maximum upload per application: 5MB</li>
 </ul>
 
-<H3>Requirements</H3>
-
-<p>Prerequisite Licence(s)</p>
-<p>ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
-
