@@ -40,10 +40,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Blst-Chllr-Food-Srvcs' target='_blank'>Blast Chiller</a><br></td>
-<td></td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/eqt-Comb-Ovn-Food-Srvcs' target='_blank'>Combi Oven</a><br></td>
 <td></td>
 </tr>
