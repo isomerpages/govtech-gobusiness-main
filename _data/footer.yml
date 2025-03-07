@@ -39,8 +39,10 @@ navlinks:
         url: /accreditation/
       - title: Intellectual Property
         url: /intellectual-property/ip-grow/
-      - title: Taxes, GST and Customs
+      - title: Taxes and GST
         url: /run-and-grow/taxes-and-gst/
+      - title: Import, Export, and Transhipment
+        url: /run-and-grow/import-export-transhipment/
       - title: GeBIZ Alerts
         url: /gebiz-alerts/
   - title: E-Services
