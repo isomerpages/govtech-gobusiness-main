@@ -236,7 +236,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Health Certificate for Export of Live Foodfish for Breeding](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201212070000110)
 - [Licence for Import/Export/Transhipment of Meat and Fish Products](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000176)
 - [Licence for Import/Transhipment of Fresh Fruits and Vegetables](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000175)
-- [Licence to Import Poultry](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201305290000324)
+- [Licence to Import Poultry](https://dashboard.gobusiness.gov.sg/task-details/licence-to-import-poultry)
 - [Licence to Import Sheep & Goats](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201305290000326)
 - [Licence to Import Table Eggs](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201305290000325)
 - [Licence to Import/Export/Transship Animals, Birds, Eggs and Biologics](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301030000131)

@@ -2179,8 +2179,7 @@
 
         <p>The Licence to Import Poultry is issued to importers by Singapore Food Agency to import Broiler Chickens and Broiler Ducks.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201305290000324" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-to-Import-Poultry" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-to-Import-Poultry">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/licence-to-import-poultry" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-to-Import-Poultry">View Licence Details</a>
 
         -----
         **Licence to Import Sheep & Goats**
