@@ -10,22 +10,18 @@ Singapore Food Agency (SFA)
 
 {% include spcp-text.html type="cp" %}
 
-{% include licence-apply-button.html %}
-<a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000176" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>
-<div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-size: 18px; color: #313840;">
-<img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;">
-<span style="font-weight: bold; font-family: hknova-bold; font-size: 18px; ">Please use desktop / laptop to apply for this licence.</span><br>
-<span style="font-family: hknova-regular;">You can only view application details and make payment via mobile. Please use GoBusiness Licensing on desktop to use all features.</span><br><br>
-<a id="mobileNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000176" target="_blank" rel="noopener">Continue to GoBusiness Licencing anyway</a>
-</div>
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/licence-for-import-export-transhipment-of-meat-and-fish-products" type="primary" %}
 
 <H3>Application Details</H3>
 
 <p>LICENCE FOR IMPORT/EXPORT/ TRANSSHIPMENT OF MEAT AND FISH PRODUCTS is required if Traders involved in the import/export/transshipment of meat and fish products.</p>
-<p>Licence Pre-requisites : <br />1.Top Up CPF MediSave. <br />2.Activate UEN with Singapore Customs. <br />3.Submit original GIRO form.</p>
+<p>Licence Pre-requisites : <br>1.Top Up CPF MediSave. <br>2.Activate UEN with Singapore Customs. <br>3.Submit original GIRO form.</p>
 <h3>FAQs</h3>
 <ol>
-<li><strong>Where can I get more information for Licence for Import/Export and Transhipment of Meat and Fish Products?</strong><br />You can find more information on <a href="https://www.sfa.gov.sg/food-import-export/conditions-for-specific-types-of-food-for-import" target="_blank" rel="noopener">SFA website</a>.</li>
+<li><strong>Where can I get more information for Licence for Import/Export and Transhipment of Meat and Fish Products?</strong><br>You can find more information on <a href="https://www.sfa.gov.sg/food-import-export/conditions-for-specific-types-of-food-for-import" target="_blank" rel="noopener">SFA website</a>.</li>
+<li>
+<p><strong>I have an ongoing licence application in LicenceOne. How do I continue with it?<br></strong>Click&nbsp;<a href="https://licence1.business.gov.sg/licence1/authentication/showLogin.action" target="_blank" rel="noopener"><strong>here</strong></a> to continue and complete your ongoing licence application till approval and payment.</p>
+</li>
 </ol>
 
 <strong>Additional Information</strong>
