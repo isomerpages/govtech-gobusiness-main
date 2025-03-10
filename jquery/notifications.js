@@ -7,8 +7,7 @@ const custom_notifications = [
   //multiple services
   "<b>[Attention: System Maintenance]</b> Certain GoBusiness services will be unavailable due to upcoming maintenance. Please check our <B><u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>maintenance schedule</a></u></B> for details.", 
   "<b>[Attention: Important Announcement]</b> For submission of pending Request for Action (RFA) documents involving LTA Vocational Licence applications (i.e. Taxi Driver, Private Hire Car Driver, Bus Driver, Bus Attendant and Omnibus Driver) which had been previously submitted via the old GoBusiness Licensing (GBL) portal, kindly do so via the specified mailboxes:<br> a. Application RFAs: lta_l1@lta.gov.sg<br> b.	Renewal RFAs: LTA_renewal@lta.gov.sg",
-  "<b>[Attention: Important Announcement]</b> Application for AMENDMENT of Newspaper Permit and Printing Press Licence under the Infocomm Media Development Authority (IMDA) is under maintenance and is unavailable. In the meantime, please send your amendment requests to: Registry_of_Newspapers@mddi.gov.sg ",
-
+  
   
 ]; 
 
