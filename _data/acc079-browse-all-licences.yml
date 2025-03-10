@@ -2138,7 +2138,8 @@
 
         <p>Licence for Import/Export/Transhipment of Meat and Fish Products is required if Traders involved in the import/export/transshipment of meat and fish products.<br /><br />Licence Pre-requisites :<br />1.Top Up CPF MediSave.<br />2.Activate UEN with Singapore Customs.<br />3.Submit original GIRO form.</p>
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/licence-for-import-export-transhipment-of-meat-and-fish-products" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-for-Import-Export-Transhipment-of-Meat-and-Fish-Products">View Licence Details</a>
+        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000176" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-for-Import-Export-Transhipment-of-Meat-and-Fish-Products" style="margin-left: 1em;">View Licence Details</a>
+        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-for-Import-Export-Transhipment-of-Meat-and-Fish-Products">View Licence Details</a>
 
         -----
         **Licence for Import/Transhipment of Fresh Fruits and Vegetables**
@@ -2147,8 +2148,9 @@
 
         <p>Licence for Import/Transhipment of Fresh Fruits and Vegetables is required if Traders involved in the import/transshipment of fresh fruits and vegetables.<br /><br />Licence Pre-requisites :<br />1.Top Up CPF MediSave.<br />2.Activate UEN with Singapore Customs.<br />3.Submit original GIRO form.</p>
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/licence-for-import-transhipment-of-fresh-fruits-and-vegetables" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-for-Import-Transhipment-of-Fresh-Fruits-and-Vegetables">View Licence Details</a>
-
+        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000175" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-for-Import-Transhipment-of-Fresh-Fruits-and-Vegetables" style="margin-left: 1em;">View Licence Details</a>
+        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-for-Import-Transhipment-of-Fresh-Fruits-and-Vegetables">View Licence Details</a>
+        
         -----
         **Licence to Import Poultry**
 
@@ -2277,7 +2279,8 @@
 
         <p>Registration to Import Processed Food Products and Food Appliances is required if Traders involve in the import of processed food (not containing meat and fish products, fresh fruits and vegetables) and food appliances.<br /><br />Licence Pre-requisites :<br />1.Top Up CPF MediSave.<br />2.Activate UEN with Singapore Customs.<br />3.Submit original GIRO form.</p>
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/registration-to-import-processed-food-products-and-food-appliances" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Food-Agency-(SFA)/Registration-to-Import-Processed-Food-Products-and-Food-Appliances">View Licence Details</a>
+        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301070000146" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Registration-to-Import-Processed-Food-Products-and-Food-Appliances" style="margin-left: 1em;">View Licence Details</a>
+        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Registration-to-Import-Processed-Food-Products-and-Food-Appliances">View Licence Details</a>
 
         -----
         **Rice Licence**
