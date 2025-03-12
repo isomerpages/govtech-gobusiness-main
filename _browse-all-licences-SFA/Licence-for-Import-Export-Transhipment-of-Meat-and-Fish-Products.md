@@ -31,7 +31,7 @@ Singapore Food Agency (SFA)
 <H3>Documents Needed</H3>
 
 <ul>
-<li><strong>Any Supporting Documents</strong><br />File format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB</strong></li>
+<li><strong>Any Supporting Documents</strong><br />File format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB</li>
 </ul>
 
 <H3>Requirements</H3>
