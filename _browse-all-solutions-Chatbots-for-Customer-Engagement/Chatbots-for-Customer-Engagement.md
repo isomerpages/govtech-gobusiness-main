@@ -24,6 +24,14 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>VisionTech Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202210524R-AConvo-G' target='_blank'>AiConvo</a><br></td>
+<td>Freemansland Consultancy Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201734623N-Ehly-AI-Assstnt-G' target='_blank'>Ehly AI Assistant</a><br></td>
+<td>Cleverly SG Pte. Ltd.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201509275C-OLLA-AI-G' target='_blank'>OLLA AI</a><br></td>
 <td>CLOUDE8 PTE. LTD.</td>
 </tr>

@@ -20,16 +20,16 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/198901360G-AZ-DIGITAL-POS-SLN-G' target='_blank'>AZ DIGITAL POS SOLUTION</a><br></td>
+<td>AZ Digital Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201529028W-EPOS-Enhncd-POS-v-20-G' target='_blank'>EPOS Enhanced POS Version 2.0</a><br></td>
 <td>EPOS Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201224387N-EZYSALES-RETAIL-POS-v-10-G' target='_blank'>EZYSALES RETAIL POS Version 1.0</a><br></td>
-<td>WINAPP SOLUTIONS PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200503951K-MEGAPOS-G' target='_blank'>MEGAPOS</a><br></td>
-<td>Megasafe Technology Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200310497R-MyRtlr-&rod-Pos-G' target='_blank'>MyRetailer Android Pos</a><br></td>
+<td>DCS Synthesis Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200919537D-Sn5posPont-of-Sls-v-35-G' target='_blank'>San5pos/Point of Sales Version 35</a><br></td>
