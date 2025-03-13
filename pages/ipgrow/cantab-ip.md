@@ -24,9 +24,9 @@ We're proud to have worked with some of the  most innovative companies in the Un
 
 <b>Website:</b> <a href='https://www.cantab-ip.com'>https://www.cantab-ip.com</a>
 
-<b>Offer:</b> 30 minute initial consultation without charge.
+<b>Offer:</b> IP Business Clinic participating service provider; 30 minute initial consultation without charge.
 
-<a class='btn' href='https://form.gov.sg/641b92e91ee4e100125ac17e' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67b6bbdbfb91891e44ab28e4' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -154,6 +154,6 @@ The World's Leading Patent Practitioners 2014 - Recommended for patent prosecuti
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/641b92e91ee4e100125ac17e' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67b6bbdbfb91891e44ab28e4' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 23 August 2023
+Profile last updated on 26 February 2025

@@ -56,7 +56,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - ABB - M3BP 280SMB 6 (IE4)
 - ABB - M3BP 280SMC 2 (IE4)
 - ABB - M3BP 280SMC 6 (IE4)
-- ABB - M3BP 315 LKA 6
 - ABB - M3BP 315LKA 6 (IE4)
 - ABB - M3BP 315LKB 2 (IE4)
 - ABB - M3BP 315LKB 4 (IE4)

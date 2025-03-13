@@ -19,9 +19,9 @@ Our name says it all; we are an Asian Intellectual Property hub - providing trad
 
 <b>Website:</b> <a href='https://www.iphub.asia'>https://www.iphub.asia</a>
 
-<b>Offer:</b> We are happy to offer a free 15min consultation to understand your IP needs better
+<b>Offer:</b> IP Business Clinic participating service provider; We are happy to offer a free 15min consultation to understand your IP needs better
 
-<a class='btn' href='https://form.gov.sg/646ea7da8b572f00120b3fdf' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67b6e3d31c1ec67dcb8d433f' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1a-ipgrow-company-profile %}
 
@@ -150,6 +150,6 @@ Our name says it all; we are an Asian Intellectual Property hub - providing trad
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/646ea7da8b572f00120b3fdf' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67b6e3d31c1ec67dcb8d433f' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 26 February 2025
