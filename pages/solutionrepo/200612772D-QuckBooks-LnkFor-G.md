@@ -23,6 +23,34 @@ QuickBooks Online is a cloud-based accounting software accessible via internet-c
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1-Essentials Plan for 3 users, basic training & basic setup</td>
+<td style='padding: 10px;'>$2,368.00</td>
+<td style='padding: 10px;'>$2,356.00</td>
+<td style='padding: 10px;'><a href='/images/psg/200612772D_20240185_13032025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2-Plus Plan for 5 users, basic training & basic setup</td>
+<td style='padding: 10px;'>$2,536.00</td>
+<td style='padding: 10px;'>$2,512.00</td>
+<td style='padding: 10px;'><a href='/images/psg/200612772D_20240185_13032025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3-Plus Plan for 5 users, standard training & standard setup</td>
+<td style='padding: 10px;'>$3,736.00</td>
+<td style='padding: 10px;'>$2,512.00</td>
+<td style='padding: 10px;'><a href='/images/psg/200612772D_20240185_13032025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4-Plus Plan for 5 users, standard training & complex setup</td>
+<td style='padding: 10px;'>$5,136.00</td>
+<td style='padding: 10px;'>$2,512.00</td>
+<td style='padding: 10px;'><a href='/images/psg/200612772D_20240185_13032025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5-Advanced Plan for up to 25 users, standard training & complex setup</td>
 <td style='padding: 10px;'>$6,708.00</td>
 <td style='padding: 10px;'>$3,400.00</td>

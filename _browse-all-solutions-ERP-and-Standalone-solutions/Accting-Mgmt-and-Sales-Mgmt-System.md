@@ -156,10 +156,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Cleansis Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200612772D-QuckBooks-LnkFor-G' target='_blank'>QuickBooks + LinkFor</a><br></td>
-<td>Abundant Accounting Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202138250K-SQL-Account-v-5-G' target='_blank'>SQL Account Version 5</a><br></td>
 <td>Apscom Solutions Pte. Ltd.</td>
 </tr>
