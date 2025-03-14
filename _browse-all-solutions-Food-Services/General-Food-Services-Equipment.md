@@ -28,6 +28,26 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Automtd-Dp-Fryr-[12L-19L]-Food-Srvcs' target='_blank'>Automated Deep Fryer [12L - 19L]</a><br></td>
+<td></td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Automtd-Dp-Fryr-[20L-24L]-Food-Srvcs' target='_blank'>Automated Deep Fryer [20L - 24L]</a><br></td>
+<td></td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Automtd-Dp-Fryr-[25L-nd-bov]-Food-Srvcs' target='_blank'>Automated Deep Fryer [25L and above]</a><br></td>
+<td></td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Automtd-Dp-Fryr-[5L-7L]-Food-Srvcs' target='_blank'>Automated Deep Fryer [5L - 7L]</a><br></td>
+<td></td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Automtd-Dp-Fryr-[8L-11L]-Food-Srvcs' target='_blank'>Automated Deep Fryer [8L - 11L]</a><br></td>
+<td></td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/eqt-Automtd-Dshwshr-Food-Srvcs' target='_blank'>Automated Dishwasher</a><br></td>
 <td></td>
 </tr>
@@ -37,6 +57,22 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/eqt-Autonomous-Robotc-Srvrs-Food-Srvcs' target='_blank'>Autonomous Robotic Servers</a><br></td>
+<td></td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Blst-Chllr-[10GN-14GN]--Food-Srvcs' target='_blank'>Blast Chiller [10GN - 14GN] </a><br></td>
+<td></td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Blst-Chllr-[15GN-19GN]--Food-Srvcs' target='_blank'>Blast Chiller [15GN - 19GN] </a><br></td>
+<td></td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Blst-Chllr-[20GN-nd-bov]--Food-Srvcs' target='_blank'>Blast Chiller [20GN and above] </a><br></td>
+<td></td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Blst-Chllr-[5GN-9GN]--Food-Srvcs' target='_blank'>Blast Chiller [5GN - 9GN] </a><br></td>
 <td></td>
 </tr>
 <tr>
