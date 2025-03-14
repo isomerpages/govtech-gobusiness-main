@@ -48,16 +48,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>FLAVOR PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201705156N-HubSpot-G' target='_blank'>HubSpot</a><br></td>
-<td>Brew Interactive Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201702434C-Pppr-Cloud-CRM-v-140-G' target='_blank'>Pepper Cloud CRM Version 14.0</a><br></td>
 <td>Pepper Cloud Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201403211Z-QuckDsk-Mrktng-G' target='_blank'>QuickDesk Marketing</a><br></td>
-<td>QuickDesk Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201729553C-WrlyCRM-v-12-G' target='_blank'>WarelyCRM Version 1.2</a><br></td>

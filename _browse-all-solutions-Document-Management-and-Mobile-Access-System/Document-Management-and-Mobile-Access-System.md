@@ -32,12 +32,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Adept Ventures Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201100152G-Evolvcloud-v-12-G' target='_blank'>Evolvecloud Version 1.2</a><br></td>
-<td>K&K IT PRIVATE LTD</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201539815G-Dropbox-Busnss-Stndrd-for-SMEs-G' target='_blank'>Dropbox Business Standard for SMEs</a><br></td>
+<td>Acc Pro (Singapore) Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201410722E-GncDocs-DOC-MGT-Softwr-G' target='_blank'>GenicDocs - Document Management Software</a><br></td>
-<td>Business Thrust Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201100152G-Evolvcloud-v-12-G' target='_blank'>Evolvecloud Version 1.2</a><br></td>
+<td>K&K IT PRIVATE LTD</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201809937E-Mcrosoft-365-ShrPont-Onln-G' target='_blank'>Microsoft 365 SharePoint Online</a><br></td>

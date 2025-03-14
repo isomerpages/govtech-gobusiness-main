@@ -28,7 +28,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/53322628K-Alph-Commrc-Boostr-Prmum-v-28-G' target='_blank'>Alpha eCommerce Booster Premium Version 2.8</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/53322628K-Alph-Commrc-Boostr-v-28-G' target='_blank'>Alpha eCommerce Booster Version 2.8</a><br></td>
 <td>ALPHABET SIX MARKETING SINGAPORE</td>
 </tr>
 <tr>
@@ -38,6 +38,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201811373M-Awbstr-Ecommrc-SLN-v2410-G' target='_blank'>Awebstar Ecommerce Solution Version24-1.0</a><br></td>
 <td>Awebstar Technologies Pte.Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201500009Z-CodNov-ECommrc-G' target='_blank'>CodeNova E-Commerce</a><br></td>
+<td>CodeNova Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201701817K-Corsv-Lb-ECommrc-Wbst-Dv-G' target='_blank'>Corsiva Lab - E-Commerce Website Development</a><br></td>
@@ -52,6 +56,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Digipixel Pte. Ltd.</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202106150H-Dgtl-Rtl-Ecommrc-SLNs-G' target='_blank'>Digital Retail Ecommerce Solutions</a><br></td>
+<td>ACCSS Digital Pte. Ltd.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201535836W-Commrc-Mstrpln-v-20-G' target='_blank'>eCommerce Masterplan Version 2.0</a><br></td>
 <td>Aks Tech Pte Ltd</td>
 </tr>
@@ -62,6 +70,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201529118Z-ECommrc-Portl-Dv-WooCommrc-G' target='_blank'>E-Commerce Portal Development (WooCommerce)</a><br></td>
 <td>IPRO DEZIGN PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201415816M-Comms-Foundton-Pckg-G' target='_blank'>eComms Foundation Package</a><br></td>
+<td>Simpliify (Pte. Ltd.)</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201216251K-PSProfssonl-G' target='_blank'>ePSProfessional</a><br></td>
@@ -100,20 +112,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Verz Design Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201608054D-Vu-Tch-Ecommrc-Wbst-Pckg-G' target='_blank'>Vue Tech Ecommerce Website Package</a><br></td>
-<td>VUE TECH PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201842642W-W360-E-Powr-Pck-v-10-G' target='_blank'>W360 E Power Pack Version 1.0</a><br></td>
 <td>W360 Group Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201729553C-WrlyEcom-v-13-G' target='_blank'>WarelyEcom Version 1.3</a><br></td>
 <td>PLUS 65 MARKETING PTE. LTD.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201402351H-Wb-Imp-Exprss-ECommrc-Wbst-Dv-v-v1-G' target='_blank'>Web Imp Express E-Commerce Website Development Version v1</a><br></td>
-<td>WEB IMP PTE LTD</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201736601Z-WbCommrc-Lt-v-1-G' target='_blank'>WebCommerce Lite Version 1</a><br></td>
