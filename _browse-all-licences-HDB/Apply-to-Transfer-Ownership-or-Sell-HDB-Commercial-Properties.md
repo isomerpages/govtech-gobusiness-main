@@ -12,7 +12,7 @@ Housing & Development Board (HDB)
 
 <H3>Application Details</H3>
 
-<p>HDB commercial premises can now lodge / or apply for their resale / transfer depending on the nature of each request.</p>
+<p>Apply to transfer or sell your HDB commercial properties.</p>
 <h3><strong>FAQ</strong></h3>
 <ol>
 <li><strong>Do I need to apply for this application?<br></strong>Yes, you need to obtain HDB&rsquo;s written consent for the Resale / Transfer of Commercial Properties if you own an HDB shop and wish to dispose it in the open market or would like to transfer your share of the property to another person(s).<br>Online application must be submitted by the transferors' solicitors who have to ensure that all particulars given are true and correct with the authorisation of the transferors and transferees. The transferors and transferees must also jointly and severally agree to the Terms and Conditions for Resale / Transfer of an HDB shop. Should the parties agree upon it, the transferees&rsquo; solicitor may also submit the online application and the necessary authorisation.</li>

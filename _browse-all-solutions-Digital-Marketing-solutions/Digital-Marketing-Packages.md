@@ -96,10 +96,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Guidesify Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201213801E-DM-Hshmt-Dgtl-Enblmnt-PKG-G' target='_blank'>DM Hashmeta Digital Enablement Packages</a><br></td>
-<td>Hashmeta Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202113658W-DM-HD-Dgtl-Brndng-PKG-G' target='_blank'>DM HD Digital Branding Packages</a><br></td>
 <td>Hatch Digital Pte. Ltd.</td>
 </tr>
@@ -114,6 +110,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201134148Z-DM-Clck-Md-Dgtl-Mrktng-PKG-G' target='_blank'>DM iClick Media Digital Marketing Packages</a><br></td>
 <td>iClick Media Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201632791Z-DM-Innovtv-Hub-Dgtl-Mrktng-PKG-G' target='_blank'>DM Innovative Hub Digital Marketing Packages</a><br></td>
+<td>Innovative Hub (SG) Pte.Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202008814M-DM-Klbr-As-Dgtl-Mrktng-G' target='_blank'>DM Kaliber Asia Digital Marketing</a><br></td>
@@ -144,10 +144,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>OOm Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202008698H-DM-Outrnkco-Dgtl-Mrktng-PKG-v-1-G' target='_blank'>DM Outrankco Digital Marketing Packages Version 1</a><br></td>
-<td>Outrankco Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201840067W-DM-PIXEL-MECHANICS-Dgtl-Mrktng-PKG-G' target='_blank'>DM PIXEL MECHANICS Digital Marketing Packages</a><br></td>
 <td>PIXEL MECHANICS PTE LTD</td>
 </tr>
@@ -170,6 +166,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201605009E-DM-SEOcty-Dgtl-Mrktng-G' target='_blank'>DM SEOciety Digital Marketing</a><br></td>
 <td>SEOciety Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200908223H-DM-Vrz-Dsgn-Dgtl-Mrktng-Pckg-v-2-G' target='_blank'>DM Verz Design Digital Marketing Package Version 2</a><br></td>
+<td>Verz Design Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201842642W-DM-W360-DIGITAL-POWER-PACK-v-10-G' target='_blank'>DM W360 DIGITAL POWER PACK Version 1.0</a><br></td>
