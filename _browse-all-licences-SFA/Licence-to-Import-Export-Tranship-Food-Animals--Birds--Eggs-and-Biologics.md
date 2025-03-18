@@ -1,6 +1,6 @@
 ---
 title: Licence to Import/Export/Tranship Food Animals, Birds, Eggs and Biologics
-permalink: /licence-to-import-export-tranship-food-animals--birds--eggs-and-biologics
+permalink: /browse-all-licences/Singapore-Food-Agency-(SFA)/licence-to-import-export-tranship-food-animals--birds--eggs-and-biologics
 third_nav_title: Singapore Food Agency (SFA)
 ---
 
