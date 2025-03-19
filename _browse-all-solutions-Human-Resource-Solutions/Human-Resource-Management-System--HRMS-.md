@@ -68,10 +68,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Frontier e-HR Pte Ltd </td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200804595N-HRsly-Onln-Pyroll-G' target='_blank'>HReasily Online Payroll</a><br></td>
-<td>361 Degree Consultancy Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200603587Z-Mllon-HR-MGT-Systm-G' target='_blank'>Million Human Resource Management System</a><br></td>
 <td>Rockbell International Software Pte Ltd</td>
 </tr>
@@ -98,6 +94,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201635071C-Swngvy-v-12330-G' target='_blank'>Swingvy Version 1.233.0</a><br></td>
 <td>SWINGVY PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/51322500E-Tm-Accss-HRMS-G' target='_blank'>Time Access HRMS</a><br></td>
+<td>TIME ACCESS INTERNATIONAL</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/199804415D-TIMES-SOFTWARE-HRMS-G' target='_blank'>TIMES SOFTWARE HRMS</a><br></td>

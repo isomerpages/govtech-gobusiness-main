@@ -32,16 +32,16 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>A2000 Solutions Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201323996K-Adptv-BzApp-v-6-G' target='_blank'>Adaptive BizApp Version 6</a><br></td>
+<td>Adaptive Cloud Systems Pte. Ltd.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201621525K-Altc-odoo-ERP-G' target='_blank'>Alitec odoo ERP</a><br></td>
 <td>Alitec Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201912702K-AM8ZE-ERP-VISTA-v-13-G' target='_blank'>AM8ZE ERP: VISTA Version 13</a><br></td>
 <td>AM8ZE PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200106330C-EASPAC-Entrprs-Softwr-v-1011-G' target='_blank'>EASPAC Enterprise Software Version 10.1.1</a><br></td>
-<td>Prosperage Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201007812H-Educ-v-50-G' target='_blank'>Educe Version 5.0</a><br></td>
@@ -94,6 +94,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201915635R-Odoo-Entrprs-v-18-G' target='_blank'>Odoo Entreprise Version 18</a><br></td>
 <td>PORT CITIES SINGAPORE PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201723943H-REACH-MOIBOO-v-28-G' target='_blank'>REACH MOIBOO Version 2.8</a><br></td>
+<td>REACH PROCESS OUTSOURCING PTE. LTD.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200507412D-Sg-300-G' target='_blank'>Sage 300</a><br></td>

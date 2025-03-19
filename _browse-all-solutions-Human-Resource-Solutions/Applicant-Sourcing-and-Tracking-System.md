@@ -24,10 +24,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>AIO Interactive Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201322246H-RcrutrPl-G' target='_blank'>RecruiterPal</a><br></td>
-<td>Hyperscal Solutions Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201725862C-rcrutSG-Applcnt-Trckng-Systm-ATS-G' target='_blank'>recruitSG Applicant Tracking System (ATS)</a><br></td>
 <td>HR SG PTE. LTD.</td>
 </tr>
