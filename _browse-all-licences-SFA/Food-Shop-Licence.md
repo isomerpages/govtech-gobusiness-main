@@ -8,14 +8,7 @@ third_nav_title: Singapore Food Agency (SFA)
 
 Singapore Food Agency (SFA)
 
-{% include licence-apply-button.html %}
-<a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1901021401000440" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>
-<div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-size: 18px; color: #313840;">
-<img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;">
-<span style="font-weight: bold; font-family: hknova-bold; font-size: 18px; ">Please use desktop / laptop to apply for this licence.</span><br>
-<span style="font-family: hknova-regular;">You can only view application details and make payment via mobile. Please use GoBusiness Licensing on desktop to use all features.</span><br><br>
-<a id="mobileNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1901021401000440" target="_blank" rel="noopener">Continue to GoBusiness Licencing anyway</a>
-</div>
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/food-shop-licence" type="primary" %}
 
 <H3>Application Details</H3>
 
@@ -79,7 +72,10 @@ Singapore Food Agency (SFA)
 <li><strong>Can an individual hold a SFA food shop licence if foreign workers are employed in the shop?</strong><br>Only company entities are allowed to employ foreign workers in accordance with <a href="https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/sector-specific-rules/services-sector-requirements" target="_blank" rel="noopener">MOM policy</a>. Companies that do so must register the food shop licence in the name of the company. Licence issued in an individual e.g. Director will not be acceptable for the purpose of work pass application.<br>For more information on work pass related matters, please refer to MOM webpage or call MOM Contact Centre at 64385122.<br><br></li>
 <li><strong>How much does this licence cost and how long is it valid?<br></strong>The <a href="https://www.sfa.gov.sg/food-retail/licensing-permits/food-shop-licence" target="_blank" rel="noopener">Food Shop Licence</a> including entertainment outlets serving food e.g. pub, bar, discotheque, and night club, costs $195.00 and is valid for one year. Apply for one via <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&amp;selectedLicenceIds=1901021401000440" target="_blank" rel="noopener">GoBusiness</a>.<br>Should you have further enquiries, please submit your enquiries via the <a href="http://www.sfa.gov.sg/feedback" target="_blank" rel="noopener">Online Feedback Form</a>. To help us assist you in the enquiry, please provide details of your intended food business including information on the food items being sold, how the items are processed, and type of equipment used.<br><br></li>
 <li><strong>What is the difference between a food shop licence and a food stall licence?</strong><br>A food shop refers to a shop operating as an independent unit such as a takeaway kiosk, snack counter, restaurant, caterer, canteen, coffeeshop, food court, etc. A food stall operates within a food shop such as canteen, coffeeshop, food court, private market or hawker centres.<br><br></li>
-<li><strong>I have applied for a licence under the wrong entity/wrong licence type. Can I change them?</strong><br>Please note the licensee name and licence type cannot be amended and licences issued by SFA are not transferrable.<br>If you have submitted the application under the wrong entity or wrong licence type, please resubmit the application using correct account (SingPass/CorpPass). If you are unsure on the type of licence to apply, you can write to <a href="http://www.sfa.gov.sg/feedback" target="_blank" rel="noopener">Online Feedback Form</a> for assistance.<br>If your business operations have changed and you need an SFA licence of a different type, you are required to submit a new foodshop application via <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&amp;selectedLicenceIds=1901021401000440" target="_blank" rel="noopener">GoBusiness</a>.<br>If your business experienced a take over or merger, and the operating entity&rsquo;s UEN has changed, you are required to submit a new foodshop application on GoBusiness using the new UEN&rsquo;s corpPass via <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&amp;selectedLicenceIds=1901021401000440" target="_blank" rel="noopener">GoBusiness</a>.<br><br></li>
+<li><strong>I have applied for a licence under the wrong entity/wrong licence type. Can I change them?</strong><br>Please note the licensee name and licence type cannot be amended and licences issued by SFA are not transferrable.<br>If you have submitted the application under the wrong entity or wrong licence type, please resubmit the application using correct account (SingPass/CorpPass). If you are unsure on the type of licence to apply, you can write to <a href="http://www.sfa.gov.sg/feedback" target="_blank" rel="noopener">Online Feedback Form</a> for assistance.<br>If your business operations have changed and you need an SFA licence of a different type, you are required to submit a new foodshop application via <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&amp;selectedLicenceIds=1901021401000440" target="_blank" rel="noopener">GoBusiness</a>.<br>If your business experienced a take over or merger, and the operating entity&rsquo;s UEN has changed, you are required to submit a new foodshop application on GoBusiness using the new UEN&rsquo;s corpPass via <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&amp;selectedLicenceIds=1901021401000440" target="_blank" rel="noopener">GoBusiness</a>.</li>
+<li>
+<p><strong>I have an ongoing licence application in LicenceOne. How do I continue with it?<br></strong>Click&nbsp;<a href="https://licence1.business.gov.sg/licence1/authentication/showLogin.action" target="_blank" rel="noopener"><strong>here</strong></a> to continue and complete your ongoing licence application till approval and payment.</p>
+</li>
 </ol>
 
 <strong>Additional Information</strong>
@@ -90,46 +86,37 @@ Singapore Food Agency (SFA)
 <H3>Documents Needed</H3>
 
 <ul>
-<li><strong>Planning Permission/Change of Use approval</strong><br />Approval from URA/HDB for the use of the premises<br />File format: DOC,DOCX,GIF,JPG,PNG,PDF<br />Maximum upload per application: 2MB<br /><br /></li>
-<li><strong>A copy of Applicant's NRIC<br /></strong>A copy of NRIC if application is under Individual<strong><br /></strong>File format: DOC,DOCX,GIF,JPG,PNG,PDF<br />Maximum upload per application: 2MB<br /><br /></li>
-<li><strong>A copy of ACRA registered Company Business Profile</strong><br />
-<div id="supportingDoc3" class="supporting-doc">A copy of ACRA registered Company Business Profile<br />File format: DOC,DOCX,GIF,JPG,PNG,PDF<br />Maximum upload per application: 2MB<br /><br /></div>
-</li>
-<li><strong><strong><strong>Letter of authorization (if filer option is selected)<br /></strong></strong></strong>
-<div id="supportingDoc4" class="supporting-doc">Letter of authorization from applicant for the filer to act on behalf</div>
-File format: DOC,DOCX,GIF,JPG,PNG,PDF<br />Maximum upload per application: 2MB<br /><br /></li>
-<li><strong>Layout plan of the premises</strong><br />Layout Plan (to scale)<br />File format: DOC,DOCX,GIF,JPG,PNG,PDF<br />Maximum upload per application: 2MB<br /><br /></li>
-<li><strong>Floor plan (location plan)</strong><br />Floor plan to indicate the location of premises<br />File format: DOC,DOCX,GIF,JPG,PNG,PDF<br />Maximum upload per application: 2MB</li>
+<li><strong>Planning Permission/Change of Use approval</strong><br>Approval from URA/HDB for the use of the premises<br>File format: DOC,DOCX,GIF,JPG,PNG,PDF<br>Maximum upload per application: 2MB<br><br></li>
+<li><strong>Layout plan of the premises</strong><br>Layout Plan (to scale)<br>File format: DOC,DOCX,GIF,JPG,PNG,PDF<br>Maximum upload per application: 2MB<br><br></li>
+<li><strong>Tenancy Agreement/ Letter of consent<br></strong>File format: DOC,DOCX,GIF,JPG,PNG,PDF<br>Maximum upload per application: 2MB</li>
 </ul>
 <div id="supportingDoc7" class="supporting-doc">
 <ul>
-<li><strong>Tenancy Agreement/ Letter of consent<br /></strong>File format: DOC,DOCX,GIF,JPG,PNG,PDF<br />Maximum upload per application: 2MB<br /><br /></li>
-<li><strong>Pest Control Contract<br /></strong>File format: DOC,DOCX,GIF,JPG,PNG,PDF<br />Maximum upload per application: 2MB<br /><br /></li>
+<li><strong>Pest Control Contract<br></strong>File format: DOC,DOCX,GIF,JPG,PNG,PDF<br>Maximum upload per application: 2MB<br><br></li>
 <li>
 <div id="supportingDoc9" class="supporting-doc"><strong><strong>Cleaning programme/schedule</strong></strong>&nbsp;</div>
-File format: DOC,DOCX,GIF,JPG,PNG,PDF<br />Maximum upload per application: 2MB<br /><br /></li>
-<li><strong>Basic food hygiene certificate/Refresher food hygiene certificate and Work Permit</strong><br />Photocopy of food handler's basic food hygiene certificate/refresher food hygiene certificate and Work Permit<br />File format: GIF,JPG,PNG,PDF<br />Maximum upload per application: 2MB</li>
-<li><strong>Documentary proof of vehicle ownership</strong><br />For food caterer only. (e.g. vehicle registration card)<br />File format: DOC,DOCX,GIF,JPG,PNG,PDF<br />Maximum upload per application: 2MB<br /><br /></li>
+File format: DOC,DOCX,GIF,JPG,PNG,PDF<br>Maximum upload per application: 2MB<br><br></li>
+<li><strong>Documentary proof of vehicle ownership</strong><br>For food caterer only. (e.g. vehicle registration card)<br>File format: DOC,DOCX,GIF,JPG,PNG,PDF<br>Maximum upload per application: 2MB<br><br></li>
 <li><strong>FSMS Plan (for premises which are required to implement FSMS)</strong>
 <ol type="a">
 <li>Company information/ FSMS team/ Product description</li>
 <li>Flow diagram (with CCPs identified)</li>
-<li>HACCP charts for CCPs which includes:<br />- Identification of hazards at CCPs<br />- Control measures and critical limits<br />- Monitoring procedures and documentation<br />-Corrective action to be taken<br />File format: DOC,DOCX,GIF,JPG,PNG,PDF<br />Maximum upload per application: 2MB<br /><br /></li>
+<li>HACCP charts for CCPs which includes:<br>- Identification of hazards at CCPs<br>- Control measures and critical limits<br>- Monitoring procedures and documentation<br>-Corrective action to be taken<br>File format: DOC,DOCX,GIF,JPG,PNG,PDF<br>Maximum upload per application: 2MB<br><br></li>
 </ol>
 </li>
-<li><strong><strong>WSQ Apply Food Safety Management System for Food Service Establishments&rsquo; Certificate (Statement of Attainment)<br /></strong></strong>
-<div id="supportingDoc13" class="supporting-doc">For premises which are required to implement FSMS<br />File format: DOC,DOCX,GIF,JPG,PNG,PDF</div>
-Maximum upload per application: 2MB<br /><br /></li>
-<li><strong>HACCP Plan (for premises which are already HACCP-certified)</strong><br />
+<li><strong><strong>WSQ Apply Food Safety Management System for Food Service Establishments&rsquo; Certificate (Statement of Attainment)<br></strong></strong>
+<div id="supportingDoc13" class="supporting-doc">For premises which are required to implement FSMS<br>File format: DOC,DOCX,GIF,JPG,PNG,PDF</div>
+Maximum upload per application: 2MB<br><br></li>
+<li><strong>HACCP Plan (for premises which are already HACCP-certified)</strong><br>
 <ol type="a">
 <li>Company information/ FSMS team/ Product description</li>
 <li>Flow diagram (with CCPs identified)</li>
-<li>HACCP charts for CCPs which includes:<br />- Identification of hazards at CCPs<br />- Control measures and critical limits<br />- Monitoring procedures and documentation<br />-Corrective action to be taken<br />File format: DOC,DOCX,GIF,JPG,PNG,PDF<br />Maximum upload per application: 2MB<br /><br /></li>
+<li>HACCP charts for CCPs which includes:<br>- Identification of hazards at CCPs<br>- Control measures and critical limits<br>- Monitoring procedures and documentation<br>-Corrective action to be taken<br>File format: DOC,DOCX,GIF,JPG,PNG,PDF<br>Maximum upload per application: 2MB<br><br></li>
 </ol>
 </li>
-<li><strong>Valid HACCP certificate accepted by SFA</strong><br />For premises which are already HACCP-certified Note: Please check with SFA for the valid HACCP certificate accepted by SFA.<br />File format: DOC,DOCX,GIF,JPG,PNG,PDF<br />Maximum upload per application: 2MB<br /><br /></li>
-<li><strong>Letter issued by the "WSQ Apply FSMS for Food Service Establishments" course Approved Training Organisations</strong><br />This is applicable for applicants for food caterer licences and permission to provide catering as a secondary service licences. This letter indicates that the appointed staff has passed the course theory assessment.<br />File format: DOC,DOCX,GIF,JPG,PNG,PDF<br />Maximum upload per application: 2MB<br /><br /></li>
-<li><strong>Others</strong><br />File format: DOC,DOCX,GIF,JPG,PNG,PDF<br />Maximum upload per application: 2MB</li>
+<li><strong>Valid HACCP certificate accepted by SFA</strong><br>For premises which are already HACCP-certified Note: Please check with SFA for the valid HACCP certificate accepted by SFA.<br>File format: DOC,DOCX,GIF,JPG,PNG,PDF<br>Maximum upload per application: 2MB<br><br></li>
+<li><strong>Letter issued by the "WSQ Apply FSMS for Food Service Establishments" course Approved Training Organisations</strong><br>This is applicable for applicants for food caterer licences and permission to provide catering as a secondary service licences. This letter indicates that the appointed staff has passed the course theory assessment.<br>File format: DOC,DOCX,GIF,JPG,PNG,PDF<br>Maximum upload per application: 2MB<br><br></li>
+<li><strong>Others</strong><br>File format: DOC,DOCX,GIF,JPG,PNG,PDF<br>Maximum upload per application: 2MB</li>
 </ul>
 </div>
 
