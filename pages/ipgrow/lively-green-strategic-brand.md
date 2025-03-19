@@ -26,7 +26,7 @@ Our tailored solutions combine strategic brand design and innovative technology 
 
 <b>Top focus areas for IA/IP services:</b> Branding Strategy
 
-<b>Intellectual property awards received:</b> 2024 IDA Design Award – PUB Singapore (Sustainability Report Design) ; 2024 Creative Communication Award – TechX Ventures (HTX Subsidary) (Branding Design) ; 2024 IDA Design Award – TechX Ventures (HTX Subsidary) (Branding Design) ; 2023 Creative Communication Award – Effect Audio (ReBranding Design) ; 2019 Creative Communication Award – Kuiper (Branding Design)
+<b>Intellectual property awards received:</b> 2024 IDA Design Award - PUB Singapore (Sustainability Report Design) ; 2024 Creative Communication Award - TechX Ventures (HTX Subsidary) (Branding Design) ; 2024 IDA Design Award - TechX Ventures (HTX Subsidary) (Branding Design) ; 2023 Creative Communication Award - Effect Audio (ReBranding Design) ; 2019 Creative Communication Award - Kuiper (Branding Design)
 
 
 <b>Type of organization:</b> SME
@@ -83,7 +83,7 @@ Our tailored solutions combine strategic brand design and innovative technology 
 <a name='testimonials'></a>
 ### Testimonials
 
-*"I am pleased to share that that Marina Bay Financial Centre was awarded with not just one, but two awards: a Gold Award under the “Best mixed-use buildings” category, and the overall “Participants’ Choice Award”. Thank you for putting in the effort that set us on the track to winning the awards!"* - Mr. Lester Lim, Director of Marketing Communications, Raffles Quay Asset Management
+*"I am pleased to share that that Marina Bay Financial Centre was awarded with not just one, but two awards: a Gold Award under the "Best mixed-use buildings" category, and the overall "Participants’ Choice Award". Thank you for putting in the effort that set us on the track to winning the awards!"* - Mr. Lester Lim, Director of Marketing Communications, Raffles Quay Asset Management
 
 *"Jeff and Lively Green were a huge help in steering me to the right brand that complimented the growth and direction of the business. The speed, professionalism and ability to hit set objectives really stood out for me. I thank Jeff for all his efforts for landing us on our brand which we have rolled out globally, and recommend him highly to anyone looking for a comprehensive rebranding exercise."* - Mr. Mark Somic, CEO, Kuiper International Group
 
