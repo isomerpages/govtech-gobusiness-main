@@ -911,7 +911,7 @@ Lively Green is a Strategic Brand consultancy creating brand experiences to help
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $20,000</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> We offer a free consultation to discuss your needs — from strategy to execution, we’re here to support your business at every stage. </li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> We offer a free consultation to discuss your needs - from strategy to execution, we're here to support your business at every stage. </li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/67d7d6e4a20dc8c2972b621c' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/lively-green-strategic-brand/){:target='_blank'}
