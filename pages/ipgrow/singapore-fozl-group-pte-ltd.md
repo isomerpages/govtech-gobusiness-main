@@ -19,7 +19,7 @@ Our broad range of services includes company registration, work pass application
 
 <b>Website:</b> <a href='https://www.fozl.sg/en/'>https://www.fozl.sg/en/</a>
 
-<a class='btn' href='https://form.gov.sg/6523950bc470ab0011565143' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cfff2f5970360876646f17' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -122,6 +122,6 @@ Our broad range of services includes company registration, work pass application
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/6523950bc470ab0011565143' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cfff2f5970360876646f17' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 16 October 2024

@@ -1,9 +1,9 @@
 ---
-title: 'CHP Law '
+title: 'CHP Law'
 permalink: /intellectual-property/ip-grow/chp-law/
 ---
 
-## CHP Law 
+## CHP Law
 
 CHP Law LLC is a Singapore-based law firm that comprises an eclectic mix of lawyers.
 
@@ -25,7 +25,7 @@ We work together with our clients every step of the way, providing elegant and c
 
 <b>Offer:</b> IP Business Clinic participating service provider; SIPDA participating service provider
 
-<a class='btn' href='https://form.gov.sg/67b6bf8bdc163c3d34ae83c3' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7d2aad384b6c1f046afc4' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -178,6 +178,6 @@ We work together with our clients every step of the way, providing elegant and c
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/67b6bf8bdc163c3d34ae83c3' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7d2aad384b6c1f046afc4' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 26 February 2025

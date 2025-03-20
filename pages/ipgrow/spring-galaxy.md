@@ -1,9 +1,9 @@
 ---
-title: 'Spring Galaxy '
+title: 'Spring Galaxy'
 permalink: /intellectual-property/ip-grow/spring-galaxy/
 ---
 
-## Spring Galaxy 
+## Spring Galaxy
 
 Spring Galaxy is a specialist business and IP valuation and strategic advisory services provider with offices in Singapore and Malaysia.
 
@@ -21,7 +21,7 @@ Whilst we actively provide business valuation services in Singapore, we also pro
 
 <b>Website:</b> <a href='https://www.springgalaxy.com'>https://www.springgalaxy.com</a>
 
-<a class='btn' href='https://form.gov.sg/64fed5662bf4c800120462ef' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cfcba4663eae2beff8abdc' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1b-ipgrow-company-profile %}
 
@@ -93,6 +93,6 @@ Whilst we actively provide business valuation services in Singapore, we also pro
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/64fed5662bf4c800120462ef' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cfcba4663eae2beff8abdc' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 11 April 2024

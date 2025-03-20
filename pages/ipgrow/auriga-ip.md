@@ -23,7 +23,7 @@ We offer a comprehensive range of services, including patent, registered design 
 
 <b>Offer:</b> IP Business Clinic participating service provider
 
-<a class='btn' href='https://form.gov.sg/67b6a302550d8bce0d4fb613' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7d9039c43570a54babac0' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -120,6 +120,6 @@ We offer a comprehensive range of services, including patent, registered design 
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/67b6a302550d8bce0d4fb613' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7d9039c43570a54babac0' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 26 February 2025
