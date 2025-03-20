@@ -17,7 +17,7 @@ We are a full service law firm.
 
 <b>Website:</b> <a href='https://www.ctlclaw.com/'>https://www.ctlclaw.com/</a>
 
-<a class='btn' href='https://form.gov.sg/6632ec6983afe4776d1968c3' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d24704e243256907e0de37' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -95,6 +95,6 @@ We are a full service law firm.
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/6632ec6983afe4776d1968c3' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d24704e243256907e0de37' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 08 May 2024

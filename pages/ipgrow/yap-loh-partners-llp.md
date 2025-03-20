@@ -30,7 +30,7 @@ We want to help your business in the same way. So please reach out to us today!
 
 <b>Website:</b> <a href='https://www.ylplegal.com'>https://www.ylplegal.com</a>
 
-<a class='btn' href='https://form.gov.sg/643f50203b2d450011a60640' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cea503f0a317f57c890aea' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -87,6 +87,6 @@ We want to help your business in the same way. So please reach out to us today!
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/643f50203b2d450011a60640' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cea503f0a317f57c890aea' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 28 May 2024

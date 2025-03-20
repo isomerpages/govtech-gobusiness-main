@@ -21,7 +21,7 @@ Claudian Caucus boasts a depth of expertise in novel technologies ranging from b
 
 <b>Offer:</b> IP Business Clinic participating service provider
 
-<a class='btn' href='https://form.gov.sg/67b6c224550d8bce0d584e3f' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7e5bae3163a8c58d3696e' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -158,6 +158,6 @@ Claudian Caucus boasts a depth of expertise in novel technologies ranging from b
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/67b6c224550d8bce0d584e3f' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7e5bae3163a8c58d3696e' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 26 February 2025
