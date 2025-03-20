@@ -12,9 +12,9 @@ Creating engaging and compelling brand experiences that help businesses thrive.
 We deliver innovative design solutions to solve complex challenges and empower meaningful audience connections.
 
 Helping our clients:
-> Navigating complex brand narratives to engage multiple audiences effectively
-> Differentiating in saturated markets to achieve standout brand presence
-> Integrating innovative design with technology to meet evolving consumer expectations
+- Navigating complex brand narratives to engage multiple audiences effectively
+- Differentiating in saturated markets to achieve standout brand presence
+- Integrating innovative design with technology to meet evolving consumer expectations
 
 Tailored Solutions for Every Business Need
 
