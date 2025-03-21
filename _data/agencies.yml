@@ -30,16 +30,6 @@
   url-new-tab: true
   protocol: https
   
-- title: Singapore Customs
-  description: For enquiries on Customs matters
-  tel: +65 6355 2000
-  url: https://www.customs.gov.sg/feedback/
-  url-new-tab: true
-  protocol: https
-  url: https://go.gov.sg/customs-live-chat
-  url-new-tab: true
-  protocol: https
-
 - title: Cybersecurity Services Regulation Office (CSRO)
   description: 
   email: contact@csro.gov.sg
@@ -203,6 +193,16 @@
 - title: Singapore Civil Defence Force (SCDF)
   description: Application for Temporary Change of Use Permit
   url: www.scdf.gov.sg/home/feedback
+  url-new-tab: true
+  protocol: https
+
+- title: Singapore Customs
+  description: For enquiries on Customs matters
+  tel: +65 6355 2000
+  url: https://www.customs.gov.sg/feedback/
+  url-new-tab: true
+  protocol: https
+  url: https://go.gov.sg/customs-live-chat
   url-new-tab: true
   protocol: https
 
