@@ -199,7 +199,7 @@
 - title: Singapore Customs
   description: For enquiries on Customs matters
   tel: +65 6355 2000
-  url: https://go.gov.sg/customs-live-chat
+  url: go.gov.sg/customs-live-chat
   url-new-tab: true
   protocol: https
 
