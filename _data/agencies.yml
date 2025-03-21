@@ -204,7 +204,7 @@
   protocol: https
   url: https://go.gov.sg/customs-live-chat
   url-new-tab: true
-  protocol: https 
+  protocol: https
 
 - title: Singapore Food Agency (SFA)
   description: Contact Centre<br>(including Rice Licence)
