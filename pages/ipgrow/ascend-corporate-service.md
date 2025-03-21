@@ -17,7 +17,7 @@ Ascend Corporate Service Pte Ltd, which has been providing company formation, co
 
 <b>Website:</b> <a href='https://ascendacca.com/'>https://ascendacca.com/</a>
 
-<a class='btn' href='https://form.gov.sg/64d583fcd88b27001238f214' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cfa72e109ae4fde9368cd0' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -83,6 +83,6 @@ Ascend Corporate Service Pte Ltd, which has been providing company formation, co
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/64d583fcd88b27001238f214' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cfa72e109ae4fde9368cd0' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 11 April 2024

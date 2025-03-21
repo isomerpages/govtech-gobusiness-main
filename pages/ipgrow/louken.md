@@ -23,7 +23,7 @@ We leverage digital technologies to drive business value, offering UI/UX design 
 
 <b>Website:</b> <a href='https://www.loukengroup.com'>https://www.loukengroup.com</a>
 
-<a class='btn' href='https://form.gov.sg/6660302c490c8aab152e6f99' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d24ce3264dbb41d06d8d6c' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_2-ipgrow-company-profile %}
 
@@ -126,6 +126,6 @@ We leverage digital technologies to drive business value, offering UI/UX design 
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/6660302c490c8aab152e6f99' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d24ce3264dbb41d06d8d6c' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 18 June 2024

@@ -18,7 +18,7 @@ We just happen to be a likeable small boutique firm.
 
 <b>Website:</b> <a href='http://www.j-accountingservices.com/'>http://www.j-accountingservices.com/</a>
 
-<a class='btn' href='https://form.gov.sg/64eec2ef962d320012d72419' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cfb11a25853d19832e2a39' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -74,6 +74,6 @@ We just happen to be a likeable small boutique firm.
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/64eec2ef962d320012d72419' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cfb11a25853d19832e2a39' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 11 April 2024

@@ -19,7 +19,7 @@ Founded in 2007, Kairos Global Pte Ltd is a boutique financial management, brand
 
 <b>Offer:</b> We may maximize your benefits by integrating our branding strategy and brand audit services with cash flow projection and scenario analysis in merger and acquisition under EDG grant funding support.
 
-<a class='btn' href='https://form.gov.sg/665d673d6d0909e9ec2f2765' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d24b95fc4cdee3aaee7c7a' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -88,6 +88,6 @@ Founded in 2007, Kairos Global Pte Ltd is a boutique financial management, brand
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/665d673d6d0909e9ec2f2765' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d24b95fc4cdee3aaee7c7a' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 18 June 2024

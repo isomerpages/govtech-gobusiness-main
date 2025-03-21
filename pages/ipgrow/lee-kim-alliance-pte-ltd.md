@@ -19,7 +19,7 @@ We have branches in Korea, Vietnam, and Hong Kong, and experts in each country p
 
 <b>Website:</b> <a href='https://leekimalliance.com'>https://leekimalliance.com</a>
 
-<a class='btn' href='https://form.gov.sg/6549cc9f7e1a3a001240fa6b' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d002c8e6c56d64f14383bf' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -76,6 +76,6 @@ We have branches in Korea, Vietnam, and Hong Kong, and experts in each country p
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/6549cc9f7e1a3a001240fa6b' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d002c8e6c56d64f14383bf' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 11 April 2024

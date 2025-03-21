@@ -32,7 +32,7 @@ Vallaris' mission is to get investors & capital coming to you instead of chasing
 
 <b>Website:</b> <a href='https://www.thevallaris.com'>https://www.thevallaris.com</a>
 
-<a class='btn' href='https://form.gov.sg/642b8054d88e0800129c6474' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67ce933c76d42d8bdd5a029e' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_2-ipgrow-company-profile %}
 
@@ -107,6 +107,6 @@ Vallaris' mission is to get investors & capital coming to you instead of chasing
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/642b8054d88e0800129c6474' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67ce933c76d42d8bdd5a029e' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 11 April 2024

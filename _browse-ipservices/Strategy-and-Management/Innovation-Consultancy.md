@@ -22,7 +22,7 @@ By working with an innovation consultant, your business can gain fresh perspecti
 ---
 
 ### Connect with relevant service providers for innovation consultancy services
-**37 service providers listed.**
+**38 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -39,7 +39,7 @@ IPI is an innovation catalyst that creates opportunities for enterprises to grow
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/64e30a9cc98c410011d5a366' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ipi/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67cfa8b36460c537e760adc0' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ipi/){:target='_blank'}
 
 ---
 
@@ -55,7 +55,7 @@ Prophet is a growth and transformation consulting firm dedicated to unlocking un
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Pro-bono services</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/6564095075c7100011b8e498' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/prophet/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d004359a9b271dd2d82a19' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/prophet/){:target='_blank'}
 
 ---
 
@@ -70,7 +70,7 @@ ZYIP has offices in Singapore and China to assist clients with protection of the
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/65b1dc067ed92f9250f30b83' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/zyip-pte-ltd/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d00699e6c56d64f1444317' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/zyip-pte-ltd/){:target='_blank'}
 
 ---
 
@@ -86,7 +86,7 @@ Pureprofile is a leading market research company specializing in online data col
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free consultation - how market research can support your business growth</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/6719c632a9efcc2520c05e27' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/pureprofile/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d7c8970e66d2c498cfe391' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/pureprofile/){:target='_blank'}
 
 ---
 
@@ -101,11 +101,11 @@ Questel is a true end-to-end intellectual property solutions provider.
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/640e6f1f571b1800123bae5f' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/questel/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67ce7cedc0a273783c1b2c53' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/questel/){:target='_blank'}
 
 ---
 
-#### Schweiger & Partners 
+#### Schweiger & Partners
 
 A patent law agency offering certified services with fast turnaround times, at fixed prices.
 
@@ -117,7 +117,7 @@ A patent law agency offering certified services with fast turnaround times, at f
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Exclusive to IP Grow visitors: Sprint Patents patent drafting and FTO analysis at S$4888+GST, done in 10 days (U:P: S$5000). All Sprint Patents packages come with a free 45-minute IP consultation.</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/64c85800145131001232154e' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/schweiger-partners/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67cfa0f2dd496a3035d8858b' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/schweiger-partners/){:target='_blank'}
 
 ---
 
@@ -133,7 +133,7 @@ EverEdge helps companies unlock the value of intangible assets and reduce intang
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider; To discuss how to identify, value and monetise your intangible assets, book a free one-hour consultation. </li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/67b6d07f1c1ec67dcb862771' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/everedge-global/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d7d072428098cc04c6d062' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/everedge-global/){:target='_blank'}
 
 ---
 
@@ -142,14 +142,14 @@ EverEdge helps companies unlock the value of intangible assets and reduce intang
 Marks & Clerk Singapore LLP is an award-winning firm of Registered Patent and Trade Mark Attorneys.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 41 - 50</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 51 - 60</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 41 to 45</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,000</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/67b6f75007107977a3a5ffc6' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/marks-clerk-singapore-llp/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d7db030f7aa61f9c9ef78b' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/marks-clerk-singapore-llp/){:target='_blank'}
 
 ---
 
@@ -164,7 +164,22 @@ We craft bespoke digital solutions.
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $3,500</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/673c30b09e48702f02d7e713' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/creative-for-more/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d7cab7917491d3d727139b' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/creative-for-more/){:target='_blank'}
+
+---
+
+#### Tangible Brand Consultants
+
+Tangible help align brands with organisations' Vision, Mission & Values through data and insights.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 21 to 25</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $25,000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/67d7d619622b925cdd32a0bd' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/tangible-brand-consultants/){:target='_blank'}
 
 ---
 
@@ -179,7 +194,7 @@ We inject keen business acumen into communication strategies, deliver successful
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $5,000</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/650a34d42b93e60011acdf6e' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/aprw-pte-ltd/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67cfcc66a85399bf2bc81e0c' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/aprw-pte-ltd/){:target='_blank'}
 
 ---
 
@@ -194,7 +209,7 @@ DCC prides itself on its experience and expertise in providing quality IP servic
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $2,000</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/649bc0fc7e18e300128fe3cb' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/davies-collison-cave/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67cf952a379ed7a8a31e76d1' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/davies-collison-cave/){:target='_blank'}
 
 ---
 
@@ -210,7 +225,7 @@ AKIN delivers insights, go-to-market strategies, brand and digital for end-to-en
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free consultation for initial brand and innovation with Principal Consultant</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/651b88ca94399a0011d39968' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/akin-by-techlyon/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67cffd7664290aadf1f8b081' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/akin-by-techlyon/){:target='_blank'}
 
 ---
 
@@ -225,7 +240,7 @@ PROTEUS-DT specialises in helping SMEs innovate through no-code technology.
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $20,000</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/652399f98969da0012503f60' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/proteus-dt/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67cfffec17f7c5e508763e5e' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/proteus-dt/){:target='_blank'}
 
 ---
 
@@ -241,7 +256,7 @@ Leveraging NUS' research, Brandgrammar<sup>TM</sup>, we provide SMEs a one-stop 
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> No-obligations discovery call over Zoom. Or better still, in-person over coffee (on us).</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/64ed5e4dd8368600129020fc' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/firefish-branding/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67cfad1f76d42d8bdd77b08f' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/firefish-branding/){:target='_blank'}
 
 ---
 
@@ -256,7 +271,7 @@ Khepri Digital is a Google Partner Marketing Agency, doing Paid Ads & Search Eng
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,500</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/66a860855e2ce104f4b12534' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/khepri-digital/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d2515745eb4baf256bf492' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/khepri-digital/){:target='_blank'}
 
 ---
 
@@ -271,7 +286,7 @@ A global strategy consultancy helping clients to seize competitive advantage and
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> No minimum project fee; Depending on project scope and approach, thus team and time needed</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/645d80cdf8f6650012eccda2' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/lek-consulting/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67ceac89a85399bf2baaff99' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/lek-consulting/){:target='_blank'}
 
 ---
 
@@ -290,7 +305,7 @@ Corporate Services
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free 1-to-1 30-minute Consultation</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/646ecaa15f5cf200110c9575' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/think-sme-pte-ltd/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67ceb0dedd496a3035c6a6f9' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/think-sme-pte-ltd/){:target='_blank'}
 
 ---
 
@@ -305,11 +320,11 @@ Corporate Services
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $48,000</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/648904650ad50d0011dd9370' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/phoenix/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67ceb4c2109ae4fde9242875' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/phoenix/){:target='_blank'}
 
 ---
 
-#### Katartizo  
+#### Katartizo
 
 Katartizo, Singapore's premier digital marketing and creative agency, has served over 30 industries.
 
@@ -321,7 +336,7 @@ Katartizo, Singapore's premier digital marketing and creative agency, has served
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free Consultation, Bulk service discount, Retainers/Long term project discount</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/64fad3758b89590011503dec' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/katartizo/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67cfaadbdd496a3035db8f48' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/katartizo/){:target='_blank'}
 
 ---
 
@@ -330,14 +345,14 @@ Katartizo, Singapore's premier digital marketing and creative agency, has served
 Claudian Caucus is Asia's leading IP strategy and consulting firm specialising in novel technologies.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 11 - 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/67b6c224550d8bce0d584e3f' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/claudian-caucus/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d7e5bae3163a8c58d3696e' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/claudian-caucus/){:target='_blank'}
 
 ---
 
@@ -352,7 +367,7 @@ A consulting firm, focus in supporting multiple sectoral businesses with transfo
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/665d86803237e9829faacd8b' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/capex-consulting/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d24aa1d1e48166ca64bc2e' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/capex-consulting/){:target='_blank'}
 
 ---
 
@@ -369,7 +384,7 @@ We support companies secure grants and tax incentives for their R&D projects.
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider; Free 1-hour eligibility assessment consultation</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/67b6d5907b7999e79d4413c1' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/fi-group/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d7e8c2dbbc7b83f56b3326' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/fi-group/){:target='_blank'}
 
 ---
 
@@ -385,7 +400,7 @@ antics@play is an award-winning branding, marketing and PR consultancy.
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free Consultation</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/6743d588134eac17322b4365' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/antics@play/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d7cd0f81e364b0706ab983' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/antics@play/){:target='_blank'}
 
 ---
 
@@ -394,18 +409,18 @@ antics@play is an award-winning branding, marketing and PR consultancy.
 FT Consulting is an Asia-centric business consulting firm helping companies grow their business.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 11 - 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 21 - 30</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/67b6df0afb91891e44b7b888' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ft-consulting-pte-ltd/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d7d1bac75b36291017173e' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ft-consulting-pte-ltd/){:target='_blank'}
 
 ---
 
-#### Soroker Agmon Nordman 
+#### Soroker Agmon Nordman
 
 The firm is specializing in intellectual property, commercial law and dispute resolution.
 
@@ -417,7 +432,7 @@ The firm is specializing in intellectual property, commercial law and dispute re
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider; We offer 1.5 hour free consultation to newly established technological start-ups.</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/67b81a5449e15cf949df5fe4' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/soroker-agmon-nordman/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d7d3d9f42a48c6587a8ecc' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/soroker-agmon-nordman/){:target='_blank'}
 
 ---
 
@@ -433,7 +448,7 @@ Founded in 1962, we offer full-service IP solutions globally with local support 
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> (1) DIAMS Free Demo & Trial (2) Octimine Free Trial & Search Analytics Tutorial (3) 30-minute free IP consulting for corporates about an IP topic of their choice.</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/645a0df502527d0013e68201' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/dennemeyer/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67cead476460c537e74b805b' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/dennemeyer/){:target='_blank'}
 
 ---
 
@@ -448,11 +463,11 @@ Business valuation,  IP valuation, brand valuation,  patent valuation, technolog
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/64a392bd6b65df0012e48d50' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/valueteam-valuation-services/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67ceb599379ed7a8a31104dc' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/valueteam-valuation-services/){:target='_blank'}
 
 ---
 
-#### INDEE Group 
+#### INDEE Group
 
 INDEE has deep capabilities and experience to help clients bring their technologies to the market.
 
@@ -463,7 +478,7 @@ INDEE has deep capabilities and experience to help clients bring their technolog
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/64894a4e70126600125b619c' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/indee-group/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67cf8e3dc0a273783c364811' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/indee-group/){:target='_blank'}
 
 ---
 
@@ -478,7 +493,7 @@ Specialized in a wide range of different intellectual property, Exy IP is your g
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $500</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/64893e950ad50d0011e6bca4' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/exy-intellectual-property/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67cf926a76d42d8bdd701bc4' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/exy-intellectual-property/){:target='_blank'}
 
 ---
 
@@ -493,7 +508,7 @@ Gateway IP Services is a regional IP boutique which specialises in patents, trad
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $3,000</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/65112062020dec00122360e7' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/gateway-ip-services/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67cff9837ead9515c852adeb' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/gateway-ip-services/){:target='_blank'}
 
 ---
 
@@ -502,14 +517,14 @@ Gateway IP Services is a regional IP boutique which specialises in patents, trad
 FMC focuses on business & brand strategy, finance management & business matching in Australia, etc.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $100,000</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Complimentary Initial Consultation (1 hour)</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/65b85de4523cf95b78fcaeed' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/finnex-management-consulting/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d0074036a1afd875adbb05' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/finnex-management-consulting/){:target='_blank'}
 
 ---
 
@@ -524,7 +539,7 @@ Since 2011, FOZL Group operate and served over 1000 companies to set up their co
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/6523950bc470ab0011565143' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/singapore-fozl-group-pte-ltd/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67cfff2f5970360876646f17' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/singapore-fozl-group-pte-ltd/){:target='_blank'}
 
 ---
 
@@ -539,7 +554,7 @@ Specialize in strategy, IP optimization, branding, market entry, and digital sol
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $100,000</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/6660302c490c8aab152e6f99' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/louken/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d24ce3264dbb41d06d8d6c' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/louken/){:target='_blank'}
 
 ---
 
@@ -556,7 +571,7 @@ We help enhance the value of IP & Brand through driving growth, competitiveness 
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/67b68a47bcb477105b7b1a2e' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/acorn-management-consulting-pte-ltd/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d7e767216aadb13b790a9e' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/acorn-management-consulting-pte-ltd/){:target='_blank'}
 
 ---
 
@@ -572,7 +587,7 @@ Our expertise lies in solving business challenges such as digitization and innov
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free initial consultation - 1 time limited 1 hour</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/6768c12055715092a9ef6ba4' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/trustpro-pte-ltd/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d7d2c90f7aa61f9c9c9c0e' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/trustpro-pte-ltd/){:target='_blank'}
 
 ---
 
@@ -588,7 +603,7 @@ Certified branding consultant experienced in most industries, eligible for EDG b
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> No obligatory engagement / meet up for project discussion</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/6771fcbda795fcbf108c458b' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/the-brand-fellows-pte-ltd/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d7d3c5c75b36291017b5b0' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/the-brand-fellows-pte-ltd/){:target='_blank'}
 
 ---
 
@@ -603,7 +618,7 @@ EY work across a full spectrum of services in assurance, consulting, tax, strate
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA. Depend on complexity of the project</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/67b29bde14ff8bc0792dfa95' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ey-corporate-advisors-pte-ltd/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d7d540d384b6c1f0478e28' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ey-corporate-advisors-pte-ltd/){:target='_blank'}
 
 ---
 

@@ -31,7 +31,7 @@ Reach out for a complimentary 1-hour consultation to explore how we can support 
 
 <b>Offer:</b> IP Business Clinic participating service provider; Free 1-hour eligibility assessment consultation
 
-<a class='btn' href='https://form.gov.sg/67b6d5907b7999e79d4413c1' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7e8c2dbbc7b83f56b3326' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -86,6 +86,6 @@ Reach out for a complimentary 1-hour consultation to explore how we can support 
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/67b6d5907b7999e79d4413c1' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7e8c2dbbc7b83f56b3326' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 26 February 2025

@@ -1,9 +1,9 @@
 ---
-title: 'Schweiger & Partners '
+title: 'Schweiger & Partners'
 permalink: /intellectual-property/ip-grow/schweiger-partners/
 ---
 
-## Schweiger & Partners 
+## Schweiger & Partners
 
 Schweiger & Partners is a registered patent law agency in Singapore, which means that we help people protect their ideas and inventions. We also have an office in Munich, Germany. We have been doing this for 27 years, so we know what we are doing. We can help with all sorts of patents, depending on what your product is. We do good work for a fixed price and we get things done quickly - in days or even in hours. We work with other similar firms around the globe, so we can protect your ideas no matter where in the world.
 
@@ -21,7 +21,7 @@ Schweiger & Partners is a registered patent law agency in Singapore, which means
 
 <b>Offer:</b> Exclusive to IP Grow visitors: Sprint Patents patent drafting and FTO analysis at S$4888+GST, done in 10 days (U:P: S$5000). All Sprint Patents packages come with a free 45-minute IP consultation.
 
-<a class='btn' href='https://form.gov.sg/64c85800145131001232154e' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cfa0f2dd496a3035d8858b' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1a-ipgrow-company-profile %}
 
@@ -274,6 +274,6 @@ Schweiger & Partners is a registered patent law agency in Singapore, which means
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/64c85800145131001232154e' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cfa0f2dd496a3035d8858b' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 11 April 2024

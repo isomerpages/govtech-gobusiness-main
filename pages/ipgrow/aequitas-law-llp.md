@@ -19,7 +19,7 @@ At Aequitas we give you the right legal advice at the right time to protect your
 
 <b>Offer:</b> First consultation (limited to 30 minutes) is free, exclusive to users of GoBusiness IP Grow.
 
-<a class='btn' href='https://form.gov.sg/64c709e15ed383001239085b' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cf9cfa28c24ee0476471b2' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -139,6 +139,6 @@ At Aequitas we give you the right legal advice at the right time to protect your
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/64c709e15ed383001239085b' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cf9cfa28c24ee0476471b2' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 8 May 2024

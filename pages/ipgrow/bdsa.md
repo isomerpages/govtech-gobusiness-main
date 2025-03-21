@@ -23,7 +23,7 @@ Brand Audit - Brand Strategy - Brand Identity - Social Media Marketing - Graphic
 
 <b>Website:</b> <a href='https://www.bdsa.sg'>https://www.bdsa.sg</a>
 
-<a class='btn' href='https://form.gov.sg/6743d3bd746742c1d1dfdd2e' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7cb88d1d11769526bea36' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1b-ipgrow-company-profile %}
 
@@ -83,6 +83,6 @@ Brand Audit - Brand Strategy - Brand Identity - Social Media Marketing - Graphic
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/6743d3bd746742c1d1dfdd2e' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7cb88d1d11769526bea36' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 27 November 2024

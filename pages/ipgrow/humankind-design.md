@@ -19,7 +19,7 @@ Humankind Design is a research and design studio that works with businesses to r
 
 <b>Offer:</b> Free brand consultation 30 mins call.
 
-<a class='btn' href='https://form.gov.sg/669e0074fc8b1217e440b40f' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d25727d1e48166ca68327c' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_2-ipgrow-company-profile %}
 
@@ -104,6 +104,6 @@ Humankind Design is a research and design studio that works with businesses to r
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/669e0074fc8b1217e440b40f' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d25727d1e48166ca68327c' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 30 July 2024

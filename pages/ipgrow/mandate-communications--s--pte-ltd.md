@@ -21,7 +21,7 @@ Currently, we are on the panel of both the Whole-of-Government (WOG) Creative Se
 
 <b>Website:</b> <a href='https://www.mandatecomms.sg'>https://www.mandatecomms.sg</a>
 
-<a class='btn' href='https://form.gov.sg/647d2fe50590a40012eee7a3' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cf8d2b7bfa2ff9df77b498' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -90,6 +90,6 @@ Currently, we are on the panel of both the Whole-of-Government (WOG) Creative Se
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/647d2fe50590a40012eee7a3' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cf8d2b7bfa2ff9df77b498' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 11 April 2024

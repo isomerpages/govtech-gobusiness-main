@@ -17,7 +17,7 @@ Brandcourage is a forward-thinking creative agency in Singapore, we create and c
 
 <b>Website:</b> <a href='https://brandcourage.com'>https://brandcourage.com</a>
 
-<a class='btn' href='https://form.gov.sg/6729b32b5e0ee779330aea52' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7c9f29c43570a54b642e1' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1a-ipgrow-company-profile %}
 
@@ -87,6 +87,6 @@ Brandcourage is a forward-thinking creative agency in Singapore, we create and c
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/6729b32b5e0ee779330aea52' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7c9f29c43570a54b642e1' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 13 Nov 2024

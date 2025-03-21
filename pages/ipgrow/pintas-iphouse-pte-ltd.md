@@ -22,7 +22,7 @@ PINTAS is a multi-disciplinary intellectual property boutique firm that provides
 
 <b>Offer:</b> IP Business Clinic participating service provider
 
-<a class='btn' href='https://form.gov.sg/67b7d14a1c1ec67dcba62947' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7e659992ae987d009c313' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -197,6 +197,6 @@ PINTAS is a multi-disciplinary intellectual property boutique firm that provides
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/67b7d14a1c1ec67dcba62947' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7e659992ae987d009c313' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 26 February 2025

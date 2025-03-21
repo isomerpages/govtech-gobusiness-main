@@ -34,8 +34,8 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - Toyota - 8FBMT50
 - Toyota  - 8FBMT40
 - Toyota  - 8FDMT45
-- Nichiyu - FB30P-80
-- STILL - REC30
+- Nichiyu - FB30-80
+- STILL - RCE30
 - STILL - RX60-50
 - HELI - CPD25-Li-S
 

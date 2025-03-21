@@ -1,9 +1,9 @@
 ---
-title: 'Katartizo  '
+title: 'Katartizo'
 permalink: /intellectual-property/ip-grow/katartizo/
 ---
 
-## Katartizo  
+## Katartizo
 
 Katartizo is Singapore's premier digital marketing and creative agency designed for digital disruption and uncommon innovation. Comprising an elite team of marketing strategists and content specialists, we aim to help traditional and digital brands find their unique voice and thrive in today's world.
 
@@ -25,7 +25,7 @@ Having served over 30 industries and hundreds of brands, Katartizo's specialists
 
 <b>Offer:</b> Free Consultation, Bulk service discount, Retainers/Long term project discount
 
-<a class='btn' href='https://form.gov.sg/64fad3758b89590011503dec' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cfaadbdd496a3035db8f48' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -88,6 +88,6 @@ Having served over 30 industries and hundreds of brands, Katartizo's specialists
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/64fad3758b89590011503dec' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cfaadbdd496a3035db8f48' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 11 April 2024

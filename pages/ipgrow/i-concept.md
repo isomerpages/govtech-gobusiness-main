@@ -19,7 +19,7 @@ Born in 2008 in Malaysia, and incorporated in Singapore in 2012, we have helped 
 
 <b>Offer:</b> We do provide some goodwill discount on a case by case basis
 
-<a class='btn' href='https://form.gov.sg/64c9ea4d862ac600126333d8' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cfa5c0a85399bf2bbefc6c' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_2-ipgrow-company-profile %}
 
@@ -90,6 +90,6 @@ Born in 2008 in Malaysia, and incorporated in Singapore in 2012, we have helped 
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/64c9ea4d862ac600126333d8' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cfa5c0a85399bf2bbefc6c' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 11 April 2024

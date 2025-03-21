@@ -21,7 +21,7 @@ EY teams work across a full spectrum of services in assurance, consulting, tax, 
 
 <b>Website:</b> <a href='https://www.ey.com'>https://www.ey.com</a>
 
-<a class='btn' href='https://form.gov.sg/67b29bde14ff8bc0792dfa95' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7d540d384b6c1f0478e28' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -152,6 +152,6 @@ EY teams work across a full spectrum of services in assurance, consulting, tax, 
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/67b29bde14ff8bc0792dfa95' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7d540d384b6c1f0478e28' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 26 February 2025

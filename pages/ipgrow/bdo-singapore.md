@@ -19,7 +19,7 @@ BDO in Singapore is a full-service professional services firm providing audit, t
 
 <b>Offer:</b> IP Business Clinic participating service provider
 
-<a class='btn' href='https://form.gov.sg/67b821df1c1ec67dcbc10174' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7dc610e66d2c498d5989d' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -101,6 +101,6 @@ BDO in Singapore is a full-service professional services firm providing audit, t
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/67b821df1c1ec67dcbc10174' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7dc610e66d2c498d5989d' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 26 February 2025

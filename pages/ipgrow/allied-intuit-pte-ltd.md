@@ -19,7 +19,7 @@ Allied Intuit Pte Ltd (Allied) is an Intellectual Property (IP) firm providing I
 
 <b>Offer:</b> IP Business Clinic participating service provider
 
-<a class='btn' href='https://form.gov.sg/67b698ef550d8bce0d4c546f' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7e4b1db6c1670b5a9a425' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -142,6 +142,6 @@ Allied Intuit Pte Ltd (Allied) is an Intellectual Property (IP) firm providing I
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/67b698ef550d8bce0d4c546f' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7e4b1db6c1670b5a9a425' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 26 February 2025

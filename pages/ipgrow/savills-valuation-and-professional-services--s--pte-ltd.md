@@ -25,7 +25,7 @@ We will be with you on every step of your journey to create, optimise and protec
 
 <b>Offer:</b> Discount and free consultation will be assessed on a case-by-case basis.
 
-<a class='btn' href='https://form.gov.sg/669dc2ddd1b78cf997a37127' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d258a242a4f949bae5cee4' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -95,6 +95,6 @@ We will be with you on every step of your journey to create, optimise and protec
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/669dc2ddd1b78cf997a37127' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d258a242a4f949bae5cee4' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 30 July 2024

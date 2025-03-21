@@ -26,7 +26,7 @@ ATOZ's network of Korean experts abroad is continuously growing.
 
 <b>Website:</b> <a href='https://www.atozsg.com/'>https://www.atozsg.com/</a>
 
-<a class='btn' href='https://form.gov.sg/677f408d24ce7dc56581a9d2' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7d4780e66d2c498d36408' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -85,6 +85,6 @@ ATOZ's network of Korean experts abroad is continuously growing.
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/677f408d24ce7dc56581a9d2' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7d4780e66d2c498d36408' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 22 Jan 2025

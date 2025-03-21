@@ -19,7 +19,7 @@ Our academy has also built a global network of partnerships with institutes of h
 
 <b>Website:</b> <a href='https://iposinternational.com/en/academy/overview'>https://iposinternational.com/en/academy/overview</a>
 
-<a class='btn' href='https://form.gov.sg/64aba5c0fe965000117babf1' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cf9abf3d4fe7d6d8cfe7ec' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -117,6 +117,6 @@ Our academy has also built a global network of partnerships with institutes of h
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/64aba5c0fe965000117babf1' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cf9abf3d4fe7d6d8cfe7ec' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 11 April 2024

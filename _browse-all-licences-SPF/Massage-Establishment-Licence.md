@@ -87,7 +87,7 @@ Maximum upload per application: 2 MB
 File format: pdf,jpg,gif,doc,docx<br>
 Maximum upload per application: 2 MB
 </li>
-<li><strong>URA Planning Permission</strong><br />Permission granted for Outlet/ Premise Change of Use to 'Health Centre'; by URA<br>
+<li><strong>URA Planning Permission</strong><br />Permission granted for Outlet/ Premise Change of Use to 'Massage Establishment'; by URA<br>
 File format: pdf,jpg,gif,doc,docx<br>
 Maximum upload per application: 2 MB
 </li>

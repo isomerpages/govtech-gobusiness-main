@@ -25,7 +25,7 @@ We provide timely, cost-effective, and commercially practical solutions to those
 
 <b>Offer:</b> IP Business Clinic participating service provider; Book a free 1-hour consultation.
 
-<a class='btn' href='https://form.gov.sg/67b81e91ddbfd55074aa4508' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7d6f4390278b935b8afea' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_2-ipgrow-company-profile %}
 
@@ -181,6 +181,6 @@ We provide timely, cost-effective, and commercially practical solutions to those
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/67b81e91ddbfd55074aa4508' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7d6f4390278b935b8afea' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 26 February 2025

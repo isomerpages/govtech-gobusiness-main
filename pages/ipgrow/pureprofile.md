@@ -19,7 +19,7 @@ Pureprofile is a global data and insights organization listed in Australian Secu
 
 <b>Offer:</b> Free consultation - how market research can support your business growth
 
-<a class='btn' href='https://form.gov.sg/6719c632a9efcc2520c05e27' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7c8970e66d2c498cfe391' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1b-ipgrow-company-profile %}
 
@@ -119,6 +119,6 @@ Pureprofile is a global data and insights organization listed in Australian Secu
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/6719c632a9efcc2520c05e27' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7c8970e66d2c498cfe391' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 30 October 2024

@@ -19,7 +19,7 @@ Valueteam delivers top-notch expert company valuation services, including IP val
 
 <b>Website:</b> <a href='https://www.valueteam.com.sg'>https://www.valueteam.com.sg</a>
 
-<a class='btn' href='https://form.gov.sg/64a392bd6b65df0012e48d50' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67ceb599379ed7a8a31104dc' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -92,6 +92,6 @@ Valueteam delivers top-notch expert company valuation services, including IP val
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/64a392bd6b65df0012e48d50' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67ceb599379ed7a8a31104dc' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 2 October 2024

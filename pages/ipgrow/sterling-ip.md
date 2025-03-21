@@ -1,9 +1,9 @@
 ---
-title: 'Sterling IP '
+title: 'Sterling IP'
 permalink: /intellectual-property/ip-grow/sterling-ip/
 ---
 
-## Sterling IP 
+## Sterling IP
 
 Sterling IP is a boutique firm of strategically minded, commercially focused patent attorneys specialising in the pharmaceutical and biotechnology sectors. We are creative and resourceful, and our commercial focus means we create bespoke strategies tailored to your needs. 
 
@@ -21,7 +21,7 @@ We can provide clear and succinct advice on how to draft or interpret IP clauses
 
 <b>Website:</b> <a href='https://www.sterlingip.co.uk'>https://www.sterlingip.co.uk</a>
 
-<a class='btn' href='https://form.gov.sg/6678de4e1927e2b0d7df7cba' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d24fa9facab58365a66edf' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -187,6 +187,6 @@ We can provide clear and succinct advice on how to draft or interpret IP clauses
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/6678de4e1927e2b0d7df7cba' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d24fa9facab58365a66edf' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 10 July 2024

@@ -17,7 +17,7 @@ We are specialist intellectual property lawyers and agents. Our practice started
 
 <b>Website:</b> <a href='https://hslegal.com.sg/'>https://hslegal.com.sg/</a>
 
-<a class='btn' href='https://form.gov.sg/65eeb8aae7798cdb742237ea' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d2406bdd04d15c9fc842cc' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -154,6 +154,6 @@ We are specialist intellectual property lawyers and agents. Our practice started
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/65eeb8aae7798cdb742237ea' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d2406bdd04d15c9fc842cc' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 13 March 2024

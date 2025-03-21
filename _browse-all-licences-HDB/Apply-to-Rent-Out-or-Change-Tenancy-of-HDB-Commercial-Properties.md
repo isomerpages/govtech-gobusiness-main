@@ -12,7 +12,7 @@ Housing & Development Board (HDB)
 
 <H3>Application Details</H3>
 
-<p>HDB Commercial Tenants may apply for change in trade/partner(s)/business mode, transfer, assignment or renting out their properties. HDB Commercial Owners may apply for renting out their living quarters.</p>
+<p>Apply to rent out or update the tenancy of your HDB commercial properties or living quarters.</p>
 <h3>FAQ</h3>
 <ol>
 <li><strong>Do I need to apply for this licence?</strong><br>Tenants may submit online to Rent Out or Change Tenancy of HDB Commercial Properties. This includes changes in the tenancy with HDB for e.g. change of trade, change of partners, change of business mode, renting out of living quarters or part of the trading area, change of (Sub)Tenants (living quarters or trading area) or assign the premises to another party.<br>For Change of Company Name (with no change in UEN and no change of partners / shareholders or shareholding), you may submit an <a href="https://ilinked.hdb.gov.sg/retailerlink/change-company-name" target="_blank" rel="noopener">update form</a> to HDB.<br>HDB Commercial Owners may submit this application if they are renting out their living quarters to new occupants.</li>

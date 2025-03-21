@@ -1,9 +1,9 @@
 ---
-title: 'Kroll '
+title: 'Kroll'
 permalink: /intellectual-property/ip-grow/kroll/
 ---
 
-## Kroll 
+## Kroll
 
 As the leading independent provider of risk and financial advisory solutions, Kroll leverages our unique insights, data and technology to help clients stay ahead of complex demands. Kroll's team of more than 6,500 professionals worldwide continues the firm's nearly 100-year history of trusted expertise spanning risk, governance, transactions and valuation. Our advanced solutions and intelligence provide clients the foresight they need to create an enduring competitive advantage. 
 
@@ -19,7 +19,7 @@ Kroll Valuation Advisory Services helps clients satisfy regulatory reporting req
 
 <b>Website:</b> <a href='https://www.kroll.com/en'>https://www.kroll.com/en</a>
 
-<a class='btn' href='https://form.gov.sg/64fad1c58b895900114ff0c0' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cfcaf4cec56b57e0dfcdc4' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -90,6 +90,6 @@ Kroll Valuation Advisory Services helps clients satisfy regulatory reporting req
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/64fad1c58b895900114ff0c0' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cfcaf4cec56b57e0dfcdc4' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 11 April 2024

@@ -17,7 +17,7 @@ We are a boutique Trademark Management Firm established since 2007 and we have r
 
 <b>Website:</b> <a href='https://www.globalintellects.biz'>https://www.globalintellects.biz</a>
 
-<a class='btn' href='https://form.gov.sg/66fa4a853d21b98bbb5d3556' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7c44e390278b935b32efe' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -111,6 +111,6 @@ We are a boutique Trademark Management Firm established since 2007 and we have r
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/66fa4a853d21b98bbb5d3556' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7c44e390278b935b32efe' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 2 October 2024

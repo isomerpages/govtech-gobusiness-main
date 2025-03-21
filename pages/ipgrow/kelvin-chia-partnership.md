@@ -19,7 +19,7 @@ Our team of experienced lawyers is committed to providing prompt and timely lega
 
 <b>Website:</b> <a href='https://www.kcpartnership.com/'>https://www.kcpartnership.com/</a>
 
-<a class='btn' href='https://form.gov.sg/67443510746742c1d1fcdcda' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7cfdf992ae987d0034004' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -106,6 +106,6 @@ Our team of experienced lawyers is committed to providing prompt and timely lega
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/67443510746742c1d1fcdcda' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7cfdf992ae987d0034004' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 27 November 2024

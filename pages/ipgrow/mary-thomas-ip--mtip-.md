@@ -21,7 +21,7 @@ We go above and beyond to assist all types of businesses to identify, protect, a
 
 <b>Offer:</b> IP Business Clinic participating service provider; Free Consultation for review of IP in the business and provide strategy advice
 
-<a class='btn' href='https://form.gov.sg/67b6f9ba850c213032849aec' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7df2b63212d415ef45637' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -95,6 +95,6 @@ We go above and beyond to assist all types of businesses to identify, protect, a
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/67b6f9ba850c213032849aec' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7df2b63212d415ef45637' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 26 February 2025

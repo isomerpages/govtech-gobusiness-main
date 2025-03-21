@@ -17,7 +17,7 @@ We are an international boutique law firm with a worldwide view, headquartered i
 
 <b>Website:</b> <a href='https://www.vanillalaw.law/'>https://www.vanillalaw.law/</a>
 
-<a class='btn' href='https://form.gov.sg/66f12ce092186338ff6f257e' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7c59fd384b6c1f042d0d6' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -91,6 +91,6 @@ We are an international boutique law firm with a worldwide view, headquartered i
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/66f12ce092186338ff6f257e' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7c59fd384b6c1f042d0d6' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 2 October 2024

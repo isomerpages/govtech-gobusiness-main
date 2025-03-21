@@ -21,7 +21,7 @@ We have had experience in valuing patents in relation to technology and platform
 
 <b>Offer:</b> Free consultation on relevance and benefits of IA/IP valuation and how such valuation may fit into your overall business strategy.
 
-<a class='btn' href='https://form.gov.sg/6513ce02020dec00126e08c8' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cffe45a748faa00fbd288d' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -78,6 +78,6 @@ We have had experience in valuing patents in relation to technology and platform
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/6513ce02020dec00126e08c8' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cffe45a748faa00fbd288d' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 8 May 2024
