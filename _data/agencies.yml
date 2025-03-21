@@ -202,7 +202,7 @@
   url: https://www.customs.gov.sg/feedback/
   url-new-tab: true
   protocol: https
-  url: https://go.gov.sg/customs-live-chat
+  url_1: https://go.gov.sg/customs-live-chat
   url-new-tab: true
   protocol: https
 
