@@ -1,6 +1,6 @@
 ---
 title: 'Carbon Management Solutions'
-permalink: /browse-all-solutions-Cyber-Security-solutions/Carbon-Management-Solutions
+permalink: /browse-all-solutions-Carbon-Management-Solutions/Carbon-Management-Solutions
 ---
 
 ## Carbon Management Solutions
