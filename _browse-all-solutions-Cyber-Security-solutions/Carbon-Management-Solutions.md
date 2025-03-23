@@ -1,9 +1,9 @@
 ---
-title: 'Risk Assessment Solution (KYC AML)'
-permalink: /browse-all-solutions-Legal/Risk-Assessment-Solution--KYC-AML-
+title: 'Carbon Management Solutions'
+permalink: /browse-all-solutions-Cyber-Security-solutions/Carbon-Management-Solutions
 ---
 
-## Risk Assessment Solution (KYC AML)
+## Carbon Management Solutions
 ## Overview
 
 **Support Level and Conditions**
@@ -20,8 +20,8 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201400612Z-SntroWb-G' target='_blank'>SentroWeb</a><br></td>
-<td>Ingenique Solutions Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201904974E-ESGpd-Nxus-G' target='_blank'>ESGpedia Nexus</a><br></td>
+<td>ESGPEDIA PTE. LTD.</td>
 </tr>
 </table>
 

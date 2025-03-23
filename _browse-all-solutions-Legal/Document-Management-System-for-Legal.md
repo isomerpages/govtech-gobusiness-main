@@ -1,9 +1,9 @@
 ---
-title: 'Risk Assessment Solution (KYC AML)'
-permalink: /browse-all-solutions-Legal/Risk-Assessment-Solution--KYC-AML-
+title: 'Document Management System for Legal'
+permalink: /browse-all-solutions-Legal/Document-Management-System-for-Legal
 ---
 
-## Risk Assessment Solution (KYC AML)
+## Document Management System for Legal
 ## Overview
 
 **Support Level and Conditions**
@@ -20,8 +20,8 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201400612Z-SntroWb-G' target='_blank'>SentroWeb</a><br></td>
-<td>Ingenique Solutions Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201824836N-NtDOCs-G' target='_blank'>NetDocuments</a><br></td>
+<td>Verlata Consulting Pte. Ltd.</td>
 </tr>
 </table>
 
