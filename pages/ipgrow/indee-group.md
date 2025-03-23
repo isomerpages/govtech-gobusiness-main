@@ -1,9 +1,9 @@
 ---
-title: 'INDEE Group '
+title: 'INDEE Group'
 permalink: /intellectual-property/ip-grow/indee-group/
 ---
 
-## INDEE Group 
+## INDEE Group
 
 INDEE Singapore stands as the go-to specialist consulting firm, empowering companies to unlock their innovative potential. With an impressive track record spanning various industries, particularly healthcare and medical, we provide essential business support and training. Our distinguished expert serves as a board member of the License Executives Society International Japan Chapter, showcasing our deep involvement in the field. Moreover, our expert's role as an IP mentor under the 2022 IPAS Mentoring Team (Japan equivalent of IPOS International) and possession of over 20 patents underline our extensive expertise. At INDEE, we firmly believe that integrating intellectual property  into the business context is paramount for success. Our dedicated team is committed to unleashing the full potential of your IP assets through identifying applications, uncovering non-obvious competitors, securing potential licensees, fortifying brand reputation, and defending against IP infringement.
 
@@ -17,7 +17,7 @@ INDEE Singapore stands as the go-to specialist consulting firm, empowering compa
 
 <b>Website:</b> <a href='https://www.indee-sg.com/'>https://www.indee-sg.com/</a>
 
-<a class='btn' href='https://form.gov.sg/64894a4e70126600125b619c' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cf8e3dc0a273783c364811' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1b-ipgrow-company-profile %}
 
@@ -80,6 +80,6 @@ INDEE Singapore stands as the go-to specialist consulting firm, empowering compa
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/64894a4e70126600125b619c' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cf8e3dc0a273783c364811' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 11 April 2024

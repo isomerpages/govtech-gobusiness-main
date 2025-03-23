@@ -26,7 +26,7 @@ We're proud to have worked with some of the  most innovative companies in the Un
 
 <b>Offer:</b> IP Business Clinic participating service provider; 30 minute initial consultation without charge.
 
-<a class='btn' href='https://form.gov.sg/67b6bbdbfb91891e44ab28e4' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7d358428098cc04c7ad8f' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -154,6 +154,6 @@ The World's Leading Patent Practitioners 2014 - Recommended for patent prosecuti
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/67b6bbdbfb91891e44ab28e4' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7d358428098cc04c7ad8f' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 26 February 2025

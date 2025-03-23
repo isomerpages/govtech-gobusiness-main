@@ -17,7 +17,7 @@ Dave & Co. LLP is a specialist trademarks firm with extensive experience with tr
 
 <b>Website:</b> <a href='https://www.dco.sg'>https://www.dco.sg</a>
 
-<a class='btn' href='https://form.gov.sg/642b7980d88e0800129ad394' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67ce8c2defe1ff9d536386ac' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -90,6 +90,6 @@ Dave & Co. LLP is a specialist trademarks firm with extensive experience with tr
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/642b7980d88e0800129ad394' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67ce8c2defe1ff9d536386ac' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 11 April 2024

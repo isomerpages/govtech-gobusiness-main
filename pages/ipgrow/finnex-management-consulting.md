@@ -23,7 +23,7 @@ Being the consultancy that cares for Singapore SMEs, we continuously upskill our
 
 <b>Offer:</b> Complimentary Initial Consultation (1 hour)
 
-<a class='btn' href='https://form.gov.sg/65b85de4523cf95b78fcaeed' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d0074036a1afd875adbb05' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -92,6 +92,6 @@ Being the consultancy that cares for Singapore SMEs, we continuously upskill our
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/65b85de4523cf95b78fcaeed' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d0074036a1afd875adbb05' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 28 February 2024

@@ -25,7 +25,7 @@ Acorn group was founded in Singapore 36 years ago and has been the largest indep
 
 <b>Offer:</b> IP Business Clinic participating service provider
 
-<a class='btn' href='https://form.gov.sg/67b68a47bcb477105b7b1a2e' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7e767216aadb13b790a9e' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -165,6 +165,6 @@ Acorn group was founded in Singapore 36 years ago and has been the largest indep
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/67b68a47bcb477105b7b1a2e' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7e767216aadb13b790a9e' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 26 February 2025

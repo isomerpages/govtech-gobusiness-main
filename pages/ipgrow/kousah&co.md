@@ -20,7 +20,7 @@ We tailor our offer to suit our clients' needs, combining independent local & gl
 
 <b>Offer:</b> IP Business Clinic participating service provider
 
-<a class='btn' href='https://form.gov.sg/67b6f22abcb477105b9e2393' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7e3b8c75b3629101c41c6' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_2-ipgrow-company-profile %}
 
@@ -96,6 +96,6 @@ We tailor our offer to suit our clients' needs, combining independent local & gl
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/67b6f22abcb477105b9e2393' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7e3b8c75b3629101c41c6' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 26 February 2025

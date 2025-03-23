@@ -27,7 +27,7 @@ Our firm works closely with leading international law firms. We also provide 're
 
 <b>Offer:</b> Complimentary 30-min introductory call for new clients to see if and how we may assist the client. Please note, no legal advice is given on these calls.
 
-<a class='btn' href='https://form.gov.sg/67565a125552d17a8f18542e' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7d0a71e6146d23b0d80cc' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1a-ipgrow-company-profile %}
 
@@ -132,6 +132,6 @@ Our firm works closely with leading international law firms. We also provide 're
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/67565a125552d17a8f18542e' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7d0a71e6146d23b0d80cc' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 11 December 2024
