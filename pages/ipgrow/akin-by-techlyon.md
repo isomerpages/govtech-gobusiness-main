@@ -19,7 +19,7 @@ AKIN envisions to humanise brands. Our clients typically engage us on three fron
 
 <b>Offer:</b> Free consultation for initial brand and innovation with Principal Consultant
 
-<a class='btn' href='https://form.gov.sg/651b88ca94399a0011d39968' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cffd7664290aadf1f8b081' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1a-ipgrow-company-profile %}
 
@@ -99,6 +99,6 @@ AKIN envisions to humanise brands. Our clients typically engage us on three fron
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/651b88ca94399a0011d39968' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cffd7664290aadf1f8b081' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 11 April 2024

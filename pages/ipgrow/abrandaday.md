@@ -21,7 +21,7 @@ ABrandADay is a creative consulting agency versed in Strategy, Creative and Digi
 
 <b>Offer:</b> IP Business Clinic participating service provider
 
-<a class='btn' href='https://form.gov.sg/67b58faddd25b4217054626f' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7dce1428098cc04ca65a0' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_2-ipgrow-company-profile %}
 
@@ -103,6 +103,6 @@ ABrandADay is a creative consulting agency versed in Strategy, Creative and Digi
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/67b58faddd25b4217054626f' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7dce1428098cc04ca65a0' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 26 February 2025

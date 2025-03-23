@@ -10,21 +10,18 @@ Singapore Food Agency (SFA)
 
 {% include spcp-text.html type="cp" %}
 
-{% include licence-apply-button.html %}
-<a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000175" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>
-<div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-size: 18px; color: #313840;">
-<img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;">
-<span style="font-weight: bold; font-family: hknova-bold; font-size: 18px; ">Please use desktop / laptop to apply for this licence.</span><br>
-<span style="font-family: hknova-regular;">You can only view application details and make payment via mobile. Please use GoBusiness Licensing on desktop to use all features.</span><br><br>
-<a id="mobileNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000175" target="_blank" rel="noopener">Continue to GoBusiness Licencing anyway</a>
-</div>
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/licence-for-import-transhipment-of-fresh-fruits-and-vegetables" type="primary" %}
 
 <H3>Application Details</H3>
 
-<p>LICENSE FOR IMPORT/TRANSSHIPMENT OF FRESH FRUITS AND VEGETABLES is required if Traders involved in the import/transshipment of fresh fruits and vegetables.<br /><br />Licence Pre-requisites :<br />1.Top Up CPF MediSave.<br />2.Activate UEN with Singapore Customs.<br />3.Submit original GIRO form.</p> 
-<h3>FAQs</h3> 
-<ol> 
-<li><strong>Where can I get more information for Licence for Import and Transhipment of Fresh Fruits and Vegetables?</strong> <br />You can find more information on <a href="https://www.sfa.gov.sg/food-import-export/conditions-for-specific-types-of-food-for-import" target="_blank" rel="noopener">SFA website</a>.</li> 
+<p>LICENSE FOR IMPORT/TRANSSHIPMENT OF FRESH FRUITS AND VEGETABLES is required if Traders involved in the import/transshipment of fresh fruits and vegetables.<br><br>Licence Pre-requisites :<br>1.Top Up CPF MediSave.<br>2.Activate UEN with Singapore Customs.<br>3.Submit original GIRO form.</p>
+<h3>FAQs</h3>
+<ol>
+<li><strong>Where can I get more information for Licence for Import and Transhipment of Fresh Fruits and Vegetables?</strong> <br>You can find more information on <a href="https://www.sfa.gov.sg/food-import-export/conditions-for-specific-types-of-food-for-import" target="_blank" rel="noopener">SFA website</a>.</li>
+<li>
+<p><strong>I have an ongoing licence application in LicenceOne. How do I continue with it?<br></strong>Click&nbsp;<a href="https://licence1.business.gov.sg/licence1/authentication/showLogin.action" target="_blank" rel="noopener"><strong>here</strong></a> to continue and complete your ongoing licence application till approval and payment.</p>
+</li>
+<li><strong>How do I fill up the application form on the GoBusiness portal?<br></strong>You may refer below for the guide&nbsp;on the steps for application.<br>- <a href="https://www.sfa.gov.sg/docs/default-source/food-import-and-export/import-licence_new-app-user-guide-v1-1.pdf" target="_blank" rel="noopener">New application user guide</a><br>- <a href="https://www.sfa.gov.sg/docs/default-source/food-import-and-export/import-licence_common-modues-user-guide-v1-0.pdf" target="_blank" rel="noopener">Common modules user guide</a></li>
 </ol>
 
 <strong>Additional Information</strong>
