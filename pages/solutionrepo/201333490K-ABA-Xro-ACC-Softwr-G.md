@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/201333490K-ABA-Xro-ACC-Sof
 
 **Description**
 
-Abundant Accounting Pte Ltd is a leading digital sales and accounting solution provider for 9 years. the Company is a Xero Gold Partner and Advisor and it has helped more than 400 businesses to implement Xero solutions successfully where the operational processes ranging from purchase order, sales quotation, invoices, inventory tracking to financial accounting and GST reporting has been automated and streamlined. Many businesses have benefited from the digitalisation by Abundant Accounting.
+Abundant Accounting Pte Ltd provides digital sales and accounting solutions. As a Xero Gold Partner and Advisor, the company implements Xero solutions for businesses. Their services include automating and streamlining processes such as purchase orders, sales quotations, invoices, inventory tracking, financial accounting, and GST reporting. The company has been operating for 11 years and has worked with over 400 businesses.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Abundant Accounting Pte Ltd is a leading digital sales and accounting solution p
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Subscription </td>
-<td style='padding: 10px;'>$560.00</td>
-<td style='padding: 10px;'>$560.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Abundant_Accounting_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 [Subscription]</td>
+<td style='padding: 10px;'>$732.00</td>
+<td style='padding: 10px;'>$716.00</td>
+<td style='padding: 10px;'><a href='/images/psg/201333490K_20240137_09012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sales and Accounting Module Set up </td>
-<td style='padding: 10px;'>$3,420.00</td>
-<td style='padding: 10px;'>$3,420.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Abundant_Accounting_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 [Sales and Accounting Module]</td>
+<td style='padding: 10px;'>$3,660.00</td>
+<td style='padding: 10px;'>$3,660.00</td>
+<td style='padding: 10px;'><a href='/images/psg/201333490K_20240137_09012025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sales, Accounting and Inventory Module</td>
-<td style='padding: 10px;'>$4,820.00</td>
-<td style='padding: 10px;'>$4,820.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Abundant_Accounting_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 [Sales, Accounting and Inventory Module]</td>
+<td style='padding: 10px;'>$5,060.00</td>
+<td style='padding: 10px;'>$3,860.00</td>
+<td style='padding: 10px;'><a href='/images/psg/201333490K_20240137_09012025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Setup with detailed migration</td>
-<td style='padding: 10px;'>$5,920.00</td>
-<td style='padding: 10px;'>$5,920.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Abundant_Accounting_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 [Xero Premium with detailed migration setup]</td>
+<td style='padding: 10px;'>$6,368.00</td>
+<td style='padding: 10px;'>$4,160.00</td>
+<td style='padding: 10px;'><a href='/images/psg/201333490K_20240137_09012025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Setup and full data conversion</td>
-<td style='padding: 10px;'>$10,120.00</td>
-<td style='padding: 10px;'>$10,120.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Abundant_Accounting_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 [Xero Premium with full data conversion setup]</td>
+<td style='padding: 10px;'>$10,360.00</td>
+<td style='padding: 10px;'>$4,160.00</td>
+<td style='padding: 10px;'><a href='/images/psg/201333490K_20240137_09012025_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Abundant Accounting Pte Ltd is a leading digital sales and accounting solution p
 
 ## Vendor Information
 
- Company name:Abundant Accounting Pte Ltd<br>Web URL: www.aba.com.sg <br>Contact Hotline: 97762954 <br>Contact Email: sales@aba.com.sg 
+ Company Name: Abundant Accounting Pte. Ltd.<br>Web URL: www.aba.com.sg <br>Contact Hotline: 97762954 <br>Contact Email: sales@aba.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

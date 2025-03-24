@@ -21,9 +21,9 @@ We help companies unlock their competitive edge by identifying, valuing and mone
 
 <b>Website:</b> <a href='https://www.everedgeglobal.com'>https://www.everedgeglobal.com</a>
 
-<b>Offer:</b> To discuss how to identify, value and monetise your intangible assets, book a free one-hour consultation. 
+<b>Offer:</b> IP Business Clinic participating service provider; To discuss how to identify, value and monetise your intangible assets, book a free one-hour consultation. 
 
-<a class='btn' href='https://form.gov.sg/63fc1cb344ce7f0012152941' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7d072428098cc04c6d062' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_2-ipgrow-company-profile %}
 
@@ -39,16 +39,6 @@ We help companies unlock their competitive edge by identifying, valuing and mone
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts overseas: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $5,000</li>
-</ul>
-
-**Dispute Resolution Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of cases completed in previous calendar year: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $10,000</li>
 </ul>
 
 **Innovation Consultancy Services**
@@ -197,28 +187,28 @@ CEO & Tech Missionary, OTSAW.
 **Paul Adams**
 
 - Job Title: CEO
-- Years of Experience: >25 years
+- Years of Experience: 25+ years
 - Location: Auckland, New Zealand
-- IA/IP-Related Expertise: IP Audit, IP Strategy Consulting, IP Training,Dispute Resolution,Valuation (with IA/IP considerations)
+- IA/IP-Related Expertise: IP Audit, IP Strategy Consulting, IP Training, Valuation (with IA/IP considerations)
 - Certifications/Qualifications: LLB with Honors (Software Licensing Law) - University of Auckland (NZ), BA (Economics and History) - University of Auckland (NZ), Admitted as a Barrister and Solicitor to the High Court of NZ, Fellow of the New Zealand Institute of Directors, Intellectual Asset Management Top 300 IP Strategist 2011-2024
 - Awards/Accolades: Global IP Leader Prize, Intellectual Property Focus Forum, Shanghai, China, 2012
-- URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/paul-adams" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/paul-adams</a>
+- URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/our-team/" target="_blank" rel="noopener">https://www.everedgeglobal.com/our-team/</a>
 
 **Tyler Capson**
 
 - Job Title: Managing Director
-- Years of Experience: >20 years
+- Years of Experience: 20+ years
 - Location: United States
 - IA/IP-Related Expertise: IP Audit, IP Due Diligence, IP Strategy Consulting, 
-Valuation (with IA/IP considerations), Dispute Resolution
+Valuation (with IA/IP considerations)
 - Certifications/Qualifications: Bachelor of Science (Finance) Brigham Young University (US), Master of Business Administration (Strategy) University of Utah (US), Chartered Valuer and Appraiser (CVA) Singapore Accountancy Commission, Certified Patent Valuation Analyst (CPVA) Business Development Academy (US), Registered Management Consultant (RMC) Institute of Management Consultants, Six Sigma Green Belt
 - Awards/Accolades: PWC XTax finalist
 - URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/tyler-capson" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/tyler-capson</a>
 
 **Ian Lim**
 
-- Job Title: Senior Manager, Valuation 
-- Years of Experience: >10 years
+- Job Title: Head of Valuations 
+- Years of Experience: 10+ years
 - Location: Singapore 
 - IA/IP-Related Expertise: Innovation Consultancy, IP Audit, IP Due Diligence, IP Strategy Consulting, Valuation (with IA/IP consideration)
 - Certifications/Qualifications: Bachelor of Accountancy (Hons) - Nanyang Technological University, Chartered Accountant of Singapore (CA)
@@ -231,12 +221,12 @@ Valuation (with IA/IP considerations), Dispute Resolution
 - Location: Singapore
 - IA/IP-Related Expertise: Innovation Consultancy, IP Audit, IP Due Diligence, IP Strategy Consulting, Valuation (with IA/IP considerations)
 - Certifications/Qualifications: Master of Science in Wealth Management - Singapore Management University, Capital Markets Financial Advisory Services: Modules 5/6/6A/8/8A/9/9A
-- URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/justin-ng" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/justin-ng</a>
+- URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/our-team/" target="_blank" rel="noopener">https://www.everedgeglobal.com/our-team/</a>
 
 **Dean Prebble**
 
 - Job Title: Director
-- Years of Experience: >40 years
+- Years of Experience: 40+years
 - Location: Singapore
 - IA/IP-Related Expertise: Branding Strategy, IP Due Diligence, IP Strategy Consulting, Valuation (with IA/IP considerations), IP Training
 - Certifications/Qualifications: Bachelor of Commerce (Accounting and Marketing) - Otago University, Certificate of proficiency, New Zealand Society of Investment Analysts, Master of Commerce (Marketing and International Business) - The University of Auckland
@@ -247,6 +237,6 @@ Valuation (with IA/IP considerations), Dispute Resolution
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/63fc1cb344ce7f0012152941' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7d072428098cc04c6d062' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 24 April 2024
+Profile last updated on 26 February 2025

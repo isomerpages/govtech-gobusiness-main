@@ -17,7 +17,8 @@ Our Intellectual Property and Technology (IPTech) practice is consistently ranke
 
 <b>Top focus areas for IA/IP services:</b> Trade Mark Agent Service, IP Intelligence and Search, IP Portfolio Management, Tax Advisory (with IA/IP considerations), Dispute Resolution
 
-<b>Intellectual property awards received:</b> Band 1 for Intellectual Property: Domestic, Chambers Asia Pacific 2010-2023 ; Band 1 for Asia Pacific Region: Intellectual Property, Chambers Global 2010-2023 ; Tier 1 for Intellectual Property: Local Firms, Legal 500 Asia Pacific 2010-2023
+<b>Intellectual property awards received:</b> Band 1 for Intellectual Property: Domestic, Chambers Asia Pacific 2010-2024 ; Band 1 for Asia Pacific Region: Intellectual Property, Chambers Global 2010-2024 ; Tier 1 for Intellectual Property: Local Firms, Legal 500 Asia Pacific 2010-2024
+
 
 <b>Type of organization:</b> Non-SME
 
@@ -25,7 +26,7 @@ Our Intellectual Property and Technology (IPTech) practice is consistently ranke
 
 <b>Website:</b> <a href='https://www.bakermckenzie.com/en/'>https://www.bakermckenzie.com/en/</a>
 
-<a class='btn' href='https://form.gov.sg/646ff4ec3017a20011b004d1' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67ceaf329f5f6b18ee67fe2d' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -169,6 +170,6 @@ Our Intellectual Property and Technology (IPTech) practice is consistently ranke
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/646ff4ec3017a20011b004d1' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67ceaf329f5f6b18ee67fe2d' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 8 May 2024
+Profile last updated on 30 July 2024

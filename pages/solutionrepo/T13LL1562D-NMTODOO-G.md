@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/T13LL1562D-NMTODOO-G
 
 **Description**
 
-The solution is an integrated, cohesive, user-friendly CRM, sales and financial accounting solutions. The system offers users the capability to enforce strategic sales pricing policies while capturing vital business performance data directly into a full-fledged, IRAS-approved financial accounting system that generates professional, traceable formal documentation complete with audit trails. The system alleviates mundane administrative work effort to help businesses focus on their value chain.
+NMTODOO is a cloud-based ERP for SMEs, registered on the IRAS ASR. It integrates sales and financials, centralizing sales policies, generating documents, tracking trends with real-time data, and maintaining detailed customer/product profiles. Its accounting module automates journal entries, optimizes cash flow, reduces risks, and streamlines invoicing and payments, helping businesses save time and improve efficiency.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ The solution is an integrated, cohesive, user-friendly CRM, sales and financial 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting and Sales management for 3 users (Basic)</td>
-<td style='padding: 10px;'>$5,760.00</td>
-<td style='padding: 10px;'>$5,760.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NMT_ODOO_01082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NMTODOO Basic Package (1 user)</td>
+<td style='padding: 10px;'>$528.00</td>
+<td style='padding: 10px;'>$528.00</td>
+<td style='padding: 10px;'><a href='/images/psg/T13LL1562D_20240295_13032025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting and Sales management for 3 users (Standard)</td>
-<td style='padding: 10px;'>$7,200.00</td>
-<td style='padding: 10px;'>$6,580.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NMT_ODOO_01082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NMTODOO Standard Package (3 users)</td>
+<td style='padding: 10px;'>$1,808.00</td>
+<td style='padding: 10px;'>$1,728.00</td>
+<td style='padding: 10px;'><a href='/images/psg/T13LL1562D_20240295_13032025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting and Sales management for 3 users (Premium)</td>
-<td style='padding: 10px;'>$9,280.00</td>
-<td style='padding: 10px;'>$6,740.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NMT_ODOO_01082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NMTODOO Premium Package (3 users)</td>
+<td style='padding: 10px;'>$3,328.00</td>
+<td style='padding: 10px;'>$3,080.00</td>
+<td style='padding: 10px;'><a href='/images/psg/T13LL1562D_20240295_13032025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting and Sales management for 3 users (Professional)</td>
-<td style='padding: 10px;'>$10,720.00</td>
-<td style='padding: 10px;'>$6,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NMT_ODOO_01082024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NMTODOO Professional Package (3 users)</td>
+<td style='padding: 10px;'>$5,128.00</td>
+<td style='padding: 10px;'>$4,728.00</td>
+<td style='padding: 10px;'><a href='/images/psg/T13LL1562D_20240295_13032025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accountng and Sales management for 3 users (Enterprise)</td>
-<td style='padding: 10px;'>$12,160.00</td>
-<td style='padding: 10px;'>$7,060.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NMT_ODOO_01082024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NMTODOO Enterprise Package (3 users)</td>
+<td style='padding: 10px;'>$7,088.00</td>
+<td style='padding: 10px;'>$6,448.00</td>
+<td style='padding: 10px;'><a href='/images/psg/T13LL1562D_20240295_13032025_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ The solution is an integrated, cohesive, user-friendly CRM, sales and financial 
 
 ## Vendor Information
 
- Company name:Neu Media Technology LLP<br><br>Web URL: www.neumediatechnology.com <br><br>Contact Hotline: 67018202 <br><br>Contact Email: info@neumediatechnology.com 
+ Company Name: Neu Media Technology LLP<br>Web URL: https://neumediatechnology.com <br>Contact Hotline: 67018202 <br>Contact Email: info@neumediatechnology.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -44,6 +44,14 @@ This solution is supported by Workforce Singapore (Workforce Singapore (WSG)).
 <td>Ernst & Young Advisory Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201003423H-Job-Rdsgn-CST-KLC-Intrntonl-Insttut-PL-G' target='_blank'>Job Redesign Consultancy - KLC International Institute Pte Ltd</a><br></td>
+<td>KLC International Institute Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201822025C-Job-Rdsgn-CST-LIT-STRATEGY-PL-G' target='_blank'>Job Redesign Consultancy - LIT STRATEGY PTE LTD</a><br></td>
+<td>LIT STRATEGY PTE LTD</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/197802499E-Job-Rdsgn-CST-Mrcr-SG-PL-G' target='_blank'>Job Redesign Consultancy - Mercer (Singapore) Pte Ltd</a><br></td>
 <td>Mercer (Singapore) Pte Ltd</td>
 </tr>
@@ -52,20 +60,12 @@ This solution is supported by Workforce Singapore (Workforce Singapore (WSG)).
 <td>NTUC Learning Hub Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201822025C-Job-Rdsgn-CST-LIT-STRATEGY-PL-G' target='_blank'>Job Redesign Consultancy - LIT STRATEGY PTE LTD</a><br></td>
-<td>LIT STRATEGY PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201022988M-Job-Rdsgn-CST-SFIC-Insttut-PL-G' target='_blank'>Job Redesign Consultancy - SFIC Institute Pte Ltd</a><br></td>
 <td>SFIC Institute Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/T08GB0056A-Job-Rdsgn-CST-SPSOBBIC-G' target='_blank'>Job Redesign Consultancy - Singapore Polytechnic, School of Business, Business Innovation Centre (BIC)</a><br></td>
 <td>School of Business, Business Innovation Centre (BIC)</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201003423H-Job-Rdsgn-CST-KLC-Intrntonl-Insttut-PL-G' target='_blank'>Job Redesign Consultancy - KLC International Institute Pte Ltd</a><br></td>
-<td>KLC International Institute Pte Ltd</td>
 </tr>
 </table>
 

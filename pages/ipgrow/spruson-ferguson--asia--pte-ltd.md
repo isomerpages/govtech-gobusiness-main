@@ -19,7 +19,9 @@ Established in 1887, Spruson & Ferguson is one of the largest intellectual prope
 
 <b>Website:</b> <a href='https://www.spruson.com/'>https://www.spruson.com/</a>
 
-<a class='btn' href='https://form.gov.sg/643f8a5cf643c40012e42c64' target='_blank' rel='noopener'>Get in touch</a>
+<b>Offer:</b> IP Business Clinic participating service provider
+
+<a class='btn' href='https://form.gov.sg/67d7d674a20dc8c2972b41ee' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -105,21 +107,11 @@ Established in 1887, Spruson & Ferguson is one of the largest intellectual prope
 
 **Percentage of clients by country, based on previous calendar year:**
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> United States - 48.8%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Japan - 8%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Singapore- 7.2%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Germany - 6.4% 	</li><li style='line-height: 27px; margin: 0px 0px !important'>Australia - 4.4%	</li><li style='line-height: 27px; margin: 0px 0px !important'>United Kingdom - 4%	</li><li style='line-height: 27px; margin: 0px 0px !important'>New Zealand - 2.2%	</li><li style='line-height: 27px; margin: 0px 0px !important'>China - 2.2%	</li><li style='line-height: 27px; margin: 0px 0px !important'>France - 1.9%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Other Countries - 14.9%</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> United States - 48.8%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Japan - 8%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Singapore - 7.2%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Germany - 6.4% 	</li><li style='line-height: 27px; margin: 0px 0px !important'>Australia - 4.4%	</li><li style='line-height: 27px; margin: 0px 0px !important'>United Kingdom - 4%	</li><li style='line-height: 27px; margin: 0px 0px !important'>New Zealand - 2.2%	</li><li style='line-height: 27px; margin: 0px 0px !important'>China - 2.2%	</li><li style='line-height: 27px; margin: 0px 0px !important'>France - 1.9%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Other Countries - 14.9%</li></ul>
 
 ---
 <a name='key-practice-experts'></a>
 ### Key practice experts
-
-**Kristian, Robinson**
-
-- Job Title: Managing Director
-- Years of Experience: 25 years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Portfolio Management, IP Training
-- Certifications/Qualifications: Registered Singapore Patent Attorney, Registered Australian and New Zealand Patent Attorney, SCOPE IP<sup>TM</sup> Consultant, Bachelor of Engineering (Chemical) (Hons), Bachelor of Science (Chemistry)
-- Awards/Accolades: Global Leader: IP - Patent Agents & Attorneys (Recommended), Who's Who Legal (2022), National Leader (Southeast Asia): Patent Agents & Attorneys (Recommended), Who's Who Legal (2022), Asia IP Expert - Singapore, Asia IP (2022), Patent Star, Managing Intellectual Property IP Stars (2022), Ranked Individual for Patent Prosecution, IAM Patent 1000 (2022)
-- URL of LinkedIn/Company Profile: <a href="https://www.spruson.com/our-people/kristian-robinson" target="_blank" rel="noopener">https://www.spruson.com/our-people/kristian-robinson</a>
 
 **Chiou Yu, Choo**
 
@@ -159,16 +151,6 @@ Established in 1887, Spruson & Ferguson is one of the largest intellectual prope
 - Certifications/Qualifications: Registered Singapore Patent Attorney, Registered Patent Agent, Industrial Design Agent, Trade Marks Agent Malaysia, Graduate Certificate in Intellectual Property Law (Distinction), Doctor of Philosophy (Enzymology), Bachelor of Technology (Biotechnology) (Hons)
 - Awards/Accolades: Patent Star, Managing Intellectual Property IP Stars (2022), Ranked Individual for Patent Prosecution, IAM Patent 1000 (2022), Top 20 Women in IP, Managing Intellectual Property (2019)
 - URL of LinkedIn/Company Profile: <a href="https://www.spruson.com/our-people/soo-ee-lin" target="_blank" rel="noopener">https://www.spruson.com/our-people/soo-ee-lin</a>
-
-**Daniel, Collopy**
-
-- Job Title: Principal
-- Years of Experience: 40 years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Audit, IP Portfolio Management, IP Training
-- Certifications/Qualifications: Registered US Patent Attorney, Attorney at Law - Georgia / Ohio / Virginia / US and the US Supreme Court, Juris Doctorate (Law), Bachelor of Arts (Physics & Drama)
-- URL of LinkedIn/Company Profile: <a href="https://www.spruson.com/our-people/daniel-collopy" target="_blank" rel="noopener">https://www.spruson.com/our-people/daniel-collopy</a>
-
 
 **Maik, Brinkmann**
 
@@ -211,6 +193,6 @@ Established in 1887, Spruson & Ferguson is one of the largest intellectual prope
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/643f8a5cf643c40012e42c64' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7d674a20dc8c2972b41ee' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 26 February 2025

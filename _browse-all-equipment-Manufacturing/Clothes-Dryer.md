@@ -17,7 +17,7 @@ permalink: /browse-all-equipment-Manufacturing/Clothes-Dryer
 
 Up to 70% for SMEs, 30% for non-SMEs
 
-Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a>.
+Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}.
 
 
 ### Pre-Approved Equipment Brands and Models
@@ -35,11 +35,10 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - Electrolux Professional  - TD6-14
 - Electrolux Professional  - TD6-20
 - Electrolux Professional  - TD6-7
+- ELECTROLUX PROFESSIONAL - TD6-11
 - Imesa  - GL ES 10 EC
 - Imesa  - GL ES 14 EC
 - Imesa  - GL ES 18 EC
 - Midea  - MDK888HP
-
-
 
 <script src='/jquery/resize-tables.js'></script>

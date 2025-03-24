@@ -11,8 +11,6 @@ permalink: /browse-all-equipment-Retail/Air-Conditioner
 
 - Minimum 3-ticks for 3-phase variable refrigerant flow (VRF) models 
 
-Note: From 1st April 2025, the Minimum Energy Performance Standards (MEPS) will be raised to 5-tick for multi-split/ 4-tick for single split. The technical eligibility criteria will be reviewed in 4Q2024.
-
 ### Mode and Schedule of Payment 
 
 - Direct Purchase
@@ -27,27 +25,38 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 
 ### Pre-Approved Equipment Brands and Models
 
+- AVOLTA - SGTC4T-S1B09
+- AVOLTA - SGTC4T-S1B12
 - Daikin - MKM100VVMG
+- Daikin - MKM100ZVMG
 - Daikin - MKM50VVMG
+- Daikin - MKM50ZVMG
 - Daikin - MKM75VVMG
 - Daikin - MKM75VVMG-HW
+- Daikin - MKM75ZVMG
 - Daikin - MKM85VVMG
+- Daikin - MKM85ZVMG
 - Daikin - MKP50VVMG
 - Daikin - MKP75VVMG
 - Daikin - RKM25PVMG
 - Daikin - RKM25XVMG
+- Daikin - RKM25ZVMG
 - Daikin - RXMUQ4AVEG
 - Daikin - RXMUQ5AVEG
 - Daikin - RXMUQ6AVEG
 - Daikin - RXQ10AYM
 - Daikin - RXQ10AYMG
 - Daikin - RXQ10AYMW
+- Daikin - RXQ10BYMG
 - Daikin - RXQ12AYM
 - Daikin - RXQ12AYMG
 - Daikin - RXQ12AYMW
+- Daikin - RXQ12BYMG
+- Daikin - RXQ14BYMG
 - Daikin - RXQ6AYM
 - Daikin - RXQ6AYMG
 - Daikin - RXQ6AYMW
+- Daikin - RXQ8BYMG
 - Daikin - RXUQ10AYM
 - Daikin - RXUQ10AYMG
 - Daikin - RXUQ10AYMW
@@ -85,6 +94,8 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Fujitsu - AOAH24CBTA3
 - Fujitsu - AOAH30CBTA4
 - Fujitsu - AOAH36CBTA
+- General - AJG090JATAH
+- General - AJG108JATAH
 - GREE - GMVL-120WL/A-K(P)
 - GREE - GMVL-140WL/A-K(P)
 - GREE - GMVL-160WL/A-K(P)
@@ -102,6 +113,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Haier - 4U65RH1SRA
 - Haier - 4U80SH1SRA
 - Haier - 5U90NH1SRA
+- Hisense - AMW150TERQ
 - Hitachi - RAM-Z23C2MS
 - Hitachi - RAM-Z30C3MS
 - Hitachi - RAM-Z38C4MS
@@ -115,6 +127,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - LG - ARUN082LTE6
 - LG - ARUN100LTE5
 - LG - ARUN102LTE6
+- LG - ARUN103LTE6
 - LG - ARUN120LTE5
 - LG - ARUN122LTE6
 - LG - ARUN140LTE5
@@ -140,10 +153,18 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Midea - MCE-4M28E
 - Midea - MDV-V28WDHN1(SG)
 - Midea - MDV-V36WDHN1(SG)
+- Midea - MDV-V42WDHN1(SG2)
+- Midea - MDV-V48WDHN1(SG2)
+- Midea - MDV-V56WDHN1(SG2)
+- Midea - MEZ-3M28E
+- Midea - MEZ-4M32E
+- Midea - MGP-3M28E
+- Midea - MGP-4M32E
 - Midea - MKC-2M15E
 - Midea - MKC-3M22E
 - Midea - MKC-4M27E
 - Midea - MMY-MUP1401T8P-SG
+- Midea - MOU24-HVN32E(SG)
 - Midea - MVC-M252WV2GN1(G)
 - Midea - MVC-M280WV2GN1(G)
 - Midea - MVC-M335WV2GN1(G)
@@ -259,6 +280,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Tosot - TR32SAC21CUD
 - Tosot - TR32SAC28CUD
 - Tosot - TR32SAC32CUD
+- WSE - TKF-100W/BP-M
 
 
 <script src='/jquery/resize-tables.js'></script>

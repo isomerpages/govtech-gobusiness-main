@@ -37,10 +37,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201834474D-ZBD-Totl-Fortfd-Cybr-Scurty-G' target='_blank'>ZBD Total Fortified Cyber Security</a><br></td>
-<td>Zebedee Solution Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201300674N-AWECREATION-Fortnt-Mngd-Frwll-SLNs-G' target='_blank'>AWECREATION - Fortinet Managed Firewall Solutions</a><br></td>
 <td>AWECREATION PTE LTD</td>
 </tr>
@@ -53,16 +49,16 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Contfinity Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201402872W-Ntwork-Box-Nxt-Gnrton-Mngd-Scurty-G' target='_blank'>Network Box Next Generation Managed Security</a><br></td>
-<td>NETWORK BOX (SIN) PTE. LTD.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200312912E-Cybr-Scurty-SLN-Unfd-Thrt-MGT-G' target='_blank'>Cyber Security Solution - Unified Threat Management</a><br></td>
-<td>DATA CONNECT TECHNOLOGIES PTE. LTD.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200715324R-Fortgt-Frwll-for-IT-Scurty-or-VPN-v-1-G' target='_blank'>Fortigate Firewall for IT Security or VPN Version 1</a><br></td>
 <td>Computer Analysts and Recovery Experts Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200408845E-GtLnkUp-UTM-v-10-G' target='_blank'>GetLinkUp UTM Version 1.0</a><br></td>
+<td>PROMINDS PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201402872W-Ntwork-Box-Nxt-Gnrton-Mngd-Scurty-G' target='_blank'>Network Box Next Generation Managed Security</a><br></td>
+<td>NETWORK BOX (SIN) PTE. LTD.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/199201624D-SngtlFortnt-Unfd-Thrt-MGT-G' target='_blank'>Singtel-Fortinet Unified Threat Management</a><br></td>

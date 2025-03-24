@@ -3,11 +3,13 @@
 const custom_notifications = [
 
   //1 system downtime only
-  //"<b>[Attention: System Maintenance]</b> Application, amendment, renewal & cancellation of Infocomm Media Development Authority (IMDA) licences will be unavailable due to maintenance on 07 Nov from 3:30pm to 11:59pm. Please view the <u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>upcoming maintenance schedule</a></u> for details. We apologise for the inconvenience caused."
+  //"<b>[Attention: System Maintenance]</b> Please view the <u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>upcoming maintenance schedule</a></u> for details. We apologise for the inconvenience caused."
   //multiple services
-  "<b>[Attention: System Maintenance]</b> Certain GoBusiness services will be unavailable due to upcoming maintenance. Please check our <B><u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>maintenance schedule</a></u></B> for details.",
-  "<b>[Attention] </b> From 5 June 2024, SkillsFuture for Enterprise and Enterprise Portal for Jobs and Skills have been moved to a new URL on GoBusiness for an improved user experience.",
-];
+  "<b>[Attention: System Maintenance]</b> Certain GoBusiness services will be unavailable due to upcoming maintenance. Please check our <B><u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>maintenance schedule</a></u></B> for details.", 
+  "<b>[Attention: Important Announcement]</b> For submission of pending Request for Action (RFA) documents involving LTA Vocational Licence applications (i.e. Taxi Driver, Private Hire Car Driver, Bus Driver, Bus Attendant and Omnibus Driver) which had been previously submitted via the old GoBusiness Licensing (GBL) portal, kindly do so via the specified mailboxes:<br> a. Application RFAs: lta_l1@lta.gov.sg<br> b.	Renewal RFAs: LTA_renewal@lta.gov.sg",
+  
+  
+]; 
 
 
 // Do not edit the following code

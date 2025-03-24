@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/202115139D-Evrydy-Corport-
 
 **Description**
 
-Everyday Corporate is experienced in using cloud accounting and app integration to help improve organisational process workflow to eliminate duplication of data input, allowing staff to spend time more efficiently on things that matter. Xero is a cloud-based accounting software that connects people with the right numbers anytime, anywhere, on any device. Xero has helped many subscribers worldwide transform the way that organisations do business.
+Everyday Corporate offers Xero Cloud Accounting Software for businesses seeking to streamline their financial management. The solution provides a comprehensive suite of accounting and business management tools on the Xero platform, designed to enhance company operations. Everyday Corporate tailors its offerings to meet customer needs and provides support throughout the implementation and learning process, helping organisations adapt to the Xero system efficiently.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,38 @@ Everyday Corporate is experienced in using cloud accounting and app integration 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Standard (Unlimited), Setup, Migration and Training</td>
-<td style='padding: 10px;'>$3,932.00</td>
-<td style='padding: 10px;'>$3,872.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Everyday_Xero_01082024_Desensitised_Annex3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - Standard (Unlimited) only</td>
+<td style='padding: 10px;'>$780.00</td>
+<td style='padding: 10px;'>$716.00</td>
+<td style='padding: 10px;'><a href='/images/psg/202115139D_20240196_09012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Standard (Unlimited) and Setup</td>
+<td style='padding: 10px;'>$2,380.00</td>
+<td style='padding: 10px;'>$2,316.00</td>
+<td style='padding: 10px;'><a href='/images/psg/202115139D_20240196_09012025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - Standard (Unlimited), Setup and Training</td>
+<td style='padding: 10px;'>$3,180.00</td>
+<td style='padding: 10px;'>$3,116.00</td>
+<td style='padding: 10px;'><a href='/images/psg/202115139D_20240196_09012025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - Standard (Unlimited), Setup and Migration</td>
+<td style='padding: 10px;'>$3,580.00</td>
+<td style='padding: 10px;'>$3,116.00</td>
+<td style='padding: 10px;'><a href='/images/psg/202115139D_20240196_09012025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - Standard (Unlimited), Setup, Migration and Training</td>
+<td style='padding: 10px;'>$3,980.00</td>
+<td style='padding: 10px;'>$3,916.00</td>
+<td style='padding: 10px;'><a href='/images/psg/202115139D_20240196_09012025_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

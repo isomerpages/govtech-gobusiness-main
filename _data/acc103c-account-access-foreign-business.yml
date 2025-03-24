@@ -1,31 +1,27 @@
 - accordion:
   letter: a
   data:
-    - title: What happens after I have registered for a Singpass Foreign User Account (Individual)?
+    - title: What happens after I have registered for a Singpass Foreign Account (Individual)?
       content: |
         Step 1:
         The licensing agency will take a few days to process your registration. If you have any queries during this time, please contact the licensing agency.
 
         Step 2: 
-        After successful registration, you will receive an email from Singpass with the subject "Registration of Singpass Account (Foreign Users)" at your registered email address. This email will contain a system-generated User ID. 
-        You will need to enter the User ID in the provided link and set up your password accordingly.
-
+        After successful registration, you will receive an email from Singpass with the subject "Registration of Singpass Account (Foreign Users)" at your registered email address. This email will contain a system-generated User ID (starts with Y). 
+        
         Step 3:
-        Subsequently, you will receive a second email with an encrypted PDF file containing an OTP. You should open the file using your registered Foreign ID number.
+        Install the Singpass App using the provided link and complete the onboarding with the OTP. For more details, visit [SINGPASS | How do I set up Singpass app as a Singpass Foreign Account (SFA)?](https://ask.gov.sg/singpass/questions/clyfiyeh10005aordl6ytepuw){:target="_blank"}{:rel="noopener"}
 
-        Step 4:
-        Install the Singpass App using the provided link and complete the onboarding with the OTP.
-
-        Step 5: 
+        Step 4: 
         Congratulations! You can now log in to GoBusiness Dashboard!
-    - title: Do I need to register with GoBusiness if I already have a Singpass Foreign user Account issued by another organization?
+    - title: Do I need to register with GoBusiness if I already have a Singpass Foreign Account issued by another organization?
       content: |
         Yes, you will need to register with GoBusiness.
 
-        A Singpass Foreign user Account can be issued by different organisations, such as IRAS. However, this account is only valid for accessing the digital services of the specific organisation that issued it to you.
+        A Singpass Foreign Account can be issued by different organisations, such as IRAS. However, this account is only valid for accessing the digital services of the specific organisation that issued it to you.
 
 
-        If you already have a Singpass Foreign user Account ID issued by another organisation and you want to access GoBusiness' digital services for licensing matters, please ensure that the following details in your registration match your current account:
+        If you already have a Singpass Foreign Account ID issued by another organisation and you want to access GoBusiness' digital services for licensing matters, please ensure that the following details in your registration match your current account:
 
         - Name
         - Email Address
@@ -36,26 +32,29 @@
 - accordion:
   letter: b
   data:
-    - title: What is the purpose of the Singpass Foreign user Account for Individuals?
+    - title: What is the purpose of the Singpass Foreign Account for Individuals?
       content: |  
-        The Singpass Foreign user Account (SFA) enables foreign users to engage with specific government digital services in Singapore, including accessing digital services on the GoBusiness Dashboard.
+        The Singpass Foreign Account (SFA) enables foreign users to engage with specific government digital services in Singapore, including accessing digital services on the GoBusiness Dashboard.
 
-        It's important to activate the new Singpass Foreign user Account within 30 days from the date of issuance. Failure to take action within this period will result in the termination of the account.
-    - title: Who is eligible to apply for a Singpass for Foreign User Account?
+        It's important to activate the new Singpass Foreign Account within 30 days from the date of issuance. Failure to take action within this period will result in the termination of the account.
+    - title: Who is eligible to apply for a Singpass Foreign Account?
       content: |  
         Foreign individuals who do not have a Singapore Government-issued ID will be eligible to apply for a Singpass for Foreign user Account with GoBusiness, if you need to transact with us digitally for Individual licences.
-    - title: How do I reset my Singpass Foreign user Account password?
+    - title: How do I reset my Singpass Foreign Account password?
       content: |  
-       To reset your SFA password, visit the [Singpass' Request for New Password (Foreigner)](https://www.singpass.gov.sg/home/ui/online-reset-password/sfa){:target="_blank"}{:rel="noopener"} page. For additional assistance or inquiries, please contact Singpass.
-    - title: How can I access the GoBusiness Dashboard as a Singpass Foreign user Account (Individual) user?
+        Singpass Foreign Account (SFA) no longer comes with password. You may want to setup or re-setup Singpass app to continue to use your SFA. To setup Singpass app for SFA, visit the <a href="https://ask.gov.sg/singpass/questions/clyfiyeh10005aordl6ytepuw" target="_blank" rel="noopener">SINGPASS | How do I set up Singpass app as a Singpass Foreign Account (SFA)?</a>
+
+        For additional assistance or inquiries, please contact [Singpass](https://www.singpass.gov.sg/main/contact/){:target="_blank"}{:rel="noopener"}.
+
+    - title: How can I access the GoBusiness Dashboard as a Singpass Foreign Account (Individual) user?
       content: |  
-        As a Singpass Foreign user Account (Individual) user, follow these steps to access the GoBusiness Dashboard:
+        As a Singpass Foreign Account (Individual) user, follow these steps to access the GoBusiness Dashboard:
  
         Step 1: Click on the Log In button located at the top right-hand corner of the screen.
 
         Step 2: Choose to log in as an Individual User or Business User.
         
-        Step 3: Sign in with your Singpass account to gain access to the GoBusiness Dashboard.
+        Step 3: Sign in with your Singpass Foreign account to gain access to the GoBusiness Dashboard.
 
 - accordion:
   letter: c
@@ -81,21 +80,21 @@
 - accordion:
   letter: e
   data:
-    - title: How can I manage my Singpass Foreign user Account access to GoBusiness?
+    - title: How can I manage my Singpass Foreign Account access to GoBusiness?
       content: |  
         Once registered with GoBusiness, you can log in. For further assistance, please contact us.
 
-        You can also modify the details of your Singpass Foreign user Account within the ["My Account"](https://dashboard.gobusiness.gov.sg/profile) page on GoBusiness.
+        You can also modify the details of your Singpass Foreign Account within the ["My Account"](https://dashboard.gobusiness.gov.sg/profile) page on GoBusiness.
 
-        To deactivate your Singpass Foreign user Account on GoBusiness, kindly reach out to your licensing agency for support. Furthermore, please note that your account will be terminated after 2 years of inactivity.
-    - title: How can I edit the details of my Singpass Foreign user Account?
+        To deactivate your Singpass Foreign Account on GoBusiness, kindly reach out to your licensing agency for support. Furthermore, please note that your account will be terminated after 2 years of inactivity.
+    - title: How can I edit the details of my Singpass Foreign Account?
       content: |  
         Click on the account menu at the top right corner, and select [My Account](https://dashboard.gobusiness.gov.sg/profile).
  
         Sections that you can edit will be indicated by an Edit Details button.
     - title: What details can I edit on My Account?
       content: |  
-        Any modifications made in your account will also be reflected in your Singpass for Foreign user Account. You can edit the following details:
+        Any modifications made in your account will also be reflected in your Singpass Foreign Account. You can edit the following details:
 
         You will be able to edit your:
         - Salutation

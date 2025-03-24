@@ -22,7 +22,7 @@ We take a highly analytical approach to solving our clients' problems, taking th
 
 <b>Website:</b> <a href='https://www.lek.com'>https://www.lek.com</a>
 
-<a class='btn' href='https://form.gov.sg/645d80cdf8f6650012eccda2' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67ceac89a85399bf2baaff99' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1b-ipgrow-company-profile %}
 
@@ -119,6 +119,6 @@ We take a highly analytical approach to solving our clients' problems, taking th
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/645d80cdf8f6650012eccda2' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67ceac89a85399bf2baaff99' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 11 April 2024

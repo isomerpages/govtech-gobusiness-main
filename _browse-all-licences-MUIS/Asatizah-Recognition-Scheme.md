@@ -6,17 +6,17 @@ third_nav_title: Majlis Ugama Islam Singapura (MUIS)
 
 ## Apply for Asatizah Recognition Scheme
 
-Majlis Ugama Islam Singapura (MUIS)
+Majlis Ugama Islam Singapura (Muis)
 
 {% include spcp-text.html type="sp" %}
 
 {% include licence-apply-button.html %}
-<a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=235" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>
-<div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-size: 18px; color: #313840;">
+<a class="btn" id = "desktopNotice" href="https://ilm-tms.muis.gov.sg/" target="_blank" rel="noopener">Apply on MUIS</a>
+<div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-size: 18px; color: #313840;"> -->
 <img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;">
 <span style="font-weight: bold; font-family: hknova-bold; font-size: 18px; ">Please use desktop / laptop to apply for this licence.</span><br>
 <span style="font-family: hknova-regular;">You can only view application details and make payment via mobile. Please use GoBusiness Licensing on desktop to use all features.</span><br><br>
-<a id="mobileNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=235" target="_blank" rel="noopener">Continue to GoBusiness Licencing anyway</a>
+<a id="mobileNotice" href="https://ilm-tms.muis.gov.sg/" target="_blank" rel="noopener">Continue to MUIS anyway</a>
 </div>
 
 <H3>Application Details</H3>
@@ -27,7 +27,7 @@ Majlis Ugama Islam Singapura (MUIS)
 <li><strong>What constitutes Islamic teaching?</strong><br />Islamic teaching refers to the provision of Islamic instruction in any subject or field in an IECP to one or more persons who are not his or her family member or members. A "family member" here refers to one's spouse, children, parents, in-laws, siblings, or any other individual who is related by blood or marriage and is living in the same household as the person.<br /><br /></li>
 <li><strong>Who does ARS apply to?</strong><br />ARS applies to everyone teaching Islam in Singapore. This includes Singapore residents, Permanent Residents as well as those on Employment Pass for religious teaching and persons on Long-Term Visit Pass from the Immigration & Checkpoints Authority (ICA).<br />ARS is not applicable to foreign religious speakers as they are regulated under a different permit scheme known as the Miscellaneous Work Pass (MWP) issued by the Ministry of Manpower (MOM). Local sponsors of such religious speakers should ensure that the speakers possess formal religious qualifications before applying for the MWP.<br /><br /></li>
 <li><strong>What are the requirements to qualify for ARS?</strong><br />Every application will be considered on the following basis:<br />a. The applicant is satisfactorily trained to teach at an Islamic education centre (based on the qualifications in the criteria table below); and<br />b. The applicant is a fit and proper* person to teach at an Islamic education centre.<br />* In considering whether a person is fit or proper to teach, the following will be taken into account -<br />i. any conviction for any offence involving dishonesty, moral turpitude, violence or harm to children<br />ii. prior suspension or cancellation of ARS<br />iii. any behaviour of the person that does not satisfy a standard of behaviour generally expected of a teacher at an IECP, or is otherwise disgraceful or improper<br />Note: For graduates of Islamic studies from foreign institutions, they are required to attend the Certificate in Islamic Context programme run by Muis Academy as part of a full recognition under the ARS.<br /><br /></li>
-<li><strong>How do I register</strong><br />Application to be registered under ARS can be made via <a href="https://licence1.business.gov.sg/">https://licence1.business.gov.sg/</a><br /><br /></li>
+<li><strong>How do I register</strong><br />Application to be registered under ARS can be made via <a href="https://ilm-tms.muis.gov.sg/">https://ilm-tms.muis.gov.sg/</a><br /><br /></li>
 <li><strong>What is the mandatory Asatizah Recognition scheme (ARS)?</strong><br />Under Section 87 of the Administration Muslim Law Act (AMLA) requires:<br />(1) any individual teaching Islam in Singapore, and<br />(2) any provider that offers Islamic education<br />To be registered and regulated.<br />The Muslim Religious School rules under Section 87 of Administration of Muslim Law Act (AMLA) covers the following:<br />a. Requiring the registration of asatizah under the ARS.<br />b. Suspending or cancelling the ARS status of asatizah who propagates misguided views and doctrines<br />Requiring the registration of Islamic Education Centres and Providers acting against errant centres or providers that employ non-ARS religious teachers to teach or which uses curriculum that contravenes the doctrinal parameters of the ARS Code of Ethics.<br /><br /></li>
 <li><strong>What is continuous Professional Education (CPE)?</strong><br />Continuous Professional Education (CPE) is a training scheme to enhance the professionalism of ARS Asatizah. ARS Asatizah will need to fulfil a minimum number of credit hours within three years through participation in recognised professional development programmes, in order for their ARS recognition to be renewed.<br /><br /></li>
 <li><strong>What is the CPE requirements?</strong><br />The CPE requirements vary according to the two tiers - Islamic Teacher (Asatizah) or Quranic Teacher.<br />a. Islamic Teacher : 30 CPE credit hours in three years Quranic Teacher : 10 CPE credit hours in three years<br /><br /></li>

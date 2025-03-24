@@ -9,15 +9,19 @@ Alpha & Omega sets itself apart by being a Singapore law firm with a complete fo
 
 <b>Year established in Singapore:</b> 2003
 
-<b>Top focus areas for IA/IP services:</b> Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Contract Drafting, IP Training
+<b>Top focus areas for IA/IP services:</b> Registered Design Agent Service, Trade Mark Agent Service, Patent Agent Service, IP Training, Contract Drafting
+
+<b>Intellectual property awards received:</b> The Straits Times - Singapore's Best Law Firms 2024
 
 <b>Type of organization:</b> SME
 
-<b>Address in Singapore:</b> 51 Goldhill Plaza, #16-10/11, Singapore 308900
+<b>Address in Singapore:</b> 51 Goldhill Plaza, #07-04, Singapore 308900
 
 <b>Website:</b> <a href='https://www.alphaandomega.com.sg'>https://www.alphaandomega.com.sg</a>
 
-<a class='btn' href='https://form.gov.sg/643f4c8bd1a2d80012eef672' target='_blank' rel='noopener'>Get in touch</a>
+<b>Offer:</b> IP Business Clinic participating service provider; SIPDA participating service provider
+
+<a class='btn' href='https://form.gov.sg/67d7d4fbdad03a86296185d9' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -68,7 +72,7 @@ Alpha & Omega sets itself apart by being a Singapore law firm with a complete fo
 **IP Due Diligence Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects on database in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 0</li>
@@ -101,7 +105,7 @@ Alpha & Omega sets itself apart by being a Singapore law firm with a complete fo
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of courses completed in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts overseas: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $400</li>
 </ul>
 
@@ -203,6 +207,6 @@ Alpha & Omega sets itself apart by being a Singapore law firm with a complete fo
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/643f4c8bd1a2d80012eef672' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7d4fbdad03a86296185d9' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 23 August 2023
+Profile last updated on 30 July 2024

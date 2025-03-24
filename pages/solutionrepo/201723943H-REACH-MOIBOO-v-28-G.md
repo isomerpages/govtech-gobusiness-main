@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/201723943H-REACH-MOIBOO-v-
 
 **Description**
 
-Reach Moiboo is a Cloud Based ERP Software that helps businesses automate key function from Sales, Billing, Inventory and Accounting - enable businesses to grow faster with increase in productivity. The solution is ideal for Retailers, Restaurants, Workshops, Auto Dealers, Auto Rental Companies, Wholesalers and Service Providers.
+Reach Moiboo is a cloud-based ERP software that helps businesses automate key functions including sales, billing, inventory and accounting. The solution is designed for retailers, restaurants, workshops, auto dealers, auto rental companies, wholesalers and service providers, aiming to streamline operations and improve productivity
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,24 @@ Reach Moiboo is a Cloud Based ERP Software that helps businesses automate key fu
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan A (1 User)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan A - 1 User</td>
 <td style='padding: 10px;'>$5,400.00</td>
-<td style='padding: 10px;'>$5,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Reach_Moiboo_01082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$2,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/201723943H_20240284_13032025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan B (2 Users)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan B - 2 Users</td>
 <td style='padding: 10px;'>$10,800.00</td>
-<td style='padding: 10px;'>$10,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Reach_Moiboo_01082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/201723943H_20240284_13032025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan C (3 Users)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan C - 3 Users</td>
 <td style='padding: 10px;'>$16,200.00</td>
-<td style='padding: 10px;'>$11,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Reach_Moiboo_01082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$7,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/201723943H_20240284_13032025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +50,7 @@ Reach Moiboo is a Cloud Based ERP Software that helps businesses automate key fu
 
 ## Vendor Information
 
- Company Name: Reach Process Outsourcing Pte Ltd<br>Web URL: www.moiboo.com <br>Contact Hotline: 98951817 <br>Contact Email: helpdesk@moiboo.com <br>
+ Company Name: REACH PROCESS OUTSOURCING PTE. LTD.<br>Web URL: www.moiboo.com<br>Contact Hotline: 98951817 <br>Contact Email: helpdesk@moiboo.com<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

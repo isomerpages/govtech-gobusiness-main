@@ -4,6 +4,9 @@ accordion:
       You need a [Corppass account](https://www.Corppass.gov.sg/cpauth/login/homepage?TAM_OP=login){:target="_blank"}{:rel="noopener"} to access Business Grants Portal. If your business doesn't have a Corppass administrator, [find out how](https://www.corppass.gov.sg/corppass/common/findoutmore){:target="_blank"}{:rel="noopener"}to appoint one.
 
       If you have a Corppass administrator, get them to create an account for you and assign an appropriate BGP e-Service role, so you can access the Portal.
+
+      <p style="color:blue;">From 4 Nov 2024, BGP's Corppass e-service will be renamed from "BGP" to "ApplyGov". This is an e-Service name change on Corppass and does not affect existing roles and access to BGP. For new BGP users, simply add the appropriate roles under "ApplyGov" e-Service.</p>
+
   - title: What are the Viewer, Preparer and Acceptor roles on the Business Grants Portal?
     content: |
       Access to the Business Grants Portal is split into different roles.
@@ -14,6 +17,27 @@ accordion:
       The relation between Corppass and BGP roles are as follows:
 
       ![Corppass bgp roles](/images/grow/Corppass-bgp-roles.png)
+
+  - title: (From 4 Nov 2024) How do I assign ApplyGov Corppass roles to access Business Grants Portal?
+    content: |
+      <b>Step 1:</b> Login to [Corppass](https://www.corppass.gov.sg/portal){:target="_blank"}{:rel="noopener"}. Under "e-Service Access" tab, select "Assign selected e-Services".
+      ![Corppass bgp roles](/images/grow/Corppass-bgp_1.jpg)
+
+      <b>Step 2:</b> Select relevant user account(s) to assign the e-Service(s). Click "Next".
+      ![Corppass bgp roles](/images/grow/Corppass-bgp_2.jpg)
+      
+      <b>Step 3:</b> To access BGP, select <b>"ApplyGov</b> e-Service under "Government Technology Agency of Singapore". Click "Next".
+      ![Corppass bgp roles](/images/grow/Corppass-bgp_3.jpg)
+      
+      <b>Step 4:</b> Under Role, select BGP Viewer, or BGP Preparer, or BGP Acceptor and indicate the authorisation effective and expiry dates. Click "Next".
+      ![Corppass bgp roles](/images/grow/Corppass-bgp_4.jpg)
+      
+      <b>Step 5:</b> Verify the request and click "Submit".
+      ![Corppass bgp roles](/images/grow/Corppass-bgp_5.jpg)
+      
+      <b>Step 6:</b> Your assigned user(s) will now be able to access BGP via Corppass login with the assigned roles.
+      ![Corppass bgp roles](/images/grow/Corppass-bgp_6.jpg)
+
   - title: Where can I find Corppass FAQs?
     content: |
       Please refer to the Corppass FAQs [here](https://www.corppass.gov.sg/corppass/common/faq){:target="_blank"}{:rel="noopener"}.

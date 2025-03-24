@@ -1,0 +1,6 @@
+collections:
+  browse-all-solutions-Marketing-and-Sales-Content-Generation:
+    output: true
+    order:
+      - back-to-all-psg-solutions.md
+      - Marketing-and-Sales-Content-Generation.md

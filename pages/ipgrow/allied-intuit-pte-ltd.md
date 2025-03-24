@@ -17,7 +17,9 @@ Allied Intuit Pte Ltd (Allied) is an Intellectual Property (IP) firm providing I
 
 <b>Website:</b> <a href='https://alliedintuit.com/'>https://alliedintuit.com/</a>
 
-<a class='btn' href='https://form.gov.sg/65f267e57f593ba17897e365' target='_blank' rel='noopener'>Get in touch</a>
+<b>Offer:</b> IP Business Clinic participating service provider
+
+<a class='btn' href='https://form.gov.sg/67d7e4b1db6c1670b5a9a425' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -130,6 +132,7 @@ Allied Intuit Pte Ltd (Allied) is an Intellectual Property (IP) firm providing I
 ### Key practice experts
 
 **Charlie, Sim**
+
 - Job Title: Patent Attorney
 - Years of Experience: 23 years
 - Location: Singapore
@@ -139,6 +142,6 @@ Allied Intuit Pte Ltd (Allied) is an Intellectual Property (IP) firm providing I
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/65f267e57f593ba17897e365' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7e4b1db6c1670b5a9a425' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 27 March 2024
+Profile last updated on 26 February 2025

@@ -4,5 +4,9 @@ collections:
     order:
       - back-to-all-psg-solutions.md
       - Managed-Detection-and-Response.md
-      - Unified-Threat-Management.md
+      - Backup.md
+      - Virus-Malware-Protection.md
       - Endpoint-Protection-Platform.md
+      - Unified-Threat-Management.md
+      - Integrated-Package.md
+      - Firewall.md

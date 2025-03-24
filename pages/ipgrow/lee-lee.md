@@ -26,7 +26,7 @@ Chambers 2023 describes Lee & Lee as having "strong reputation in litigation and
 
 <b>Offer:</b> Free first consultation (<30 minutes), if the firm is engaged.
 
-<a class='btn' href='https://form.gov.sg/643f93073b2d450011b0ab79' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cea777cdf17695deb3e903' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1b-ipgrow-company-profile %}
 
@@ -233,6 +233,6 @@ Chambers 2023 describes Lee & Lee as having "strong reputation in litigation and
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/643f93073b2d450011b0ab79' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cea777cdf17695deb3e903' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 18 June 2024

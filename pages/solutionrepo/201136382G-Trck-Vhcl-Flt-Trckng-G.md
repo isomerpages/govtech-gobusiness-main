@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/201136382G-Trck-Vhcl-Flt-T
 
 **Description**
 
-Solution is powered by CalAmp with more than 20 million products globally, awarded the ioT Evolution Product of the Year Award in 2020 & 2021. iTrack monitors the entire mobile workforce all from a single screen. View real-time asset locations, status, utilization & engine diagnostics. Set geofences and receive alerts when a vehicle departs or arrives at a job site. Monitor your fleet 24/7 in real-time, keep location records for up to 12 months with a tracking accuracy of up to 3 meters.
+iTrack fleet management software offers you a complete solution for monitoring and optimizing fleet operations. It enables near real-time tracking of vehicles, equipment, and drivers, providing fleet managers a unified view of asset locations, usage, and diagnostics. Key features include geofencing for location-based alerts, automated maintenance scheduling, and insights into driver behavior. Accessible on any device, iTrack supports remote management and enhances operational efficiency.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,38 @@ Solution is powered by CalAmp with more than 20 million products globally, award
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(Per Vehicle)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A Rental (Per Vehicle)</td>
+<td style='padding: 10px;'>$560.00</td>
+<td style='padding: 10px;'>$560.00</td>
+<td style='padding: 10px;'><a href='/images/psg/201136382G_20240100_30012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (Per Vehicle)</td>
 <td style='padding: 10px;'>$680.00</td>
 <td style='padding: 10px;'>$680.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pivotal_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201136382G_20240100_30012025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C with 1 Camera (Per Vehicle)</td>
+<td style='padding: 10px;'>$930.00</td>
+<td style='padding: 10px;'>$930.00</td>
+<td style='padding: 10px;'><a href='/images/psg/201136382G_20240100_30012025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D with 2 Cameras (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,090.00</td>
+<td style='padding: 10px;'>$1,090.00</td>
+<td style='padding: 10px;'><a href='/images/psg/201136382G_20240100_30012025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E with 5 Cameras (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,730.00</td>
+<td style='padding: 10px;'>$1,480.00</td>
+<td style='padding: 10px;'><a href='/images/psg/201136382G_20240100_30012025_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +64,7 @@ Solution is powered by CalAmp with more than 20 million products globally, award
 
 ## Vendor Information
 
- Company name:Pivotal Pte Ltd<br>Web URL: www.itrack.com.sg <br>Contact Hotline: 67276060 <br>Contact Email: sales@itrack.com.sg 
+ Company Name: PIVOTAL PRIVATE LIMITED<br>Web URL: www.itrack.com.sg <br>Contact Hotline: 67276060 <br>Contact Email: sales@itrack.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

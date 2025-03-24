@@ -9,7 +9,7 @@ Grant Thornton Singapore is a leading provider of audit, tax and advisory servic
 
 <b>Year established in Singapore:</b> 2014
 
-<b>Top focus areas for IA/IP services:</b> Tax Advisory (with IA/IP considerations), Valuation (with IA/IP considerations), Dispute Resolution
+<b>Top focus areas for IA/IP services:</b> Tax Advisory (with IA/IP considerations), Valuation (with IA/IP considerations)
 
 <b>Type of organization:</b> SME
 
@@ -17,23 +17,15 @@ Grant Thornton Singapore is a leading provider of audit, tax and advisory servic
 
 <b>Website:</b> <a href='https://www.grantthornton.sg/'>https://www.grantthornton.sg/</a>
 
-<a class='btn' href='https://form.gov.sg/6653e255bd207e36db9b8de8' target='_blank' rel='noopener'>Get in touch</a>
+<b>Offer:</b> IP Business Clinic participating service provider
+
+<a class='btn' href='https://form.gov.sg/67d7e6c3dad03a8629668768' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
 ---
 <a name='ip-related-service-areas'></a>
 ### IA/IP service areas
-
-**Dispute Resolution Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Less than $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of cases completed in previous calendar year: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $10,000</li>
-</ul>
 
 **Tax Advisory (with IA/IP considerations) Services**
 
@@ -84,7 +76,7 @@ Grant Thornton Singapore is a leading provider of audit, tax and advisory servic
 - Job Title: Partner, Head of Valuations
 - Years of Experience: 16 years
 - Location: Singapore
-- IA/IP-Related Expertise: Valuation (with IA/IP considerations), Dispute Resolution
+- IA/IP-Related Expertise: Valuation (with IA/IP considerations)
 - Certifications/Qualifications: International Certified Valuation Specialist (ICVS), Chartered Valuer & Appraiser (CVA), Singapore Chartered Accountant (CA), Institute of Singapore Chartered Accountants (ISCA), Accredited Mediator, Singapore International Mediation Institute (SIMI), Accredited Mediator, Singapore Mediation Centre (SMC)
 - URL of LinkedIn/Company Profile: <a href="https://www.grantthornton.sg/meet-our-people/josephine-hong/" target="_blank" rel="noopener">https://www.grantthornton.sg/meet-our-people/josephine-hong/</a>
 
@@ -128,6 +120,6 @@ Grant Thornton Singapore is a leading provider of audit, tax and advisory servic
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/6653e255bd207e36db9b8de8' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7e6c3dad03a8629668768' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 28 May 2024
+Profile last updated on 26 February 2025

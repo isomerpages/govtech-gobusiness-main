@@ -17,7 +17,7 @@ Deloitte Southeast Asia's Financial Advisory practice is a leading specialist in
 
 <b>Website:</b> <a href='https://www2.deloitte.com/sg/en/pages/financial-advisory/solutions/financial-advisory-services.html'>https://www2.deloitte.com/sg/en/pages/financial-advisory/solutions/financial-advisory-services.html</a>
 
-<a class='btn' href='https://form.gov.sg/6565ab82991ea30012d09901' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d004d49cd47ed14ea64603' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -150,19 +150,10 @@ Deloitte Southeast Asia's Financial Advisory practice is a leading specialist in
 - IA/IP-Related Expertise: IP Valuation, IP Strategy Consulting
 - Certifications/Qualifications: Fellow Chartered Accountant of the Chartered Accountants Australia and New Zealand, Chartered Accountant of the Institute of Singapore Chartered Accountants, Chartered Valuer & Appraiser of the Institute of Valuers and Appraisers Singapore, Chartered Accountant of the Malaysian Institute of Accountants
 - URL of LinkedIn/Company Profile: <a href="https://www2.deloitte.com/sg/en/profiles/lwoo.html" target="_blank" rel="noopener">https://www2.deloitte.com/sg/en/profiles/lwoo.html</a>
-
-**Michelle Tan**
-
-- Job Title: Partner, M&A Transaction Service, Technology & IP Advisory, Southeast Asia
-- Years of Experience: 20 years
-- Location: Singapore
-- IA/IP-Related Expertise: IP Intelligence and Search, IP Audit, IP Due Diligence, IP Strategy Consulting, IP Brokerage and Licensing
-- Certifications/Qualifications: RMC (Registered Management Consultant)
-- Awards/Accolades: Recognised as one of the world's leading 300 IP Strategists in 2019 to 2023 by the Intellectual Asset Management Publication
-- URL of LinkedIn/Company Profile: <a href="https://www2.deloitte.com/sg/en/profiles/michetan.html" target="_blank" rel="noopener">https://www2.deloitte.com/sg/en/profiles/michetan.html</a>  
+ 
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/6565ab82991ea30012d09901' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d004d49cd47ed14ea64603' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 22 January 2025

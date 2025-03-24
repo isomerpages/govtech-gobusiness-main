@@ -16,13 +16,13 @@ We lead with a dedication to quality and ethics, and are passionate about our cl
 
 <b>Type of organization:</b> SME
 
-<b>Address in Singapore:</b> 17, Upper Circular Road, #02-00, Singapore 058415
+<b>Address in Singapore:</b> 133 Cecil Street, #11-01A/B, Keck Seng Tower, Singapore 069535
 
 <b>Website:</b> <a href='https://www.excellencesg.com/'>https://www.excellencesg.com/</a>
 
 <b>Offer:</b> Free consultation and limited time offer of 10% off if you quote GOBUSINESS IP GROW
 
-<a class='btn' href='https://form.gov.sg/6549cfafefc1a10012eba045' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d00378c5e332e6d10d985f' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1a-ipgrow-company-profile %}
 
@@ -85,6 +85,6 @@ We lead with a dedication to quality and ethics, and are passionate about our cl
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/6549cfafefc1a10012eba045' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d00378c5e332e6d10d985f' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 13 March 2024
+Profile last updated on 2 October 2024

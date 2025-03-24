@@ -28,12 +28,16 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/198101076M-Frght-Mstr-v-82-G' target='_blank'>Freight Master Version 8.2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/202210012H-FR8Lbs-Modrn-Oprtng-Systm-G' target='_blank'>FR8Labs Modern Operating System</a><br></td>
+<td>FR8LABS PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/198101076M-Frght-Mstr-v-90-G' target='_blank'>Freight Master Version 9.0</a><br></td>
 <td>Innosys Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200103109D-SYSFREIGHT-v-1001-G' target='_blank'>SYSFREIGHT Version 10.01</a><br></td>
-<td>SYSMAGIC SOFTWARE SOLUTION PTE LTD</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200103109D-SysFrght-G' target='_blank'>SysFreight</a><br></td>
+<td>Sysmagic Software Solution Pte Ltd</td>
 </tr>
 </table>
 

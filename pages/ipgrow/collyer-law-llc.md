@@ -19,7 +19,7 @@ Collyer Law LLC is a boutique Singapore law firm founded and staffed by experien
 
 <b>Offer:</b> Book a free 30 min to 1 hour consultation with us.
 
-<a class='btn' href='https://form.gov.sg/6670e1f49fb163f0b89735fd' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d24de43446d825e1cc1be1' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1a-ipgrow-company-profile %}
 
@@ -171,7 +171,7 @@ Collyer Law LLC is a boutique Singapore law firm founded and staffed by experien
 - Location: Singapore
 - IA/IP-Related Expertise: IP Audit, Contract Drafting, IP Strategy Consulting, IP Due Diligence, IP Training
 - Certifications/Qualifications: General Course on Intellectual Property, WIPO
-- Awards and Accolades: "Deals of the Year 2023" India Business Law Journal, 2023, "Asia Super 50 TMT Lawyers" Asian Legal Business, 2023, "Firms to Watch" Legal 500, Start-up and Venture Capital, 2024, "Other Notable Firms" IFLR1000 APAC Rankings 2023, M&A, 2023, "Regional Firms To Watch" India Business Law Journal, 2023
+- Awards/Accolades: "Deals of the Year 2023" India Business Law Journal, 2023, "Asia Super 50 TMT Lawyers" Asian Legal Business, 2023, "Firms to Watch" Legal 500, Start-up and Venture Capital, 2024, "Other Notable Firms" IFLR1000 APAC Rankings 2023, M&A, 2023, "Regional Firms To Watch" India Business Law Journal, 2023
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/azmulhaque/" target="_blank" rel="noopener">https://www.linkedin.com/in/azmulhaque/</a>
 
 
@@ -187,6 +187,6 @@ Collyer Law LLC is a boutique Singapore law firm founded and staffed by experien
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/6670e1f49fb163f0b89735fd' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d24de43446d825e1cc1be1' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 18 June 2024

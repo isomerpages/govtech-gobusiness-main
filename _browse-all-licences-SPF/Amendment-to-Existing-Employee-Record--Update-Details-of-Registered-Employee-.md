@@ -14,5 +14,5 @@ Singapore Police Force (SPF)
 
 <H3>Application Details</H3>
 
-Under the Arms and Explosives Act 1913, an approval is required for any employee employed by a Licensed company to handle any Guns or  Explosives. 
+An approval is required for any employee employed by a Licensed company to handle any Guns or Explosives.
 

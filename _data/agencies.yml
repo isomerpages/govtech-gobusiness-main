@@ -47,7 +47,9 @@
 - title: Enterprise Singapore
   description: Call Centre - Rubber
   tel: +65 6898 1800
-  email: indriyanti_ismail@enterprisesg.gov.sg, vivian_sia@enterprisesg.gov.sg
+  url: go.gov.sg/askenterprisesg
+  url-new-tab: true
+  protocol: https
 
 - title: Housing & Development Board (HDB)
   description: For Commercial Properties Inquiry
@@ -190,8 +192,9 @@
 
 - title: Singapore Civil Defence Force (SCDF)
   description: Application for Temporary Change of Use Permit
-  tel: +65 6848 1483, +65 6848 1481
-  email: Veerasingam_MUTHUSAMY@scdf.gov.sg, TEO_Mei_Tin@scdf.gov.sg
+  url: www.scdf.gov.sg/home/feedback
+  url-new-tab: true
+  protocol: https
 
 - title: Singapore Food Agency (SFA)
   description: Contact Centre<br>(including Rice Licence)
@@ -203,7 +206,9 @@
 - title: Singapore Police Force (SPF)
   description: Business Contact
   tel: +65 6835 0000
-  email: SPF_Licensing_Feedback@spf.gov.sg
+  url: www.go.gov.sg/PLRD
+  url-new-tab: true
+  protocol: https
 
 - title: Singapore Police Force (SPF)
   description: Road Closure Permit for Events
@@ -224,9 +229,11 @@
   protocol: https
 
 - title: Urban Redevelopment Authority (URA)
-  description: Customer Service Hotline
+  description: Feedback and Enquiry Form
   tel: +65 6223 4811
-  email: ura_dcd@ura.gov.sg
+  url: www.ura.gov.sg/feedbackWeb/
+  url-new-tab: true
+  protocol: https
 
 - title: WorkForce Singapore (WSG)
   description: WSG Service Portal

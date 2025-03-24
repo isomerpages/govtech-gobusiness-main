@@ -19,7 +19,7 @@ Gateway works with individuals, entrepreneurs, small and medium enterprises, mul
 
 <b>Website:</b> <a href='https://gateway-law.com/'>https://gateway-law.com/</a>
 
-<a class='btn' href='https://form.gov.sg/6422622f4422e900124f2b0a' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67ce8b549c0dcb2dd91f02d4' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -207,6 +207,6 @@ Gateway works with individuals, entrepreneurs, small and medium enterprises, mul
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/6422622f4422e900124f2b0a' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67ce8b549c0dcb2dd91f02d4' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 23 August 2023

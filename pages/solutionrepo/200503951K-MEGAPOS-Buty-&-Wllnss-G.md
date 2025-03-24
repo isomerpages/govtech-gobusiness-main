@@ -9,8 +9,9 @@ permalink: /productivity-solutions-grant/solutionrepo/200503951K-MEGAPOS-Buty-&-
 
 **Description**
 
-MEGAPOS Beauty & Wellness management system is a powerful software that streamlines the selling and tracking of products, services & courses. It manages customers, staffs and appointments for the beauty & wellness industry such as hair salons, spas, massage centers, TCM clinics, etc.
-Designed and developed in Singapore, MEGAPOS Beauty & Wellness comes with sleek hardware, easy-to-use software, and responsive after-sales service. It is a cost-effective solution that can be used for long term.
+MEGAPOS Beauty & Wellness is a powerful management system tailored for hair salons, spas, massage centers, TCM clinics, and more. It streamlines the selling and tracking of products, services, and courses while managing customers, staff, and appointments.
+
+Proudly designed in Singapore, it offers sleek hardware, user-friendly software, and reliable after-sales support-delivering a cost-effective, long-term solution for the beauty and wellness industry.
 
 ## Solution Packages Option(s)
 
@@ -24,48 +25,48 @@ Designed and developed in Singapore, MEGAPOS Beauty & Wellness comes with sleek 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BASIC</td>
-<td style='padding: 10px;'>$2,580.00</td>
-<td style='padding: 10px;'>$2,580.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_Megapos_01012024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter</td>
+<td style='padding: 10px;'>$5,180.00</td>
+<td style='padding: 10px;'>$5,180.00</td>
+<td style='padding: 10px;'><a href='/images/psg/200503951K_20240166_30012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>STANDARD</td>
-<td style='padding: 10px;'>$5,680.00</td>
-<td style='padding: 10px;'>$5,680.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_Megapos_01012024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Regular</td>
+<td style='padding: 10px;'>$6,780.00</td>
+<td style='padding: 10px;'>$6,780.00</td>
+<td style='padding: 10px;'><a href='/images/psg/200503951K_20240166_30012025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>GROW</td>
-<td style='padding: 10px;'>$6,380.00</td>
-<td style='padding: 10px;'>$6,380.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_Megapos_01012024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advance</td>
+<td style='padding: 10px;'>$7,980.00</td>
+<td style='padding: 10px;'>$7,980.00</td>
+<td style='padding: 10px;'><a href='/images/psg/200503951K_20240166_30012025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>GROW+</td>
-<td style='padding: 10px;'>$9,880.00</td>
-<td style='padding: 10px;'>$9,880.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_Megapos_01012024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pro+</td>
+<td style='padding: 10px;'>$9,980.00</td>
+<td style='padding: 10px;'>$9,980.00</td>
+<td style='padding: 10px;'><a href='/images/psg/200503951K_20240166_30012025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>GROW+ MAX</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pro+ Max</td>
 <td style='padding: 10px;'>$13,360.00</td>
 <td style='padding: 10px;'>$13,360.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_Megapos_01012024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/200503951K_20240166_30012025_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:Megasafe Technology Pte Ltd<br>Web URL: www.megapos.com.sg <br>Contact Hotline: 62245788 <br>Contact Email: sales@megasafe.com.sg 
+ Company Name:Megasafe Technology Pte. Ltd.<br>Web URL: www.megapos.com.sg <br>Contact Hotline: 62245788 <br>Contact Email: sales@megasafe.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

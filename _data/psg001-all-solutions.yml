@@ -5,11 +5,12 @@
       content: |
         
         **IT Solution**
-        - <a href='/browse-all-solutions-Accountancy/Corporate-Secretariat-Management'>Corporate Secretariat Management</a>
-        - <a href='/browse-all-solutions-Accountancy/External-Audit-Management'>External Audit Management</a>
+        - <a href='/browse-all-solutions-Accountancy/Taxation-Management'>Taxation Management</a>
         - <a href='/browse-all-solutions-Accountancy/Practice-Management-System'>Practice Management System</a>
         - <a href='/browse-all-solutions-Accountancy/External-Audit-Management-[Audit-Confirmation]'>External Audit Management [Audit Confirmation]</a>
-        - <a href='/browse-all-solutions-Accountancy/Taxation-Management'>Taxation Management</a>
+        - <a href='/browse-all-solutions-Accountancy/External-Audit-Management'>External Audit Management</a>
+        - <a href='/browse-all-solutions-Accountancy/Data-Analytics-Tools'>Data Analytics Tools</a>
+        - <a href='/browse-all-solutions-Accountancy/Corporate-Secretariat-Management'>Corporate Secretariat Management</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Advanced Manufacturing
@@ -17,34 +18,36 @@
         
         **IT Solution**
         - <a href='/browse-all-solutions-Advanced-Manufacturing/Computer-aided-design-Computer-aided-manufacturing--CAD-CAM-'>Computer-aided design & Computer-aided manufacturing (CAD/CAM)</a>
-        
+        - <a href='/browse-all-solutions-Advanced-Manufacturing/Machining-Dynamics-for-Milling-Turning'>Machining Dynamics for Milling/Turning</a>
+
+
         **Equipment**
         - <a href='/browse-all-solutions-Advanced-Manufacturing/General-Advanced-Manufacturing-Equipment'>General Advanced Manufacturing Equipment</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
-    - title: Building & Construction
+    - title: Built Environment 
       content: |
         
         **For more information, please refer to [BCA's PSG website](https://www1.bca.gov.sg/buildsg/buildsg-transformation-fund/productivity-solutions-grant){:target="_blank"}{:rel="noopener"}.**
         
         **IT Solution**
-        - <a href='/browse-all-solutions-Building-Construction/e-Permit-to-work--e-PTW-'>e-Permit-to-work (e-PTW)</a>
-        - <a href='/browse-all-solutions-Building-Construction/Quantity-Surveying-and-Valuation'>Quantity Surveying and Valuation</a>
-        - <a href='/browse-all-solutions-Building-Construction/Coordination-Tools-and-Collaboration-Platform'>Coordination Tools and Collaboration Platform</a>
-        - <a href='/browse-all-solutions-Building-Construction/3D-Modelling--Immersive-Visualisation-Analysis'>3D Modelling, Immersive Visualisation & Analysis</a>
-        - <a href='/browse-all-solutions-Building-Construction/FM-Workflow-Automation'>FM Workflow Automation</a>
-        - <a href='/browse-all-solutions-Building-Construction/Integrated-and-Smart-Worksite-Monitoring-and-Inspection'>Integrated and Smart Worksite Monitoring and Inspection</a>
+        - <a href='/browse-all-solutions-Built-Environment/3D-Modelling--Immersive-Visualisation-Analysis'>3D Modelling, Immersive Visualisation & Analysis</a>
+        - <a href='/browse-all-solutions-Built-Environment/FM-Workflow-Automation'>FM Workflow Automation</a>
+        - <a href='/browse-all-solutions-Built-Environment/Quantity-Surveying-and-Valuation'>Quantity Surveying and Valuation</a>
+        - <a href='/browse-all-solutions-Built-Environment/Smart-Inspection-and-Management---e-PTW'>Smart Inspection and Management - e-PTW</a>
+        - <a href='/browse-all-solutions-Built-Environment/Smart-Inspection-and-Management---Integrated-and-Smart-Worksite-Monitoring-and-Inspection'>Smart Inspection and Management - Integrated and Smart Worksite Monitoring and Inspection</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Early Childhood
       content: |
         
         **IT Solution**
+        - <a href='/browse-all-solutions-Early-Childhood/Pre-School-Management-System-and-e-Enrolment-Forms-for-Preschools'>Pre-School Management System and e-Enrolment Forms for Preschools</a>
+        - <a href='/browse-all-solutions-Early-Childhood/Pre-School-Management-System'>Pre-School Management System</a>
         - <a href='/browse-all-solutions-Early-Childhood/E-enrolment-Form'>E-enrolment Form</a>
         - <a href='/browse-all-solutions-Early-Childhood/Data-Mining-Analytics-for-Preschools--Centre-Operations-and-Child-Development-'>Data Mining & Analytics for Preschools (Centre Operations and Child Development)</a>
-        - <a href='/browse-all-solutions-Early-Childhood/Pre-School-Management-System'>Pre-School Management System</a>
-        - <a href='/browse-all-solutions-Early-Childhood/Pre-School-Management-System-and-e-Enrolment-Forms-for-Preschools'>Pre-School Management System and e-Enrolment Forms for Preschools</a>
-
+        - <a href='/browse-all-solutions-Early-Childhood/Talent-Attraction-Platform'>Talent Attraction Platform</a>
+        
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Engineering Services
       content: |
@@ -54,6 +57,18 @@
         
         **Equipment**
         - <a href='/browse-all-solutions-Engineering-Services/General-Engineering-Services-Equipment'>General Engineering Services Equipment</a>
+
+        View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
+    - title: Environmental Services
+      content: |
+        
+        **IT/Digital Solution**
+        - To be updated when ready
+
+        **Equipment**
+        - <a href='/browse-all-solutions-Environmental-Services/Cleaning'>Cleaning</a>
+        - <a href='/browse-all-solutions-Environmental-Services/Pest-Management'>Pest Management</a>
+        - <a href='/browse-all-solutions-Environmental-Services/Waste-Management'>Waste Management</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Estate Agency
@@ -81,8 +96,8 @@
       content: |
         
         **IT Solution**
-        - <a href='/browse-all-solutions-Food-Services/B2B-Marketplace-E-Procurement-System'>B2B Marketplace/E-Procurement System</a>
         - <a href='/browse-all-solutions-Food-Services/Connected-Business-Suite'>Connected Business Suite</a>
+        - <a href='/browse-all-solutions-Food-Services/e-Procurement'>e-Procurement</a>
         
         **Equipment**
         - <a href='/browse-all-solutions-Food-Services/General-Food-Services-Equipment'>General Food Services Equipment</a>
@@ -102,6 +117,7 @@
         - <a href='/browse-all-solutions-Legal/Practice-Management-System'>Practice Management System</a>
         - <a href='/browse-all-solutions-Legal/Matter-Management-and-Collaboration-Tool'>Matter Management and Collaboration Tool</a>
         - <a href='/browse-all-solutions-Legal/Document-Management-System'>Document Management System</a>
+        - <a href='/browse-all-solutions-Legal/Risk-Assessment-Solution--KYC-AML-'>Risk Assessment Solution (KYC AML)</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Logistics
@@ -109,6 +125,7 @@
         
         **IT Solution**
         - <a href='/browse-all-solutions-Logistics/Freight-Management'>Freight Management</a>
+        - <a href='/browse-all-solutions-Logistics/Warehouse-Management'>Warehouse Management</a>
         - <a href='/browse-all-solutions-Logistics/Transport-Management'>Transport Management</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
@@ -158,8 +175,8 @@
       content: |
         
         **IT Solution**
-        - <a href='/browse-all-solutions-Wholesale-Trade/Sales-Management'>Sales Management</a>
         - <a href='/browse-all-solutions-Wholesale-Trade/Enterprise-Resource-Planning--ERP--Software-for-Wholesale'>Enterprise Resource Planning (ERP) Software for Wholesale</a>
+        - <a href='/browse-all-solutions-Wholesale-Trade/Sales-Management'>Sales Management</a>
         - <a href='/browse-all-solutions-Wholesale-Trade/Inventory-Management-System'>Inventory Management System</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
@@ -168,9 +185,9 @@
   data:
     - title: Human Resource Solutions
       content: |
-        - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-Management-System--HRMS-'>Human Resource Management System (HRMS)</a>
-        - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-E-scheduling-System'>Human Resource E-scheduling System</a>
         - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-Shared-Services--HRSS--Needs-Analysis--HR-Administrative-Support-Payroll-Processing-via-a-HRMS'>Human Resource Shared Services (HRSS) Needs Analysis, HR Administrative Support & Payroll Processing via a HRMS</a>
+        - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-Management-System--HRMS-'>Human Resource Management System (HRMS)</a>
+        - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-E-Scheduling-System'>Human Resource E-Scheduling System</a>
         - <a href='/browse-all-solutions-Human-Resource-Solutions/Applicant-Sourcing-and-Tracking-System'>Applicant Sourcing and Tracking System</a>
     - title: ERP and Standalone solutions
       content: |
@@ -232,7 +249,6 @@
         <br>
     - title: Fleet Safety and Fleet Management System
       content: |
-        - <a href='/browse-all-solutions-Fleet-Safety-and-Fleet-Management-System/Fleet-Safety-Management-System'>Fleet Safety Management System</a>
         - <a href='/browse-all-solutions-Fleet-Safety-and-Fleet-Management-System/Fleet-Management-System'>Fleet Management System</a>
     - title: Document Management and Mobile Access System
       content: |
@@ -243,11 +259,82 @@
     - title: E-Commerce solutions
       content: |
         - <a href='/browse-all-solutions-E-Commerce-solutions/E-Commerce---Online-Shop--B2C-'>E-Commerce - Online Shop (B2C)</a>
+        - <a href='/browse-all-solutions-E-Commerce-solutions/Multichannel-E-Commerce-Software'>Multichannel E-Commerce Software</a>
     - title: Cyber Security solutions
       content: |
-        - <a href='/browse-all-solutions-Cyber-Security-solutions/Managed-Detection-and-Response'>Managed Detection and Response</a>
-        - <a href='/browse-all-solutions-Cyber-Security-solutions/Unified-Threat-Management'>Unified Threat Management</a>
-        - <a href='/browse-all-solutions-Cyber-Security-solutions/Endpoint-Protection-Platform'>Endpoint Protection Platform</a>
+        <b>Cyber Essentials Ready Solutions</b><br>
+        <p>These are the refreshed solutions launched in Oct 2024 to help enterprises be <a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-scheme-for-organisation/cyber-essentials">Cyber Essentials Ready</a>. Enterprises are encouraged to adopt the integrated package for a more comprehensive coverage and to better meet the Cyber Essentials requirements.</p>
+        <table>
+        <tr>
+        <th></th>
+        <th><b>Assets</b></th>
+        <th><b>Secure/Protect</b></th>
+        <th><b>Update</b></th>
+        <th><b>Backup</b></th>
+        <th><b>Respond</b></th>
+        <th><b>Solutions</b></th>
+        </tr>
+        <tr>
+        <td>Integrated Package</td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg" alt="Checked"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg" alt="Checked"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
+        <td><a href="/browse-all-solutions-Cyber-Security-solutions/Integrated-Package">View</a></td>
+        </tr>
+        <tr>
+        <td>Virus/Malware Protection</td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg" alt="Checked"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
+        <td><a href="/browse-all-solutions-Cyber-Security-solutions/Virus-Malware-Protection">View</a></td>
+        </tr>
+        <tr>
+        <td>Firewall</td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg" alt="Checked"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
+        <td><a href='/browse-all-solutions-Cyber-Security-solutions/Firewall'>View</a></td>
+        </tr>
+        <tr>
+        <td>Backup</td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg" alt="Checked"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/blank.png" alt="Blank"></td>
+        <td><a href='/browse-all-solutions-Cyber-Security-solutions/Backup'>View</a></td>
+        </tr>
+        </table>
+        <small>SMEs are eligible to adopt a total of <b>one</b> solution across the Cyber Essentials Ready sub-categories.</small>
+        <br>
+        <b>Other Solutions</b><br>
+        <p>These solution categories will be phased out by 30 June 2025.</p>
+        <table>
+        <tr>
+        <td>Managed Detection and Response</td>
+        <td><a href="/browse-all-solutions-Cyber-Security-solutions/Managed-Detection-and-Response">View</a></td>
+        </tr>
+        <tr>
+        <td>Unified Threat Management</td>
+        <td><a href="/browse-all-solutions-Cyber-Security-solutions/Unified-Threat-Management">View</a></td>
+        </tr>
+        <tr>
+        <td>Endpoint Protection Platform</td>
+        <td><a href="/browse-all-solutions-Cyber-Security-solutions/Endpoint-Protection-Platform">View</a></td>
+        </tr>
+        </table>
+    - title: Chatbots for Customer Engagement
+      content: |
+        - <a href='/browse-all-solutions-Chatbots-for-Customer-Engagement/Chatbots-for-Customer-Engagement'>Chatbots for Customer Engagement</a>
+    - title: Marketing and Sales Content Generation
+      content: |
+        - <a href='/browse-all-solutions-Marketing-and-Sales-Content-Generation/Marketing-and-Sales-Content-Generation'>Marketing and Sales Content Generation</a>
 - accordion:
   letter: c
   data:

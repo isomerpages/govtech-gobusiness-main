@@ -44,12 +44,12 @@ If your business entity wishes to engage in import, export and/or transhipment a
     </td>
     </tr>
     <tr>
-    <td><a href='https://form.gov.sg/5cac414bd5e3800010c7ac68' target='_blank'>Application for Customs Ruling on HS Classification of Goods</a></td>
+    <td><a href='https://go.gov.sg/customsruling' target='_blank'>Application for Customs Ruling on HS Classification of Goods</a></td>
     <td>If you are unsure about your HS classification of goods and would like to seek advice from Customs, you can submit an application for a fee of S$75.
     </td>
     </tr>
     <tr>
-    <td><a href='https://www.customs.gov.sg/files/businesses/PSB/TN%20Team/annex-e-ca-helpdesk-list.pdf' target='_blank'>Contact List for Competent Authorities (PDF, 142 KB)</a></td>
+    <td><a href='https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do' target='_blank'>Contact List for Competent Authorities (PDF, 142 KB)</a></td>
     <td>If your goods are controlled, contact the relevant CAs to learn more.
     </td>
     </tr>

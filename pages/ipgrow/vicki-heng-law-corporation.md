@@ -17,7 +17,7 @@ Vicki Heng Law Corporation was established in 2013 as a solo boutique intellectu
 
 <b>Website:</b> <a href='https://www.vickiheng.com/'>https://www.vickiheng.com/</a>
 
-<a class='btn' href='https://form.gov.sg/65eeb0744d5246341e3b11ae' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d2416fb0058db04bcc0822' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -104,6 +104,7 @@ Vicki Heng Law Corporation was established in 2013 as a solo boutique intellectu
 ### Key practice experts
 
 **Vicki Su Lin Hen**
+
 - Job Title: Managing Director
 - Years of Experience: 25 years
 - Location: Singapore
@@ -114,6 +115,6 @@ Vicki Heng Law Corporation was established in 2013 as a solo boutique intellectu
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/65eeb0744d5246341e3b11ae' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d2416fb0058db04bcc0822' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 13 March 2024

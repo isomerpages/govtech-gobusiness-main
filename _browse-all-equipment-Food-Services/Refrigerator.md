@@ -7,11 +7,15 @@ permalink: /browse-all-equipment-Food-Services/Refrigerator
 
 ### Technical Requirements
 
-- Household refrigerator: Minimum 3-ticks and using refrigerant with GWP ≤ 15
+- Household refrigerator: Minimum 3- ticks
+- Commercial refrigerator: Invertor technology
 
-- Commercial refrigerator: Inverter technology
+Note: From 1st April 2025, MEPS/MELS will be implemented for commercial storage refrigerators.
 
-Note: From 1st April 2025,  MEPS/MEPS to be implemented for commercial storage refrigerators. The technical criteria will be reviewed in 4Q2024.
+The technical criteria will be updated to:
+- Household refrigerator: Minimum 3- ticks
+- Regulated commercial storage refrigerators: Minimum 4-ticks, and
+- All other commercial refrigerators: inverter technology
 
 ### Mode and Schedule of Payment 
 
@@ -27,35 +31,24 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 
 ### Pre-Approved Equipment Brands and Models
 
-
 - ACAL - ACAL-126FG
 - ACAL - ACAL-127FG
 - ACAL - ACAL-156FG
 - ACAL - ACAL-157FG
 - ACAL - ACAL-2UFG
 - ACAL - ACAL-4UFG
-- A-COOL - 260
-- A-COOL - 2DB
-- A-COOL - 2DBB
-- A-COOL - 2DT
-- A-COOL - 2DTF
-- A-COOL - 2DTT
-- A-COOL - 2SDBB
-- A-COOL - 370
-- A-COOL - 3DB
-- A-COOL - 3DBB
-- A-COOL - 3DT
-- A-COOL - 3DTF
-- A-COOL - 430L
-- A-COOL - 4DT
-- A-COOL - 4DTF
-- A-COOL - 530
-- A-COOL - SCPI-1220CH20
-- A-COOL - SCPI-1830CH20
-- A-COOL - SCPI-915CH20
-- A-COOL - SDW-200
-- A-COOL - SIVMC-6
-- A-COOL - SIVMC-8
+- ALAN - A-CAKE-120-3-A-IV
+- ALAN - A-CAKE-120-4-A-IV
+- ALAN - A-CAKE-150-3-A-IV
+- ALAN - A-CAKE-150-4-A-IV
+- ALAN - A-CAKE-180-3-A-IV
+- ALAN - A-CAKE-180-4-A-IV
+- ALAN - A-CAKE-90-3-A-IV
+- ALAN - A-CAKE-90-4-A-IV
+- ALAN - A-Glass-Chiller-02D-UR-A-IV
+- ALAN - A-Glass-Chiller-03D-UR-A-IV
+- ALAN - A-Glass-Freezer-02D-UR-A-IV
+- ALAN - A-Glass-Freezer-03D-UR-A-IV
 - ARCTICOOL  - ED0.5F-2M
 - ARCTICOOL  - ED1.0F-4M
 - ARCTICOOL  - ED1200F
@@ -72,6 +65,55 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - ARCTICOOL  - EG1500F (600)
 - ARCTICOOL  - EG1800F
 - ARCTICOOL  - EG1800F (600)
+- Berjaya - 1DDC-IV-BB
+- Berjaya - 1DDC-IV-SB
+- Berjaya - 1DDC-IV-WB
+- Berjaya - 1DDF-IV-BB
+- Berjaya - 1DDF-IV-SB
+- Berjaya - 1DDF-IV-WB
+- Berjaya - 2DC4-IV-Z
+- Berjaya - 2DC5-IV-Z
+- Berjaya - 2DC6-IV-Z
+- Berjaya - 2DDC-IV-BB
+- Berjaya - 2DDC-IV-SB
+- Berjaya - 2DDC-IV-WB
+- Berjaya - 2DDF-IV-BB
+- Berjaya - 2DDF-IV-SB
+- Berjaya - 2DDF-IV-WB
+- Berjaya - 2DF4-IV-Z
+- Berjaya - 2DF5-IV-Z
+- Berjaya - 2DF6-IV-Z
+- Berjaya - 2DUC-IV-Z
+- Berjaya - 2DUF-IV-Z
+- Berjaya - 3DC7-IV-Z
+- Berjaya - 3DDC-IV-BB
+- Berjaya - 3DDC-IV-SB
+- Berjaya - 3DDC-IV-WB
+- Berjaya - 3DDF-IV-BB
+- Berjaya - 3DDF-IV-SB
+- Berjaya - 3DDF-IV-WB
+- Berjaya - 3DF7-IV-Z
+- Berjaya - 4DUC-IV-Z
+- Berjaya - 4DUF-IV-Z
+- Berjaya - 6DUC-IV-Z
+- Berjaya - 6DUF-IV-Z
+- Berjaya - B2DC4-IV-SM-7
+- Berjaya - B2DC4-IV-SS-7
+- Berjaya - B2DC5-IV-SM-7
+- Berjaya - B2DC5-IV-SS-7
+- Berjaya - B2DC6-IV-SM-7
+- Berjaya - B2DC6-IV-SS-7
+- Berjaya - B3DC7-IV-BD-7
+- Berjaya - B3DC7-IV-SM7
+- Berjaya - RS09C-IV-2T
+- Berjaya - RS09C-IV-3T
+- Berjaya - RS12C-IV-2T
+- Berjaya - RS12C-IV-3T
+- Berjaya - RS15C-IV-2T
+- Berjaya - RS15C-IV-3T
+- Berjaya - RS18C-IV-2T
+- Berjaya - RS18C-IV-3T
+- Berjaya - U2F2C-IV-Z
 - Bosch  - KFN96PX91I
 - Bosch  - KGN36XI46
 - Bosch  - KGN56LB40O
@@ -277,15 +319,73 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Daiwa - DKR-127-NF-EC
 - Daiwa - DKR-156-NF-EC
 - Daiwa - DKR-157-NF-EC
+- DANENG - DN-IAF0.5G
+- DANENG - DN-IAF1.0G2
+- DANENG - DN-IAF1.6G3
+- DANENG - DN-IAF2
+- DANENG - DN-IAF4
+- DANENG - DN-IAF6
+- DANENG - DN-IAR2
+- DANENG - DN-IAR4
+- DANENG - DN-IAR6
+- DANENG - DN-IARF2
+- DANENG - DN-IARF4
+- DANENG - DN-IAS0.5G
+- DANENG - DN-IAS1.0G2
+- DANENG - DN-IAS1.6G3
+- DANENG - DN-IASM-0.5
+- DANENG - DN-IASM-1.0
+- DANENG - DN-IASM-1.5
+- DANENG - DN-IAWF1260
+- DANENG - DN-IAWF1275
+- DANENG - DN-IAWF1560
+- DANENG - DN-IAWF1575
+- DANENG - DN-IAWF1860
+- DANENG - DN-IAWF1875
+- DANENG - DN-IAWF2160
+- DANENG - DN-IAWF2175
+- DANENG - DN-IAWFD-12
+- DANENG - DN-IAWFD-15
+- DANENG - DN-IAWFD-18
+- DANENG - DN-IAWR1260
+- DANENG - DN-IAWR1275
+- DANENG - DN-IAWR1560
+- DANENG - DN-IAWR1575
+- DANENG - DN-IAWR1860
+- DANENG - DN-IAWR1875
+- DANENG - DN-IAWR2160
+- DANENG - DN-IAWR2175
+- DANENG - DN-IAWRD-12
+- DANENG - DN-IAWRD-12L
+- DANENG - DN-IAWRD-15
+- DANENG - DN-IAWRD-15L
+- DANENG - DN-IAWRD-18
+- DANENG - DN-IAWRD-18L
+- DANENG - DN-IAWRF15
+- DANENG - DN-IAWRF18
 - De Dietrich - DFA179NXA
+- DN-IDS1200-C - DANENG - DN-IDS1200-C
+- DN-IDS1200-R - DANENG - DN-IDS1200-R
+- DN-IDS1500-C - DANENG - DN-IDS1500-C
+- DN-IDS1500-R - DANENG - DN-IDS1500-R
+- DN-IDS1800-R - DANENG - DN-IDS1800-R
+- DN-IDS900-C - DANENG - DN-IDS900-C
+- DN-IDS900-R - DANENG - DN-IDS900-R
 - EKO - EKO_INVCF_1288
 - EKO - EKO_INVCF_1588
 - EKO - EKO_INVCF_1888
+- EKO - EKO-INV4DUR-1282
+- EKO - INVCF-1268
+- EKO - INVCF-1568
+- EKO - INVCF-1868
 - Electrolux  - EHE5224-B-A
 - Electrolux - EBE4500B-A
 - Electrolux - EBE4500B-G
 - Electrolux - EBE4500B-H
 - Electrolux - EHE5224B-A
+- Electrolux - EQE4900B-B
+- Electrolux - ESE5101B-A
+- Electrolux - ESE6201B-B
 - Electrolux - ETB4600B-A
 - Electrolux - ETB4600B-G
 - Electrolux - ETB4600B-H
@@ -300,6 +400,10 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Euro-Chill - EC-CC15070K
 - Euro-Chill - EC-CC18070K
 - Euro-Chill - EC-CC9070K
+- Euro-Chill - EC-CF12070K
+- Euro-Chill - EC-CF15070K
+- Euro-Chill - EC-CF18070K
+- Euro-Chill - EC-CF9070K
 - Euro-Chill - EC-DCOD-1000SNM
 - Euro-Chill - EC-DCOD-1500SNM
 - Euro-Chill - EC-DFOD-1000SNM
@@ -331,9 +435,17 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Fisher & Paykel - RS6019S2R1
 - Fisher & Paykel - RS6019S3RH1
 - Fisher & Paykel - RS6121SLK1
+- Fisher & Paykel - RS6121SRHE1
 - Fisher & Paykel - RS6121SRK1
+- Fisher & Paykel - RS6121W
+- Fisher & Paykel - RS6121WLUE1
+- Fisher & Paykel - RS6121WRUE1
 - Fisher & Paykel - RS7621SLK1
+- Fisher & Paykel - RS7621SRHE1
 - Fisher & Paykel - RS7621SRK1
+- Fisher & Paykel - RS7621W
+- Fisher & Paykel - RS7621WLUE1
+- Fisher & Paykel - RS7621WRUE1
 - Flomatic  - FC-F1200(E)
 - Flomatic  - FC-F1200L(E)
 - Flomatic  - FC-F1500(E)
@@ -375,6 +487,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - FLOMATIC - SD-2000C
 - FUJITECH - MRF-453W
 - FUJITECH - MRF-541W
+- Gaggenau - RB472305
 - Gaggenau - RB492304
 - Gaggenau - RB492305
 - Gaggenau - RC462304
@@ -459,6 +572,20 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Galilei  - LRW-210RM
 - HCK - BC-130RBA
 - HCK - BC-330RD
+- Hisense - RB390N4SBV
+- Hisense - RB390N4SSV
+- Hisense - RB650N4SBV
+- Hisense - RB650N4SSV
+- Hisense - RQ768N4SBU
+- Hisense - RQ768N4SW-KU
+- Hisense - RS818N4SBVI2
+- Hisense - RS818N4SSVI2
+- Hisense - RT469N4SBU
+- Hisense - RT469N4SW-LBU
+- Hisense - RT469N4SWU
+- Hisense - RT549N4SBU
+- Hisense - RT549N4SW-MBU2
+- Hisense - RT549N4SWU
 - Hitachi  - R-B570P7MS
 - Hitachi  - R-G500GS
 - Hitachi  - R-HV480NS
@@ -476,11 +603,18 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Hitachi  - R-WB735P5MS
 - Hitachi  - R-XG450KS
 - Hitachi  - R-XG480KS
+- Hitachi - HR4N7522DS
+- Hitachi - HR4N7522DS1
+- Hitachi - HRTN6379S
+- Hitachi - HRTN6408S
+- Hitachi - HRTN6443S
 - Hitachi - R-BG415P6MSX
 - Hitachi - R-GWC670TS
 - Hitachi - R-HV490RS
 - Hitachi - R-HW540RS
+- Hitachi - R-HW540WS
 - Hitachi - R-HW620RS
+- Hitachi - R-HW620WS
 - Hitachi - R-HWS480KS
 - Hitachi - R-V410P8MS
 - Hitachi - R-V450P8MS
@@ -498,9 +632,16 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Hitachi - R-WXC620KS
 - Hitachi - R-WXC670KS
 - Hitachi - R-WXC740KS
+- Hitachi - R-WXC740WS
 - Hitachi - R-ZXC740KS
+- Hitachi - R-ZXC740WS
 - Hold - LRRF12i
 - Hold - LRRF9i
+- Hold - SWCC48-I
+- Hold - SWCC60-I
+- Hold - SWRBC48-I
+- Hold - SWRBC60-I
+- Hoshiaki - HRF-120AFT
 - Hoshizaki  - FT-120SDG-1
 - Hoshizaki  - FT-120SNG-1
 - Hoshizaki  - FT-150SDG-1
@@ -553,18 +694,11 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Hoshizaki  - RT-180SNG-1
 - Hoshizaki  - RT-90SDG-1
 - Hoshizaki  - RT-90SNG-1
-- IISTIA  - UC1275A
-- IISTIA  - UC1575A
-- IISTIA  - UC1875A
-- IISTIA  - UF1275A
-- IISTIA  - UF1575A
-- IISTIA  - UF1875A
-- IISTIA  - UPC2A
-- IISTIA  - UPC4A
-- IISTIA  - UPCF2A
-- IISTIA  - UPF2A
-- IISTIA  - UPF4A
+- Hoshizaki - HRF-120AF-1
+- Hoshizaki - HRF-75A-1
+- Hoshizaki - HRF-75AT-1
 - IKEA - TILLREDA NN 80596077
+- INNOTRICS - FD-4008BA
 - INNOTRICS - FD-417BA
 - io mabe - INO27JSPFFS
 - io mabe - IWO19JSPFSS
@@ -585,19 +719,39 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - KANG JIE  - KJ188F-ES
 - KANG JIE  - KJHF128-ES
 - KANG JIE  - KJHF78-ES
+- KANGJIE - KJ158R-GD-ES
+- KANGJIE - KJ188R-GD-ES
+- KANGJIE - KJHR128G-ES
+- KANGJIE - KJHR78G-ES
+- KANGJIE - KJHRF128-ES
+- KANGJIE - KJHRF78-ES
 - Kerry  - KR-190B-IVT
 - Kerry  - KR-249B-IVT
 - Kerry  - KR-2OPC-15-B
 - Kerry  - KR-2OPC-15-W
 - Kerry - KR-021CS-IVTH
+- Kerry - KR-021FCS-IVTH
+- Kerry - KR-021FS-IVTH
 - Kerry - KR-022CS-IVTH
+- Kerry - KR-022FCS-IVTH
+- Kerry - KR-022FS-IVTH
+- Kerry - KR-023CS-IVTH
+- Kerry - KR-023FS-IVTH
 - Kerry - KR-1GDC-IVT
+- Kerry - KR-1GDF-IVT
 - Kerry - KR-2GDC-IVT
+- Kerry - KR-2GDF-IVT
 - Kerry - KR-3GDC-IVT
 - Kerry - KR-425UC-IVTH
+- Kerry - KR-425UF-IVTH
+- Kerry - KR-42UF-IVTH
 - Kerry - KR-50XFIF-2D
 - Kerry - KR-525UC-IVTH
+- Kerry - KR-525UF-IVTH
+- Kerry - KR-52UF-IVTH
 - Kerry - KR-625UC-IVTH
+- Kerry - KR-625UF-IVTH
+- Kerry - KR-62UF-IVTH
 - Kerry - KR-63XFIF-2D
 - Kerry - KR-70XFIF-2D
 - Kerry - KR-80XFIF-2D
@@ -626,6 +780,28 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - KINCO  - CK-UF140-EC
 - KINCO  - CK-UF62-EC
 - KINCO  - CK-UF70-EC
+- KSENG - CRF-1082D6F2(IC)
+- KSENG - CRF-18D2F2 (IC)
+- KSENG - CRF-380D2F2 (IC)
+- KSENG - CRF-840D4F2(IC)
+- KSENG - CRR-1082D6F2(IC)
+- KSENG - CRR-16D2F2 (IC)
+- KSENG - CRR-390D2F2 (IC)
+- KSENG - CRR-880D4F2(IC)
+- KSENG - CUF-260D2F2-600(IC)
+- KSENG - CUF-260D2F2-750(IC)
+- KSENG - CUF-360D2F2-600(IC)
+- KSENG - CUF-360D2F2-750(IC)
+- KSENG - CUF-460D2F2-600(IC)
+- KSENG - CUF-460D2F2-750(IC)
+- KSENG - CUR-260D2F2-600(IC)
+- KSENG - CUR-260D2F2-750(IC)
+- KSENG - CUR-360D2F2-600(IC)
+- KSENG - CUR-360D2F2-750(IC)
+- KSENG - CUR-460D2F2-600(IC)
+- KSENG - CUR-460D2F2-750(IC)
+- LeMaison - LBF123
+- LeMaison - LBF48
 - LG  - GB-B3442BE
 - LG  - GB-B3443PY
 - LG  - GB-B3449PZ
@@ -636,25 +812,36 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - LG  - GT-T3867BM
 - LG  - GT-T3867PZ
 - LG - GB-B306PZ
+- LG - GB-B3354PY
 - LG - GB-B3442MC
 - LG - GB-B3443EP
 - LG - GB-B3862SG
 - LG - GB-B3863MN
+- LG - GB-B3864BE
 - LG - GB-B4059MT
 - LG - GB-B4059PZ
+- LG - GB-B4215MC
+- LG - GB-B4215PY
 - LG - GB-B4452PZ
 - LG - GB-B4452SE
 - LG - GB-B4453MC
 - LG - GB-B4459GV
+- LG - GB-B4624PY
+- LG - GB-B4624SE
 - LG - GF-B4544EP
 - LG - GF-B6012MC
 - LG - GF-B6014EV
+- LG - GF-B6174TW
 - LG - GS-B6269PZ
 - LG - GS-B6472MC
 - LG - GS-B6472PZ
 - LG - GS-B6473EP
 - LG - GS-B6473PY
 - LG - GS-L6013PZ
+- LG - GS-L6104EV
+- LG - GS-L6104PY
+- LG - GS-X6104BE
+- LG - GS-X6104EV
 - LG - GT-B3153BN
 - LG - GT-B3302PZ
 - LG - GT-B3303PY
@@ -664,6 +851,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - LG - GT-B3952BN
 - LG - GT-B3953EP
 - LG - GT-B4387PZ
+- LG - GT-B4604BM
 - LG - GT-B4783BL
 - LG - GT-B4783EP
 - LG - GT-B4783PZ
@@ -698,6 +886,12 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Liebherr  - SRBsdh 5260
 - Liebherr  - SUIK 1510
 - Liebherr  - SUIKo1550
+- Liebherr - CBNsdh 7653
+- Liebherr - ERBh 9770
+- mayer - MMFF480BI
+- Mayer - MMFT350MG
+- Mayer - MMFT400MG
+- mayer - MMFT450MG
 - Midea  - CE-BCD640WE-JT
 - Midea  - MDRB470MGD28
 - Midea  - MDRD86FGD01-SG
@@ -720,9 +914,15 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Midea - MDRD88FGD01-SG
 - Midea - MDRD88FGD30-SG
 - Midea - MDRD88FGD32-SG
+- Midea - MDRF697FIC02SG
+- Midea - MDRF697FIC28SG
+- Midea - MDRF697FIC45SG
+- Midea - MDRF697FIC46SG
 - Midea - MDRS761MYC02SG
 - Midea - MDRS761MYC45SG
 - Midea - MDRS761MYC46SG
+- Midea - MDRT385MTC28-SG
+- Midea - MDRT385MTC50-SG
 - Midea - MDRT489FGX28-SGN
 - Midea - MDRT489FGX46-SGN
 - Miele  - K 14820 SD ed/cs
@@ -738,6 +938,8 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Miele  - KS 7743 E
 - Miele  - KS 7793 D
 - Miele  - KSv4783 ED edt/cs
+- Miele - KFN 4776 ED edt/cs
+- Miele - KFNS 7795 D
 - Miele - KS 4783 ED edt/cs
 - Mitsubishi Electric  - MR-B46F-F-P
 - Mitsubishi Electric  - MR-B46F-F-P1
@@ -801,6 +1003,11 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Mitsubishi Electric - MR-FS51EX-SSL-P
 - Mitsubishi Electric - MR-FX47EX-GBK-P
 - Mitsubishi Electric - MR-FX47EX-GWH-P
+- Mitsubishi Electric - MR-HGS52EX-GBK-P
+- Mitsubishi Electric - MR-HGS52EX-GWH-P
+- Mitsubishi Electric - MR-LX55EY-GBK-P
+- Mitsubishi Electric - MR-LX55EY-GDS-P
+- Mitsubishi Electric - MR-LX55EY-GWH-P
 - Mitsubishi Electric - MR-V50EX-SB-P
 - Mitsubishi Electric - MR-V50EX-ST-P
 - Mitsubishi Electric - MR-WX47LG-F-P
@@ -809,8 +1016,14 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Mitsubishi Electric - MR-WX60G-BR-P
 - Mitsubishi Electric - MR-WX60G-F-P
 - Mitsubishi Electric - MR-WX60G-W-P
+- Mitsubishi Electric - MR-WX70G-B-P
 - Mitsubishi Electric - MR-WX70G-BR-P
 - Mitsubishi Electric - MR-WX70G-W-P
+- Mitsubishi Electric - MR-WZ55K-C-P
+- Mitsubishi Electric - MR-WZ55K-W-P
+- Mitsubishi Electric - MR-WZ61K-B-P
+- Mitsubishi Electric - MR-WZ61K-C-P
+- Mitsubishi Electric - MR-WZ61K-W-P
 - Panasonic  - NR WY720Z
 - Panasonic  - NR XY680Y
 - Panasonic  - NR-BC360X
@@ -1022,25 +1235,98 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Panasonic  - SUR-K2161SB-R
 - Panasonic  - SUR-K2171SB
 - Panasonic  - SUR-K2171SB-R
+- Panasonic - NR-BW530H
+- Panasonic - NR-TC221BUSS
+- Panasonic - NR-TC261BUSS
+- Panasonic - NR-TC311BUSS
+- Panasonic - NR-TC361BUSS
+- Panasonic - NR-XC541CUHS
+- Panasonic - NR-Y561HB-SG
 - Panasonic - SRF-K781B
 - Panasonic - SRR-K781B
 - Panasonic - SUF-K1571SB
 - Panasonic - SUR-K1271SB
 - Panasonic - SUR-K1571SB
 
+- Penguin - P-12060CCF
 - Penguin - P-12060CF
+- Penguin - P-12076CCF
 - Penguin - P-12076CF
+- Penguin - P-120MC
+- Penguin - P-120SCCC
+- Penguin - P-120SRCC
+- Penguin - P-1210UCF
 - Penguin - P-1210UF
+- Penguin - P-1250SMCF
+- Penguin - P-1250SMFF
+- Penguin - P-15060CCF
 - Penguin - P-15060CF
+- Penguin - P-15076CCF
 - Penguin - P-15076CF
+- Penguin - P-150MC
+- Penguin - P-150SCCC
+- Penguin - P-150SRCC
+- Penguin - P-18060CCF
 - Penguin - P-18060CF
+- Penguin - P-18076CCF
 - Penguin - P-18076CF
+- Penguin - P-180MC
+- Penguin - P-180SCCC
+- Penguin - P-180SRCC
+- Penguin - P-1810UF
+- Penguin - P-1900SMCF
+- Penguin - P-1900SMFF
+- Penguin - P-1DUC
+- Penguin - P-1DUF
+- Penguin - P-2DUC
+- Penguin - P-2DUF
+- Penguin - P-3DUC
+- Penguin - P-3DUF
 - Penguin - P-620UF
+- Penguin - P-70CCC
+- Penguin - P-70RCC
+- Penguin - P-90CCC
+- Penguin - P-90RCC
+- Penguin - P-90SCCC
+- Penguin - P-90SRCC
+- Penguin - P-D12076CC
+- Penguin - P-D15076CC
+- Penguin - P-D18076CC
+- Penguin - P-DD12076CC
+- Penguin - P-ODC120
+- Penguin - P-ODC130
+- Penguin - P-ODC150
+- Penguin - P-ODC180
+- Penguin - P-S12080CC
+- Penguin - P-S15080CC
+- Penguin - P-S18080CC
 - Polariz  - PGR-1000-TA-EC
 - Polariz  - PGR-1600-TA-EC
 - Polariz  - PGR-500-TA-EC
 - PowerPac  - PPBF555A
+- PowerPac - PPF105 (NEW)
+- PowerPac - PPF136 (NEW)
+- PowerPac - PPF170 (NEW)
+- PowerPac - PPF85 (NEW)
 - PRISM+  - FT4201SABI
+- PRISM+ - FB3301GAGB
+- PRISM+ - FB3301GAGW
+- PRISM+ - FB3301SABI
+- PRISM+ - FB3301SAIN
+- PRISM+ - FB4201SABI
+- PRISM+ - FB4201SAIN
+- PRISM+ - FF4401SAIN
+- PRISM+ - FF4401SASG
+- PRISM+ - FF4401SAWH
+- PRISM+ - FF5701SAIN
+- PRISM+ - FF5701SASG
+- PRISM+ - FF5701SAWH
+- PRISM+ - FM0501SABI
+- PRISM+ - FM0501SAIN
+- PRISM+ - FM0901SABI
+- PRISM+ - FM0901SAIN
+- PRISM+ - FS5601SASG
+- PRISM+ - FS5601SAWH
 - PRISM+ - FS6001SBBI
 - PRISM+ - FS6001SBIN
 - PRISM+ - FT3301SABI
@@ -1051,6 +1337,8 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - PRISM+ - FT5301GBGB
 - PRISM+ - FT5301SBBI
 - PRISM+ - FT5301SBIN
+- PRISM+ - FT6401SABI
+- PRISM+ - FT6401SAIN
 - Ryker  - TF24101
 - Samsung  - 
 RT62K7057BS
@@ -1096,10 +1384,24 @@ RT62K7057BS
 - Samsung  - RZ32T7443AP
 - Samsung  - RZ32T7445AP
 - Samsung - RB34C7B5CAP
+- Samsung - RB43DG6005B1
+- Samsung - RB43DG6005S9
+- Samsung - RF49C5103B1
+- Samsung - RF49C5103S9
+- Samsung - RF59C7004B1
+- Samsung - RF59C7664B1
 - Samsung - RF62DB9KA5AP
 - Samsung - RL4354RBAS8
+- Samsung - RS64R5308M9
+- Samsung - RS70F65K3F
+- Samsung - RS70F65Q3F
+- Samsung - RS70F65Q3T
+- Samsung - RS80F65J3B
+- Samsung - RS90F65D3F
 - Samsung - RT31CG5424S9
 - Samsung - RT35CG5444S9
+- Samsung - RT53DG7A6CB1
+- Samsung - RT53DG7A6CS9
 - Sanden Intercool  - SPB 0300
 - Sanden Intercool  - SPB 0400
 - Sanden Intercool  - SPB 0500
@@ -1111,7 +1413,6 @@ RT62K7057BS
 - Sanden Intercool  - SPE 1200
 - Sanden Intercool - SPM 1200
 - Sanden Intercool - SPM 1800
-- SHARP  - qSJ-RF36E-DS
 - SHARP  - SJ-FB32E-DS
 - SHARP  - SJ-FB32E-S
 - SHARP  - SJ-FB34E-DS
@@ -1138,6 +1439,7 @@ RT62K7057BS
 - SHARP  - SJ-RF30E-SL
 - SHARP  - SJ-RF33E-DS
 - SHARP  - SJ-RF33E-SL
+- SHARP  - SJ-RF36E-DS
 - SHARP  - SJ-RF36E-SL
 - SHARP  - SJ-RX30E-SL2
 - SHARP  - SJ-RX34E-SL2
@@ -1150,11 +1452,16 @@ RT62K7057BS
 - SHARP - SJ-RF36E-DS
 - SHARP - SJ-VX57PG-BK
 - SHARP - SJ-VX57PG-DM
+- Singmah - LD-1430M3WP
+- Singmah - LD-340WP
 - Singmah - LD-460W
+- Singmah - LD-920M2WP
 - Singmah - LG-1000M2WP
 - Singmah - LG-1200M3WP
 - Singmah - LG-1400M3WP
+- Singmah - LG-1480M3WP
 - Singmah - LG-1800M4WP
+- Singmah - LG-380WP
 - Singmah - LG-882M2W
 - Singmah - LG-882M2WP
 - Singmah - LG-960M2WP
@@ -1353,39 +1660,6 @@ RT62K7057BS
 - SOLID - S3DC-1700W
 - SOLID - S3DF-1500B
 - SOLID - S3DF-1500W
-- SOLID COOL  - SC-260
-- SOLID COOL  - SC-260L
-- SOLID COOL  - SC-2DB
-- SOLID COOL  - SC-2DBB
-- SOLID COOL  - SC-2DT
-- SOLID COOL  - SC-2DTF
-- SOLID COOL  - SC-2DTT
-- SOLID COOL  - SC-2SDBB
-- SOLID COOL  - SC-370
-- SOLID COOL  - SC-370L
-- SOLID COOL  - SC-3DB
-- SOLID COOL  - SC-3DBB
-- SOLID COOL  - SC-3DT
-- SOLID COOL  - SC-3DTF
-- SOLID COOL  - SC-4DT
-- SOLID COOL  - SC-4DTF
-- SOLID COOL  - SC-530
-- SOLID COOL  - SC-530L
-- SOLID COOL  - SCX1200C2
-- SOLID COOL  - SCX1200F2
-- SOLID COOL  - SCX1500C2
-- SOLID COOL  - SCX1500F2
-- SOLID COOL  - SCX1800C3
-- SOLID COOL  - SCX1800F3
-- SOLID COOL  - SCX2DC
-- SOLID COOL  - SCX2DF
-- SOLID COOL  - SCX4DC
-- SOLID COOL  - SCX4DF
-- SOLID COOL  - SCX6DC
-- SOLID COOL  - SCX6DF
-- SOLID COOL  - SXS-500Y
-- SOLID COOL  - SXS-700Y
-- SOLID COOL - SC-2DTT
 - Sub-Zero - GR-RT735WE-PGX(XK)
 - Sub-Zero - GR-RT835WE-PGX(XK)
 - Sub-Zero - ICBBI-36R/S/PH-LH
@@ -1402,7 +1676,6 @@ RT62K7057BS
 - Sub-Zero - ICBCL3650UID/S/P/R
 - Sub-Zero - ICBCL3650UID/S/T/L
 - Sub-Zero - ICBCL3650UID/S/T/R
-- Sub-Zero - ICBCL3650UID/S/T/R
 - Sub-Zero - ICBCL4250S
 - Sub-Zero - ICBCL4250S/O
 - Sub-Zero - ICBCL4250S/S/P
@@ -1410,6 +1683,15 @@ RT62K7057BS
 - Sub-Zero - ICBDEC2450R
 - Sub-Zero - ICBDEC2450R/L
 - Sub-Zero - ICBDEC2450R/R
+- Sub-Zero - ICBDEC3050RID
+- Sub-Zero - ICBDEC3050RID/L
+- Sub-Zero - ICBDEC3050RID/R
+- Sub-Zero - ICBDEC3650RID
+- Sub-Zero - ICBDEC3650RID/L
+- Sub-Zero - ICBDEC3650RID/R
+- Sub-Zero - ICBDEU2450R
+- Sub-Zero - ICBDEU2450R/L
+- Sub-Zero - ICBDEU2450R/R
 - Sub-Zero - ICBIC-24C-LH
 - Sub-Zero - ICBIC-24C-RH
 - Sub-Zero - ICBIC-24R-LH
@@ -1465,17 +1747,21 @@ RT62K7057BS
 - SUPREME - 1507680F
 - SUPREME - 1807680C
 - SUPREME - 1807680F
-- SUPREME - 2DUFF
 - Supreme - 2DUFF
-- SUPREME - 4DUFC
 - Supreme - 4DUFC
-- SUPREME - 4DUFF
 - Supreme - 4DUFF
 - Tecno  - TFR 1288-V2
 - Tecno  - TFR 330 Retro
+- Tecno - TFR-100
+- Tecno - TFR-49
 - Tecumseh  - PAC66Z-3L
 - Tecumseh  - PAC66Z-3XL
 - Teka  - TFI3 130 D
+- Teka - RBF 73380 FI SG
+- TNG - TBF48B
+- TNG - TBF48W
+- TNG - TBF95B
+- TNG - TBF95W
 - TONG'S KITCHEN - ECO-IVT-1DC
 - TONG'S KITCHEN - ECO-IVT-2DC
 - TONG'S KITCHEN - ECO-IVT-2DF
@@ -1505,9 +1791,25 @@ RT62K7057BS
 - Toshiba  - GR-RT624WE-PMX(22S)
 - Toshiba  - GR-RT624WE-PMX(37S)
 - Toshiba  - GR-RT624WE-PMX(57S)
+- Toshiba - GR-RB405WE-PMX(06S)
+- Toshiba - GR-RF677WI-PGX(22)
+- Toshiba - GR-RF677WI-PMX(06)
+- Toshiba - GR-RM593WE-PGX(B3)
+- Toshiba - GR-RS780WI-PMX(06)
+- Toshiba - GR-RT234WE-PMX
+- Toshiba - GR-RT303WE-PMX
+- Toshiba - GR-RT416WE-PMX(58)
 - Toshiba - GR-RT735WE-PGX(GG)
 - Toshiba - GR-RT835WE-PGX(B5)
 - Toshiba - GR-RT835WE-PGX(PGB)
+- Ty - RTGD-1DF-460-INV
+- Ty - RTGD-4FSLD-PT-INV
+- Ty - UNGD-2DC-2245H-INV
+- Ty - UNGD-2DF-2245H-INV
+- Ty - UNGD-2DF-INV
+- Ty - UNGD-3DC-2245H-INV
+- Ty - UNGD-3DF-2245H-INV
+- Ty - UNGD-3DF-INV
 - Ty Brand  - RTGD-1DC-260-IVTH
 - Ty Brand  - RTGD-1DC-330-IVTH
 - Ty Brand  - RTGD-1DC-IVTH-B
@@ -1516,6 +1818,8 @@ RT62K7057BS
 - Ty Brand  - RTGD-2DC-IVTH-W
 - Ty Brand  - RTGD-3DC-IVTH-B
 - Ty Brand  - RTGD-3DC-IVTH-W
+- Ty Brand - UNGD-2DF-INV
+- Ty Brand - UNGD-3DF-INV
 - UNICOOL  - LK-1000CC-IV
 - UNICOOL  - LKC2FL4-IV
 - UNICOOL  - LKC2FL5-IV
@@ -1527,6 +1831,7 @@ RT62K7057BS
 - UNICOOL  - LKU4FF-IV
 - UNICOOL - LK-1100CC-IV
 - UNICOOL - LK-420CC-IV
+- UNICOOL - LKU2F2C-IV
 - V-ZUG - CCO4T-51087
 - V-ZUG - CCO6T-51096
 - V-ZUG - CO4T-51140
@@ -1534,6 +1839,8 @@ RT62K7057BS
 - V-ZUG - Jumbo T
 - Whirlpool  - TM500 VCC UI
 - Whirlpool  - TM500 VCC UI BL
+- Whirlpool - 5WQ24NIQABK
+- Whirlpool - 5WQ24NIQAS
 - YUDA  - YD-0217CS-IVTH
 - YUDA  - YD-0217FS-IVTH
 - YUDA  - YD-021CS-IVTH
@@ -1604,6 +1911,7 @@ RT62K7057BS
 - YUDA - YD-210DF-IVT
 - YUDA - YD-330DF-IVT
 - YUDA - YD-450F-IVT
+- YUDA - YD-4OPC-IVT
 - YUDA - YD-C3-1200-IVT
 - YUDA - YD-C3-1500-IVT
 - YUDA - YD-C3-900-IVT
@@ -1614,7 +1922,5 @@ RT62K7057BS
 - YUDA - YD-NC1-1200-IVT
 - YUDA - YD-NC1-1500-IVT
 - YUDA - YD-NC1-900-IVT
-
-
 
 <script src='/jquery/resize-tables.js'></script>
