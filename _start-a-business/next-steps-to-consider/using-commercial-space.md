@@ -12,6 +12,4 @@ If you’re interested to lease or buy a space for your business, you must first
 
 ### Applying for Change of Use
 
-If the location you want is not approved for your business activities, you will need to apply for planning permission to change the use of the premises. You can submit an application for Change of Use on [GoBusiness Licensing](https://licence1.business.gov.sg/feportal/web/frontier/home){:target="_blank"}{:rel="noopener"}.
-
-
+If the location you want is not approved for your business activities, you will need to apply for planning permission to change the use of the premises. You can submit an application for Change of Use on [GoBusiness Licensing](https://dashboard.gobusiness.gov.sg/task-details/changeofuseura){:target="_blank"}{:rel="noopener"}.
