@@ -447,10 +447,6 @@
 - accordion:
   letter: p
   data:
-    - title: Pet-related Services
-      content: |
-        Explore licences you may require with the e-Advisers:
-
     - title: Professional Services
       content: |
         Explore licences you may require with the e-Advisers:
