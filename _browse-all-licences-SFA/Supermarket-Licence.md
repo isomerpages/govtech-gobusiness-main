@@ -8,14 +8,7 @@ third_nav_title: Singapore Food Agency (SFA)
 
 Singapore Food Agency (SFA)
 
-{% include licence-apply-button.html %}
-<a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1901021401000442" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>
-<div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-size: 18px; color: #313840;">
-<img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;">
-<span style="font-weight: bold; font-family: hknova-bold; font-size: 18px; ">Please use desktop / laptop to apply for this licence.</span><br>
-<span style="font-family: hknova-regular;">You can only view application details and make payment via mobile. Please use GoBusiness Licensing on desktop to use all features.</span><br><br>
-<a id="mobileNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1901021401000442" target="_blank" rel="noopener">Continue to GoBusiness Licencing anyway</a>
-</div>
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/supermarket-licence" type="primary" %}
 
 <H3>Application Details</H3>
 
@@ -108,6 +101,9 @@ Singapore Food Agency (SFA)
 <li>
 <p><strong>I have applied for a licence under the wrong entity/wrong licence type. Can I change them?</strong><br>Please note the licensee name and licence type cannot be amended and licences issued by SFA are not transferrable.<br>If you have submitted the application under the wrong entity or wrong licence type, please resubmit the application using correct account (SingPass/CorpPass). If you are unsure on the type of licence to apply, you can write to <a href="http://www.sfa.gov.sg/feedback" target="_blank" rel="noopener">Online Feedback Form</a> for assistance.<br>If your business operations have changed and you need an SFA licence of a different type, you are required to submit a new foodshop application via <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&amp;selectedLicenceIds=1901021401000440" target="_blank" rel="noopener">GoBusiness</a>.<br>If your business experienced a take over or merger, and the operating entity&rsquo;s UEN has changed, you are required to submit a new foodshop application on GoBusiness using the new UEN&rsquo;s corpPass via <a href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&amp;selectedLicenceIds=1901021401000440" target="_blank" rel="noopener">GoBusiness</a>.</p>
 </li>
+<li>
+<p><strong>I have an ongoing licence application in LicenceOne. How do I continue with it?<br></strong>Click&nbsp;<a href="https://licence1.business.gov.sg/licence1/authentication/showLogin.action" target="_blank" rel="noopener"><strong>here</strong></a> to continue and complete your ongoing licence application till approval and payment.</p>
+</li>
 </ol>
 
 <strong>Additional Information</strong>
@@ -117,17 +113,13 @@ Singapore Food Agency (SFA)
 <H3>Documents Needed</H3>
 
 <ul>
-<li><strong>Planning Permission/Change of Use approval</strong><br />Approval from URA/HDB for the use of the premises<br />File Format: DOC,DOCX,GIF,JPG,PNG,PDF<br />Maximum upload per application: 2MB<br /><br /></li>
-<li><strong>A copy of Applicant's NRIC</strong><br />A copy of NRIC if application is under Individual<br />File Format: DOC,DOCX,GIF,JPG,PNG,PDF<br />Maximum upload per application: 2MB<br /><br /></li>
-<li><strong>A copy of ACRA registered Company Business Profile</strong><br />File Format: DOC,DOCX,GIF,JPG,PNG,PDF<br />Maximum upload per application: 2MB<br /><br /></li>
-<li><strong>Letter of authorization (if filer option is selected)</strong><br />Letter of authorization from applicant for the filer to act on behalf<br />File Format: DOC,DOCX,GIF,JPG,PNG,PDF<br />Maximum upload per application: 2MB<br /><br /></li>
-<li><strong>Layout plan of the premises</strong><br />Layout Plan (to scale)<br />File Format: DOC,DOCX,GIF,JPG,PNG,PDF<br />Maximum upload per application: 5MB<br /><br /></li>
-<li><strong>Floor plan (location plan)</strong><br />Floor plan to indicate the location of premises<br />File Format: DOC,DOCX,GIF,JPG,PNG,PDF<br />Maximum upload per application: 5MB<br /><br /></li>
-<li><strong>Tenancy Agreement/ Letter of consent</strong><br />File Format: DOC,DOCX,GIF,JPG,PNG,PDF<br />Maximum upload per application: 5MB<br /><br /></li>
-<li><strong>Pest Control Contract</strong><br />File Format: DOC,DOCX,GIF,JPG,PNG,PDF<br />Maximum upload per application: 2MB<br /><br /></li>
-<li><strong>Cleaning programme/schedule</strong><br />File Format: DOC,DOCX,GIF,JPG,PNG,PDF<br />Maximum upload per application: 2MB<br /><br /></li>
-<li><strong>Basic food hygiene certificate/Refresher food hygiene certificate and Work Permit</strong><br />Photocopy of food handler's basic food hygiene certificate/refresher food hygiene certificate and Work Permit<br />File Format: GIF,JPG,PNG,PDF<br />Maximum upload per application: 2MB<br /><br /></li>
-<li><strong>Others</strong><br />File Format: DOC,DOCX,GIF,JPG,PNG,PDF<br />Maximum upload per application: 5MB</li>
+<li><strong>Planning Permission/Change of Use approval</strong><br>Approval from URA/HDB for the use of the premises<br>File Format: DOC,DOCX,GIF,JPG,PNG,PDF<br>Maximum upload per application: 2MB<br><br></li>
+<li><strong>Layout plan of the premises</strong><br>Layout Plan (to scale)<br>File Format: DOC,DOCX,GIF,JPG,PNG,PDF<br>Maximum upload per application: 5MB<br><br></li>
+<li><strong>Tenancy Agreement/ Letter of consent</strong><br>File Format: DOC,DOCX,GIF,JPG,PNG,PDF<br>Maximum upload per application: 5MB<br><br></li>
+<li><strong>Pest Control Contract</strong><br>File Format: DOC,DOCX,GIF,JPG,PNG,PDF<br>Maximum upload per application: 2MB<br><br></li>
+<li><strong>Cleaning programme/schedule</strong><br>File Format: DOC,DOCX,GIF,JPG,PNG,PDF<br>Maximum upload per application: 2MB<br><br></li>
+<li><strong>Food Safety Course Level 1 / Refresher Food Safety Course Level 1</strong><br>A copy of the food handler's Food Safety Course Level 1 certificate / Refresher Food Safety Course level 1 certificate<br>File Format: GIF,JPG,PNG,PDF<br>Maximum upload per application: 2MB<br><br></li>
+<li><strong>Others</strong><br>File Format: DOC,DOCX,GIF,JPG,PNG,PDF<br>Maximum upload per application: 5MB</li>
 </ul>
 
 <H3>Requirements</H3>

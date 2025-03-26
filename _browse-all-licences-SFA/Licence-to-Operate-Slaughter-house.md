@@ -10,26 +10,22 @@ Singapore Food Agency (SFA)
 
 {% include spcp-text.html type="cp" %}
 
-{% include licence-apply-button.html %}
-<a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201306030000332" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>
-<div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-size: 18px; color: #313840;">
-<img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;">
-<span style="font-weight: bold; font-family: hknova-bold; font-size: 18px; ">Please use desktop / laptop to apply for this licence.</span><br>
-<span style="font-family: hknova-regular;">You can only view application details and make payment via mobile. Please use GoBusiness Licensing on desktop to use all features.</span><br><br>
-<a id="mobileNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201306030000332" target="_blank" rel="noopener">Continue to GoBusiness Licencing anyway</a>
-</div>
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/licence-to-operate-slaughter-house" type="primary" %}
 
 <H3>Application Details</H3>
 
 <p>In Singapore, all slaughter-houses must be licensed by the Singapore Food Agency before they are permitted to carry out any food processing or storage for wholesale distribution.</p>
 <h3>FAQs</h3>
 <ol>
-<li><strong>Where can I get more information for Licence to Operate a Slaughterhouse?</strong> <br />You can find more information on <a href="https://www.sfa.gov.sg/food-manufacturers/setting-up-food-establishments" target="_blank" rel="noopener">SFA website</a>.</li>
+<li><strong>Where can I get more information for Licence to Operate a Slaughterhouse?</strong> <br>You can find more information on&nbsp;<a href="https://www.sfa.gov.sg/food-manufacturers/setting-up-food-establishments" target="_blank" rel="noopener">SFA website</a>.</li>
+<li>
+<p><strong>I have an ongoing licence application in LicenceOne. How do I continue with it?<br></strong>Click&nbsp;<a href="https://licence1.business.gov.sg/licence1/authentication/showLogin.action" target="_blank" rel="noopener"><strong>here</strong></a> to continue and complete your ongoing licence application till approval and payment.</p>
+</li>
 </ol>
 
 <strong>Additional Information</strong>
 
-<p><strong>Fees</strong><br><u>Livestock</u><br>Application fees: $147.20<br>Licence fees: $4000.00<br><u>Poultry</u><br>Application fees: $147.20<br>Licence fees: $1575.00</p>
+<p><strong>Fees</strong><br><u>Livestock</u><br>Application fees: $147.20<br>Licence fees: $4000.00<br><u>Poultry</u><br>Application fees: $147.20<br>Licence fees: $1000.00</p>
 
 <H3>Documents Needed</H3>
 
