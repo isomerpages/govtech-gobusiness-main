@@ -46,14 +46,6 @@
   url-new-tab: true
   protocol: http
 
-- title: SME Centre@Little India
-  description: "Little India Arcade<br>48 Serangoon Road, #01-22<br>Singapore 217959"
-  tel: +65 6508 0149
-  email: littleindia@smecentre-sicci.sg
-  url: www.smecentre-sicci.sg
-  url-new-tab: true
-  protocol: http
-
 - title: SME Centre@NorthEast
   description: Located at North East Community<br>Development Council<br>Our Tampines Hub<br>51 Tampines Avenue 4<br>#04-31, Singapore 529684
   tel: +65 6513 0388
