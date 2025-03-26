@@ -7,9 +7,9 @@
   protocol: https
 
 - title: GlobalConnect@SCCCI
-  description: 9 Jurong Town Hall Road #04-01 Trade Association Hub Singapore 609431
+  description: 9 Jurong Town Hall Road<br>#04-01 Trade Association Hub Singapore 609431
   tel: +65 6337 8381
   email: globalconnect@sccci.org.sg
-  url: globalconnect.sccci.org.sg
+  url: globalconnect.sccci.org.sg/default.html
   url-new-tab: true
   protocol: https
