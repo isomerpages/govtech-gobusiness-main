@@ -20,6 +20,7 @@ The caller is even able to cite your full name and NRIC number. Sounds real?
 <b>Call the 24/7 ScamShield Helpline at 1799 to check if you are unsure if something is a scam.</b>
 
 ## Government officials will NEVER do these things over a phone call:
+
 <ol>
     <li>Ask you to transfer money;</li>
     <li>Ask you to disclose banking details;</li>
@@ -32,6 +33,7 @@ If you receive an SMS from the government, make sure it is sent from the <b>gov.
 *Exceptions apply for National Service call-ups and emergency services. Read more about [the exceptions](https://www.sms.gov.sg/exceptions){:target="_blank"}{:rel="noopener"}.
 
 ## Want to protect yourself against such scams? Here’s how:
+
 <ol>
     <li>Add the ScamShield app to block scam calls and filter scam SMSes</li>
     <li>Add Money Lock to further secure a portion of your savings against scams</li>
