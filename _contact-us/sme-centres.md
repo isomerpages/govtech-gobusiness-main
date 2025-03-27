@@ -21,8 +21,8 @@ https://partnersengage.enterprisesg.gov.sg/book-appointment
 
 ---
 
-### GlobalConnect@SBF
+### GlobalConnect
 
-Need help to kick-start you internationalisation journey? Speak to the advisors at [GlobalConnect@SBF](https://globalconnect.sbf.org.sg/){:target="_blank"}{:rel="noopener"} to gain access to market knowledge, FTA advisory and an extensive network of partners for your first overseas venture.
+Need help to kick-start your internationalisation journey? Speak to the advisors at [GlobalConnect@SBF](https://globalconnect.sbf.org.sg/){:target="_blank"}{:rel="noopener"} and [GlobalConnect@SCCCI](https://globalconnect.sccci.org.sg/default.html){:target="_blank"}{:rel="noopener"} to gain access to market knowledge, FTA advisory and an extensive network of partners for your first overseas venture.
 
 {% include panels.html panels=site.data.global_connect %}
