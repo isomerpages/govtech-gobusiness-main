@@ -335,9 +335,9 @@
     - title: Marketing and Sales Content Generation
       content: |
         - <a href='/browse-all-solutions-Marketing-and-Sales-Content-Generation/Marketing-and-Sales-Content-Generation'>Marketing and Sales Content Generation</a>
-    - title: Carbon Management Solutions
-      content: |
-        - <a href='/browse-all-solutions-Carbon-Management-Solutions/Carbon-Management-Solutions'>Carbon Management Solutions</a>
+    # - title: Carbon Management Solutions
+    #   content: |
+    #     - <a href='/browse-all-solutions-Carbon-Management-Solutions/Carbon-Management-Solutions'>Carbon Management Solutions</a>
 - accordion:
   letter: c
   data:
