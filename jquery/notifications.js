@@ -7,7 +7,7 @@ const custom_notifications = [
   //multiple services
   "<b>[Attention: System Maintenance]</b> Certain GoBusiness services will be unavailable due to upcoming maintenance. Please check our <B><u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>maintenance schedule</a></u></B> for details.", 
   "<b>[Attention: Important Announcement]</b> For submission of pending Request for Action (RFA) documents involving LTA Vocational Licence applications (i.e. Taxi Driver, Private Hire Car Driver, Bus Driver, Bus Attendant and Omnibus Driver) which had been previously submitted via the old GoBusiness Licensing (GBL) portal, kindly do so via the specified mailboxes:<br> a. Application RFAs: lta_l1@lta.gov.sg<br> b.	Renewal RFAs: LTA_renewal@lta.gov.sg",
-  
+  "<b>[Scam Advisory]</b> GoBusiness will NEVER ask you to transfer money or disclose banking details over a phone call. <u><a href='/scam-advisory/' target='_blank' rel='noopener'>Learn more</a></u>"
   
 ]; 
 
