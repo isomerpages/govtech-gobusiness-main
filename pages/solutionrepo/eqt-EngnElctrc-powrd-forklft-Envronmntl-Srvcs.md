@@ -12,7 +12,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-EngnElctrc-powrd-forkl
 Forklift with load capacity from 1.5 ton onwards, that is able to lift, move and/or stack materials, with minimal human intervention. 
 (Only applicable for licensed cleaning / waste / pest management companies)
 
-There is an equipment cap. Refer to BGP for details.
+There is an equipment cap. Please refer to BGP for details.
 
 ## Solution Packages Option(s)
 

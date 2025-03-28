@@ -21,7 +21,9 @@ Our presence in Southeast Asia is growing. Building on our regional expertise an
 
 <b>Website:</b> <a href='https://dentons.rodyk.com/'>https://dentons.rodyk.com/</a>
 
-<a class='btn' href='https://form.gov.sg/643f4f02f643c40012dae38b' target='_blank' rel='noopener'>Get in touch</a>
+<b>Offer:</b> SIPDA participating service provider
+
+<a class='btn' href='https://form.gov.sg/67cea43b3b7c50a7524ecc24' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -195,6 +197,6 @@ Our presence in Southeast Asia is growing. Building on our regional expertise an
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/643f4f02f643c40012dae38b' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cea43b3b7c50a7524ecc24' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 10 July 2024

@@ -12,5 +12,5 @@ Singapore Civil Defence Force (SCDF)
 
 <H3>Application Details</H3>
 
-<p>The Fire Safety Act (FSA) regulates the conveyance of Petroleum and Flammable Materials (P7FM) in pipelines. Anyone who intends to convey P7FM in pipeline running outside premises boundaries is required to obtain a licence from SCDF.</p>
+<p>The Fire Safety Act (FSA) regulates the conveyance of Petroleum and Flammable Materials (P&amp;FM) in pipelines. Anyone who intends to convey P&amp;FM in pipeline running outside premises boundaries is required to obtain a licence from SCDF.</p>
 

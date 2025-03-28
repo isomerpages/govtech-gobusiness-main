@@ -11,7 +11,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Bttry-oprtd-wst-collct
 
 The equipment (autonomous or one man operated) is able to facilitate the collection of waste from point to point. It should be able to carry bins of at least 660L in capacity. Examples of features include bin-lifting, towing, pulling and transporting of waste.
 
-There is an equipment cap. Refer to BGP for details.
+There is an equipment cap. Please refer to BGP for details.
 
 ## Solution Packages Option(s)
 

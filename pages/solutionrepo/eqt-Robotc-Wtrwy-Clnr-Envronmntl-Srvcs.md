@@ -11,7 +11,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Robotc-Wtrwy-Clnr-Envr
 
 A robotic vessel equipped with sensors and navigation systems, to remove debris, pollutants, algae, etc, from waterway.
 
-There is an equipment cap. Refer to BGP for details.
+There is an equipment cap. Please refer to BGP for details.
 
 ## Solution Packages Option(s)
 

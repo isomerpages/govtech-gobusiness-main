@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/202106150H-Dgtl-Rtl-Ecommr
 
 **Description**
 
-The Digital Retail ecommerce solution entails end-to-end solution for SMEs. It covers professional advice on ecommerce strategy, deployment of the ecommerce platform based on the ecommerce strategy advice, to implementing google analytics to allow SME owners to track their traffic, their audiences for sound business advice, and training of the solution for SMEs to be able to maintain their own ecommerce store.
+At ACCSS Digital, we offer strategic web development that combines innovative design and data-driven insights for high-performing websites. Specializing in custom eCommerce solutions, we create shopping experiences that convert visitors into loyal customers. By aligning with your unique goals and audience, we craft websites that maximize engagement and drive sales, transforming your online presence into impactful digital experiences.
 
 ## Solution Packages Option(s)
 
@@ -25,25 +25,32 @@ The Digital Retail ecommerce solution entails end-to-end solution for SMEs. It c
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1</td>
 <td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACCSS_Digital_Retail_Ecommerce_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$4,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/202106150H_20240212_13032025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2</td>
 <td style='padding: 10px;'>$6,100.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACCSS_Digital_Retail_Ecommerce_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$4,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/202106150H_20240212_13032025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3</td>
+<td style='padding: 10px;'>$7,900.00</td>
+<td style='padding: 10px;'>$4,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/202106150H_20240212_13032025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: ACCSS Digital Pte Ltd<br>Web URL: www.accss.asia <br>Contact Hotline: 98502209 <br>Contact Email: geraldine.png@accss.asia <br>
+ Company Name: ACCSS Digital Pte. Ltd.<br>Web URL: www.accss.asia <br>Contact Hotline: 89450047 <br>Contact Email: contact@accss.asia <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

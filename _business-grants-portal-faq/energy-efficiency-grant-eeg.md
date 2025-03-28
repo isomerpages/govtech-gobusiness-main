@@ -15,6 +15,6 @@ permalink: /business-grants-portal-faq/eeg/
 
 {% include letter-accordion.html accordions=site.data.acc012a-eeg letter="c" %}
 
-<em>Updated as of April 2024.</em>
+<em>Updated as of February 2025.</em>
 
 [Back to Business Grants Portal Overview](/business-grants-portal/)

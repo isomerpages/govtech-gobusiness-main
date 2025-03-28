@@ -1,3 +1,10 @@
+- title: SME Pro-Enterprise Office (SME PEO)
+  description: Feedback on government regulations
+  tel: +65 6248 3939
+  url: www.enterprisesg.gov.sg/smepeo
+  url-new-tab: true
+  protocol: https
+
 - title: Animal & Veterinary Service (AVS)
   description: Animal & Veterinary Service, a cluster of National Parks Board
   url: www.avs.gov.sg/feedback
@@ -47,7 +54,9 @@
 - title: Enterprise Singapore
   description: Call Centre - Rubber
   tel: +65 6898 1800
-  email: indriyanti_ismail@enterprisesg.gov.sg, vivian_sia@enterprisesg.gov.sg
+  url: go.gov.sg/askenterprisesg
+  url-new-tab: true
+  protocol: https
 
 - title: Housing & Development Board (HDB)
   description: For Commercial Properties Inquiry
@@ -190,8 +199,9 @@
 
 - title: Singapore Civil Defence Force (SCDF)
   description: Application for Temporary Change of Use Permit
-  tel: +65 6848 1483, +65 6848 1481
-  email: Veerasingam_MUTHUSAMY@scdf.gov.sg, TEO_Mei_Tin@scdf.gov.sg
+  url: www.scdf.gov.sg/home/feedback
+  url-new-tab: true
+  protocol: https
 
 - title: Singapore Food Agency (SFA)
   description: Contact Centre<br>(including Rice Licence)
@@ -203,7 +213,9 @@
 - title: Singapore Police Force (SPF)
   description: Business Contact
   tel: +65 6835 0000
-  email: SPF_Licensing_Feedback@spf.gov.sg
+  url: www.go.gov.sg/PLRD
+  url-new-tab: true
+  protocol: https
 
 - title: Singapore Police Force (SPF)
   description: Road Closure Permit for Events

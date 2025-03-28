@@ -25,9 +25,9 @@ Best Business Valuation Services Company 2024 (Singapore)
 
 <b>Website:</b> <a href='https://www.businessvaluation.com.sg/'>https://www.businessvaluation.com.sg/</a>
 
-<b>Offer:</b> Free initial consultation
+<b>Offer:</b> IP Business Clinic participating service provider; Free initial consultation
 
-<a class='btn' href='https://form.gov.sg/64d5eb027c3c4600111e1e8d' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67ce4ccd95357df90e92e934' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -84,6 +84,6 @@ Best Business Valuation Services Company 2024 (Singapore)
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/64d5eb027c3c4600111e1e8d' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67ce4ccd95357df90e92e934' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 24 April 2024
+Profile last updated on 18 March 2025

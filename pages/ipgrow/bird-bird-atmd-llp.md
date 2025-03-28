@@ -24,7 +24,7 @@ With over 1,700 lawyers across 32 offices globally, Bird & Bird ATMD is well-pla
 
 <b>Website:</b> <a href='https://www.twobirds.com/en/reach/asia-pacific/singapore'>https://www.twobirds.com/en/reach/asia-pacific/singapore</a>
 
-<a class='btn' href='https://form.gov.sg/643f4b88cdf7590012384891' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67ce9956cdf17695deaf9a18' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -301,6 +301,6 @@ With over 1,700 lawyers across 32 offices globally, Bird & Bird ATMD is well-pla
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/643f4b88cdf7590012384891' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67ce9956cdf17695deaf9a18' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 8 May 2024

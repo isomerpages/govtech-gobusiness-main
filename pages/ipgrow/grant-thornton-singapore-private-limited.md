@@ -17,7 +17,9 @@ Grant Thornton Singapore is a leading provider of audit, tax and advisory servic
 
 <b>Website:</b> <a href='https://www.grantthornton.sg/'>https://www.grantthornton.sg/</a>
 
-<a class='btn' href='https://form.gov.sg/6653e255bd207e36db9b8de8' target='_blank' rel='noopener'>Get in touch</a>
+<b>Offer:</b> IP Business Clinic participating service provider
+
+<a class='btn' href='https://form.gov.sg/67d7e6c3dad03a8629668768' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -118,6 +120,6 @@ Grant Thornton Singapore is a leading provider of audit, tax and advisory servic
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/6653e255bd207e36db9b8de8' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7e6c3dad03a8629668768' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 2 October 2024
+Profile last updated on 26 February 2025

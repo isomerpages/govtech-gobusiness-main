@@ -9,7 +9,11 @@ permalink: /browse-all-equipment-Manufacturing/Water-Heater
 
 - Heat pump technology
 
-Note: After 1st April 2025, MELS/MEPS for household water heaters to be implemented. The technical criteria will be reviewed in 4Q2024.
+Note: From 1st April 2025, MEPS/MELS will be implemented for household water heaters.
+
+The technical criteria will be updated to:
+- Regulated water heaters: 5-ticks, and
+- All other water heaters: heat pump technology.
 
 ### Mode and Schedule of Payment 
 
@@ -19,7 +23,7 @@ Note: After 1st April 2025, MELS/MEPS for household water heaters to be implemen
 
 Up to 70% for SMEs, 30% for non-SMEs
 
-Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a>.
+Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}.
 
 ### Pre-Approved Equipment Brands and Models
 

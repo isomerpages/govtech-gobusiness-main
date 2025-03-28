@@ -25,7 +25,7 @@ We are a signatory of the United Nations Global Compact (UNGC), supporting its T
 
 <b>Website:</b> <a href='https://www.wongpartnership.com/practices/intellectual-property'>https://www.wongpartnership.com/practices/intellectual-property</a>
 
-<a class='btn' href='https://form.gov.sg/66b965c77dd406a58e91435a' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d2599874ea1e3c6b00b872' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -171,6 +171,6 @@ We are a signatory of the United Nations Global Compact (UNGC), supporting its T
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/66b965c77dd406a58e91435a' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d2599874ea1e3c6b00b872' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 14 August 2024

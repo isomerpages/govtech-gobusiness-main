@@ -53,8 +53,8 @@ The [SkillsFuture for Business User Guide](https://skillsfuture.gobusiness.gov.s
 - [e-Adviser for Premises Use](https://eadviser.gobusiness.gov.sg/premisesusecheck?src=eservices_guidesforbiz){:target="_blank"}
   <br>For business owners to check if their premises are currently approved for their intended use.
 
-- [Food Services Licence Guided Journey](https://foodservices.gobusiness.gov.sg/licences/foodservices?src=eservices_guidesforbiz){:target="_blank"}
-  <br>A step-by-step walkthrough for food service business owners to apply for relevant licences.
+- [e-Adviser for setting up food and beverages outlet](https://eadviser.gobusiness.gov.sg/settingupfnboutlet){:target="_blank"}
+  <br>If you are starting a new food service business, find out which licences you need to apply for.
 
 - [More Licence e-Advisers](/licences/find-licence-by-sector/?src=eservices_guidesforbiz)
   <br>Browse the full directory of e-Advisers for business owners to find out the licences they need. Select your business sector to find the relevant e-Adviser.
