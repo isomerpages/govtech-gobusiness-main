@@ -24,5 +24,5 @@ Finland Traficom Cybersecurity Label
 
 For CLS(IoT) applications that do not have any Foreign Scheme Labels, please refer to the other license forms for Cybersecurity Labelling Scheme for IoT (Level 1/2/3/4).
 
-For more information, please visit https://go.gov.sg/csa-cls or kindly contact cls_iot@csa.gov.sg.
+For more information, please visit https://go.gov.sg/csa-cls or kindly contact cls_iot@csa.gov.sg.
 
