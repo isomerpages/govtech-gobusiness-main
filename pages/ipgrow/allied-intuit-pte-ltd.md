@@ -144,4 +144,4 @@ Allied Intuit Pte Ltd (Allied) is an Intellectual Property (IP) firm providing I
 <p>
 <a class='btn' href='https://form.gov.sg/67d7e4b1db6c1670b5a9a425' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 26 February 2025
+Profile last updated on 27 March 2025

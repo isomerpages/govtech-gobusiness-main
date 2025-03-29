@@ -196,4 +196,4 @@ Our industry-focused approach enables us to combine in-depth industry experience
 <p>
 <a class='btn' href='https://form.gov.sg/67cf9de9379ed7a8a320bd0d' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 8 May 2024
+Profile last updated on 27 March 2025

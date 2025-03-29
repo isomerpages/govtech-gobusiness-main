@@ -189,4 +189,4 @@ Collyer Law LLC is a boutique Singapore law firm founded and staffed by experien
 <p>
 <a class='btn' href='https://form.gov.sg/67d24de43446d825e1cc1be1' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 18 June 2024
+Profile last updated on 27 March 2025

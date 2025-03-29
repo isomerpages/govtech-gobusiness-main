@@ -108,4 +108,4 @@ We are able to assist our clients not just in Singapore but also across the worl
 <p>
 <a class='btn' href='https://form.gov.sg/67d7c68eee2d3582e15deb10' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 16 October 2024
+Profile last updated on 27 March 2025

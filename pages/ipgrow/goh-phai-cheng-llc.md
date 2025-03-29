@@ -115,4 +115,4 @@ Goh Phai Cheng LLC was founded in 2006, by Mr Goh Phai Cheng SC, a Senior Counse
 <p>
 <a class='btn' href='https://form.gov.sg/67ce8902653f576e85f044bb' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 27 March 2025

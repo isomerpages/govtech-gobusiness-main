@@ -9,7 +9,7 @@ We are a full service law firm.
 
 <b>Year established in Singapore:</b> 2002
 
-<b>Top focus areas for IA/IP services:</b> Trade Mark Agent Service, Dispute Resolution, Contract Drafting
+<b>Top focus areas for IA/IP services:</b> Trade Mark Agent Service, IP Audit, IP Due Diligence, Contract Drafting, Dispute Resolution
 
 <b>Type of organization:</b> SME
 
@@ -28,11 +28,11 @@ We are a full service law firm.
 **Contract Drafting Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 16 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $350</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $300</li>
 </ul>
 
 **Dispute Resolution Services**
@@ -41,8 +41,18 @@ We are a full service law firm.
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of cases completed in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts overseas: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $2,500</li>
+</ul>
+
+**IP Intelligence and Search Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 50</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $250</li>
 </ul>
 
 **Trade Mark Agent Services**
@@ -97,4 +107,4 @@ We are a full service law firm.
 <p>
 <a class='btn' href='https://form.gov.sg/67d24704e243256907e0de37' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 08 May 2024
+Profile last updated on 27 March 2025
