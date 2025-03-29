@@ -32,6 +32,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>Cleverly SG Pte. Ltd.</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202040219C-nFlow-G' target='_blank'>inFlow</a><br></td>
+<td>iNextLabs Pte. Ltd.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201509275C-OLLA-AI-G' target='_blank'>OLLA AI</a><br></td>
 <td>CLOUDE8 PTE. LTD.</td>
 </tr>

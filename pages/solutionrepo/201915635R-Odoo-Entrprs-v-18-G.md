@@ -64,7 +64,7 @@ Odoo ERP is a flexible solution containing a full suite of applications catering
 
 ## Vendor Information
 
- Web URL: https://portcities.net/en_sg/erp-system-odoo <br><br>Contact Hotline: +6589275907 <br><br>Contact Email: singapore@portcities.net <br><br>
+ Web URL: https://portcities.net/en_sg/erp-system-odoo <br>Contact Hotline: +6589275907 <br>Contact Email: singapore@portcities.net <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -64,7 +64,7 @@ Addlly AI offers a suite of Gen AI Packages tailored to optimize social media, S
 
 ## Vendor Information
 
- Web URL: https://addlly.ai/ai-playground/# <br><br>Contact Hotline: 91528252 <br><br>Contact Email: info@addlly.ai <br><br>
+ Web URL: https://addlly.ai/ai-playground/# <br>Contact Hotline: 91528252 <br>Contact Email: info@addlly.ai <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

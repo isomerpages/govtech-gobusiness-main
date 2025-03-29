@@ -64,7 +64,7 @@ Vision crafts solutions enhancing business efficiency with a human-centric appro
 
 ## Vendor Information
 
- Web URL: https://www.visiongroup.co/products-services/ <br><br>Contact Hotline: 69099249 <br><br>Contact Email: hello@visiongroup.co <br><br>
+ Web URL: https://www.visiongroup.co/products-services/ <br>Contact Hotline: 69099249 <br>Contact Email: hello@visiongroup.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
