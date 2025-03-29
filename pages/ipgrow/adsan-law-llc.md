@@ -117,8 +117,7 @@ We provide services in the following areas of practice:
 - Location: Singapore
 - IA/IP-Related Expertise: Trade Mark Agent Service, Contract Drafting, Dispute Resolution
 - Certifications/Qualifications: Advocate and Solicitor of Supreme Court of Singapore, Solicitor, Supreme Court of England and Wales, Fellow, Insolvency Association of Singapore, Fellow, Singapore Institute of Arbitrators, Member, ICC Singapore Arbitration Group
-- URL of LinkedIn/Company Profile: 
-<a href="https://www.adsanlaw.com" target="_blank" rel="noopener">https://www.adsanlaw.com</a>
+- URL of LinkedIn/Company Profile: <a href="https://www.adsanlaw.com" target="_blank" rel="noopener">https://www.adsanlaw.com</a>
 
 **Kenny Chooi**
 

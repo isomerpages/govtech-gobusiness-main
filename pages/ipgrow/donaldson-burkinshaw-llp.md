@@ -184,8 +184,7 @@ Donaldson & Burkinshaw LLP is a full-service law firm with one of Singapore's lo
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, IP Intelligence and Search, IP Portfolio Management
 - Certifications/Qualifications: LL.B (Hons.) (National University of Singapore), Advocate and Solicitor of the Supreme Court of Singapore, Advanced Diploma in Computer Studies, Registered Singapore Patent Agent, Registered Malaysia Trademark and Industrial Design Agent
-- URL of LinkedIn/Company Profile: 
-<a href="https://www.donburk.asia/lee-shy-tsong.html" target="_blank" rel="noopener">https://www.donburk.asia/lee-shy-tsong.html</a>
+- URL of LinkedIn/Company Profile: <a href="https://www.donburk.asia/lee-shy-tsong.html" target="_blank" rel="noopener">https://www.donburk.asia/lee-shy-tsong.html</a>
 
 **Chi Duan, Gooi**
 
@@ -223,8 +222,7 @@ Donaldson & Burkinshaw LLP is a full-service law firm with one of Singapore's lo
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, IP Intelligence and Search, IP Portfolio Management
 - Certifications/Qualifications: LL.B (Hons.) (University of Liverpool, U.K.), English Bar, LL.M (London School of Economics, U.K.) (Specialising in Corporate and Commercial Law), Advocate and Solicitor of the Supreme Court of Singapore, Registered Singapore Patent Agent
-- URL of LinkedIn/Company Profile: 
-<a href="https://www.donburk.asia/koay-min-pin.html" target="_blank" rel="noopener">https://www.donburk.asia/koay-min-pin.html</a>
+- URL of LinkedIn/Company Profile: <a href="https://www.donburk.asia/koay-min-pin.html" target="_blank" rel="noopener">https://www.donburk.asia/koay-min-pin.html</a>
 
 
 **Hubert, Giam**
@@ -243,8 +241,7 @@ Donaldson & Burkinshaw LLP is a full-service law firm with one of Singapore's lo
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search, IP Due Diligence, IP Portfolio Management
 - Certifications/Qualifications: B.Eng (Hons.) (Bioengineering) (National University of Singapore), MSc in Intellectual Property Management (National University of Singapore), Registered Singapore Patent Agent, Associate Mediator accredited by the Singapore Mediation Centre
-- URL of LinkedIn/Company Profile: 
-<a href="https://www.donburk.asia/lim-teck-yeow.html" target="_blank" rel="noopener">https://www.donburk.asia/lim-teck-yeow.html</a>
+- URL of LinkedIn/Company Profile: <a href="https://www.donburk.asia/lim-teck-yeow.html" target="_blank" rel="noopener">https://www.donburk.asia/lim-teck-yeow.html</a>
 
 **Gary, Chua**
 
@@ -263,8 +260,7 @@ Donaldson & Burkinshaw LLP is a full-service law firm with one of Singapore's lo
 - Location: Singapore
 - IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Intelligence and Search, IP Due Diligence, IP Portfolio Management
 - Certifications/Qualifications: LL.B (Hons.) (University of Liverpool), Advocate and Solicitor of the Supreme Court of Singapore
-- URL of LinkedIn/Company Profile: 
-<a href="https://www.donburk.asia/chua-shang-li.html" target="_blank" rel="noopener">https://www.donburk.asia/chua-shang-li.html</a>
+- URL of LinkedIn/Company Profile: <a href="https://www.donburk.asia/chua-shang-li.html" target="_blank" rel="noopener">https://www.donburk.asia/chua-shang-li.html</a>
 
 ---
 <p>

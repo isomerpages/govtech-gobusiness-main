@@ -109,8 +109,7 @@ Furthermore, it allows effective communication, increasing your reach and furthe
 - Location: Singapore
 - IA/IP-Related Expertise: Branding Strategy
 - Certifications/Qualifications: Professional Singapore Certified Management Consultant (TUV-SUD)
-- URL of LinkedIn/Company Profile: 
-[https://www.linkedin.com/company/etereo-sg/] (https://www.linkedin.com/company/etereo-sg/)  
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/company/etereo-sg/" target="_blank" rel="noopener">https://www.linkedin.com/company/etereo-sg/</a>  
 
 
 ---
