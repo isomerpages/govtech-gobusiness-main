@@ -23,7 +23,7 @@ One major benefit of valuation services that incorporate IA/IP considerations is
 ---
 
 ### Connect with relevant service providers for valuation services (with IA/IP considerations)
-**36 service providers listed.**
+**37 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -189,7 +189,7 @@ Committed to exceptional client service by delivering what we promise, when you 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 16 to 20</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000 - $15,000</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider</li>
 </ul>
@@ -428,6 +428,21 @@ Experienced valuers for various assets including IA/IP, PPE, equity, debt and fi
 
 ---
 
+#### ATOZ SG Consulting Pte Ltd
+
+Delivering expert corporate, accounting, and tax solutions for business growth, and global success.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $801 to Above $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,200</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/67d7d4780e66d2c498d36408' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/atoz-sg-consulting-pte-ltd/){:target='_blank'}
+
+---
+
 #### VALLARIS
 
 Vallaris helps entrepreneurs and CEOs with their mergers and acquisitions deals and disputes.
@@ -576,7 +591,7 @@ We help enhance the value of IP & Brand through driving growth, competitiveness 
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1,200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $15,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> Depends on the project and number of hours required to finish. Minimum fee would be one hour of work.</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider</li>
 </ul>
 

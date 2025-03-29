@@ -137,22 +137,6 @@ One of Singapore's largest full-service law firms, providing world-class legal s
 
 ---
 
-#### Cantab IP
-
-Clear, practical and business oriented advice to help protect, enforce and defend your IP worldwide.
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 11 - 20</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of files completed in previous calendar year:</b> 901 to 1000</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $801 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider; 30 minute initial consultation without charge.</li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/67d7d358428098cc04c7ad8f' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/cantab-ip/){:target='_blank'}
-
----
-
 #### Yusarn Audrey LLC
 
 Yusarn Audrey LLC is a boutique intellectual property (IP) and corporate commercial law firm.
@@ -292,6 +276,22 @@ PINTAS: Integrated IP Solutions for ASEAN.
 
 ---
 
+#### Cantab IP
+
+Clear, practical and business oriented advice to help protect, enforce and defend your IP worldwide.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 11 - 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of files completed in previous calendar year:</b> 201 to 300</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider; 30 minute initial consultation without charge.</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/67d7d358428098cc04c7ad8f' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/cantab-ip/){:target='_blank'}
+
+---
+
 #### Valuing IP Pte Ltd
 
 Redefining Assets , At Valuing IP, we make your Intangibles, Tangible!
@@ -305,22 +305,6 @@ Redefining Assets , At Valuing IP, we make your Intangibles, Tangible!
 </ul>
 
 <a class='btn' href='https://form.gov.sg/67ce8f4374e98de72489c74f' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/valuing-ip-pte-ltd/){:target='_blank'}
-
----
-
-#### Alpha & Omega Law Corporation
-
-We are law firm with focus on IP law. We serve individuals and businesses of all sizes.
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 41 - 50</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of files completed in previous calendar year:</b> 101 to 200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $401</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider; SIPDA participating service provider</li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/67d7d4fbdad03a86296185d9' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/alpha-omega-law-corporation/){:target='_blank'}
 
 ---
 
@@ -430,6 +414,22 @@ TEE IP offers all types of local and overseas IP services: registration, litigat
 </ul>
 
 <a class='btn' href='https://form.gov.sg/67d7c76d390278b935b41d95' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/tee-ip-pte-ltd/){:target='_blank'}
+
+---
+
+#### Alpha & Omega Law Corporation
+
+We are law firm with focus on IP law. We serve individuals and businesses of all sizes.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 41 - 50</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of files completed in previous calendar year:</b> 1 to 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider; SIPDA participating service provider</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/67d7d4fbdad03a86296185d9' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/alpha-omega-law-corporation/){:target='_blank'}
 
 ---
 

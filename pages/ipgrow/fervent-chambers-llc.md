@@ -98,4 +98,4 @@ We liken our robust team of experienced lawyers working on your matter almost ro
 <p>
 <a class='btn' href='https://form.gov.sg/67d7d9871d02820472fd414b' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 26 February 2025
+Profile last updated on 27 March 2025

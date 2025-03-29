@@ -90,4 +90,4 @@ Founded in 2007, Kairos Global Pte Ltd is a boutique financial management, brand
 <p>
 <a class='btn' href='https://form.gov.sg/67d24b95fc4cdee3aaee7c7a' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 18 June 2024
+Profile last updated on 27 March 2025

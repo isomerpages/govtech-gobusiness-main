@@ -122,4 +122,4 @@ Grant Thornton Singapore is a leading provider of audit, tax and advisory servic
 <p>
 <a class='btn' href='https://form.gov.sg/67d7e6c3dad03a8629668768' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 26 February 2025
+Profile last updated on 27 March 2025

@@ -11,8 +11,7 @@ PINTAS is a multi-disciplinary intellectual property boutique firm that provides
 
 <b>Top focus areas for IA/IP services:</b> Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Freedom-to-Operate (FTO), IP Training
 
-<b>Intellectual property awards received:</b> IAM 1000 Recognition Awards 2023, 2022 ; IP Stars Recognition Awards 2023, 2022
-
+<b>Intellectual property awards received:</b> IAM 1000 Recognition Awards 2013-2025 ; IP Stars Recognition Awards 2019-2024 ; World Trademark Review (WTR) Top 1000 Trademark Professionals 2024
 
 <b>Type of organization:</b> SME
 
@@ -141,7 +140,7 @@ PINTAS is a multi-disciplinary intellectual property boutique firm that provides
 - Location: Singapore, Malaysia and Brunei
 - IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, IP Strategy Consulting, IP Intelligence and Search
 - Certifications/Qualifications: LLM (Cambridge), MBA (INSEAD), EMBA (Tsinghua), Advocate and Solicitor, Supreme Court of Singapore, Registered Patent Malaysia, Trademark, Industrial Design Agent. 
-- Awards/Accolades: IAM Strategy300 Recognition Awards 2023
+- Awards/Accolades: IAM Strategy300 Recognition Awards 2024
 - URL of LinkedIn/Company Profile: <a href="https://pintas-ip.com/our-team-members/#lokchoonhong" target="_blank" rel="noopener">https://pintas-ip.com/our-team-members/#lokchoonhong</a>
 
 **Patrick Chow**
@@ -199,4 +198,4 @@ PINTAS is a multi-disciplinary intellectual property boutique firm that provides
 <p>
 <a class='btn' href='https://form.gov.sg/67d7e659992ae987d009c313' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 26 February 2025
+Profile last updated on 27 March 2025

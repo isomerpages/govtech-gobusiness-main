@@ -82,4 +82,4 @@ As a member of Crowe Global, a top-10 accounting network, Crowe Horwath First Tr
 <p>
 <a class='btn' href='https://form.gov.sg/67d000c236a1afd875ac7c3c' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 27 March 2025

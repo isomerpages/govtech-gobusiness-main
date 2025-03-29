@@ -102,4 +102,4 @@ Piece Future is an Asia-headquartered and innovation-driven Intellectual Propert
 <p>
 <a class='btn' href='https://form.gov.sg/67ce948ea85399bf2ba3eebb' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 27 March 2025

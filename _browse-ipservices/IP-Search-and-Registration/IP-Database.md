@@ -27,7 +27,7 @@ If you prefer to engage a professional to analyse IP information for you, head t
 ---
 
 ### Connect with relevant service providers for IP database services
-**16 service providers listed.**
+**15 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -91,22 +91,6 @@ Founded in 1962, we offer full-service IP solutions globally with local support 
 </ul>
 
 <a class='btn' href='https://form.gov.sg/67cead476460c537e74b805b' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/dennemeyer/){:target='_blank'}
-
----
-
-#### IPHub Asia
-
-Our name says it all - an IP hub providing Asia-wide coverage with a strong focus on Southeast Asia.
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 31 - 40</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of users on database in previous calendar year:</b> 501 to 1000</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $250</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider; We are happy to offer a free 15min consultation to understand your IP needs better</li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/67d7da91dad03a8629631010' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/iphub-asia/){:target='_blank'}
 
 ---
 

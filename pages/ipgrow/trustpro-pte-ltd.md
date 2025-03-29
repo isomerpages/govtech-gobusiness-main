@@ -98,4 +98,4 @@ TrustPro is a multi-award winning, management consultancy firm headquartered in 
 <p>
 <a class='btn' href='https://form.gov.sg/67d7d2c90f7aa61f9c9c9c0e' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 08 January 2025
+Profile last updated on 27 March 2025

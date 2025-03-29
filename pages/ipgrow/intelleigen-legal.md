@@ -166,4 +166,4 @@ The firm also provides backend IP support to Magic Circle Firm.
 <p>
 <a class='btn' href='https://form.gov.sg/67ce9024a33ac8ee6f70818a' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 8 May 2024
+Profile last updated on 27 March 2025

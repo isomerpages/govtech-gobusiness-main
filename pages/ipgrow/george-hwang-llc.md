@@ -117,4 +117,4 @@ Besides Singapore, George has worked in Hong Kong, Bulgaria, the Bahamas and the
 <p>
 <a class='btn' href='https://form.gov.sg/67d23eeb42a4f949badebf26' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 28 February 2024
+Profile last updated on 27 March 2025

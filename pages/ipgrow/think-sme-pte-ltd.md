@@ -119,4 +119,4 @@ Our comprehensive host of Financial, Branding & Marketing, Tech Solutions, and C
 <p>
 <a class='btn' href='https://form.gov.sg/67ceb0dedd496a3035c6a6f9' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 24 April 2024
+Profile last updated on 27 March 2025

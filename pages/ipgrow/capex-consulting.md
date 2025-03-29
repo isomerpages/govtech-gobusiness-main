@@ -135,4 +135,4 @@ Our areas of Consultancy Expertise:
 <p>
 <a class='btn' href='https://form.gov.sg/67d24aa1d1e48166ca64bc2e' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 18 June 2024
+Profile last updated on 27 March 2025

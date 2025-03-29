@@ -189,4 +189,4 @@ We can provide clear and succinct advice on how to draft or interpret IP clauses
 <p>
 <a class='btn' href='https://form.gov.sg/67d24fa9facab58365a66edf' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 10 July 2024
+Profile last updated on 27 March 2025

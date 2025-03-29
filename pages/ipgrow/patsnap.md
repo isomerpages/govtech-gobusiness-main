@@ -144,4 +144,4 @@ Founded in 2007, Patsnap is the global leader in AI-powered IP and R&D intellige
 <p>
 <a class='btn' href='https://form.gov.sg/67d7c33cbbf2b86dbacdc40d' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 2 October 2024
+Profile last updated on 27 March 2025

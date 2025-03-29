@@ -173,4 +173,4 @@ We are a signatory of the United Nations Global Compact (UNGC), supporting its T
 <p>
 <a class='btn' href='https://form.gov.sg/67d2599874ea1e3c6b00b872' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 14 August 2024
+Profile last updated on 27 March 2025
