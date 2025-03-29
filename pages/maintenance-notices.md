@@ -13,12 +13,13 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 | **Scheduled Date** | **Remarks** |  
 
 
-| 20 Feb, 10pm - 21 Feb, 6am<br>21 Feb, 8pm - 24 Feb, 1am | **GoBusiness Licensing (LicenceOne)** will be unavailable due to scheduled maintenance.| 
-| 21 Feb, 6pm - 22 Feb, 12am | Applications for Certificate of Exemption, Moneylender's Licence, Pawnbroker's Licence and Moneylender's Test will be unavailable every Friday during the scheduled maintenance. |    
-| 26 Feb, 8pm - 11pm | Application, amendment, renewal & cancellation of **Infocomm Media Development Authority (IMDA) licences** will be unavailable during the upcoming scheduled maintenance. |   
-| 26 Feb, 6pm - 11:59pm | Application, amendment, renewal & cancellation of **National Environmental Agency (NEA) licences** will be unavailable during the upcoming scheduled maintenance. |       
-| 26 Feb, 5:30pm - 20 Feb, 7:30am | Application, amendment, renewal & cancellation of **Singapore Police Force (SPF) licences** will be unavailable during the upcoming scheduled maintenance. |     
-| 28 Feb, 6pm - 03 Mar, 9am | Application, amendment, renewal & cancellation of **Singapore Food Agency (SFA) licences** will be unavailable during the upcoming scheduled maintenance. |     
+| 28 Mar, 6pm - 12am  | Application, amendment, renewal & cancellation of **Ministry of Law (MINLAW) licences** will be unavailable during the upcoming scheduled maintenance. |                                                      
+| 28 Mar, 10pm - 29 Mar, 2am | All **Progressive Wage Mark** services will be unavailable during the upcoming scheduled maintenance. |      
+| 28 Mar, 8pm - 29 Mar, 8am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. |   
+| 30 Mar, 10pm - 1 Apr, 9am<br>5 Apr, 10pm - 7 Apr, 9am<br>12 Apr, 8pm - 14 Apr, 9am | Application, amendment, renewal & cancellation of **Singapore Food Agency (SFA) licences** will be unavailable during the upcoming scheduled maintenance. |              
+| 2 Apr, 6pm - 11:59pm | Application, amendment, renewal & cancellation of **National Environmental Agency (NEA) licences** will be unavailable during the upcoming scheduled maintenance. |    
+| 2 Apr, 6:30pm - 9:15pm | Application, amendment, renewal & cancellation of **Singapore Police Force (SPF) licences** will be unavailable during the upcoming scheduled maintenance. |     
+| 2 Apr, 8pm - 11pm | Application, amendment, renewal & cancellation of **Infocomm Media Development Authority (IMDA) licences** will be unavailable during the upcoming scheduled maintenance. |        
 
 
 

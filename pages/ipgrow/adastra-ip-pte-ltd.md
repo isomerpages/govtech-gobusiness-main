@@ -19,7 +19,7 @@ Specializing in Intellectual Property Rights globally with emphasis in Malaysia,
 
 <b>Website:</b> <a href='https://adastraip.com/'>https://adastraip.com/</a>
 
-<a class='btn' href='https://form.gov.sg/6549c84b96770c00113cbe05' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d002185e7738adf64b4a38' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -261,6 +261,6 @@ Specializing in Intellectual Property Rights globally with emphasis in Malaysia,
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/6549c84b96770c00113cbe05' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d002185e7738adf64b4a38' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 11 April 2024

@@ -28,6 +28,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202210012H-FR8Lbs-Modrn-Oprtng-Systm-G' target='_blank'>FR8Labs Modern Operating System</a><br></td>
+<td>FR8LABS PTE. LTD.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/198101076M-Frght-Mstr-v-90-G' target='_blank'>Freight Master Version 9.0</a><br></td>
 <td>Innosys Pte Ltd</td>
 </tr>

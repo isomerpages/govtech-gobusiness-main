@@ -1,9 +1,9 @@
 ---
-title: 'Intelleigen Legal '
+title: 'Intelleigen Legal'
 permalink: /intellectual-property/ip-grow/intelleigen-legal/
 ---
 
-## Intelleigen Legal 
+## Intelleigen Legal
 
 One of the first pan-Asia boutique law firm. Our 360 solution philosophy sees us working and advising on IP policies with governments. The firm helped MNC clients develop and implement IP strategies that resulted in quick wins. Clients appreciate our pragmatic approach and creative solutions to their problems.
 
@@ -21,7 +21,7 @@ The firm also provides backend IP support to Magic Circle Firm.
 
 <b>Website:</b> <a href='https://www.intelleigen.com'>https://www.intelleigen.com</a>
 
-<a class='btn' href='https://form.gov.sg/642b7d3369125a00118a58aa' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67ce9024a33ac8ee6f70818a' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -164,6 +164,6 @@ The firm also provides backend IP support to Magic Circle Firm.
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/642b7d3369125a00118a58aa' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67ce9024a33ac8ee6f70818a' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 8 May 2024

@@ -21,7 +21,7 @@ With a strong belief that innovation is key to enterprise growth, IPI provides e
 
 <b>Website:</b> <a href='https://www.ipi-singapore.org/'>https://www.ipi-singapore.org/</a>
 
-<a class='btn' href='https://form.gov.sg/64e30a9cc98c410011d5a366' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cfa8b36460c537e760adc0' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1b-ipgrow-company-profile %}
 
@@ -110,6 +110,6 @@ With a strong belief that innovation is key to enterprise growth, IPI provides e
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/64e30a9cc98c410011d5a366' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cfa8b36460c537e760adc0' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 11 April 2024

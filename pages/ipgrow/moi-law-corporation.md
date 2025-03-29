@@ -23,7 +23,9 @@ Read more about our services and expertise at: https://www.moi.legal
 
 <b>Website:</b> <a href='https://www.moi.legal'>https://www.moi.legal</a>
 
-<a class='btn' href='https://form.gov.sg/64052e6d72c1ed0012f3609a' target='_blank' rel='noopener'>Get in touch</a>
+<b>Offer:</b> IP Business Clinic participating service provider
+
+<a class='btn' href='https://form.gov.sg/67ce4abd6a013eb1f9da4e2f' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1a-ipgrow-company-profile %}
 
@@ -198,6 +200,6 @@ Read more about our services and expertise at: https://www.moi.legal
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/64052e6d72c1ed0012f3609a' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67ce4abd6a013eb1f9da4e2f' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 28 May 2024
+Profile last updated on 18 March 2025

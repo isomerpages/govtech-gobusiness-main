@@ -60,6 +60,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>Megasafe Technology Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/198204281M-IORDERLA-DIGITAL-ORDERING-BYOD-SLN-FS' target='_blank'>IORDERLA DIGITAL ORDERING BYOD SOLUTION</a><br></td>
+<td>SUNTOYO TECHNOLOGY PTE LTD</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200816700E-LFSut-v-1-FS' target='_blank'>LFSuite Version 1</a><br></td>
 <td>LEVELFIVE SOLUTIONS PTE. LTD.</td>
 </tr>

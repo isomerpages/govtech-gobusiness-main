@@ -8,7 +8,7 @@ third_nav_title: Singapore Civil Defence Force (SCDF)
 
 Singapore Civil Defence Force (SCDF)
 
-{% include button.html text="Apply on SCDF" src="https://eservices1.scdf.gov.sg/fisops/SCDF-ESERVICES.action?app=FMPBAPP" type="primary" %}
+{% include button.html text="Apply on SCDF" src="https://eservices.scdf.gov.sg/fisops/pfm-pipeline-licence" type="primary" %}
 
 <H3>Application Details</H3>
 
