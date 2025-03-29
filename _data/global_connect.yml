@@ -1,7 +1,15 @@
 - title: GlobalConnect@SBF
-  description: 160 Robinson Road<br>#06-01 SBF Center, Singapore 068914
+  description: 160 Robinson Road<br>#06-01 SBF Center,<br>Singapore 068914
   tel: +65 6701 1133
   email: globalconnect@sbf.org.sg
   url: globalconnect.sbf.org.sg
+  url-new-tab: true
+  protocol: https
+
+- title: GlobalConnect@SCCCI
+  description: 9 Jurong Town Hall Road<br>#04-01 Trade Association Hub Singapore 609431
+  tel: +65 6337 8381
+  email: globalconnect@sccci.org.sg
+  url: globalconnect.sccci.org.sg/default.html
   url-new-tab: true
   protocol: https
