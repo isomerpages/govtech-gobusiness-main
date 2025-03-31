@@ -36,6 +36,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Innosys Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200307927R-LOGON-FMS-G' target='_blank'>iLOGON (iFMS)</a><br></td>
+<td>KEYfields Pte. Ltd.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200103109D-SysFrght-G' target='_blank'>SysFreight</a><br></td>
 <td>Sysmagic Software Solution Pte Ltd</td>
 </tr>

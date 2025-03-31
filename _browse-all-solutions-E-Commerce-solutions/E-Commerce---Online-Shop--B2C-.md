@@ -84,10 +84,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Fairmart Technologies Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202012036D-GudToEcom-Prmum-G' target='_blank'>GuideToEcom Premium</a><br></td>
-<td>Guidesify Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201319042M-MIBC-Optmsd-Ecommrc-SLN-v-MAGENTO-245-G' target='_blank'>MIBC Optimised E-commerce solution Version MAGENTO 2.4.5</a><br></td>
 <td>MIBC PTE. LTD.</td>
 </tr>
