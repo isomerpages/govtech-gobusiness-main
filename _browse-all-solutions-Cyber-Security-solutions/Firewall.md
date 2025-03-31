@@ -20,6 +20,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/199700517K-SPTlFortntMngd-Frwll-SLNs-G' target='_blank'>SPTel-Fortinet-Managed Firewall Solutions</a><br></td>
+<td>SPTEL PTE. LTD.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201834474D-ZBD-Totl-Fortfd-Cybr-Scurty-G' target='_blank'>ZBD Total Fortified Cyber Security</a><br></td>
 <td>Zebedee Solution Pte. Ltd.</td>
 </tr>

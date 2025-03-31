@@ -31,6 +31,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/200303427W-GURUSOFT-LOGISTICS-MANAGEMENT-SYSTEM-G' target='_blank'>GURUSOFT LOGISTICS MANAGEMENT SYSTEM</a><br></td>
 <td>Gurusoft Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200307927R-LOGON-WMS-G' target='_blank'>iLOGON (iWMS)</a><br></td>
+<td>KEYfields Pte. Ltd.</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

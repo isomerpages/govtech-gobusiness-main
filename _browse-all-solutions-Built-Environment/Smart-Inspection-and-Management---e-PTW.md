@@ -35,6 +35,10 @@ This solution is supported by BCA.
 <td><a href='/productivity-solutions-grant/solutionrepo/201114849R-InSght-QSE-Elctronc-PrmtToWork-PTW-&-Sfty-Systm-G' target='_blank'>InSight QSE Electronic Permit-To-Work (ePTW) & Safety System</a><br></td>
 <td>Capps Solutions Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201500224Z-SftyCultur-G' target='_blank'>SafetyCulture</a><br></td>
+<td>ASSURE SAFETY PTE. LTD.</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
