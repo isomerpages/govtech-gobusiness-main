@@ -101,7 +101,7 @@ BDO in Singapore is a full-service professional services firm providing audit, t
 - URL of LinkedIn/Company Profile: 
 <a href="https://sg.linkedin.com/in/evelyn-lim-85920841" target="_blank" rel="noopener">https://sg.linkedin.com/in/evelyn-lim-85920841</a>
 
-'**Elis Tan**
+**Elis Tan**
 
 - Job Title: Executive Director, Transfer Pricing
 - Years of Experience: >20 years

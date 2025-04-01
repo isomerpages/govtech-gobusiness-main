@@ -26,7 +26,7 @@ Furthermore, it allows effective communication, increasing your reach and furthe
 
 <b>Offer:</b> Free Consultation
 
-<a class='btn' href='https://form.gov.sg/67db71b26882e23587f279be' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='www.etereomedia.com' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_2-ipgrow-company-profile %}
 
@@ -102,18 +102,18 @@ Furthermore, it allows effective communication, increasing your reach and furthe
 - Awards/Accolades: Singapore Good Design Award (SG Mark) 2021, Bronze A' Design Award 2020
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/company/etereo-sg/" target="_blank" rel="noopener">https://www.linkedin.com/company/etereo-sg/</a>
 
-'**Chin Keong, Tan**
+**Chin Keong, Tan**
 
 - Job Title: Principal Consultant
 - Years of Experience: 15 years
 - Location: Singapore
 - IA/IP-Related Expertise: Branding Strategy
-- Certifications/Qualifications: Professional Singapore Certified Management Consultant (TUV-SUD)
+- Certifications/Qualifications: Professional Singapore Certified Management Consultant (T&Uuml;V S&Uuml;D)
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/company/etereo-sg/" target="_blank" rel="noopener">https://www.linkedin.com/company/etereo-sg/</a>  
 
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/67db71b26882e23587f279be' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='www.etereomedia.com' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 27 March 2025
