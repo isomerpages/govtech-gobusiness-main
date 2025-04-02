@@ -22,11 +22,11 @@ Furthermore, it allows effective communication, increasing your reach and furthe
 
 <b>Address in Singapore:</b> 258 Middle Road, #02-01, Singapore 188987
 
-<b>Website:</b> <a href='www.etereomedia.com'>www.etereomedia.com</a>
+<b>Website:</b> <a href='https://etereomedia.com/'>www.etereomedia.com</a>
 
 <b>Offer:</b> Free Consultation
 
-<a class='btn' href='www.etereomedia.com' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://etereomedia.com/' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_2-ipgrow-company-profile %}
 
