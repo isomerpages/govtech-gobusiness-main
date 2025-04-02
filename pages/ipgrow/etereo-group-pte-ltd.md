@@ -26,7 +26,7 @@ Furthermore, it allows effective communication, increasing your reach and furthe
 
 <b>Offer:</b> Free Consultation
 
-<a class='btn' href='https://etereomedia.com/' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67db71b26882e23587f279be' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_2-ipgrow-company-profile %}
 
