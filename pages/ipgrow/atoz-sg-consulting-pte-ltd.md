@@ -18,7 +18,7 @@ ATOZ's network of Korean experts abroad is continuously growing.
 
 <b>Year established in Singapore:</b> 2016
 
-<b>Top focus areas for IA/IP services:</b> Trade Mark Agent Service
+<b>Top focus areas for IA/IP services:</b> Valuation (with IA/IP considerations), Tax Advisory (with IA/IP considerations), Trade Mark Agent Service
 
 <b>Type of organization:</b> SME
 
@@ -34,14 +34,34 @@ ATOZ's network of Korean experts abroad is continuously growing.
 <a name='ip-related-service-areas'></a>
 ### IA/IP service areas
 
+**Tax Advisory (with IA/IP considerations) Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Tax Advisory IP experts in Singapore: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Tax Advisory IP experts overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $500</li>
+</ul>
+
 **Trade Mark Agent Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 1 to 250</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,450</li>
+</ul>
+
+**Valuation (with IA/IP considerations) Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $801 to Above $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,200</li>
 </ul>
 
 ---
@@ -87,4 +107,4 @@ ATOZ's network of Korean experts abroad is continuously growing.
 <p>
 <a class='btn' href='https://form.gov.sg/67d7d4780e66d2c498d36408' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 22 Jan 2025
+Profile last updated on 27 March 2025

@@ -86,4 +86,4 @@ As part of the HLB network, Foo Kon Tan provides tailored solutions to meet busi
 <p>
 <a class='btn' href='https://form.gov.sg/67cfca36deadd1517b09a6cd' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 27 March 2025

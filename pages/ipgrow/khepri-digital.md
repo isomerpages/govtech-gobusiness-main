@@ -92,4 +92,4 @@ If you need a performance-oriented and fast-moving marketing partner, you have f
 <p>
 <a class='btn' href='https://form.gov.sg/67d2515745eb4baf256bf492' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 30 July 2024
+Profile last updated on 27 March 2025
