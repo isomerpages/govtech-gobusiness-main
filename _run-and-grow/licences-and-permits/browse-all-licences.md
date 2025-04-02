@@ -227,9 +227,9 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Class 5 - Temporary Liquor Licence](https://dashboard.gobusiness.gov.sg/task-details/class5temporaryliquorlicence)
 
 - [Export Health Certificate](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301070000159)
-- [Food Shop Licence](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1901021401000440)
+- [Food Shop Licence](https://dashboard.gobusiness.gov.sg/task-details/food-shop-licence)
 - [Free Sale Certificate (Animal Feed)](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201305290000327)
-- [Food Stall Licence](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1901021401000441)
+- [Food Stall Licence](https://dashboard.gobusiness.gov.sg/task-details/food-stall-licence)
 - [Free Sale Certificate (Food)](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301070000166)
 
 
@@ -241,20 +241,20 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Licence to Import Sheep & Goats](https://dashboard.gobusiness.gov.sg/task-details/licence-to-import-sheep-and-goats)
 - [Licence to Import Table Eggs](https://dashboard.gobusiness.gov.sg/task-details/licence-to-import-table-eggs)
 - [Licence to Import/Export/Tranship Food Animals, Birds, Eggs and Biologics](https://dashboard.gobusiness.gov.sg/task-details/licence-to-import-export-tranship-food-animals-birds-eggs-and-biologics)
-- [Licence to Manufacture and Process of Animal Feed](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1705221400000001)
-- [Licence to Operate a Coldstore](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201305310000330)
-- [Licence to Operate a Food Processing Establishment](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201306030000331)
-- [Licence to Operate Slaughter-house](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201306030000332)
+- [Licence to Manufacture Animal Feed and Process of Animal Feed for Food Producing Animals](https://dashboard.gobusiness.gov.sg/task-details/licence-to-manufacture-animal-feed-and-process-of-animal-feed-for-food-producing-animals)
+- [Licence to Operate a Coldstore](https://dashboard.gobusiness.gov.sg/task-details/licence-to-operate-a-coldstore)
+- [Licence to Operate a Food Processing Establishment](https://dashboard.gobusiness.gov.sg/task-details/licence-to-operate-a-food-processing-establishment)
+- [Licence to Operate Slaughter-house](https://dashboard.gobusiness.gov.sg/task-details/licence-to-operate-slaughter-house)
 - [Liquor Consumption Permit](https://dashboard.gobusiness.gov.sg/task-details/dd983343-46ff-4901-81ec-869ceb96827b)
 - [Liquor Licence - Extension of Operating Hours](https://dashboard.gobusiness.gov.sg/task-details/liquorlicenceextensionophrs)
 - [Liquor Licence (Class 1A, 1B, 2A, 2B, 3A, 3B, 4)](https://dashboard.gobusiness.gov.sg/task-details/liquor-licence-class-1a-1b-2a-2b-3a-3b-4)
 - [Permit for Temporary Fair](https://dashboard.gobusiness.gov.sg/task-details/permit-for-temporary-fair)
-- [Registration of Food Storage Warehouses](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201306030000333)
+- [Registration of Food Storage Warehouses](https://dashboard.gobusiness.gov.sg/task-details/registration-of-food-storage-warehouses)
 - [Registration to Import Feed for Food Producing Animals](https://dashboard.gobusiness.gov.sg/task-details/registration-to-import-feed-for-food-producing-animals)
 - [Registration to Import Live Frogs for Human Consumption](https://dashboard.gobusiness.gov.sg/task-details/registration-to-import-live-frogs-for-human-consumption)
 - [Registration to Import Processed Food Products and Food Appliances](https://dashboard.gobusiness.gov.sg/task-details/registration-to-import-processed-food-products-and-food-appliances)
 - [Rice Licence](https://dashboard.gobusiness.gov.sg/task-details/ricelicence)
-- [Supermarket Licence](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1901021401000442)
+- [Supermarket Licence](https://dashboard.gobusiness.gov.sg/task-details/supermarket-licence)
 - [Temporary Fair Stall Licence](https://dashboard.gobusiness.gov.sg/task-details/permit-for-temporary-fair)
 
 <a name="health-and-wellness-services"></a>
