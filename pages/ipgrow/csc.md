@@ -136,4 +136,4 @@ CSC is the trusted provider of choice for the Forbes Global 2000 and the 100 Bes
 <p>
 <a class='btn' href='https://form.gov.sg/67d7dddd917491d3d72cbafd' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 26 February 2025
+Profile last updated on 27 March 2025

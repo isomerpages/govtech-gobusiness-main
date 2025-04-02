@@ -92,4 +92,4 @@ From humble origins as a one-man business in 1977, we have matured into one of t
 <p>
 <a class='btn' href='https://form.gov.sg/67ce8100acebbee2f4cafc02' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 27 March 2025

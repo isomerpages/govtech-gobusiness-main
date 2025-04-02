@@ -22,7 +22,7 @@ By working with an innovation consultant, your business can gain fresh perspecti
 ---
 
 ### Connect with relevant service providers for innovation consultancy services
-**38 service providers listed.**
+**39 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -198,6 +198,22 @@ We inject keen business acumen into communication strategies, deliver successful
 
 ---
 
+#### AKIN by Techlyon
+
+B2B Market Insights and Revenue Acquisition Consultancy
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 16 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $16,500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free Audit of Brand and Go-to-Market Efficiency Pulse</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/67cffd7664290aadf1f8b081' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/akin-by-techlyon/){:target='_blank'}
+
+---
+
 #### Davies Collison Cave
 
 DCC prides itself on its experience and expertise in providing quality IP services around the world.
@@ -210,22 +226,6 @@ DCC prides itself on its experience and expertise in providing quality IP servic
 </ul>
 
 <a class='btn' href='https://form.gov.sg/67cf952a379ed7a8a31e76d1' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/davies-collison-cave/){:target='_blank'}
-
----
-
-#### AKIN by Techlyon
-
-AKIN delivers insights, go-to-market strategies, brand and digital for end-to-end revenue generation.
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 11 to 15</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $16,500</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free consultation for initial brand and innovation with Principal Consultant</li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/67cffd7664290aadf1f8b081' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/akin-by-techlyon/){:target='_blank'}
 
 ---
 
@@ -272,6 +272,22 @@ Khepri Digital is a Google Partner Marketing Agency, doing Paid Ads & Search Eng
 </ul>
 
 <a class='btn' href='https://form.gov.sg/67d2515745eb4baf256bf492' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/khepri-digital/){:target='_blank'}
+
+---
+
+#### Finnex Management Consulting
+
+Finnex - All in One Business Sustainability & Globalisation Consultancy, Certified Consultants
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 11 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $45,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free 45 minutes Initial Consultation</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/67d0074036a1afd875adbb05' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/finnex-management-consulting/){:target='_blank'}
 
 ---
 
@@ -404,6 +420,23 @@ antics@play is an award-winning branding, marketing and PR consultancy.
 
 ---
 
+#### Acorn Management Consulting Pte Ltd
+
+We help enhance the value of IP & Brand through driving growth, competitiveness & profitability.
+
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1,200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> Depends on the project and number of hours required to finish. Minimum fee would be one hour of work.</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/67d7e767216aadb13b790a9e' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/acorn-management-consulting-pte-ltd/){:target='_blank'}
+
+---
+
 #### FT Consulting Pte. Ltd.
 
 FT Consulting is an Asia-centric business consulting firm helping companies grow their business.
@@ -512,22 +545,6 @@ Gateway IP Services is a regional IP boutique which specialises in patents, trad
 
 ---
 
-#### Finnex Management Consulting
-
-FMC focuses on business & brand strategy, finance management & business matching in Australia, etc.
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $100,000</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Complimentary Initial Consultation (1 hour)</li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/67d0074036a1afd875adbb05' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/finnex-management-consulting/){:target='_blank'}
-
----
-
 #### Singapore FOZL Group Pte Ltd
 
 Since 2011, FOZL Group operate and served over 1000 companies to set up their companies in Singapore.
@@ -555,23 +572,6 @@ Specialize in strategy, IP optimization, branding, market entry, and digital sol
 </ul>
 
 <a class='btn' href='https://form.gov.sg/67d24ce3264dbb41d06d8d6c' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/louken/){:target='_blank'}
-
----
-
-#### Acorn Management Consulting Pte Ltd
-
-We help enhance the value of IP & Brand through driving growth, competitiveness & profitability.
-
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1,200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider</li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/67d7e767216aadb13b790a9e' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/acorn-management-consulting-pte-ltd/){:target='_blank'}
 
 ---
 
@@ -619,6 +619,22 @@ EY work across a full spectrum of services in assurance, consulting, tax, strate
 </ul>
 
 <a class='btn' href='https://form.gov.sg/67d7d540d384b6c1f0478e28' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ey-corporate-advisors-pte-ltd/){:target='_blank'}
+
+---
+
+#### Cantab IP
+
+Clear, practical and business oriented advice to help protect, enforce and defend your IP worldwide.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 11 - 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider; 30 minute initial consultation without charge.</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/67d7d358428098cc04c7ad8f' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/cantab-ip/){:target='_blank'}
 
 ---
 

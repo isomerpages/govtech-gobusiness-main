@@ -191,4 +191,4 @@ Horizon IP is a boutique Management Consultancy firm specializing in patents, tr
 <p>
 <a class='btn' href='https://form.gov.sg/67cfa4703b7c50a75264d1a3' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 27 March 2025

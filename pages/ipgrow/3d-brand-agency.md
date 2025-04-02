@@ -103,4 +103,4 @@ At 3D, we're committed to turning visions into reality, ensuring your brand not 
 <p>
 <a class='btn' href='https://form.gov.sg/67d7cddeee2d3582e160110d' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 27 November 2024
+Profile last updated on 27 March 2025
