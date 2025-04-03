@@ -25,6 +25,10 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 
 - Aerogaz  -  AZ-7328iC
 - Angelo Po (Italy)  -  1S1VT1IB
+- Anvil - ICA270B
+- Anvil - IWA1001
+- Anvil - IWA1002
+- Anvil - IWA100B
 - ATA (Italy)  -  K7ECI05TT
 - ATA (Italy)  -  K7ECI10TT
 - Bertazzoni  -  P302IB2NE
