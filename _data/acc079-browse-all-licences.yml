@@ -1825,8 +1825,8 @@
 
         This certificate is required for applicants intending to perform or carry out radiation work involving ionising radiation irradiating apparatus, radioactive materials or devices containing radioactive materials
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/r1">View Licence Details</a>
-
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/r1" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/R1--Registration-as-a-radiation-worker">View Licence Details</a>
+        
         -----
         **Toxic Industrial Waste (TIW) Collector's Licence**
 
@@ -2114,16 +2114,14 @@
 
         <p>For the operation of a food shop where there is retail sale of food and/or beverage.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1901021401000440" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Food-Shop-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Food-Shop-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/food-shop-licence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Food-Agency-(SFA)/Food-Shop-Licence">View Licence Details</a>
 
         -----
         **Food Stall Licence**
 
         <p>For the operation of a foodstall where there is retail sale of food and/or beverage in a foodshop.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1901021401000441" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Food-Stall-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Food-Stall-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/food-stall-licence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Food-Agency-(SFA)/Food-Stall-Licence">View Licence Details</a>
 
         -----
         **Free Sale Certificate (Animal Feed)**
@@ -2208,14 +2206,13 @@
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/licence-to-import-export-tranship-food-animals-birds-eggs-and-biologics" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Food-Agency-(SFA)/licence-to-import-export-tranship-food-animals--birds--eggs-and-biologics">View Licence Details</a>
 
         -----
-        **Licence to Manufacture and Process of Animal Feed**
+        **Licence to Manufacture Animal Feed and Process of Animal Feed for Food Producing Animals**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        <p>The Licence to Manufacture and Process of Animal Feed may be issued by either Animal & Veterinary Service, a cluster of National Parks Board or Singapore Food Agency. This licence is issued for the manufacture and processing of animal feed in Singapore including pet treats like dog biscuits, pastries or confectionary items for sale at retail outlets.</p>
+        <p>All local commercial producers of animal feed for food producing animals must get a Singapore<br>Food Agency (SFA)&rsquo;s issued licence before they can manufacture and process animal feed.<br>This include livestock feed and aquaculture feed.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1705221400000001" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-to-Manufacture-and-Process-of-Animal-Feed" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-to-Manufacture-and-Process-of-Animal-Feed">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/licence-to-manufacture-animal-feed-and-process-of-animal-feed-for-food-producing-animals" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-to-Manufacture-Animal-Feed-and-Process-of-Animal-Feed-for-Food-Producing-Animals">View Licence Details</a>
 
         -----
         **Licence to Operate a Coldstore**
@@ -2224,8 +2221,7 @@
 
         <p>In Singapore, all cold stores for meat & seafood products must be licensed by the Singapore Food Agency before they are permitted to carry out any storage for wholesale distribution.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201305310000330" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-to-Operate-a-Coldstore" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-to-Operate-a-Coldstore">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/licence-to-operate-a-coldstore" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-to-Operate-a-Coldstore">View Licence Details</a>
 
         -----
         **Licence to Operate a Food Processing Establishment**
@@ -2234,8 +2230,7 @@
 
         <p>In Singapore, all food processing establishments must be licensed by Singapore Food Agency before they are permitted to carry out any food processing for wholesale distribution.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201306030000331" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-to-Operate-a-Food-Processing-Establishment" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-to-Operate-a-Food-Processing-Establishment">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/licence-to-operate-a-food-processing-establishment" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-to-Operate-a-Food-Processing-Establishment">View Licence Details</a>
 
         -----
         **Licence to Operate Slaughter-house**
@@ -2244,8 +2239,7 @@
 
         <p>In Singapore, all slaughter-houses must be licensed by the Singapore Food Agency before they are permitted to carry out any food processing or storage for wholesale distribution.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201306030000332" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-to-Operate-Slaughter-house" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-to-Operate-Slaughter-house">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/licence-to-operate-slaughter-house" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-to-Operate-Slaughter-house">View Licence Details</a>
 
         -----
         **Permit for Temporary Fair**
@@ -2261,8 +2255,7 @@
 
         In Singapore, all food storage warehouse must be licensed by the Singapore Food Agency before they are permitted to carry out any storage for wholesale distribution.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201306030000333" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Registration-of-Food-Storage-Warehouses" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Registration-of-Food-Storage-Warehouses">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/registration-of-food-storage-warehouses" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Food-Agency-(SFA)/Registration-of-Food-Storage-Warehouses">View Licence Details</a>
 
         -----
         **Registration to Import Feed for Food Producing Animals**
@@ -2302,12 +2295,18 @@
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/ricelicence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Food-Agency-(SFA)/Rice-Licence">View Licence Details</a>
 
         -----
+        **Submission Form for Food Safety Management System**
+
+        <p>Submission Form for Food Safety Management System</p>
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/submission-form-for-food-safety-management-system" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Food-Agency-(SFA)/Submission-Form-for-Food-Safety-Management-System">View Licence Details</a>
+
+        -----
         **Supermarket Licence**
 
         <p>For the operation of a supermarket with the sale / preparation of raw and cooked foods.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1901021401000442" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Supermarket-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Supermarket-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/supermarket-licence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Food-Agency-(SFA)/Supermarket-Licence">View Licence Details</a>
 
         -----
         **Temporary Fair Stall Licence**

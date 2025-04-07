@@ -1,0 +1,43 @@
+- title: "Step 1: Activate your  Customs Account"
+  is_new: true
+  description: To perform transactions with Singapore Customs.
+  url: /import-export-transhipment/activate-customs-account/
+  url-new-tab: false
+  text: Find Out More
+
+- title: "Step 2: Determine HS code of goods"
+  description: A Harmonised System (HS) code is required for all goods moving in and out of Singapore. Some goods are controlled and may be subjected to additional requirements.
+  url: /import-export-transhipment/determine-hs-code-goods/
+  url-new-tab: false
+  text: Find Out More
+
+- title: "Step 3: Apply for relevant licences"
+  description: Use the HS/CA Product Code Checker to find out the recommended licences.
+  url: /import-export-transhipment/apply-for-relevant-licences/
+  url-new-tab: false
+  text: Find Out More
+
+- title: "Step 4: Register a Declaring Agent"
+  description: Only DAs may apply for import/export for a Customs Permit.
+  url: /import-export-transhipment/register-declaring-agent/
+  url-new-tab: false
+  text: Find Out More
+
+- title: "Step 5: Apply for Interbank GIRO (IBG) and eGuarantees"
+  description: Payment of duties, taxes fees and any other charges are deducted via IBG. <br>eGuarantees may not required for regulatory requirements and revenue protection purposes.
+  url: /import-export-transhipment/apply-interbank-giro/
+  url-new-tab: false
+  text: Find Out More
+
+- title: "Step 6: Apply for Customs Permit"
+  description: A customs permit is generally required for importing, exporting and transshipment of goods in and out of Singapore.
+  url: /import-export-transhipment/apply-to-customs-permit/
+  url-new-tab: false
+  text: Find Out More
+
+- title: "Retain your Trade Documents"
+  description: You are required to retain all the relevant supporting documents relating to the goods.
+  url: /import-export-transhipment/retain-trade-documents/
+  url-new-tab: false
+  text: Find Out More
+

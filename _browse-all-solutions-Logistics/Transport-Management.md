@@ -28,6 +28,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200307927R-LOGON-TMS-G' target='_blank'>iLOGON (iTMS)</a><br></td>
+<td>KEYfields Pte. Ltd.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201523609M-Tsst-G' target='_blank'>Tassta</a><br></td>
 <td>Smartcom Pte Ltd</td>
 </tr>

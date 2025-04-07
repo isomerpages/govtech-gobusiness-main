@@ -9,7 +9,7 @@ AKIN envisions to humanise brands. Our clients typically engage us on three fron
 
 <b>Year established in Singapore:</b> 2012
 
-<b>Top focus areas for IA/IP services:</b> Branding Strategy, Innovation Consultancy
+<b>Top focus areas for IA/IP services:</b> Innovation Consultancy, Branding Strategy
 
 <b>Type of organization:</b> SME
 
@@ -17,11 +17,11 @@ AKIN envisions to humanise brands. Our clients typically engage us on three fron
 
 <b>Website:</b> <a href='https://helloakin.com/'>https://helloakin.com/</a>
 
-<b>Offer:</b> Free consultation for initial brand and innovation with Principal Consultant
+<b>Offer:</b> Free Audit of Brand and Go-to-Market Efficiency Pulse
 
 <a class='btn' href='https://form.gov.sg/67cffd7664290aadf1f8b081' target='_blank' rel='noopener'>Get in touch</a>
 
-{% include overview.html anchorlinks=site.data.ov013_1a-ipgrow-company-profile %}
+{% include overview.html anchorlinks=site.data.ov013_2-ipgrow-company-profile %}
 
 ---
 <a name='ip-related-service-areas'></a>
@@ -30,19 +30,19 @@ AKIN envisions to humanise brands. Our clients typically engage us on three fron
 **Branding Strategy Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 11 to 15</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $12,500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts in Singapore: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts overseas: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $8,500</li>
 </ul>
 
 **Innovation Consultancy Services**
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 11 to 15</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Innovation Consultancy IP experts in Singapore: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 16 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Innovation Consultancy IP experts in Singapore: 11 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Innovation Consultancy IP experts overseas: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $16,500</li>
 </ul>
@@ -51,7 +51,7 @@ AKIN envisions to humanise brands. Our clients typically engage us on three fron
 <a name='industry-focus'></a>
 ### Industry focus
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Financial Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Food Manufacturing</li><li style='line-height: 27px; margin: 0px 0px !important'>Food Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Healthcare</li><li style='line-height: 27px; margin: 0px 0px !important'>Hotel</li><li style='line-height: 27px; margin: 0px 0px !important'>ICT and Media</li><li style='line-height: 27px; margin: 0px 0px !important'>Professional Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Retail</li><li style='line-height: 27px; margin: 0px 0px !important'>Security</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Retail</li><li style='line-height: 27px; margin: 0px 0px !important'>Professional Services</li><li style='line-height: 27px; margin: 0px 0px !important'>ICT and Media</li><li style='line-height: 27px; margin: 0px 0px !important'>Hotel</li><li style='line-height: 27px; margin: 0px 0px !important'>Healthcare</li><li style='line-height: 27px; margin: 0px 0px !important'>Financial Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Education</li><li style='line-height: 27px; margin: 0px 0px !important'>Food Manufacturing</li><li style='line-height: 27px; margin: 0px 0px !important'>Real Estate</li><li style='line-height: 27px; margin: 0px 0px !important'>Security</li></ul>
 
 ---
 <a name='office-locations'></a>
@@ -75,13 +75,20 @@ AKIN envisions to humanise brands. Our clients typically engage us on three fron
 <a name='testimonials'></a>
 ### Testimonials
 
-*"We are pleased to have engaged AKIN as our preferred agency. The team has consistently demonstrated a deep understanding of our brand and our target audience. Their promptness, creativity, professionalism, and attention to detail have consistently been evident in every aspect, from planning to execution of our marketing campaigns."* - Chester Ong, Product Manager, ESET.
+*"Working with AKIN has been instrumental in our success at Supermetrics in the APAC market. Their expertise in APAC B2B go-to-market consultancy has been instrumental in refining our digital paid strategy. With a global HQ in Finland, their skilful campaign localisation knowledge that has ensured our messaging and strategy resonates across diverse markets in APAC."* - Regional Marketing Manager, Supermetrics
 
-*"AKIN is reliable, intuitive, and exceptional. The team is very supportive, creative, and flexible. Our discussion sessions were enjoyable and effective, they are quick to grasp what we are looking for and work with us expeditiously to achieve it. With the brand and marketing strategy from AKIN, we are on the right path to expand our business in the region."* - Bee Loong, Director, Cossiga.
+*"Collaborating with AKIN has been impactful for Access. As part of AKIN's full-service approach, the experienced account serving team immersed themselves in understanding our charity's unique positioning, business objectives, and identity. This deep comprehension enabled a co-creative process that was both seamless and inspiring."* - CEO, Access SG
 
-*"Working with AKIN has been an absolute pleasure from day one. Their team of dedicated professionals consistently go above and beyond to understand our needs and deliver exceptional results. Their expertise and knowledge is unparalleled, and we value the unbiased advice they provide, which is always aligned with our company values and expectations. We highly recommend their services to anyone looking for a dependable partner in their business ventures."* - Ying, East Asia Marketing, Comms and Brand Manager, EATON.
+*"Working with AKIN on our ABM campaign was a fantastic experience. From the start, they took the time to understand our ideal customers, refine our messaging, and create a highly targeted approach. They also set up and optimised HubSpot automations and workflows, ensuring a smooth lead management process from marketing to sales. Their team felt like an extension of our own-proactive, strategic, and always willing to go the extra mile. Thanks to their expertise, everything was managed seamlessly from a marketing perspective before we handed the leads over to sales."* - Regional Marketing and Sales Manager, Blackpanda
 
 
+
+
+---
+<a name='case-studies'></a>
+### Case studies
+
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://www.helloakin.com/work" target="_blank" rel="noopener">case study 1</a></li></ul>
 
 ---
 <a name='key-practice-experts'></a>
@@ -93,12 +100,12 @@ AKIN envisions to humanise brands. Our clients typically engage us on three fron
 - Years of Experience: 15 years
 - Location: Singapore
 - IA/IP-Related Expertise: Branding Strategy, Innovation Consultancy
-- Certifications/Qualifications: Practising Management Consultant - PMC by SBACC, Agile Methodology - Product CSPO, Scrum master (Scrum Alliance), MBA - Quantic
-- Awards/Accolades: Full Service Agency of the Year - 2023 and 2022 by Marketing Interactive, Performance Marketing Agency of the Year - 2023 by Marketing Interactive, SCS Young Tech Leader Talent Award Finalist 2019
+- Certifications/Qualifications: Practising Management Consultant, Certified Scrum Product Owner
+- Awards/Accolades: Marketing Agency of the Year Award: Full Service Agency, Boutique Agency & Consultancy of the Year
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/arvintang/" target="_blank" rel="noopener">https://www.linkedin.com/in/arvintang/</a>
 
 ---
 <p>
 <a class='btn' href='https://form.gov.sg/67cffd7664290aadf1f8b081' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 27 March 2025

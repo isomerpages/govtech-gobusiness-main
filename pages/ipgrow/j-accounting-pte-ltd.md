@@ -76,4 +76,4 @@ We just happen to be a likeable small boutique firm.
 <p>
 <a class='btn' href='https://form.gov.sg/67cfb11a25853d19832e2a39' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 27 March 2025
