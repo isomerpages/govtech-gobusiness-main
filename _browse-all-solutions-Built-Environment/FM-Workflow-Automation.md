@@ -24,8 +24,8 @@ This solution is supported by BCA.
 <td>NEWGENE TECHNOLOGIES PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201938906W-FcltyBot-G' target='_blank'>FacilityBot</a><br></td>
-<td>FacilityBot Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201228495E-REP-FM-G' target='_blank'>iREP FM</a><br></td>
+<td>Gabkotech Innovations Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201612131Z-Smplfy-v-12-G' target='_blank'>Simplify Version 1.2</a><br></td>

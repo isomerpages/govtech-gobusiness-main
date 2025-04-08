@@ -18,7 +18,7 @@ Established in 1993, CLA Global TS is an award-winning Asia-focused business adv
 
 <b>Website:</b> <a href='https://www.cla-ts.com/'>https://www.cla-ts.com/</a>
 
-<a class='btn' href='https://form.gov.sg/66de4f32e0c3bdf121b98ceb' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d25b0f264dbb41d0712c79' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -101,6 +101,6 @@ Established in 1993, CLA Global TS is an award-winning Asia-focused business adv
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/66de4f32e0c3bdf121b98ceb' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d25b0f264dbb41d0712c79' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 18 September 2024
+Profile last updated on 27 March 2025

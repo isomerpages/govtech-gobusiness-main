@@ -1,9 +1,9 @@
 ---
-title: 'Soroker Agmon Nordman '
+title: 'Soroker Agmon Nordman'
 permalink: /intellectual-property/ip-grow/soroker-agmon-nordman/
 ---
 
-## Soroker Agmon Nordman 
+## Soroker Agmon Nordman
 
 Soroker Agmon Nordman is a foreign law firm founded by Jonathan Agmon in Singapore in 2016. With a team of 40 employees in Singapore and Israel, the firm primarily offers IP, commercial, and litigation services. In Singapore, the firm has worked with academic and research institutions and start-ups in various industries including medical, chemical, pharmaceuticals, finance, software, defence, and cybersecurity. In Israel, the firm has worked with large, medium, and small enterprises in software, hardware, telecommunications, medical, security, defence, and other fields. The firm provides services in patents, trademarks, designs, copyrights, innovation consultancy, branding strategy, legal document drafting and review, deal negotiation, due diligence, IP portfolio management, litigation, strategy consulting, ongoing legal advice, and contentious matters. The firm aims to ensure its clients' long-term success in a constantly evolving international market.
 
@@ -19,9 +19,9 @@ Soroker Agmon Nordman is a foreign law firm founded by Jonathan Agmon in Singapo
 
 <b>Website:</b> <a href='https://sanlaw.legal/'>https://sanlaw.legal/</a>
 
-<b>Offer:</b> We offer 1.5 hour free consultation to newly established technological start-ups.
+<b>Offer:</b> IP Business Clinic participating service provider; We offer 1.5 hour free consultation to newly established technological start-ups.
 
-<a class='btn' href='https://form.gov.sg/64211b0687c432001261c163' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7d3d9f42a48c6587a8ecc' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1b-ipgrow-company-profile %}
 
@@ -223,6 +223,6 @@ Soroker Agmon Nordman is a foreign law firm founded by Jonathan Agmon in Singapo
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/64211b0687c432001261c163' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7d3d9f42a48c6587a8ecc' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 10 July 2024
+Profile last updated on 26 February 2025

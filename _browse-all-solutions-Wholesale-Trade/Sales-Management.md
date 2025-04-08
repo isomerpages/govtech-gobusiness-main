@@ -35,6 +35,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/201409838G-EzyProcur-v-20-WT' target='_blank'>EzyProcure Version 2.0</a><br></td>
 <td>Singapore E-Business Pte. Ltd.</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/199905895D-MEVO-B2B-v-93-WT' target='_blank'>MEVO B2B Version 9.3</a><br></td>
+<td>MEVO Pte. Ltd.</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

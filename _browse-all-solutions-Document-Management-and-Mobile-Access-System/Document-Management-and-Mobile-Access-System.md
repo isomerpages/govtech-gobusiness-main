@@ -32,12 +32,20 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Adept Ventures Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201410722E-GncDocs-DOC-MGT-Softwr-G' target='_blank'>GenicDocs - Document Management Software</a><br></td>
-<td>Business Thrust Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201539815G-Dropbox-Busnss-Stndrd-for-SMEs-G' target='_blank'>Dropbox Business Standard for SMEs</a><br></td>
+<td>Acc Pro (Singapore) Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201100152G-Evolvcloud-v-12-G' target='_blank'>Evolvecloud Version 1.2</a><br></td>
+<td>K&K IT PRIVATE LTD</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201809937E-Mcrosoft-365-ShrPont-Onln-G' target='_blank'>Microsoft 365 SharePoint Online</a><br></td>
 <td>Tisch Global Private Limited</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200512389K-NEXPEC-DOCSVAULT-G' target='_blank'>NEXPEC DOCSVAULT</a><br></td>
+<td>NEX CORPORATEIT PTE. LTD.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200408845E-OnStop-DOC-Accss-v-20-G' target='_blank'>One-Stop Document Access Version 2.0</a><br></td>

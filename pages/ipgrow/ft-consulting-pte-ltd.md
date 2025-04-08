@@ -23,7 +23,9 @@ FT Consulting also conducts monthly IP Business Clinic sessions for IPOS.
 
 <b>Website:</b> <a href='https://www.consultft.com/'>https://www.consultft.com/</a>
 
-<a class='btn' href='https://form.gov.sg/63feb158148e560012a595a6' target='_blank' rel='noopener'>Get in touch</a>
+<b>Offer:</b> IP Business Clinic participating service provider
+
+<a class='btn' href='https://form.gov.sg/67d7d1bac75b36291017173e' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_2-ipgrow-company-profile %}
 
@@ -163,6 +165,6 @@ FT Consulting also conducts monthly IP Business Clinic sessions for IPOS.
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/63feb158148e560012a595a6' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7d1bac75b36291017173e' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 24 April 2024
+Profile last updated on 26 February 2025

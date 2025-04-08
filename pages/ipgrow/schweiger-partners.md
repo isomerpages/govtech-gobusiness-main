@@ -1,9 +1,9 @@
 ---
-title: 'Schweiger & Partners '
+title: 'Schweiger & Partners'
 permalink: /intellectual-property/ip-grow/schweiger-partners/
 ---
 
-## Schweiger & Partners 
+## Schweiger & Partners
 
 Schweiger & Partners is a registered patent law agency in Singapore, which means that we help people protect their ideas and inventions. We also have an office in Munich, Germany. We have been doing this for 27 years, so we know what we are doing. We can help with all sorts of patents, depending on what your product is. We do good work for a fixed price and we get things done quickly - in days or even in hours. We work with other similar firms around the globe, so we can protect your ideas no matter where in the world.
 
@@ -15,13 +15,13 @@ Schweiger & Partners is a registered patent law agency in Singapore, which means
 
 <b>Type of organization:</b> SME
 
-<b>Address in Singapore:</b> 105 Cecil Street #12-01 The Octagon, Singapore 069534
+<b>Address in Singapore:</b> 11 Paya Lebar Road, #08-06 Lotus at Paya Lebar, Singapore 409050
 
 <b>Website:</b> <a href='https://trademarks-patents.com/'>https://trademarks-patents.com/</a>
 
 <b>Offer:</b> Exclusive to IP Grow visitors: Sprint Patents patent drafting and FTO analysis at S$4888+GST, done in 10 days (U:P: S$5000). All Sprint Patents packages come with a free 45-minute IP consultation.
 
-<a class='btn' href='https://form.gov.sg/64c85800145131001232154e' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cfa0f2dd496a3035d8858b' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1a-ipgrow-company-profile %}
 
@@ -124,7 +124,7 @@ Schweiger & Partners is a registered patent law agency in Singapore, which means
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 101 to 200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: 11 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $590</li>
 </ul>
@@ -274,6 +274,6 @@ Schweiger & Partners is a registered patent law agency in Singapore, which means
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/64c85800145131001232154e' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cfa0f2dd496a3035d8858b' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 27 March 2025

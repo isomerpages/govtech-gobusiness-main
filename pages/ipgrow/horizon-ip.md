@@ -1,9 +1,9 @@
 ---
-title: 'Horizon IP '
+title: 'Horizon IP'
 permalink: /intellectual-property/ip-grow/horizon-ip/
 ---
 
-## Horizon IP 
+## Horizon IP
 
 Horizon IP is a boutique Management Consultancy firm specializing in patents, trademark filings and other intellectual property matters. Our team consists of US patent attorneys, Singapore patent agents and former examiners from the United States Patent and Trademark Office (USPTO). Further, we have also established good working relationships with many foreign partners in China, Korea, Europe, Australia, etc which enables us to provide intellectual property services to clients worldwide.
 
@@ -19,7 +19,7 @@ Horizon IP is a boutique Management Consultancy firm specializing in patents, tr
 
 <b>Offer:</b> Free attorney-client privilege consultation
 
-<a class='btn' href='https://form.gov.sg/64d580da00881d00121b9f16' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cfa4703b7c50a75264d1a3' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -189,6 +189,6 @@ Horizon IP is a boutique Management Consultancy firm specializing in patents, tr
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/64d580da00881d00121b9f16' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cfa4703b7c50a75264d1a3' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 27 March 2025

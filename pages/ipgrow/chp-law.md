@@ -1,9 +1,9 @@
 ---
-title: 'CHP Law '
+title: 'CHP Law'
 permalink: /intellectual-property/ip-grow/chp-law/
 ---
 
-## CHP Law 
+## CHP Law
 
 CHP Law LLC is a Singapore-based law firm that comprises an eclectic mix of lawyers.
 
@@ -23,7 +23,9 @@ We work together with our clients every step of the way, providing elegant and c
 
 <b>Website:</b> <a href='https://www.chp.law'>https://www.chp.law</a>
 
-<a class='btn' href='https://form.gov.sg/640806f397130b0011b96163' target='_blank' rel='noopener'>Get in touch</a>
+<b>Offer:</b> IP Business Clinic participating service provider; SIPDA participating service provider
+
+<a class='btn' href='https://form.gov.sg/67d7d2aad384b6c1f046afc4' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -36,7 +38,7 @@ We work together with our clients every step of the way, providing elegant and c
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: Above 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts in Singapore: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts overseas: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): NA</li>
 </ul>
@@ -75,7 +77,7 @@ We work together with our clients every step of the way, providing elegant and c
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 11 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts overseas: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
@@ -165,17 +167,10 @@ We work together with our clients every step of the way, providing elegant and c
 - Awards/Accolades: IAM Strategy 300 (Global list 2020), IAM Strategy 300 (Global list 2021), IAM Strategy 300 (Global list 2022)
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/dixon-soh" target="_blank" rel="noopener">https://www.linkedin.com/in/dixon-soh</a>
 
-**Arthur Yap**
 
-- Job Title: Director (Litigation)
-- Years of Experience: 16 years
-- Location: Singapore
-- IA/IP-Related Expertise: Dispute Resolution, IP Training, IP Watch, IP Portfolio Management, Tax Advisory (with IA/IP considerations)
-- Certifications/Qualifications: LL.B. (Hons) National University of Singapore, B. Eng. (Chem) National University of Singapore, Advocate & Solicitor of the Supreme Court of Singapore; FSIArb
-- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/arthur-yap-9a70432a" target="_blank" rel="noopener">https://www.linkedin.com/in/arthur-yap-9a70432a</a>
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/640806f397130b0011b96163' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7d2aad384b6c1f046afc4' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 27 March 2025

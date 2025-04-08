@@ -25,7 +25,9 @@ We provide services in the following areas of practice:
 
 <b>Year established in Singapore:</b> 2002
 
-<b>Top focus areas for IA/IP services:</b> Trade Mark Agent Service, Contract Drafting, Dispute Resolution
+<b>Top focus areas for IA/IP services:</b> Trade Mark Agent Service, IP Intelligence and Search, Contract Drafting
+
+<b>Intellectual property awards received:</b> Ranked 4*s in Singapore Best Law Firms 2025 for Intellectual Property Law
 
 
 <b>Type of organization:</b> SME
@@ -34,7 +36,9 @@ We provide services in the following areas of practice:
 
 <b>Website:</b> <a href='https://www.adsanlaw.com'>https://www.adsanlaw.com</a>
 
-<a class='btn' href='https://form.gov.sg/67048a6d43898c3913271472' target='_blank' rel='noopener'>Get in touch</a>
+<b>Offer:</b> IP Business Clinic participating service provider; SIPDA participating service provider
+
+<a class='btn' href='https://form.gov.sg/67d7e842c75b3629101d6d3d' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -46,7 +50,7 @@ We provide services in the following areas of practice:
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts overseas: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $800</li>
@@ -60,6 +64,16 @@ We provide services in the following areas of practice:
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts overseas: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $800</li>
+</ul>
+
+**IP Intelligence and Search Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 50</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
 </ul>
 
 **Trade Mark Agent Services**
@@ -97,13 +111,13 @@ We provide services in the following areas of practice:
 ### Key practice experts
 
 **Adrian Peh**
+
 - Job Title: Chairman 
 - Years of Experience: 37 years
 - Location: Singapore
 - IA/IP-Related Expertise: Trade Mark Agent Service, Contract Drafting, Dispute Resolution
 - Certifications/Qualifications: Advocate and Solicitor of Supreme Court of Singapore, Solicitor, Supreme Court of England and Wales, Fellow, Insolvency Association of Singapore, Fellow, Singapore Institute of Arbitrators, Member, ICC Singapore Arbitration Group
-- URL of LinkedIn/Company Profile: 
-<a href="https://www.adsanlaw.com" target="_blank" rel="noopener">https://www.adsanlaw.com</a>
+- URL of LinkedIn/Company Profile: <a href="https://www.adsanlaw.com" target="_blank" rel="noopener">https://www.adsanlaw.com</a>
 
 **Kenny Chooi**
 
@@ -112,18 +126,19 @@ We provide services in the following areas of practice:
 - Location: Singapore
 - IA/IP-Related Expertise: Dispute Resolution
 - Certifications/Qualifications: Advocate and Solicitor of the Supreme Court of Singapore, Fellow, Chartered Institute of Arbitrators, Fellow, Singapore Institute of Arbitrators, Panel Arbitrator, Singapore International Arbitration Centre, Panel Arbitrator, China International Economic and Trade Arbitration Commission
-- URL of LinkedIn/Company Profile: <a href="https://www. www.adsanlaw.com" target="_blank" rel="noopener">https://www.adsanlaw.com</a>
+- URL of LinkedIn/Company Profile: <a href="https://www.adsanlaw.com" target="_blank" rel="noopener">https://www.adsanlaw.com</a>
 
 **Eugene Lau**
 
 - Job Title: Associate Director
 - Years of Experience: 7 years
 - Location: Singapore
-- IA/IP-Related Expertise: Trade Mark Agent Service, Contract Drafting, Dispute Resolution
-- Certifications/Qualifications: Advocate and Solicitor of the Supreme Court of Singapore
+- IA/IP-Related Expertise: Trade Mark Agent Service, IP Intelligence and Search, Contract Drafting
+- Certifications/Qualifications: LLB, Advocate and Solicitor of the Supreme Court of Singapore
 - URL of LinkedIn/Company Profile: <a href="https://www.adsanlaw.com" target="_blank" rel="noopener">https://www.adsanlaw.com</a>
 
 **Bertrand Peh**
+
 - Job Title: Senior Associate
 - Years of Experience: 3 years
 - Location: Singapore 
@@ -131,9 +146,8 @@ We provide services in the following areas of practice:
 - Certifications/Qualifications: Advocate and Solicitor of the Supreme Court of Singapore
 - URL of LinkedIn/Company Profile: <a href="https://www.adsanlaw.com" target="_blank" rel="noopener">https://www.adsanlaw.com</a>
 
-
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/67048a6d43898c3913271472' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7e842c75b3629101d6d3d' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 16 October 2024
+Profile last updated on 27 March 2025

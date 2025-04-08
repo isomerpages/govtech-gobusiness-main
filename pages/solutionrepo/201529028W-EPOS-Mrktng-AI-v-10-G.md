@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/201529028W-EPOS-Mrktng-AI-
 
 **Description**
 
-EPOS Marketing AI brings innovative loyalty and customer relationship management to SMEs. It is designed to be simple, easy-to-use and automated for the busy SME owner. Featuring an AI WhatsApp Chatbot, SMEs can directly engage customers over WhatsApp to: (i) manage their rewards, (ii) share new promotions and incentives and (iii) drive online sales. An AI Engine automatically analyses customer buying patterns to create personalized products and promotions to drive sales.
+EPOS Marketing AI offers loyalty and customer relationship management for SMEs. The solution includes a WhatsApp chatbot that allows businesses to manage customer rewards, share promotions, and drive online sales. The system analyses customer buying patterns to create personalised products and promotions. Designed for ease of use, it aims to help busy SME owners engage with customers and boost sales through automated processes.
 
 ## Solution Packages Option(s)
 
@@ -26,24 +26,24 @@ EPOS Marketing AI brings innovative loyalty and customer relationship management
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1 Outlet (Unlimited Users)</td>
 <td style='padding: 10px;'>$8,200.00</td>
 <td style='padding: 10px;'>$8,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOSMarkerting_02052024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201529028W_20240283_13032025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Multiple Outlets (Unlimited Users)</td>
 <td style='padding: 10px;'>$18,200.00</td>
 <td style='padding: 10px;'>$8,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOSMarkerting_02052024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201529028W_20240283_13032025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:EPOS Pte Ltd<br>Web URL: https://www.epos.com.sg/ <br>Contact Hotline: 68718833 <br>Contact Email: sales@epos.com.sg 
+ Company Name: EPOS Pte. Ltd.<br>Web URL: https://www.epos.com.sg/ <br>Contact Hotline: 68718833 <br>Contact Email: sales@epos.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

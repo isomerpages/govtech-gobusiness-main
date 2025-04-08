@@ -11,7 +11,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Wst-Sgrgtng-Smrt-Bn-En
 
 Automates the identification and segregation of recyclables from waste. It could help streamline sorting process.
 
-There is an equipment cap. Refer to BGP for details.
+There is an equipment cap. Please refer to BGP for details.
 
 ## Solution Packages Option(s)
 

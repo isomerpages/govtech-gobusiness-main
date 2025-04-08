@@ -23,7 +23,7 @@ Our industry-focused approach enables us to combine in-depth industry experience
 
 <b>Website:</b> <a href='https://www.joylaw.com/'>https://www.joylaw.com/</a>
 
-<a class='btn' href='https://form.gov.sg/64cc5549d373a300124c3398' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cf9de9379ed7a8a320bd0d' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_2-ipgrow-company-profile %}
 
@@ -194,6 +194,6 @@ Our industry-focused approach enables us to combine in-depth industry experience
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/64cc5549d373a300124c3398' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cf9de9379ed7a8a320bd0d' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 8 May 2024
+Profile last updated on 27 March 2025

@@ -21,9 +21,9 @@ We help companies unlock their competitive edge by identifying, valuing and mone
 
 <b>Website:</b> <a href='https://www.everedgeglobal.com'>https://www.everedgeglobal.com</a>
 
-<b>Offer:</b> To discuss how to identify, value and monetise your intangible assets, book a free one-hour consultation. 
+<b>Offer:</b> IP Business Clinic participating service provider; To discuss how to identify, value and monetise your intangible assets, book a free one-hour consultation. 
 
-<a class='btn' href='https://form.gov.sg/63fc1cb344ce7f0012152941' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7d072428098cc04c6d062' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_2-ipgrow-company-profile %}
 
@@ -237,6 +237,6 @@ Valuation (with IA/IP considerations)
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/63fc1cb344ce7f0012152941' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7d072428098cc04c6d062' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 16 October 2024
+Profile last updated on 26 February 2025

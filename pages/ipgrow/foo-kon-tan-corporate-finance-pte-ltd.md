@@ -21,7 +21,7 @@ As part of the HLB network, Foo Kon Tan provides tailored solutions to meet busi
 
 <b>Website:</b> <a href='https://www.fookontan.com/corporate-finance'>https://www.fookontan.com/corporate-finance</a>
 
-<a class='btn' href='https://form.gov.sg/64fea1c41d658d00128f3e12' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cfca36deadd1517b09a6cd' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -84,6 +84,6 @@ As part of the HLB network, Foo Kon Tan provides tailored solutions to meet busi
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/64fea1c41d658d00128f3e12' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cfca36deadd1517b09a6cd' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 27 March 2025

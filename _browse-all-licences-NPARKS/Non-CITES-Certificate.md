@@ -15,7 +15,7 @@ National Parks Board (NPARKS)
 <p>The Non-CITES Certificate allows individual or commercial exporters/re-exporters to get National Parks Board approval for commercial export/re-export of non-CITES specimens such as non-CITES ostrich skins and its manufactured products.</p>
 <h3>FAQs</h3>
 <ol>
-<li><strong>Where can I get more information on trade in non-CITES wildlife parts and products?</strong><br />You can find out more at <a href="https://www.nparks.gov.sg/biodiversity/cites/trade-of-non-cites-listed-wildlife" target="_blank" rel="noopener">https://www.nparks.gov.sg/biodiversity/cites/trade-of-non-cites-listed-wildlife</a></li>
+<li><strong>Where can I get more information on trade in non-CITES wildlife parts and products?</strong><br />You can find out more at <a href="https://www.nparks.gov.sg/avs/animals/cites/trade-of-non-cites-listed-wildlife" target="_blank" rel="noopener">https://www.nparks.gov.sg/avs/animals/cites/trade-of-non-cites-listed-wildlife</a></li>
 </ol>
 
 <strong>Additional Information</strong>

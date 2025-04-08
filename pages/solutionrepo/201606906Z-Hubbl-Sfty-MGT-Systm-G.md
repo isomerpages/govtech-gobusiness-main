@@ -64,7 +64,7 @@ Struggling with construction paperwork & safety? Hubble ePTW module offers real-
 
 ## Vendor Information
 
- Company Name: Hubble Pte. Ltd.<br>Web URL: https://hubble.build/safety-management-system?utm_source=IMDA&utm_medium=SMEs_Go_Digital_CTOaaS_GoBusiness&utm_campaign=PSG_ePTW_Safety_Inspection&utm_id=ePTW_Safety_Inspection_PSG&utm_content=CTA <br>Contact Hotline: 68167890 <br>Contact Email: sales@hubble.build <br>
+ Company Name: Hubble Pte. Ltd.<br>Web URL: https://hubble.build/safety-management-system<br>Contact Hotline: 68167890 <br>Contact Email: sales@hubble.build 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

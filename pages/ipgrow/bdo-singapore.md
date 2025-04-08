@@ -17,7 +17,9 @@ BDO in Singapore is a full-service professional services firm providing audit, t
 
 <b>Website:</b> <a href='https://www.bdo.com.sg/en-gb/home'>https://www.bdo.com.sg/en-gb/home</a>
 
-<a class='btn' href='https://form.gov.sg/64ab4ac8ce11aa0012f53127' target='_blank' rel='noopener'>Get in touch</a>
+<b>Offer:</b> IP Business Clinic participating service provider
+
+<a class='btn' href='https://form.gov.sg/67d7dc610e66d2c498d5989d' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -28,8 +30,8 @@ BDO in Singapore is a full-service professional services firm providing audit, t
 **Tax Advisory (with IA/IP considerations) Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Less than $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 11 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 16 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Tax Advisory IP experts in Singapore: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Tax Advisory IP experts overseas: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $10,000 - $15,000</li>
@@ -38,7 +40,7 @@ BDO in Singapore is a full-service professional services firm providing audit, t
 **Valuation (with IA/IP considerations) Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Less than $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 16 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts in Singapore: 11 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts overseas: 0</li>
@@ -76,8 +78,8 @@ BDO in Singapore is a full-service professional services firm providing audit, t
 - Location: Singapore
 - IA/IP-Related Expertise: Valuation (with IA/IP considerations)
 - Certifications/Qualifications: Chartered Accountant (CA), Singapore, Representative's license to advise on corporate finance (Module 4A), Monetary Authority of Singapore (2023)
-- URL of LinkedIn/Company Profile: <a href="https://www. linkedin.com/in/aldric-how/" target="_blank" rel="noopener">https://www. linkedin.com/in/aldric-how/</a>
-
+- URL of LinkedIn/Company Profile: 
+<a href="https://www. linkedin.com/in/aldric-how/" target="_blank" rel="noopener">https://www. linkedin.com/in/aldric-how/</a>
 
 **Soon Keong Cheng**
 
@@ -94,11 +96,25 @@ BDO in Singapore is a full-service professional services firm providing audit, t
 - Years of Experience: >20 years
 - Location: Singapore
 - IA/IP-Related Expertise: Tax Advisory (with IA/IP considerations)
-- Certifications/Qualifications: Member (Non-Practising) of the Institute of Singapore Chartered Accountants (ISCA), Accredited Tax Advisor (Income Tax) of Singapore Chartered Tax Professionals (SCTP), International Tax Review (ITR) World Tax Ranked: Highly Regarded, International Tax Review (ITR) World Tax Ranked: Women Leader in Tax
-- URL of LinkedIn/Company Profile: <a href="https://sg.linkedin.com/in/evelyn-lim-85920841" target="_blank" rel="noopener">https://sg.linkedin.com/in/evelyn-lim-85920841</a>
+- Certifications/Qualifications: Member (Non-Practising) of the Institute of Singapore Chartered Accountants (ISCA), Accredited Tax Advisor (Income Tax) of Singapore Chartered Tax Professionals (SCTP)
+- Awards/Accolades: International Tax Review (ITR) World Tax Ranked: Highly Regarded, International Tax Review (ITR) World Tax Ranked: Women Leader in Tax
+- URL of LinkedIn/Company Profile: 
+<a href="https://sg.linkedin.com/in/evelyn-lim-85920841" target="_blank" rel="noopener">https://sg.linkedin.com/in/evelyn-lim-85920841</a>
+
+**Elis Tan**
+
+- Job Title: Executive Director, Transfer Pricing
+- Years of Experience: >20 years
+- Location: Singapore and regional
+- IA/IP-Related Expertise: Tax Advisory (with IA/IP considerations)
+- Certifications/Qualifications: Member (Non-Practising) of the Institute of Singapore Chartered Accountants (ISCA), Accredited Tax Advisor (Income Tax) of Singapore Chartered Tax Professionals (SCTP)
+- Awards/Accolades: International Tax Review (ITR) World Tax Ranked: Highly Regarded, International Tax Review (ITR) World Tax Ranked: Women Leader in Tax
+- URL of LinkedIn/Company Profile: 
+<a href="https://www.linkedin.com/in/elis-tan-98168524/" target="_blank" rel="noopener">https://www.linkedin.com/in/elis-tan-98168524/</a>  
+
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/64ab4ac8ce11aa0012f53127' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7dc610e66d2c498d5989d' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 8 May 2024
+Profile last updated on 27 March 2025
