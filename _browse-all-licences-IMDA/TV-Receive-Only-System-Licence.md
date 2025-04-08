@@ -10,32 +10,26 @@ Infocomm Media Development Authority (IMDA)
 
 {% include spcp-text.html type="cp" %}
 
-{% include licence-apply-button.html %}
-<a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=9" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>
-<div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-size: 18px; color: #313840;">
-<img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;">
-<span style="font-weight: bold; font-family: hknova-bold; font-size: 18px; ">Please use desktop / laptop to apply for this licence.</span><br>
-<span style="font-family: hknova-regular;">You can only view application details and make payment via mobile. Please use GoBusiness Licensing on desktop to use all features.</span><br><br>
-<a id="mobileNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=9" target="_blank" rel="noopener">Continue to GoBusiness Licencing anyway</a>
-</div>
+{% include button.html text="Apply on IMDA" src="https://iris.imda.gov.sg/application/television-receive-only-satellite-receiving-system-licence" type="primary" %}
+
 <H3>Application Details</H3>
 
-<p>The Info-communications Media Development Authority issues TV Receive-Only (TVRO) System Licences to organisations that need to access time sensitive information for business decisions. These organisations include financial institutions endorsed by the Monetary Authority of Singapore (MAS), commercial institutions endorsed by the Economic Development Board (EDB) or IE Singapore, media organisations endorsed by the Ministry of Digital Development and Information (MDDI), foreign embassies endorsed by the Ministry of Foreign Affairs (MFA), statutory boards, hotels endorsed by the Singapore Tourism Board (STB), foreign tertiary education institutions and international schools endorsed by EDB and local tertiary education institutions.</p>
+<p>The Info-communications Media Development Authority issues TV Receive-Only (TVRO) System Licences to organisations that need to access time sensitive information for business decisions or require TVRO systems for their business operations. These organisations include commercial institutions endorsed by the Economic Development Board (EDB) or Enterprise Singapore (ESG), foreign embassies endorsed by the Ministry of Foreign Affairs (MFA), hotels endorsed by the Singapore Tourism Board (STB), foreign tertiary education institutions and international schools endorsed by EDB, and local tertiary education institutions.</p>
 
 <strong>Additional Information</strong>
 
-<p><strong><u>Permanent TVRO System Licence</u></strong><br />Licence Fee: $1000.00 for each TVRO satellite dish installed</p>
+<p><strong><u>TVRO System Licence</u></strong><br>Licence Fee for 12 months: $1000 for each TVRO satellite dish<br><br>Licence Fee for up to 30 days: $100 for each TVRO satellite dish</p>
 
 <H3>Documents Needed</H3>
 
 <ul>
- <li><strong>Details of TV Output Points</strong></li>
- <li><strong>Floor Layout Plan showing the location of the antenna</strong></li>
- <li><strong>Form 2</strong></li>
- <li><strong>TVRO Station System Block Schematic Diagrams</strong></li>
- <li><strong>Technical Specifications of the Receiver, Decoder and Antenna</strong></li>
- <li><strong>Building Elevation plan</strong></li>
- </ul>
+<li><strong>Details of TV Output Points</strong></li>
+<li><strong>Floor Layout Plan showing the location of the antenna</strong></li>
+<li><strong>Form 2</strong></li>
+<li><strong>TVRO Station System Block Schematic Diagrams</strong></li>
+<li><strong>Technical Specifications of the Receiver, Decoder and Antenna</strong></li>
+<li><strong>Building Elevation plan</strong></li>
+</ul>
 
 <H3>Requirements</H3>
 

@@ -41,7 +41,7 @@ IPI is an innovation catalyst that creates opportunities for enterprises to grow
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $2,500</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/64e30a9cc98c410011d5a366' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ipi/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67cfa8b36460c537e760adc0' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ipi/){:target='_blank'}
 
 ---
 
@@ -50,13 +50,13 @@ IPI is an innovation catalyst that creates opportunities for enterprises to grow
 TEE IP offers all types of local and overseas IP services: registration, litigation and valuation.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of listings in previous calendar year:</b> 1 to 50</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $200</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/6719ac432086da02f5d93e87' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/tee-ip-pte-ltd/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d7c76d390278b935b41d95' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/tee-ip-pte-ltd/){:target='_blank'}
 
 ---
 

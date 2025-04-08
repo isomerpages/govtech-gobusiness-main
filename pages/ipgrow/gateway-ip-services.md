@@ -19,7 +19,7 @@ Our Intellectual Property Practice Group comprises of highly regarded IP profess
 
 <b>Website:</b> <a href=''></a>
 
-<a class='btn' href='https://form.gov.sg/65112062020dec00122360e7' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cff9837ead9515c852adeb' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -181,6 +181,6 @@ Our Intellectual Property Practice Group comprises of highly regarded IP profess
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/65112062020dec00122360e7' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cff9837ead9515c852adeb' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 25 October 2023

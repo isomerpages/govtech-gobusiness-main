@@ -13,7 +13,7 @@ We are the most active consulting company in Asia. We know franchising.
 
 <b>Year established in Singapore:</b> 2004
 
-<b>Top focus areas for IA/IP services:</b> IP Brokerage and Licensing
+<b>Top focus areas for IA/IP services:</b> IP Strategy Consulting, IP Brokerage and Licensing
 
 <b>Intellectual property awards received:</b> Presented Appreciation plaque-Egyptian Franchise Development Association 2018 ;  Leadership for Good 2021/2022 Honouree - by Brands for Good (by International Property Council - IPIIC, Singapore Chapter & Intellectual Property Office of Singapore Society) ; Presented the WALI-KADIN "Franchise Appreciation 2018 Award". WALI is the Indonesia Franchising & Licensing Society, KADIN is the Indonesia Chamber of Commerce ; Listed as one of the leading practitioners in franchising by Who's Who Legal: Franchising 2017
 
@@ -24,7 +24,9 @@ We are the most active consulting company in Asia. We know franchising.
 
 <b>Website:</b> <a href='https://www.asiawidefranchise.com.sg'>https://www.asiawidefranchise.com.sg</a>
 
-<a class='btn' href='https://form.gov.sg/673aea547aec6671d6d63872' target='_blank' rel='noopener'>Get in touch</a>
+<b>Offer:</b> IP Business Clinic participating service provider
+
+<a class='btn' href='https://form.gov.sg/67d7e943a726ab01fd7b059d' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1a-ipgrow-company-profile %}
 
@@ -39,6 +41,16 @@ We are the most active consulting company in Asia. We know franchising.
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of transactions completed in previous calendar year: 16 to 30</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Brokerage and Licensing experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Brokerage and Licensing experts overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $70,000</li>
+</ul>
+
+**IP Strategy Consulting Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: Above 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Strategy Consulting experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Strategy Consulting experts overseas: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $70,000</li>
 </ul>
 
@@ -84,7 +96,7 @@ We are the most active consulting company in Asia. We know franchising.
 - Job Title: CEO & Founder
 - Years of Experience: 35 years
 - Location: Singapore
-- IA/IP-Related Expertise: IP Brokerage and Licensing
+- IA/IP-Related Expertise: IP Strategy Consulting, IP Brokerage and Licensing
 - Certifications/Qualifications: Certified Franchise Executive (CFE) - USA, Registered Management Consultant (RMC) - Singapore
 - Awards/Accolades: 20 Faces to Watch by UK's Global Franchise (2017), Who's Who Legal - Franchising (2017), Franchise Expert of the Year (2019) by ASEAN Retail-Chains & Franchise Federation (ARFF), Lifetime Achievement Award (2024) by Arab Business Media Group, Ten-Years Contribution to Franchising (2008) and Outstanding Person in Franchising (2017) - by China Chain & Franchise Association
 - URL of LinkedIn/Company Profile: <a href="https://asiawidefranchise.com.sg/about-us" target="_blank" rel="noopener">https://asiawidefranchise.com.sg/about-us/</a>
@@ -99,7 +111,6 @@ We are the most active consulting company in Asia. We know franchising.
 - URL of LinkedIn/Company Profile: 
 <a href="https://asiawidefranchise.com.sg/about-us/" target="_blank" rel="noopener">https://asiawidefranchise.com.sg/about-us/</a>  
 
-
 **Clarence Nah**
 
 - Job Title: Resident Consultant
@@ -112,6 +123,6 @@ We are the most active consulting company in Asia. We know franchising.
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/673aea547aec6671d6d63872' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7e943a726ab01fd7b059d' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 27 November 2024
+Profile last updated on 27 March 2025

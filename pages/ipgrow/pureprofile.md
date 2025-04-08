@@ -19,7 +19,7 @@ Pureprofile is a global data and insights organization listed in Australian Secu
 
 <b>Offer:</b> Free consultation - how market research can support your business growth
 
-<a class='btn' href='https://form.gov.sg/6719c632a9efcc2520c05e27' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7c8970e66d2c498cfe391' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1b-ipgrow-company-profile %}
 
@@ -30,10 +30,10 @@ Pureprofile is a global data and insights organization listed in Australian Secu
 **Branding Strategy Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Less than $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: Above 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 26 to 30</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts overseas: Above 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts overseas: 21 to 40</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $500</li>
 </ul>
 
@@ -119,6 +119,6 @@ Pureprofile is a global data and insights organization listed in Australian Secu
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/6719c632a9efcc2520c05e27' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7c8970e66d2c498cfe391' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 30 October 2024
+Profile last updated on 27 March 2025

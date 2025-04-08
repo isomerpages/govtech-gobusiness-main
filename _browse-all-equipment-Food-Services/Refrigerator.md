@@ -7,11 +7,15 @@ permalink: /browse-all-equipment-Food-Services/Refrigerator
 
 ### Technical Requirements
 
-- Household refrigerator: Minimum 3-ticks
+- Household refrigerator: Minimum 3- ticks
+- Commercial refrigerator: Invertor technology
 
-- Commercial refrigerator: Inverter technology
+Note: From 1st April 2025, MEPS/MELS will be implemented for commercial storage refrigerators.
 
-Note: From 1st April 2025,  MEPS/MEPS to be implemented for commercial storage refrigerators. The technical criteria will be reviewed in 4Q2024.
+The technical criteria will be updated to:
+- Household refrigerator: Minimum 3- ticks
+- Regulated commercial storage refrigerators: Minimum 4-ticks, and
+- All other commercial refrigerators: inverter technology
 
 ### Mode and Schedule of Payment 
 
@@ -93,6 +97,12 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Berjaya - 4DUF-IV-Z
 - Berjaya - 6DUC-IV-Z
 - Berjaya - 6DUF-IV-Z
+- Berjaya - B2DC4-IV-SM-7
+- Berjaya - B2DC4-IV-SS-7
+- Berjaya - B2DC5-IV-SM-7
+- Berjaya - B2DC5-IV-SS-7
+- Berjaya - B2DC6-IV-SM-7
+- Berjaya - B2DC6-IV-SS-7
 - Berjaya - B3DC7-IV-BD-7
 - Berjaya - B3DC7-IV-SM7
 - Berjaya - RS09C-IV-2T
@@ -390,6 +400,10 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Euro-Chill - EC-CC15070K
 - Euro-Chill - EC-CC18070K
 - Euro-Chill - EC-CC9070K
+- Euro-Chill - EC-CF12070K
+- Euro-Chill - EC-CF15070K
+- Euro-Chill - EC-CF18070K
+- Euro-Chill - EC-CF9070K
 - Euro-Chill - EC-DCOD-1000SNM
 - Euro-Chill - EC-DCOD-1500SNM
 - Euro-Chill - EC-DFOD-1000SNM
@@ -590,6 +604,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Hitachi  - R-XG450KS
 - Hitachi  - R-XG480KS
 - Hitachi - HR4N7522DS
+- Hitachi - HR4N7522DS1
 - Hitachi - HRTN6379S
 - Hitachi - HRTN6408S
 - Hitachi - HRTN6443S
@@ -597,7 +612,9 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Hitachi - R-GWC670TS
 - Hitachi - R-HV490RS
 - Hitachi - R-HW540RS
+- Hitachi - R-HW540WS
 - Hitachi - R-HW620RS
+- Hitachi - R-HW620WS
 - Hitachi - R-HWS480KS
 - Hitachi - R-V410P8MS
 - Hitachi - R-V450P8MS
@@ -620,6 +637,10 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Hitachi - R-ZXC740WS
 - Hold - LRRF12i
 - Hold - LRRF9i
+- Hold - SWCC48-I
+- Hold - SWCC60-I
+- Hold - SWRBC48-I
+- Hold - SWRBC60-I
 - Hoshiaki - HRF-120AFT
 - Hoshizaki  - FT-120SDG-1
 - Hoshizaki  - FT-120SNG-1
@@ -759,6 +780,28 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - KINCO  - CK-UF140-EC
 - KINCO  - CK-UF62-EC
 - KINCO  - CK-UF70-EC
+- KSENG - CRF-1082D6F2(IC)
+- KSENG - CRF-18D2F2 (IC)
+- KSENG - CRF-380D2F2 (IC)
+- KSENG - CRF-840D4F2(IC)
+- KSENG - CRR-1082D6F2(IC)
+- KSENG - CRR-16D2F2 (IC)
+- KSENG - CRR-390D2F2 (IC)
+- KSENG - CRR-880D4F2(IC)
+- KSENG - CUF-260D2F2-600(IC)
+- KSENG - CUF-260D2F2-750(IC)
+- KSENG - CUF-360D2F2-600(IC)
+- KSENG - CUF-360D2F2-750(IC)
+- KSENG - CUF-460D2F2-600(IC)
+- KSENG - CUF-460D2F2-750(IC)
+- KSENG - CUR-260D2F2-600(IC)
+- KSENG - CUR-260D2F2-750(IC)
+- KSENG - CUR-360D2F2-600(IC)
+- KSENG - CUR-360D2F2-750(IC)
+- KSENG - CUR-460D2F2-600(IC)
+- KSENG - CUR-460D2F2-750(IC)
+- LeMaison - LBF123
+- LeMaison - LBF48
 - LG  - GB-B3442BE
 - LG  - GB-B3443PY
 - LG  - GB-B3449PZ
@@ -777,6 +820,8 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - LG - GB-B3864BE
 - LG - GB-B4059MT
 - LG - GB-B4059PZ
+- LG - GB-B4215MC
+- LG - GB-B4215PY
 - LG - GB-B4452PZ
 - LG - GB-B4452SE
 - LG - GB-B4453MC
@@ -786,12 +831,15 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - LG - GF-B4544EP
 - LG - GF-B6012MC
 - LG - GF-B6014EV
+- LG - GF-B6174TW
 - LG - GS-B6269PZ
 - LG - GS-B6472MC
 - LG - GS-B6472PZ
 - LG - GS-B6473EP
 - LG - GS-B6473PY
 - LG - GS-L6013PZ
+- LG - GS-L6104EV
+- LG - GS-L6104PY
 - LG - GS-X6104BE
 - LG - GS-X6104EV
 - LG - GT-B3153BN
@@ -839,6 +887,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Liebherr  - SUIK 1510
 - Liebherr  - SUIKo1550
 - Liebherr - CBNsdh 7653
+- Liebherr - ERBh 9770
 - mayer - MMFF480BI
 - Mayer - MMFT350MG
 - Mayer - MMFT400MG
@@ -956,6 +1005,9 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Mitsubishi Electric - MR-FX47EX-GWH-P
 - Mitsubishi Electric - MR-HGS52EX-GBK-P
 - Mitsubishi Electric - MR-HGS52EX-GWH-P
+- Mitsubishi Electric - MR-LX55EY-GBK-P
+- Mitsubishi Electric - MR-LX55EY-GDS-P
+- Mitsubishi Electric - MR-LX55EY-GWH-P
 - Mitsubishi Electric - MR-V50EX-SB-P
 - Mitsubishi Electric - MR-V50EX-ST-P
 - Mitsubishi Electric - MR-WX47LG-F-P
@@ -967,6 +1019,11 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Mitsubishi Electric - MR-WX70G-B-P
 - Mitsubishi Electric - MR-WX70G-BR-P
 - Mitsubishi Electric - MR-WX70G-W-P
+- Mitsubishi Electric - MR-WZ55K-C-P
+- Mitsubishi Electric - MR-WZ55K-W-P
+- Mitsubishi Electric - MR-WZ61K-B-P
+- Mitsubishi Electric - MR-WZ61K-C-P
+- Mitsubishi Electric - MR-WZ61K-W-P
 - Panasonic  - NR WY720Z
 - Panasonic  - NR XY680Y
 - Panasonic  - NR-BC360X
@@ -1184,6 +1241,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Panasonic - NR-TC311BUSS
 - Panasonic - NR-TC361BUSS
 - Panasonic - NR-XC541CUHS
+- Panasonic - NR-Y561HB-SG
 - Panasonic - SRF-K781B
 - Panasonic - SRR-K781B
 - Panasonic - SUF-K1571SB
@@ -1255,6 +1313,8 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - PRISM+ - FB3301GAGW
 - PRISM+ - FB3301SABI
 - PRISM+ - FB3301SAIN
+- PRISM+ - FB4201SABI
+- PRISM+ - FB4201SAIN
 - PRISM+ - FF4401SAIN
 - PRISM+ - FF4401SASG
 - PRISM+ - FF4401SAWH
@@ -1265,6 +1325,8 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - PRISM+ - FM0501SAIN
 - PRISM+ - FM0901SABI
 - PRISM+ - FM0901SAIN
+- PRISM+ - FS5601SASG
+- PRISM+ - FS5601SAWH
 - PRISM+ - FS6001SBBI
 - PRISM+ - FS6001SBIN
 - PRISM+ - FT3301SABI
@@ -1275,6 +1337,8 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - PRISM+ - FT5301GBGB
 - PRISM+ - FT5301SBBI
 - PRISM+ - FT5301SBIN
+- PRISM+ - FT6401SABI
+- PRISM+ - FT6401SAIN
 - Ryker  - TF24101
 - Samsung  - 
 RT62K7057BS
@@ -1329,6 +1393,11 @@ RT62K7057BS
 - Samsung - RF62DB9KA5AP
 - Samsung - RL4354RBAS8
 - Samsung - RS64R5308M9
+- Samsung - RS70F65K3F
+- Samsung - RS70F65Q3F
+- Samsung - RS70F65Q3T
+- Samsung - RS80F65J3B
+- Samsung - RS90F65D3F
 - Samsung - RT31CG5424S9
 - Samsung - RT35CG5444S9
 - Samsung - RT53DG7A6CB1
@@ -1383,6 +1452,8 @@ RT62K7057BS
 - SHARP - SJ-RF36E-DS
 - SHARP - SJ-VX57PG-BK
 - SHARP - SJ-VX57PG-DM
+- Singmah - LD-1430M3WP
+- Singmah - LD-340WP
 - Singmah - LD-460W
 - Singmah - LD-920M2WP
 - Singmah - LG-1000M2WP
@@ -1605,7 +1676,6 @@ RT62K7057BS
 - Sub-Zero - ICBCL3650UID/S/P/R
 - Sub-Zero - ICBCL3650UID/S/T/L
 - Sub-Zero - ICBCL3650UID/S/T/R
-- Sub-Zero - ICBCL3650UID/S/T/R
 - Sub-Zero - ICBCL4250S
 - Sub-Zero - ICBCL4250S/O
 - Sub-Zero - ICBCL4250S/S/P
@@ -1677,11 +1747,8 @@ RT62K7057BS
 - SUPREME - 1507680F
 - SUPREME - 1807680C
 - SUPREME - 1807680F
-- SUPREME - 2DUFF
 - Supreme - 2DUFF
-- SUPREME - 4DUFC
 - Supreme - 4DUFC
-- SUPREME - 4DUFF
 - Supreme - 4DUFF
 - Tecno  - TFR 1288-V2
 - Tecno  - TFR 330 Retro
@@ -1724,15 +1791,25 @@ RT62K7057BS
 - Toshiba  - GR-RT624WE-PMX(22S)
 - Toshiba  - GR-RT624WE-PMX(37S)
 - Toshiba  - GR-RT624WE-PMX(57S)
+- Toshiba - GR-RB405WE-PMX(06S)
 - Toshiba - GR-RF677WI-PGX(22)
 - Toshiba - GR-RF677WI-PMX(06)
 - Toshiba - GR-RM593WE-PGX(B3)
 - Toshiba - GR-RS780WI-PMX(06)
 - Toshiba - GR-RT234WE-PMX
 - Toshiba - GR-RT303WE-PMX
+- Toshiba - GR-RT416WE-PMX(58)
 - Toshiba - GR-RT735WE-PGX(GG)
 - Toshiba - GR-RT835WE-PGX(B5)
 - Toshiba - GR-RT835WE-PGX(PGB)
+- Ty - RTGD-1DF-460-INV
+- Ty - RTGD-4FSLD-PT-INV
+- Ty - UNGD-2DC-2245H-INV
+- Ty - UNGD-2DF-2245H-INV
+- Ty - UNGD-2DF-INV
+- Ty - UNGD-3DC-2245H-INV
+- Ty - UNGD-3DF-2245H-INV
+- Ty - UNGD-3DF-INV
 - Ty Brand  - RTGD-1DC-260-IVTH
 - Ty Brand  - RTGD-1DC-330-IVTH
 - Ty Brand  - RTGD-1DC-IVTH-B

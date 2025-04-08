@@ -22,7 +22,9 @@ We are one of the most reputable patent attorney firms in Singapore, having been
 
 <b>Website:</b> <a href='https://www.marks-clerk.com/global-presence/asia/singapore/singapore/'>https://www.marks-clerk.com/global-presence/asia/singapore/singapore/</a>
 
-<a class='btn' href='https://form.gov.sg/648a7891d94807001192ec08' target='_blank' rel='noopener'>Get in touch</a>
+<b>Offer:</b> IP Business Clinic participating service provider
+
+<a class='btn' href='https://form.gov.sg/67d7db030f7aa61f9c9ef78b' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -260,6 +262,6 @@ We are one of the most reputable patent attorney firms in Singapore, having been
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/648a7891d94807001192ec08' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7db030f7aa61f9c9ef78b' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 24 April 2024
+Profile last updated on 26 February 2025

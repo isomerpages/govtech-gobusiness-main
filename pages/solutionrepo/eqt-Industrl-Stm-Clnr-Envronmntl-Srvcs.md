@@ -11,7 +11,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Industrl-Stm-Clnr-Envr
 
 Generates high steam pressures for removal of dirt and grease, with a steam pressure of > 1bar/120 degree Celsius and tank capacity of > 1L.
 
-There is an equipment cap. Refer to BGP for details.
+There is an equipment cap. Please refer to BGP for details.
 
 ## Solution Packages Option(s)
 

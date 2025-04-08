@@ -20,8 +20,16 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201730809W-Mcrosoft-Busnss-Prmum-G' target='_blank'>Microsoft Business Premium</a><br></td>
+<td>ACCESSORANGE PTE. LTD.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201309957M-Mcrosoft-Cybrscurty-Pckg-G' target='_blank'>Microsoft Cybersecurity Package</a><br></td>
 <td>Rah Tech Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200823571E-Mcrosoft-Cybrscurty-SLN-G' target='_blank'>Microsoft Cybersecurity Solution</a><br></td>
+<td>VGC Technology Pte Ltd</td>
 </tr>
 </table>
 

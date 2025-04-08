@@ -28,6 +28,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>APPZGATE SOLUTIONS PTE. LTD.</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201119932D-Aptsys-Dgtl-Ordrng-SLNs-FS' target='_blank'>Aptsys - Digital Ordering Solutions</a><br></td>
+<td>Aptsys Technology Solutions Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/198901360G-AZ-DIGITAL-CONNECTED-BUSINESS-SUITE-SLN-v-10-FS' target='_blank'>AZ DIGITAL CONNECTED BUSINESS SUITE SOLUTION Version 1.0</a><br></td>
 <td>AZ Digital Pte Ltd</td>
 </tr>
@@ -40,6 +44,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td> EPOS Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201501199E-F&B-Connctd-Hub-FS' target='_blank'>F&B Connected Hub</a><br></td>
+<td>Flex-Solver Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201510017H-Gtz-F&B-Omn-Chnnl-SLN-v-3-FS' target='_blank'>Getz F&B Omni Channel Solution Version 3</a><br></td>
 <td>Getz Group Pte Ltd</td>
 </tr>
@@ -50,6 +58,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200503951K-Mkn-FS' target='_blank'>iMakan</a><br></td>
 <td>Megasafe Technology Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/198204281M-IORDERLA-DIGITAL-ORDERING-BYOD-SLN-FS' target='_blank'>IORDERLA DIGITAL ORDERING BYOD SOLUTION</a><br></td>
+<td>SUNTOYO TECHNOLOGY PTE LTD</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200816700E-LFSut-v-1-FS' target='_blank'>LFSuite Version 1</a><br></td>
