@@ -19,7 +19,9 @@ Established in 1887, Spruson & Ferguson is one of the largest intellectual prope
 
 <b>Website:</b> <a href='https://www.spruson.com/'>https://www.spruson.com/</a>
 
-<a class='btn' href='https://form.gov.sg/643f8a5cf643c40012e42c64' target='_blank' rel='noopener'>Get in touch</a>
+<b>Offer:</b> IP Business Clinic participating service provider
+
+<a class='btn' href='https://form.gov.sg/67d7d674a20dc8c2972b41ee' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -191,6 +193,6 @@ Established in 1887, Spruson & Ferguson is one of the largest intellectual prope
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/643f8a5cf643c40012e42c64' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7d674a20dc8c2972b41ee' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 18 September 2024
+Profile last updated on 26 February 2025

@@ -15,7 +15,7 @@ National Parks Board (NPARKS)
 <p>The CITES Permit allows importers, exporters and re-exporters to get National Parks Board approval for CITES specimens intended for import, export and re-export. This permit is required for both commercial consignments and personal effects.</p>
 <h3>FAQs</h3>
 <ol>
-<li><strong>Where can I get more information on trade in non-CITES wildlife parts and product? </strong><br />YYou can find out more at <a href="https://www.nparks.gov.sg/biodiversity/cites/trade-of-non-cites-listed-wildlife" target="_blank" rel="noopener">https://www.nparks.gov.sg/biodiversity/cites/trade-of-non-cites-listed-wildlife</a></li>
+<li><strong>Where can I get more information on trade in non-CITES wildlife parts and product? </strong><br />YYou can find out more at <a href="https://www.nparks.gov.sg/avs/animals/cites/trade-of-non-cites-listed-wildlife" target="_blank" rel="noopener">https://www.nparks.gov.sg/avs/animals/cites/trade-of-non-cites-listed-wildlife</a></li>
 </ol>
 
 <strong>Additional Information</strong>

@@ -53,8 +53,8 @@ The [SkillsFuture for Business User Guide](https://skillsfuture.gobusiness.gov.s
 - [e-Adviser for Premises Use](https://eadviser.gobusiness.gov.sg/premisesusecheck?src=eservices_guidesforbiz){:target="_blank"}
   <br>For business owners to check if their premises are currently approved for their intended use.
 
-- [Food Services Licence Guided Journey](https://foodservices.gobusiness.gov.sg/licences/foodservices?src=eservices_guidesforbiz){:target="_blank"}
-  <br>A step-by-step walkthrough for food service business owners to apply for relevant licences.
+- [e-Adviser for setting up food and beverages outlet](https://eadviser.gobusiness.gov.sg/settingupfnboutlet){:target="_blank"}
+  <br>If you are starting a new food service business, find out which licences you need to apply for.
 
 - [More Licence e-Advisers](/licences/find-licence-by-sector/?src=eservices_guidesforbiz)
   <br>Browse the full directory of e-Advisers for business owners to find out the licences they need. Select your business sector to find the relevant e-Adviser.
@@ -70,6 +70,15 @@ The [SkillsFuture for Business User Guide](https://skillsfuture.gobusiness.gov.s
 
 - [Accreditation Verifier](https://dashboard.gobusiness.gov.sg/verify-accreditation?src=eservices_guidesforbiz){:target="_blank"}<span style="background: #E6F2F3; border-radius: 3px; width: 53px; height: 22px; padding: 2px 8px; font-family: hknova-bold; font-size: 12px; line-height: 18px; color: #02737D; display: inline-block; vertical-align: middle; margin-left: 8px;"> NEW!</span>
   <br>Find out if a company or person has a Progressive Wage (PW) Mark by doing a search.
+
+<a name="imoport-export-transhipment"></a>
+
+### For import, export and/or transhipment
+
+- [Key steps to start your import, export and/or transhipment journey](/run-and-grow/import-export-transhipment/?src=rungrow_overview){:target="_blank"}<span style="background: #E6F2F3; border-radius: 3px; width: 53px; height: 22px; padding: 2px 8px; font-family: hknova-bold; font-size: 12px; line-height: 18px; color: #02737D; display: inline-block; vertical-align: middle; margin-left: 8px;"> NEW!</span>
+  <br>If your business entity wishes to engage in import, export and/or transhipment activities in Singapore, you will need to complete the steps listed.
+- [HS/CA Product Code Checker](https://hscodechecker.gobusiness.gov.sg/){:target="_blank"}<span style="background: #E6F2F3; border-radius: 3px; width: 53px; height: 22px; padding: 2px 8px; font-family: hknova-bold; font-size: 12px; line-height: 18px; color: #02737D; display: inline-block; vertical-align: middle; margin-left: 8px;"> NEW!</span>
+  <br>If your business entity wishes to engage in import, export and/or transhipment activities in Singapore, you will need to complete the steps listed.
 
 <a name="organising-events"></a>
 

@@ -11,7 +11,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Thrml-Foggr-Envronmntl
 
 A gasoline device that uses heat to vaporise and produces fog for pest management needs. (maximum solution tank capacity up to 10L)
 
-There is an equipment cap. Refer to BGP for details.
+There is an equipment cap. Please refer to BGP for details.
 
 ## Solution Packages Option(s)
 

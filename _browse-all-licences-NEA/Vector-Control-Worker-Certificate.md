@@ -55,5 +55,5 @@ National Environment Agency (NEA)
 
 <H3>Requirements</H3>
 
-<p><strong>Related licence(s)</strong><br>NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&amp;selectedLicenceIds=237" target="_blank" rel="noopener">Vector Control Operator Certificate</a><br>NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&amp;selectedLicenceIds=162" target="_blank" rel="noopener">Vector Control Technician Licence</a></p>
+<p><strong>Related licence(s)</strong><br>NEA <a href="https://dashboard.gobusiness.gov.sg/login?redirect-uri=https://dashboard.gobusiness.gov.sg/task-details/vectorcontroloperatorcertificate" target="_blank" rel="noopener">Vector Control Operator Certificate</a><br>NEA <a href="https://dashboard.gobusiness.gov.sg/task-details/vectorcontroltechnicianlicence" target="_blank" rel="noopener">Vector Control Technician Licence</a></p>
 

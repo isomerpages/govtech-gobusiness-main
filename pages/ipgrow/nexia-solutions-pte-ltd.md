@@ -17,7 +17,7 @@ Nexia Solutions Pte Ltd is an affiliate firm of Nexia Singapore PAC. Nexia Singa
 
 <b>Website:</b> <a href='https://www.nexiasingapore.com/'>https://www.nexiasingapore.com/</a>
 
-<a class='btn' href='https://form.gov.sg/650bb6434284830013f329a3' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cff8b55e7738adf648ee1c' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -89,6 +89,6 @@ Nexia Solutions Pte Ltd is an affiliate firm of Nexia Singapore PAC. Nexia Singa
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/650bb6434284830013f329a3' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cff8b55e7738adf648ee1c' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 27 March 2025

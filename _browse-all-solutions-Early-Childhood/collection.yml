@@ -3,9 +3,8 @@ collections:
     output: true
     order:
       - back-to-all-psg-solutions.md
-      - Pre-School-Management-System.md
       - Pre-School-Management-System-and-e-Enrolment-Forms-for-Preschools.md
+      - Pre-School-Management-System.md
       - Data-Mining-Analytics-for-Preschools--Centre-Operations-and-Child-Development-.md
       - E-enrolment-Form.md
       - Talent-Attraction-Platform.md
-      - Data-Analytics-for-Centre-Operations.md

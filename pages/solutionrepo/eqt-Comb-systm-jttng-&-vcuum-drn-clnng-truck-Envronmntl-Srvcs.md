@@ -11,7 +11,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Comb-systm-jttng-&-vcu
 
 Carries out high pressured jetting and suction during conservancy cleaning in areas such as canals, drains and/or drop inlet chambers, etc. System must be equipped with storage unit for dispensing of water for cleaning purposes and containment of waste water, with a sludge holding capacity of at least 1,500L.
 
-There is an equipment cap. Refer to BGP for details.
+There is an equipment cap. Please refer to BGP for details.
 
 ## Solution Packages Option(s)
 

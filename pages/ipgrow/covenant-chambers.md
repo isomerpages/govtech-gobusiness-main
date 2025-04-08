@@ -1,9 +1,9 @@
 ---
-title: 'Covenant Chambers '
+title: 'Covenant Chambers'
 permalink: /intellectual-property/ip-grow/covenant-chambers/
 ---
 
-## Covenant Chambers 
+## Covenant Chambers
 
 Covenant Chambers LLC is a pioneering Singapore law firm that has leveraged digital automation to provide a unique combination of technology-driven legal advisory and strategic solutions for clients across a broad range of sectors (including marginalised groups).
 
@@ -23,9 +23,9 @@ Our firm has been recognised in The Legal 500 2022 for its Technology, Media and
 
 <b>Website:</b> <a href='https://www.covenantchambers.com'>https://www.covenantchambers.com</a>
 
-<b>Offer:</b> We can provide 30 minutes of a complimentary first consultation at no charge, exclusive to users of GoBusiness IP Grow.
+<b>Offer:</b> IP Business Clinic participating service provider; SIPDA participating service provider; We can provide 30 minutes of a complimentary first consultation at no charge, exclusive to users of GoBusiness IP Grow.
 
-<a class='btn' href='https://form.gov.sg/6433d5e371de0a0011808971' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7d5ef32166e7490bf9451' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1a-ipgrow-company-profile %}
 
@@ -148,6 +148,6 @@ Our firm has been recognised in The Legal 500 2022 for its Technology, Media and
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/6433d5e371de0a0011808971' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d7d5ef32166e7490bf9451' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 26 February 2025

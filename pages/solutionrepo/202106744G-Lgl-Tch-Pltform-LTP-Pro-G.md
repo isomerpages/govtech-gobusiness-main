@@ -23,38 +23,38 @@ The LTP is a cloud-based matter management platform powered by Lupl, MinLaw's te
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LTP Starter 1 User (2 Years)</td>
-<td style='padding: 10px;'>$696.00</td>
-<td style='padding: 10px;'>$696.00</td>
-<td style='padding: 10px;'><a href='/images/psg/202106744G_20230097_05092024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LTP Starter 1 User (1 Year)</td>
+<td style='padding: 10px;'>$348.00</td>
+<td style='padding: 10px;'>$348.00</td>
+<td style='padding: 10px;'><a href='/images/psg/202106744G_20230097_01042025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LTP Starter 3 Users (2 Years)</td>
-<td style='padding: 10px;'>$2,088.00</td>
-<td style='padding: 10px;'>$2,088.00</td>
-<td style='padding: 10px;'><a href='/images/psg/202106744G_20230097_05092024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LTP Starter 3 Users (1 Year)</td>
+<td style='padding: 10px;'>$1,044.00</td>
+<td style='padding: 10px;'>$1,044.00</td>
+<td style='padding: 10px;'><a href='/images/psg/202106744G_20230097_01042025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LTP Pro x CoPilot 1 User (2 Years)</td>
-<td style='padding: 10px;'>$2,352.00</td>
-<td style='padding: 10px;'>$2,352.00</td>
-<td style='padding: 10px;'><a href='/images/psg/202106744G_20230097_05092024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LTP Pro x CoPilot 1 User (1 Year)</td>
+<td style='padding: 10px;'>$1,176.00</td>
+<td style='padding: 10px;'>$1,176.00</td>
+<td style='padding: 10px;'><a href='/images/psg/202106744G_20230097_01042025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LTP Pro x CoPilot 3 Users (2 Years)</td>
-<td style='padding: 10px;'>$7,056.00</td>
-<td style='padding: 10px;'>$7,056.00</td>
-<td style='padding: 10px;'><a href='/images/psg/202106744G_20230097_05092024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LTP Pro x CoPilot 3 Users (1 Year)</td>
+<td style='padding: 10px;'>$3,528.00</td>
+<td style='padding: 10px;'>$3,528.00</td>
+<td style='padding: 10px;'><a href='/images/psg/202106744G_20230097_01042025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LTP Pro x CoPilot 6 Users (2 Years)</td>
-<td style='padding: 10px;'>$14,112.00</td>
-<td style='padding: 10px;'>$14,112.00</td>
-<td style='padding: 10px;'><a href='/images/psg/202106744G_20230097_05092024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LTP Pro x CoPilot 6 Users (1 Year)</td>
+<td style='padding: 10px;'>$7,056.00</td>
+<td style='padding: 10px;'>$7,056.00</td>
+<td style='padding: 10px;'><a href='/images/psg/202106744G_20230097_01042025_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ The LTP is a cloud-based matter management platform powered by Lupl, MinLaw's te
 
 ## Vendor Information
 
- Company Name: C-Cubed Innovations (Singapore) Pte. Ltd.<br>Web URL: sg.lupl.com <br>Contact Hotline: 658001207076 <br>Contact Email: singapore@lupl.com <br>
+ Company Name: C-Cubed Innovations (Singapore) Pte. Ltd.<br>Web URL: sg.lupl.com <br>Contact Hotline: +6569909627<br>Contact Email: singapore@lupl.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

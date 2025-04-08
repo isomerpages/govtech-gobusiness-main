@@ -14,11 +14,11 @@ National Environment Agency (NEA)
 
 <H3>Application Details</H3>
 
-<p>For the application and registration of Vector Control Operator Certificate.</p> 
-<h3>FAQ</h3> 
-<ol> 
-<li> 
-<p><strong>What requirements/documents do I need before I submit my application online?<br></strong>To register as a Vector Control Operator, companies must fulfil the following requirements:<br>i. Register with ACRA<br>ii. (For NEW registering companies) Employ* at least one active full Vector Control Technician with at least 3 years of experience in vector control works.</p>
+<p>For the application and registration of Vector Control Operator Certificate.</p>
+<h3>FAQ</h3>
+<ol>
+<li>
+<p><strong>What requirements/documents do I need before I submit my application online?<br></strong>To register as a Vector Control Operator, companies must fulfil the following requirements:<br>i. Register with ACRA<br>ii. (For NEW registering companies) Employ* at least one dedicated full Vector Control Technician with at least 3 years of experience in vector control works.</p>
 <p>*The Full active VCT is required to submit an Amend application via GoBusiness portal to include the registering VCO company's name and UEN under working experience as his/her 'Current employer'. Any VCT application(s) related to this VCO application have to be approved first before this VCO application can be processed.</p>
 <p>The following documents are required:<br>i. At least 1 licensed full Vector Control Technician under the applicant&rsquo;s employment and has held a full Vector Control Technician licence for at least 3 years.<br>ii. Supporting documents to prove that the full Vector Control Technician (in part (i)) has at least 3 years of experience in vector control works. E.g. testimonial/employment letter which states the period of employment (at least 3 consecutive years) in the field of work related to vector control, description of the vector control job duties performed by the personnel within the stated period of employment, and the last date of employment in the field of vector control should be within the 3 years preceding the date of application.<br>iii. A list of full and provisional Vector Control Technicians and Workers employed, including the name, NRIC/Employment Pass/Work Permit number and vector control licence/ certificate type.</p>
 <p>Documents can be uploaded in the "Supporting Documents" section towards the end of the online application.</p>
@@ -40,7 +40,7 @@ National Environment Agency (NEA)
 </li>
 <li>
 <p><strong>What is a material change?</strong><br>Material change refer to change made to your details reflected on your certificate of registration which require a reprint. E.g. Name of Company, Registered Address of Company. Non-material change refer to change made to your details not reflected on your certificate. E.g. E-mail addresses, contact numbers.</p>
-</li> 
+</li>
 </ol>
 
 <strong>Additional Information</strong>
@@ -56,5 +56,5 @@ National Environment Agency (NEA)
 <H3>Requirements</H3>
 
 <p><strong>Prerequisite Licence(s)</strong><br>ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
-<p><strong>Related licence(s)</strong><br>NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&amp;selectedLicenceIds=162" target="_blank" rel="noopener">Vector Control Technician Licence</a><br>NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&amp;selectedLicenceIds=164" target="_blank" rel="noopener">Vector Control Worker Certificate</a></p>
+<p><strong>Related licence(s)</strong><br>NEA <a href="https://dashboard.gobusiness.gov.sg/task-details/vectorcontroltechnicianlicence" target="_blank" rel="noopener">Vector Control Technician Licence</a><br>NEA <a href="https://dashboard.gobusiness.gov.sg/task-details/vectorcontrolworkercertificate" target="_blank" rel="noopener">Vector Control Worker Certificate</a></p>
 

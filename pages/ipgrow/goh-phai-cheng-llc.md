@@ -19,9 +19,9 @@ Goh Phai Cheng LLC was founded in 2006, by Mr Goh Phai Cheng SC, a Senior Counse
 
 <b>Website:</b> <a href='https://gohpc.com/'>https://gohpc.com/</a>
 
-<b>Offer:</b> Free first consultation.
+<b>Offer:</b> SIPDA participating service provider; Free first consultation.
 
-<a class='btn' href='https://form.gov.sg/6410357afaf4420013a3ef70' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67ce8902653f576e85f044bb' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_2-ipgrow-company-profile %}
 
@@ -113,6 +113,6 @@ Goh Phai Cheng LLC was founded in 2006, by Mr Goh Phai Cheng SC, a Senior Counse
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/6410357afaf4420013a3ef70' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67ce8902653f576e85f044bb' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 27 March 2025

@@ -16,13 +16,12 @@ The Business Grants Portal (BGP) is a one-stop portal for businesses to apply fo
 
 Currently on BGP, you can apply for:
 
-- [Productivity Solutions Grant](/productivity-solutions-grant/?src=rungrow-bgp)
+- [Productivity Solutions Grant](/productivity-solutions-grant/?src=rungrow-bgp){:target="_blank"}
 - [Energy Efficiency Grant](/energy-efficiency-grant/?src=rungrow-bgp)
 - [Market Readiness Assistance](https://www.enterprisesg.gov.sg/financial-support/market-readiness-assistance-grant){:target="_blank"}
 - [Enterprise Development Grant](https://www.enterprisesg.gov.sg/financial-support/enterprise-development-grant){:target="_blank"}
 - [Business Improvement Fund](https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/business-improvement-fund-bif.html){:target="_blank"}
 - [Aviation Development Fund](https://www.caas.gov.sg/who-we-are/areas-of-responsibility/developing-the-industry/aviation-development-fund){:target="_blank"}
-- [Productivity Solutions Grant](/productivity-solutions-grant/){:target="_blank"}
 - [Agri-Food Cluster Transformation Fund](https://www.sfa.gov.sg/food-farming/funding-schemes/act-fund){:target="_blank"}
 - [Electric Vehicle Common Charger Grant](https://www.lta.gov.sg/content/ltagov/en/industry_innovations/technologies/electric_vehicles/ev_common_charger_grant.html){:target="_blank"}
 - [Experience Step-Up Fund](https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/experience-step-up-fund-esf.html){:target="_blank"}

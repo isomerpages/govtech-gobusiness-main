@@ -35,13 +35,13 @@ Select a service provider below to view their profile and connect with them.
 We are a law firm specialising in IP registration, enforcement, advisory, and dispute resolution.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 11 - 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of cases completed in previous calendar year:</b> Above 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $3,000</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/642b843bda710f00125ae2d3' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ravindran-associates-llp/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67ce98b928c24ee0474cf0b2' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ravindran-associates-llp/){:target='_blank'}
 
 ---
 
@@ -56,7 +56,7 @@ Bird & Bird ATMD is a leading full-service Singapore law firm in association wit
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,000</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/643f4b88cdf7590012384891' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/bird-bird-atmd-llp/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67ce9956cdf17695deaf9a18' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/bird-bird-atmd-llp/){:target='_blank'}
 
 ---
 
@@ -72,7 +72,7 @@ Aequitas Law LLP is a full service law firm, specializing in commercial law and 
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> First consultation (limited to 30 minutes) is free, exclusive to users of GoBusiness IP Grow.</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/64c709e15ed383001239085b' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/aequitas-law-llp/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67cf9cfa28c24ee0476471b2' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/aequitas-law-llp/){:target='_blank'}
 
 ---
 
@@ -87,7 +87,7 @@ Our focus is to protect, enforce and commercialize our clients' intellectual pro
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $2,000</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/65eeb8aae7798cdb742237ea' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/hslegal-llp/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d2406bdd04d15c9fc842cc' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/hslegal-llp/){:target='_blank'}
 
 ---
 
@@ -96,13 +96,13 @@ Our focus is to protect, enforce and commercialize our clients' intellectual pro
 We believe that Business comes before Law, and we collaborate with others who share our vision.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of cases completed in previous calendar year:</b> 71 to 75</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,000</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/66f12ce092186338ff6f257e' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/vanillalaw-llc/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d7c59fd384b6c1f042d0d6' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/vanillalaw-llc/){:target='_blank'}
 
 ---
 
@@ -115,10 +115,10 @@ We help our clients protect, manage, and commercialise their intellectual proper
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of cases completed in previous calendar year:</b> 56 to 60</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $2,000</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Book a free 1-hour consultation.</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider; Book a free 1-hour consultation.</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/643f94f9f643c40012e624cf' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/thatlegal-llc/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d7d6f4390278b935b8afea' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/thatlegal-llc/){:target='_blank'}
 
 ---
 
@@ -133,7 +133,7 @@ Allen & Gledhill is a regional law firm providing legal services to premier clie
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> Case by case</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/642b86d1d88e0800129def29' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/allen-gledhill-llp/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67cea2679c0dcb2dd925e4be' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/allen-gledhill-llp/){:target='_blank'}
 
 ---
 
@@ -148,7 +148,7 @@ Yusarn Audrey LLC is a boutique intellectual property (IP) and corporate commerc
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $50,000</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/64b48c75b0717e0012c39889' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/yusarn-audrey-llc/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67cf9b7cdeadd1517bfe2b8d' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/yusarn-audrey-llc/){:target='_blank'}
 
 ---
 
@@ -163,7 +163,7 @@ Founded in 1998 with a strong international outlook and has been active in cross
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> Depends on the project</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/64cc5549d373a300124c3398' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/joyce-a-tan-partners-llc/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67cf9de9379ed7a8a320bd0d' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/joyce-a-tan-partners-llc/){:target='_blank'}
 
 ---
 
@@ -176,9 +176,10 @@ A boutique law firm specialising in IP, media, entertainment, technology, busine
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of cases completed in previous calendar year:</b> 31 to 35</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $3,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/64052e6d72c1ed0012f3609a' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/moi-law-corporation/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67ce4abd6a013eb1f9da4e2f' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/moi-law-corporation/){:target='_blank'}
 
 ---
 
@@ -191,10 +192,10 @@ Goh Phai Cheng LLC, Singapore Lawyers providing Best Value and Good Service.
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of cases completed in previous calendar year:</b> 26 to 30</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> Case-by-case basis </li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free first consultation.</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> SIPDA participating service provider; Free first consultation.</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/6410357afaf4420013a3ef70' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/goh-phai-cheng-llc/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67ce8902653f576e85f044bb' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/goh-phai-cheng-llc/){:target='_blank'}
 
 ---
 
@@ -207,24 +208,26 @@ Withers KhattarWong is a full-service international law firm located in Singapor
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of cases completed in previous calendar year:</b> 26 to 30</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1500 and upwards</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/642e09e3f5467b0012bba932' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/withers-khattarwong-llp/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67ce503dda4f6bd4764e662a' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/withers-khattarwong-llp/){:target='_blank'}
 
 ---
 
-#### CHP Law 
+#### CHP Law
 
 CHP Law LLC provides elegant and creative legal solutions for its clients.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 11 - 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of cases completed in previous calendar year:</b> 21 to 25</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider; SIPDA participating service provider</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/640806f397130b0011b96163' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/chp-law/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d7d2aad384b6c1f046afc4' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/chp-law/){:target='_blank'}
 
 ---
 
@@ -239,7 +242,7 @@ An established one-stop Singapore commercial law firm with offices in 6 ASEAN co
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $5,000</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/67443510746742c1d1fcdcda' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/kelvin-chia-partnership/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d7cfdf992ae987d0034004' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/kelvin-chia-partnership/){:target='_blank'}
 
 ---
 
@@ -252,9 +255,10 @@ Ghows LLC is a Singapore law practice recognised within the industry for its exp
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of cases completed in previous calendar year:</b> 16 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> SIPDA participating service provider</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/6433d8fb3e8d6600113150b3' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ghows-llc/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67ce9c546460c537e746746f' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ghows-llc/){:target='_blank'}
 
 ---
 
@@ -267,10 +271,10 @@ Donaldson & Burkinshaw LLP provides IP services and practises the full spectrum 
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of cases completed in previous calendar year:</b> 16 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $600</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> First consultation is free upon formal engagement of our firm.</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider; First consultation is free upon formal engagement of our firm.</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/6450a7ce45da250012ca6ec3' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/donaldson-burkinshaw-llp/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67ce4da76a45ba5731a049ea' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/donaldson-burkinshaw-llp/){:target='_blank'}
 
 ---
 
@@ -286,7 +290,7 @@ Headquartered in Singapore, WongPartnership is a top law firm offering full suit
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> Please contact us for further details</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/66b965c77dd406a58e91435a' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/wongpartnership-llp/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d2599874ea1e3c6b00b872' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/wongpartnership-llp/){:target='_blank'}
 
 ---
 
@@ -302,7 +306,7 @@ IP/IA experts with vast experience advising on contentious and non-contentious I
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free first consultation (<30 minutes), if the firm is engaged.</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/643f93073b2d450011b0ab79' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/lee-lee/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67cea777cdf17695deb3e903' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/lee-lee/){:target='_blank'}
 
 ---
 
@@ -315,10 +319,10 @@ We specialize in trademark, design and patent prosecution, and IP dispute and co
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of cases completed in previous calendar year:</b> 11 to 15</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200  to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $2,500</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free initial half-hour consultation.</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider; Free initial half-hour consultation.</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/64583d45250873001236748b' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/francine-tan-law-corporation/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d7d75f63212d415ef227fc' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/francine-tan-law-corporation/){:target='_blank'}
 
 ---
 
@@ -331,9 +335,10 @@ A full-service law firm founded in 1947 and member of PLG International Lawyers.
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of cases completed in previous calendar year:</b> 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $3,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> SIPDA participating service provider</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/645a0c2d02527d0013e622ed' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/tan-rajah-cheah/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67ceab33663eae2befdafc8d' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/tan-rajah-cheah/){:target='_blank'}
 
 ---
 
@@ -348,23 +353,23 @@ A regional legal practice with a focus in IP & technology, litigation, corporate
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/6422622f4422e900124f2b0a' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/gateway-law-corporation/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67ce8b549c0dcb2dd91f02d4' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/gateway-law-corporation/){:target='_blank'}
 
 ---
 
-#### Soroker Agmon Nordman 
+#### Soroker Agmon Nordman
 
 The firm is specializing in intellectual property, commercial law and dispute resolution.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 11 - 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of cases completed in previous calendar year:</b> 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $500</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> We offer 1.5 hour free consultation to newly established technological start-ups.</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider; We offer 1.5 hour free consultation to newly established technological start-ups.</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/64211b0687c432001261c163' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/soroker-agmon-nordman/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d7d3d9f42a48c6587a8ecc' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/soroker-agmon-nordman/){:target='_blank'}
 
 ---
 
@@ -377,13 +382,30 @@ Shook Lin & Bok LLP is a leading full service law firm with an Asian presence an
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of cases completed in previous calendar year:</b> 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> Depends on scope of work</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> SIPDA participating service provider</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/642b82aad11e700013de2c97' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/shook-lin-bok-llp/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67ce95433d4fe7d6d8b7d6cb' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/shook-lin-bok-llp/){:target='_blank'}
 
 ---
 
-#### Covenant Chambers 
+#### Alpha & Omega Law Corporation
+
+We are law firm with focus on IP law. We serve individuals and businesses of all sizes.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 41 - 50</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of cases completed in previous calendar year:</b> 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider; SIPDA participating service provider</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/67d7d4fbdad03a86296185d9' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/alpha-omega-law-corporation/){:target='_blank'}
+
+---
+
+#### Covenant Chambers
 
 A trusted and tech-driven law firm, we focus on commercial & property disputes and tech, media & IP.
 
@@ -392,10 +414,10 @@ A trusted and tech-driven law firm, we focus on commercial & property disputes a
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of cases completed in previous calendar year:</b> 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> No minimum project fee</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> We can provide 30 minutes of a complimentary first consultation at no charge, exclusive to users of GoBusiness IP Grow.</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider; SIPDA participating service provider; We can provide 30 minutes of a complimentary first consultation at no charge, exclusive to users of GoBusiness IP Grow.</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/6433d5e371de0a0011808971' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/covenant-chambers/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d7d5ef32166e7490bf9451' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/covenant-chambers/){:target='_blank'}
 
 ---
 
@@ -410,11 +432,11 @@ A well-reputed multi-disciplinary law firm in Singapore.
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/6449b8a4ee16a90012572202' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/harry-elias-partnership-llp/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67cea9ecf0a317f57c8a60ee' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/harry-elias-partnership-llp/){:target='_blank'}
 
 ---
 
-#### Intelleigen Legal 
+#### Intelleigen Legal
 
 Intelleigen Legal LLC is a registered law firm based in Singapore.
 
@@ -425,7 +447,7 @@ Intelleigen Legal LLC is a registered law firm based in Singapore.
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $6,000</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/642b7d3369125a00118a58aa' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/intelleigen-legal/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67ce9024a33ac8ee6f70818a' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/intelleigen-legal/){:target='_blank'}
 
 ---
 
@@ -440,22 +462,7 @@ Our law firm provides a full range of IP services including contentious matters 
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $8,000</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/6422655fb69f640012fe00e5' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/quahe-woo-palmer/){:target='_blank'}
-
----
-
-#### Alpha & Omega Law Corporation
-
-We are law firm with focus on IP law. We serve individuals and businesses of all sizes.
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 31 - 40</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of cases completed in previous calendar year:</b> 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $400</li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/643f4c8bd1a2d80012eef672' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/alpha-omega-law-corporation/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67ce90dddd496a3035bd8664' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/quahe-woo-palmer/){:target='_blank'}
 
 ---
 
@@ -464,13 +471,14 @@ We are law firm with focus on IP law. We serve individuals and businesses of all
 Dentons Rodyk offers clients a full suite of legal services to do business locally and globally.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 11 - 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 21 - 30</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of cases completed in previous calendar year:</b> 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to Above $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> SIPDA participating service provider</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/643f4f02f643c40012dae38b' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/dentons-rodyk-davidson-llp/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67cea43b3b7c50a7524ecc24' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/dentons-rodyk-davidson-llp/){:target='_blank'}
 
 ---
 
@@ -485,7 +493,7 @@ CMS is a global top-10 law firm with an active IP offering in the Asia-Pacific r
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> We charge based on the work required rather than strictly based on a minimum project fee.</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/644886784ff9210011168207' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/cms-holborn-asia/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67cea947588bd87d207cc54f' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/cms-holborn-asia/){:target='_blank'}
 
 ---
 
@@ -499,10 +507,10 @@ We relentlessly eliminate redundant processes to save costs and time for you.
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of cases completed in previous calendar year:</b> 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $600</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Our first consultation (up to 30 minutes) is free.</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider; Our first consultation (up to 30 minutes) is free.</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/6458bba9d9d70b00124d907e' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/fervent-chambers-llc/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d7d9871d02820472fd414b' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/fervent-chambers-llc/){:target='_blank'}
 
 ---
 
@@ -517,7 +525,7 @@ Baker & McKenzie is one of the largest law firms globally with 74 offices in 45 
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/646ff4ec3017a20011b004d1' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/baker-mckenzie-wong-leow/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67ceaf329f5f6b18ee67fe2d' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/baker-mckenzie-wong-leow/){:target='_blank'}
 
 ---
 
@@ -532,7 +540,7 @@ Business lawyers, for businesses. Expert legal advice for corporate, employment,
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,000</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/65cad40116a0c0b769481765' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/xavier-associates-llc/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d23ac01a9fcb5de1920409' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/xavier-associates-llc/){:target='_blank'}
 
 ---
 
@@ -545,9 +553,10 @@ George Hwang LLC is a boutique IP/IT and Media law firm with proven experience i
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of cases completed in previous calendar year:</b> 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> SIPDA participating service provider</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/65dc2d40fb3b748399692075' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/george-hwang-llc/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d23eeb42a4f949badebf26' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/george-hwang-llc/){:target='_blank'}
 
 ---
 
@@ -562,7 +571,7 @@ We are committed to providing personalised support and guidance to our clients.
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $5,000</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/65eeb0744d5246341e3b11ae' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/vicki-heng-law-corporation/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d2416fb0058db04bcc0822' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/vicki-heng-law-corporation/){:target='_blank'}
 
 ---
 
@@ -577,7 +586,7 @@ A full-service law firm that provides legal advice on corporate, IP, family, and
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/64e30b3d51571a0011e8bebc' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/yuen-law-llc/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67cfa98c5ff3d5af9c43fd67' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/yuen-law-llc/){:target='_blank'}
 
 ---
 
@@ -592,7 +601,7 @@ Full service law firm with strong IP/IT and technology practice.
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $2,500</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/6632ec6983afe4776d1968c3' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ctlc-law-corporation/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d24704e243256907e0de37' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ctlc-law-corporation/){:target='_blank'}
 
 ---
 
@@ -608,7 +617,7 @@ Boutique SG law firm with Big Law lawyers focused on emerging technology and the
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Book a free 30 min to 1 hour consultation with us.</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/6670e1f49fb163f0b89735fd' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/collyer-law-llc/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d24de43446d825e1cc1be1' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/collyer-law-llc/){:target='_blank'}
 
 ---
 
@@ -617,13 +626,13 @@ Boutique SG law firm with Big Law lawyers focused on emerging technology and the
 One of Singapore's largest full-service law firms, providing world-class legal service since 1889.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 11 - 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of cases completed in previous calendar year:</b> 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> Please contact Drew & Napier LLC for a quote</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/66a6ef6fabc641fb796b43a1' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/drew-napier-llc/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d254e6b0058db04bd16e72' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/drew-napier-llc/){:target='_blank'}
 
 ---
 
@@ -637,9 +646,10 @@ Adsan Law LLC, an established law corporation, provides a comprehensive range of
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of cases completed in previous calendar year:</b> 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider; SIPDA participating service provider</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/67048a6d43898c3913271472' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/adsan-law-llc/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d7e842c75b3629101d6d3d' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/adsan-law-llc/){:target='_blank'}
 
 ---
 

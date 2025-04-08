@@ -22,7 +22,7 @@ Viering, Jentschura & Partner (VJP) Singapore is part of a more than 250 member 
 
 <b>Offer:</b> Free 30 mins consultation.
 
-<a class='btn' href='https://form.gov.sg/643f4dbebce917001147346b' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cea198dd496a3035c29cf0' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1a-ipgrow-company-profile %}
 
@@ -232,6 +232,6 @@ Viering, Jentschura & Partner (VJP) Singapore is part of a more than 250 member 
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/643f4dbebce917001147346b' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cea198dd496a3035c29cf0' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 27 March 2025

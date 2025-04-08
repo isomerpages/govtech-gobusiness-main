@@ -5,10 +5,12 @@ permalink: /intellectual-property/ip-grow/excellence-singapore-group/
 
 ## Excellence Singapore Group
 
-Excellence Singapore Group is ISO certified and have served more than 4,000 clients up-to-date and is a proud recipient of the prestigious Promising SME 500 2015 awarded by the Small and Medium Business Association (SMBA).
-We are a business consulting firm providing one-stop business solutions in the area of cash flow management, working capital needs, trademarks, full range accounting and tax services, accounting software, Singapore and offshore incorporation, nominee director/shareholder services, virtual office services, work pass application services, family offices and more.
+Excellence Singapore Group have served more than 4,000 clients up-to-date and is a proud recipient of the prestigious Promising SME 500 2015 awarded by the Small and Medium Business Association (SMBA).
+
+We are a business consulting firm providing one-stop business solutions in the area of Singapore and offshore incorporation, trademarks registration locally and internationally, full range accounting and tax services, accounting software, nominee director/shareholder services, virtual office services, work pass application services, family offices and more.
 
 We lead with a dedication to quality and ethics, and are passionate about our client's success. We aim to serve and enhance the communities where we operate. We inspire confidence and enable transformation in everything we do in a world where tremendous disruption and rapid change are the new normal.
+
 
 <b>Year established in Singapore:</b> 2019
 
@@ -22,7 +24,7 @@ We lead with a dedication to quality and ethics, and are passionate about our cl
 
 <b>Offer:</b> Free consultation and limited time offer of 10% off if you quote GOBUSINESS IP GROW
 
-<a class='btn' href='https://form.gov.sg/6549cfafefc1a10012eba045' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d00378c5e332e6d10d985f' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1a-ipgrow-company-profile %}
 
@@ -44,13 +46,13 @@ We lead with a dedication to quality and ethics, and are passionate about our cl
 <a name='industry-focus'></a>
 ### Industry focus
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Construction</li><li style='line-height: 27px; margin: 0px 0px !important'>Education</li><li style='line-height: 27px; margin: 0px 0px !important'>Electronics</li><li style='line-height: 27px; margin: 0px 0px !important'>Energy and Chemicals</li><li style='line-height: 27px; margin: 0px 0px !important'>Environmental Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Financial Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Food Manufacturing</li><li style='line-height: 27px; margin: 0px 0px !important'>Food Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Healthcare</li><li style='line-height: 27px; margin: 0px 0px !important'>Hotel</li><li style='line-height: 27px; margin: 0px 0px !important'>ICT and Media</li><li style='line-height: 27px; margin: 0px 0px !important'>Land Transport</li><li style='line-height: 27px; margin: 0px 0px !important'>Logistics</li><li style='line-height: 27px; margin: 0px 0px !important'>Marine and Offshore</li><li style='line-height: 27px; margin: 0px 0px !important'>Precision Engineering</li><li style='line-height: 27px; margin: 0px 0px !important'>Professional Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Real Estate</li><li style='line-height: 27px; margin: 0px 0px !important'>Retail</li><li style='line-height: 27px; margin: 0px 0px !important'>Security</li><li style='line-height: 27px; margin: 0px 0px !important'>Wholesale Trade</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Aerospace</li><li style='line-height: 27px; margin: 0px 0px !important'>Air Transport</li><li style='line-height: 27px; margin: 0px 0px !important'>Construction</li><li style='line-height: 27px; margin: 0px 0px !important'>Education</li><li style='line-height: 27px; margin: 0px 0px !important'>Electronics</li><li style='line-height: 27px; margin: 0px 0px !important'>Energy and Chemicals</li><li style='line-height: 27px; margin: 0px 0px !important'>Environmental Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Financial Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Food Manufacturing</li><li style='line-height: 27px; margin: 0px 0px !important'>Food Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Healthcare</li><li style='line-height: 27px; margin: 0px 0px !important'>Hotel</li><li style='line-height: 27px; margin: 0px 0px !important'>ICT and Media</li><li style='line-height: 27px; margin: 0px 0px !important'>Land Transport</li><li style='line-height: 27px; margin: 0px 0px !important'>Logistics</li><li style='line-height: 27px; margin: 0px 0px !important'>Precision Engineering</li><li style='line-height: 27px; margin: 0px 0px !important'>Marine and Offshore</li><li style='line-height: 27px; margin: 0px 0px !important'>Professional Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Retail</li><li style='line-height: 27px; margin: 0px 0px !important'>Real Estate</li><li style='line-height: 27px; margin: 0px 0px !important'>Sea Transport</li><li style='line-height: 27px; margin: 0px 0px !important'>Security</li><li style='line-height: 27px; margin: 0px 0px !important'>Wholesale Trade</li></ul>
 
 ---
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: Singapore</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office: Malaysia</li></ul>
 
 ---
 <a name='client-segments'></a>
@@ -85,6 +87,6 @@ We lead with a dedication to quality and ethics, and are passionate about our cl
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/6549cfafefc1a10012eba045' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67d00378c5e332e6d10d985f' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 2 October 2024
+Profile last updated on 27 March 2025

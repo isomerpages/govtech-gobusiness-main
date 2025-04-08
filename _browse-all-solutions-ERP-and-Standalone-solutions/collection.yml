@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - back-to-all-psg-solutions.md
-      - Accting-Mgmt--Inventory-Mgmt-and-Sales-Mgmt-System.md
       - Accting-Mgmt-and-Sales-Mgmt-System.md
+      - Accting-Mgmt--Inventory-Mgmt-and-Sales-Mgmt-System.md
       - CRM.md
       - Inventory-Mgmt-and-Sales-Mgmt-System.md
       - E-loyalty-Marketing-Automation.md

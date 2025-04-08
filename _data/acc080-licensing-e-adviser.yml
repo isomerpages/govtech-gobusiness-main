@@ -15,7 +15,11 @@
 
         Can't find a proposal box for your event type? <a href='https://go.gov.sg/x2ds1b' target='_blank' rel='noopener'>Request for a new proposal box</a> by registering your interest.
 
-
+    - title: Import, Export and Transhipment
+      content: |
+        - [HS/CA Product Code Checker](https://hscodechecker.gobusiness.gov.sg/){:target="_blank"}<span style="background: #E6F2F3; border-radius: 3px; width: 53px; height: 22px; padding: 2px 8px; font-family: hknova-bold; font-size: 12px; line-height: 18px; color: #02737D; display: inline-block; vertical-align: middle; margin-left: 8px;"> NEW!</span>
+          <br>This e-service allows you to find out the Harmonised System (HS) code for the type of product you are importing, exporting or transhipping. If your product is controlled, you will get the Competent Authority (CA) product code, CA contact details and recommended licence(s).<br><br>
+    
     - title: Premises Use Check
       content: |
         - [e-Adviser for Premises Use](https://eadviser.gobusiness.gov.sg/premisesusecheck){:target="_blank"}
@@ -55,7 +59,7 @@
 - accordion:
   letter: b
   data:
-    - title: Building & Construction
+    - title: Built Environment
       content: |
         Explore licences you may require with the e-Advisers:
 
@@ -90,7 +94,7 @@
       content: |
         Explore licences you may require with the e-Advisers:
         
-        - [Operating dormitory for foreign employees](https://eadviser.gobusiness.gov.sg/operatingdormitoryforforeignemployees){:target="_blank"}
+        - [Setting Up Dormitory to house Foreign Employees](https://go.gov.sg/settingupdormitory){:target="_blank"}
 
         - [Setting up lodging and boarding houses](https://eadviser.gobusiness.gov.sg/settinguplodgingandboardinghouses){:target="_blank"}
 
@@ -143,15 +147,12 @@
 
         - [Residential Consumer buying electricity at retail price and installing solar PV of >= 1 MWac](https://eadviser.gobusiness.gov.sg/residentialconsumerbuyingelectricityinstallingsolarpvmore1mwac){:target="_blank"}
 
-        - [Setting up business to generate, retail, transmit electricity](https://eadviser.gobusiness.gov.sg/settingupbusinesstogenerateretailtransmitelectricity){:target="_blank"}
-
         - [Setting up business to import, ship or retail gas](https://eadviser.gobusiness.gov.sg/settingupbusinesstoimportshiporretailgas){:target="_blank"}
 
         - [Store petroleum and flammable materials](https://www.gobusiness.gov.sg/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Petroleum---Flammable-Materials-Storage-Licence){:target="_blank"}
 
         - [Use/supervise usage of ionising radiation irradiating apparatus](https://www.gobusiness.gov.sg/browse-all-licences/National-Environment-Agency-(NEA)/IR2---Licence-to-keep--possess-for-use-(other-than-sale)-or-use-irradiating-apparatus-or-radioactive-materials){:target="_blank"}
         
-
     - title: Environmental Services
       content: |
         Explore licences you may require with the e-Advisers:
@@ -217,10 +218,12 @@
 
     - title: Food & Beverage (F&B)
       content: |
-        - [Guide to starting a new Food Service business](https://foodservices.gobusiness.gov.sg/licences/foodservices?src=licence_by_sector){:target="_blank"}
-          <br>Use Food Services Guided Journey, a step-by-step beginner guide for helping you apply for the licences you need.
+        - [Guide to setting up a Food & Beverages outlet](https://eadviser.gobusiness.gov.sg/settingupfnboutlet){:target="_blank"}
+          <br>Use this e-Adviser as a beginner guide to understand the licences you need.
 
-        Or explore licences you may require with the e-Advisers:
+        Please refer to [Food Retail Guidelines from Singapore Food Agency (SFA)](https://www.sfa.gov.sg/food-retail){:target="_blank"} for further information on the licences and requirements for various food shop types (i.e Food Stall, Temporary fairs, etc.)
+
+        Alternatively, you may explore licences with these specific e-Advisers:
         
         - [Dealings with rice](https://eadviser.gobusiness.gov.sg/dealingswithrice){:target="_blank"}
 
@@ -304,6 +307,39 @@
 - accordion:
   letter: i
   data:
+    - title: Industrial
+      content: |
+        Explore licences you may require with the e-Advisers:
+        
+        - [Application of hazardous substances licence](https://www.gobusiness.gov.sg/browse-all-licences/National-Environment-Agency-(NEA)/Hazardous-Substances-(HS)-Licence){:target="_blank"}
+
+        - [Application of hazardous substances permit](https://www.gobusiness.gov.sg/browse-all-licences/National-Environment-Agency-(NEA)/Hazardous-Substances-(HS)-Permit){:target="_blank"}
+
+        - [Buy/store/possess ionising radiation irradiating apparatus](https://www.gobusiness.gov.sg/browse-all-licences/National-Environment-Agency-(NEA)/IR2---Licence-to-keep--possess-for-use-(other-than-sale)-or-use-irradiating-apparatus-or-radioactive-materials){:target="_blank"}
+
+        - [Buy/store/possess non-ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/buystorepossessnonionisingradiationirradiatingapparatus){:target="_blank"}
+
+        - [Manufacture/possess/sell/distribute/deal in irradiating apparatus](https://www.gobusiness.gov.sg/browse-all-licences/National-Environment-Agency-(NEA)/IR1---Licence-to-manufacture--possess-for-sale-or-deal-in-irradiating-apparatus-or-radioactive-materials){:target="_blank"}
+
+        - [Manufacturing and processing of animal feed](https://www.gobusiness.gov.sg/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-to-Manufacture-and-Process-of-Animal-Feed){:target="_blank"}
+
+        - [Manufacturing explosives](https://eadviser.gobusiness.gov.sg/manufacturingexplosives){:target="_blank"}
+
+        - [Manufacturing of arms](https://eadviser.gobusiness.gov.sg/manufacturingofarms){:target="_blank"}
+
+        - [Performing or carrying out work involving use of a laser apparatus](https://eadviser.gobusiness.gov.sg/performingorcarryingoutworkinvolvinguseofalaserapparatus){:target="_blank"}
+
+        - [Physical trading of rubber in singapore](https://eadviser.gobusiness.gov.sg/physicaltradingofrubberinsingapore){:target="_blank"}
+
+        - [Providing engineering services](https://eadviser.gobusiness.gov.sg/providingengineeringservices){:target="_blank"}
+
+        - [Setting up factory/manufacturing business](https://eadviser.gobusiness.gov.sg/settingupfactorymanufacturingbusiness){:target="_blank"}
+
+        - [Setting up warehouse/logistic business](https://eadviser.gobusiness.gov.sg/settingupwarehouselogisticbusiness){:target="_blank"}
+
+        - [Store petroleum and flammable materials](https://www.gobusiness.gov.sg/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Petroleum---Flammable-Materials-Storage-Licence){:target="_blank"}
+
+        - [Use/supervise usage of ionising radiation irradiating apparatus](https://www.gobusiness.gov.sg/browse-all-licences/National-Environment-Agency-(NEA)/IR2---Licence-to-keep--possess-for-use-(other-than-sale)-or-use-irradiating-apparatus-or-radioactive-materials){:target="_blank"}
     - title: IT
       content: |
         Explore licences you may require with the e-Advisers:
@@ -319,7 +355,7 @@
       content: |
         Explore licences you may require with the e-Advisers:
 
-        - [Bus attendant](https://www.gobusiness.gov.sg/browse-all-licences/Land-Transport-Authority-(LTA)/Bus-Driver's-Vocational-Licence-(BDVL)---Bus-Attendant-Vocational-Licence-(BAVL)){:target="_blank"}
+        - [Bus attendant](https://www.gobusiness.gov.sg/browse-all-licences/land-transport-authority-(lta)/bus-attendant's-vocational-licence-(bavl)){:target="_blank"}
 
         - [Operating a bus service](https://www.gobusiness.gov.sg/browse-all-licences/Land-Transport-Authority-(LTA)/Class-2-Bus-Service-Licence){:target="_blank"}
 
@@ -372,40 +408,6 @@
 - accordion:
   letter: m
   data:
-    - title: Manufacturing & Engineering
-      content: |
-        Explore licences you may require with the e-Advisers:
-        
-        - [Application of hazardous substances licence](https://www.gobusiness.gov.sg/browse-all-licences/National-Environment-Agency-(NEA)/Hazardous-Substances-(HS)-Licence){:target="_blank"}
-
-        - [Application of hazardous substances permit](https://www.gobusiness.gov.sg/browse-all-licences/National-Environment-Agency-(NEA)/Hazardous-Substances-(HS)-Permit){:target="_blank"}
-
-        - [Buy/store/possess ionising radiation irradiating apparatus](https://www.gobusiness.gov.sg/browse-all-licences/National-Environment-Agency-(NEA)/IR2---Licence-to-keep--possess-for-use-(other-than-sale)-or-use-irradiating-apparatus-or-radioactive-materials){:target="_blank"}
-
-        - [Buy/store/possess non-ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/buystorepossessnonionisingradiationirradiatingapparatus){:target="_blank"}
-
-        - [Manufacture/possess/sell/distribute/deal in irradiating apparatus](https://www.gobusiness.gov.sg/browse-all-licences/National-Environment-Agency-(NEA)/IR1---Licence-to-manufacture--possess-for-sale-or-deal-in-irradiating-apparatus-or-radioactive-materials){:target="_blank"}
-
-        - [Manufacturing and processing of animal feed](https://www.gobusiness.gov.sg/browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-to-Manufacture-and-Process-of-Animal-Feed){:target="_blank"}
-
-        - [Manufacturing explosives](https://eadviser.gobusiness.gov.sg/manufacturingexplosives){:target="_blank"}
-
-        - [Manufacturing of arms](https://eadviser.gobusiness.gov.sg/manufacturingofarms){:target="_blank"}
-
-        - [Performing or carrying out work involving use of a laser apparatus](https://eadviser.gobusiness.gov.sg/performingorcarryingoutworkinvolvinguseofalaserapparatus){:target="_blank"}
-
-        - [Physical trading of rubber in singapore](https://eadviser.gobusiness.gov.sg/physicaltradingofrubberinsingapore){:target="_blank"}
-
-        - [Providing engineering services](https://eadviser.gobusiness.gov.sg/providingengineeringservices){:target="_blank"}
-
-        - [Setting up factory/manufacturing business](https://eadviser.gobusiness.gov.sg/settingupfactorymanufacturingbusiness){:target="_blank"}
-
-        - [Setting up warehouse/logistic business](https://eadviser.gobusiness.gov.sg/settingupwarehouselogisticbusiness){:target="_blank"}
-
-        - [Store petroleum and flammable materials](https://www.gobusiness.gov.sg/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Petroleum---Flammable-Materials-Storage-Licence){:target="_blank"}
-
-        - [Use/supervise usage of ionising radiation irradiating apparatus](https://www.gobusiness.gov.sg/browse-all-licences/National-Environment-Agency-(NEA)/IR2---Licence-to-keep--possess-for-use-(other-than-sale)-or-use-irradiating-apparatus-or-radioactive-materials){:target="_blank"}
-
     - title: Maritime
       content: |
         Explore licences you may require with the e-Advisers:

@@ -1,9 +1,9 @@
 ---
-title: 'Namazie & Co. '
+title: 'Namazie & Co.'
 permalink: /intellectual-property/ip-grow/namazie-co/
 ---
 
-## Namazie & Co. 
+## Namazie & Co.
 
 We are a specialist IP law firm, established in 2001, providing expert legal advice in a range of industries, to MNCs, SMEs, start ups and educational institutions.  Our advice is geared towards practical, commercially optimal legal solutions for our clients.  Our prior in-house expertise allow us to understand legal issues from our client's perspectives.  Our services are cost-efficient.
 
@@ -19,7 +19,7 @@ We are a specialist IP law firm, established in 2001, providing expert legal adv
 
 <b>Website:</b> <a href='https://www.namazie-law.com/'>https://www.namazie-law.com/</a>
 
-<a class='btn' href='https://form.gov.sg/64913e7cd94807001107ce82' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cf9315653f576e8509a627' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1a-ipgrow-company-profile %}
 
@@ -179,6 +179,6 @@ We are a specialist IP law firm, established in 2001, providing expert legal adv
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/64913e7cd94807001107ce82' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67cf9315653f576e8509a627' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 11 April 2024
