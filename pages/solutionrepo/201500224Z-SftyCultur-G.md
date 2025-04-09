@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/201500224Z-SftyCultur-G
 
 **Description**
 
-SafetyCulture's ePTW streamlines the creation, approval, and tracking of permits in real time. The platform allows for workflow customization, ensuring compliance with safety regulations and operational standards. With audit trails, automated notifications, and mobile accessibility, SafetyCulture helps organizations manage high-risk tasks, reduce administrative workload, and maintain consistent safety protocols across worksites.
+SafetyCulture is an integrated and smart worksite monitoring and inspection platform that digitizes workflows, facilitates real-time data capture, and enhances operational visibility. With tools for inspections, reporting, and "Heads-up" communication, it integrates IoT sensors and cameras for remote monitoring, alerts, and issue resolution, promoting smarter and safer worksites.
 
 ## Solution Packages Option(s)
 
@@ -23,30 +23,30 @@ SafetyCulture's ePTW streamlines the creation, approval, and tracking of permits
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ePTW Basic Package (1 Project, 1 year)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Worksite Inspection Basic Package (1 Project, 1 year)</td>
 <td style='padding: 10px;'>$9,500.00</td>
 <td style='padding: 10px;'>$6,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/201500224Z_20240300_01042025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201500224Z_20240269_01042025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ePTW Advanced Package (2 Projects, 1 year)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Worksite Inspection Advanced Package (2 Projects, 1 year)</td>
 <td style='padding: 10px;'>$14,150.00</td>
 <td style='padding: 10px;'>$10,600.00</td>
 <td style='padding: 10px;'><a href='/images/psg/201500224Z_20240300_01042025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ePTW Enterprise Package (3 Projects, 1 year)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Worksite Inspection Enterprise Package (3 Projects, 1 year)</td>
 <td style='padding: 10px;'>$18,800.00</td>
 <td style='padding: 10px;'>$14,600.00</td>
 <td style='padding: 10px;'><a href='/images/psg/201500224Z_20240300_01042025_Desensitised_Annex3_Part3.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ePTW Ultimate Package (Unlimited Projects, 1 year)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Worksite Inspection Ultimate Package (Unlimited Projects, 1 year)</td>
 <td style='padding: 10px;'>$28,650.00</td>
-<td style='padding: 10px;'>$23,600.00</td>
+<td style='padding: 10px;'>$22,600.00</td>
 <td style='padding: 10px;'><a href='/images/psg/201500224Z_20240300_01042025_Desensitised_Annex3_Part4.pdf ' target='_blank'>View Details</a></td>
 </tr>
 </table>
