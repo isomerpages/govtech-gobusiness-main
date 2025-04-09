@@ -52,7 +52,7 @@ Singapore Food Agency (SFA)
 <ul>
 <li>Upon compliance with all pre-licensing requirements, applicants will receive a payment notification via email / in GoBusiness. The applicant may proceed to make payment for the licence within 28 days. Otherwise, the application will lapse and be considered null and void. A new application will be needed if the applicant still intends to operate the food business.<br>- For applicants with an existing GIRO arrangement with SFA, the applicant may start operations after receiving SFA's approval email.<br>- For applicants without GIRO arrangements, the applicant may only commence operations after payment has been made via AXS or GoBusiness.</li>
 <li>Applicants are encouraged to sign up for <a href="https://www.sfa.gov.sg/e-services/payment-modes/giro" target="_blank" rel="noopener">GIRO</a> payment as a convenient way to pay the fees for the renewal of their licence. Renewal of licence takes place two months before the licence expires.</li>
-<li>Licences paid for on or after 1 Jan 2022 must be self-printed directly via GoBusiness. The applicant may refer to the <a href="https://t425-p644-blue-admin.prd.cwp2.sg/docs/default-source/food-retail/print-licence-user-guide-website.pdf" target="_blank" rel="noopener">self-printing guide</a>.</li>
+<li>Licences paid for on or after 1 Jan 2022 must be self-printed directly via GoBusiness. The applicant may refer to the <a href="https://go.gov.sg/gbsfaselfprintingguide" target="_blank" rel="noopener">self-printing guide</a>.</li>
 <li>Service standard: Exact time taken is dependent on the applicant</li>
 </ul>
 <h3>FAQs</h3>
