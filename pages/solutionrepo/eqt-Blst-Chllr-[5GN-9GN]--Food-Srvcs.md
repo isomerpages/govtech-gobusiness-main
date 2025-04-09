@@ -22,7 +22,7 @@ By using fast-moving cold air, blast chiller rapidly lowers the temperature of f
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Blast Chiller [5GN - 9GN] </td>
 <td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'>1. Able to reduce the temperature of cooked food from 70-C to 3 -C or below within 90 minutes.<br><br>2. Minimum capacity of 5 GN 1/1</td>
+<td style='padding: 10px;'>1. Has minimally 2 seal bars<br><br>2. Minimum internal chamber space (length x width) of 2,500 cm2</td>
 </tr>
 </table>
 
