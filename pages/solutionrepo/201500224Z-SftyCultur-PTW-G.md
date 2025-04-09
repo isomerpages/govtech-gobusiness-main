@@ -3,7 +3,7 @@ title: 'SafetyCulture (ePTW)'
 permalink: /productivity-solutions-grant/solutionrepo/201500224Z-SftyCultur-PTW-G
 ---
 
-## SafetyCulture (ePTW)
+## SafetyCulture (ePTW) 
 
 ## Overview
 
