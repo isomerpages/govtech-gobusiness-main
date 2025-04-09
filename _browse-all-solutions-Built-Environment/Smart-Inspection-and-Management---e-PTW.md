@@ -36,7 +36,7 @@ This solution is supported by BCA.
 <td>Capps Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201500224Z-SftyCultur-G' target='_blank'>SafetyCulture</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201500224Z-SftyCultur-PTW-G' target='_blank'>SafetyCulture (ePTW)</a><br></td>
 <td>ASSURE SAFETY PTE. LTD.</td>
 </tr>
 </table>
