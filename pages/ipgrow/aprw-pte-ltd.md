@@ -92,4 +92,4 @@ Founded in 1996 and headquartered in Singapore, we are uniquely led by a team of
 <p>
 <a class='btn' href='https://form.gov.sg/67cfcc66a85399bf2bc81e0c' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 27 March 2025

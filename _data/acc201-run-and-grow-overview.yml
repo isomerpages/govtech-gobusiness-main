@@ -27,3 +27,9 @@
   description: Find out more about your tax filing obligations.
   url: /run-and-grow/taxes-and-gst/?src=rungrow_overview
   text: View Taxes, GST and Customs
+
+- banner: <img src="/images/import-export-transhipment/rungrow_overview_import_export_panel.png">
+  title: For import, export and transhipment
+  description: This e-service allows you to find out the Harmonised System (HS) code for the type of product you are importing, exporting or transhipping. If your product is controlled, you will get the Competent Authority (CA) product code, CA contact details and recommended licence(s).
+  url: https://hscodechecker.gobusiness.gov.sg/
+  text: Go to HS/CA Product Code Checker

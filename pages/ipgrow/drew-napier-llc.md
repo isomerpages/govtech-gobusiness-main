@@ -210,4 +210,4 @@ Drew & Napier is the preferred choice of foreign and domestic governments, gover
 <p>
 <a class='btn' href='https://form.gov.sg/67d254e6b0058db04bd16e72' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 30 July 2024
+Profile last updated on 27 March 2025

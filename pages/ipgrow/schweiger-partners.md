@@ -15,7 +15,7 @@ Schweiger & Partners is a registered patent law agency in Singapore, which means
 
 <b>Type of organization:</b> SME
 
-<b>Address in Singapore:</b> 105 Cecil Street #12-01 The Octagon, Singapore 069534
+<b>Address in Singapore:</b> 11 Paya Lebar Road, #08-06 Lotus at Paya Lebar, Singapore 409050
 
 <b>Website:</b> <a href='https://trademarks-patents.com/'>https://trademarks-patents.com/</a>
 
@@ -124,7 +124,7 @@ Schweiger & Partners is a registered patent law agency in Singapore, which means
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 101 to 200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: 11 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $590</li>
 </ul>
@@ -276,4 +276,4 @@ Schweiger & Partners is a registered patent law agency in Singapore, which means
 <p>
 <a class='btn' href='https://form.gov.sg/67cfa0f2dd496a3035d8858b' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 27 March 2025

@@ -72,4 +72,4 @@ Chay Corporate Advisory Pte Ltd, a boutique corporate advisory house established
 <p>
 <a class='btn' href='https://form.gov.sg/67d24642dd04d15c9fc9e81b' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 27 March 2025
