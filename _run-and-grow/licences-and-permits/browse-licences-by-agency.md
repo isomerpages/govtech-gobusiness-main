@@ -26,9 +26,17 @@ Select a government agency to see its licences and apply for them.
 
 {% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="c" %}
 
+## D
+
+{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="d" %}
+
 ## E
 
 {% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="e" %}
+
+## F
+
+{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="f" %}
 
 ## H
 
