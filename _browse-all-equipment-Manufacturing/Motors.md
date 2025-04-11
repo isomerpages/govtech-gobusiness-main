@@ -93,6 +93,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - BRAND PORTFOLIO - YE250M2-2E4
 - BRAND PORTFOLIO - YE250M-2E4
 - BRAND PORTFOLIO - YE250M3-2E4
+- HEBEM - VSD280-90
 - HEBEM - VSD315-160
 - Ingersoll Rand - YE4-160L-4
 - Ingersoll Rand - YE4-180L-4
@@ -143,8 +144,15 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Leroy Somer - 2P LSES 280MD 90KW
 - Leroy Somer - 4P LSES280MK 90KW
 - Leroy Somer - 4P LSES280SD 55KW
+- NORD - 100LQ/4 AQAB
+- NORD - 100RQ/4 AQAB
+- NORD - 100SQ/4 AQAB
 - NORD - 132RQ/4
+- NORD - 132RQ/4 AQAB
 - NORD - 132SQ/4
+- NORD - 132SQ/4 AQAB
+- NORD - 90RQ/4 AQAB
+- NORD - 90SQ/4 AQAB
 - SEW-EURODRIVE - DRU100L4
 - SEW-EURODRIVE - DRU112M4
 - SEW-EURODRIVE - DRU90S4

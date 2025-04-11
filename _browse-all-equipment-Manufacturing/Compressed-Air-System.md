@@ -93,11 +93,24 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Ceccato - WIS40V
 - Ceccato - WIS50V
 - Ceccato - WIS75V
+- Chicago Pneumatic - CPMV100
+- Chicago Pneumatic - CPMV20
+- Chicago Pneumatic - CPMV50
 - HITACHI - OSP-11VAN2
 - HITACHI - OSP-15VAN2
 - HITACHI - OSP-22VAN2
 - HITACHI - OSP-55VAN2
 - HITACHI - OSP-75VAN2
+- Ingersoll Rand - IRN37K-OF
+- Ingersoll Rand - IRN45K-OF
+- Ingersoll Rand - IRN55K-OF
+- Ingersoll Rand - IRN75K-OF
+- Ingersoll Rand - RM110n_A
+- Ingersoll Rand - RM22ne_A
+- Ingersoll Rand - RS37n
+- Ingersoll Rand - RS45n-A
+- Ingersoll Rand - RS55n-A
+- Ingersoll Rand - RS75n-A
 - Kaeser - ASD60SFC
 - Kaeser - BSD75SFC
 - Kaeser - CSD110SFC
@@ -129,6 +142,13 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Kimair - K30PS
 - Kimair - K50PS
 - Kimair - K75PS
+- KOBELCO - VS22AIV
+- KOBELCO - VS37AIV
+- KOBELCO - VS55AIV
+- KOBELCO - VS75AIV
+- MARK - MSS11 PM
+- MARK - MSS15 PM
+- MARK - MSS22-15 PM
 - Xinlei - SE-100EPM
 - Xinlei - SE-10EPM
 - Xinlei - SE-15EPM
@@ -137,6 +157,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Xinlei - SE-50EPM
 - Xinlei - SE-60EPM
 - Xinlei - SE-75EPM
+- Xinlei - XLPM4AT
 
 ### Pre-Approved Equipment Brands and Models (Zero Purge Desiccant Dryer)
 
