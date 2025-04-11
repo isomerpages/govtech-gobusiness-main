@@ -226,15 +226,15 @@ Select an industry to see a list of relevant licences here. You can also browse 
 ## Food & Beverage
 - [Class 5 - Temporary Liquor Licence](https://dashboard.gobusiness.gov.sg/task-details/class5temporaryliquorlicence)
 
-- [Export Health Certificate](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301070000159)
+- [Export Health Certificate](https://dashboard.gobusiness.gov.sg/task-details/export-health-certificate)
 - [Food Shop Licence](https://dashboard.gobusiness.gov.sg/task-details/food-shop-licence)
-- [Free Sale Certificate (Animal Feed)](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201305290000327)
+- [Free Sale Certificate (Animal Feed) for Food Producing Animals](https://dashboard.gobusiness.gov.sg/task-details/free-sale-certificate-animal-feed-for-food-producing-animals)
 - [Food Stall Licence](https://dashboard.gobusiness.gov.sg/task-details/food-stall-licence)
-- [Free Sale Certificate (Food)](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301070000166)
+- [Free Sale Certificate (Food)](https://dashboard.gobusiness.gov.sg/task-details/free-sale-certificate-food)
 
 
 - [Halal Certification](https://dashboard.gobusiness.gov.sg/task-details/new-halal-certification)
-- [Health Certificate for Export of Live Foodfish for Breeding](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201212070000110)
+- [Health Certificate for Export of Live Foodfish for Breeding](https://dashboard.gobusiness.gov.sg/task-details/health-certificate-for-export-of-live-foodfish-for-breeding)
 - [Licence for Import/Export/Transhipment of Meat and Fish Products](https://dashboard.gobusiness.gov.sg/task-details/licence-for-import-export-transhipment-of-meat-and-fish-products)
 - [Licence for Import/Transhipment of Fresh Fruits and Vegetables](https://dashboard.gobusiness.gov.sg/task-details/licence-for-import-transhipment-of-fresh-fruits-and-vegetables)
 - [Licence to Import Poultry](https://dashboard.gobusiness.gov.sg/task-details/licence-to-import-poultry)
@@ -256,6 +256,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Rice Licence](https://dashboard.gobusiness.gov.sg/task-details/ricelicence)
 - [Supermarket Licence](https://dashboard.gobusiness.gov.sg/task-details/supermarket-licence)
 - [Temporary Fair Stall Licence](https://dashboard.gobusiness.gov.sg/task-details/permit-for-temporary-fair)
+- [Veterinary Certificate for Food Producing Animals](https://dashboard.gobusiness.gov.sg/task-details/veterinary-certificate-for-food-producing-animals)
 
 <a name="health-and-wellness-services"></a>
 
