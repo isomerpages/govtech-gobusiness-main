@@ -3,7 +3,7 @@ title: 'SafetyCulture (ePTW)'
 permalink: /productivity-solutions-grant/solutionrepo/201500224Z-SftyCultur-PTW-G
 ---
 
-## SafetyCulture (ePTW) 
+## SafetyCulture (ePTW)
 
 ## Overview
 
@@ -49,7 +49,7 @@ SafetyCulture's ePTW streamlines the creation, approval, and tracking of permits
 <td style='padding: 10px;'>$23,600.00</td>
 <td style='padding: 10px;'><a href='/images/psg/201500224Z_20240300_01042025_Desensitised_Annex3_Part4.pdf ' target='_blank'>View Details</a></td>
 </tr>
-</table> 
+</table>
 
 ## Mode and Schedule of Payment
 
