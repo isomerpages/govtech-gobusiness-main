@@ -221,7 +221,7 @@ In addition to a full spectrum of IP-related legal services, Dennemeyer offers I
 - IA/IP-Related Expertise: IP Database, IP Intelligence and Search, IP Portfolio Management
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/francis-chew-075aa276" target="_blank" rel="noopener">https://www.linkedin.com/in/francis-chew-075aa276</a>
 
-**Peter Erdödy**
+**Peter Erd&ouml;dy**
 
 - Job Title: Managing Director of Octimine
 - Years of Experience: 5+ years

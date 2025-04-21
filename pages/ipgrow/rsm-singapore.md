@@ -11,12 +11,12 @@ Our experienced team of tax and valuation professionals has international and do
 
 We are able to advise on the tax efficient structure for IP and assist to estimate the value of the following intellectual property:
 
-• Trademarks
-• Patents
-• Software
-• Copyrights
-• Technology
-• Technical knowhow
+- Trademarks
+- Patents
+- Software
+- Copyrights
+- Technology
+- Technical knowhow
 
 <b>Year established in Singapore:</b> 2006
 

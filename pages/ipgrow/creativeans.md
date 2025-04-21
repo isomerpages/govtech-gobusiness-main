@@ -9,7 +9,7 @@ Creativeans is an award-winning brand and design consultancy. We build brands th
 
 Business leaders trust us to solve their strategic and creative challenges: from branding, business design, UI/UX design, packaging design, communication design to sustainability design across industries and regions. We are unique in that we are invested in the success of the companies we work with, and launch and grow new ventures of our own.
 
-As management consultants recognised in Singapore, and guided by our systematic approach and methodologies such as BrandBuilder® and EDIT Design Thinking®, we have built a consistent track record of success. We believe that every brand has the power to make a meaningful impact on the world, and it is our goal to do just that.
+As management consultants recognised in Singapore, and guided by our systematic approach and methodologies such as BrandBuilder<sup>&reg;</sup> and EDIT Design Thinking<sup>&reg;</sup>, we have built a consistent track record of success. We believe that every brand has the power to make a meaningful impact on the world, and it is our goal to do just that.
 
 <b>Year established in Singapore:</b> 2012
 
