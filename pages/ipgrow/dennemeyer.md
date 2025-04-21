@@ -254,7 +254,7 @@ In addition to a full spectrum of IP-related legal services, Dennemeyer offers I
 - Years of Experience: 10+ years
 - Location: Munich, Germany
 - IA/IP-Related Expertise: IP Audit, IP Portfolio Management, IP Strategy Consulting, IP Training, IP Intelligence and Search
-- Certifications/Qualifications: Patent Management, TÜV Academy; MA in Communication Science, Ludwig-Maximilians-University of Munich; BA in Political and Social Science, University of Erfurt
+- Certifications/Qualifications: Patent Management, T&Uuml;V Academy; MA in Communication Science, Ludwig-Maximilians-University of Munich; BA in Political and Social Science, University of Erfurt
 - URL of LinkedIn/Company Profile: <a href="https://go.dennemeyer.com/consulting/experts/johannes-herbert" target="_blank" rel="noopener">https://go.dennemeyer.com/consulting/experts/johannes-herbert</a>
 
 **Vanja Nedimovic**
@@ -273,7 +273,7 @@ In addition to a full spectrum of IP-related legal services, Dennemeyer offers I
 - Location: Paris, France
 - IA/IP-Related Expertise: IP Audit, IP Due Diligence, IP Portfolio Management, IP Strategy Consulting, Valuation (with IA/IP considerations)
 - Certifications/Qualifications: European & French Patent Attorney; Master in International Patent Law, University of Strasbourg; Master in Physics, Heidelberg University; PhD in Quantum Computing, Grenoble University; Member of Licensing Executives Society International (LESI); Member of European Patent Institute (EPI)
-- Awards/Accolades: IAM Strategy 300 – The World's Leading IP Strategists
+- Awards/Accolades: IAM Strategy 300 - The World's Leading IP Strategists
 - URL of LinkedIn/Company Profile: [https://go.dennemeyer.com/consulting/experts/enno-bibow](hhttps://go.dennemeyer.com/consulting/experts/enno-bibow)
 
 ---
