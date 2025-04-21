@@ -2100,8 +2100,7 @@
 
         <p>The Export Health Certificate is issued to traders, to certify a food consignment as fit for human consumption, and meeting safety standards or other required criteria to facilitate the export of this food consignment. This certificate is only issued for food consignments manufactured or processed or packed in a food processing establishment licensed by Singapore Food Agency.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301070000159" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Export-Health-Certificate" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Export-Health-Certificate">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/export-health-certificate" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Food-Agency-(SFA)/Export-Health-Certificate">View Licence Details</a>
 
         -----
         **Food Shop Licence**
@@ -2118,14 +2117,13 @@
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/food-stall-licence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Food-Agency-(SFA)/Food-Stall-Licence">View Licence Details</a>
 
         -----
-        **Free Sale Certificate (Animal Feed)**
+        **Free Sale Certificate (Animal Feed) for Food Producing Animals**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        <p>The Free Sale Certificate for Animal Feed may be issued by either Animal & Veterinary Service, a cluster of National Parks Board or Singapore Food Agency. This certificate allows exporters to get endorsement for this animal feed products intended for export.</p>
+        <p>The Free Sale Certificate for Animal Feed will be issued by the Singapore Food Agency. This certificate allows exporters to get endorsement for these animal feed products intended for export.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201305290000327" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Free-Sale-Certificate-(Animal-Feed)" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Free-Sale-Certificate-(Animal-Feed)">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/free-sale-certificate-animal-feed-for-food-producing-animals" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Food-Agency-(SFA)/Free-Sale-Certificate-(Animal-Feed)-for-Food-Producing-Animals">View Licence Details</a>
 
         -----
         **Free Sale Certificate (Food)**
@@ -2134,16 +2132,16 @@
 
         <p>The Free Sale Certificate (Food) allows exporters to get Singapore Food Agency endorsement for their<br>- Meat and Fish products intended for export.<br>- Locally processed meat and fish products intended for export<br>- Processed food products intended for export</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301070000166" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Free-Sale-Certificate-(Food)" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Free-Sale-Certificate-(Food)">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/free-sale-certificate-food" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Food-Agency-(SFA)/Free-Sale-Certificate-(Food)">View Licence Details</a>
 
         -----
         **Health Certificate for Export of Live Foodfish for Breeding**
 
+        <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
+
         <p>The Health Certificate for Export of Live Foodfish is issued by Singapore Food Agency that allows exporters to export live food fish for farming.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201212070000110" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Health-Certificate-for-Export-of-Live-Foodfish-for-Breeding" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Health-Certificate-for-Export-of-Live-Foodfish-for-Breeding">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/health-certificate-for-export-of-live-foodfish-for-breeding" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Food-Agency-(SFA)/Health-Certificate-for-Export-of-Live-Foodfish-for-Breeding">View Licence Details</a>
 
         -----
         **Licence for Import/Export/Transhipment of Meat and Fish Products**
@@ -2276,8 +2274,7 @@
 
         <p>Registration to Import Processed Food Products and Food Appliances is required if Traders involve in the import of processed food (not containing meat and fish products, fresh fruits and vegetables) and food appliances.<br /><br />Licence Pre-requisites :<br />1.Top Up CPF MediSave.<br />2.Activate UEN with Singapore Customs.<br />3.Submit original GIRO form.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301070000146" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Registration-to-Import-Processed-Food-Products-and-Food-Appliances" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Registration-to-Import-Processed-Food-Products-and-Food-Appliances">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/registration-to-import-processed-food-products-and-food-appliances" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Food-Agency-(SFA)/Registration-to-Import-Processed-Food-Products-and-Food-Appliances">View Licence Details</a>
 
         -----
         **Rice Licence**
@@ -2308,6 +2305,15 @@
         <p>Makeshift stall in a temporary fair.</p>
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/temporary-fair-stall-licence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Food-Agency-(SFA)/Temporary-Fair-Stall-Licence">View Licence Details</a>
+        
+        -----
+        **Veterinary Certificate for Food Producing Animals**
+
+        <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
+
+        <p>The Veterinary Certificate will be issued by the Singapore Food Agency. This certificate allows exporters to get endorsement for certification of health and/or testing of the animals for diseases required by the destination country/region.</p>
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/veterinary-certificate-for-food-producing-animals" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Food-Agency-(SFA)/Veterinary-Certificate-for-Food-Producing-Animals">View Licence Details</a>
 
     - title: Singapore Land Authority (SLA)
       content: |
