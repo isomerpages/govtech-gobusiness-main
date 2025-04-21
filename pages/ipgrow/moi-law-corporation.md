@@ -163,7 +163,7 @@ Read more about our services and expertise at: https://www.moi.legal
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: Singapore</li></ul>
 
 ---
 <a name='client-segments'></a>
@@ -202,4 +202,4 @@ Read more about our services and expertise at: https://www.moi.legal
 <p>
 <a class='btn' href='https://form.gov.sg/67ce4abd6a013eb1f9da4e2f' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 18 March 2025
+Profile last updated on 23 April 2025

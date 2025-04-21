@@ -35,9 +35,9 @@ Our tailored solutions combine strategic brand design and innovative technology 
 
 <b>Website:</b> <a href='https://livelygreen.sg'>https://livelygreen.sg</a>
 
-<b>Offer:</b> We offer a free consultation to discuss your needs - from strategy to execution, we're here to support your business at every stage. 
+<b>Offer:</b> IP Business Clinic participating service provider. We offer a free consultation to discuss your needs - from strategy to execution, we're here to support your business at every stage. 
 
-<a class='btn' href='https://form.gov.sg/67d7d6e4a20dc8c2972b621c' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/6804861915186e662891120a' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_2-ipgrow-company-profile %}
 
@@ -114,6 +114,6 @@ Our tailored solutions combine strategic brand design and innovative technology 
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/67d7d6e4a20dc8c2972b621c' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/6804861915186e662891120a' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 18 March 2025

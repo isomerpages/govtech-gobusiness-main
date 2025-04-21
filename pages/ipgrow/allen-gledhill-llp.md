@@ -5,13 +5,13 @@ permalink: /intellectual-property/ip-grow/allen-gledhill-llp/
 
 ## Allen & Gledhill LLP
 
-Allen & Gledhill is a regional law firm which has been providing legal services to premier clients since 1902. An award-winning law firm, we have been named South-east Asia Law Firm of the Year 2016, 2018, 2019, 2020 and 2021 by Asian Legal Business and Regional Firm of the Year 2020/2021 by The Legal 500. The International Financial Law Review named us National Firm of the Year (Singapore) 2023 for 22 times since the award's inception in 2000, and Regional Firm of the Year five times since the inception of this award in 2014, most recently in 2022. We were also the first Singapore and Southeast Asia law firm to receive this honour in 2014.
+Allen & Gledhill is a regional law firm which has been providing legal services to premier clients since 1902. An award-winning law firm, we have been named South-east Asia Law Firm of the Year 2016, 2018, 2019, 2020, 2021 and 2024 and Singapore Law Firm of the Year 2024 by Asian Legal Business and Singapore: Firm of the Year 2023 and Regional Firm of the Year 2020/2021 by The Legal 500. The International Financial Law Review named us National Firm of the Year (Singapore) 2024 for 23 times since the award's inception in 2000, and Regional Firm of the Year five times since the inception of this award in 2014, most recently in 2022. We were also the first Singapore and Southeast Asia law firm to receive this honour in 2014.
 
 <b>Year established in Singapore:</b> 2007
 
 <b>Top focus areas for IA/IP services:</b> Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, IP Portfolio Management, Dispute Resolution
 
-<b>Intellectual property awards received:</b> 2023 - World Trademark Review 1000 - Gold for Enforcement and Litigation, Gold for Prosecution and Strategy ; 2023 - Asialaw Profiles - Outstanding for Intellectual Property (Practice Area) ; 2023 - Chambers Asia-Pacific - Band 1 for Intellectual Property: Domestic ; 2023 - The Legal 500 Asia Pacific - Tier 1 for Intellectual Property: Local Firms ;  2022 - Benchmark Litigation Asia-Pacific - Band 1 for Intellectual Property
+<b>Intellectual property awards received:</b> 2024 - World Trademark Review 1000 - Gold for Prosecution and Strategy and Enforcement and Litigation
 
 <b>Type of organization:</b> Non-SME
 
@@ -138,7 +138,7 @@ Allen & Gledhill is a regional law firm which has been providing legal services 
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s):  Vietnam, Myanmar</li><li style='line-height: 27px; margin: 0px 0px !important'>Partner Office(s): Malaysia, Indonesia</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: Singapore</li></ul>
 
 ---
 <a name='client-segments'></a>
@@ -213,4 +213,4 @@ Allen & Gledhill is a regional law firm which has been providing legal services 
 <p>
 <a class='btn' href='https://form.gov.sg/67cea2679c0dcb2dd925e4be' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 28 May 2024
+Profile last updated on 23 April 2025

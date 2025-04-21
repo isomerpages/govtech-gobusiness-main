@@ -23,7 +23,9 @@ Our industry-focused approach enables us to combine in-depth industry experience
 
 <b>Website:</b> <a href='https://www.joylaw.com/'>https://www.joylaw.com/</a>
 
-<a class='btn' href='https://form.gov.sg/67cf9de9379ed7a8a320bd0d' target='_blank' rel='noopener'>Get in touch</a>
+<b>Offer:</b> IP Business Clinic participating service provider
+
+<a class='btn' href='https://form.gov.sg/6804787845377fdf3d437845' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_2-ipgrow-company-profile %}
 
@@ -194,6 +196,6 @@ Our industry-focused approach enables us to combine in-depth industry experience
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/67cf9de9379ed7a8a320bd0d' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/6804787845377fdf3d437845' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 27 March 2025

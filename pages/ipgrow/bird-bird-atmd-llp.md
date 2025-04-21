@@ -182,7 +182,7 @@ With over 1,700 lawyers across 32 offices globally, Bird & Bird ATMD is well-pla
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): China, Hong Kong, Australia</li><li style='line-height: 27px; margin: 0px 0px !important'>Partner Office(s): Malaysia, Indonesia, Thailand, Vietnam</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): China, Hong Kong, Australia</li><li style='line-height: 27px; margin: 0px 0px !important'>Partner Office(s): Malaysia, Indonesia, Thailand, Vietnam</li></ul>
 
 ---
 <a name='client-segments'></a>
@@ -303,4 +303,4 @@ With over 1,700 lawyers across 32 offices globally, Bird & Bird ATMD is well-pla
 <p>
 <a class='btn' href='https://form.gov.sg/67ce9956cdf17695deaf9a18' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 8 May 2024
+Profile last updated on 23 April 2025

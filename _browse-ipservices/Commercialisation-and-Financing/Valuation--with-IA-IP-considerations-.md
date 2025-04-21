@@ -91,21 +91,6 @@ Business Advisors to Growing Businesses.
 
 ---
 
-#### Lim & Young Appraisal
-
-Lim & Young Appraisal provides specialized, professional and cost-effective valuation services.
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 36 to 40</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $6,000</li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/67d2484045eb4baf25695434' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/lim-young-appraisal/){:target='_blank'}
-
----
-
 #### Brand Finance
 
 Brand Finance is the world's leading brand valuation consultancy.
@@ -179,6 +164,21 @@ Community of solvers combining innovative technologies to build trust and delive
 </ul>
 
 <a class='btn' href='https://form.gov.sg/67cea5e96460c537e74984d5' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/pricewaterhousecoopers-singapore-pte-ltd/){:target='_blank'}
+
+---
+
+#### Lim & Young Appraisal
+
+Lim & Young Appraisal provides specialized, professional and cost-effective valuation services.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 21 to 25</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $4,000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/67d2484045eb4baf25695434' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/lim-young-appraisal/){:target='_blank'}
 
 ---
 
@@ -368,7 +368,7 @@ Deloitte is a leading specialist in Intellectual Property Advisory with a broad 
 
 #### Singapore FOZL Group Pte Ltd
 
-Since 2011, FOZL Group operate and served over 1000 companies to set up their companies in Singapore.
+FOZL Group: An International Accounting & Advisory Firm headquartered in Singapore
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>

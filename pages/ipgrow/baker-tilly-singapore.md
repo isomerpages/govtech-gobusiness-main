@@ -76,4 +76,4 @@ Baker Tilly Singapore is a leading full-service accounting and advisory firm tha
 <p>
 <a class='btn' href='https://form.gov.sg/67d2427e64375600ea3f0f7c' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 27 March 2024
+Profile last updated on 23 April 2025

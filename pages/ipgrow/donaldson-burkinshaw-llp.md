@@ -154,7 +154,7 @@ Donaldson & Burkinshaw LLP is a full-service law firm with one of Singapore's lo
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Partner Office(s): Malaysia, Brunei</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Partner Office(s): Malaysia, Brunei</li></ul>
 
 ---
 <a name='client-segments'></a>

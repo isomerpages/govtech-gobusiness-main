@@ -70,7 +70,7 @@ We take a highly analytical approach to solving our clients' problems, taking th
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): Thailand, Indonesia, Vietnam</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): Thailand, Indonesia, Vietnam</li></ul>
 
 ---
 <a name='client-segments'></a>
@@ -121,4 +121,4 @@ We take a highly analytical approach to solving our clients' problems, taking th
 <p>
 <a class='btn' href='https://form.gov.sg/67ceac89a85399bf2baaff99' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 23 April 2025

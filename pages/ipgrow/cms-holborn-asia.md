@@ -137,7 +137,7 @@ Holborn Law LLC is in a Formal Law Alliance with CMS Cameron McKenna Nabarro Ols
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: London</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): Singapore, Hong Kong, Beijing, Shanghai</li><li style='line-height: 27px; margin: 0px 0px !important'>Partner Office(s): Malaysia, Indonesia, Thailand, Vietnam, Philippines, Myanmar, India, Korea and others</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: London</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): Singapore, Hong Kong, Beijing, Shanghai</li><li style='line-height: 27px; margin: 0px 0px !important'>Partner Office(s): Malaysia, Indonesia, Thailand, Vietnam, Philippines, Myanmar, India, Korea and others</li></ul>
 
 ---
 <a name='client-segments'></a>
@@ -179,4 +179,4 @@ Holborn Law LLC is in a Formal Law Alliance with CMS Cameron McKenna Nabarro Ols
 <p>
 <a class='btn' href='https://form.gov.sg/67cea947588bd87d207cc54f' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 24 April 2024
+Profile last updated on 23 April 2025

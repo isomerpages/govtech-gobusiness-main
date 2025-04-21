@@ -133,17 +133,8 @@ Deloitte Southeast Asia's Financial Advisory practice is a leading specialist in
 <a name='key-practice-experts'></a>
 ### Key practice experts
 
-**Keoy Soo Earn**
-
-- Job Title: Deloitte Private Leader & Private Equity Leader, Southeast Asia
-- Years of Experience: 30+ years
-- Location: Singapore
-- IA/IP-Related Expertise: IP Audit, IP Due Diligence, IP Strategy Consulting, IP Brokerage and Licensing, Valuation (with IA/IP considerations)
-- Certifications/Qualifications: Graduate Certificate in Intellectual Property, Chartered Financial Analyst, Certified Practicing Management Consultant - a Singapore recognised certification programme
-- Awards/Accolades: Recognized as one of the world top 300 IP Strategists (in 2013, 2014, 2017 to 2023) by the Intellectual Asset Management, Selected by Who's Who Legal from 2015 to 2018 as one of the leading Due Diligence Accountants
-- URL of LinkedIn/Company Profile: <a href="https://www2.deloitte.com/sg/en/profiles/skeoy.html" target="_blank" rel="noopener">https://www2.deloitte.com/sg/en/profiles/skeoy.html</a>
-
 **Leonard Woo**
+
 - Job Title: Valuation Partner, Southeast Asia
 - Years of Experience: 30+ years
 - Location: Singapore
@@ -156,4 +147,4 @@ Deloitte Southeast Asia's Financial Advisory practice is a leading specialist in
 <p>
 <a class='btn' href='https://form.gov.sg/67d004d49cd47ed14ea64603' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 22 January 2025
+Profile last updated on 23 April 2025

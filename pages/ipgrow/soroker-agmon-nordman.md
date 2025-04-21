@@ -169,7 +169,7 @@ Soroker Agmon Nordman is a foreign law firm founded by Jonathan Agmon in Singapo
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore, Israel</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: Singapore, Israel</li></ul>
 
 ---
 <a name='client-segments'></a>
@@ -225,4 +225,4 @@ Soroker Agmon Nordman is a foreign law firm founded by Jonathan Agmon in Singapo
 <p>
 <a class='btn' href='https://form.gov.sg/67d7d3d9f42a48c6587a8ecc' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 26 February 2025
+Profile last updated on 23 April 2025

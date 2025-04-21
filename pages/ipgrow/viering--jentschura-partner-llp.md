@@ -20,9 +20,9 @@ Viering, Jentschura & Partner (VJP) Singapore is part of a more than 250 member 
 
 <b>Website:</b> <a href='https://www.vjp.de'>https://www.vjp.de</a>
 
-<b>Offer:</b> Free 30 mins consultation.
+<b>Offer:</b> IP Business Clinic participating service provider
 
-<a class='btn' href='https://form.gov.sg/67cea198dd496a3035c29cf0' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/680476b242f7628adc0c3588' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1a-ipgrow-company-profile %}
 
@@ -120,7 +120,7 @@ Viering, Jentschura & Partner (VJP) Singapore is part of a more than 250 member 
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Germany</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): Singapore, Taiwan</li><li style='line-height: 27px; margin: 0px 0px !important'>Partner Office(s): All around the world</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: Germany</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): Singapore, Taiwan</li><li style='line-height: 27px; margin: 0px 0px !important'>Partner Office(s): All around the world</li></ul>
 
 ---
 <a name='client-segments'></a>
@@ -232,6 +232,6 @@ Viering, Jentschura & Partner (VJP) Singapore is part of a more than 250 member 
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/67cea198dd496a3035c29cf0' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/680476b242f7628adc0c3588' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 27 March 2025

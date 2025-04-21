@@ -45,7 +45,7 @@ Founded in 2006, OOm is a one-stop digital marketing company that helps SMEs and
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): Manila</li><li style='line-height: 27px; margin: 0px 0px !important'>Partner Office(s): China</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): Manila</li><li style='line-height: 27px; margin: 0px 0px !important'>Partner Office(s): China</li></ul>
 
 ---
 <a name='client-segments'></a>

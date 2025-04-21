@@ -22,7 +22,7 @@ By working with an experienced tax advisor, businesses can identify tax-saving o
 ---
 
 ### Connect with relevant service providers for tax advisory services (with IA/IP considerations)
-**13 service providers listed.**
+**14 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -121,7 +121,7 @@ Fair valuation of businesses, financial instruments, ESOS options, and intellect
 
 #### Singapore FOZL Group Pte Ltd
 
-Since 2011, FOZL Group operate and served over 1000 companies to set up their companies in Singapore.
+FOZL Group: An International Accounting & Advisory Firm headquartered in Singapore
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
@@ -224,6 +224,22 @@ CLA Global TS is an Asia-focused business advisor providing assurance, tax and a
 </ul>
 
 <a class='btn' href='https://form.gov.sg/67d25b0f264dbb41d0712c79' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/cla-global-ts-advisory-pte-ltd/){:target='_blank'}
+
+---
+
+#### RSM Singapore
+
+Business Advisors to Growing Businesses.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/67d7d576d1d11769526ec01a' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/rsm-singapore/){:target='_blank'}
 
 ---
 

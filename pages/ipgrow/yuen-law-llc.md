@@ -146,4 +146,4 @@ Yuen Law has gained recognition for its work in the area of Startups and Emergin
 <p>
 <a class='btn' href='https://form.gov.sg/67cfa98c5ff3d5af9c43fd67' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 23 April 2025

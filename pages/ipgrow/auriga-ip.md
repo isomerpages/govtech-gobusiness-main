@@ -91,7 +91,7 @@ We offer a comprehensive range of services, including patent, registered design 
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: Singapore</li></ul>
 
 ---
 <a name='client-segments'></a>
@@ -122,4 +122,4 @@ We offer a comprehensive range of services, including patent, registered design 
 <p>
 <a class='btn' href='https://form.gov.sg/67d7d9039c43570a54babac0' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 26 February 2025
+Profile last updated on 23 April 2025

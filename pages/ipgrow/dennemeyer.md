@@ -13,9 +13,9 @@ In addition to a full spectrum of IP-related legal services, Dennemeyer offers I
 
 <b>Year established in Singapore:</b> 2016
 
-<b>Top focus areas for IA/IP services:</b> Trade Mark Agent Service, IP Intelligence and Search, IP Portfolio Management, IP Strategy Consulting, Valuation
+<b>Top focus areas for IA/IP services:</b> IP Audit, IP Portfolio Management, IP Strategy Consulting, Valuation (with IA/IP considerations), Trade Mark Agent Service
 
-<b>Intellectual property awards received:</b> [2022] Dennemeyer Group cited as a premier provider of Intellectual Property law and management services in WTR1000 ; [2021] Dennemeyer & Associates ranks among top European IP law firms in WTR1000 ; [2020] Dennemeyer & Associates ranked as one of the world's top IP law firms in WTR1000 ; [2019] Dennemeyer Group selected as the "Recommended Trademark Service Provider" in WTR1000 ; [2018] Dennemeyer & Associates winner of the "Intellectual Property - Law Firm of the Year - Luxembourg" at Lawyer Monthly Legal Awards 2018
+<b>Intellectual property awards received:</b> [2024 & 2025] Dennemeyer cited as the "Recommended Trademark Service Provider" in WTR1000 ; [2022] Dennemeyer cited as a premier provider of Intellectual Property law and management services in WTR1000 ; [2021] Dennemeyer ranks among top European IP law firms in WTR1000 ; [2020] Dennemeyer ranked as one of the world's top IP law firms in WTR1000 ; [2018] Dennemeyer & Associates winner of the "Intellectual Property - Law Firm of the Year - Luxembourg" at Lawyer Monthly Legal Awards
 
 <b>Type of organization:</b> Non-SME
 
@@ -173,7 +173,7 @@ In addition to a full spectrum of IP-related legal services, Dennemeyer offers I
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): Australia, China, Japan</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): Australia, China, Japan</li></ul>
 
 ---
 <a name='client-segments'></a>
@@ -187,11 +187,11 @@ In addition to a full spectrum of IP-related legal services, Dennemeyer offers I
 <a name='testimonials'></a>
 ### Testimonials
 
-*"DIAMS iQ is a fantastic product. It provides an invaluable system to manage Intellectual Property practices and patent practices. It includes the key features required to manage and prosecute patents, and also includes many advanced features to help process applications. After-sales support is great and is extremely quick to correct any issues. DIAMS iQ is a very flexible system, and I would highly recommend this software."* - Anthony Alder, Principal, Alder IP.
+*"IP management is inherently complex, often involving strict deadlines that must be met to avoid costly errors. Without a reliable support system, mistakes are more likely, which is why IP management software is essential. It significantly reduces the risk of errors and mitigates potential damage. For example, managing the annual payment of patent annuities or filing declarations of use in jurisdictions like the USA, Cambodia and the Philippines requires precise timing. DIAMS U ensures that we receive timely reminders, allowing us to promptly notify our clients and maintain compliance seamlessly."* - Akkaraporn Muangosbha, Partner, Rajah & Tann (Thailand) Limited
 
-*"Managing Hugo Boss' portfolios requires flexibility as much as reliability. For this, Dennemeyer has always offered us the ideal combination of technology and expertise. Their DIAMS iQ software solution integrates seamlessly with our in-house setup and the wider ecosystem of Dennemeyer services. All the while, the support of their attorneys as well as our historical network of partners has empowered our branding activities over many productive years. We are eager to meet the future with Dennemeyer's Intellectual Property experts at our side."* - Nicole Klug, Team Leader Global IP Department, Hugo Boss.
+*"Managing Hugo Boss' portfolios requires flexibility as much as reliability. For this, Dennemeyer has always offered us the ideal combination of technology and expertise. Their DIAMS iQ software solution integrates seamlessly with our in-house setup and the wider ecosystem of Dennemeyer services. All the while, the support of their attorneys as well as our historical network of partners has empowered our branding activities over many productive years. We are eager to meet the future with Dennemeyer's Intellectual Property experts at our side."* - Nicole Klug, Team Leader Global IP Department, Hugo Boss
 
-*"In a joint project team with Dennemeyer Consulting, we developed our new patent strategy, organization, process, resources and requirements for software tools. Today, I am proud that our implemented patent competence center passed several, even externally driven assessments, with the result that our patent management is up to date with no need to further improvement."* - Hans-Georg Greif, Head of Patents, RWE.
+*"With the Octimine software from Dennemeyer, it is suddenly so enjoyable for our engineers to conduct patent research."* - Joachim Rieger, Patent Manager, Varta AG
 
 
 
@@ -221,28 +221,10 @@ In addition to a full spectrum of IP-related legal services, Dennemeyer offers I
 - IA/IP-Related Expertise: IP Database, IP Intelligence and Search, IP Portfolio Management
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/francis-chew-075aa276" target="_blank" rel="noopener">https://www.linkedin.com/in/francis-chew-075aa276</a>
 
-**Dr. Dominique Christ**
+**Peter Erdödy**
 
-- Job Title: Managing Director Dennemeyer Consulting
-- Years of Experience: 12+ years
-- Location: Munich, Germany
-- IA/IP-Related Expertise: Innovation Consultancy, IP Audit, IP Due Diligence, IP Strategy Consulting, Valuation (with IA/IP considerations)
-- Certifications/Qualifications: Chairman of the IP Strategy Committee at the International Institute for IP Management, Licensed Attorney-at-law in Spain, PhD in Law, Master of Business Administration (MBA), IP-Management Business Administration Diploma CEIPI (University of Strasbourg), Member of the International Honor Society Beta Gamma Sigma for Outstanding Academic Achievements, Doctoral and Student Scholarship of the Foundation of the German Economy (Stiftung der deutschen Wirtschaft SDW)
-- URL of LinkedIn/Company Profile: <a href="https://www.dennemeyer.com/about/team/christ" target="_blank" rel="noopener">https://www.dennemeyer.com/about/team/christ</a>
-
-**Burkhard Josuhn-Kadner**
-
-- Job Title: Senior Manager, Dennemeyer Consulting
-- Years of Experience: 30+ years
-- Location: Munich, Germany
-- IA/IP-Related Expertise: Innovation Consultancy, IP Due Diligence, IP Portfolio Management, IP Intelligence & Search, IP Strategy Consulting
-- Certifications/Qualifications: Master of Mechanical Engineering, University of Bochum, Germany, Patent Engineer, Forum Institute Heidelberg, Germany, Member of the Advisory Board of the IP Service World Conference, Munich, Germany
-- URL of LinkedIn/Company Profile: <a href="https://go.dennemeyer.com/consulting/experts/burkhard-josuhn-kadner" target="_blank" rel="noopener">https://go.dennemeyer.com/consulting/experts/burkhard-josuhn-kadner</a>
-
-**Peter Erd&ouml;dy**
-
-- Job Title: Global Head of Octimine
-- Years of Experience: 3+ years
+- Job Title: Managing Director of Octimine
+- Years of Experience: 5+ years
 - Location: Bavaria, Germany
 - IA/IP-Related Expertise: IP Database, IP Intelligence and Search
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/peter-erd%C3%B6dy-8aa64294" target="_blank" rel="noopener">https://www.linkedin.com/in/peter-erd%C3%B6dy-8aa64294</a>
@@ -250,10 +232,11 @@ In addition to a full spectrum of IP-related legal services, Dennemeyer offers I
 **Olivier Lombardo**
 
 - Job Title: Head of Trademarks Luxembourg
-- Years of Experience: 19+ years
+- Years of Experience: 20+ years
 - Location: Howald, Luxembourg
 - IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Watch, IP Portfolio Management, IP Training
 - Certifications/Qualifications: CEIPI Diplom in Trademark and Design Law, LL.M in European and International Business Law, WTR Global Leaders: Private Practice (2022), Trade Mark Star 2022, Luxembourg (IP Stars)
+- Awards/Accolades: WTR 1000 "Recommended - Individuals" (2024 & 2025); WTR Global Leaders: Private Practice (2022); IP Starts Trade Mark Star, Luxembourg (2022)
 - URL of LinkedIn/Company Profile: <a href="https://www.dennemeyer.com/about/team/lombardo" target="_blank" rel="noopener">https://www.dennemeyer.com/about/team/lombardo</a>
 
 **Geordie Oldfield**
@@ -265,14 +248,14 @@ In addition to a full spectrum of IP-related legal services, Dennemeyer offers I
 - Certifications/Qualifications: Registered Patent and Trade Marks Attorney in Australia and New Zealand and Australian Lawyer, Fellow of the Institute of Patent and Trade Mark Attorneys of Australia, Member of the Australian Institute of Company Directors, Master of Laws (IP), Member of the International Trademark Association (INTA), serving on the Famous and Well-Known Marks Committee, Serving on the Institute of Patent and Trade Mark Attorneys of Australia's Patent Practice and IP Australia Business Relations Committee 
 - URL of LinkedIn/Company Profile: <a href="https://www.dennemeyer.com/about/team/oldfield" target="_blank" rel="noopener">https://www.dennemeyer.com/about/team/oldfield</a>
 
-**Kazuya Sekiguchi**
+**Johannes Herbert**
 
-- Job Title: Patent Attorney (JP), European Patent Attorney
-- Years of Experience: 19+ years
+- Job Title: Senior Product Manager, Dennemeyer Consulting
+- Years of Experience: 10+ years
 - Location: Munich, Germany
-- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Freedom-to-Operate (FTO)
-- Certifications/Qualifications: Certified IP Litigator in Japan
-- URL of LinkedIn/Company Profile: <a href="https://www.dennemeyer.com/about/team/sekiguchi" target="_blank" rel="noopener">https://www.dennemeyer.com/about/team/sekiguchi</a>
+- IA/IP-Related Expertise: IP Audit, IP Portfolio Management, IP Strategy Consulting, IP Training, IP Intelligence and Search
+- Certifications/Qualifications: Patent Management, TÜV Academy; MA in Communication Science, Ludwig-Maximilians-University of Munich; BA in Political and Social Science, University of Erfurt
+- URL of LinkedIn/Company Profile: <a href="https://go.dennemeyer.com/consulting/experts/johannes-herbert" target="_blank" rel="noopener">https://go.dennemeyer.com/consulting/experts/johannes-herbert</a>
 
 **Vanja Nedimovic**
 
@@ -283,8 +266,18 @@ In addition to a full spectrum of IP-related legal services, Dennemeyer offers I
 - Certifications/Qualifications: Registered Trademark Agent issued by Canadian Intellectual Property Office (Office de la propri&eacute;t&eacute; intellectuelle du Canada), EUIPO Trademark and Design Attorney Certificate, LLM in International Law
 - URL of LinkedIn/Company Profile: <a href="https://www.dennemeyer.com/about/team/nedimovic" target="_blank" rel="noopener">https://www.dennemeyer.com/about/team/nedimovic</a>
 
+**Dr. Enno D. Bibow**
+
+- Job Title: Senior Manager, Dennemeyer Consulting
+- Years of Experience: 20+ years
+- Location: Paris, France
+- IA/IP-Related Expertise: IP Audit, IP Due Diligence, IP Portfolio Management, IP Strategy Consulting, Valuation (with IA/IP considerations)
+- Certifications/Qualifications: European & French Patent Attorney; Master in International Patent Law, University of Strasbourg; Master in Physics, Heidelberg University; PhD in Quantum Computing, Grenoble University; Member of Licensing Executives Society International (LESI); Member of European Patent Institute (EPI)
+- Awards/Accolades: IAM Strategy 300 – The World's Leading IP Strategists
+- URL of LinkedIn/Company Profile: [https://go.dennemeyer.com/consulting/experts/enno-bibow](hhttps://go.dennemeyer.com/consulting/experts/enno-bibow)
+
 ---
 <p>
 <a class='btn' href='https://form.gov.sg/67cead476460c537e74b805b' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 23 April 2025

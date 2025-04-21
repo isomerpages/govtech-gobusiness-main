@@ -147,7 +147,7 @@ Reach out to us! Our experts always have their feet ready to provide a full cons
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Malaysia</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): Singapore</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: Malaysia</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): Singapore</li></ul>
 
 ---
 <a name='client-segments'></a>
@@ -188,4 +188,4 @@ Reach out to us! Our experts always have their feet ready to provide a full cons
 <p>
 <a class='btn' href='https://form.gov.sg/67cf926a76d42d8bdd701bc4' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 23 April 2025
