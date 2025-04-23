@@ -88,7 +88,7 @@ We are able to advise on the tax efficient structure for IP and assist to estima
 - Years of Experience: 24 years
 - Location: Singapore
 - IA/IP-Related Expertise: Valuation (with IA/IP considerations)
-- Certifications/Qualifications: Chartered Accountant of Singapore, Chartered Valuer and Appraiser in Singapore, 
+- Certifications/Qualifications: Chartered Accountant of Singapore, Chartered Valuer and Appraiser in Singapore
 - URL of LinkedIn/Company Profile: <a href="https://www.rsm.global/singapore/people/terence-ang" target="_blank" rel="noopener">https://www.rsm.global/singapore/people/terence-ang</a>
 
 **Daniel Low**
@@ -107,7 +107,7 @@ We are able to advise on the tax efficient structure for IP and assist to estima
 - Location: Singapore
 - IA/IP-Related Expertise: Tax Advisory (with IA/IP considerations)
 - Certifications/Qualifications: Accredited Tax Advisor (Income Tax), Association of Chartered Certified Accountants (ACCA)
-- URL of LinkedIn/Company Profile: [https://www.rsm.global/singapore/people/koh-puay-hoon] (https://www.rsm.global/singapore/people/koh-puay-hoon)
+- URL of LinkedIn/Company Profile: <a href="https://www.rsm.global/singapore/people/koh-puay-hoon" target="_blank" rel="noopener">https://www.rsm.global/singapore/people/koh-puay-hoon</a>
 
 **Wei Lin, Law**
 
@@ -116,7 +116,7 @@ We are able to advise on the tax efficient structure for IP and assist to estima
 - Location: Singapore
 - IA/IP-Related Expertise: Tax Advisory (with IA/IP considerations)
 - Certifications/Qualifications: Accredited Tax Advisor (Income Tax), Association of Chartered Certified Accountants (ACCA)
-- URL of LinkedIn/Company Profile: [https://www.rsm.global/singapore/people/law-wei-lin] (https://www.rsm.global/singapore/people/law-wei-lin)
+- URL of LinkedIn/Company Profile: <a href="https://www.rsm.global/singapore/people/law-wei-lin" target="_blank" rel="noopener">https://www.rsm.global/singapore/people/law-wei-lin</a>
 
 **Joanna, Lam**
 
@@ -125,7 +125,7 @@ We are able to advise on the tax efficient structure for IP and assist to estima
 - Location: Singapore
 - IA/IP-Related Expertise: Tax Advisory (with IA/IP considerations)
 - Certifications/Qualifications: Association of Chartered Certified Accountants (ACCA)
-- URL of LinkedIn/Company Profile: [https://www.rsm.global/singapore/people/joanna-lam] (https://www.rsm.global/singapore/people/joanna-lam)
+- URL of LinkedIn/Company Profile: <a href="https://www.rsm.global/singapore/people/joanna-lam" target="_blank" rel="noopener">https://www.rsm.global/singapore/people/joanna-lam</a>
 
 **Richard, Ong**
 
@@ -134,7 +134,7 @@ We are able to advise on the tax efficient structure for IP and assist to estima
 - Location: Singapore
 - IA/IP-Related Expertise: Tax Advisory (with IA/IP considerations)
 - Certifications/Qualifications: Accredited Tax Advisor (GST)
-- URL of LinkedIn/Company Profile: [https://www.rsm.global/singapore/people/richard-ong] (https://www.rsm.global/singapore/people/richard-ong)
+- URL of LinkedIn/Company Profile: <a href="https://www.rsm.global/singapore/people/richard-ong" target="_blank" rel="noopener">https://www.rsm.global/singapore/people/richard-ong</a>
 
 ---
 <p>

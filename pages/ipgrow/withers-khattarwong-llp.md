@@ -159,7 +159,7 @@ Withers has 17 offices worldwide in London, New York, New Haven, Greenwich (Conn
 - Job Title: Associate
 - Years of Experience: 5 years
 - Location: Singapore
-- IA/IP-Related Expertise: Registered Design Agent Service,Trade Mark Agent Service,IP Due Diligence,IP Portfolio Management,Contract Drafting
+- IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, Contract Drafting
 - Certifications/Qualifications: Advocate & Solicitor in Singapore
 - URL of LinkedIn/Company Profile: <a href="https://www.withersworldwide.com/en-gb/people/bernetta-foong" target="_blank" rel="noopener">https://www.withersworldwide.com/en-gb/people/bernetta-foong</a>
 
