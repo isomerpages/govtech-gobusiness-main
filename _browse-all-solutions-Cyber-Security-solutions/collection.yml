@@ -6,7 +6,5 @@ collections:
       - Managed-Detection-and-Response.md
       - Backup.md
       - Virus-Malware-Protection.md
-      - Endpoint-Protection-Platform.md
-      - Unified-Threat-Management.md
-      - Integrated-Package.md
       - Firewall.md
+      - Integrated-Package.md
