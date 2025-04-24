@@ -47,7 +47,7 @@ The name Distilleri is a play on the word 'Distill' - to purify or refine throug
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: Singapore</li></ul>
 
 ---
 <a name='client-segments'></a>
@@ -86,4 +86,4 @@ The name Distilleri is a play on the word 'Distill' - to purify or refine throug
 <p>
 <a class='btn' href='https://form.gov.sg/67cf9a0e379ed7a8a31fd175' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 23 April 2025

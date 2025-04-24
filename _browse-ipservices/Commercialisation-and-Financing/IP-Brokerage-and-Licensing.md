@@ -264,6 +264,22 @@ Claudian Caucus is Asia's leading IP strategy and consulting firm specialising i
 
 ---
 
+#### FT Consulting Pte. Ltd.
+
+FT Consulting is an Asia-centric business consulting firm helping companies grow their business.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 21 - 30</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of transactions completed in previous calendar year:</b> 1 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1,200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/67d7d1bac75b36291017173e' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ft-consulting-pte-ltd/){:target='_blank'}
+
+---
+
 #### Global Intellects Pte Ltd
 
 We are a boutique Trademark Management Firm established since 2007 in Singapore.
@@ -276,22 +292,6 @@ We are a boutique Trademark Management Firm established since 2007 in Singapore.
 </ul>
 
 <a class='btn' href='https://form.gov.sg/67d7c44e390278b935b32efe' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/global-intellects-pte-ltd/){:target='_blank'}
-
----
-
-#### FT Consulting Pte. Ltd.
-
-FT Consulting is an Asia-centric business consulting firm helping companies grow their business.
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 21 - 30</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of transactions completed in previous calendar year:</b> 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider</li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/67d7d1bac75b36291017173e' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ft-consulting-pte-ltd/){:target='_blank'}
 
 ---
 

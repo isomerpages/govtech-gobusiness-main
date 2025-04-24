@@ -5,15 +5,15 @@ permalink: /intellectual-property/ip-grow/dentons-rodyk-davidson-llp/
 
 ## Dentons Rodyk & Davidson LLP
 
-Trusted since 1861, Dentons Rodyk is one of Singapore's largest and oldest law firms with a team of around 200 lawyers offering clients a full suite of legal services necessary to do business locally and globally. We regularly represent a diverse clientele across a broad spectrum of industries in various practice areas.
-
-Our presence in Southeast Asia is growing. Building on our regional expertise and service offerings, we launched our office in Myanmar, Dentons Myanmar Limited, in 2017, which makes us the largest international law firm to set up in Yangon. Despite being the fastest growing economy in Southeast Asia in the last two years, Myanmar is currently still underserved by global law firms. Our entry is timely and an important part of our regional strategy. Our team in Yangon comprises both highly experienced international and local lawyers, who have a deep understanding of the country's regulatory and business environment.
+Dentons Rodyk is a global law firm in Singapore. We have a team of 200+ lawyers offering clients across a broad spectrum of industries a full suite of legal services necessary to do business locally and globally. Trusted Since 1861, we have been consistently ranked highly in legal publications. We pride ourselves on providing the highest quality advice to our clients while maintaining strong working relationships with key public sector agencies and leading organisations in the private sector. Our combination with global law firm Dentons makes us part of the world's largest law firm in more than 80 countries. 
+ 
+The first global pan-ASEAN law firm, Dentons ASEAN has an established history in Indonesia, Malaysia, Myanmar, the Philippines, Singapore and Vietnam and will continue to grow our presence to help clients navigate change wherever they are located. Dentons ASEAN recently announced its intention to combine with leading Thailand law firm, Pisut & Partners, to be launched in the coming months.
 
 <b>Year established in Singapore:</b> 1861
 
 <b>Top focus areas for IA/IP services:</b> Patent Agent Service, Trade Mark Agent Service, IP Portfolio Management, Contract Drafting, Dispute Resolution
 
-<b>Intellectual property awards received:</b> Chambers Asia-Pacific, 2019 - 2023 - Ranked Band 2 in Intellectual Property ; The Legal 500 Asia-Pacific, 2019 - 2023 - Ranked Tier 2 in Intellectual Property ; Asialaw Profiles, 2017 - 2023 - Ranked as Highly Recommended in Intellectual Property ; Benchmark Litigation Asia-Pacific, 2019 - 2023  - Ranked Tier 2 in Intellectual Property ; In-House Community, 2019 - Firm of the Year for Intellectual Property 
+<b>Intellectual property awards received:</b> Chambers Asia-Pacific: Ranked Band 2 in Intellectual Property (2019 - 2025)
 
 <b>Type of organization:</b> Non-SME
 
@@ -121,7 +121,7 @@ Our presence in Southeast Asia is growing. Building on our regional expertise an
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): Myanmar</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): Myanmar</li></ul>
 
 ---
 <a name='client-segments'></a>
@@ -138,65 +138,56 @@ Our presence in Southeast Asia is growing. Building on our regional expertise an
 **Catherine Lee**
 
 - Job Title: Senior Partner
-- Years of Experience: 23 years
+- Years of Experience: 25 years
 - Location: Singapore
 - IA/IP-Related Expertise: Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, Contract Drafting, Dispute Resolution
 - Certifications/Qualifications: Advocate & Solicitor, Singapore 2000
-- Awards/Accolades: Best Lawyers in Singapore: Recognized in the areas of Intellectual Property Law and Privacy and Data Security Law 2023, IP Stars: Trademark Star (2020 - 2022), IP Stars: Top 250 Women in IP (2020 - 2022), The Legal 500 Asia Pacific: Recommended Lawyer for Technology, Media & Telecommunications (2018)
+- Awards/Accolades: Asia IP: Recognized as IP Expert in Singapore, 2023 - 2024
 - URL of LinkedIn/Company Profile: <a href="https://dentons.rodyk.com/en/catherine-lee" target="_blank" rel="noopener">https://dentons.rodyk.com/en/catherine-lee</a>
 
 **Gilbert Leong**
 
 - Job Title: Senior Partner
-- Years of Experience: 33 years
+- Years of Experience: 35 years
 - Location: Singapore
 - IA/IP-Related Expertise: Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, Contract Drafting, Dispute Resolution
 - Certifications/Qualifications: Advocate & Solicitor Singapore (1990)
-- Awards/Accolades: ALB SEA Law Awards: Data Privacy and Protection Lawyer of the Year Award (2022), Best Lawyers in Singapore: Recognized in the area of Information Technology Law (2021 - 2023), Chambers Asia Pacific: Recognised as Leading Individual for Technology, Media, Telecommunications (2011 - 2022), IFLR1000: Recognized as a Notable Practitioner for M&A (2019 - 2023), Who's Who Legal:  Recognized as a National Leader (Southeast Asia) for Data (2022)
+- Awards/Accolades: Asia IP: Recognized as IP Expert in Singapore, 2023 - 2024
 - URL of LinkedIn/Company Profile: <a href="https://dentons.rodyk.com/en/gilbert-leong" target="_blank" rel="noopener">https://dentons.rodyk.com/en/gilbert-leong</a>
-
-**Ai Ming Lee**
-
-- Job Title: Senior Consultant
-- Years of Experience: 45 years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Freedom-to-Operate (FTO), IP Portfolio Management, Dispute Resolution
-- Certifications/Qualifications: Advocate & Solicitor, Singapore (1978)
-- Awards/Accolades: Chambers Asia Pacific: Recognised as Leading Individual Band 1 for Intellectual Property (2016 - 2023), The Legal 500 Asia Pacific: Recognised as Leading Individual for Intellectual Property (2014 - 2023), Who's Who Legal: Recognised as a Leading Practitioner for Trademarks (2020), IAM Patent 1000: Recognised as a Patent Luminary (2019), Asialaw Leading Lawyers: Ranked as Distinguished Practitioner in Intellectual Property (2020 - 2023)
-- URL of LinkedIn/Company Profile: <a href="https://dentons.rodyk.com/en/aiming-lee" target="_blank" rel="noopener">https://dentons.rodyk.com/en/aiming-lee</a>
 
 **Maw Jiun Foo**
 
 - Job Title: Senior Partner
-- Years of Experience: 14 years
+- Years of Experience: 16 years
 - Location: Singapore
 - IA/IP-Related Expertise: Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, Contract Drafting, Dispute Resolution
 - Certifications/Qualifications: Advocate and Solicitor, Singapore (2009)
-- Awards/Accolades: The Legal 500 Asia Pacific: Recommended lawyer for Intellectual Property (2018), Singapore Business Review: Singapore's 18 Most Influential Lawyers under 40 (2021), Asian Legal Business: Asia 40 under 40 (2022), IAM Patent: Recognised and Ranked for Litigation (2022)
+- Awards/Accolades: IAM Patent: Recognised and Ranked for Litigation, 2022 - 2024
 - URL of LinkedIn/Company Profile: <a href="https://dentons.rodyk.com/en/mawjiun-foo" target="_blank" rel="noopener">https://dentons.rodyk.com/en/mawjiun-foo</a>
 
 **Elaine Lew**
 
 - Job Title: Partner
-- Years of Experience: 24 years
+- Years of Experience: 26 years
 - Location: Singapore
 - IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, Contract Drafting
-- Certifications/Qualifications: National University of Singapore 1998 LLB (Hons), Nanyang Technological University 2006 M.Sc. Information Studies 
-- Awards/Accolades: The Legal 500 Asia Pacific, 2013: Recognized Lawyer
+- Certifications/Qualifications: Advocate & Solicitor, Singapore, 1999
+- Awards/Accolades: Best Lawyers in Singapore: Recognised in the area of Intellectual Property Law, 2025
 - URL of LinkedIn/Company Profile: <a href="https://dentons.rodyk.com/en/elaine-lew" target="_blank" rel="noopener">https://dentons.rodyk.com/en/elaine-lew</a>
 
 
 **Jian Ming Chang**
 
 - Job Title: Partner
-- Years of Experience: 13 years
+- Years of Experience: 15 years
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Freedom-to-Operate (FTO), IP Due Diligence, IP Portfolio Management
 - Certifications/Qualifications: Certified Patent Valuation Analyst Singapore 2020
+- Awards/Accolades: IAM Patent 1000: Recognised and Ranked for Patent Prosecution, 2022 - 2024
 - URL of LinkedIn/Company Profile: <a href="https://dentons.rodyk.com/en/jianming-chang" target="_blank" rel="noopener">https://dentons.rodyk.com/en/jianming-chang</a>
 
 ---
 <p>
 <a class='btn' href='https://form.gov.sg/67cea43b3b7c50a7524ecc24' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 10 July 2024
+Profile last updated on 23 April 2025

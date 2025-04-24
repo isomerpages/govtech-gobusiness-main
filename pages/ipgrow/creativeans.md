@@ -5,23 +5,23 @@ permalink: /intellectual-property/ip-grow/creativeans/
 
 ## Creativeans
 
-We are a brand and design management consultancy based in Singapore, Jakarta, Milan and Vancouver.
+Creativeans is an award-winning brand and design consultancy. We build brands that matter.
 
-We build brands that matter. We believe that every brand has the power to make a meaningful impact on the world, and it is our goal to help our clients do just that.
+Business leaders trust us to solve their strategic and creative challenges: from branding, business design, UI/UX design, packaging design, communication design to sustainability design across industries and regions. We are unique in that we are invested in the success of the companies we work with, and launch and grow new ventures of our own.
 
-Since 2012, business leaders have trusted us to solve their strategic and creative challenges: from branding, business design, UI/UX design, packaging design to communication design across industries and regions. Guided by our systematic approach and methodologies, such as Brand Builder<sup>&reg;</sup> and EDIT Design Thinking<sup>&reg;</sup>, we build brands that matter.
-
-As the first ISO 9001:2015 and management certified creative consultancy in Singapore, we are committed to continuously improving and excelling in our capabilities to make the world a more creative place.
+As management consultants recognised in Singapore, and guided by our systematic approach and methodologies such as BrandBuilder<sup>&reg;</sup> and EDIT Design Thinking<sup>&reg;</sup>, we have built a consistent track record of success. We believe that every brand has the power to make a meaningful impact on the world, and it is our goal to do just that.
 
 <b>Year established in Singapore:</b> 2012
 
-<b>Top focus areas for IA/IP services:</b> Branding Strategy
+<b>Top focus areas for IA/IP services:</b> Branding Strategy, Innovation Consultancy
 
 <b>Type of organization:</b> SME
 
-<b>Address in Singapore:</b> 39 Woodlands Close, #08-55/56, Mega@Woodlands, Singapore 737856
+<b>Address in Singapore:</b> 39 Woodlands Close, #08-56, Mega@Woodlands, Singapore 737856
 
 <b>Website:</b> <a href='https://www.creativeans.com/'>https://www.creativeans.com/</a>
+
+<b>Offer:</b> Book a free one-hour consultation that will transform your brand.
 
 <a class='btn' href='https://form.gov.sg/67cf91ab379ed7a8a31d7448' target='_blank' rel='noopener'>Get in touch</a>
 
@@ -34,11 +34,21 @@ As the first ISO 9001:2015 and management certified creative consultancy in Sing
 **Branding Strategy Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 16 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $20,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $10,000</li>
+</ul>
+
+**Innovation Consultancy Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Innovation Consultancy IP experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Innovation Consultancy IP experts overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $10,000</li>
 </ul>
 
 ---
@@ -51,7 +61,7 @@ As the first ISO 9001:2015 and management certified creative consultancy in Sing
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): Jakarta, Canada, Italy</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): Indonesia, Italy</li></ul>
 
 ---
 <a name='client-segments'></a>
@@ -59,7 +69,7 @@ As the first ISO 9001:2015 and management certified creative consultancy in Sing
 
 **Percentage of clients by country, based on previous calendar year:**
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 80%</li><li style='line-height: 27px; margin: 0px 0px !important'>Indonesia - 10%</li><li style='line-height: 27px; margin: 0px 0px !important'>Australia - 10%</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 40%</li><li style='line-height: 27px; margin: 0px 0px !important'>Indonesia - 20%</li><li style='line-height: 27px; margin: 0px 0px !important'>China - 10%</li><li style='line-height: 27px; margin: 0px 0px !important'>United States - 10%</li><li style='line-height: 27px; margin: 0px 0px !important'>Australia - 10%</li><li style='line-height: 27px; margin: 0px 0px !important'>Italy - 10%</li></ul>
 
 ---
 <a name='testimonials'></a>
@@ -107,4 +117,4 @@ As the first ISO 9001:2015 and management certified creative consultancy in Sing
 <p>
 <a class='btn' href='https://form.gov.sg/67cf91ab379ed7a8a31d7448' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 23 April 2025

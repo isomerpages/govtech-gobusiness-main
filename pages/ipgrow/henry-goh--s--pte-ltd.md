@@ -65,7 +65,7 @@ From humble origins as a one-man business in 1977, we have matured into one of t
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): Malaysia</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): Malaysia</li></ul>
 
 ---
 <a name='client-segments'></a>

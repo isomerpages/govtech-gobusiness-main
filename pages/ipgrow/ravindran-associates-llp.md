@@ -97,7 +97,7 @@ We are a specialist intellectual property law firm formed in 1993 and based in S
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: Singapore</li></ul>
 
 ---
 <a name='client-segments'></a>
@@ -140,4 +140,4 @@ We are a specialist intellectual property law firm formed in 1993 and based in S
 <p>
 <a class='btn' href='https://form.gov.sg/67ce98b928c24ee0474cf0b2' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 8 May 2024
+Profile last updated on 23 April 2025

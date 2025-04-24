@@ -45,7 +45,7 @@ INDEE Singapore stands as the go-to specialist consulting firm, empowering compa
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Japan</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): Singapore </li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: Japan</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): Singapore </li></ul>
 
 ---
 <a name='client-segments'></a>

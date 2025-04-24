@@ -97,4 +97,4 @@ We will be with you on every step of your journey to create, optimise and protec
 <p>
 <a class='btn' href='https://form.gov.sg/67d258a242a4f949bae5cee4' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 30 July 2024
+Profile last updated on 23 April 2025

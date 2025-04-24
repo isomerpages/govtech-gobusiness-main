@@ -5,9 +5,13 @@ permalink: /intellectual-property/ip-grow/singapore-fozl-group-pte-ltd/
 
 ## Singapore FOZL Group Pte Ltd
 
-Established in 2011 in Singapore, FOZL Group is an international accounting firm that has served over 1,300 companies, offering comprehensive, end-to-end corporate services throughout the business lifecycle. Headquartered in Singapore's Raffles Place financial district (6 Raffles Quay, #14-02 to #14-07, Singapore 048580), FOZL Group is a distinguished corporate member of the Institute of Singapore Chartered Accountants (ISCA). We are authorized by the Accounting and Corporate Regulatory Authority (ACRA) to provide company registration and related business services, and by the Ministry of Manpower for human resource consultancy. Additionally, FOZL Group holds licenses for accounting and auditing services and is certified as a Family Office Advisor for the establishment of family offices in Singapore.
+Established in 2011, Singapore FOZL Group Pte Ltd is a leading international accounting and corporate advisory firm headquartered in Singapore's financial district at Raffles Place. Over the years, FOZL has expanded regionally to Malaysia, China, and Germany, providing corporate services throughout the business lifecycle.
 
-Our broad range of services includes company registration, work pass applications, HR services (such as payroll and CPF calculations), financial and tax services, internal and external statutory audits, trademark registration, corporate consulting, government incentive applications, family office setup, fund administration, and more.
+FOZL Group is a corporate member of the Institute of Singapore Chartered Accountants (ISCA), authorized by ACRA for company registration and related services. It also holds licenses for accounting and auditing, and certification as a Family Office Advisor in Singapore.
+
+Our services include company registration, HR services, financial and tax advisory, statutory audits, trademark registration, fund administration, transfer pricing, factory setup, and government incentive applications.
+
+We combine global reach with local expertise, fostering long-term client partnerships through professional, ethical, and efficient service delivery.
 
 <b>Year established in Singapore:</b> 2011
 
@@ -124,4 +128,4 @@ Our broad range of services includes company registration, work pass application
 <p>
 <a class='btn' href='https://form.gov.sg/67cfff2f5970360876646f17' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 16 October 2024
+Profile last updated on 23 April 2025

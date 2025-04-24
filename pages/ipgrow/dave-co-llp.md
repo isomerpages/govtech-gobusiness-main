@@ -65,7 +65,7 @@ Dave & Co. LLP is a specialist trademarks firm with extensive experience with tr
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Partner Office(s): Malaysia, Indonesia, Hong Kong, United Kingdom, Australia, Canada, New Zealand, United States, Japan, China, Thailand, India, South Korea, Brunei, Myanmar, Vietnam, Dubai, Cambodia</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Partner Office(s): Malaysia, Indonesia, Hong Kong, United Kingdom, Australia, Canada, New Zealand, United States, Japan, China, Thailand, India, South Korea, Brunei, Myanmar, Vietnam, Dubai, Cambodia</li></ul>
 
 ---
 <a name='client-segments'></a>

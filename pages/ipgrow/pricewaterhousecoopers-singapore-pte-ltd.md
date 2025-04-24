@@ -59,7 +59,7 @@ permalink: /intellectual-property/ip-grow/pricewaterhousecoopers-singapore-pte-l
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s):  USA, UK, Europe, China, Hong Kong, Japan, India, Australia, Brazil, Canada and other countries  </li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s):  USA, UK, Europe, China, Hong Kong, Japan, India, Australia, Brazil, Canada and other countries  </li></ul>
 
 ---
 <a name='client-segments'></a>
@@ -76,20 +76,20 @@ permalink: /intellectual-property/ip-grow/pricewaterhousecoopers-singapore-pte-l
 **Tan Ching Ne**
 
 - Job Title: International Tax Partner
-- Years of Experience: 25 years
+- Years of Experience: 30 years
 - Location: Singapore
 - IA/IP-Related Expertise: Tax Advisory (with IA/IP considerations)
 - Certifications/Qualifications: Bachelor of Accountancy from Nanyang Technological University, Member of Institute of Singapore Chartered Accountants, Accredited Tax Advisor with the Singapore Chartered Tax Professionals
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/chingnetan" target="_blank" rel="noopener">https://www.linkedin.com/in/chingnetan</a>
 
-**Abhijit Ghosh**
+**Tan Si Ying**
 
 - Job Title: International Tax Partner
-- Years of Experience: 30 years
+- Years of Experience: 16 years
 - Location: Singapore
 - IA/IP-Related Expertise: Tax Advisory (with IA/IP considerations)
-- Certifications/Qualifications: Chartered Accountant, Accredited Tax Advisor (Income Tax) of Singapore Institute of Accredited Tax Professionals, Board Member and Audit Committee Chairman of Intellectual Property Office of Singapore
-- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/abhijit-ghosh-3811b94" target="_blank" rel="noopener">https://www.linkedin.com/in/abhijit-ghosh-3811b94</a>
+- Certifications/Qualifications: Accredited Tax Practitioner (Income Tax) of Singapore Institute of Accredited Tax Professionals
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/si-ying-tan-33b90811b/" target="_blank" rel="noopener">https://www.linkedin.com/in/si-ying-tan-33b90811b/</a>
 
 **Lie Kok Keong**
 
@@ -118,17 +118,9 @@ permalink: /intellectual-property/ip-grow/pricewaterhousecoopers-singapore-pte-l
 - Certifications/Qualifications: Member of the Institute of Singapore Chartered Accountants (ISCA) and Chartered Financial Analyst (CFA)
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/voon-hoe-chen" target="_blank" rel="noopener">https://www.linkedin.com/in/voon-hoe-chen</a>
 
-**Wong Tien Chi**
-
-- Job Title: Senior Manager, Accounting and Reporting Advisory Service
-- Years of Experience: 16 years
-- Location: Singapore
-- IA/IP-Related Expertise: IP Strategy Consulting
-- Certifications/Qualifications: Member of the Institute of Singapore Chartered Accountants (ISCA), Certified Financial Risk Manager (GARP), Master of Science in Financial Engineering (NUS), Bachelor of Accountancy (NTU)
-- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/tien-chi-wong" target="_blank" rel="noopener">https://www.linkedin.com/in/tien-chi-wong</a>
 
 ---
 <p>
 <a class='btn' href='https://form.gov.sg/67cea5e96460c537e74984d5' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 23 April 2025

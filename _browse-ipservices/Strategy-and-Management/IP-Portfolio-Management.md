@@ -196,9 +196,10 @@ Founded in 1998 with a strong international outlook and has been active in cross
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> Above 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> Depends on the project</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/67cf9de9379ed7a8a320bd0d' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/joyce-a-tan-partners-llc/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/6804787845377fdf3d437845' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/joyce-a-tan-partners-llc/){:target='_blank'}
 
 ---
 
@@ -381,7 +382,7 @@ Withers KhattarWong is a full-service international law firm located in Singapor
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 46 to 50</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $500 per mark</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider</li>
 </ul>
@@ -588,10 +589,10 @@ VJP offers excellent support to innovations as its team covers a wide range of t
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 11 to 15</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,000</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free 30 mins consultation.</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/67cea198dd496a3035c29cf0' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/viering--jentschura-partner-llp/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/680476b242f7628adc0c3588' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/viering--jentschura-partner-llp/){:target='_blank'}
 
 ---
 
@@ -824,7 +825,7 @@ MTIP specializes in strategizing and providing solutions to each life cycle of a
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> For review and advice $550</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider; Free Consultation for review of IP in the business and provide strategy advice</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Review of portfolio and provide filing strategy for the first & second consultation for free.</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/67d7df2b63212d415ef45637' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/mary-thomas-ip--mtip-/){:target='_blank'}

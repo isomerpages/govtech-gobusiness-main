@@ -24,7 +24,7 @@ Disputes can be costly and time-consuming. If not handled properly, they can dam
 ---
 
 ### Connect with relevant service providers for dispute resolution services
-**40 service providers listed.**
+**39 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -161,9 +161,10 @@ Founded in 1998 with a strong international outlook and has been active in cross
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of cases completed in previous calendar year:</b> 36 to 40</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> Depends on the project</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/67cf9de9379ed7a8a320bd0d' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/joyce-a-tan-partners-llc/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/6804787845377fdf3d437845' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/joyce-a-tan-partners-llc/){:target='_blank'}
 
 ---
 
@@ -196,22 +197,6 @@ Goh Phai Cheng LLC, Singapore Lawyers providing Best Value and Good Service.
 </ul>
 
 <a class='btn' href='https://form.gov.sg/67ce8902653f576e85f044bb' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/goh-phai-cheng-llc/){:target='_blank'}
-
----
-
-#### Withers KhattarWong LLP
-
-Withers KhattarWong is a full-service international law firm located in Singapore.
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of cases completed in previous calendar year:</b> 26 to 30</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1500 and upwards</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider</li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/67ce503dda4f6bd4764e662a' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/withers-khattarwong-llp/){:target='_blank'}
 
 ---
 
@@ -599,9 +584,10 @@ Full service law firm with strong IP/IT and technology practice.
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of cases completed in previous calendar year:</b> 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $2,500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/67d24704e243256907e0de37' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ctlc-law-corporation/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/68047d2bf53b12b2f2fe2b0b' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ctlc-law-corporation/){:target='_blank'}
 
 ---
 

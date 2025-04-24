@@ -108,4 +108,4 @@ Our team of experienced lawyers is committed to providing prompt and timely lega
 <p>
 <a class='btn' href='https://form.gov.sg/67d7cfdf992ae987d0034004' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 27 November 2024
+Profile last updated on 23 April 2025

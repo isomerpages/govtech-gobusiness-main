@@ -83,7 +83,7 @@ We are a member of the international law practice group, PLG International Lawye
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: Singapore</li></ul>
 
 ---
 <a name='client-segments'></a>
@@ -115,14 +115,6 @@ We are a member of the international law practice group, PLG International Lawye
 - Certifications/Qualifications: Advocate & Solicitor in Singapore, Barrister-At-Law (Middle Temple) in England and Wales, LLB (Hons) University of Nottingham, MBA, National University of Singapore
 - URL of LinkedIn/Company Profile: <a href="https://trc.com.sg/moiz-haider-sithawalla" target="_blank" rel="noopener">https://trc.com.sg/moiz-haider-sithawalla</a>
 
-**Eusuff Ali s/o N B M Mohamed Kassim**
-
-- Job Title: Partner
-- Years of Experience: 25 years
-- Location: Singapore
-- IA/IP-Related Expertise: Contract Drafting, Dispute Resolution
-- Certifications/Qualifications: Advocate & Solicitor in Singapore, LLB (Hons), National University of Singapore
-- URL of LinkedIn/Company Profile: <a href="https://trc.com.sg/m-k-eusuff-ali" target="_blank" rel="noopener">https://trc.com.sg/m-k-eusuff-ali</a>
 
 **Sayana Baratham**
 
@@ -137,4 +129,4 @@ We are a member of the international law practice group, PLG International Lawye
 <p>
 <a class='btn' href='https://form.gov.sg/67ceab33663eae2befdafc8d' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 24 April 2024
+Profile last updated on 23 April 2025

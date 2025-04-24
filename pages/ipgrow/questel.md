@@ -149,7 +149,7 @@ Beyond IP, Questel's mission is to facilitate the development of innovation in a
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: France</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): China, India, Japan</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: France</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): China, India, Japan</li></ul>
 
 ---
 <a name='client-segments'></a>

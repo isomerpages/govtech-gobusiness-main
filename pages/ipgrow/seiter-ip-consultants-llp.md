@@ -149,7 +149,7 @@ As a small firm, our work ethics revolve around transparency, honesty, and integ
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: Singapore</li></ul>
 
 ---
 <a name='client-segments'></a>
@@ -185,4 +185,4 @@ As a small firm, our work ethics revolve around transparency, honesty, and integ
 <p>
 <a class='btn' href='https://form.gov.sg/67d7d45e0e66d2c498d35ad2' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 26 February 2025
+Profile last updated on 23 April 2025
