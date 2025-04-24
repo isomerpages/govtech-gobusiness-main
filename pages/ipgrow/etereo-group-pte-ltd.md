@@ -22,7 +22,7 @@ Furthermore, it allows effective communication, increasing your reach and furthe
 
 <b>Address in Singapore:</b> 258 Middle Road, #02-01, Singapore 188987
 
-<b>Website:</b> <a href='https://etereomedia.com/'>www.etereomedia.com</a>
+<b>Website:</b> <a href='https://www.etereomedia.com'>https://www.etereomedia.com</a>
 
 <b>Offer:</b> Free Consultation
 
@@ -114,6 +114,6 @@ Furthermore, it allows effective communication, increasing your reach and furthe
 
 ---
 <p>
-<a class='btn' href='www.etereomedia.com' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/67db71b26882e23587f279be' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 27 March 2025

@@ -125,7 +125,7 @@ We are a full service law firm comprising a team of experienced legal practition
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): United Kingdom</li><li style='line-height: 27px; margin: 0px 0px !important'>Partner Office(s): Indonesia, Thailand, Malaysia, Philippines, Vietnam, India, China, Taiwan, Hong Kong, Japan, Korea, European Union, United Kingdom, United States, United Arab Emirates</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): Hong Kong</li><li style='line-height: 27px; margin: 0px 0px !important'>Partner Office(s): Indonesia, Thailand, Malaysia, Philippines, Vietnam, India, China, Taiwan, Japan, Korea, European Union, United Kingdom, United States, United Arab Emirates</li></ul>
 
 ---
 <a name='client-segments'></a>
@@ -152,17 +152,17 @@ We are a full service law firm comprising a team of experienced legal practition
 - Certifications/Qualifications: Advocate & Solicitor in Singapore, Barrister-at-Law (Inner Temple)
 - URL of LinkedIn/Company Profile: <a href="https://www.qwp.sg/our-lawyers/christopher-woo/" target="_blank" rel="noopener">https://www.qwp.sg/our-lawyers/christopher-woo/</a>
 
-**Emma Qing**
+**Jia-An Chiam**
 
 - Job Title: Senior Associate
-- Years of Experience: 8 years
+- Years of Experience: 6 years
 - Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Trade Mark Agent Service, IP Portfolio Management, Contract Drafting, Dispute Resolution
-- Certifications/Qualifications: Advocate & Solicitor in Singapore, Patent Attorney in China, Juris Doctor Singapore Management University, Master of Science Graduate Certificate in Intellectual Property Law from National University of Singapore, Master of Engineering & Bachelor of Science from Beijing Normal University
-- URL of LinkedIn/Company Profile: <a href="https://sg.linkedin.com/in/emma-qing" target="_blank" rel="noopener">https://sg.linkedin.com/in/emma-qing</a>
+- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, IP Portfolio Management, IP Brokerage and Licensing, Contract Drafting
+- Certifications/Qualifications: Advocate and Solicitor of Singapore, 2020
+- URL of LinkedIn/Company Profile: <a href="https://www.qwp.sg/our-lawyers/chiam-jia-an/" target="_blank" rel="noopener">https://www.qwp.sg/our-lawyers/chiam-jia-an/</a>
 
 ---
 <p>
 <a class='btn' href='https://form.gov.sg/67ce90dddd496a3035bd8664' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 23 April 2025

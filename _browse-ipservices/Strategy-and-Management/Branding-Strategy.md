@@ -146,10 +146,10 @@ Pureprofile is a leading market research company specializing in online data col
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 26 to 30</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $500</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free consultation - how market research can support your business growth</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider. Free consultation - how market research can support your business growth</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/67d7c8970e66d2c498cfe391' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/pureprofile/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/680483a2e01289775b5cb8af' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/pureprofile/){:target='_blank'}
 
 ---
 
@@ -193,10 +193,10 @@ Leveraging NUS' research, Brandgrammar<sup>TM</sup>, we provide SMEs a one-stop 
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 21 to 25</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $41,500</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> No-obligations discovery call over Zoom. Or better still, in-person over coffee (on us).</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider. No-obligations discovery call over Zoom. Or better still, in-person over coffee (on us).</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/67cfad1f76d42d8bdd77b08f' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/firefish-branding/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/68047be5ee9bdc752e0636e8' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/firefish-branding/){:target='_blank'}
 
 ---
 
@@ -233,13 +233,14 @@ EverEdge helps companies unlock the value of intangible assets and reduce intang
 
 #### Creativeans
 
-Creativeans is an award-winning design management and branding company.
+Creativeans is an award-winning brand and design consultancy. We build brands that matter.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 16 to 20</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $20,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Book a free one-hour consultation that will transform your brand.</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/67cf91ab379ed7a8a31d7448' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/creativeans/){:target='_blank'}
@@ -449,22 +450,6 @@ Khepri Digital is a Google Partner Marketing Agency, doing Paid Ads & Search Eng
 
 ---
 
-#### FT Consulting Pte. Ltd.
-
-FT Consulting is an Asia-centric business consulting firm helping companies grow their business.
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 21 - 30</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider</li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/67d7d1bac75b36291017173e' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ft-consulting-pte-ltd/){:target='_blank'}
-
----
-
 #### Think SME Pte Ltd
 
 Finance & Loans 
@@ -481,6 +466,22 @@ Corporate Services
 </ul>
 
 <a class='btn' href='https://form.gov.sg/67ceb0dedd496a3035c6a6f9' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/think-sme-pte-ltd/){:target='_blank'}
+
+---
+
+#### Crombie Consulting
+
+The brand famous for making brands famous.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> 100% Obligation Free - Project Assessment Workshop - 60 minutes</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/67ceb19a3d4fe7d6d8bfe191' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/crombie-consulting/){:target='_blank'}
 
 ---
 
@@ -631,10 +632,10 @@ Certified branding consultant experienced in most industries, eligible for EDG b
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $5,000</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> No obligatory engagement / meet up for project discussion</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider. No obligatory engagement / meet up for project discussion</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/67d7d3c5c75b36291017b5b0' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/the-brand-fellows-pte-ltd/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/680484567b1d7d6a5d8fe2e7' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/the-brand-fellows-pte-ltd/){:target='_blank'}
 
 ---
 
@@ -671,19 +672,19 @@ We are law firm with focus on IP law. We serve individuals and businesses of all
 
 ---
 
-#### Crombie Consulting
+#### FT Consulting Pte. Ltd.
 
-The brand famous for making brands famous.
+FT Consulting is an Asia-centric business consulting firm helping companies grow their business.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 21 - 30</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> 100% Obligation Free - Project Assessment Workshop - 60 minutes</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1,200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/67ceb19a3d4fe7d6d8bfe191' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/crombie-consulting/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/67d7d1bac75b36291017173e' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ft-consulting-pte-ltd/){:target='_blank'}
 
 ---
 
@@ -913,10 +914,10 @@ Founded in 2007, We are a boutique financial management and branding strategy co
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $20,000</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> We may maximize your benefits by integrating our branding strategy and brand audit services with cash flow projection and scenario analysis in merger and acquisition under EDG grant funding support.</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider. We may maximize your benefits by integrating our branding strategy and brand audit services with cash flow projection and scenario analysis in merger and acquisition under EDG grant funding support.</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/67d24b95fc4cdee3aaee7c7a' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/kairos-global-pte-ltd/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/68047ee610e4b06e8b7a4a24' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/kairos-global-pte-ltd/){:target='_blank'}
 
 ---
 
@@ -960,10 +961,10 @@ Lively Green is a Strategic Brand consultancy creating brand experiences to help
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $20,000</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> We offer a free consultation to discuss your needs - from strategy to execution, we're here to support your business at every stage. </li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider. We offer a free consultation to discuss your needs - from strategy to execution, we're here to support your business at every stage. </li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/67d7d6e4a20dc8c2972b621c' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/lively-green-strategic-brand/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/6804861915186e662891120a' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/lively-green-strategic-brand/){:target='_blank'}
 
 ---
 

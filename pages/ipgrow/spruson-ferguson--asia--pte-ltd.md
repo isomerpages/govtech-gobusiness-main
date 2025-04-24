@@ -5,7 +5,7 @@ permalink: /intellectual-property/ip-grow/spruson-ferguson--asia--pte-ltd/
 
 ## Spruson & Ferguson (Asia) Pte Ltd
 
-Established in 1887, Spruson & Ferguson is one of the largest intellectual property (IP) service providers in the Asia-Pacific. As a leading Asia-Pacific IP firm, we have offices in Australia, China (Beijing and Hong Kong), Indonesia, Malaysia, Singapore and Thailand as well as direct filing capabilities in Brunei, New Zealand and Papua New Guinea. Over the years Spruson & Ferguson has established itself as a regional IP hub, offering the highest standard of service to our clients throughout the Asia-Pacific region. Spruson & Ferguson companies are members of the IPH Limited group, which includes a range of professional services firms operating under a number of brands in a range of jurisdictions.
+Established in 1887, Spruson & Ferguson is one of the largest intellectual property (IP) service providers in the Asia-Pacific. As a leading Asia-Pacific IP firm, we have offices in Australia, China (Beijing and Hong Kong), Indonesia, Malaysia, Philippines, Singapore and Thailand as well as direct filing capabilities in Brunei, New Zealand and Papua New Guinea. Over the years Spruson & Ferguson has established itself as a regional IP hub, offering the highest standard of service to our clients throughout the Asia-Pacific region. Spruson & Ferguson companies are members of the IPH Limited group, which includes a range of professional services firms operating under a number of brands in a range of jurisdictions.
 
 <b>Year established in Singapore:</b> 2001
 
@@ -99,7 +99,7 @@ Established in 1887, Spruson & Ferguson is one of the largest intellectual prope
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): Australia, China, Hong Kong, Indonesia, Malaysia, Thailand</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office: Australia, China, Hong Kong, Indonesia, Malaysia, Philippines, Thailand</li></ul>
 
 ---
 <a name='client-segments'></a>
@@ -181,18 +181,9 @@ Established in 1887, Spruson & Ferguson is one of the largest intellectual prope
 - Awards/Accolades: Notable Practitioner - Managing Intellectual Property IP Stars (2022), Notable Practitioner - Managing Intellectual Property IP Stars (2021), Rising Star - Managing Intellectual Property IP Stars (2019)
 - URL of LinkedIn/Company Profile: <a href="https://www.spruson.com/our-people/jonathan-loh" target="_blank" rel="noopener">https://www.spruson.com/our-people/jonathan-loh</a>
 
-**Grace, Wong**
-
-- Job Title: Principal
-- Years of Experience: 10 years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Audit, IP Portfolio Management, IP Training
-- Certifications/Qualifications: Registered Singapore Patent Attorney, Registered Australian and New Zealand Patent Attorney, Registered Australian Trade Mark Attorney, Master of Intellectual Property Law, Bachelor of Science (Chemistry) 
-- Awards/Accolades: Notable Practitioner - Managing Intellectual Property IP Stars (2022), Notable Practitioner - Managing Intellectual Property IP Stars (2021), Rising Star - Managing Intellectual Property IP Stars (2019), Rising Star - Managing Intellectual Property IP Stars (2018)
-- URL of LinkedIn/Company Profile: <a href="https://www.spruson.com/our-people/grace-wong" target="_blank" rel="noopener">https://www.spruson.com/our-people/grace-wong</a>
 
 ---
 <p>
 <a class='btn' href='https://form.gov.sg/67d7d674a20dc8c2972b41ee' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 26 February 2025
+Profile last updated on 23 April 2025

@@ -69,7 +69,7 @@ Our comprehensive host of Financial, Branding & Marketing, Tech Solutions, and C
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): India, Malaysia, Philippines</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): India, Malaysia, Philippines</li></ul>
 
 ---
 <a name='client-segments'></a>

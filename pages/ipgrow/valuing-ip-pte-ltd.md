@@ -110,7 +110,7 @@ At Valuing IP, we make your intangibles, tangible!
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Malaysia</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Partner Office(s): India, Indonesia, Thailand, Vietnam, Japan, Australia, United Kingdom</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: Malaysia</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Partner Office(s): India, Indonesia, Thailand, Vietnam, Japan, Australia, United Kingdom</li></ul>
 
 ---
 <a name='client-segments'></a>

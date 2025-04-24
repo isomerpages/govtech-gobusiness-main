@@ -39,11 +39,11 @@ We believe in providing effective and impactful solutions to articulate value to
 **Valuation (with IA/IP considerations) Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 36 to 40</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Less than $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 21 to 25</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $6,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $4,000</li>
 </ul>
 
 ---
@@ -88,4 +88,4 @@ We believe in providing effective and impactful solutions to articulate value to
 <p>
 <a class='btn' href='https://form.gov.sg/67d2484045eb4baf25695434' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 28 May 2024
+Profile last updated on 23 April 2025

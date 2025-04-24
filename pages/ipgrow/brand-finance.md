@@ -87,4 +87,4 @@ Brand Finance is a regulated accountancy firm and the first to be certified by i
 <p>
 <a class='btn' href='https://form.gov.sg/67d2508ffacab58365a6bac8' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 10 July 2024
+Profile last updated on 23 April 2025

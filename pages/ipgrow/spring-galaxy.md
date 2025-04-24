@@ -95,4 +95,4 @@ Whilst we actively provide business valuation services in Singapore, we also pro
 <p>
 <a class='btn' href='https://form.gov.sg/67cfcba4663eae2beff8abdc' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 23 April 2025

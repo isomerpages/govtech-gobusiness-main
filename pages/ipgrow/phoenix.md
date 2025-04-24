@@ -55,7 +55,7 @@ Phoenix Design Pte Ltd. is a renowned and innovative design agency based in Sing
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): Malaysia</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): Malaysia</li></ul>
 
 ---
 <a name='client-segments'></a>

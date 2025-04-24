@@ -475,10 +475,10 @@ Founded in 2007, We are a boutique financial management and branding strategy co
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $20,000</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> We may maximize your benefits by integrating our branding strategy and brand audit services with cash flow projection and scenario analysis in merger and acquisition under EDG grant funding support.</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider. We may maximize your benefits by integrating our branding strategy and brand audit services with cash flow projection and scenario analysis in merger and acquisition under EDG grant funding support.</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/67d24b95fc4cdee3aaee7c7a' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/kairos-global-pte-ltd/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/68047ee610e4b06e8b7a4a24' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/kairos-global-pte-ltd/){:target='_blank'}
 
 ---
 

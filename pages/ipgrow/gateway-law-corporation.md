@@ -13,6 +13,8 @@ Gateway works with individuals, entrepreneurs, small and medium enterprises, mul
 
 <b>Top focus areas for IA/IP services:</b> Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, IP Portfolio Management, Contract Drafting
 
+<b>Intellectual property awards received:</b> Ranked by Chambers and Partners (Intellectual Property: Domestic in Singapore) 2025 ; Ranked by Legal 500 (Intellectual Property: Local Firms) 2025 ; Ranked by Benchmark Litigation (Intellectual Property) 2024 ; Ranked by IP Stars (Trade Mark Prosecution) 2024 ; Ranked by AsiaLaw (Intellectual Property) 2024
+
 <b>Type of organization:</b> SME
 
 <b>Address in Singapore:</b> 3 Anson Road #24-02 Springleaf Tower, Singapore 079909
@@ -107,7 +109,7 @@ Gateway works with individuals, entrepreneurs, small and medium enterprises, mul
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): Malaysia, Philippines</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): Malaysia, Philippines</li></ul>
 
 ---
 <a name='client-segments'></a>
@@ -124,7 +126,7 @@ Gateway works with individuals, entrepreneurs, small and medium enterprises, mul
 **Max Ng**
 
 - Job Title: Managing Director
-- Years of Experience: 28 years
+- Years of Experience: 29 years
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Contract Drafting, Dispute Resolution
 - Certifications/Qualifications: Registered Patent Attorney/Agent, Singapore & Malaysia, Advocate & Solicitor, Supreme Court of Singapore, Trade Mark & Industrial Design Agent, Malaysia, Advocate & Solicitor, High Court of Malaya, Who's Who Legal: Singapore
@@ -135,7 +137,7 @@ Gateway works with individuals, entrepreneurs, small and medium enterprises, mul
 **Gregory Marimuthu**
 
 - Job Title: General Counsel
-- Years of Experience: 12 years
+- Years of Experience: 13 years
 - Location: Malaysia
 - IA/IP-Related Expertise: Patent Agent Service Registered Design Agent Service, Trade Mark Agent Service, Contract Drafting
 - Certifications/Qualifications: Trade Mark Agent
@@ -143,8 +145,8 @@ Gateway works with individuals, entrepreneurs, small and medium enterprises, mul
 
 **Mitchel Chua**
 
-- Job Title: Advocate & Solicitor
-- Years of Experience: 8 years
+- Job Title: Counsel (Co-Head, Dispute Resolution)
+- Years of Experience: 9 years
 - Location: Singapore
 - IA/IP-Related Expertise: Dispute Resolution
 - Certifications/Qualifications: Practising Certificate (Advocate and Solicitor of the Supreme Court of Singapore)
@@ -153,7 +155,7 @@ Gateway works with individuals, entrepreneurs, small and medium enterprises, mul
 **Inshirah Lim**
 
 - Job Title: Senior IP Specialist
-- Years of Experience: 5 years
+- Years of Experience: 6 years
 - Location: Singapore
 - IA/IP-Related Expertise: Registered Design Agent Service Trade Mark Agent Service IP Database; IP Portfolio Management
 - Certifications/Qualifications: Registered Trademarks Agent in Singapore
@@ -179,27 +181,11 @@ Gateway works with individuals, entrepreneurs, small and medium enterprises, mul
 - Certifications/Qualifications: Registered Trademarks Agent in Malaysia
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/samantha-lawrence-51459420b" target="_blank" rel="noopener">https://www.linkedin.com/in/samantha-lawrence-51459420b</a>
 
-**Hemamalini Manogaran**
-
-- Job Title: Intellectual Property Specialist
-- Years of Experience: 5 years
-- Location: Kuala Lumpur, Malaysia
-- IA/IP-Related Expertise: IP Portfolio Management
-- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/hemamalini-manogaran-891794110" target="_blank" rel="noopener">https://www.linkedin.com/in/hemamalini-manogaran-891794110</a>
-
-**Claire Tan**
-
-- Job Title: Associate
-- Years of Experience: 1 years
-- Location: Singapore
-- IA/IP-Related Expertise: Dispute Resolution
-- Certifications/Qualifications: Advocate & Solicitor
-- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/claire-tan-su-yin" target="_blank" rel="noopener">https://www.linkedin.com/in/claire-tan-su-yin</a>
 
 **Geneva Kann**
 
-- Job Title: Legal Associate
-- Years of Experience: 2 years
+- Job Title: Senior Associate
+- Years of Experience: 3 years
 - Location: Singapore
 - IA/IP-Related Expertise: Contract Drafting
 - Certifications/Qualifications: Advocate and Solicitor of the Supreme Court of Singapore, LL.B. (Hons)
@@ -209,4 +195,4 @@ Gateway works with individuals, entrepreneurs, small and medium enterprises, mul
 <p>
 <a class='btn' href='https://form.gov.sg/67ce8b549c0dcb2dd91f02d4' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 23 August 2023
+Profile last updated on 23 April 2025

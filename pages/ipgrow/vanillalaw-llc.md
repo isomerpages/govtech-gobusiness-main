@@ -93,4 +93,4 @@ We are an international boutique law firm with a worldwide view, headquartered i
 <p>
 <a class='btn' href='https://form.gov.sg/67d7c59fd384b6c1f042d0d6' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 2 October 2024
+Profile last updated on 23 April 2025

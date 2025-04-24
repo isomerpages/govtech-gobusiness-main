@@ -111,27 +111,10 @@ Our firm works closely with leading international law firms. We also provide 're
 - URL of LinkedIn/Company Profile: 
 <a href="https://www.linkedin.com/in/kelvin-ho-yq/" target="_blank" rel="noopener">https://www.linkedin.com/in/kelvin-ho-yq/</a>  
 
-**Jonathan Tan**
-
-- Job Title: Senior Consultant
-- Years of Experience: 5 years
-- Location: Singapore
-- IA/IP-Related Expertise: Contract Drafting, IP Due Diligence
-- Certifications/Qualifications: Advocate and Solicitor, Supreme Court of Singapore, Graduate Certificate in Intellectual Property & Technology Law from the National University of Singapore
-- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/jonathantwx/" target="_blank" rel="noopener">https://www.linkedin.com/in/jonathantwx/</a>  
-
-**Ng Hao Ming**
-
-- Job Title: Associate
-- Years of Experience: 1 year
-- Location: Singapore
-- IA/IP-Related Expertise: IP Due Diligence, Contract Drafting
-- Certifications/Qualifications: Advocate and Solicitor, Supreme Court of Singapore
-- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/haomingng/" target="_blank" rel="noopener">https://www.linkedin.com/in/haomingng/</a>  
 
 
 ---
 <p>
 <a class='btn' href='https://form.gov.sg/67d7d0a71e6146d23b0d80cc' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 December 2024
+Profile last updated on 23 April 2025
