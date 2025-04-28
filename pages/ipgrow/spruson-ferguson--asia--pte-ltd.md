@@ -34,8 +34,8 @@ Established in 1887, Spruson & Ferguson is one of the largest intellectual prope
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 11 to 15</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 11 to 20</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 41 to 60</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Freedom-To-Operate experts in Singapore: 11 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Freedom-To-Operate experts overseas: 41 to 60</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  Please contact Spruson & Ferguson to receive a tailored quotation</li>
 </ul>
 

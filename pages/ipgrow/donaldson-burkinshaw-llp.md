@@ -59,8 +59,8 @@ Donaldson & Burkinshaw LLP is a full-service law firm with one of Singapore's lo
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 51 to 55</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Freedom-To-Operate experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Freedom-To-Operate experts overseas: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $600</li>
 </ul>
 
@@ -69,8 +69,8 @@ Donaldson & Burkinshaw LLP is a full-service law firm with one of Singapore's lo
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects on database in previous calendar year: 26 to 30</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Due Diligence experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Due Diligence experts overseas: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $600</li>
 </ul>
 

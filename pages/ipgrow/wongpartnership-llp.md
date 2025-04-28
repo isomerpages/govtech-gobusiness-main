@@ -68,8 +68,8 @@ We are a signatory of the United Nations Global Compact (UNGC), supporting its T
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Less than $200 to Above $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects on database in previous calendar year: Above 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 11 to 20</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Due Diligence experts in Singapore: 11 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Due Diligence experts overseas: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  Please contact us for further details</li>
 </ul>
 

@@ -35,8 +35,8 @@ At Valuing IP, we make your intangibles, tangible!
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200  to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 6 to 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Freedom-To-Operate experts in Singapore: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Freedom-To-Operate experts overseas: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $2,200</li>
 </ul>
 
