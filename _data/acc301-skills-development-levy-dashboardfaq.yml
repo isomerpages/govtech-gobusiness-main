@@ -64,23 +64,23 @@
 
         Employers should only use GoBusiness to make ad-hoc SDL payments or monthly SDL payments when they do not need to make monthly CPF contributions. Please refer to the [General SDL FAQ](/skills-development-levy-faqs/) for more details and requirements.
 
-        1. Log in to [GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/login){:target="_blank"}{:rel="noopener"} as a Business User, and go to Levy > [Skills Development Levy (SDL)](https://dashboard.gobusiness.gov.sg/sdl){:target="_blank"}{:rel="noopener"}.
+        1.) Log in to [GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/login){:target="_blank"}{:rel="noopener"} as a Business User, and go to Levy > [Skills Development Levy (SDL)](https://dashboard.gobusiness.gov.sg/sdl){:target="_blank"}{:rel="noopener"}.
 
-        2. Click the Make Payment / Declaration button to get to the [SDL Payment & Declaration form](https://dashboard.gobusiness.gov.sg/sdl/make-payment){:target="_blank"}{:rel="noopener"}.
+        2.) Click the Make Payment / Declaration button to get to the [SDL Payment & Declaration form](https://dashboard.gobusiness.gov.sg/sdl/make-payment){:target="_blank"}{:rel="noopener"}.
 
-        3. Review the Applicant and Company Detail in the General Information page and update contact information, if necessary. Click Next to go to the next page.
+        3.) Review the Applicant and Company Detail in the General Information page and update contact information, if necessary. Click Next to go to the next page.
 
-        4. In Application Details, select the full month(s) you are making outstanding payment for. For example, if you are making payment for July and August 2022, select 01/07/2022 for Start Date, and 31/08/2022 for End Date.
+        4.) In Application Details, select the full month(s) you are making outstanding payment for. For example, if you are making payment for July and August 2022, select 01/07/2022 for Start Date, and 31/08/2022 for End Date.
 
         Click on the Retrieve SDL Records button after selecting the month(s) range.
 
-        5. Subsequent sections will be populated with the relevant periods and SDL records, where available. For the Relevant Period with SSG Records section, you will need to confirm the SDL payable and make a declaration if your records differ. For the Relevant Period Without SSG Records section, you will need to provide your computation before making payment as SSG will not have your records for the last 2 to 3 months.
+        5.) Subsequent sections will be populated with the relevant periods and SDL records, where available. For the Relevant Period with SSG Records section, you will need to confirm the SDL payable and make a declaration if your records differ. For the Relevant Period Without SSG Records section, you will need to provide your computation before making payment as SSG will not have your records for the last 2 to 3 months.
 
-        6. If your internal records differ from SSG's SDL records, select "I would like to submit a declaration for relevant period with SSG records" in the declaration section. Thereafter, indicate your own records in the available SDL fields and attach the ["Declaration Form"](https://go.gov.sg/sdl-declaration-form){:target="_blank"}{:rel="noopener"} as a supporting document. If your internal records have no discrepancies with SSG's SDL records, select "I agree with SSG's records".
+        6.) If your internal records differ from SSG's SDL records, select "I would like to submit a declaration for relevant period with SSG records" in the declaration section. Thereafter, indicate your own records in the available SDL fields and attach the ["Declaration Form"](https://go.gov.sg/sdl-declaration-form){:target="_blank"}{:rel="noopener"} as a supporting document. If your internal records have no discrepancies with SSG's SDL records, select "I agree with SSG's records".
 
-        7. Proceed to make payment either via online payment  (stripe/ credit card) through GoBusiness; or offline payment (bank transfer or PayNow) where payment instructions will be communicated separately over email from SSG.
+        7.) Proceed to make payment either via online payment  (stripe/ credit card) through GoBusiness; or offline payment (bank transfer or PayNow) where payment instructions will be communicated separately over email from SSG.
 
-        8. Track your transaction status on SDL Page, under SDL notifications
+        8.) Track your transaction status on SDL Page, under SDL notifications
 
     - title: What are the payment methods?
       content: | 
@@ -116,27 +116,27 @@
       content: |
         If you do not agree with our calculation, you will be able to correct the amount by filling and submitting the Declaration Form template via our [SDL Payment & Declaration form](https://dashboard.gobusiness.gov.sg/sdl/make-payment){:target="_blank"}{:rel="noopener"}:
 
-        1. Log in to [GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/login){:target="_blank"}{:rel="noopener"} as a Business User, and go to Levy > [Skills Development Levy (SDL)](https://dashboard.gobusiness.gov.sg/sdl){:target="_blank"}{:rel="noopener"}
+        1.) Log in to [GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/login){:target="_blank"}{:rel="noopener"} as a Business User, and go to Levy > [Skills Development Levy (SDL)](https://dashboard.gobusiness.gov.sg/sdl){:target="_blank"}{:rel="noopener"}
 
-        2. Click on the Make Payment / Declaration button to get to the [SDL Payment & Declaration form](https://dashboard.gobusiness.gov.sg/sdl/make-payment){:target="_blank"}{:rel="noopener"}.
+        2.) Click on the Make Payment / Declaration button to get to the [SDL Payment & Declaration form](https://dashboard.gobusiness.gov.sg/sdl/make-payment){:target="_blank"}{:rel="noopener"}.
 
-        3. Review the Applicant and Company Detail in the General Information page and update contact information, if necessary. Click Next to go to the next page.
+        3.) Review the Applicant and Company Detail in the General Information page and update contact information, if necessary. Click Next to go to the next page.
 
-        4. In Application Details, select the full month(s) as indicated in the SDL Letter. For example, if you are making payment/declaration for January to December 2024, select 01/01/2024 for Start Date, and 31/12/2024 for End Date.
+        4.) In Application Details, select the full month(s) as indicated in the SDL Letter. For example, if you are making payment/declaration for January to December 2024, select 01/01/2024 for Start Date, and 31/12/2024 for End Date.
 
         Click on the Retrieve SDL Records button after selecting the full month(s) range.
 
-        5. In the Provision of Employer Records section, select the from the list of values in the dropdown:
+        5.) In the Provision of Employer Records section, select the from the list of values in the dropdown:
         <br>
         "I would like to submit a declaration for Relevant Period with SSG records"
         <br>
         "I agree with SSG's records"
 
-        6. If you have selected to submit a declaration, you are required to fill in your own monthly computation in the Declaration Form template (https://go.gov.sg/sdl-declaration-form) as a supporting document for the relevant period selected and upload the template. You are also required to fill in your aggregated Outstanding SDL Payable for the full relevant period. This should match what is declared in your Declaration Form.
+        6.) If you have selected to submit a declaration, you are required to fill in your own monthly computation in the Declaration Form template (https://go.gov.sg/sdl-declaration-form) as a supporting document for the relevant period selected and upload the template. You are also required to fill in your aggregated Outstanding SDL Payable for the full relevant period. This should match what is declared in your Declaration Form.
 
-        7. Select the payment mode before clicking Review Form to proceed to the Declaration Review page.
+        7.) Select the payment mode before clicking Review Form to proceed to the Declaration Review page.
 
-        8. Once you have verified the details shown in the Review page, you may proceed to submit with and without payment, depending on whether there is any outstanding SDL payable.
+        8.) Once you have verified the details shown in the Review page, you may proceed to submit with and without payment, depending on whether there is any outstanding SDL payable.
 
     - title: How do I submit online declaration on non-liability of SDL via GoBusiness for my employees who are exempted from SDL?
       content: |
