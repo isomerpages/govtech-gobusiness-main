@@ -54,5 +54,11 @@ Applicants can apply for the EEG through the [Business Grants Portal (BGP)](http
 - HPE - MSA 2060 SFF Storage
 - HPE - MSA 2062 LFF Storage
 - HPE - MSA 2062 SFF Storage
+- Lenovo - DE2000H
+- Lenovo - DE4000H
+- Lenovo - DE6400F
+- Lenovo - DE6400H
+- Lenovo - DE6600H
+- Lenovo - DE6600F
 
 <script src='/jquery/resize-tables.js'></script>

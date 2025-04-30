@@ -89,6 +89,28 @@ Applicants can apply for the EEG through the [Business Grants Portal (BGP)](http
 - HPE - Synergy 480 Gen11
 - HPE - XL220n Gen10 PLUS
 - HPE - XL225n Gen10 PLUS
+- Lenovo - SE450
+- Lenovo - SD530 V3
+- Lenovo - SD535 V3
+- Lenovo - SD550 V3
+- Lenovo - SD650 V3
+- Lenovo - SR665 V3
+- Lenovo - SR250 V3
+- Lenovo - SR630 V3
+- Lenovo - SR630 V4
+- Lenovo - SR645 V3
+- Lenovo - SR650 V3
+- Lenovo - SR665 V3
+- Lenovo - SR850 V3
+- Lenovo - SR860 V3
+- Lenovo - ST45 V3
+- Lenovo - ST50 V3
+- Lenovo - ST250 V3
+- Lenovo - ST650 V3
+- Lenovo - SE455 V3
+- Lenovo - SR635 V3
+- Lenovo - SR655 V3
+- Lenovo - SR675 V3
 - SuperMicro - AS -1115HS-TNR 
 - SuperMicro - AS -2014S-TR, LA26-R9H12, LA26-R10H12, LA26-9, LA26-10
 - SuperMicro - AS -2015HS-TNR
