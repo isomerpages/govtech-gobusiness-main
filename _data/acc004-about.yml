@@ -2,6 +2,7 @@ accordion:
   - title: What is the Business Grants Portal (BGP)?
     content: |
       Business Grants Portal brings government grants for businesses into one place, so it's easier to find and apply for the grants you need.
+
   - title: What grants are available on the Business Grants Portal?
     content: |
       You can apply for:
@@ -13,6 +14,21 @@ accordion:
       - Agri-food Cluster Transformation Fund (Singapore Food Agency)
       - Electric Vehicle Common Charger Grant (Land Transport Authority)
       - Experience Step-Up Fund (Singapore Tourism Board)
+
   - title: Where can I find guidance on which government grants are suitable for my business?
     content: |
       You can make an appointment with a Business Advisor from the [SME Centre](/contact-us/sme-centres/){:target="_blank"}.
+
+  - title: Why is there a change in the URL and how do I access the Business Grants Portal (BGP)?
+    content: |
+      The Business Grants Portal will be moving to a new system (BGP 2.0) by end-2026.
+      
+      In the interim, you can access the Business Grants Portal (BGP) via the new [link](https://apply.gov.sg/grants/business){:target="_blank"}{:rel="noopener"} from 2 Jun 2025. You will still be able to access the list of grants available on BGP.
+
+  - title: There are notification emails being sent by the Business Grants Portal. Can I still login to BGP via the URL provided?
+    content: |
+      You can still access the Business Grants Portal via the login URL provided in the email notifications. However, we recommend that you bookmark the new [URL](https://www.apply.gov.sg/grants/business){:target="_blank"}{:rel="noopener"} to ensure that you will be directed to the correct portal.
+
+  - title: Do I need to update my bookmarked/saved URL?
+    content: |
+      It is recommended to update your current bookmarked URL with the new one, as we will be transitioning to the new URL by 2026.
