@@ -12,7 +12,10 @@ Singapore Food Agency (SFA)
 
 <H3>Application Details</H3>
 
-<p>For the operation of a supermarket with the sale/preparation of raw food. You will need to apply for a Supermarket Licence if you intend to operate a supermarket with the sale/preparation of raw food. The purpose of licensing is to ensure cleanliness and food safety in supermarkets and to prevent food-borne diseases.<br>You may refer below on the steps for application of Supermarket Licence.</p>
+<p>For the operation of a supermarket with the sale/preparation of raw food. You will need to apply for a Supermarket Licence if you intend to operate a supermarket with the sale/preparation of raw food. The purpose of licensing is to ensure cleanliness and food safety in supermarkets and to prevent food-borne diseases.</p>
+<p>To promote the recycling of empty containers, NEA will introduce the Beverage Container Return Scheme (BCRS) from 1 April 2026.</p>
+<p>Under the BCRS, SFA-licensed supermarkets with a floor area of more than 200m<sup>2</sup>&nbsp;are required to set up return points. Visit the <a title="http://www.nea.gov.sg/bcrs" href="http://www.nea.gov.sg/bcrs" target="_blank" rel="noopener">NEA website</a> to learn more about the BCRS requirements.</p>
+<p><br>You may refer below on the steps for application of Supermarket Licence.</p>
 <p><strong><span style="text-decoration: underline;">Overview of Licence Application:</span></strong></p>
 <p><strong>Step 1: Obtain In-Principle Approval</strong></p>
 <ul>
