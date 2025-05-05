@@ -151,7 +151,7 @@
 
     - title: How do I complete the SDL Declaration Form template?
       content: |
-        The Declaration Form template is an Excel form. Before you start filling the Declaration Form, you may view the monthly breakdown of SDL payable in SSG's records by clicking on the Download Details button in the outstanding SDL payable widget on the SDL Dashboard. Thereafter, you may verify the monthly SDL payable for the relevant months for all your employees, including local and foreign employees in Singapore in your organisation's records. You will also need to seek your organisation's authorised representative's approval to verify the information before filling the Declaration Form. 
+        The [Declaration Form template](https://go.gov.sg/sdl-declaration-form){:target="_blank"}{:rel="noopener"} is an Excel form. Before you start filling the Declaration Form, you may view the monthly breakdown of SDL payable in SSG's records by clicking on the Download Details button in the outstanding SDL payable widget on the [SDL Dashboard](https://dashboard.gobusiness.gov.sg/sdl){:target="_blank"}{:rel="noopener"}. Thereafter, you may verify the monthly SDL payable for the relevant months for all your employees, including local and foreign employees in Singapore in your organisation's records. You will also need to seek your organisation's authorised representative's approval to verify the information before filling the Declaration Form. 
 
         The following are the steps required to ensure a complete and accurate submission:
         
@@ -202,17 +202,6 @@
 - accordion:
   letter: d
   data:
-    - title: How do I view my SDL payment history?
-      content: |
-        Go to the Payment History tab on the [SDL page](https://dashboard.gobusiness.gov.sg/sdl){:target="_blank"}{:rel="noopener"} to see the following:
-
-        - Payments to SDL on GoBusiness, CPF or offline payment
-        - Receipts for past payments
-        - Refunds from SkillsFuture Singapore (SSG)
-
-- accordion:
-  letter: e
-  data:
     - title: How do I request for refund of excess SDL payment made?
       content: |
         To submit a refund request on GoBusiness, fill up the form via Levy > Skills Development Levy (SDL) > [Apply for a Refund](https://dashboard.gobusiness.gov.sg/sdl/request-refund){:target="_blank"}{:rel="noopener"}. 
@@ -250,7 +239,7 @@
         Click [here](https://go.gov.sg/sdl-payroll-register){:target="_blank"}{:rel="noopener"} to download the Payroll Register template.
 
 - accordion:
-  letter: f
+  letter: e
   data:
     - title: What is a Notice of Objection (NOO)?
       content: |
@@ -270,7 +259,7 @@
 
     - title: How do I complete the Notice of Objection (NOO) template?
       content: |
-        The [NOO template](https://go.gov.sg/sdl-notice-of-objection-form){:target="_blank"}{:rel="noopener"} is an Excel form. Before you start filling the NOO, you may view the monthly breakdown of SDL payable in SSG's records by clicking on the Download Details button in the outstanding SDL payable widget on the SDL Dashboard. Thereafter, you may verify the monthly SDL payable for the relevant months for all your employees, including local and foreign employees in Singapore in your organisation’s records. You will also need to seek your organisation’s authorised representative’s approval to verify the information before filling the NOO. 
+        The [NOO template](https://go.gov.sg/sdl-notice-of-objection-form){:target="_blank"}{:rel="noopener"} is an Excel form. Before you start filling the NOO, you may view the monthly breakdown of SDL payable in SSG's records by clicking on the Download Details button in the outstanding SDL payable widget on the [SDL Dashboard](https://dashboard.gobusiness.gov.sg/sdl){:target="_blank"}{:rel="noopener"}. Thereafter, you may verify the monthly SDL payable for the relevant months for all your employees, including local and foreign employees in Singapore in your organisation’s records. You will also need to seek your organisation’s authorised representative’s approval to verify the information before filling the NOO. 
         
         The following are the steps required to ensure a complete and accurate submission:
 
@@ -296,7 +285,7 @@
 
     - title: When should I make the payment for the amount I declared in the NOO? 
       content: |
-        Please wait for SSG to inform you of the outcome of the NOO before making payment. Once the outcome is available, please proceed to make payment using the QR code in the letter or via GoBusiness.
+        Please wait for SSG to inform you of the outcome of the NOO before making payment. Once the outcome is available, please proceed to make payment using the QR code in the letter or via [GoBusiness](https://dashboard.gobusiness.gov.sg/sdl){:target="_blank"}{:rel="noopener"}.
     
     - title: I need time to prepare the records. When do I need to submit the NOO? Can SSG grant an extension?
       content: |
@@ -323,7 +312,7 @@
         If you do not hear from SkillsFuture Singapore (SSG) by then, please contact SSG through their [service portal](https://service-portal.skillsfuture.gov.sg/){:target="_blank"}{:rel="noopener"} to check on the status. 
 
 - accordion:
-  letter: g
+  letter: f
   data:
     - title: How do I view all my SDL notifications?
       content: |
