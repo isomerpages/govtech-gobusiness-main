@@ -72,8 +72,7 @@
         SDL is not required for:
           - An employee who is a domestic servant, chauffeur or gardener wholly and exclusively employed by an individual outside of that individual's trade, business, profession or vocation. 
           - An employee who does not render any services in Singapore for at least a month. This excludes employees who are on leave for that month.
-
-        - A matriculated or registered student of any of the following institutions, who is employed for the training, such as internship, approved by the institution in question:
+          - A matriculated or registered student of any of the following institutions, who is employed for the training, such as internship, approved by the institution in question:
           1. Institute of Technical Education
           2. Nanyang Polytechnic
           3. Nanyang Technological University
@@ -88,10 +87,12 @@
           12. Temasek Polytechnic
           13. University of the Arts Singapore (LASALLE College of the Arts (LASALLE) and Nanyang Academy of Fine Arts (NAFA))
         
+
         -  A matriculated or registered student of any overseas tertiary education institution who is required by the institution to undergo training in Singapore for a period of not more than 6 months. The exemption of SDL is subject to the condition that the employer of the student submits to SkillsFuture Singapore (SSG) a letter issued by the overseas tertiary education institution which confirms that:
           1. The student is a matriculated or registered student of the institution; and
           2. The student is required by the institution to undergo training in Singapore such as internship.
         
+
         -  A registered student (other than a student who has completed his "A" level examinations) of any school registered under the Education Act (Cap. 87) and who is employed during the gazetted school holidays.
         - Students of Government schools, excluding tertiary institutions, working during their scheduled school holidays.
         -  'N' & 'O' level Government school students working during the scheduled school holidays.
@@ -284,7 +285,7 @@
         
         To disable the auto-computation during the online submission, employers can edit the "SDL To be Paid" field or set the SDL payable option to "No" for certain employees who do not require SDL contributions.
         
-        Seperately, please submit a Non-Liability Declaration of the exempted employees via SSG's Service Portal.
+        Seperately, please submit a Non-Liability Declaration of the exempted employees via SSG's [Service Portal](https://service-portal.skillsfuture.gov.sg/){:target="_blank"}{:rel="noopener"}.
         
         Please retain all supporting documents as per your declaration as SSG may request for them subsequently.
 
@@ -302,7 +303,7 @@
  
         <img src='/images/sdl-Employee-Exemption.png' aria-hidden='true'>
 
-        Seperately, please submit a Non-Liability Declaration of the exempted employees via SSG's Service Portal.
+        Seperately, please submit a Non-Liability Declaration of the exempted employees via SSG's [Service Portal](https://service-portal.skillsfuture.gov.sg/){:target="_blank"}{:rel="noopener"}.
         
         Please retain all supporting documents as per your declaration as SSG may request for them subsequently.
 
@@ -354,9 +355,3 @@
     - title: I did not receive/misplace the NOA, how do I retrieve a copy?
       content: |
         You can retrieve a copy of the NOA via [GoBusiness](https://dashboard.gobusiness.gov.sg/sdl){:target="_blank"}{:rel="noopener"} under the notification tab.
-
-    - title: Who do I contact for further enquiries?
-      content: |
-        You can contact SkillsFuture Singapore (SSG) through their [feedback portal](https://service-portal.skillsfuture.gov.sg/){:target="_blank"}{:rel="noopener"} or call the Skills Development Levy hotline at 6785 5785.
-
-
