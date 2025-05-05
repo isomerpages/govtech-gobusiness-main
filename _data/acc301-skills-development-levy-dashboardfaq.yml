@@ -86,15 +86,15 @@
       content: | 
         You can pay via one of the following methods:
 
-        (A) Online Payment - Credit Card
+        (A) Online Payment - Credit Card<br>
         GoBusiness Dashboard currently accepts VISA and MasterCard. We are working to add more payment methods in the future.
 
-        (B) Offline Payment - Bank Transfer
-        Remarks/Reference: [GoBusiness SubmissionID]
+        (B) Offline Payment - Bank Transfer<br>
+        Remarks/Reference: [GoBusiness SubmissionID]<br>
         You may reference the payment instructions sent by SSG after submission of payment and declaration form.
 
-        (C) Offline Payment - PayNow
-        Bill Reference Number: [GoBusiness SubmissionID]
+        (C) Offline Payment - PayNow<br>
+        Bill Reference Number: [GoBusiness SubmissionID]<br>
         You may reference the payment instructions sent by SSG after submission of payment and declaration form.
 
     - title: I have paid but I forgot to put in the GoBusiness SubmissionID/ put in the wrong number.
@@ -235,10 +235,10 @@
       content: |
         The refund will be credited to your provided PayNow ID.
         
-        1. For employers with a registered UEN:
+        1.) For employers with a registered UEN:
         - Credited to your Corporate PayNow ID.
         
-        2. For employers with no registered UEN:
+        2.) For employers with no registered UEN:
         - Credited to your Individual PayNow ID.
         
         To link your UEN / NRIC to PayNow, please contact your bank to enquire or visit [https://www.abs.org.sg/consumer-banking/pay-now](https://www.abs.org.sg/consumer-banking/pay-now){:target="_blank"}{:rel="noopener"} for more information.
