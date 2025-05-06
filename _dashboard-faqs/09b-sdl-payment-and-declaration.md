@@ -11,7 +11,3 @@ third_nav_title: Skills Development Levy (SDL)
 ### Declaration
 
 {% include letter-accordion.html accordions=site.data.acc301-skills-development-levy-dashboardfaq letter="c" %}
-
-### Past Transactions
-
-{% include letter-accordion.html accordions=site.data.acc301-skills-development-levy-dashboardfaq letter="d" %}
