@@ -29,7 +29,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200208117Z-MuRho-Invntory-MGT-Systm-WT' target='_blank'>MuRho Inventory Management System</a><br></td>
-<td>MuRho Pte Ltd </td>
+<td>MURHO PTE. LTD.</td>
 </tr>
 </table>
 
