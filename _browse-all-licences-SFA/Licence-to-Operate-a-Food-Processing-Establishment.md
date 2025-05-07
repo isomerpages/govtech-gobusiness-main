@@ -15,6 +15,8 @@ Singapore Food Agency (SFA)
 <H3>Application Details</H3>
 
 <p>In Singapore, all food processing establishments must be licensed by Singapore Food Agency before they are permitted to carry out any food processing for wholesale distribution.</p>
+<p>To promote the recycling of empty containers, NEA will introduce the Beverage Container Return Scheme (BCRS) from 1 April 2026.</p>
+<p>Under the BCRS, local beverage manufacturers and importers are responsible for the collection and recycling of empty containers. Visit the <a href="https://nea.gov.sg/bcrs" target="_blank">NEA website</a> to learn more about the BCRS requirements.</p>
 <h3>FAQs</h3>
 <ol>
 <li><strong>Where can I get more information for Licence to Operate a Food Processing Establishment?</strong> <br>You can find more information on&nbsp;<a href="https://www.sfa.gov.sg/food-manufacturers/setting-up-food-establishments" target="_blank" rel="noopener">SFA website</a>.</li>
