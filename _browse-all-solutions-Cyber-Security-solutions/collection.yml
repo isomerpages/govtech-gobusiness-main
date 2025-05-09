@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - back-to-all-psg-solutions.md
-      - Managed-Detection-and-Response.md
       - Backup.md
       - Virus-Malware-Protection.md
       - Firewall.md
+      - Managed-Detection-and-Response.md
       - Integrated-Package.md

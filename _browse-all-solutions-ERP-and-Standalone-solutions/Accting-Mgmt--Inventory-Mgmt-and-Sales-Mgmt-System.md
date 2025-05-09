@@ -131,6 +131,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/199609132G-Synrgx-Sls,-ACC,-Invntory-G' target='_blank'>Synergix Sales, Accounting, Inventory</a><br></td>
 <td>Synergix Technologies Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200415297M-Sg-300-ERP-v-2025-G' target='_blank'>Sage 300 ERP Version 2025</a><br></td>
+<td>COMPTRAC SYSTEMS TECHNOLOGY PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200106330C-EASPAC-Entrprs-Softwr-v-1011-G' target='_blank'>EASPAC Enterprise Software Version 10.1.1</a><br></td>
+<td>Prosperage Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

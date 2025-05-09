@@ -26,7 +26,7 @@ SafetyCulture is an integrated and smart worksite monitoring and inspection plat
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Worksite Inspection Basic Package (1 Project, 1 year)</td>
 <td style='padding: 10px;'>$9,500.00</td>
 <td style='padding: 10px;'>$6,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/201500224Z_20240269_01042025_Desensitised_Annex3_Part1.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201500224Z_20240269_01042025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>

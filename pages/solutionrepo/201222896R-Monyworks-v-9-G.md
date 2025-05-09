@@ -26,35 +26,35 @@ Ostendo provides Moneyworks, an Accounting software suitable for businesses of a
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gold (1 user)</td>
 <td style='padding: 10px;'>$1,705.00</td>
 <td style='padding: 10px;'>$1,705.00</td>
-<td style='padding: 10px;'><a href='/images/psg/201222896R_20240146_09012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201222896R_20240146_15052025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Now (3 users)</td>
-<td style='padding: 10px;'>$5,970.00</td>
-<td style='padding: 10px;'>$4,170.00</td>
-<td style='padding: 10px;'><a href='/images/psg/201222896R_20240146_09012025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gold (1 user with implementation)</td>
+<td style='padding: 10px;'>$3,505.00</td>
+<td style='padding: 10px;'>$3,505.00</td>
+<td style='padding: 10px;'><a href='/images/psg/201222896R_20240146_15052025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Datacentre (3 users)</td>
-<td style='padding: 10px;'>$7,615.00</td>
-<td style='padding: 10px;'>$5,815.00</td>
-<td style='padding: 10px;'><a href='/images/psg/201222896R_20240146_09012025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Now (3 users)</td>
+<td style='padding: 10px;'>$4,770.00</td>
+<td style='padding: 10px;'>$4,170.00</td>
+<td style='padding: 10px;'><a href='/images/psg/201222896R_20240146_15052025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Datacentre (3 users with integration and automation)</td>
-<td style='padding: 10px;'>$10,015.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Datacentre (3 users)</td>
+<td style='padding: 10px;'>$6,415.00</td>
 <td style='padding: 10px;'>$5,815.00</td>
-<td style='padding: 10px;'><a href='/images/psg/201222896R_20240146_09012025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201222896R_20240146_15052025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Datacentre (6 users with integration and automation)</td>
-<td style='padding: 10px;'>$11,815.00</td>
-<td style='padding: 10px;'>$6,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/201222896R_20240146_09012025_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Datacentre (3 users with integration and automation)</td>
+<td style='padding: 10px;'>$8,815.00</td>
+<td style='padding: 10px;'>$5,815.00</td>
+<td style='padding: 10px;'><a href='/images/psg/201222896R_20240146_15052025_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

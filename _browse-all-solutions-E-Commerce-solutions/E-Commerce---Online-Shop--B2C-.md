@@ -60,10 +60,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>ACCSS Digital Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201535836W-Commrc-Mstrpln-v-20-G' target='_blank'>eCommerce Masterplan Version 2.0</a><br></td>
-<td>Aks Tech Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201329629H-ECommrc-MPD-Pckg-v-30-G' target='_blank'>E-Commerce MPD Package Version 3.0</a><br></td>
 <td>MediaPlus Digital Pte Ltd</td>
 </tr>

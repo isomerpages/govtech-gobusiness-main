@@ -40,14 +40,14 @@ SafetyCulture's ePTW streamlines the creation, approval, and tracking of permits
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ePTW Enterprise Package (3 Projects, 1 year)</td>
 <td style='padding: 10px;'>$18,800.00</td>
 <td style='padding: 10px;'>$14,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/201500224Z_20240300_01042025_Desensitised_Annex3_Part3.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201500224Z_20240300_01042025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ePTW Ultimate Package (Unlimited Projects, 1 year)</td>
 <td style='padding: 10px;'>$28,650.00</td>
 <td style='padding: 10px;'>$23,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/201500224Z_20240300_01042025_Desensitised_Annex3_Part4.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201500224Z_20240300_01042025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

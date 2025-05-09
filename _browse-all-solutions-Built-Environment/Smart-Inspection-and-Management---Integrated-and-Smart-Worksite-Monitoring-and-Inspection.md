@@ -35,6 +35,10 @@ This solution is supported by BCA.
 <td><a href='/productivity-solutions-grant/solutionrepo/201500224Z-SftyCultur-G' target='_blank'>SafetyCulture</a><br></td>
 <td>ASSURE SAFETY PTE. LTD.</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201512674M-Fcd-Inspctor-G' target='_blank'>Facade Inspector</a><br></td>
+<td>H3 Zoom Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

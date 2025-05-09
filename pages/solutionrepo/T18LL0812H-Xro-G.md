@@ -26,35 +26,35 @@ Xero is a global leader in online accounting software. Xero connects small busin
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloud Accounting Software - Aspire Starter Plan A</td>
 <td style='padding: 10px;'>$720.00</td>
 <td style='padding: 10px;'>$720.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Clooud_Xero_01082024_Desensitised_Annex3_Part1.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Clooud_Xero_01082024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloud Accounting Software - Aspire Basic Plan B</td>
 <td style='padding: 10px;'>$1,820.00</td>
 <td style='padding: 10px;'>$1,820.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Clooud_Xero_01082024_Desensitised_Annex3_Part2.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Clooud_Xero_01082024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloud Accounting Software - Aspire Advance Plan C</td>
 <td style='padding: 10px;'>$2,415.00</td>
 <td style='padding: 10px;'>$2,415.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Clooud_Xero_01082024_Desensitised_Annex3_Part3.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Clooud_Xero_01082024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloud Accounting Software - Aspire Super Plan D</td>
 <td style='padding: 10px;'>$2,690.00</td>
 <td style='padding: 10px;'>$2,690.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Clooud_Xero_01082024_Desensitised_Annex3_Part4.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Clooud_Xero_01082024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloud Accounting Software - Aspire Wonderful Plan E</td>
 <td style='padding: 10px;'>$3,010.00</td>
 <td style='padding: 10px;'>$3,010.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Clooud_Xero_01082024_Desensitised_Annex3_Part5.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Clooud_Xero_01082024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
