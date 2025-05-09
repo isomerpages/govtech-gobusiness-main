@@ -11,7 +11,7 @@ Prime Minister and Minister for Finance, Mr Lawrence Wong, has delivered Singapo
 
 Find out which schemes you may be eligible for, and how you can apply for them in the links below.
 
-- Download the Budget 2025 Business Booklet (coming soon)
+- [Download the Budget 2025 Business Booklet](/images/budget2025/[Updated]%20MTI%20Business%20Budget%20Booklet%202025.pdf){:target="_blank"}{:rel="noopener"}
 - [Download the Budget 2025 - Budget Navigator (for Businesses)](/images/budget2025/Key%20Budget%202025%20Measures%20for%20Businesses.pdf){:target="_blank"}{:rel="noopener"}
 - [Download infographic on support for businesses](https://www.mof.gov.sg/docs/librariesprovider3/budget2025/images/resources/fy2025_budget_empowering_businesses_english.png){:target="_blank"}{:rel="noopener"}
 
