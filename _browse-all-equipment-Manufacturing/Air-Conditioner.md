@@ -116,7 +116,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - GREE - GWC-09Charmo/O
 - GREE - GWC12ATDXE-K6DNA3A/O
 - GREE - GWC-12Charmo/O
-- GREE - GWC18ATEXF-K6DNA3B/O
 - GREE - GWCD(18)NK6AO
 - GREE - GWCD(18)NK6GO
 - GREE - GWCD(21)NK6AO
@@ -124,7 +123,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - GREE - GWCD(28)NK6AO
 - GREE - GWCD(28)NK6GO
 - GREE - GWCD(32)NK6AO
-- GREE - GWCD(32)NK6EO
 - GREE - GWCD-MS18/O
 - GREE - GWCD-MS21/O
 - GREE - GWCD-MS28/O
