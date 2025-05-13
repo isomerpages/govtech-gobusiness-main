@@ -138,7 +138,6 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - Hisense - AMW150TERQ
 - Hisense - AMW70TERJ
 - Hisense - AMW90TERJ
-- Hitachi - PAS-2.0UFASNQ1
 - Hitachi - RAM-Z23C2MS
 - Hitachi - RAM-Z30C3MS
 - Hitachi - RAM-Z38C4MS
