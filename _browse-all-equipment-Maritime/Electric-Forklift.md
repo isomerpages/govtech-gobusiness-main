@@ -32,8 +32,8 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - EP - EFL353S
 - Toyota - 8FB30
 - Toyota - 8FBMT50
-- Toyota  - 8FBMT40
-- Toyota  - 8FDMT45
+- Toyota - 8FBMT40
+- Toyota - 8FBMT45
 - Nichiyu - FB30-80
 - STILL - RCE30
 - STILL - RX60-50
