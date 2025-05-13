@@ -99,9 +99,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Fujitsu - AJA045LELBH
 - Fujitsu - AOAG09CMTA
 - Fujitsu - AOAG12CMTA
-- Fujitsu - AOAG18CMTA
-- Fujitsu - AOAG24CMTA
-- Fujitsu - AOAG30CMTA
 - Fujitsu - AOAH24CBTA
 - Fujitsu - AOAH24CBTA3
 - Fujitsu - AOAH30CBTA4
