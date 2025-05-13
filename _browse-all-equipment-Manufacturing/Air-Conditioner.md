@@ -26,7 +26,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 
 - AVOLTA - SGTC4T-S1B09
 - AVOLTA - SGTC4T-S1B12
-- Daikin - MKC70WVMG
 - Daikin - MKM100VVMG
 - Daikin - MKM100ZVMG
 - Daikin - MKM50VVMG
@@ -85,8 +84,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Daikin - RXUQ8AYMG
 - Daikin - RXUQ8AYMW
 - Daikin - RXUQ8BYMG
-- Daikin - RZF50CV1G
-- Daikin - RZF60CV1G
 - Enovatek Energy - EES-ADC09GW-XA-32R+5
 - Enovatek Energy - EES-ADC12GW-XA-32R+5
 - Enovatek Energy - EES-ADC18GW-XA-32R+5
