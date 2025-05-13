@@ -94,7 +94,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - EuropAce - ESAC21CUD
 - EuropAce - ESAC28CUD
 - EuropAce - ESAC32CUD
-- EvoAir - W152
 - Fujitsu - AJA040LELBH
 - Fujitsu - AJA045LELBH
 - Fujitsu - AOAG09CMTA

@@ -97,7 +97,6 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - EuropAce - ESAC21CUD
 - EuropAce - ESAC28CUD
 - EuropAce - ESAC32CUD
-- EvoAir - W152
 - Fujitsu - AJA040LELBH
 - Fujitsu - AJA045LELBH
 - Fujitsu - AOAG09CMTA
