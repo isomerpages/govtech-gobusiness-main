@@ -180,15 +180,18 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Siemens - 1CV4130A
 - Siemens - 1CV4130B
 - Siemens - 1CV4131A
+- Siemens - 1CV4132B
 - Siemens - 1CV4162A
 - Siemens - 1CV4162B
 - Siemens - 1CV4163A
 - Siemens - 1CV4164A
+- Siemens - 1CV4164B
 - Siemens - 1CV4182A
 - Siemens - 1CV4182B
 - Siemens - 1CV4184B
 - Siemens - 1CV4204A
 - Siemens - 1CV4205A
+- Siemens - 1CV4205B
 - Siemens - 1CV4220B
 - Siemens - 1CV4222A
 - Siemens - 1CV4222B
@@ -264,7 +267,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - TECO - AESV4S/AESU4S-4P-7.5KW
 - TECO - AESV4S/AESU4S-4P-75KW
 - TECO - AESV4S/AESU4S-4P-90kW
-- TECO - AESV4S/AESU4S-6P-1.1kW
 - TECO - AESV4S/AESU4S-6P-110kW
 - TECO - AESV4S/AESU4S-6P-11KW
 - TECO - AESV4S/AESU4S-6P-15KW
@@ -298,7 +300,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - WEG - W21_IE4_7.5KW_2P
 - WEG - W21_IE4_75KW_4P
 - WEG - W21_IE4_90KW_4P
-- WEG - W22_75kW_4P_IE4
 - WEG - W22_IE4_22KW_4P
 - Wilo  -  WE4-160M-4
 - Wilo -  WE4-160L-4
@@ -306,6 +307,5 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Wilo -  WE4-200L-4
 - Wilo -  WE4-225M-4
 - WOLONG - YE4-250M1-2POLE
-- Wolong - YE4-250M-2Pole
 
 <script src='/jquery/resize-tables.js'></script>
