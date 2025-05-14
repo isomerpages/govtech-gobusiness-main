@@ -140,10 +140,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Advanced Micro Control Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201222896R-Monyworks-v-9-G' target='_blank'>Moneyworks Version 9</a><br></td>
-<td>Ostendo Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/T13LL1562D-NMTODOO-G' target='_blank'>NMTODOO</a><br></td>
 <td>Neu Media Technology LLP</td>
 </tr>
@@ -208,8 +204,20 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>KloudEx Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201130282N-Xro-Cloud-ACC-SLNs-G' target='_blank'>Xero Cloud Accounting Solutions</a><br></td>
-<td>Singapore Corporate Services Pte. Ltd.</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201222896R-Monyworks-v-9-G' target='_blank'>Moneyworks Version 9</a><br></td>
+<td>Ostendo Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201706917G-Xro-ACC-Softwr-G' target='_blank'>Xero Accounting Software</a><br></td>
+<td>ASL Advisory Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201019442Z-North-Trust-Xro-SLN-G' target='_blank'>North Trust Xero Solution</a><br></td>
+<td>NORTH TRUST PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200311122E-TNB-Intut-QuckBooks-Onln-G' target='_blank'>TNB Intuit QuickBooks Online</a><br></td>
+<td>TNB GLOBAL OUTSOURCE PTE. LTD.</td>
 </tr>
 </table>
 

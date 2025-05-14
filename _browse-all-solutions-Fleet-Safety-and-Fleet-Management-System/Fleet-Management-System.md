@@ -6,10 +6,6 @@ permalink: /browse-all-solutions-Fleet-Safety-and-Fleet-Management-System/Fleet-
 ## Fleet Management System
 ## Overview
 
-**Description**
-
-Telematics and GPS tracking technology that provides the company a complete overview of its fleet's real-time location and operating condition.
-
 **Support Level and Conditions**
 
 Up to 50% for SMEs, N.A. for non-SMEs
@@ -32,20 +28,16 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201018732N-Ascnt-SPOT-Flt-MGT-Systm-G' target='_blank'>Ascent iSPOT Fleet Management System</a><br></td>
-<td>Ascent Solutions Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201206280Z-Crtrck-Flt-MGT-G' target='_blank'>Cartrack Fleet Management</a><br></td>
-<td>Cartrack Technologies South East Asia Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201136382G-Trck-Vhcl-Flt-Trckng-G' target='_blank'>iTrack Vehicle Fleet Tracking</a><br></td>
 <td>PIVOTAL PRIVATE LIMITED</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201316550G-SKYFY-VTS-FLEET-MANAGEMENT-SYSTEM-G' target='_blank'>SKYFY VTS FLEET MANAGEMENT SYSTEM</a><br></td>
 <td>Skyfy Technology Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200101511N-V3NtyFMS-Flt-MGT-Systm-G' target='_blank'>V3Nity-FMS Fleet Management System</a><br></td>
+<td>V3 SMART TECHNOLOGIES PTE. LTD.</td>
 </tr>
 </table>
 

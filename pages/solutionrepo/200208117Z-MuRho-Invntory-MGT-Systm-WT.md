@@ -26,21 +26,21 @@ MuRho is a leading local provider of inventory management system since 2002 with
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter Package 1 (SaaS with hardware)</td>
 <td style='padding: 10px;'>$5,000.00</td>
 <td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MuRho_Inventory_Management_System_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/200208117Z_20250009_15052025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter Package 2 (SaaS with hardware and API connector)</td>
 <td style='padding: 10px;'>$5,500.00</td>
 <td style='padding: 10px;'>$5,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MuRho_Inventory_Management_System_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/200208117Z_20250009_15052025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter Pack 3 (Perpetual License on cloud with hardware) </td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter Package 3 (Perpetual license on cloud with hardware)</td>
 <td style='padding: 10px;'>$6,000.00</td>
 <td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MuRho_Inventory_Management_System_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/200208117Z_20250009_15052025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +50,7 @@ MuRho is a leading local provider of inventory management system since 2002 with
 
 ## Vendor Information
 
- Company Name: MuRho Pte Ltd <br>Web URL: www.murho.com.sg <br>Contact Hotline: 62893802 <br>Contact Email: sales@murho.com.sg <br>
+ Company Name: MURHO PTE. LTD.<br>Web URL: www.murho.com.sg <br>Contact Hotline: 62893802 <br>Contact Email: sales@murho.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
