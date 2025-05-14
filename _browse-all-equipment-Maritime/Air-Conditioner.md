@@ -29,6 +29,7 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 
 - AVOLTA - SGTC4T-S1B09
 - AVOLTA - SGTC4T-S1B12
+- Daikin - MKC70WVMG
 - Daikin - MKM100VVMG
 - Daikin - MKM100ZVMG
 - Daikin - MKM50VVMG
@@ -43,6 +44,9 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - Daikin - RKM25PVMG
 - Daikin - RKM25XVMG
 - Daikin - RKM25ZVMG
+- Daikin - RKM35ZVMG
+- Daikin - RKM50ZVMG
+- Daikin - RXMQ6AAVEG
 - Daikin - RXMUQ4AVEG
 - Daikin - RXMUQ5AVEG
 - Daikin - RXMUQ6AVEG
@@ -160,6 +164,8 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - LG - ARUN162LTE6
 - LG - ARUN180LTE5
 - LG - ARUN182LTE6
+- LG - ARUV030GSD0
+- LG - ARUV040GSD0
 - LG - Z3UQ18GFA0
 - LG - Z3UQ26GFA0
 - LG - Z4UQ28GFA0
@@ -169,14 +175,20 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - Midea - M4OA-28CRFN8E
 - Midea - M4OA-32CRFN8E
 - Midea - M5OA-40CRFN8E
+- Midea - MABOD-09E
+- Midea - MABOD-12E
+- Midea - MABOD-18E
+- Midea - MABOD-24E
 - Midea - MAE-2M18E
 - Midea - MAE-3M25E
 - Midea - MAE-4M30E
 - Midea - MAS-1S09E
+- Midea - MAS-1S12D
 - Midea - MCE-2M16E
 - Midea - MCE-4M28E
 - Midea - MDV-V28WDHN1(SG)
 - Midea - MDV-V36WDHN1(SG)
+- Midea - MDV-V42WDHN1(SG)
 - Midea - MDV-V42WDHN1(SG2)
 - Midea - MDV-V48WDHN1(SG2)
 - Midea - MDV-V56WDHN1(SG2)
@@ -187,10 +199,11 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - Midea - MKC-2M15E
 - Midea - MKC-3M22E
 - Midea - MKC-4M27E
-- Midea - MMY-MUP1401T8P-SG
 - Midea - MOU24-HVN32E(SG)
 - Midea - MOU32-HVN32E(SG)
 - Midea - MOU36-HVN32E(SG)
+- Midea - MPOD-09E
+- Midea - MPOD-12E
 - Midea - MVC-M252WV2GN1(G)
 - Midea - MVC-M280WV2GN1(G)
 - Midea - MVC-M335WV2GN1(G)
@@ -258,9 +271,12 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - Mitsubishi Heavy Industries - FDC400CKXZA2
 - Mitsubishi Heavy Industries - FDCS335CKXZA2
 - Mitsubishi Heavy Industries - FDCS400CKXZA2
+- Mitsubishi Heavy Industries - SCM30YS-W
+- Mitsubishi Heavy Industries - SCM40YS-W
 - Mitsubishi Heavy Industries - SCM60YS-W
 - Mitsubishi Heavy Industries - SCM80YS-W
 - Mitsubishi Heavy Industries - SRC10YVS-W7
+- Mitsubishi Heavy Industries - SRC10YYS-W8
 - Natflow - NRV-308
 - Natflow - NRV-310
 - Natflow - NRV-312
@@ -274,11 +290,16 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - Panasonic - CU-4XU33YBZ-H
 - Panasonic - CU-4XU38YBZ
 - Panasonic - CU-4XU38YBZ-H
+- Panasonic - CU-XU12XKZ
+- Panasonic - CU-XU18XKZ
+- Panasonic - CU-XU9BKZ
 - Panasonic - CU-XU9XKZ
 - Panasonic - U-10ME2R8
 - Panasonic - U-10ME2R8E
 - Panasonic - U-8ME2R8
 - Panasonic - U-8ME2R8E
+- PRISM+ - PRCN28
+- PRISM+ - PRCN36
 - PRISM+ - PRCZ28
 - PRISM+ - PRCZ36
 - Samsung - AJ045DCJ2KF/SP
@@ -297,10 +318,14 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - Toshiba - MMY-MUP1401T8P-SG
 - Toshiba - MMY-MUP14A1T8P-SG
 - Toshiba - MMY-MUP1601T8P-SG
+- Toshiba - RAS-2M21P2ACVG-SG
 - Toshiba - RAS-2M21U2ACVG-SG
+- Toshiba - RAS-3M31P2ACVG-SG
 - Toshiba - RAS-3M31U2ACVG-SG
 - Toshiba - RAS-3M41U2ACVG-SG
+- Toshiba - RAS-4M41P2ACVG-SG
 - Toshiba - RAS-4M41U2ACVG-SG
+- Toshiba - RAS-5M51P2ACVG-SG
 - Toshiba - RAS-5M51U2ACVG-SG
 - Tosot - TR32SAC18CUD
 - Tosot - TR32SAC21CUD

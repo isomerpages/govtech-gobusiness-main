@@ -22,7 +22,7 @@ Up to 70% for SMEs, 30% for non-SMEs
 
 Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}
 
-### Pre-Approved Equipment Brands and Models
+### Pre-Approved Equipment Brands and Models (MELS)
 
 - AGRANERGY PTE. LTD. - A16-C39BT8SEB4-18T65L
 - AGRANERGY PTE. LTD. - A16-C39T8SEB4-18T65L
