@@ -31,6 +31,14 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td><a href='/productivity-solutions-grant/solutionrepo/200823571E-Mcrosoft-Cybrscurty-SLN-G' target='_blank'>Microsoft Cybersecurity Solution</a><br></td>
 <td>VGC Technology Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200102733G-SupportPck-BscStndrdPrmum-v-10-G' target='_blank'>SupportPack (Basic/Standard/Premium) Version 1.0</a><br></td>
+<td>Viperlink Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200404442H-MICROSOFT-BUSINESS-PREMIUM-SECURITY-SUITE-G' target='_blank'>MICROSOFT BUSINESS PREMIUM SECURITY SUITE</a><br></td>
+<td>Fixics Solutions (S) Pte. Ltd.</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
