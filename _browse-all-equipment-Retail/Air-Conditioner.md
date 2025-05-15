@@ -42,6 +42,9 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Daikin - RKM25PVMG
 - Daikin - RKM25XVMG
 - Daikin - RKM25ZVMG
+- Daikin - RKM35ZVMG
+- Daikin - RKM50ZVMG
+- Daikin - RXMQ6AAVEG
 - Daikin - RXMUQ4AVEG
 - Daikin - RXMUQ5AVEG
 - Daikin - RXMUQ6AVEG
@@ -86,8 +89,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Daikin - RXUQ8AYMG
 - Daikin - RXUQ8AYMW
 - Daikin - RXUQ8BYMG
-- Daikin - RZF50CV1G
-- Daikin - RZF60CV1G
 - Enovatek Energy - EES-ADC09GW-XA-32R+5
 - Enovatek Energy - EES-ADC12GW-XA-32R+5
 - Enovatek Energy - EES-ADC18GW-XA-32R+5
@@ -98,14 +99,10 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - EuropAce - ESAC21CUD
 - EuropAce - ESAC28CUD
 - EuropAce - ESAC32CUD
-- EvoAir - W152
 - Fujitsu - AJA040LELBH
 - Fujitsu - AJA045LELBH
 - Fujitsu - AOAG09CMTA
 - Fujitsu - AOAG12CMTA
-- Fujitsu - AOAG18CMTA
-- Fujitsu - AOAG24CMTA
-- Fujitsu - AOAG30CMTA
 - Fujitsu - AOAH24CBTA
 - Fujitsu - AOAH24CBTA3
 - Fujitsu - AOAH30CBTA4
@@ -124,7 +121,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - GREE - GWC-09Charmo/O
 - GREE - GWC12ATDXE-K6DNA3A/O
 - GREE - GWC-12Charmo/O
-- GREE - GWC18ATEXF-K6DNA3B/O
 - GREE - GWCD(18)NK6AO
 - GREE - GWCD(18)NK6GO
 - GREE - GWCD(21)NK6AO
@@ -132,7 +128,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - GREE - GWCD(28)NK6AO
 - GREE - GWCD(28)NK6GO
 - GREE - GWCD(32)NK6AO
-- GREE - GWCD(32)NK6EO
 - GREE - GWCD-MS18/O
 - GREE - GWCD-MS21/O
 - GREE - GWCD-MS28/O
@@ -145,7 +140,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Hisense - AMW150TERQ
 - Hisense - AMW70TERJ
 - Hisense - AMW90TERJ
-- Hitachi - PAS-2.0UFASNQ1
 - Hitachi - RAM-Z23C2MS
 - Hitachi - RAM-Z30C3MS
 - Hitachi - RAM-Z38C4MS
@@ -169,22 +163,22 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - LG - ARUN180LTE5
 - LG - ARUN182LTE6
 - LG - ARUV030GSD0
+- LG - ARUV040GSD0
 - LG - Z3UQ18GFA0
 - LG - Z3UQ26GFA0
 - LG - Z4UQ28GFA0
 - LG - ZRUV030GSD5
 - LG - ZRUV040GSD5
 - LG - ZRUV050GSD5
-- LG - ZRUV060GSD5
-- LG - ZUUQ18GH0
-- LG - ZUUQ21GH0
 - Midea - M4OA-28CRFN8E
 - Midea - M4OA-32CRFN8E
 - Midea - M5OA-40CRFN8E
+- Midea - MABOD-09E
+- Midea - MABOD-12E
+- Midea - MABOD-18E
+- Midea - MABOD-24E
 - Midea - MAE-2M18E
-- Midea - MAE-3M21D
 - Midea - MAE-3M25E
-- Midea - MAE-4M28D
 - Midea - MAE-4M30E
 - Midea - MAS-1S09E
 - Midea - MAS-1S12D
@@ -203,14 +197,11 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Midea - MKC-2M15E
 - Midea - MKC-3M22E
 - Midea - MKC-4M27E
-- Midea - MMY-MUP1401T8P-SG
 - Midea - MOU24-HVN32E(SG)
 - Midea - MOU32-HVN32E(SG)
 - Midea - MOU36-HVN32E(SG)
-- Midea - MPAG-1S12D
-- Midea - MSEOD-09
-- Midea - MSM-3M21D
-- Midea - MSM-4M28D
+- Midea - MPOD-09E
+- Midea - MPOD-12E
 - Midea - MVC-M252WV2GN1(G)
 - Midea - MVC-M280WV2GN1(G)
 - Midea - MVC-M335WV2GN1(G)
@@ -220,10 +211,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Midea - MVC-M560WV2GN1(G)
 - Mitsubishi Electric - FDC280CKXZA2-S8
 - Mitsubishi Electric - MUY-GP10VF
-- Mitsubishi Electric - MUY-GP13VF
-- Mitsubishi Electric - MUY-GP15VF
-- Mitsubishi Electric - MUY-GP18VF
-- Mitsubishi Electric - MUY-GP24VF2
 - Mitsubishi Electric - MXY-2H20VF
 - Mitsubishi Electric - MXY-3H28VG
 - Mitsubishi Electric - MXY-3H28VG2
@@ -277,9 +264,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Mitsubishi Electric - PUMY-CP225YKM2-PA-BS
 - Mitsubishi Electric - PUMY-CP225YKM-PA
 - Mitsubishi Electric - PUMY-CP225YKM-PA-BS
-- Mitsubishi Electric - PUY-M100VKA3-SG
-- Mitsubishi Electric - SUY-M60VA-SG
-- Mitsubishi Electric - SUY-M80VA-SG
 - Mitsubishi Electric - SUY-ZM50VA-SG
 - Mitsubishi Heavy Industries - FDC335CKXZA2
 - Mitsubishi Heavy Industries - FDC400CKXZA2
@@ -291,8 +275,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Mitsubishi Heavy Industries - SCM80YS-W
 - Mitsubishi Heavy Industries - SRC10YVS-W7
 - Mitsubishi Heavy Industries - SRC10YYS-W8
-- Mitsubishi Heavy Industries - SRC13YVS-W7
-- Mitsubishi Heavy Industries - SRC13YYS-W8
 - Natflow - NRV-308
 - Natflow - NRV-310
 - Natflow - NRV-312
@@ -312,10 +294,10 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Panasonic - CU-XU9XKZ
 - Panasonic - U-10ME2R8
 - Panasonic - U-10ME2R8E
-- Panasonic - U-18PRH1Z5
-- Panasonic - U-24PRH1Z5
 - Panasonic - U-8ME2R8
 - Panasonic - U-8ME2R8E
+- PRISM+ - PRCN28
+- PRISM+ - PRCN36
 - PRISM+ - PRCZ28
 - PRISM+ - PRCZ36
 - Samsung - AJ045DCJ2KF/SP
@@ -334,21 +316,19 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Toshiba - MMY-MUP1401T8P-SG
 - Toshiba - MMY-MUP14A1T8P-SG
 - Toshiba - MMY-MUP1601T8P-SG
+- Toshiba - RAS-2M21P2ACVG-SG
 - Toshiba - RAS-2M21U2ACVG-SG
+- Toshiba - RAS-3M31P2ACVG-SG
 - Toshiba - RAS-3M31U2ACVG-SG
 - Toshiba - RAS-3M41U2ACVG-SG
+- Toshiba - RAS-4M41P2ACVG-SG
 - Toshiba - RAS-4M41U2ACVG-SG
+- Toshiba - RAS-5M51P2ACVG-SG
 - Toshiba - RAS-5M51U2ACVG-SG
-- Toshiba - RAV-GE1001AP-SG
-- Toshiba - RAV-GE1301AP-SG
-- Toshiba - RAV-GE1801AP-SG
-- Toshiba - RAV-GE2501AP-SG
-- Toshiba - RAV-GE3601AP-SG
 - Tosot - TR32SAC18CUD
 - Tosot - TR32SAC21CUD
 - Tosot - TR32SAC28CUD
 - Tosot - TR32SAC32CUD
 - WSE - TKF-100W/BP-M
-
 
 <script src='/jquery/resize-tables.js'></script>

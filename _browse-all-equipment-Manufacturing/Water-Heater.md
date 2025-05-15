@@ -33,6 +33,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - AO Smith  - HPI-50D
 - AO Smith  - HPW-60A
 - AO Smith  - HPW-80A
+- AOSmith - HPA-80
 - Asun  - Asun-A/H-080L
 - Asun  - Asun-C/H-5.0P
 - Asun  - Asun-C/N-1.0P
