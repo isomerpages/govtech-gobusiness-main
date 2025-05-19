@@ -5,28 +5,17 @@ permalink: /intellectual-property/ip-grow/abrandaday/
 
 ## ABrandADay
 
-ABrandADay does two things: Brand Conceptualisation and Brand
-Actualisation. From ideation to market launch, we impact businesses
-with creative solutions.
+ABrandADay does two things: Brand Conceptualisation and Brand Actualisation. From ideation to market launch, we impact businesses with creative solutions.
 
-Our Process: Branding isn't optional - it's the pulse of your business.
-Trusted and tested by clients, we work with brand-owners in brand
-equity development.
+Our Process: Branding isn't optional - it's the pulse of your business. Trusted and tested by clients, we work with brand-owners in brand equity development.
 
-Our proven framework enables brands to relate and scale;
-consequently, translating brand values into revenue.
+Our proven framework enables brands to relate and scale; consequently, translating brand values into revenue.
 
 What We Do: Positioning, Strategy, Execution.
 
-Certified by the Singapore Business Advisors and Consultants Council
-(SBACC) and regulated by Enterprise Singapore, we guide SMEs
-through Strategic Brand and Marketing Development to secure funding
-via the Enterprise Development Grant.
+Certified by the Singapore Business Advisors and Consultants Council (SBACC) and regulated by Enterprise Singapore, we guide SMEs through Strategic Brand and Marketing Development to secure funding via the Enterprise Development Grant.
 
-Honours as the Best Boutique Agency in Asia-Pacific and other
-accolades over the years are a testament to our purpose-driven
-creativity, performance-focused solutions, and ESG-forward
-strategies.
+Honours as the Best Boutique Agency in Asia-Pacific and other accolades over the years are a testament to our purpose-driven creativity, performance-focused solutions, and ESG-forward strategies.
 
 Be future ready, work with us.
 
