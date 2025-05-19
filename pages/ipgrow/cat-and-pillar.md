@@ -13,7 +13,7 @@ Our founder served as a trademark examiner at the Intellectual Property Office o
 
 <b>Year established in Singapore:</b> 2019
 
-<b>Top focus areas for IA/IP services:</b> Trade Mark Agent Service, IP Intelligence and Search
+<b>Top focus areas for IA/IP services:</b> Registered Design Agent Service, Trade Mark Agent Service, IP Intelligence and Search
 
 <b>Type of organization:</b> SME
 
@@ -92,7 +92,7 @@ Our founder served as a trademark examiner at the Intellectual Property Office o
 - Job Title: CEO
 - Years of Experience: 10 years
 - Location: Singapore
-- IA/IP-Related Expertise: Trade Mark Agent Service, IP Intelligence and Search
+- IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Intelligence and Search
 - Certifications/Qualifications: Registered Australian Trade Mark Attorney, Specialist Certificate in Intangible Asset Management 
 - Awards/Accolades: PS21 Excel Awards - Innovation Champion
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/yanshao-tan" target="_blank" rel="noopener">https://www.linkedin.com/in/yanshao-tan</a>
@@ -103,4 +103,4 @@ Our founder served as a trademark examiner at the Intellectual Property Office o
 <p>
 <a class='btn' href='https://form.gov.sg/67ce7ade76d42d8bdd537da6' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 8 May 2024
+Profile last updated on 16 May 2025

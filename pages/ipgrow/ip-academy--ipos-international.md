@@ -106,17 +106,17 @@ Our academy has also built a global network of partnerships with institutes of h
 - Certifications/Qualifications: Master of Law at Sun Yat-Sen University, Bachelor of Pharmaceutical Science at Xinjiang Medical University, National Legal Professional Qualification Certificate in China, WSQ Advanced Certificate in Learning and Performance
 - URL of LinkedIn/Company Profile: <a href="https://iposinternational.com/en/about/our-team" target="_blank" rel="noopener">https://iposinternational.com/en/about/our-team</a>
 
-**Dr Jie Xiao**
+**Dr Lu Liru**
 
-- Job Title: Faculty Member
-- Years of Experience: 9 years
+- Job Title: Patent Examiner & Faculty
+- Years of Experience: 10 years
 - Location: Singapore
 - IA/IP-Related Expertise: IP Training
-- Certifications/Qualifications: PhD in Biomedical Engineering at Johns Hopkins University, BSc in Electrical Engineering at Tsinghua University
+- Certifications/Qualifications: B.E. (Hons.) degree in electrical and communications engineering from Harbin Institute of Technology, China; Ph.D. degree in communications engineering from Nanyang Technological University, Singapore; Specialist Certificate in Intangible Asset Management, IP Academy Singapore and a Master of IP and Innovation Management (IP Management) from Singapore University of Social Sciences
 - URL of LinkedIn/Company Profile: <a href="https://iposinternational.com/en/about/our-team" target="_blank" rel="noopener">https://iposinternational.com/en/about/our-team</a>
 
 ---
 <p>
 <a class='btn' href='https://form.gov.sg/67cf9abf3d4fe7d6d8cfe7ec' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 16 May 2025

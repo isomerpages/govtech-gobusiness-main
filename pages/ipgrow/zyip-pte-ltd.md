@@ -5,11 +5,13 @@ permalink: /intellectual-property/ip-grow/zyip-pte-ltd/
 
 ## ZYIP Pte Ltd
 
-Established in 2003, ZYIP is one of the premier Chinese IP firm with 16 offices around mainland China and branch offices in Singapore and Hong Kong. We have a team of more than 300 IP experts including patent, design and trademark attorneys,  and lawyers who are able to handle dispute resolution matters. Our clients recommend us for our detailed understanding of technology and innovation to help manage, protect, exploit and litigate their IP rights locally and in overseas jurisdictions.
+ZYIP is one of the leading intellectual property firms in China with over 400 IP lawyers in 19 offices. It actively manages 250,000+ patents and registered designs and 80,000+ trademarks and copyrights. It serves broad spectrum of clients including Huawei, Tencent, CATL, United Imaging, Philips, Honda, Bentley, National University of Singapore etc.
+
+ZYIP is recommended by "I AM Patent 1000" and "WTR Trademark 1000".
 
 <b>Year established in Singapore:</b> 2019
 
-<b>Top focus areas for IA/IP services:</b> Patent Agent Service,  Registered Design Agent Service, Trade Mark Agent Service, Freedom-to-Operate (FTO), IP Due Diligence
+<b>Top focus areas for IA/IP services:</b> Patent Agent Service,  Registered Design Agent Service, Trade Mark Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search
 
 <b>Type of organization:</b> Non-SME
 
@@ -25,43 +27,13 @@ Established in 2003, ZYIP is one of the premier Chinese IP firm with 16 offices 
 <a name='ip-related-service-areas'></a>
 ### IA/IP service areas
 
-**Branding Strategy Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: Above 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts overseas: Above 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
-</ul>
-
-**Contract Drafting Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: Above 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts in Singapore: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts overseas: 41 to 60</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): NA</li>
-</ul>
-
-**Freedom-to-Operate Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: Above 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Freedom-To-Operate experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Freedom-To-Operate experts overseas: Above 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $4,000</li>
-</ul>
-
 **Innovation Consultancy Services**
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: Above 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Innovation Consultancy IP experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Innovation Consultancy IP experts overseas: Above 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Innovation Consultancy IP experts overseas: 21 to 40</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
 </ul>
 
@@ -85,33 +57,23 @@ Established in 2003, ZYIP is one of the premier Chinese IP firm with 16 offices 
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
 </ul>
 
-**IP Database Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of users on database in previous calendar year: Above 10,000</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: Above 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
-</ul>
-
 **IP Due Diligence Services**
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects on database in previous calendar year: Above 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Due Diligence experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Due Diligence experts overseas: Above 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Due Diligence experts overseas: 11 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
 </ul>
 
 **IP Intelligence and Search Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Less than $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 601 to 650</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts overseas: Above 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts overseas: 11 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $800</li>
 </ul>
 
@@ -121,7 +83,7 @@ Established in 2003, ZYIP is one of the premier Chinese IP firm with 16 offices 
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: Above 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts overseas: Above 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts overseas: 41 to 60</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
 </ul>
 
@@ -131,7 +93,7 @@ Established in 2003, ZYIP is one of the premier Chinese IP firm with 16 offices 
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: Above 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Strategy Consulting experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Strategy Consulting experts overseas: Above 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Strategy Consulting experts overseas: 21 to 40</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
 </ul>
 
@@ -141,7 +103,7 @@ Established in 2003, ZYIP is one of the premier Chinese IP firm with 16 offices 
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of courses completed in previous calendar year: 46 to 50</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts overseas: Above 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts overseas: 21 to 40</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
 </ul>
 
@@ -151,18 +113,8 @@ Established in 2003, ZYIP is one of the premier Chinese IP firm with 16 offices 
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: Above 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts overseas: Above 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts overseas: 11 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $800</li>
-</ul>
-
-**Patent Agent Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: Above 2000</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: Above 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,500</li>
 </ul>
 
 **Registered Design Agent Services**
@@ -178,10 +130,10 @@ Established in 2003, ZYIP is one of the premier Chinese IP firm with 16 offices 
 **Trade Mark Agent Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Less than $200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Less than $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: Above 5000</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: Above 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 11 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $500</li>
 </ul>
 
@@ -190,7 +142,7 @@ Established in 2003, ZYIP is one of the premier Chinese IP firm with 16 offices 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 56 to 60</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts in Singapore: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts overseas: 41 to 60</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
 </ul>
@@ -219,28 +171,62 @@ Established in 2003, ZYIP is one of the premier Chinese IP firm with 16 offices 
 <a name='key-practice-experts'></a>
 ### Key practice experts
 
-**Kristen Lim**
-
-- Job Title: Director
-- Years of Experience: 17 years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trademark Agent Service, Freedom-to-Operate (FTO), IP Due Diligence
-- Certifications/Qualifications: Registered Singapore Patent Agent, Certified Patent Valuation Analyst
-- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/kristen-hui-yi-lim" target="_blank" rel="noopener">https://www.linkedin.com/in/kristen-hui-yi-lim</a>
-
-
 **Guo Hong**
 
 - Job Title: General Manager
 - Years of Experience: 15 years
 - Location: China
-- IA/IP-Related Expertise: Registered Design Agent Service, Patent Agent Service, Freedom-to-Operate (FTO), IP Audit, IP Due Diligence
+- IA/IP-Related Expertise: Registered Design Agent Service, IP Intelligence and Search, IP Portfolio Management, IP Strategy Consulting, IP Training
 - Certifications/Qualifications: Registered China Patent Attorney
 - URL of LinkedIn/Company Profile: <a href="https://www.zyip.com/list-99.html#zytd" target="_blank" rel="noopener">https://www.zyip.com/list-99.html#zytd</a>
 
+**Zou Dunni**
+
+- Job Title: Head of Trademark Office
+- Years of Experience: 22 years
+- Location: China
+- IA/IP-Related Expertise: Trade Mark Agent Service, IP Intelligence and Search, IP Portfolio Management, IP Strategy Consulting, IP Training
+- Certifications/Qualifications: Bachelor of Law, Hubei University ; Senior Trademark Agent
+- URL of LinkedIn/Company Profile: <a href="https://www.zyip.com/list-100.html#zytd" target="_blank" rel="noopener">https://www.zyip.com/list-100.html#zytd</a>
+
+**Jiang Fangxia**
+
+- Job Title: Head of Legal
+- Years of Experience: 15 years
+- Location: China
+- IA/IP-Related Expertise: IP Intelligence and Search, IP Audit, IP Due Diligence, IP Brokerage and Licensing, IP Training
+- Certifications/Qualifications: Master of Laws (Intellectual Property Law Direction), Jinan University ;  Registered China Patent Attorney
+- URL of LinkedIn/Company Profile: <a href="https://www.zyip.com/list-103.html#zytd" target="_blank" rel="noopener">https://www.zyip.com/list-103.html#zytd</a>
+
+**Xi Kai**
+
+- Job Title: Head of Project Specialist
+- Years of Experience: 18 years
+- Location: China
+- IA/IP-Related Expertise: Innovation Consultancy, IP Portfolio Management, IP Strategy Consulting, Valuation (with IA/IP considerations)
+- Certifications/Qualifications: Bachelor of Bioengineering, Zhejiang University of Technology ; Senior Project Engineer
+- URL of LinkedIn/Company Profile: <a href="https://www.zyip.com/list-102.html#zytd" target="_blank" rel="noopener">https://www.zyip.com/list-102.html#zytd</a>
+
+**Zhang Yu**
+
+- Job Title: Deputy General Manager
+- Years of Experience: 9 years
+- Location: China
+- IA/IP-Related Expertise: Registered Design Agent Service, IP Intelligence and Search, IP Watch, IP Due Diligence, IP Strategy Consulting
+- Certifications/Qualifications: Master of Law, Nankai University ; Registered China Patent Attorney
+- URL of LinkedIn/Company Profile: <a href="https://www.zyip.com/list-104.html#zytd" target="_blank" rel="noopener">https://www.zyip.com/list-104.html#zytd</a>
+
+**Yuan Xiaoshan**
+
+- Job Title: Head of Workflow Specialist
+- Years of Experience: 15 years
+- Location: China
+- IA/IP-Related Expertise: IP Intelligence and Search, IP Watch, Innovation Consultancy, IP Portfolio Management
+- Certifications/Qualifications: Bachelor of Chinese Literature, South-Central University for Nationalities
+- URL of LinkedIn/Company Profile: <a href="https://www.zyip.com/list-105.html#zytd" target="_blank" rel="noopener">https://www.zyip.com/list-105.html#zytd</a>
 
 ---
 <p>
 <a class='btn' href='https://form.gov.sg/67d00699e6c56d64f1444317' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 16 October 2024
+Profile last updated on 16 May 2025

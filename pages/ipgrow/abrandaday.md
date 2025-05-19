@@ -5,18 +5,30 @@ permalink: /intellectual-property/ip-grow/abrandaday/
 
 ## ABrandADay
 
-ABrandADay does two things: Brand Conceptualisation and Brand Actualisation. From ideation to market launch, we redefine consumer journeys and drive campaigns that make an impact. 
- 
-Our Process: Branding at the Core
-Branding isn't optional - it's the pulse of your business. Trusted and tested by clients, our proven framework turns vision into impact, delivering results that matter, every single time.
- 
-What We Do: Positioning, Strategy, Execution
-Certified by the Singapore Business Advisors and Consultants Council (SBACC) and regulated by Enterprise Singapore, we guide SMEs through Strategic Brand and Marketing Development to secure funding via the Enterprise Development Grant.
- 
-Honours as the Best Boutique Agency in Asia-Pacific and other accolades from the MARKies Awards, Marketing Excellence Awards, and more over the years are a testament to our purpose-driven creativity, performance-focused solutions, and ESG-forward strategies that set us apart. 
- 
-Be future ready, work with us.
+ABrandADay does two things: Brand Conceptualisation and Brand
+Actualisation. From ideation to market launch, we impact businesses
+with creative solutions.
 
+Our Process: Branding isn't optional - it's the pulse of your business.
+Trusted and tested by clients, we work with brand-owners in brand
+equity development.
+
+Our proven framework enables brands to relate and scale;
+consequently, translating brand values into revenue.
+
+What We Do: Positioning, Strategy, Execution.
+
+Certified by the Singapore Business Advisors and Consultants Council
+(SBACC) and regulated by Enterprise Singapore, we guide SMEs
+through Strategic Brand and Marketing Development to secure funding
+via the Enterprise Development Grant.
+
+Honours as the Best Boutique Agency in Asia-Pacific and other
+accolades over the years are a testament to our purpose-driven
+creativity, performance-focused solutions, and ESG-forward
+strategies.
+
+Be future ready, work with us.
 
 <b>Year established in Singapore:</b> 2021
 
@@ -44,7 +56,7 @@ Be future ready, work with us.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 16 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts overseas: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $15,000</li>
@@ -60,7 +72,7 @@ Be future ready, work with us.
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: Singapore</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office: Australia</li></ul>
 
 ---
 <a name='client-segments'></a>
@@ -116,4 +128,4 @@ Be future ready, work with us.
 <p>
 <a class='btn' href='https://form.gov.sg/67d7dce1428098cc04ca65a0' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 27 March 2025
+Profile last updated on 16 May 2025

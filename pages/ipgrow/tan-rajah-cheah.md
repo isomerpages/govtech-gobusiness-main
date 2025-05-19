@@ -23,7 +23,7 @@ We are a member of the international law practice group, PLG International Lawye
 
 <b>Website:</b> <a href='https://trc.com.sg/'>https://trc.com.sg/</a>
 
-<b>Offer:</b> SIPDA participating service provider
+<b>Offer:</b> IP Business Clinic participating service provider; SIPDA participating service provider
 
 <a class='btn' href='https://form.gov.sg/67ceab33663eae2befdafc8d' target='_blank' rel='noopener'>Get in touch</a>
 
@@ -129,4 +129,4 @@ We are a member of the international law practice group, PLG International Lawye
 <p>
 <a class='btn' href='https://form.gov.sg/67ceab33663eae2befdafc8d' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 23 April 2025
+Profile last updated on 16 May 2025
