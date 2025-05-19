@@ -106,9 +106,8 @@ permalink: /sdl-e-services/
 ### Help and support
 
 
+For more information about SDL, access the [SSG-WSG chatbot on WhatsApp](https://api.whatsapp.com/send/?phone=6598436277&text=Hello%21+Welcome+to+Chat+with+SSG-WSG.+Find+out+more+about+SSG+and+WSG+programmes+and+services+here.+Press+send+to+start+the+chat.+By+pressing+send%2C+you+agree+to+interact+with+SSG+and+WSG+on+this+channel.%0D%0A%0D%0APlease+note+that+this+is+a+Beta+version+and+we+appreciate+your+patience+as+we+work+to+enhance+your+experience){:target="_blank"}{:rel="noopener"} or browse the [General SDL FAQ](/skills-development-levy-faqs/).
+
 For help with SDL e-Services on GoBusiness Dashboard, head to the [GoBusiness Dashboard SDL FAQ](/dashboard-faqs/sdl-on-gobusiness/).
 
-For other questions about SDL, browse the [General SDL FAQ](/skills-development-levy-faqs/).
-
 For help using CPF EZPay, check out the [CPF EZPay User Guide](https://www.cpf.gov.sg/employer/making-cpf-contributions/submitting-cpf-contributions-via-cpf-ezpay){:target="_blank"}{:rel="noopener"}.
-
