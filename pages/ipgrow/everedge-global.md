@@ -13,7 +13,7 @@ For investors, we provide the tools and insights needed to assess the value and 
 
 With more than 2,500 successful engagements globally, EverEdge brings a proven track record of helping clients realize the full potential of their intangible asset portfolios. We maintain a strong regional presence with offices in Singapore, New Zealand, and Australia, supporting clients across Asia-Pacific and beyond.
 
-EverEdge is part of Meyzer Group, a global leader in strategy and corporate advisory, known for its innovative approach to helping businesses leverage their assets to drive growth and maximise value. With a diverse portfolio of services, Meyzer Group enhances EverEdge's ability to provide comprehensive, end-to-end solutions for clients
+EverEdge is part of Meyzer Group, a global leader in strategy and corporate advisory, known for its innovative approach to helping businesses leverage their assets to drive growth and maximise value. With a diverse portfolio of services, Meyzer Group enhances EverEdge�s ability to provide comprehensive, end-to-end solutions for clients
 
 <b>Year established in Singapore:</b> 2017
 
