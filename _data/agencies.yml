@@ -61,14 +61,14 @@
 - title: Housing & Development Board (HDB)
   description: For Commercial Properties Inquiry
   tel: 1800 866 3073
-  url: www.hdb.gov.sg/efeedback
+  url: go.gov.sg/hdb-write-to-us
   url-new-tab: true
   protocol: https
 
 - title: Housing & Development Board (HDB)
   description: For HDB Flats Inquiry
   tel: 1800 225 5432
-  url: www.hdb.gov.sg/efeedback
+  url: go.gov.sg/hdb-write-to-us
   url-new-tab: true
   protocol: https
 
