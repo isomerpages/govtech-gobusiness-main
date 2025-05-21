@@ -35,16 +35,6 @@ Deloitte Southeast Asia's Financial Advisory practice is a leading specialist in
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  To be quoted upon review of work required</li>
 </ul>
 
-**IP Audit Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $801 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Audit experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Audit experts overseas: 61 to 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  To be quoted upon review of work required</li>
-</ul>
-
 **IP Brokerage and Licensing Services**
 
 <ul>
@@ -62,16 +52,6 @@ Deloitte Southeast Asia's Financial Advisory practice is a leading specialist in
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects on database in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Due Diligence experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Due Diligence experts overseas: 61 to 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  To be quoted upon review of work required</li>
-</ul>
-
-**IP Intelligence and Search Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $801 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 50</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts overseas: 61 to 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  To be quoted upon review of work required</li>
 </ul>
 
@@ -138,13 +118,33 @@ Deloitte Southeast Asia's Financial Advisory practice is a leading specialist in
 - Job Title: Valuation Partner, Southeast Asia
 - Years of Experience: 30+ years
 - Location: Singapore
-- IA/IP-Related Expertise: IP Valuation, IP Strategy Consulting
+- IA/IP-Related Expertise: IP Strategy Consulting, Valuation (with IA/IP considerations), IP Training
 - Certifications/Qualifications: Fellow Chartered Accountant of the Chartered Accountants Australia and New Zealand, Chartered Accountant of the Institute of Singapore Chartered Accountants, Chartered Valuer & Appraiser of the Institute of Valuers and Appraisers Singapore, Chartered Accountant of the Malaysian Institute of Accountants
 - URL of LinkedIn/Company Profile: <a href="https://www2.deloitte.com/sg/en/profiles/lwoo.html" target="_blank" rel="noopener">https://www2.deloitte.com/sg/en/profiles/lwoo.html</a>
+
+**Tania Tai**
+
+- Job Title: Managing Director at Deloitte Business Advisory SEA
+- Years of Experience: 30 years
+- Location: Malaysia
+- IA/IP-Related Expertise: Branding Strategy
+- Certifications/Qualifications: B. Acc (hons), Change Management certified (Berlin School of Creative Leadership)
+- Awards/Accolades: Asia Communications Award Best Brand Campaign 2016, Marketing Excellence Award 2015, Singapore Design Award 2014, Johor Tourism Award 2012, MITI Industry Excellence Award 2007, Asia Pacific Entrepreneur Excellence Award 2006, Asia Star Award 2004, Singapore Packaging Star Award 2004
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/tania-t-5932736/" target="_blank" rel="noopener">https://www.linkedin.com/in/tania-t-5932736/</a>
+
+**Ho Wei Lih**
+
+- Job Title: Managing Partner
+- Years of Experience: 18 years
+- Location: Malaysia
+- IA/IP-Related Expertise: IP Due Diligence, IP Brokerage and Licensing
+- Certifications/Qualifications: Malaysian Bar (2007), Bar of England & Wales, Middle Temple (2006); LLB (First Class Honours, Birmingham University); LLM (University College London); MBA (Nottingham University)
+- Awards/Accolades: 2023, 2024 and 2025 Highly Regarded, IFLR1000 for Corporate and M&A; 2021-2025 Chambers Global and Chambers Asia-Pacific Guides for Corporate and M&A 
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/wei-lih-ho-7b5a0229/" target="_blank" rel="noopener">https://www.linkedin.com/in/wei-lih-ho-7b5a0229/</a>
  
 
 ---
 <p>
 <a class='btn' href='https://form.gov.sg/67d004d49cd47ed14ea64603' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 23 April 2025
+Profile last updated on 16 May 2025
