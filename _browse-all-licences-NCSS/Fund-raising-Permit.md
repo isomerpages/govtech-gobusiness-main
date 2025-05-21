@@ -12,7 +12,7 @@ National Council of Social Service (NCSS)
 
 <H3>Application Details</H3>
 
-<p>Under the House to House and Streets Collection Act, all public fund-raising activities that involve house-to-house and street collections are required to be licensed by the Singapore Police Force's Licensing Division.</p>
+<p>Under the House to House and Streets Collection Act, all public fund-raising activities that involve house-to-house and street collections are required to be licensed by the Singapore Police Force.</p>
  <p>Examples of these fund-raising activities include fun fair / bazaar / carnival, walkathon / jogathon / car rally, charity dinner, concert / performances, movie premiere, donation draw, charity auction, placement of donation boxes, car wash, collection of items, pledge cards, street sales, Flag Day and donation of sale proceeds, etc.</p>
  <p>The Ministry of Home Affairs has granted NCSS an Exemption Order for the House to House and Streets Collection Act since 26 Dec 2003. Members of NCSS can apply directly to NCSS for a fund-raising permit.</p>
 
