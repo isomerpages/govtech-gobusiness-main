@@ -11,7 +11,7 @@ Our team of experienced lawyers is committed to providing prompt and timely lega
 
 <b>Year established in Singapore:</b> 1997
 
-<b>Top focus areas for IA/IP services:</b> Contract Drafting, Dispute Resolution
+<b>Top focus areas for IA/IP services:</b> Patent Agent Service, Trade Mark Agent Service, IP Intelligence and Search, Contract Drafting, Dispute Resolution
 
 <b>Type of organization:</b> SME
 
@@ -30,21 +30,71 @@ Our team of experienced lawyers is committed to providing prompt and timely lega
 **Contract Drafting Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 46 to 50</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts in Singapore: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1,200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: Above 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $5,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): NA</li>
 </ul>
 
 **Dispute Resolution Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of cases completed in previous calendar year: 21 to 25</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1,200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of cases completed in previous calendar year: Above 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $5,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
+</ul>
+
+**IP Database Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1,200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of users on database in previous calendar year: 1 to 500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
+</ul>
+
+**IP Intelligence and Search Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1,200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 301 to 350</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
+</ul>
+
+**Patent Agent Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1,200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 1 to 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
+</ul>
+
+**Registered Design Agent Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate: $401 to $1,200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: Above 300</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): NA</li>
+</ul>
+
+**Trade Mark Agent Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1,200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 251 to 500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
 </ul>
 
 ---
@@ -76,6 +126,15 @@ Our team of experienced lawyers is committed to providing prompt and timely lega
 <a name='key-practice-experts'></a>
 ### Key practice experts
 
+**Kelvin Chia**
+
+- Job Title: Managing Partner
+- Years of Experience: 47 years
+- Location: Singapore
+- IA/IP-Related Expertise: Patent Agent Service, Trade Mark Agent Service, IP Intelligence and Search, Dispute Resolution, Contract Drafting
+- Certifications/Qualifications: Called to Singapore Bar in 1978
+- URL of LinkedIn/Company Profile: <a href="https://www.kcpartnership.com/people/kelvin-chia/" target="_blank" rel="noopener">https://www.kcpartnership.com/people/kelvin-chia/</a>
+
 **Harry Zheng**
 
 - Job Title: Partner
@@ -88,9 +147,9 @@ Our team of experienced lawyers is committed to providing prompt and timely lega
 **Bryan Chan**
 
 - Job Title: Partner
-- Years of Experience: 8 years
+- Years of Experience: 9 years
 - Location: Singapore
-- IA/IP-Related Expertise: Dispute Resolution, Contract Drafting
+- IA/IP-Related Expertise: Dispute Resolution
 - Certifications/Qualifications: LL.B (Hons) National University of Singapore, Advocate & Solicitor of the Supreme Court of Singapore
 - URL of LinkedIn/Company Profile: <a href="https://www.kcpartnership.com/people/Bryan_chan/" target="_blank" rel="noopener">https://www.kcpartnership.com/people/Bryan_chan/</a>
 
@@ -103,9 +162,18 @@ Our team of experienced lawyers is committed to providing prompt and timely lega
 - Certifications/Qualifications: LL.B (Hons) National University of Leeds, Advocate & Solicitor of the Supreme Court of Singapore
 - URL of LinkedIn/Company Profile: <a href="https://www.kcpartnership.com/people/Jasmin-Kang" target="_blank" rel="noopener">https://www.kcpartnership.com/people/Jasmin-Kang</a>
 
+**Jia Yi, Ho**
+
+- Job Title: Partner
+- Years of Experience: 8 years
+- Location: Singapore
+- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, IP Database, IP Intelligence and Search
+- Certifications/Qualifications: Called to Singapore Bar in 2017
+- URL of LinkedIn/Company Profile: <a href="https://www.kcpartnership.com/people/ho-jia-yi/" target="_blank" rel="noopener">https://www.kcpartnership.com/people/ho-jia-yi/</a>
+
 
 ---
 <p>
 <a class='btn' href='https://form.gov.sg/67d7cfdf992ae987d0034004' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 23 April 2025
+Profile last updated on 16 May 2025

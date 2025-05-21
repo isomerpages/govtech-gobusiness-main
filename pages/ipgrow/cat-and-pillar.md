@@ -13,7 +13,7 @@ Our founder served as a trademark examiner at the Intellectual Property Office o
 
 <b>Year established in Singapore:</b> 2019
 
-<b>Top focus areas for IA/IP services:</b> Trade Mark Agent Service, IP Intelligence and Search
+<b>Top focus areas for IA/IP services:</b> Registered Design Agent Service, Trade Mark Agent Service, IP Intelligence and Search
 
 <b>Type of organization:</b> SME
 
@@ -39,6 +39,16 @@ Our founder served as a trademark examiner at the Intellectual Property Office o
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts overseas: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $100</li>
+</ul>
+
+**Registered Design Agent Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate: Less than $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 1 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $800</li>
 </ul>
 
 **Trade Mark Agent Services**
@@ -92,7 +102,7 @@ Our founder served as a trademark examiner at the Intellectual Property Office o
 - Job Title: CEO
 - Years of Experience: 10 years
 - Location: Singapore
-- IA/IP-Related Expertise: Trade Mark Agent Service, IP Intelligence and Search
+- IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Intelligence and Search
 - Certifications/Qualifications: Registered Australian Trade Mark Attorney, Specialist Certificate in Intangible Asset Management 
 - Awards/Accolades: PS21 Excel Awards - Innovation Champion
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/yanshao-tan" target="_blank" rel="noopener">https://www.linkedin.com/in/yanshao-tan</a>
@@ -103,4 +113,4 @@ Our founder served as a trademark examiner at the Intellectual Property Office o
 <p>
 <a class='btn' href='https://form.gov.sg/67ce7ade76d42d8bdd537da6' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 8 May 2024
+Profile last updated on 16 May 2025

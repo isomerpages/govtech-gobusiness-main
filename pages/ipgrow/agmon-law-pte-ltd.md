@@ -1,11 +1,11 @@
 ---
-title: 'Soroker Agmon Nordman'
-permalink: /intellectual-property/ip-grow/soroker-agmon-nordman/
+title: 'Agmon Law Pte Ltd'
+permalink: /intellectual-property/ip-grow/agmon-law-pte-ltd/
 ---
 
-## Soroker Agmon Nordman
+## Agmon Law Pte Ltd
 
-Soroker Agmon Nordman is a foreign law firm founded by Jonathan Agmon in Singapore in 2016. With a team of 40 employees in Singapore and Israel, the firm primarily offers IP, commercial, and litigation services. In Singapore, the firm has worked with academic and research institutions and start-ups in various industries including medical, chemical, pharmaceuticals, finance, software, defence, and cybersecurity. In Israel, the firm has worked with large, medium, and small enterprises in software, hardware, telecommunications, medical, security, defence, and other fields. The firm provides services in patents, trademarks, designs, copyrights, innovation consultancy, branding strategy, legal document drafting and review, deal negotiation, due diligence, IP portfolio management, litigation, strategy consulting, ongoing legal advice, and contentious matters. The firm aims to ensure its clients' long-term success in a constantly evolving international market.
+Agmon Law is a foreign law firm founded by Jonathan Agmon in Singapore in 2016. With a team of 40 employees in Singapore and Israel, the firm primarily offers IP, commercial, and litigation services. In Singapore, the firm has worked with academic and research institutions and start-ups in various industries including medical, chemical, pharmaceuticals, finance, software, defense, and cybersecurity. In Israel, the firm has worked with large, medium, and small enterprises in software, hardware, telecommunications, medical, security, defense, and other fields. The firm provides services in patents, trademarks, designs, copyrights, innovation consultancy, branding strategy, legal document drafting and review, deal negotiation, due diligence, IP portfolio management, litigation, strategy consulting, ongoing legal advice, and contentious matters. The firm aims to ensure its clients' long-term success in a constantly evolving international market.
 
 <b>Year established in Singapore:</b> 2016
 
@@ -225,4 +225,4 @@ Soroker Agmon Nordman is a foreign law firm founded by Jonathan Agmon in Singapo
 <p>
 <a class='btn' href='https://form.gov.sg/67d7d3d9f42a48c6587a8ecc' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 23 April 2025
+Profile last updated on 16 May 2025
