@@ -42,10 +42,16 @@ Applicants can apply for the EEG through the [Business Grants Portal (BGP)](http
 - Dell - Unity XT680F
 - HPE - Alletra 9060 2N/4N
 - HPE - Alletra 9080 2N/4N
+- HPE - B10120 Alletra MP Block
+- HPE - B10130 Alletra MP Block
+- HPE - B10140 Alletra MP Block
 - HPE - HPE MSA 2050 LFF Storage
 - HPE - HPE MSA 2050 SFF Storage
 - HPE - HPE MSA 2052 LFF Storage
 - HPE - HPE MSA 2052 SFF Storage
+- HPE - HPE MSA 2070 LFF 
+- HPE - HPE MSA 2070 SFF 
+- HPE - HPE MSA 2072 SFF 
 - HPE - HPE Primera C630 2N
 - HPE - HPE Primera C650 4N
 - HPE - HPE Primera C670 4N
@@ -54,6 +60,9 @@ Applicants can apply for the EEG through the [Business Grants Portal (BGP)](http
 - HPE - MSA 2060 SFF Storage
 - HPE - MSA 2062 LFF Storage
 - HPE - MSA 2062 SFF Storage
+- HPE - StoreOnce 3660
+- HPE - StoreOnce 5260
+- HPE - StoreOnce 5660
 - Lenovo - DE2000H
 - Lenovo - DE4000H
 - Lenovo - DE6400F

@@ -60,19 +60,24 @@ Applicants can apply for the EEG through the [Business Grants Portal (BGP)](http
 - HPE - DL20 Gen10 PLUS
 - HPE - DL20 Gen11
 - HPE - DL320 Gen11
+- HPE - DL320 Gen12
 - HPE - DL325 Gen10 PLUS v2
 - HPE - DL325 Gen11
+- HPE - DL340 Gen12
 - HPE - DL345 Gen10 PLUS
 - HPE - DL345 Gen11
 - HPE - DL360 Gen10
 - HPE - DL360 Gen10 PLUS
 - HPE - DL360 Gen11
+- HPE - DL360 Gen12
 - HPE - DL365 Gen10 PLUS
 - HPE - DL365 Gen11
 - HPE - DL380 Gen10
 - HPE - DL380 Gen10 PLUS
 - HPE - DL380 Gen11
+- HPE - DL380 Gen12
 - HPE - DL380a Gen11
+- HPE - DL380a Gen12
 - HPE - DL385 Gen10 PLUS
 - HPE - DL385 Gen11
 - HPE - DL560 Gen11
@@ -84,6 +89,7 @@ Applicants can apply for the EEG through the [Business Grants Portal (BGP)](http
 - HPE - ML30 Gen10 PLUS
 - HPE - ML30 Gen11
 - HPE - ML350 Gen11
+- HPE - ML350 Gen12
 - HPE - RL300 Gen11
 - HPE - SuperDome Flex 280
 - HPE - Synergy 480 Gen11
@@ -111,7 +117,7 @@ Applicants can apply for the EEG through the [Business Grants Portal (BGP)](http
 - Lenovo - SR635 V3
 - Lenovo - SR655 V3
 - Lenovo - SR675 V3
-- SuperMicro - AS -1115HS-TNR 
+- SuperMicro - AS -1115HS-TNR
 - SuperMicro - AS -2014S-TR, LA26-R9H12, LA26-R10H12, LA26-9, LA26-10
 - SuperMicro - AS -2015HS-TNR
 - SuperMicro - AS -2025HS-TNR
@@ -121,7 +127,7 @@ Applicants can apply for the EEG through the [Business Grants Portal (BGP)](http
 - SuperMicro - AS-1115CS-TNR
 - SuperMicro - SSG-121E-NES24R, 126ES2-R20X13, 126E32-R16X13
 - SuperMicro - SYS-121H-TNR, HS119-R20X13, HS119-20
-- SuperMicro - SYS-211GT-HNTR, SYS-211GT-HNC8R, SYS-211GT-HNTF, SYS-211GT-HNC8F, GT214BR-4N, GT214BR-R22X13 GT214BR-R30X13, GT214BF-4N, GT214BF-R22X13, GT214BF-R30X13
+- SuperMicro - SYS-211GT-HNTR, SYS-211GT-HNC8R, SYS-211GT-HNTF, SYS-211GT-HNC8F, GT214BR-4N, GT214BR-R22X13, GT214BR-R30X13, GT214BF-4N, GT214BF-R22X13, GT214BF-R30X13
 - SuperMicro - SYS-221BT-DNTR
 - SuperMicro - SYS-221BT-HNC8R
 - SuperMicro - SYS-221H-TN24R, SYS-221H-TNR, HS219-R20X13, HS219-20
@@ -149,6 +155,5 @@ Applicants can apply for the EEG through the [Business Grants Portal (BGP)](http
 - xFusion - G5500 V6
 - xFusion - G5500 V7
 - xFusion - G8600 V7
-
 
 <script src='/jquery/resize-tables.js'></script>
