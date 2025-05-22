@@ -18,7 +18,7 @@ Land Transport Authority (LTA)
 
 <p>Please refer to our <a href="https://onemotoring.lta.gov.sg/content/onemotoring/home/driving/vocational_licence/vocational_licence_application.html" target="_blank" rel="noopener">OneMotoring</a> website for more details.</p>
 
-<strong data-stringify-type="bold">Note:&nbsp;</strong>For Singapore Citizen/Singapore Permanent Resident, your licence application/renewal will require up-to-date MediSave contributions - either paid in full or have an active GIRO arrangement with CPF Board.</p>
+<p><strong data-stringify-type="bold">Note:&nbsp;</strong>For Singapore Citizen/Singapore Permanent Resident, your licence application/renewal will require up-to-date MediSave contributions - either paid in full or have an active GIRO arrangement with CPF Board.</p>
 
 <p>To check your MediSave payment status or make payment arrangements for any outstanding MediSave payable, please visit the Self-employment dashboard, which you can access via <a href="https://cpf.gov.sg/MydashboardsFAQ" target="_blank" rel="noopener">cpf.gov.sg/MydashboardsFAQ</a> (Self-employment). Find out more about growing your CPF savings as a self-employed person at <a href="https://cpf.gov.sg/selfemployedmatters" target="_blank" rel="noopener">cpf.gov.sg/selfemployedmatters</a>.</p>
 
