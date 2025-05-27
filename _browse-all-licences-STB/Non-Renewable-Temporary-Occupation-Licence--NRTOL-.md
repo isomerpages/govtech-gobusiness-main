@@ -8,7 +8,7 @@ third_nav_title: Singapore Tourism Board (STB)
 
 Singapore Tourism Board (STB)
 
-{% include button.html text="Apply on STB" src="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/licensing-overview/non-renewable-temporary-occupation-licence.html" type="primary" %}
+{% include button.html text="Apply on STB" src="https://www.stb.gov.sg/licensing-support/licenses/non-renewable-temporary-occupant-licence" type="primary" %}
 
 <H3>Application Details</H3>
 

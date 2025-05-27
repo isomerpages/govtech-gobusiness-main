@@ -353,7 +353,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 
 ## Public Events & Entertainment
 - [Fund raising Permit](https://www.charities.gov.sg/Pages/Fund-Raising/Types-of-FR-Permits/Fund-Raising-for-Local-Charitable-Purposes.aspx)
-- [Non-Renewable Temporary Occupation Licence (NRTOL)](https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/licensing-overview/non-renewable-temporary-occupation-licence.html)
+- [Non-Renewable Temporary Occupation Licence (NRTOL)](https://www.stb.gov.sg/licensing-support/licenses/non-renewable-temporary-occupant-licence)
 - [Notice of Intention to Organise an Event](https://dashboard.gobusiness.gov.sg/task-details/organise-event)
 - [Police Permit for Assembly or Procession](https://dashboard.gobusiness.gov.sg/task-details/assembly-procession)
 - [Police Permit for Public Talk](https://dashboard.gobusiness.gov.sg/task-details/public-talk)
