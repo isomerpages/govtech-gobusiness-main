@@ -359,7 +359,6 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Police Permit for Public Talk](https://dashboard.gobusiness.gov.sg/task-details/public-talk)
 - [Public Entertainment Licence](https://dashboard.gobusiness.gov.sg/task-details/publicentertainment)
 - [Public Entertainment Licence - Notification to Police of Exempted Public Entertainments or Arts Entertainment](https://dashboard.gobusiness.gov.sg/task-details/notificationtopoliceofexemptedpeae)
-- [Safe Management Measures for MICE Event](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-MICE.html)
 
 <a name="real-estate-and-property"></a>
 
