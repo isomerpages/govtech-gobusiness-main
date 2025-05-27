@@ -45,11 +45,6 @@ The [SkillsFuture for Business User Guide](https://skillsfuture.gobusiness.gov.s
 - [Continuing Professional Development Courses](https://www.cea.gov.sg/cpd){:target="_blank"}{:rel="noopener"}
   <br>Enrol for Continuing Professional Development (CPD) courses, a key component in CEA's framework to achieve higher professional standards in the real estate agency industry.
 
-**Public Utilities Board (PUB)**
-
-- [Payment for Singapore Water Academy Courses](https://app.pub.gov.sg/epay/Pages/PaySGWaterAcademyCourses.aspx){:target="_blank"}{:rel="noopener"}
-  <br>Make online payment for Singapore Water Academy (SgWA) courses.
-
 **Singapore Accreditation Council**
 
 - [eLearning Portal](https://lms.wizlearn.com/sacelearning/Login/Login.aspx?returnUrl=/sacelearning/){:target="_blank"}{:rel="noopener"}
