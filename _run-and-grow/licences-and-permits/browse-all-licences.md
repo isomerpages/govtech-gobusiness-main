@@ -261,8 +261,8 @@ Select an industry to see a list of relevant licences here. You can also browse 
 <a name="health-and-wellness-services"></a>
 
 ## Health & Wellness Services
-- [Clinical Laboratory Licence](https://www.moh.gov.sg/licensing-and-regulation/information-for-laboratories)
-- [Clinical X-Ray Laboratory Licence](https://www.moh.gov.sg/licensing-and-regulation/information-for-laboratories)
+- [Clinical Laboratory Licence](https://www.moh.gov.sg/others/health-regulation/healthcare-services-regulation-and-licensing)
+- [Clinical X-Ray Laboratory Licence](https://www.moh.gov.sg/others/health-regulation/healthcare-services-regulation-and-licensing)
 - [Community Health Centre](https://elis.moh.gov.sg/elis/index.do?task=home)
 - [Dental Clinic Licence](https://elis.moh.gov.sg/elis/index.do?task=home)
 - [Hospital Licence](https://elis.moh.gov.sg/elis/index.do?task=home)
