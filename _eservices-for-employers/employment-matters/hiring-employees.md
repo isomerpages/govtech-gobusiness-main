@@ -14,9 +14,6 @@ Learn more about them in our [Start-up Guide](/start-a-business/hire-employees/)
 
 ### Job Portals
 
-- [National Council of Social Service](https://e-services.ncss.gov.sg/LoginRequest){:target="_blank"}{:rel="noopener"}
-  <br>Post job listings in the social service sector.
-
 - [SkillsFutureSG](https://employer.mycareersfuture.gov.sg/){:target="_blank"}{:rel="noopener"}
   <br>Post job listings on SkillsFutureSG's job portal.
 
