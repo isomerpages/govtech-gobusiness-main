@@ -261,8 +261,8 @@ Select an industry to see a list of relevant licences here. You can also browse 
 <a name="health-and-wellness-services"></a>
 
 ## Health & Wellness Services
-- [Clinical Laboratory Licence](https://www.moh.gov.sg/licensing-and-regulation/information-for-laboratories)
-- [Clinical X-Ray Laboratory Licence](https://www.moh.gov.sg/licensing-and-regulation/information-for-laboratories)
+- [Clinical Laboratory Licence](https://www.moh.gov.sg/others/health-regulation/healthcare-services-regulation-and-licensing)
+- [Clinical X-Ray Laboratory Licence](https://www.moh.gov.sg/others/health-regulation/healthcare-services-regulation-and-licensing)
 - [Community Health Centre](https://elis.moh.gov.sg/elis/index.do?task=home)
 - [Dental Clinic Licence](https://elis.moh.gov.sg/elis/index.do?task=home)
 - [Hospital Licence](https://elis.moh.gov.sg/elis/index.do?task=home)
@@ -353,13 +353,12 @@ Select an industry to see a list of relevant licences here. You can also browse 
 
 ## Public Events & Entertainment
 - [Fund raising Permit](https://www.charities.gov.sg/Pages/Fund-Raising/Types-of-FR-Permits/Fund-Raising-for-Local-Charitable-Purposes.aspx)
-- [Non-Renewable Temporary Occupation Licence (NRTOL)](https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/licensing-overview/non-renewable-temporary-occupation-licence.html)
+- [Non-Renewable Temporary Occupation Licence (NRTOL)](https://www.stb.gov.sg/licensing-support/licenses/non-renewable-temporary-occupant-licence)
 - [Notice of Intention to Organise an Event](https://dashboard.gobusiness.gov.sg/task-details/organise-event)
 - [Police Permit for Assembly or Procession](https://dashboard.gobusiness.gov.sg/task-details/assembly-procession)
 - [Police Permit for Public Talk](https://dashboard.gobusiness.gov.sg/task-details/public-talk)
 - [Public Entertainment Licence](https://dashboard.gobusiness.gov.sg/task-details/publicentertainment)
 - [Public Entertainment Licence - Notification to Police of Exempted Public Entertainments or Arts Entertainment](https://dashboard.gobusiness.gov.sg/task-details/notificationtopoliceofexemptedpeae)
-- [Safe Management Measures for MICE Event](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-MICE.html)
 
 <a name="real-estate-and-property"></a>
 

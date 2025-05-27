@@ -11,7 +11,7 @@ image: /images/news/Keynote at The Singapore Business Show 2022.jpg
 <!-- TODO: Check with YX on the actual "preview" property. Might need to remove for this particular tag -->
 ![GoBusiness x The Singapore Business Show 2022](/images/news/Keynote at The Singapore Business Show 2022.jpg)
 
-The Business Show 2022 will be held in Singapore for the first time ever, gathering entrepreneurs and business leaders for a 2-day conference and exhibition. The speaker lineup includes [Simon Ang](https://www.singaporebusinessshow.com/speakers/simon-ang/){:target="_blank"}{:rel="noopener"}, Deputy Director, Product Management, GovTech Singapore, who will deliver his keynote speech, “How SMEs in Singapore Can Benefit From GoBusiness” on 28 September at 3.30pm.
+The Business Show 2022 will be held in Singapore for the first time ever, gathering entrepreneurs and business leaders for a 2-day conference and exhibition. The speaker lineup includes Simon Ang, Deputy Director, Product Management, GovTech Singapore, who will deliver his keynote speech, “How SMEs in Singapore Can Benefit From GoBusiness” on 28 September at 3.30pm.
 
 **Event dates:**
  - 28 Sep Wednesday (10am - 5pm) 

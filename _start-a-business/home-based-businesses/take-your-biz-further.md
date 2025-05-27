@@ -76,9 +76,9 @@ Opening a retail outlet to sell items directly to consumers requires more admini
 
 2. Second, get land use approval for premises. Use the [e-Adviser for Premise Use Check](https://eadviser.gobusiness.gov.sg/premisesusecheck?src=hbb){:target="_blank"}{:rel="noopener"} to check if a property is approved for your intended use.
 
-3. Third, apply for relevant licenses depending on the nature of products offered. You can find relevant licences via [e-Advisers for Licences](/licences/find-licence-by-sector/?src=hbb){:target="_blank"}{:rel="noopener"}. For food service business owners, check out the [Food Services Licence Guided Journey](https://foodservices.gobusiness.gov.sg/licences/foodservices/?src=hbb){:target="_blank"}{:rel="noopener"}.
+3. Third, apply for relevant licenses depending on the nature of products offered. You can find relevant licences via [e-Advisers for Licences](/licences/find-licence-by-sector/?src=hbb){:target="_blank"}{:rel="noopener"}.
 
-3. Fourth, hire employees.
+4. Fourth, hire employees.
 
 <hr>
 

@@ -226,7 +226,7 @@
     - title: Ministry of Home Affairs (MHA)
       content: |
         | **Licence Name** | **Log In To** |
-        |Registry of Societies|[MHA](https://www.ros.mha.gov.sg/){:target="_blank"}{:rel="noopener"}|
+        |Registry of Societies|[MHA](https://www.mha.gov.sg/mha-e-services/ros/registered-societies){:target="_blank"}{:rel="noopener"}|
     - title: Ministry of Law (MINLAW)
       content: |
         | **Licence Name** | **Log In To** |
@@ -243,8 +243,8 @@
     - title: Ministry of Health (MOH)
       content: |
         | **Licence Name** | **Log In To** |
-        |Clinical Laboratory Licence|[MOH](https://www.moh.gov.sg/licensing-and-regulation/information-for-laboratories){:target="_blank"}{:rel="noopener"}|
-        |Clinical X-Ray Laboratory Licence|[MOH](https://www.moh.gov.sg/licensing-and-regulation/information-for-laboratories){:target="_blank"}{:rel="noopener"}|
+        |Clinical Laboratory Licence|[MOH](https://www.moh.gov.sg/others/health-regulation/healthcare-services-regulation-and-licensing){:target="_blank"}{:rel="noopener"}|
+        |Clinical X-Ray Laboratory Licence|[MOH](https://www.moh.gov.sg/others/health-regulation/healthcare-services-regulation-and-licensing){:target="_blank"}{:rel="noopener"}|
         |Community Health Centre|[MOH](https://elis.moh.gov.sg/elis/index.do?task=home){:target="_blank"}{:rel="noopener"}|
         |Dental Clinic Licence|[MOH](https://elis.moh.gov.sg/elis/index.do?task=home){:target="_blank"}{:rel="noopener"}|
         |Hospital Licence|[MOH](https://elis.moh.gov.sg/elis/index.do?task=home){:target="_blank"}{:rel="noopener"}|
@@ -276,7 +276,6 @@
       content: |
         | **Licence Name** | **Log In To** |
         |Licence for Residential Care Facilities|[GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/mylicences/dueForRenewal){:target="_blank"}{:rel="noopener"}|
-        |SDNTrust Accreditation|[MSF](https://www.sdn.sg/fordatingindustry/Pages/SDNTrustAccreditationFramework.aspx){:target="_blank"}{:rel="noopener"}|
     - title: Majlis Ugama Islam Singapura (Muis)
       content: |
         | **Licence Name** | **Log In To** |
@@ -450,8 +449,7 @@
     - title: Singapore Tourism Board (STB)
       content: |
         | **Licence Name** | **Log In To** |
-        |Non-Renewable Temporary Occupation Licence (NRTOL)|[STB](https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/licensing-overview/non-renewable-temporary-occupation-licence.html){:target="_blank"}{:rel="noopener"}|
-        |Safe Management Measures for MICE Event|[STB](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-MICE.html){:target="_blank"}{:rel="noopener"}|
+        |Non-Renewable Temporary Occupation Licence (NRTOL)|[STB](https://www.stb.gov.sg/licensing-support/licenses/non-renewable-temporary-occupant-licence){:target="_blank"}{:rel="noopener"}|
         |Tourist Guide Licence|[STB](https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/licensing-overview/tourist-guide-licence.html){:target="_blank"}{:rel="noopener"}|
         |Travel Agent Licence|[STB](https://trust.stb.gov.sg/public/public/ta-application-preamble){:target="_blank"}{:rel="noopener"}|
 - accordion:

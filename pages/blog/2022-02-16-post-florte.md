@@ -51,7 +51,7 @@ Due to the pandemic, the price of flowers also increased which led to the challe
 
 For her business to continue operating amid the disruptions, Angeline looked up on the safe management requirements for her sector, as well as government support schemes that her company could be eligible for. 
 
-She chanced upon GoBusiness where she successfully applied for the [Productivity Solutions Grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant/){:target="_blank"}{:rel="noopener"}. She shares that the platform made the application process much easier.  
+She chanced upon GoBusiness where she successfully applied for the [Productivity Solutions Grant](https://www.enterprisesg.gov.sg/financial-support/productivity-solutions-grant){:target="_blank"}{:rel="noopener"}. She shares that the platform made the application process much easier.  
 
 “All the information I need [is] more concentrated in one platform”, she says. “It saved me quite a bit of time from looking through multiple websites to find what I need.” 
 

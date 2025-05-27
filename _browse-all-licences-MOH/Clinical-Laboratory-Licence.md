@@ -10,7 +10,7 @@ Ministry of Health (MOH)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on MOH" src="https://www.moh.gov.sg/licensing-and-regulation/information-for-laboratories" type="primary" %}
+{% include button.html text="Apply on MOH" src="https://www.moh.gov.sg/others/health-regulation/healthcare-services-regulation-and-licensing" type="primary" %}
 
 <H3>Application Details</H3>
 

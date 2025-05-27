@@ -29,7 +29,7 @@ The [SkillsFuture for Business User Guide](https://skillsfuture.gobusiness.gov.s
 - [e-Adviser for Skills Training](https://eadviser.gobusiness.gov.sg/skillstraining?src=eservices_training){:target="_blank"}{:rel="noopener"}
   <br>For business owners to get personalised recommendations on skills training courses and SkillsFuture initiatives relevant to your business as part of the SkillsFuture Movement.
 
-- [Claim Absentee Payroll (AP) Funding](https://psgsfts.enterprisejobskills.gov.sg/Callbackhandler/Prelogin.aspx){:target="_blank"}{:rel="noopener"}
+- [Claim Absentee Payroll (AP) Funding](https://skillsfuture.gobusiness.gov.sg/support-and-programmes/funding/absentee-payroll-funding){:target="_blank"}{:rel="noopener"}
   <br>Submit a claim for AP when your employees complete the course.
 
 - [Check SkillsFuture Enterprise Credit (SFEC) Balance](https://sfec.enterprisejobskills.gov.sg/Callbackhandler/Prelogin.aspx){:target="_blank"}{:rel="noopener"}
@@ -44,11 +44,6 @@ The [SkillsFuture for Business User Guide](https://skillsfuture.gobusiness.gov.s
 
 - [Continuing Professional Development Courses](https://www.cea.gov.sg/cpd){:target="_blank"}{:rel="noopener"}
   <br>Enrol for Continuing Professional Development (CPD) courses, a key component in CEA's framework to achieve higher professional standards in the real estate agency industry.
-
-**Public Utilities Board (PUB)**
-
-- [Payment for Singapore Water Academy Courses](https://app.pub.gov.sg/epay/Pages/PaySGWaterAcademyCourses.aspx){:target="_blank"}{:rel="noopener"}
-  <br>Make online payment for Singapore Water Academy (SgWA) courses.
 
 **Singapore Accreditation Council**
 

@@ -25,10 +25,6 @@ If you have newly registered your business or intend to register for one, check 
 - [Basic Guide for Self-Employed Persons](https://www.iras.gov.sg/taxes/individual-income-tax/self-employed/new-to-self-employed-income/a-self-employed-person's-tax-obligations/basic-guide-for-self-employed-persons){:target="_blank"}{:rel="noopener"}
 - [Basic Guide for Partnerships](https://www.iras.gov.sg/taxes/individual-income-tax/partnerships/new-to-partnerships/partnerships-tax-obligations/basic-guide-for-partnerships){:target="_blank"}{:rel="noopener"}
 
-After registering for your business, access the Start-Up Kit for customised information to guide you in your first Income Tax Return filing with IRAS.
-
-- [New Sole Proprietorship and Partnership Start-Up Kit](https://www.iras.gov.sg/taxes/individual-income-tax/self-employed/new-to-self-employed-income/sole-proprietorship-start-up-kit ){:target="_blank"}{:rel="noopener"}
-
 **Corporate income tax filing for new companies**
 
 If you have newly incorporated a company or intend to incorporate one, check out the following guide to learn more.
