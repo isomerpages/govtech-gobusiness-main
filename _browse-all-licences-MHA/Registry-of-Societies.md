@@ -10,7 +10,7 @@ Ministry of Home Affairs (MHA)
 
 {% include spcp-text.html type="sp" %}
 
-{% include button.html text="Apply on MHA" src="https://www.ros.mha.gov.sg/" type="primary" %}
+{% include button.html text="Apply on MHA" src="https://www.mha.gov.sg/mha-e-services/ros/registered-societies" type="primary" %}
 
 <H3>Application Details</H3>
 
