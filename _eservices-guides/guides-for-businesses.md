@@ -90,7 +90,7 @@ The Events Proposal Box allows event organisers to propose unique event concepts
 
 - <a href='https://eadviser.gobusiness.gov.sg/events?src=guide-for-organising-events' target='_blank' rel='noopener'>e-Adviser for Events</a><br>Receive personalised recommendations on licences and permits required for your event, and be guided through the application to reduce processing delays.
 
-- <a href='https://go.gov.sg/z6he6v' target='_blank' rel='noopener'>Proposal Box for MICE Event</a><br>Submit a proposal for an innovative MICE event that positions Singapore as the choice destination for business tourism. For proposals that include a request for government funding, please find out more about <a href='https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/assistance-and-licensing.html' target='_blank' rel='noopener'>STB's various assistance schemes</a>.
+- <a href='https://go.gov.sg/z6he6v' target='_blank' rel='noopener'>Proposal Box for MICE Event</a><br>Submit a proposal for an innovative MICE event that positions Singapore as the choice destination for business tourism. For proposals that include a request for government funding, please find out more about <a href='https://www.stb.gov.sg/licensing-support/assistance-programmes/' target='_blank' rel='noopener'>STB's various assistance schemes</a>.
 
 - <a href='https://go.gov.sg/7774bj' target='_blank' rel='noopener'>Proposal Box for Sport and Fitness Event</a><br>Submit a proposal for a sporting event that could contribute to Singapore's sporting, social, and economic outcomes, or has potential to showcase Singapore as a sporting event host.
 

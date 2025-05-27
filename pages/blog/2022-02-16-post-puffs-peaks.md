@@ -67,7 +67,4 @@ While there will always be difficulties in running a business, Kalyang faces eac
 Today, the humble bakery constantly sells out of their bakes and receives rave reviews from customers and food bloggers alike. And while Kalyang hopes to eventually expand, her vision for the space goes back to how it all started – an environment that is close-knit, like family. 
 
 
-Looking for guidance on how to set up your first F&B establishment? Check out GoBusiness’ [guide on starting a food service business](https://foodservices.gobusiness.gov.sg/licences/foodservices?src=gobiz_blog){:target="_blank"}{:rel="noopener"}. 
-
-
 <em> This article is accurate as at 16 Feb 2022</em>

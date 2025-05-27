@@ -10,7 +10,7 @@ Land Transport Authority (LTA)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on LTA" src="https://www.lta.gov.sg/content/ltagov/en/industry_innovations/industry_matters/development_construction_resources/vehicle-parking-proposals/codes_forms_and_epayment_services.html" type="primary" %}
+{% include button.html text="Apply on LTA" src="https://www.lta.gov.sg/content/ltagov/en/industry_innovations/industry_matters/development_construction_resources/vehicle_parking/requirements_for_vehicle_parking_proposals.html" type="primary" %}
 
 <H3>Application Details</H3>
 

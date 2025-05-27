@@ -33,14 +33,14 @@ Ministry of Education (MOE)
 <p>1. &nbsp; &nbsp;<strong>What conditions do I need to fulfil?</strong><br>Please refer to MOE&apos;s website on How to register at <a href="https://www.moe.gov.sg/private-education/register-school/how-to-register" target="_blank" rel="noopener">https://www.moe.gov.sg/private-education/register-school/how-to-register</a> for more information.&nbsp;</p> 
 <p>2. &nbsp; &nbsp;<strong>How long is this licence valid?</strong><br>The Certificate of Registration of School does not require renewal, but private schools must update information on teachers, courses, school name and address when necessary. Additionally, the Committee of Management of the School (SMC) would need to be re-registered every 3 years.</p> 
 <p>Please refer to <a href="https://www.moe.gov.sg/private-education" target="_blank" rel="noopener">https://www.moe.gov.sg/private-education</a> for information on the amendment process.</p> 
-<p>3. &nbsp; &nbsp;<strong>Who can I contact for further details on Private Schools?</strong><br>You may refer to&nbsp;<a href="https://www.moe.gov.sg/private-education" target="_blank" rel="noopener">https://www.moe.gov.sg/private-education</a> for more information about Private Schools.<br>For further assistance, please contact MOE Customer Service Executives at 6872 2220, or e-mail us at <a href="moe_pss@moe.gov.sg" target="_blank" rel="noopener">moe_pss@moe.gov.sg</a>.</p>
+<p>3. &nbsp; &nbsp;<strong>Who can I contact for further details on Private Schools?</strong><br>You may refer to&nbsp;<a href="https://www.moe.gov.sg/private-education" target="_blank" rel="noopener">https://www.moe.gov.sg/private-education</a> for more information about Private Schools.<br>For further assistance, please contact MOE Customer Service Executives at 6872 2220, or e-mail us at <a href="mailto:moe_pss@moe.gov.sg" target="_blank" rel="noopener">moe_pss@moe.gov.sg</a>.</p>
 
 <strong>Additional Information</strong>
 
 <p>$392.52 (before GST)</p> 
 <p>Please note that the fee is <u><strong>NON- REFUNDABLE</strong></u>, even if the application is rejected for any&nbsp;reason.</p> 
 <p>Please ensure that all the information submitted online is correct and accurate.</p> 
-<p>If you need clarification on whether your school needs to be registered, please send an email to <a href="moe_pss@moe.gov.sg" target="_blank" rel="noopener">moe_pss@moe.gov.sg</a> before submitting the online application.</p>
+<p>If you need clarification on whether your school needs to be registered, please send an email to <a href="mailto:moe_pss@moe.gov.sg" target="_blank" rel="noopener">moe_pss@moe.gov.sg</a> before submitting the online application.</p>
 
 <H3>Documents Needed</H3>
 
