@@ -29,7 +29,7 @@ The [SkillsFuture for Business User Guide](https://skillsfuture.gobusiness.gov.s
 - [e-Adviser for Skills Training](https://eadviser.gobusiness.gov.sg/skillstraining?src=eservices_training){:target="_blank"}{:rel="noopener"}
   <br>For business owners to get personalised recommendations on skills training courses and SkillsFuture initiatives relevant to your business as part of the SkillsFuture Movement.
 
-- [Claim Absentee Payroll (AP) Funding](https://psgsfts.enterprisejobskills.gov.sg/Callbackhandler/Prelogin.aspx){:target="_blank"}{:rel="noopener"}
+- [Claim Absentee Payroll (AP) Funding](https://skillsfuture.gobusiness.gov.sg/support-and-programmes/funding/absentee-payroll-funding){:target="_blank"}{:rel="noopener"}
   <br>Submit a claim for AP when your employees complete the course.
 
 - [Check SkillsFuture Enterprise Credit (SFEC) Balance](https://sfec.enterprisejobskills.gov.sg/Callbackhandler/Prelogin.aspx){:target="_blank"}{:rel="noopener"}
