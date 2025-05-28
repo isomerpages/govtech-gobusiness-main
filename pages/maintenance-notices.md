@@ -24,5 +24,7 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 | 31 May, 8am - 4pm | **LTA e-Services for Vocational Licence renewal (i.e. Taxi Driver, Private Car Driver, Bus Driver and Bus Attendant** will be unavailable during the upcoming scheduled maintenance. |   
 
 
-
+am
 <script src="/jquery/jquery.min.js"></script> <script src="/jquery/resize-tables.js"></script>
+//MINLAW maintenance, licences not available on every Friday 6pm to midnight
+//APEX maintenance every 1st Sunday 12am-2am
