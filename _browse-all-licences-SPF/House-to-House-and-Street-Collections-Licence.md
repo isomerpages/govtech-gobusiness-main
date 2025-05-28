@@ -10,14 +10,8 @@ Singapore Police Force (SPF)
 
 {% include spcp-text.html type="cp" %}
 
-{% include licence-apply-button.html %}
-<a class="btn" id = "desktopNotice" href="https://dashboard.gobusiness.gov.sg/task-details/house-house-street-collections" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>
-<div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-size: 18px; color: #313840;">
-<img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;">
-<span style="font-weight: bold; font-family: hknova-bold; font-size: 18px; ">Please use desktop / laptop to apply for this licence.</span><br>
-<span style="font-family: hknova-regular;">You can only view application details and make payment via mobile. Please use GoBusiness Dashboard on desktop to use all features.</span><br><br>
-<a id="mobileNotice" href="https://dashboard.gobusiness.gov.sg/task-details/house-house-street-collections" target="_blank" rel="noopener">Continue to GoBusiness Dashboard anyway</a>
-</div>
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/house-house-street-collections" type="primary" %}
+
 <H3>Application Details</H3>
 
 <p>A House to House and Street Collections licence (HHSC) is required if one promotes a collection by way of appealing to the public, made by means of visits from house to house or of soliciting in streets or other places or by both such means, for money or other property</p>
@@ -29,7 +23,6 @@ Singapore Police Force (SPF)
 <li>
 <strong>Do I need to apply for a House to House and Street Collections licence if I need to raise funds from members of public?</strong><br>
 A HHSC licence is not required if the beneficiary is a registered charity, exempt charity, or the fund-raising appeal for foreign charitable purpose is by a person who has been approved by the Commissioner of Charities. However, you would need to comply with the Charities Act 1994.<br>
-<br>
 Please refer to <a href="http://www.charities.gov.sg">www.charities.gov.sg</a> for more details.
 </li>
 
@@ -143,7 +136,7 @@ Failure to submit all the required documents will result in the rejection of the
 </strong><br>
 For funds raising or collections events in shopping centre premises, the applicant is also required to obtain prior approvals from the premises management.
 <br><br>
-The prior approval from the shopping centre management is required to be submitted to Police Licensing and Regulatory Department (PLRD) before the application can be processed. Thereafter, the application will take at least 14 working days to process upon the receipt of the approval from the premises management and all other required supporting documents.
+The prior approval from the shopping centre management is required to be submitted to Police Regulatory Department (PRD) before the application can be processed. Thereafter, the application will take at least 14 working days to process upon the receipt of the approval from the premises management and all other required supporting documents.
 </li>
 
 
@@ -152,7 +145,7 @@ The prior approval from the shopping centre management is required to be submitt
 </strong><br>
 The applicant is required to submit a supporting letter from their respective Student Affairs Office together with the online application.
 <br><br>
-The supporting letter is required to be submitted to Police Licensing and Regulatory Department before the application can be processed. The application will take at least ten working days to process upon the receipt of the supporting letter and all other required supporting documents.
+The supporting letter is required to be submitted to Police Regulatory Department (PRD) before the application can be processed. The application will take at least ten working days to process upon the receipt of the supporting letter and all other required supporting documents.
 </li>
 
 <li>
@@ -165,7 +158,7 @@ For any fund raising activity or collections along Orchard Road, an applicant is
 <strong>What are the regulations for House to House Streets Collection (HHSC) licence?</strong><br>
 For information on the regulations under the House to House and Street Collections Act, please click here.
 <br>
-The Licensing Officer may also impose additional licensing conditions which will be stated in the issued House to House and Street Collections licence. 
+The Regulatory Officer may also impose additional licensing conditions which will be stated in the issued House to House and Street Collections licence. 
 </li>
 
 <li>
@@ -205,7 +198,6 @@ A police report is only required if the donation card is suspected to be stolen.
 
 
 </ol> 
-
 
 
 <H3>Documents Needed</H3>
