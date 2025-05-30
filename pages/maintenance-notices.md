@@ -27,6 +27,3 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 
 
 <script src="/jquery/jquery.min.js"></script> <script src="/jquery/resize-tables.js"></script>
-//MINLAW maintenance, licences not available on every Friday 6pm to midnight
-//APEX maintenance every 1st Sunday 12am-2am
-//IMDA every last sunday of the month 12am-8am
