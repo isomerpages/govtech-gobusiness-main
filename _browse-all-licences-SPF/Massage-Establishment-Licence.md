@@ -91,7 +91,7 @@ Maximum upload per application: 2 MB
 File format: pdf,jpg,gif,doc,docx<br>
 Maximum upload per application: 2 MB
 </li>
-<li><strong>List of employees and their professional certificates recognised by Police Licensing Division</strong><br />A list of particulars of all the employees and Recognised training certificates of therapists/masseuses (to meet the requirement of having at least 80% of certified therapists/masseuses)<br>
+<li><strong>List of employees and their professional certificates recognised by Police Regulatory Department</strong><br />A list of particulars of all the employees and Recognised training certificates of therapists/masseuses (to meet the requirement of having at least 80% of certified therapists/masseuses)<br>
 File format: pdf,jpg,gif,doc,docx<br>
 Maximum upload per application: 2 MB
 <br>
