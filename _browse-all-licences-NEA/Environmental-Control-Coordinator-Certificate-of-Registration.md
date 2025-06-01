@@ -26,6 +26,5 @@ National Environment Agency (NEA)
 
 <strong>Additional Information</strong>
 
-<p><strong>Fees<br></strong>Environmental Control Coordinator Certificate: $160.00</p>
-<p> Please note that the fees will be revised to $200.00, effective from 1st June 2025.</p>
+<p><strong>Fees<br></strong>Environmental Control Coordinator Certificate: $200.00</p>
 
