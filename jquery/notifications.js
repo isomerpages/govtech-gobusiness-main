@@ -7,7 +7,6 @@ const custom_notifications = [
   //multiple services
   "<b>[Attention: System Maintenance]</b> Certain GoBusiness services will be unavailable due to upcoming maintenance. Please check our <B><u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>maintenance schedule</a></u></B> for details.", 
   "<b>[Attention: Important Announcement]</b> For enquiries related to Private Investigator & Security Officer Staff Grade, Training Status, Training Records and Notification of Employment, including Records of Deployment sites submitted by Security Agencies, please visit the e-services in SPF website at <u><a href='https://eservices1.police.gov.sg/phub/eservices/landingpage/enquiry-on-private-security-licence' target='_blank' rel='noopener'>https://eservices1.police.gov.sg/phub/eservices/landingpage/enquiry-on-private-security-licence</a></u>.<br>",
-  "<b>[Attention: System Maintenance for NEA]</b> All NEA Licences & Submission of Returns on GoBusiness Portal will be unavailable from 29 May, 3PM to 2 Jun, 8AM for maintenance. We apologise for the inconvenience caused.",
   "<b>[Scam Advisory]</b> GoBusiness will NEVER ask you to transfer money or disclose banking details over a phone call. <u><a href='/scam-advisory/' target='_blank' rel='noopener'>Learn more</a></u>"
   
 ]; 
