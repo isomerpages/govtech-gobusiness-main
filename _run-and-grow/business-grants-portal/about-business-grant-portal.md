@@ -39,7 +39,7 @@ Alternatively, businesses simply need to select their sector and business needs 
 Approach your Corppass Admin to assign an appropriate BGP role to you and create your Corppass account. Then, log in to BGP via your Singpass.
 
 <p>
-{% include button.html text="Log In to BGP" src="https://www.businessgrants.gov.sg/?src=run&grow_bgp" type="primary" %}
+{% include button.html text="Log In to BGP" src="https://apply.gov.sg/grants/business" type="primary" %}
 </p>
 
 #### 3. Fill in company profile
