@@ -219,6 +219,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/200311122E-TNB-Intut-QuckBooks-Onln-G' target='_blank'>TNB Intuit QuickBooks Online</a><br></td>
 <td>TNB GLOBAL OUTSOURCE PTE. LTD.</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200718058D-Xro-Cloud-ACC-G' target='_blank'>Xero Cloud Accounting</a><br></td>
+<td>Advante Consulting Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
