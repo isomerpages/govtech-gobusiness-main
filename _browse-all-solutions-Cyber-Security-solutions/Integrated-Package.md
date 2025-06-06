@@ -39,6 +39,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td><a href='/productivity-solutions-grant/solutionrepo/200404442H-MICROSOFT-BUSINESS-PREMIUM-SECURITY-SUITE-G' target='_blank'>MICROSOFT BUSINESS PREMIUM SECURITY SUITE</a><br></td>
 <td>Fixics Solutions (S) Pte. Ltd.</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200508212K-Advntus-Mcrosoft-365-Busnss-Prmum-G' target='_blank'>Adventus Microsoft 365 Business Premium</a><br></td>
+<td>Adventus Singapore Pte. Ltd.</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

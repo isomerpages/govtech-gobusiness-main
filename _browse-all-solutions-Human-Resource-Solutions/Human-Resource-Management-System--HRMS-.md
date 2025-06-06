@@ -107,6 +107,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/200818854Z-WhyzHR-v-12-G' target='_blank'>WhyzeHR Version 12</a><br></td>
 <td>Whyze Solutions Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200100439R-PoplCntrl-HRMS-G' target='_blank'>PeopleCentral HRMS</a><br></td>
+<td>PEOPLE CENTRAL PTE LTD</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

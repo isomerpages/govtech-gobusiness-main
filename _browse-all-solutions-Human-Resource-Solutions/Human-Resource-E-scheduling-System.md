@@ -51,6 +51,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/201324947N-QuckHR-Schdulng-G' target='_blank'>QuickHR (e-Scheduling)</a><br></td>
 <td>Enable Business Pte. Ltd.</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200100439R-TmCntrl-G' target='_blank'>TimeCentral</a><br></td>
+<td>PEOPLE CENTRAL PTE LTD</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
