@@ -27,7 +27,7 @@ Yuen Law has gained recognition for its work in the area of Startups and Emergin
 
 <b>Offer:</b> IP Business Clinic participating service provider; Book a 20-minute complimentary consultation for IP registration and licensing matters
 
-<a class='btn' href='https://form.gov.sg/67cfa98c5ff3d5af9c43fd67' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/683d996e67715fecf2379622' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -157,6 +157,6 @@ Yuen Law has gained recognition for its work in the area of Startups and Emergin
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/67cfa98c5ff3d5af9c43fd67' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/683d996e67715fecf2379622' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 16 May 2025
+Profile last updated on 9 June 2025

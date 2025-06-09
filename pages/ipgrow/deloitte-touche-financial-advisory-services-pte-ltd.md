@@ -15,7 +15,7 @@ Deloitte Southeast Asia's Financial Advisory practice is a leading specialist in
 
 <b>Address in Singapore:</b> 6 Shenton Way, OUE Downtown 2, #33-00, Singapore 068809
 
-<b>Website:</b> <a href='https://www2.deloitte.com/sg/en/pages/financial-advisory/solutions/financial-advisory-services.html'>https://www2.deloitte.com/sg/en/pages/financial-advisory/solutions/financial-advisory-services.html</a>
+<b>Website:</b> <a href='https://www.deloitte.com/southeast-asia/en/services/consulting/services/strategy-transactions.html?icid=top_strategy-transactions'>https://www.deloitte.com/southeast-asia/en/services/consulting/services/strategy-transactions.html?icid=top_strategy-transactions</a>
 
 <a class='btn' href='https://form.gov.sg/67d004d49cd47ed14ea64603' target='_blank' rel='noopener'>Get in touch</a>
 
