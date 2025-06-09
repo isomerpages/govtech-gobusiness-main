@@ -19,7 +19,7 @@ De Mellows is a leading branding and marketing agency in Singapore and have work
 
 <b>Offer:</b> IP Business Clinic participating service provider; Free Brand Audit + Website Audit and a 1 hour free consultation With 3 Free Takeaways that can help your business.
 
-<a class='btn' href='https://form.gov.sg/67cf8f01663eae2befe92c5a' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/683d9cbccb4ece3b7c6d2374' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_2-ipgrow-company-profile %}
 
@@ -94,6 +94,6 @@ De Mellows is a leading branding and marketing agency in Singapore and have work
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/67cf8f01663eae2befe92c5a' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/683d9cbccb4ece3b7c6d2374' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 16 May 2025
+Profile last updated on 9 June 2025

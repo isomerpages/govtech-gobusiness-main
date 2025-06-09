@@ -90,7 +90,7 @@ Vallaris' mission is to get investors & capital coming to you instead of chasing
 <a name='case-studies'></a>
 ### Case studies
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://thevallaris.com/insights/?category=testimonial. Intangible Asset Valuation for HKSE IPO. Project Marble." target="_blank" rel="noopener">case study 1</a></li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://thevallaris.com/success-stories" target="_blank" rel="noopener">case study 1</a></li></ul>
 
 ---
 <a name='key-practice-experts'></a>

@@ -278,7 +278,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 ## Intellectual Property Services
 - [Patent Agent Form A (Registration as a Singapore Patent Agent)](https://dashboard.gobusiness.gov.sg/task-details/patentagentforma)
 - [Patent Agent Form C (Application for a Practising Certificate)](https://dashboard.gobusiness.gov.sg/task-details/patentagentformc)
-- [Patent Agent Form H (Registration /Renewal of Registration as a Foreign Patent Agent)](https://www.ipos.gov.sg/docs/default-source/default-document-library/form-h.docx)
+- [Patent Agent Form H (Registration /Renewal of Registration as a Foreign Patent Agent)](https://isomer-user-content.by.gov.sg/61/ddf70849-b155-480e-8867-c55df721bd08/form-h.pdf)
 
 <a name="land-transport-infrastructure"></a>
 

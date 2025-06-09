@@ -21,7 +21,7 @@ Our founder served as a trademark examiner at the Intellectual Property Office o
 
 <b>Website:</b> <a href='https://www.catandpillar.com'>https://www.catandpillar.com</a>
 
-<b>Offer:</b> 1) Free consultation for first-time clients on trademark registration related matters. 2) 10% discount on professional fees.
+<b>Offer:</b> Free consultation for first-time clients on trademark registration related matters.
 
 <a class='btn' href='https://form.gov.sg/67ce7ade76d42d8bdd537da6' target='_blank' rel='noopener'>Get in touch</a>
 
@@ -38,7 +38,7 @@ Our founder served as a trademark examiner at the Intellectual Property Office o
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 151 to 200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $250</li>
 </ul>
 
 **Registered Design Agent Services**
@@ -113,4 +113,4 @@ Our founder served as a trademark examiner at the Intellectual Property Office o
 <p>
 <a class='btn' href='https://form.gov.sg/67ce7ade76d42d8bdd537da6' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 16 May 2025
+Profile last updated on 9 June 2025

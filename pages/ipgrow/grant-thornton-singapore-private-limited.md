@@ -99,15 +99,6 @@ Grant Thornton Singapore is a leading provider of audit, tax and advisory servic
 - Certifications/Qualifications: Accredited Tax Advisor, Corporate Tax - Singapore Chartered Tax Professionals Limited, Associate Member, Institute of Singapore Chartered Accountant, Master of Economics (Monash University, Melbourne, Australia), Bachelor of Accountancy (Honours) (National University of Singapore)
 - URL of LinkedIn/Company Profile: <a href="https://www.grantthornton.sg/meet-our-people/eng-min-lor/" target="_blank" rel="noopener">https://www.grantthornton.sg/meet-our-people/eng-min-lor/</a>
 
-**Soo How Koh**
-
-- Job Title: Partner, Indirect Tax
-- Years of Experience: 25 years
-- Location: Singapore
-- IA/IP-Related Expertise: Tax Advisory (with IA/IP considerations)
-- Certifications/Qualifications: Accredited Tax Advisor (GST), Singapore Chartered Tax Professionals (SCTP), GST Committee, Singapore Chartered Tax Professionals (SCTP)
-- URL of LinkedIn/Company Profile: <a href="https://www.grantthornton.sg/meet-our-people/koh-soo-how/" target="_blank" rel="noopener">https://www.grantthornton.sg/meet-our-people/koh-soo-how/</a>
-
 **Jeremy O'Neill**
 
 - Job Title: Associate Director, Indirect Tax
@@ -122,4 +113,4 @@ Grant Thornton Singapore is a leading provider of audit, tax and advisory servic
 <p>
 <a class='btn' href='https://form.gov.sg/67d7e6c3dad03a8629668768' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 27 March 2025
+Profile last updated on 9 June 2025

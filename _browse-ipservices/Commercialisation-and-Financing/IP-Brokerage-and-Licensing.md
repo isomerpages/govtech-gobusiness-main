@@ -26,7 +26,7 @@ This is where IP brokerage and licensing professionals can come in. They act as 
 ---
 
 ### Connect with relevant service providers for IP brokerage and licensing services
-**16 service providers listed.**
+**17 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -44,6 +44,21 @@ ZYIP has offices in Singapore and China to assist clients with protection of the
 </ul>
 
 <a class='btn' href='https://form.gov.sg/67d00699e6c56d64f1444317' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/zyip-pte-ltd/){:target='_blank'}
+
+---
+
+#### Copyright Licensing and Administration Society of Singapore
+
+Government regulated non-profit organisation for copyright compliance and royalty distribution.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of transactions completed in previous calendar year:</b> 91 to 105</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/683d900943ca0dabf70b1901' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/copyright-licensing-and-administration-society-of-singapore/){:target='_blank'}
 
 ---
 

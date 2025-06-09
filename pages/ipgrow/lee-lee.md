@@ -206,20 +206,12 @@ Chambers 2023 describes Lee & Lee as having "strong reputation in litigation and
 **Jasper, Lim**
 
 - Job Title: Partner, Intellectual Property
-- Years of Experience: 7 years
+- Years of Experience: 9 years
 - Location: Singapore
 - IA/IP-Related Expertise: Trade Mark Agent Service, IP Watch, IP Audit, IP Due Diligence, IP Portfolio Management
 - Certifications/Qualifications: LL.B. (Hons) National University of Singapore 2015, Admitted to the Singapore Bar 2016
 - URL of LinkedIn/Company Profile: <a href="https://www.leenlee.com.sg/lim-jasper" target="_blank" rel="noopener">https://www.leenlee.com.sg/lim-jasper</a>
 
-**Basil, Lee**
-
-- Job Title: Partner, Intellectual Property
-- Years of Experience: 6 years
-- Location: Singapore
-- IA/IP-Related Expertise: IP Audit, IP Due Diligence, Dispute Resolution, IP Training
-- Certifications/Qualifications: LL.B. (Hons) National University of Singapore 2016, Admitted to the Singapore Bar 2017
-- URL of LinkedIn/Company Profile: <a href="https://www.leenlee.com.sg/lee-basil" target="_blank" rel="noopener">https://www.leenlee.com.sg/lee-basil</a>
 
 **Chongshuo, Yan**
 
@@ -235,4 +227,4 @@ Chambers 2023 describes Lee & Lee as having "strong reputation in litigation and
 <p>
 <a class='btn' href='https://form.gov.sg/67cea777cdf17695deb3e903' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 23 April 2025
+Profile last updated on 9 June 2025

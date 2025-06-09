@@ -5,11 +5,11 @@ permalink: /intellectual-property/ip-grow/adastra-ip-pte-ltd/
 
 ## Adastra IP Pte. Ltd.
 
-Specializing in Intellectual Property Rights globally with emphasis in Malaysia, Singapore, Philippines, Indonesia, Thailand, India, Bangladesh & Vietnam
+Adastra Intellectual Property is a full-service IP firm with a team of legal and technical professionals experienced in filing and registrations of IP to valuation and transaction of IP assets, with emphasis in Malaysia, Singapore, Philippines, Indonesia, Thailand, India, Bangladesh & Vietnam.
 
 <b>Year established in Singapore:</b> 2022
 
-<b>Top focus areas for IA/IP services:</b> Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Freedom-to-Operate (FTO), Valuation (with IA/IP considerations)
+<b>Top focus areas for IA/IP services:</b> Patent Agent Service, Trade Mark Agent Service, Valuation (with IA/IP considerations), IP Intelligence and Search
 
 <b>Intellectual property awards received:</b> IAM 100 Asia IP Experts [2021, 2022 & 2023]
 
@@ -18,6 +18,8 @@ Specializing in Intellectual Property Rights globally with emphasis in Malaysia,
 <b>Address in Singapore:</b> 133 New Bridge Road, #08-03, Chinatown Point, Singapore (059413)
 
 <b>Website:</b> <a href='https://adastraip.com/'>https://adastraip.com/</a>
+
+<b>Offer:</b> Free Trademark searches for selected ASEAN countries & complimentary access to self-managed IP profiling and assessment toolkit.
 
 <a class='btn' href='https://form.gov.sg/67d002185e7738adf64b4a38' target='_blank' rel='noopener'>Get in touch</a>
 
@@ -35,6 +37,16 @@ Specializing in Intellectual Property Rights globally with emphasis in Malaysia,
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts overseas: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $500</li>
+</ul>
+
+**Dispute Resolution Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of cases completed in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $3,500</li>
 </ul>
 
 **Freedom-to-Operate Services**
@@ -142,7 +154,7 @@ Specializing in Intellectual Property Rights globally with emphasis in Malaysia,
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate: Less than $200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: Above 300</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents in Singapore: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents overseas: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $355</li>
 </ul>
@@ -196,7 +208,7 @@ Specializing in Intellectual Property Rights globally with emphasis in Malaysia,
 - Job Title: Trademark & Patent Agent & Director
 - Years of Experience: 30+ years
 - Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Trade Mark Agent Service, IP Due Diligence, Contract Drafting
+- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Contract Drafting, Dispute Resolution
 - Certifications/Qualifications: Law Degree from the National University of Singapore (NUS)
 - Awards/Accolades: Featured in Asia Law as a Leading Lawyer in Singapore in the field of IP Law, Recognized as one of the best lawyers Singapore in the 2022 and 2023 editions of Best Lawyers
 - URL of LinkedIn/Company Profile: <a href="https://adastraip.com/about-us/" target="_blank" rel="noopener">https://adastraip.com/about-us/</a>
@@ -235,7 +247,7 @@ Specializing in Intellectual Property Rights globally with emphasis in Malaysia,
 - Job Title: Trademark & Design Specialist
 - Years of Experience: 15+ years
 - Location: Malaysia
-- IA/IP-Related Expertise: IP Watch, IP Audit, IP Due Diligence
+- IA/IP-Related Expertise: IP Watch, IP Audit, IP Due Diligence, IP Portfolio Management
 - Certifications/Qualifications: LLB Hons UK
 - URL of LinkedIn/Company Profile: <a href="https://adastraip.com/about-us/" target="_blank" rel="noopener">https://adastraip.com/about-us/</a>
 
@@ -248,9 +260,19 @@ Specializing in Intellectual Property Rights globally with emphasis in Malaysia,
 - Certifications/Qualifications: LLB Hons UK
 - URL of LinkedIn/Company Profile: <a href="https://adastraip.com/about-us/" target="_blank" rel="noopener">https://adastraip.com/about-us/</a>
 
+**Suriyia Sadanathan**
+
+- Job Title: Director of Patents
+- Years of Experience: 15 years
+- Location: Kuala Lumpur
+- IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Database, IP Intelligence and Search, IP Watch
+- Certifications/Qualifications: Registered Malaysia Patent and Industrial Design Agent
+- Awards/Accolades: Highly recommended - Individuals: patent prosecution - IAM 1000, IAM Global Leaders - 2025
+- URL of LinkedIn/Company Profile: <a href="https://adastraip.com/about-us/suriyia-sadanathan/" target="_blank" rel="noopener">https://adastraip.com/about-us/suriyia-sadanathan/</a>
+
 
 ---
 <p>
 <a class='btn' href='https://form.gov.sg/67d002185e7738adf64b4a38' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 16 May 2025
+Profile last updated on 9 June 2025

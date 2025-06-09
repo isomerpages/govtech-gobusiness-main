@@ -119,7 +119,7 @@ FT Consulting also conducts monthly IP Business Clinic sessions for IPOS.
 <a name='case-studies'></a>
 ### Case studies
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://www.consultft.com/aja-enerzorb" target="_blank" rel="noopener">case study 1</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.consultft.com/rim-polymers" target="_blank" rel="noopener">case study 2</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.consultft.com/twyst" target="_blank" rel="noopener">case study 3</a></li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://www.consultft.com/case-studies/v3-smart-technologies-group" target="_blank" rel="noopener">case study 1</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.consultft.com/case-studies/rim-polymers" target="_blank" rel="noopener">case study 2</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.consultft.com/case-studies/twyst" target="_blank" rel="noopener">case study 3</a></li></ul>
 
 ---
 <a name='key-practice-experts'></a>
@@ -167,4 +167,4 @@ FT Consulting also conducts monthly IP Business Clinic sessions for IPOS.
 <p>
 <a class='btn' href='https://form.gov.sg/67d7d1bac75b36291017173e' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 23 April 2025
+Profile last updated on 9 June 2025

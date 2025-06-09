@@ -10,7 +10,7 @@ Intellectual Property Office of Singapore (IPOS)
 
 {% include spcp-text.html type="sp" %}
 
-{% include button.html text="Apply on IPOS" src="https://www.ipos.gov.sg/docs/default-source/default-document-library/form-h.docx" type="primary" %}
+{% include button.html text="Apply on IPOS" src="https://isomer-user-content.by.gov.sg/61/ddf70849-b155-480e-8867-c55df721bd08/form-h.pdf" type="primary" %}
 
 <H3>Application Details</H3>
 
