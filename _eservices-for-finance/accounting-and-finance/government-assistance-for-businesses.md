@@ -29,7 +29,7 @@ Find out the full list of e-Services in our [Run and Grow guide](/run-and-grow/)
 
 **National Parks Board (NParks)**
 
-- [Skyrise Greenery Incentive Scheme](https://www.nparks.gov.sg/skyrisegreenery/incentive-scheme){:target="_blank"}{:rel="noopener"}
+- [Skyrise Greenery Incentive Scheme](https://skyrisegreenery.nparks.gov.sg/incentive-scheme/about/){:target="_blank"}{:rel="noopener"}
   <br>Apply for funding support to install rooftop and vertical greenery.
 
 **Prime Minister's Office (PMO)**
@@ -45,11 +45,11 @@ Find out the full list of e-Services in our [Run and Grow guide](/run-and-grow/)
 
 **Singapore Food Agency (SFA)**
 
-- <a href="https://www.sfa.gov.sg/e-services?type=food-farming&page=1" target="_blank" rel="noopener">Basic Capability Upgrading (BCU) Scheme</a>
-  <br>Apply for co-funding support of equipment to help increase your farm's productivity.
+- [Capability Upgrading (CU) Scheme](https://www.sfa.gov.sg/recognition-programmes-grants/grants/agri-food-cluster-transformation-act-fund){:target="_blank"}{:rel="noopener"}
+  <br>Apply for co-funding support of farming equipment and systems for small-scale pilot trials to raise productivity, improve resource efficiency, or reduce pollution and waste.
 
-- [Productivity Enhancement Scheme](https://www.sfa.gov.sg/docs/default-source/e-service/food/apfformpe-v1_vet.doc){:target="_blank"}{:rel="noopener"}
-  <br>Apply for co-funding support of automated, advanced and integrated farming systems to help farms increase productivity.
+- [Technology Upscaling (TU) Scheme](https://www.sfa.gov.sg/recognition-programmes-grants/grants/agri-food-cluster-transformation-act-fund){:target="_blank"}{:rel="noopener"}
+  <br>Apply for co-funding support to set up a large commercial-scale high-tech farm that is highly productive and resource-efficient.
 
 **Singapore Tourism Board (STB)**
 
