@@ -24,7 +24,7 @@ With a successful brand strategy, your business can enhance the appeal of its pr
 ---
 
 ### Connect with relevant service providers for branding strategy services
-**57 service providers listed.**
+**58 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -194,9 +194,10 @@ Tangible help align brands with organisations' Vision, Mission & Values through 
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 21 to 25</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $100,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/67d7d619622b925cdd32a0bd' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/tangible-brand-consultants/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/683d9e0219a02aedb8e4bfa8' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/tangible-brand-consultants/){:target='_blank'}
 
 ---
 
@@ -339,7 +340,7 @@ A proven branding agency that can generate results .. guaranteed.
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider; Free Brand Audit + Website Audit and a 1 hour free consultation With 3 Free Takeaways that can help your business.</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/67cf8f01663eae2befe92c5a' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/de-mellows-pte-ltd/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/683d9cbccb4ece3b7c6d2374' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/de-mellows-pte-ltd/){:target='_blank'}
 
 ---
 
@@ -598,7 +599,7 @@ Building brand strategies that resonate with your customers and designed for mar
 Certified branding consultant experienced in most industries, eligible for EDG branding grants.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $5,000</li>
@@ -639,6 +640,36 @@ We are law firm with focus on IP law. We serve individuals and businesses of all
 </ul>
 
 <a class='btn' href='https://form.gov.sg/67d7d4fbdad03a86296185d9' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/alpha-omega-law-corporation/){:target='_blank'}
+
+---
+
+#### SiliconPlus Communications Pte Ltd
+
+Branding agency delivering end-to-end strategy, design, and campaigns with the Power of the Plus.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/684102ebce5ae9e9a2425c1a' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/siliconplus-communications-pte-ltd/){:target='_blank'}
+
+---
+
+#### CHFT Advisory & Appraisal
+
+CHFT is a prominent advisory and appraisal firm providing One-Stop Solution in Asia-Pacific region.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/683d914abca80b7c88a12b3b' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/chft-advisory-appraisal/){:target='_blank'}
 
 ---
 
@@ -778,22 +809,6 @@ Soda+ is a full-service creative design studio focused on crafting meaningful br
 </ul>
 
 <a class='btn' href='https://form.gov.sg/67cfa394dd496a3035d943b3' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/soda-plus-creative/){:target='_blank'}
-
----
-
-#### JurisAsia LLC
-
-JurisAsia LLC provides legal services globally through our exclusive association with Gowling WLG.
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 31 - 40</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $700</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider; Free 30 min discussion of technology (if necessary) prior to patent drafting. </li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/67d7dd601d02820472fe51f3' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/jurisasia-llc/){:target='_blank'}
 
 ---
 

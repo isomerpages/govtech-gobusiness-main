@@ -17,7 +17,7 @@ Agmon Law is a foreign law firm founded by Jonathan Agmon in Singapore in 2016. 
 
 <b>Address in Singapore:</b> 111 Somerset Road, #09-14, Singapore 238164
 
-<b>Website:</b> <a href='https://sanlaw.legal/'>https://sanlaw.legal/</a>
+<b>Website:</b> <a href='https://www.agmonlaw.com'>https://www.agmonlaw.com</a>
 
 <b>Offer:</b> IP Business Clinic participating service provider; We offer 1.5 hour free consultation to newly established technological start-ups.
 
@@ -197,7 +197,7 @@ Agmon Law is a foreign law firm founded by Jonathan Agmon in Singapore in 2016. 
 - IA/IP-Related Expertise: Freedom-to-Operate (FTO), Branding Strategy, Innovation Consultancy, IP Due Diligence, Dispute Resolution
 - Certifications/Qualifications: Registered Foreign Lawyer (Singapore), Counselor at law (New York, US), Advocate (Israel) 
 - Awards/Accolades: Listed as IP Experts for Patents, Trademarks, Licensing & Franchising with ASIAIP, Trade Mark Star 2023 (Singapore) with IPSTAR, Recommended as Global Leader for IP-Trademarks 2022, as National Leader for Southeast Asia-Patents 2022 and Trademarks 2022 with WWL, Bronze (Singapore) with WTR1000, Chambers Global 2023 Band 3 (Intellectual Property)
-- URL of LinkedIn/Company Profile: <a href="https://sanlaw.legal/team-member/jonathan-agmon-2" target="_blank" rel="noopener">https://sanlaw.legal/team-member/jonathan-agmon-2</a>
+- URL of LinkedIn/Company Profile: <a href="https://www.agmonlaw.com/" target="_blank" rel="noopener">https://www.agmonlaw.com/</a>
 
 **Yi Xun Ng**
 
@@ -206,7 +206,7 @@ Agmon Law is a foreign law firm founded by Jonathan Agmon in Singapore in 2016. 
 - Location: Singapore
 - IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, Branding Strategy, Contract Drafting
 - Certifications/Qualifications: Solicitor in Singapore
-- URL of LinkedIn/Company Profile: <a href="https://sanlaw.legal/team-member/yi-xun_ng-2-2/" target="_blank" rel="noopener">https://sanlaw.legal/team-member/yi-xun_ng-2-2/</a>
+- URL of LinkedIn/Company Profile: <a href="https://www.agmonlaw.com/" target="_blank" rel="noopener">https://www.agmonlaw.com/</a>
 
 
 **Liangshu Huang**
@@ -215,7 +215,7 @@ Agmon Law is a foreign law firm founded by Jonathan Agmon in Singapore in 2016. 
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Watch, IP Audit, Dispute Resolution
 - Certifications/Qualifications: Graduate Certificate in Intellectual Property Law, National University of Singapore
-- URL of LinkedIn/Company Profile: <a href="https://sanlaw.legal/team-member/liangshu-huang-2-2-2/" target="_blank" rel="noopener">https://sanlaw.legal/team-member/liangshu-huang-2-2-2/</a>
+- URL of LinkedIn/Company Profile: <a href="https://www.agmonlaw.com/" target="_blank" rel="noopener">https://www.agmonlaw.com/</a>
 
 
 
@@ -225,4 +225,4 @@ Agmon Law is a foreign law firm founded by Jonathan Agmon in Singapore in 2016. 
 <p>
 <a class='btn' href='https://form.gov.sg/67d7d3d9f42a48c6587a8ecc' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 16 May 2025
+Profile last updated on 9 June 2025

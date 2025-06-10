@@ -23,9 +23,9 @@ In addition to a full spectrum of IP-related legal services, Dennemeyer offers I
 
 <b>Website:</b> <a href='https://www.dennemeyer.com'>https://www.dennemeyer.com</a>
 
-<b>Offer:</b> (1) DIAMS Free Demo & Trial (2) Octimine Free Trial & Search Analytics Tutorial (3) 30-minute free IP consulting for corporates about an IP topic of their choice.
+<b>Offer:</b> IP Business Clinic participating service provider; (1) DIAMS Free Demo & Trial (2) Octimine Free Trial & Search Analytics Tutorial (3) 30-minute free IP consulting for corporates about an IP topic of their choice.
 
-<a class='btn' href='https://form.gov.sg/67cead476460c537e74b805b' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/683d9ec7e082bf0d3965e99c' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_2-ipgrow-company-profile %}
 
@@ -235,7 +235,7 @@ In addition to a full spectrum of IP-related legal services, Dennemeyer offers I
 - Years of Experience: 20+ years
 - Location: Howald, Luxembourg
 - IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Watch, IP Portfolio Management, IP Training
-- Certifications/Qualifications: CEIPI Diplom in Trademark and Design Law, LL.M in European and International Business Law, WTR Global Leaders: Private Practice (2022), Trade Mark Star 2022, Luxembourg (IP Stars)
+- Certifications/Qualifications: CEIPI Diplom in Trademark and Design Law, LL.M in European and International Business Law
 - Awards/Accolades: WTR 1000 "Recommended - Individuals" (2024 & 2025); WTR Global Leaders: Private Practice (2022); IP Starts Trade Mark Star, Luxembourg (2022)
 - URL of LinkedIn/Company Profile: <a href="https://www.dennemeyer.com/about/team/lombardo" target="_blank" rel="noopener">https://www.dennemeyer.com/about/team/lombardo</a>
 
@@ -278,6 +278,6 @@ In addition to a full spectrum of IP-related legal services, Dennemeyer offers I
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/67cead476460c537e74b805b' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/683d9ec7e082bf0d3965e99c' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 23 April 2025
+Profile last updated on 9 June 2025

@@ -151,7 +151,7 @@ Our team of experienced lawyers is committed to providing prompt and timely lega
 - Location: Singapore
 - IA/IP-Related Expertise: Dispute Resolution
 - Certifications/Qualifications: LL.B (Hons) National University of Singapore, Advocate & Solicitor of the Supreme Court of Singapore
-- URL of LinkedIn/Company Profile: <a href="https://www.kcpartnership.com/people/Bryan_chan/" target="_blank" rel="noopener">https://www.kcpartnership.com/people/Bryan_chan/</a>
+- URL of LinkedIn/Company Profile: <a href="https://www.kcpartnership.com/people/Bryan-chan/" target="_blank" rel="noopener">https://www.kcpartnership.com/people/Bryan-chan/</a>
 
 **Jasmin Kang**
 

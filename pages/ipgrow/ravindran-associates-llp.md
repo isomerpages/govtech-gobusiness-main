@@ -111,7 +111,7 @@ We are a specialist intellectual property law firm formed in 1993 and based in S
 <a name='case-studies'></a>
 ### Case studies
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://www.elitigation.sg/gd/s/2022_SGHC_33" target="_blank" rel="noopener">case study 1</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.elitigation.sg/gd/s/2012_SGCA_56" target="_blank" rel="noopener">case study 2</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.ipos.gov.sg/docs/default-source/resources-library/hearings-and-mediation/legal-decisions/2021/louis-vuitton-malletier-v-human-horizons-2021-sgipos-13.pdf" target="_blank" rel="noopener">case study 3</a></li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://www.elitigation.sg/gd/s/2022_SGHC_33" target="_blank" rel="noopener">case study 1</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.elitigation.sg/gd/s/2012_SGCA_56" target="_blank" rel="noopener">case study 2</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.ipos.gov.sg/manage-ip/resolveip-disputes-overview/legal-decisions/legal-decision-list/louis-vuitton-malletier-v-human-horizons-holding--shanghai--co---ltd---2021--sgipos-13-/" target="_blank" rel="noopener">case study 3</a></li></ul>
 
 ---
 <a name='key-practice-experts'></a>

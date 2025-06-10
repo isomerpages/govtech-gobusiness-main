@@ -26,7 +26,7 @@ To further protect your business interests, you may also consider seeking the ad
 ---
 
 ### Connect with relevant service providers for freedom-to-operate services
-**31 service providers listed.**
+**30 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -133,10 +133,10 @@ Founded in 1962, we offer full-service IP solutions globally with local support 
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 16 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $4,300</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> (1) DIAMS Free Demo & Trial (2) Octimine Free Trial & Search Analytics Tutorial (3) 30-minute free IP consulting for corporates about an IP topic of their choice.</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider; (1) DIAMS Free Demo & Trial (2) Octimine Free Trial & Search Analytics Tutorial (3) 30-minute free IP consulting for corporates about an IP topic of their choice.</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/67cead476460c537e74b805b' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/dennemeyer/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/683d9ec7e082bf0d3965e99c' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/dennemeyer/){:target='_blank'}
 
 ---
 
@@ -437,22 +437,6 @@ A boutique firm focusing on patent and trademark preparation, prosecution and ot
 
 ---
 
-#### JurisAsia LLC
-
-JurisAsia LLC provides legal services globally through our exclusive association with Gowling WLG.
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 31 - 40</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $700</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider; Free 30 min discussion of technology (if necessary) prior to patent drafting. </li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/67d7dd601d02820472fe51f3' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/jurisasia-llc/){:target='_blank'}
-
----
-
 #### Gateway IP Services
 
 Gateway IP Services is a regional IP boutique which specialises in patents, trademarks, and designs.
@@ -477,6 +461,7 @@ Adastra has been in existence since 2004 and is formed by a team of technical an
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $3,500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free Trademark searches for selected ASEAN countries & complimentary access to self-managed IP profiling and assessment toolkit.</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/67d002185e7738adf64b4a38' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/adastra-ip-pte-ltd/){:target='_blank'}
@@ -488,7 +473,7 @@ Adastra has been in existence since 2004 and is formed by a team of technical an
 Strategic, commercially focused patent and FTO advice for the pharmaceutical/biotech sectors.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>

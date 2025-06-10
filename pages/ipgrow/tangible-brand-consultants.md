@@ -21,7 +21,9 @@ We deliver innovation and change across: Marketing & Communications, People & Cu
 
 <b>Website:</b> <a href='https://www.tangible.com.sg/'>https://www.tangible.com.sg/</a>
 
-<a class='btn' href='https://form.gov.sg/67d7d619622b925cdd32a0bd' target='_blank' rel='noopener'>Get in touch</a>
+<b>Offer:</b> IP Business Clinic participating service provider
+
+<a class='btn' href='https://form.gov.sg/683d9e0219a02aedb8e4bfa8' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1b-ipgrow-company-profile %}
 
@@ -96,6 +98,6 @@ We deliver innovation and change across: Marketing & Communications, People & Cu
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/67d7d619622b925cdd32a0bd' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/683d9e0219a02aedb8e4bfa8' target='_blank' rel='noopener'>Get in touch</a>
 </p>
 Profile last updated on 18 March 2025
