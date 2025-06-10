@@ -29,7 +29,7 @@ Find out the full list of e-Services in our [Run and Grow guide](/run-and-grow/)
 
 **National Parks Board (NParks)**
 
-- [Skyrise Greenery Incentive Scheme](https://www.nparks.gov.sg/skyrisegreenery/incentive-scheme){:target="_blank"}{:rel="noopener"}
+- [Skyrise Greenery Incentive Scheme](https://skyrisegreenery.nparks.gov.sg/incentive-scheme/about/){:target="_blank"}{:rel="noopener"}
   <br>Apply for funding support to install rooftop and vertical greenery.
 
 **Prime Minister's Office (PMO)**
