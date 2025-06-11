@@ -93,6 +93,15 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - BRAND PORTFOLIO - YE250M2-2E4
 - BRAND PORTFOLIO - YE250M-2E4
 - BRAND PORTFOLIO - YE250M3-2E4
+- GRUNDFOS - MG100LE
+- GRUNDFOS - MG112MD
+- GRUNDFOS - MG132SB
+- GRUNDFOS - MG132SE
+- GRUNDFOS - MG160LB
+- GRUNDFOS - MG160LC
+- GRUNDFOS - MG160MD
+- GRUNDFOS - MG90LG
+- GRUNDFOS - MG90SE
 - HEBEM - VSD280-90
 - HEBEM - VSD315-160
 - Ingersoll Rand - YE4-160L-4
@@ -180,15 +189,18 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Siemens - 1CV4130A
 - Siemens - 1CV4130B
 - Siemens - 1CV4131A
+- Siemens - 1CV4132B
 - Siemens - 1CV4162A
 - Siemens - 1CV4162B
 - Siemens - 1CV4163A
 - Siemens - 1CV4164A
+- Siemens - 1CV4164B
 - Siemens - 1CV4182A
 - Siemens - 1CV4182B
 - Siemens - 1CV4184B
 - Siemens - 1CV4204A
 - Siemens - 1CV4205A
+- Siemens - 1CV4205B
 - Siemens - 1CV4220B
 - Siemens - 1CV4222A
 - Siemens - 1CV4222B
