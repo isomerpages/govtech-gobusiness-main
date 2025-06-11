@@ -78,6 +78,12 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - Dluces - DLS-39-2-45W
 - Dluces - DLS-LED-T8-1200-HB
 - Dluces - DLS-LED-T8-600-HB
+- DMS - 406 - DMS-FIL-FR-A60-CCD-4.9W
+- DMS - 406-DMS-A60-CCD-7W-E27
+- DMS - 406-DMS-FIL-FR-C35-CCD-2.9W-E14
+- DMS - 406-DMS-FIL-FR-G45-CCD-4.9W-E14
+- DMS - 406-DMS-G45-CCD-4.2W
+- DMS - 406-DMS-G95-CCD-10.8W-E27
 - DMS - A60-6W-LED-4SD-CLEAR
 - DMS - A60-COG-I DIM
 - DMS - C35-3.5W-RA80-CRYS-3000K
@@ -96,14 +102,20 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - DYCORRA - DY-GP-30E27
 - DYCORRA - DY-GP-40E27
 - DYCORRA - DY-GP-50E27
+- DYCORRA - DY-GP-5E14
+- DYCORRA - DY-GP-5E27
+- DYCORRA - DY-GT-10E27T
+- DYCORRA - DY-GT-12TE27S
 - DYCORRA - DY-GT-7912E27S
 - DYCORRA - DY-LFCN-4E14
+- DYCORRA - DY-LFCN-4E14DIM
 - DYCORRA - DY-LFCN-4E27
 - DYCORRA - DY-LFCNA-4E14
 - DYCORRA - DY-LFGA-4E27
 - DYCORRA - DY-LFGB-6E27
 - DYCORRA - DY-LFGB-6E27CL
 - DYCORRA - DY-LFGB-8E27
+- DYCORRA - DY-LFGB-8E27DIM
 - DYCORRA - DY-LFGC-8E27
 - DYCORRA - DY-LFST-6E27
 - DYCORRA - DY-LFST-8E27
@@ -241,6 +253,9 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - Lighting - T8-LED-20W-65
 - Loyal - LY-T8G-120-F 24W Double End
 - Loyal - LY-TB-32W
+- Loyal - LY-TB-9W-3000K
+- Loyal - LY-TB-9W-6500K
+- Loyal - LY-TB-H12W
 - Megaman - A60F7-CL-D-7.2W-E-E27-2700K
 - Megaman - A60F8-D-7.2W-E-E27
 - Megaman - A60F8-D-8.5W-E-E27
@@ -668,6 +683,7 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - Philips - 9290030121A  MAS LEDLusterDT2.5
 - Philips - 9290030121A MAS LEDLusterDT2.5
 - Philips - 9290030122A MAS LEDCandleDT3.4-40W E14 927 B35CL G
+- Philips - 9290030123A MAS LEDCandleDT3.4-40W E27  927 B35CL G
 - Philips - 9290030131A MAS LEDLusterDT3.4
 - Philips - 9290030132A MAS LEDLusterDT3.5
 - Philips - 9290037985 MAS LEDBulb DT3.4-40W E27 CRI95A60CL
@@ -678,6 +694,14 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - Philips - 9290037990 MAS LEDBulb DT5.9-60W E27 CRI95 A60 FR G
 - Philips - 9290037991 MAS LEDBulb DT7.2-75W E27 CRI95 A60 FR G
 - Philips - 9290037992 MAS LEDBulb DT10.5-100W E27 CRI95A60FR G
+- Philips - 9290042418 MAS LEDtube 1200mm UO 13.5W 830 T8
+- Philips - 9290042419 MAS LEDtube 1200mm UO 13.5W 840 T8
+- Philips - 9290042420 MAS LEDtube 1200mm UO 13.5W 865 T8
+- Philips - 9290042421 MAS LEDtube 1500mm UO 20W 830 T8
+- Philips - 9290042422 MAS LEDtube 1500mm UO 20W 840 T8
+- Philips - 9290042423 MAS LEDtube 1500mm UO 20W 865 T8
+- Philips - 9290042428 MAS LEDtube 1500mm HO 16.7W 840 T8
+- Philips - 9290042429 MAS LEDtube 1500mm HO 16.7W 865 T8
 - Philips - 9290042458 MAS LEDtube 1200mm UO+ 18.7W840 T8
 - Philips - 9290042459 MAS LEDtube 1200mm UO+ 18.7W865 T8
 - Philips - 9290042460 MAS LEDtube 1200mm MO 23W840 T8

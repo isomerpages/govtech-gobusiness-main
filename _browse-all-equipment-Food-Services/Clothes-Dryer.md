@@ -41,5 +41,9 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Imesa  - GL ES 14 EC
 - Imesa  - GL ES 18 EC
 - Midea  - MDK888HP
+- Samsung - DF18CB8700CRSP
+- Samsung - DV10BB9440GBSP  
+- Samsung - DV10BB9440GHSP
+- Samsung - DV10DB94A0GDSP
 
 <script src='/jquery/resize-tables.js'></script>
