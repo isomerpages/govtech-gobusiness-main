@@ -204,8 +204,10 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - Midea - MOU36-HVN32E(SG)
 - Midea - MPOD-09E
 - Midea - MPOD-12E
+- Midea - MVC-M224WV2GN1(G)
 - Midea - MVC-M252WV2GN1(G)
 - Midea - MVC-M280WV2GN1(G)
+- Midea - MVC-M280WV2GN1(G2)
 - Midea - MVC-M335WV2GN1(G)
 - Midea - MVC-M400WV2GN1(G)
 - Midea - MVC-M450WV2GN1(G)
