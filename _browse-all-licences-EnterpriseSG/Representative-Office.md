@@ -109,7 +109,7 @@ Helpdesk: +65 6335 3530 (Mon to Fri, 9am-6pm, closed on Saturdays, Sundays &amp;
 <li>Sales Turnover of the foreign entity must be US$250,000 or more</li>
 <li>No. of years of establishment of the foreign entity must be 3 years or more</li>
 <li>Proposed No. of staff for RO should be not more than 4 people</li>
-<li class="x_MsoListParagraph">All foreign entities should have CORPPASS Account prior to RO application. The nominated CORPPASS Admin staff should have a valid NRIC/FIN number.</li>
-<li class="x_MsoListParagraph">For those foreign entities without any staff with NRIC/FIN number., please engage a local 3rd party proxy to apply for RO application on your behalf.</li>
+<li>All foreign entities should have CORPPASS Account prior to RO application. The nominated CORPPASS Admin staff should have a valid NRIC/FIN number.</li>
+<li>For those foreign entities without any staff with NRIC/FIN number., please engage a local 3rd party proxy to apply for RO application on your behalf.</li>
 </ul>
 
