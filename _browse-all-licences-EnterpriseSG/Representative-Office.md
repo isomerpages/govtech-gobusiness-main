@@ -13,6 +13,7 @@ Enterprise Singapore (EnterpriseSG)
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/roms" type="primary" %}
 
 <H3>Application Details</H3>
+
 <p>Foreign entities that are keen to explore opportunities in the region may wish to set up a Representative Office (RO) in Singapore.</p>
 <p>Foreign entities from the manufacturing, international trading, wholesale, trade and trade-related business sectors that are keen on exploring the viability of doing business in Singapore or are interested in using Singapore as a launch pad into the Asia Pacific, may wish to set-up a Representative Office (RO). By setting up an RO, it allows a foreign entity to assess the business environment in Singapore before deciding to set up a permanent establishment.</p>
 <p>An approved RO of a foreign commercial entity may operate in Singapore for a validity period of one year only from its commencement date. An extension of RO will only be granted on a case-by-case basis and is subjected to approval. Each RO may only operate for up to a maximum of three years. ROs which decide to continue their presence in Singapore thereafter should register their operations with the <a href="https://www.bizfile.gov.sg/" target="_blank" rel="noopener">Accounting &amp; Corporate Regulatory Authority (ACRA)</a> of Singapore.</p>
@@ -53,7 +54,14 @@ Enterprise Singapore (EnterpriseSG)
 <p><strong>4.9. &nbsp; &nbsp;The Parent Organization has changed name before the new application is approved. What documentation should company provide?</strong><br>Company needs to provide the previous and current Certificate of Registration.</p>
 <p><strong>5. &nbsp; &nbsp;Corppass<br>5.1. &nbsp; &nbsp;What is Corppass?</strong><br>Corppass is the authorisation system for entities to manage digital service access of employees.</p>
 <p><strong>5.2. &nbsp; &nbsp;How do I register for Corppass Account if I do not have any FIN/NRIC numbers?</strong><br>All foreign entities should have CORPPASS Account prior to RO application. The nominated CORPPASS Admin staff should have a valid NRIC/FIN number.&nbsp; For those foreign entities without any staff with NRIC/FIN number, please engage a local 3rd party proxy to apply for RO application on your behalf.</p>
-<p><strong>5.3. &nbsp; &nbsp;Who do I contact if I have any issues during the Corppass account registration process or have more questions on Corppass-related matters?</strong><br>You may contact Corppass Support helpdesk for assistance.<br>&bull; &nbsp; &nbsp;Corppass Support:<br>Email: <a href="mailto:support@corppass.gov.sg" target="_blank" rel="noopener">support@corppass.gov.sg</a><br>Helpdesk: +65 6335 3530 (Mon to Fri, 8am-8pm; Sat, 8am-2pm; closed on Sun &amp; Public Holidays<br>&bull; &nbsp; &nbsp;For further support: <a href="https://www.corppass.gov.sg/corppass/common/faq" target="_blank" rel="noopener">FAQs</a> / <a href="https://www.corppass.gov.sg/corppass/common/userguides" target="_blank" rel="noopener">User Guides</a></p>
+<p><strong>5.3. &nbsp;&nbsp;Who do I contact if I have any issues during the Corppass account registration process or have more questions on Corppass-related matters?</strong><br>
+You may contact Corppass Support helpdesk for assistance.<br>
+&bull;&nbsp;&nbsp;Corppass Support:<br>
+<a href="https://www.corppass.gov.sg/corppass/common/contactus" target="_blank" rel="noopener">https://www.corppass.gov.sg/corppass/common/contactus</a><br>
+Helpdesk: +65 6335 3530 (Mon to Fri, 9am–6pm, closed on Saturdays, Sundays &amp; Public Holidays)<br>
+&bull;&nbsp;&nbsp;For further support: 
+<a href="https://www.corppass.gov.sg/corppass/common/faq" target="_blank" rel="noopener">FAQs</a> / 
+<a href="https://www.corppass.gov.sg/corppass/common/userguides" target="_blank" rel="noopener">User Guides</a></p>
 <p><strong>6. &nbsp; &nbsp;Name and Address/Leasing premises of RO<br>6.1. &nbsp; &nbsp;What would happen if the name of the RO/parent company is the same as that of a local company?</strong><br>Enterprise Singapore will seek the advice of the Accounting &amp; Corporate Regulatory Authority<br>(ACRA) before accepting the name for registration.</p>
 <p><strong>6.2. &nbsp; &nbsp;Can the RO apply for a name, which is different from its parent company?</strong><br>No. The name of the RO must be the same as the parent company.</p>
 <p><strong>6.3. &nbsp; &nbsp;What do I have to do if my parent company's name has been changed?</strong><br>You have to notify Enterprise Singapore through GoBusiness portal at <a href="http://www.gobusiness.gov.sg/" target="_blank" rel="noopener">http://www.gobusiness.gov.sg/</a>&nbsp;within one month after the change. The notification of name change must be accompanied by a copy of the parent company's Certificate of Change in name (in English or official English translation).</p>
@@ -83,14 +91,14 @@ Enterprise Singapore (EnterpriseSG)
 
 <strong>Additional Information</strong>
 
-<p><strong>Fees</strong><br>Annual Fee: $200 <br>Processing Time: 14 working days (estimated)<br>The registration fee is non-refundable even if the application or renewal is unsuccessful or withdrawn.<br><br></p>
+<p><strong>Fees</strong><br>Annual Fee: $200&nbsp;<br>Processing Time: 14 working days (estimated)<br>The registration fee is non-refundable even if the application or renewal is unsuccessful or withdrawn.<br><br></p>
 
 <H3>Documents Needed</H3>
 
 <p>All new applications must be accompanied by the following documents:</p>
 <ul>
-<li>Softcopy attachment (in English or an official English translation*) of the foreign entity's<br>Certificate of Incorporation or Registration Certificate (as applicable)<br>*translation must be performed by a professional translation services company</li>
-<li>Softcopy attachments of the foreign entity's latest Audited Accounts</li>
+<li>Softcopy attachment (in English or an official English translation*) of the foreign entity&rsquo;s<br>Certificate of Incorporation or Registration Certificate (as applicable)<br>*translation must be performed by a professional translation services company</li>
+<li>Softcopy attachments of the foreign entity&rsquo;s latest Audited Accounts</li>
 <li>Write up on the purpose of setting up an RO and to elaborate on the RO activities to be conducted in Singapore (in official letterhead) and to be signed off by the Parent Organization Authorized Personnel.</li>
 </ul>
 
@@ -101,5 +109,7 @@ Enterprise Singapore (EnterpriseSG)
 <li>Sales Turnover of the foreign entity must be US$250,000 or more</li>
 <li>No. of years of establishment of the foreign entity must be 3 years or more</li>
 <li>Proposed No. of staff for RO should be not more than 4 people</li>
+<li class="x_MsoListParagraph">All foreign entities should have CORPPASS Account prior to RO application. The nominated CORPPASS Admin staff should have a valid NRIC/FIN number.</li>
+<li class="x_MsoListParagraph">For those foreign entities without any staff with NRIC/FIN number., please engage a local 3rd party proxy to apply for RO application on your behalf.</li>
 </ul>
 
