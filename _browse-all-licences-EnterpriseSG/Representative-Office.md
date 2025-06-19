@@ -58,7 +58,7 @@ Enterprise Singapore (EnterpriseSG)
 You may contact Corppass Support helpdesk for assistance.<br>
 &bull;&nbsp;&nbsp;Corppass Support:<br>
 <a href="https://www.corppass.gov.sg/corppass/common/contactus" target="_blank" rel="noopener">https://www.corppass.gov.sg/corppass/common/contactus</a><br>
-Helpdesk: +65 6335 3530 (Mon to Fri, 9am–6pm, closed on Saturdays, Sundays &amp; Public Holidays)<br>
+Helpdesk: +65 6335 3530 (Mon to Fri, 9am-6pm, closed on Saturdays, Sundays &amp; Public Holidays)<br>
 &bull;&nbsp;&nbsp;For further support: 
 <a href="https://www.corppass.gov.sg/corppass/common/faq" target="_blank" rel="noopener">FAQs</a> / 
 <a href="https://www.corppass.gov.sg/corppass/common/userguides" target="_blank" rel="noopener">User Guides</a></p>
