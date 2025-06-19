@@ -9,7 +9,7 @@
       content: |
         As of 30 December 2024, eligible companies<sup>1</sup> in Construction, Food Services, Manufacturing (including Food Manufacturing), Maritime, Retail sectors and users of data centres will be able to tap on the EEG.
 
-        <sup>1</sup>Based on company's ACRA registered primary or secondary SSIC code.
+        <sup>1</sup> <small>Based on company's ACRA registered primary or secondary SSIC code.</small>
 
 - accordion:
   letter: b
@@ -29,8 +29,7 @@
         Business entities using commercial data centres in Singapore who meet the [Data Centre Sector eligibility requirements](/energy-efficiency-grant/#eeg-eligibility) can tap on pre-approved energy efficient equipment for the data centre sector regardless of industry.
 
         - Minimum of 30% local shareholding<sup>3</sup>
-        - Employs at least one local employee at the firm-level<sup>4</sup>
-        - Group Annual Sales Turnover no more than S$500 million<sup>5</sup>
+        - Group Annual Sales Turnover no more than S$500 million<sup>4</sup>
 
         The following entities do not qualify for grant support:
         - Charities
@@ -40,15 +39,11 @@
         - Government agencies and subsidiaries
         - Co-operative societies and societies
                
-        <sup>2</sup> Companies may be requested to furnish supporting documents as part of the grant application process.
-
-        <sup>3</sup> For maritime companies and users of data centres, business entities need not have a minimum of 30% local shareholding criteria.
-        
-        <sup>4</sup> Maritime companies should employ at least one local employee at the group-level.
-
-        <sup>5</sup> SME is defined as having:
+        <sup>2</sup> <small>Companies may be requested to furnish supporting documents as part of the grant application process.</small>
+        <sup>3</sup> <small>For maritime companies and users of data centres, business entities need not have a minimum of 30% local shareholding criteria.</small>
+        <sup>4</sup> <small>SME is defined as having:
         - Group Annual Sales Turnover of not more than S$100 million; or
-        - Group Employment Size of not more than 200 workers
+        - Group Employment Size of not more than 200 workers</small>
     
     - title: Which agency will process my EEG (Base) application?
       content: |
@@ -69,9 +64,9 @@
         
         Companies can submit equipment models under selected categories to be considered for support.
 
-        For Clothes Dryer, Commercial Refrigerator, Cooking Hob and Water Heater, please submit via this [link](https://form.gov.sg/65dd54803c61c0ff3ca5ae54){:target="_blank"}.
+        For Clothes Dryer, Commercial Refrigerator, Cooking Hob and Water Heater, please submit via this [link](https://form.gov.sg/65dd54803c61c0ff3ca5ae54){:target="_blank"}{:rel="noopener"}.
 
-        For Boiler System, Compressed Air System and non-MELS regulated LED Lighting, please submit via this [link](https://form.gov.sg/668f9429c6fc442e8781efd6){:target="_blank"}.
+        For Boiler System, Compressed Air System and non-MELS regulated LED Lighting, please submit via this [link](https://form.gov.sg/668f9429c6fc442e8781efd6){:target="_blank"}{:rel="noopener"}.
 
         Please note that all equipment submissions must meet the respective technical requirements to be eligible for support.
 
@@ -185,7 +180,7 @@
       content: |
         As of 30 December 2024, eligible companies in the Construction, Manufacturing (including Food Manufacturing) and Maritime sectors<sup>1</sup> can apply for the EEG (Advanced). 
 
-        <sup>1</sup> Based on company's ACRA registered primary or secondary SSIC code.
+        <sup>1</sup> <small>Based on company's ACRA registered primary or secondary SSIC code.</small>
 
     - title: What is the eligibility criteria for EEG (Advanced)?<sup>2</sup>
       content: |
@@ -198,8 +193,7 @@
             - <b>Port</b> Port companies classified under <b>SSIC 23940, 24109, 49231, 50021, 50023, 52101, 52221, 52222, 52224, 52243, 52292</b>
         <br><br>
         - Has a minimum of 30% local shareholding<sup>3</sup>
-        - Employ at least one local employee at the firm-level<sup>4</sup>
-        - Has a Group Annual Sales Turnover no more than S$500 million<sup>5</sup>
+        - Has a Group Annual Sales Turnover no more than S$500 million<sup>4</sup>
 
         The following entities do not qualify for grant support:
         - Charities
@@ -209,37 +203,33 @@
         - Government agencies and subsidiaries
         - Co-operative societies and societies
 
-        <sup>2</sup> Companies may be requested to furnish supporting documents as part of the grant application process.
-
-        <sup>3</sup> For maritime companies, business entities need not have a minimum of 30% local shareholding criteria.
-
-        <sup>4</sup> Maritime companies should employ at least one local employee at the group-level.
-
-        <sup>5</sup> SME is defined as having:
+        <sup>2</sup> <small>Companies may be requested to furnish supporting documents as part of the grant application process.</small>
+        <sup>3</sup> <small>For maritime companies, business entities need not have a minimum of 30% local shareholding criteria.</small>
+        <sup>4</sup> <small>SME is defined as having:
           - Group Annual Sales Turnover of not more than S$100 million; or 
-          - Group Employment Size of not more than 200 workers
+          - Group Employment Size of not more than 200 workers</small>
         
     - title: What is the difference between the EEG (Base) and the EEG (Advanced)?
       content: |
         Unlike the EEG (Base), the EEG (Advanced) can support non-pre-approved equipment as long as the equipment demonstrates energy savings above 350 tonnes of lifetime carbon abatement. Support under the EEG (Advanced) is based on the lower of 
         
-        (i) support levels under the EEG (Base) according to company's size<sup>6</sup>, or <br>
+        (i) support levels under the EEG (Base) according to company's size<sup>5</sup>, or <br>
         (ii) based on the equipment's expected lifetime carbon abatement. Support will be capped at $350,000 across all of a company's EEG (Base) and EEG (Advanced) applications. 
 
         Companies applying for the EEG (Advanced) would also need to submit a third-party assessment report from a whitelisted third-party qualified assessor on the projected energy savings that the purchase of the energy efficient equipment would generate. This is not required for EEG (Base).
 
-        <sup>6</sup> This will be 70% and 30% of energy efficient equipment costs for SMEs and non-SMEs respectively.
+        <sup>5</sup> <small>This will be 70% and 30% of energy efficient equipment costs for SMEs and non-SMEs respectively.</small>
 
     - title: What equipment are currently not supported under EEG (Advanced)?
       content: | 
         Installation/Purchase of the following would not be supported under EEG (Advanced):<br>
           a)	Vehicles<br>
-          b)	Key equipment in systems* that require Measurement & Verification at system level for legislation compliance or Green Mark Scheme (or equivalent government scheme)<br>
+          b)	Key equipment in systems<sup>6</sup> that require Measurement & Verification at system level for legislation compliance or Green Mark Scheme (or equivalent government scheme)<br>
           c)	Blackbox solutions (i.e. software or hardware devices whose functioning cannot be explained by applying mainstream engineering knowledge and theories for EE improvements)<br>
           d)	Non-EE equipment, including monitoring devices and equipment that reduce carbon emission but does not reduce energy consumption (e.g. solar PV Panel, wind turbine)<br>
           e)	International vessels<br>
 
-          <sup>*</sup> For chilled water system that do not need to comply with NEA's Minimum Energy Efficiency Standards (MEES), replacement of standalone key equipment of chilled water plant (e.g. chiller, cooling towers) can be supported under EEG(Advanced).<br>
+          <sup>6</sup> <small>For chilled water system that do not need to comply with NEA's Minimum Energy Efficiency Standards (MEES), replacement of standalone key equipment of chilled water plant (e.g. chiller, cooling towers) can be supported under EEG(Advanced).<br>
 
           For chilled water system that shall comply with NEA's MEES, EEG (Advanced) can support chilled water system replacement/new installation that<br>
 
@@ -247,7 +237,7 @@
           (1b) exceed MEES performance standard <b>after</b> MEES comes into effect, whichever applies at the point of the first EEG(Advanced) submission; and<br>
           (2) is installed with M&V sensors/meters to facilitate post retrofit system efficiency determination for compliance with MEES. The cost of M&V sensors/meters would not be funded under EEG(Advanced).
 
-          Applicant shall refer to the <a href='/images/eeg/EEG Advanced Third-party assessment report (July 2024).docx' target="_blank" rel="noopener">third-party assessment form</a> for details.  
+          Applicant shall refer to the <a href='/images/eeg/EEG Advanced Third-party assessment report (July 2024).docx' target="_blank" rel="noopener">third-party assessment form</a> for details.</small>
 
     - title: How is the grant support for the EEG (Advanced) calculated?
       content: |
