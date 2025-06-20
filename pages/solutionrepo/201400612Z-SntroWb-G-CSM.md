@@ -1,6 +1,6 @@
 ---
 title: 'SentroWeb'
-permalink: /productivity-solutions-grant/solutionrepo/201400612Z-SntroWb-G
+permalink: /productivity-solutions-grant/solutionrepo/201400612Z-SntroWb-G-CSM
 ---
 
 ## SentroWeb
