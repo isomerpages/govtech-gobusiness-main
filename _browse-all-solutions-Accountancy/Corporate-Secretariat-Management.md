@@ -24,7 +24,7 @@ This solution is supported by ACRA.
 <td>BGL CORPORATE SOLUTIONS PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201400612Z-SntroWb-G' target='_blank'>SentroWeb</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201400612Z-SntroWb-G-CSM' target='_blank'>SentroWeb</a><br></td>
 <td>Ingenique Solutions Pte Ltd</td>
 </tr>
 <tr>
