@@ -85,10 +85,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200804595N-HRsly-Onln-Pyroll-G' target='_blank'>HReasily Online Payroll</a><br></td>
-<td>The Assets Management Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200804595N-HRsly-Onln-Pyroll-G' target='_blank'>HReasily Online Payroll</a><br></td>
 <td>361 Degree Consultancy Pte Ltd</td>
 </tr>
 <tr>
