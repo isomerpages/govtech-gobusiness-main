@@ -72,10 +72,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Andre Corporate Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201831057D-ASHOKATREE-Xro-Cloud-ACC-G' target='_blank'>ASHOKATREE: Xero Cloud Accounting</a><br></td>
-<td>ASHOKA TREE ASSOCIATES PTE. LTD.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201020197E-AutoCount-ACC-Softwr-G' target='_blank'>AutoCount Accounting Software</a><br></td>
 <td>Ingenious Business Software Pte Ltd</td>
 </tr>
@@ -116,20 +112,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Everyday Corporate Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200914556R-Fnnco-Cloud-ACC-Softwr-G' target='_blank'>Financio Cloud Accounting Software</a><br></td>
-<td>Asian Business Software Solutions Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201828446N-Hrvst-ACC-Xro-G' target='_blank'>Harvest Accounting - Xero</a><br></td>
-<td>Harvest Accounting Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201539815G-Intut-Quckbooks-Onln-Full-Trnsformton-PKG-G' target='_blank'>Intuit Quickbooks Online Full Transformation Packages</a><br></td>
 <td>Acc Pro (Singapore) Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200504354M-MFP-Xro-ACC-Softwr-G' target='_blank'>MFP: Xero Accounting Software</a><br></td>
-<td>MFP Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200801162R-MMS-Xro-ACC-SLN-G' target='_blank'>MMS - Xero Accounting Solution</a><br></td>

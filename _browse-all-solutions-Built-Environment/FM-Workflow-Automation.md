@@ -31,10 +31,6 @@ This solution is supported by BCA.
 <td><a href='/productivity-solutions-grant/solutionrepo/201612131Z-Smplfy-v-12-G' target='_blank'>Simplify Version 1.2</a><br></td>
 <td>Noid Singapore Pte Ltd</td>
 </tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200604333Z-VsonMn-G' target='_blank'>VisionMan</a><br></td>
-<td>ECS Techno_Sys (Asia Pacific) Pte. Ltd.</td>
-</tr>
 </table>
 
 {% include banner-psg-survey.html %}

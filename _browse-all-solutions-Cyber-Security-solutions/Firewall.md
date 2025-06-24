@@ -20,10 +20,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201300674N-AWECREATION-Fortnt-Mngd-Frwll-SLNs-G' target='_blank'>AWECREATION - Fortinet Managed Firewall Solutions</a><br></td>
-<td>AWECREATION PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201214085K-Chckpont-SMB-Scurty-Sut-v-10-G' target='_blank'>Checkpoint SMB Security Suite Version 1.0</a><br></td>
 <td>Nucleo Consulting Pte Ltd</td>
 </tr>
