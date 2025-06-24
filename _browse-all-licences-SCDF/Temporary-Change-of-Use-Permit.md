@@ -23,17 +23,17 @@ Application Fee: $60
 <H3>Documents Needed</H3>
 
 <ul>
-<li><strong>Layout Plans</strong><br />Layout plans to be endorsed by landowner/building management.<br>
+<li><strong>Under Layout Plans</strong><br />Site and event/floor layout plan endorsed by landowner/premises owner with date and indication of the title, duration, and location of an event.<br>
 File format: pdf,doc,docx,tif,jpg<br>
-Maximum upload per application: 2 MB
+Maximum upload per application: 7 MB
 </li>
-<li><strong>Land owner's approval letter</strong><br>
+<li><strong>Land owner's approval letter</strong><br />Approval letter from land owner/premises owner with date and indication of the title, duration and location of an event.<br>
 File format: pdf,doc,docx,tif,jpg<br>
-Maximum upload per application: 2 MB
+Maximum upload per application: 7 MB
 </li>
-<li><strong>Photo of the Venue/Location</strong><br>
+<li><strong>Photo of the Venue/Location</strong><br />Photos of event location (include photos of actual tents' set up, etc, if possible).<br>
 File format: pdf,doc,docx,tif,jpg<br>
-Maximum upload per application: 2 MB
+Maximum upload per application: 7 MB
 </li>
 </ul>
 
