@@ -5,7 +5,7 @@ permalink: /intellectual-property/ip-grow/siliconplus-communications-pte-ltd/
 
 ## SiliconPlus Communications Pte Ltd
 
-SiliconPlus Communications is a branding agency that delivers end-to-end solutions - from brand audits and strategy to identity systems, campaigns, and rollout. Whether we're refreshing a national institution or launching a new business, we bring structure, substance, and creativity to every touchpoint.
+SiliconPlus Communications is a branding agency that delivers end-to-end solutions—from brand audits and strategy to identity systems, campaigns, and rollout. Whether we’re refreshing a national institution or launching a new business, we bring structure, substance, and creativity to every touchpoint.
 
 Our services span:
 Brand Discovery & Audit
@@ -14,11 +14,11 @@ Identity Systems & Design Development
 Brand Activation & Implementation
 Ongoing Engagement & Content Creation
 
-We are your brand transformation partner - with the depth to diagnose, the creativity to inspire, and the craft to deliver. Every engagement is grounded in strategic thinking, storytelling, technology, and design excellence.
+We are your brand transformation partner—with the depth to diagnose, the creativity to inspire, and the craft to deliver. Every engagement is grounded in strategic thinking, storytelling, technology, and design excellence.
 
-We work with universities,  large corporates, SMEs and government agencies - building brands where trust, transformation, and storytelling matter.
+We work with universities,  large corporates, SMEs and government agencies —building brands where trust, transformation, and storytelling matter.
 
-At SiliconPlus, we believe in the Power of the Plus-going one step further to build brands that connect, grow, and endure.
+At SiliconPlus, we believe in the Power of the Plus—going one step further to build brands that connect, grow, and endure.
 
 <b>Year established in Singapore:</b> 1999
 
@@ -70,7 +70,7 @@ At SiliconPlus, we believe in the Power of the Plus-going one step further to bu
 
 **Percentage of revenue by organisational type, based on previous calendar year:**
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Government - 60%</li><li style='line-height: 27px; margin: 0px 0px !important'>Large Enterprises (Annual sales turnover of more than S$100 million or employment size of more than 200 employees) - 20%</li><li style='line-height: 27px; margin: 0px 0px !important'>SMEs - 20%</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Government - 60%</li><li style='line-height: 27px; margin: 0px 0px !important'>Large enterprises - 20%</li><li style='line-height: 27px; margin: 0px 0px !important'>Small and medium-sized enterprise - 20%</li></ul>
 
 ---
 <a name='key-practice-experts'></a>

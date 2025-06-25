@@ -9,7 +9,7 @@ J.S. Held Singapore Pte. Ltd. is a subsidiary of J.S. Held LLC ("JSH"), a global
 
 JSH's global IP services address economic damage calculations and testimony; business licensing strategy and contract interpretation; patent-focused business intelligence; portfolio development strategy; litigation support; trade secret reasonable measures; asset and business valuation; strategy and risk management consulting; merger and acquisition advisory; debt and equity private placement; and IP brokerage.
 
-JSH's other specialised forensic accounting, economics, and corporate finance services include business interruption / lost profits, business valuation, commercial litigation, cyber, extra expense / increased cost of working, family law disputes, fraud, intellectual property, labor and employment disputes, personal injury / wrongful death, and restructuring, turnaround, and receivership.
+JSH’s other specialised forensic accounting, economics, and corporate finance services include business interruption / lost profits, business valuation, commercial litigation, cyber, extra expense / increased cost of working, family law disputes, fraud, intellectual property, labor and employment disputes, personal injury / wrongful death, and restructuring, turnaround, and receivership.
 
 <b>Year established in Singapore:</b> 2020
 
