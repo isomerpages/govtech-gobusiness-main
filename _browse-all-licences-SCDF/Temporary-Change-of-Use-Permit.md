@@ -12,7 +12,7 @@ Singapore Civil Defence Force (SCDF)
 
 <H3>Application Details</H3>
 
-<p>Under Fire Safety Action Section 30, a Temporary Change of Use approval is required to erect necessary structures for exhibitions, promotions, trade fairs, carnivals or stage shows.</p>
+<p>Under Fire Safety Act, an application to Singapore Civil Defence Force (SCDF) for approval of temporary change of use is required for the purpose of temporary events such as stage shows, promotional activities, exhibitions, trade fairs or carnivals. The reason for this is to ensure adequate fire safety measures are provided at the event site due to the increase in fire load as a result of the temporary set-up.</p>
 
 <strong>Additional Information</strong>
 
