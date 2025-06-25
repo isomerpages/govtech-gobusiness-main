@@ -24,11 +24,11 @@ Cybersecurity Services Regulation Office (CSRO)
 
 <H3>Documents Needed</H3>
 
-<p>Supporting Documents</p> 
-<ul style="margin-top: 0cm;" type="disc"> 
-<li>Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport showing the personal particulars and official descriptions (for overseas applicants only)</li> 
-<li>Declaration Forms</li> 
-<li>Certificate of clearance (for overseas applicants only)</li> 
-<li>Business Profile/ACRA (for business entity only)</li> 
+<p>Supporting Documents</p>
+<ul style="margin-top: 0cm;" type="disc">
+<li>Photocopy of both sides of NRIC/Work Pass, or photocopy of Passport showing the personal particulars and official descriptions (for overseas applicants only)</li>
+<li>Declaration Forms</li>
+<li>Certificate of clearance (for overseas applicants only)</li>
+<li>Business Profile/ACRA (for business entity only)</li>
 </ul>
 
