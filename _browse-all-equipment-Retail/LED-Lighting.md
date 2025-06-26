@@ -26,7 +26,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 
 - AGRANERGY PTE. LTD. - A16-C39BT8SEB4-18T65L
 - AGRANERGY PTE. LTD. - A16-C39T8SEB4-18T65L
-- astee - LEDT8-24W4
 - Beacon LED Lighting - A60E27N6-D
 - Beacon LED Lighting - A60E27N6-W
 - Beacon LED Lighting - C35E14N4-D
@@ -85,7 +84,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - DMS - A60-6W-LED-4SD-CLEAR
 - DMS - A60-COG-I DIM
 - DMS - C35-3.5W-RA80-CRYS-3000K
-- DMS - C35-3.5W-RA80-CRYS-3000K3
 - DMS - G125-COG-I DIM
 - DMS - G80-6W-LED-4SD-CLEAR
 - DMS - G95-COG-I DIM
@@ -117,16 +115,12 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - DYCORRA - DY-LFGC-8E27
 - DYCORRA - DY-LFST-6E27
 - DYCORRA - DY-LFST-8E27
-- DYCORRA - DY-LFT45-4E27
 - DYCORRA - DY-PIN-5E27
-- DYCORRA - DY-PIN-7G24
 - DYCORRA - DY-PIN-9E27S
-- DYCORRA - DY-PIN-9G24
 - DYCORRA - DY-PIN-9G24dS
 - DYCORRA - DY-PINA-7E14
 - DYCORRA - DY-PINA-9B22
 - DYCORRA - DY-PINA-9E14
-- DYCORRA - DY-PINW-9E27
 - DYCORRA - DY-T8A-18
 - DYCORRA - DY-T8A-30
 - DYCORRA - DY-UFO-18
@@ -177,7 +171,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - IKEA - LED2012G6K4
 - IKEA - LED2013G8
 - IKEA - LED2014G10
-- IKEA - LED2015G3
 - IKEA - LED2016G2
 - IKEA - LED2017C2
 - IKEA - LED2018G3
@@ -249,7 +242,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - LEDVANCE - LEDTUBE T5 AC HO80 P 1449 36W 840
 - LEDVANCE - LEDTUBE T5 AC HO80 P 1449 36W 865
 - Lighting - T8-LED-20W-65
-- Loyal - LY-T8G-120-F 24W Double End
 - Loyal - LY-TB-32W
 - Loyal - LY-TB-9W-3000K
 - Loyal - LY-TB-9W-6500K
@@ -268,9 +260,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Megaman - LG200130/dm-OPv00-3000K
 - Megaman - LG200130/dm-OPv00-4000K
 - Megaman - LG200130/dm-OPv00-6500K
-- Megaman - LG200135-Opv00-E27-2800K
-- Megaman - LG200135-Opv00-E27-4000K
-- Megaman - LG200135-Opv00-E27-6500K
 - Megaman - LH0133-E27-2800K
 - Megaman - LH0133-E27-6500K
 - Megaman - LT200160/mb-12v01-4000K
@@ -326,13 +315,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Osram - LED VALUE STICK 7.2W/830 G24D
 - Osram - LED VALUE STICK 7.2W/840 G24D
 - Osram - LED VALUE STICK 7.2W/865 G24D
-- Osram - LEDTUBE T8 EM PRO 1500 18.8W 840
-- Osram - LEDTUBE T8 EM PRO 1500 18.8W 865
-- Osram - LEDTUBE T8 EM PRO 600 6.7W 840
-- Osram - LEDTUBE T8 EM PRO 600 6.7W 865
-- Osram - LEDTUBE T8 EM PRO UO 1200 14.9W 830
-- Osram - LEDTUBE T8 EM PRO UO 1200 14.9W 840
-- Osram - LEDTUBE T8 EM PRO UO 1200 14.9W 865
 - Osram - LEDTUBE T8 EM S 1200 12W 830
 - Osram - LEDTUBE T8 EM S 1200 12W 840
 - Osram - LEDTUBE T8 EM S 1200 12W 865
@@ -525,14 +507,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Philips - 8718699619022(NEW)
 - Philips - 8718699619060(NEW)
 - Philips - 8718699619107(NEW)
-- Philips - 8718699640477
-- Philips - 8718699640491
-- Philips - 8718699640514
-- Philips - 8718699640538
-- Philips - 8718699640552
-- Philips - 8718699640576
-- Philips - 8718699640590
-- Philips - 8718699640613
 - Philips - 8718699647216
 - Philips - 8718699647230
 - Philips - 8718699647254
@@ -542,7 +516,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Philips - 8718699647575 Updated
 - Philips - 8718699663971 LEDBulb 8W E27 4000K 230V 1PF 12 9 APR
 - Philips - 8718699663995 LEDBulb 10W E27 4000K 230V 1PF 12 9 APR
-- Philips - 8718699664015
 - Philips - 8718699664015 LEDBulb 12W E27 4000K 230V 1PF 12 9 APR
 - Philips - 8718699664015(NEW)
 - Philips - 8718699669706
@@ -594,15 +567,11 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Philips - 8719514339743 MAS LEDtube 1200mm UE 13.5W 865 T8
 - Philips - 8719514339767 MAS LEDtube 1500mm UE 20W 840 T8
 - Philips - 8719514339781 MAS LEDtube 1500mm UE 20W 865 T8
-- Philips - 8719514350687
 - Philips - 8719514350687 Updated
 - Philips - 8719514350700
-- Philips - 8719514350724
 - Philips - 8719514350724 Updated
-- Philips - 8719514350748
 - Philips - 8719514350748 Updated
 - Philips - 8719514350762
-- Philips - 8719514350786
 - Philips - 8719514350786 Updated
 - Philips - 8719514377172
 - Philips - 8719514377295
@@ -614,18 +583,12 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Philips - 8719514431683
 - Philips - 8719514447035
 - Philips - 8719514447059
-- Philips - 8719514447073
-- Philips - 8719514447097
-- Philips - 8719514447110
-- Philips - 8719514447134
 - Philips - 8719514449374
 - Philips - 8719514449398
 - Philips - 8719514449510
 - Philips - 8719514449534
 - Philips - 8719514449671
 - Philips - 8719514449718
-- Philips - 8719514457898
-- Philips - 8719514457911
 - Philips - 8719514468429
 - Philips - 8719514468443
 - Philips - 8719514468467
@@ -649,6 +612,9 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Philips - 8720169296480 LED PLC 8.9W 840 G24d-3
 - Philips - 8720169306042 LEDBulb 19W E27 3000K 230V A80 1CT 6 AU
 - Philips - 8720169306066 LEDBulb 19W E27 6500K 230V A80 1CT 6 AU
+- Philips - 8720169316058 MAS HO 13W830 T8
+- Philips - 8720169316072 MAS HO 13W840 T8
+- Philips - 8720169316119 MAS HO 13W865 T8
 - Philips - 8720169325890 LED PLC 6.9W 865 G24d-2
 - Philips - 8720169325913 LED PLC 8.9W 865 G24d-3
 - Philips - 8720169332843 LEDBulb 14.5W E27 3000K 230V A67 1CT 6 AU
@@ -658,9 +624,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Philips - 872016935976 MAS HO 8W865 T8
 - Philips - 872016936010 MAS STD 10W840 T8
 - Philips - 872016936034 MAS STD 10W865 T8
-- Philips - 872016936058 MAS HO 13W830 T8
-- Philips - 872016936072 MAS HO 13W840 T8
-- Philips - 872016936119 MAS HO 13W865 T8
+- Philips - 8720170000000
 - Philips - 8721103042606 LED PLC 6.5W 865 2P G24d
 - Philips - 8721103042620 LED PLC 7.5W 865 2P G24d
 - Philips - 8721103042644 LED PLC 10W 865 2P G24d
@@ -670,8 +634,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Philips - 8721103042729 LED PLC 7.5W 840 2P G24d
 - Philips - 8721103042743 LED PLC 10W 830 2P G24d
 - Philips - 8721103042767 LED PLC 10W 840 2P G24d
-- Philips - 929001165037
-- Philips - 9290011650A
 - Philips - 9290020000A CNG HO 1200mm 18W 840 T8
 - Philips - 9290020001A CNG HO 1200mm 18W 865 T8
 - Philips - 9290030099A MAS LEDBulb DT3.4
@@ -721,7 +683,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - PowerPac - PP2111
 - PowerPac - PP6021
 - PowerPac - PP6022
-- PowerPac - PP6023
 - PowerPac - PP6024
 - PowerPac - PP6031
 - PowerPac - PP6032
@@ -830,8 +791,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - VISALUX - VPT-8840 40W 6500K
 - VISALUX - VPT-8850 50W 3000K
 - VISALUX - VPT-8850 50W 6500K
-- VISALUX - VPT-8860 60W 3000K
-- VISALUX - VPT-8860 60W 6500K
 - VIVE -  VI-T8-35WCW
 - VIVE -  VI-T8-35WDL
 - VIVE - VI-A130-40WESCW
