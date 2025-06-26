@@ -27,7 +27,7 @@ Domestic servants, gardeners or chauffeurs are exempted.
 
 The levies go to the Skills Development Fund (SDF), which supports workforce upgrading programmes and provides grants for employees who attend training under the national Continuing Education and Training system.
 
-The SDL and SDF are administrated by the [SkillsFuture Singapore Agency (SSG)](https://skillsfuture.gov.sg/){:target="_blank"}{:rel="noopener"}. You can read about the [Skills Development Levy (SDL)](https://sso.agc.gov.sg/Act/SDLA1979?ProvIds=P11-#pr2-){:target="_blank"}{:rel="noopener"} and the [SDL regulations](https://sso.agc.gov.sg/SL/SDLA1979-RG2?DocDate=20161003){:target="_blank"}{:rel="noopener"} on the Singapore Statutes Online website.
+The SDL and SDF are administrated by the [SkillsFuture Singapore Agency (SSG)](https://www.ssg.gov.sg/){:target="_blank"}{:rel="noopener"}. You can read about the [Skills Development Levy (SDL)](https://sso.agc.gov.sg/Act/SDLA1979?ProvIds=P11-#pr2-){:target="_blank"}{:rel="noopener"} and the [SDL regulations](https://sso.agc.gov.sg/SL/SDLA1979-RG2?DocDate=20161003){:target="_blank"}{:rel="noopener"} on the Singapore Statutes Online website.
 
 ---
 
@@ -36,7 +36,7 @@ The SDL and SDF are administrated by the [SkillsFuture Singapore Agency (SSG)](h
 
 The SDL payable is at 0.25% of the monthly remuneration for each employee, with the minimum payable of $2 (for an employee earning less than $800 a month) and a maximum of $11.25 (for an employee earning more than $4,500 a month).
 
-You can use the [SDL calculator](https://go.gov.sg/sdl-calculator){:target="_blank"}{:rel="noopener"} to compute the payable amount.
+You can use the [SDL calculator](https://go.gov.sg/sdlcalculator){:target="_blank"}{:rel="noopener"} to compute the payable amount.
 
 Late payment may result in a penalty of 10% on the outstanding amount each year.
 
@@ -82,7 +82,7 @@ Late payment may result in a penalty of 10% on the outstanding amount each year.
 
 Compute SDL amount payable (no login required):
 
-- [SDL Calculator](https://go.gov.sg/sdl-calculator){:target="_blank"}{:rel="noopener"}
+- [SDL Calculator](https://go.gov.sg/sdlcalculator){:target="_blank"}{:rel="noopener"}
 
 **Log into GoBusiness Dashboard** to access the following e-Services:
 - [SDL Payment & Declaration](https://dashboard.gobusiness.gov.sg/sdl/make-payment){:target="_blank"}{:rel="noopener"}

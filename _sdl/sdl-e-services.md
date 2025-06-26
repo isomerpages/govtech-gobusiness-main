@@ -15,7 +15,7 @@ permalink: /sdl-e-services/
 </tr>
 <tr>
     <td> 
-        <a href="https://go.gov.sg/sdl-calculator" target="_blank" rel="noopener">SDL Calculator</a>
+        <a href="https://go.gov.sg/sdlcalculator" target="_blank" rel="noopener">SDL Calculator</a>
     </td> 
     <td>
         Compute SDL amount payable with an online calculator. No login required.
