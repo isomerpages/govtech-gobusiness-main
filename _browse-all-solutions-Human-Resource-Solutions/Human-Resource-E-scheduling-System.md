@@ -44,10 +44,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>TIME ACCESS INTERNATIONAL</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200818854Z-WhyzHR-Schdulng-v-12-G' target='_blank'>WhyzeHR eScheduling Version 12</a><br></td>
-<td>Whyze Solutions Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201324947N-QuckHR-Schdulng-G' target='_blank'>QuickHR (e-Scheduling)</a><br></td>
 <td>Enable Business Pte. Ltd.</td>
 </tr>

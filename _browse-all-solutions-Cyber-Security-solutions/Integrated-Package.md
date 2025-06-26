@@ -43,6 +43,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td><a href='/productivity-solutions-grant/solutionrepo/200508212K-Advntus-Mcrosoft-365-Busnss-Prmum-G' target='_blank'>Adventus Microsoft 365 Business Premium</a><br></td>
 <td>Adventus Singapore Pte. Ltd.</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/199305875R-CybrScurty-Mcrosoft-Busnss-Prmum-G' target='_blank'>CyberSecurity (Microsoft Business Premium)</a><br></td>
+<td>Win-Pro Consultancy Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

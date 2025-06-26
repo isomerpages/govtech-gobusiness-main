@@ -55,6 +55,14 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td><a href='/productivity-solutions-grant/solutionrepo/202114643G-Exbloom-Chtbot-G' target='_blank'>Exabloom Chatbot</a><br></td>
 <td>Exabloom Pte. Ltd. </td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201215396N-Intrcom-AI-Chtbot-by-I-Concpt-G' target='_blank'>Intercom AI Chatbot by I Concept</a><br></td>
+<td>I Concept Innovation Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201414976G-Sngbot-G' target='_blank'>Singabot</a><br></td>
+<td>Superfastech Pte. Ltd.</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
