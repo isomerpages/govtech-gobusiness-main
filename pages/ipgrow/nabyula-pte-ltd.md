@@ -15,7 +15,7 @@ Nabyula is a specialist brand communication consultancy that helps fast-growing 
 
 <b>Address in Singapore:</b> 21 Woodlands Close #09-30, Primz Bizhub, Singapore 737854
 
-<b>Website:</b> <a href='https://www.nabyula.com'>https://www.nabyula.com</a>
+<b>Website:</b> <a href='https://www.kinetiqbuzz.com/'>https://www.kinetiqbuzz.com/</a>
 
 <b>Offer:</b> Feel free to contact us for a discovery chat to see if it is a good fit.
 
@@ -86,4 +86,4 @@ Nabyula is a specialist brand communication consultancy that helps fast-growing 
 <p>
 <a class='btn' href='https://form.gov.sg/67ceb2ea76d42d8bdd62e22b' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 27 March 2025
+Profile last updated on 25 June 2025

@@ -34,7 +34,7 @@ There are public IP databases that you can tap on to perform your analyses. Perf
 ---
 
 ### Connect with relevant service providers for IP intelligence and search services
-**43 service providers listed.**
+**44 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -709,6 +709,22 @@ Full service law firm with strong IP/IT and technology practice.
 </ul>
 
 <a class='btn' href='https://form.gov.sg/68047d2bf53b12b2f2fe2b0b' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ctlc-law-corporation/){:target='_blank'}
+
+---
+
+#### Aengel IP LLP
+
+Aengel IP strives to obtain broad and strong intellectual property protection for clients globally.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 50</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free initial consult</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/6847c780a7ae8f9512d506e5' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/aengel-ip-llp/){:target='_blank'}
 
 ---
 

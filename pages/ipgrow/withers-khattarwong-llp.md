@@ -119,7 +119,7 @@ Withers has 17 offices worldwide in London, New York, New Haven, Greenwich (Conn
 
 **Percentage of clients by country, based on previous calendar year:**
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 100%</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 50%</li><li style='line-height: 27px; margin: 0px 0px !important'>Others - 50%</li></ul>
 
 ---
 <a name='key-practice-experts'></a>
@@ -170,4 +170,4 @@ Withers has 17 offices worldwide in London, New York, New Haven, Greenwich (Conn
 <p>
 <a class='btn' href='https://form.gov.sg/67ce503dda4f6bd4764e662a' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 23 April 2025
+Profile last updated on 25 June 2025

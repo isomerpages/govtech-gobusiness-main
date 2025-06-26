@@ -18,7 +18,7 @@ We are your brand transformation partner - with the depth to diagnose, the creat
 
 We work with universities,  large corporates, SMEs and government agencies - building brands where trust, transformation, and storytelling matter.
 
-At SiliconPlus, we believe in the Power of the Plus-going one step further to build brands that connect, grow, and endure.
+At SiliconPlus, we believe in the Power of the Plus - going one step further to build brands that connect, grow, and endure.
 
 <b>Year established in Singapore:</b> 1999
 
@@ -70,7 +70,7 @@ At SiliconPlus, we believe in the Power of the Plus-going one step further to bu
 
 **Percentage of revenue by organisational type, based on previous calendar year:**
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Government - 60%</li><li style='line-height: 27px; margin: 0px 0px !important'>Large Enterprises (Annual sales turnover of more than S$100 million or employment size of more than 200 employees) - 20%</li><li style='line-height: 27px; margin: 0px 0px !important'>SMEs - 20%</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Government - 60%</li><li style='line-height: 27px; margin: 0px 0px !important'>Large enterprises - 20%</li><li style='line-height: 27px; margin: 0px 0px !important'>Small and medium-sized enterprise - 20%</li></ul>
 
 ---
 <a name='key-practice-experts'></a>

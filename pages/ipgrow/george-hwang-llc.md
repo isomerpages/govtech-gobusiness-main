@@ -25,9 +25,9 @@ Besides Singapore, George has worked in Hong Kong, Bulgaria, the Bahamas and the
 
 <b>Website:</b> <a href='https://georgehwangllc.com'>https://georgehwangllc.com</a>
 
-<b>Offer:</b> SIPDA participating service provider
+<b>Offer:</b> IP Business Clinic participating service provider; SIPDA participating service provider
 
-<a class='btn' href='https://form.gov.sg/67d23eeb42a4f949badebf26' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/684ba08896f20e38e9da9666' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -52,6 +52,16 @@ Besides Singapore, George has worked in Hong Kong, Bulgaria, the Bahamas and the
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of cases completed in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,000</li>
+</ul>
+
+**IP Due Diligence Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects on database in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Due Diligence experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Due Diligence experts overseas: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,000</li>
 </ul>
 
@@ -115,6 +125,6 @@ Besides Singapore, George has worked in Hong Kong, Bulgaria, the Bahamas and the
 
 ---
 <p>
-<a class='btn' href='https://form.gov.sg/67d23eeb42a4f949badebf26' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/684ba08896f20e38e9da9666' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 27 March 2025
+Profile last updated on 25 June 2025
