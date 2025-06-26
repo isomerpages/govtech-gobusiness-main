@@ -640,7 +640,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Philips - 9290030103A MAS LEDBulbDT5.9
 - Philips - 9290030119A MAS LEDCandleDT2.5-25W E14 B35 CL G
 - Philips - 9290030120A MAS LEDLusterDT2.5
-- Philips - 9290030121A  MAS LEDLusterDT2.5
 - Philips - 9290030121A MAS LEDLusterDT2.5
 - Philips - 9290030122A MAS LEDCandleDT3.4-40W E14 927 B35CL G
 - Philips - 9290030123A MAS LEDCandleDT3.4-40W E27  927 B35CL G

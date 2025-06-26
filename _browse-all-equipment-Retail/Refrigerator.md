@@ -1428,7 +1428,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - SHARP - SJ-SS60G-BK
 - SHARP - SJ-VX57ES-DS
 - SHARP - SJ-PS60P-DS
-- SHARP - SJ-RF36E-DS
 - SHARP - SJ-VX57PG-BK
 - SHARP - SJ-VX57PG-DM
 - Singmah - LD-1430M3WP
@@ -1787,10 +1786,8 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Ty - RTGD-4FSLD-PT-INV
 - Ty - UNGD-2DC-2245H-INV
 - Ty - UNGD-2DF-2245H-INV
-- Ty - UNGD-2DF-INV
 - Ty - UNGD-3DC-2245H-INV
 - Ty - UNGD-3DF-2245H-INV
-- Ty - UNGD-3DF-INV
 - Ty Brand - RTGD-1DC-260-IVTH
 - Ty Brand - RTGD-1DC-330-IVTH
 - Ty Brand - RTGD-1DC-IVTH-B
