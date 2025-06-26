@@ -27,8 +27,6 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 
 ### Pre-Approved Equipment Brands and Models
 
-- AVOLTA - SGTC4T-S1B09
-- AVOLTA - SGTC4T-S1B12
 - Daikin - MKC70WVMG
 - Daikin - MKM100VVMG
 - Daikin - MKM100ZVMG
@@ -47,7 +45,6 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - Daikin - RKM35ZVMG
 - Daikin - RKM50ZVMG
 - Daikin - RXMQ6AAVEG
-- Daikin - RXMUQ4AVEG
 - Daikin - RXMUQ5AVEG
 - Daikin - RXMUQ6AVEG
 - Daikin - RXQ10AYM
@@ -91,10 +88,7 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - Daikin - RXUQ8AYMG
 - Daikin - RXUQ8AYMW
 - Daikin - RXUQ8BYMG
-- Enovatek Energy - EES-ADC09GW-XA-32R+5
 - Enovatek Energy - EES-ADC12GW-XA-32R+5
-- Enovatek Energy - EES-ADC18GW-XA-32R+5
-- Enovatek Energy - EES-ADX24GW-XA-32R+5
 - EuropAce - ESAC MA3R215A
 - EuropAce - ESAC MA4R285A
 - EuropAce - ESAC18CUD
@@ -164,8 +158,6 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - LG - ARUN162LTE6
 - LG - ARUN180LTE5
 - LG - ARUN182LTE6
-- LG - ARUV030GSD0
-- LG - ARUV040GSD0
 - LG - Z3UQ18GFA0
 - LG - Z3UQ26GFA0
 - LG - Z4UQ28GFA0
@@ -222,7 +214,6 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - Mitsubishi Electric - MXY-4H33VG2
 - Mitsubishi Electric - MXY-4H38VG
 - Mitsubishi Electric - MXY-5H48VG
-- Mitsubishi Electric - MXY-6C53VAM
 - Mitsubishi Electric - MXY-6D53VFM
 - Mitsubishi Electric - PUCY-EP200YKE.TH-SG
 - Mitsubishi Electric - PUCY-EP200YKE.TH-SG-BS
@@ -316,8 +307,6 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - Toshiba - MMY-MAP14A7T8P-SG
 - Toshiba - MMY-MUP0801T8P-SG
 - Toshiba - MMY-MUP1001T8P-SG
-- Toshiba - MMY-MUP1201T8P-SG
-- Toshiba - MMY-MUP1401T8P-SG
 - Toshiba - MMY-MUP14A1T8P-SG
 - Toshiba - MMY-MUP1601T8P-SG
 - Toshiba - RAS-2M21P2ACVG-SG
