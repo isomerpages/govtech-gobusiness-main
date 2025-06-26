@@ -36,10 +36,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>Megasafe Technology Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200100911R-Studo-Mngr-v-9-G' target='_blank'>Studio Manager Version 9</a><br></td>
-<td>ARCHER LOGIC (S) PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200809939C-WESS-Wllnss-MGT-Softwr-v-20-G' target='_blank'>WESS - Wellness Management Software Version 2.0</a><br></td>
 <td>Refine Solutions Pte. Ltd.</td>
 </tr>
