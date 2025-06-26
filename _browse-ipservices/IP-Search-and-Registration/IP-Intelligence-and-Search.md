@@ -721,6 +721,7 @@ Aengel IP strives to obtain broad and strong intellectual property protection fo
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 50</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free initial consult</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/6847c780a7ae8f9512d506e5' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/aengel-ip-llp/){:target='_blank'}

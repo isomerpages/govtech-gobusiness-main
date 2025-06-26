@@ -17,6 +17,8 @@ From complex multidisciplinary subject matter to simple innovations and with bre
 
 <b>Website:</b> <a href='https://www.aengelip.com'>https://www.aengelip.com</a>
 
+<b>Offer:</b> Free initial consult
+
 <a class='btn' href='https://form.gov.sg/6847c780a7ae8f9512d506e5' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
