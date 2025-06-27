@@ -100,7 +100,6 @@ At Aequitas we give you the right legal advice at the right time to protect your
 - Certifications/Qualifications: Advocate & Solicitor with Supreme Court of Singapore (2009)
 - URL of LinkedIn/Company Profile: <a href="https://aqt.sg/team/" target="_blank" rel="noopener">https://aqt.sg/team/</a>
 
-
 **Wong Kaizhou**
 
 - Job Title: Associate
@@ -108,24 +107,6 @@ At Aequitas we give you the right legal advice at the right time to protect your
 - Location: Singapore
 - IA/IP-Related Expertise: Trade Mark Agent Service, Contract Drafting, Dispute Resolution
 - Certifications/Qualifications: Advocate & Solicitor with Supreme Court of Singapore (2021)
-- URL of LinkedIn/Company Profile: <a href="https://aqt.sg/team/" target="_blank" rel="noopener">https://aqt.sg/team/</a>
-
-**Glenda Lim**
-
-- Job Title: Associate
-- Years of Experience: 5 years
-- Location: Singapore
-- IA/IP-Related Expertise: Contract Drafting, Dispute Resolution
-- Certifications/Qualifications: Advocate & Solicitor with Supreme Court of Singapore (2018)
-- URL of LinkedIn/Company Profile: <a href="https://aqt.sg/team/" target="_blank" rel="noopener">https://aqt.sg/team/</a>
-
-**Wan Chi Kit**
-
-- Job Title: Associate
-- Years of Experience: 5 years
-- Location: Singapore
-- IA/IP-Related Expertise: Contract Drafting, Dispute Resolution
-- Certifications/Qualifications: Advocate & Solicitor with Supreme Court of Singapore (2018)
 - URL of LinkedIn/Company Profile: <a href="https://aqt.sg/team/" target="_blank" rel="noopener">https://aqt.sg/team/</a>
 
 **Shermaine Ang**
@@ -141,4 +122,4 @@ At Aequitas we give you the right legal advice at the right time to protect your
 <p>
 <a class='btn' href='https://form.gov.sg/67cf9cfa28c24ee0476471b2' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 27 March 2025
+Profile last updated on 25 June 2025

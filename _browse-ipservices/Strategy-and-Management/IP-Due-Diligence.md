@@ -24,7 +24,7 @@ Conducting IP due diligence empowers your business with valuable information to 
 ---
 
 ### Connect with relevant service providers for IP due diligence services
-**47 service providers listed.**
+**48 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -761,6 +761,22 @@ EY work across a full spectrum of services in assurance, consulting, tax, strate
 </ul>
 
 <a class='btn' href='https://form.gov.sg/67d7d540d384b6c1f0478e28' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ey-corporate-advisors-pte-ltd/){:target='_blank'}
+
+---
+
+#### George Hwang LLC
+
+George Hwang LLC is a boutique IP/IT and Media law firm with proven experience in complicated cases.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects on database in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider; SIPDA participating service provider</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/684ba08896f20e38e9da9666' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/george-hwang-llc/){:target='_blank'}
 
 ---
 

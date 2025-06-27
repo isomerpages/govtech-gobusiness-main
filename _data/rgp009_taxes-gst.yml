@@ -6,7 +6,7 @@
 
 - title: 'SDL Calculator'
   description: Compute SDL amount payable with an online calculator. No login required.
-  url: https://go.gov.sg/sdl-calculator
+  url: https://go.gov.sg/sdlcalculator
   url-new-tab: true
   text: Go To SDL Calculator
 

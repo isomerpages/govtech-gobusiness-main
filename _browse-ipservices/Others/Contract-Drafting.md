@@ -778,10 +778,10 @@ George Hwang LLC is a boutique IP/IT and Media law firm with proven experience i
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,000</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> SIPDA participating service provider</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> IP Business Clinic participating service provider; SIPDA participating service provider</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/67d23eeb42a4f949badebf26' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/george-hwang-llc/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/684ba08896f20e38e9da9666' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/george-hwang-llc/){:target='_blank'}
 
 ---
 

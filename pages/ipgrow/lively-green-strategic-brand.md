@@ -103,6 +103,7 @@ Our tailored solutions combine strategic brand design and innovative technology 
 ### Key practice experts
 
 **Jeff Au**
+
 - Job Title: Managing Director
 - Years of Experience: 20 years
 - Location: Singapore

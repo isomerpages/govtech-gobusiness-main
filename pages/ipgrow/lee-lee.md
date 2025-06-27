@@ -212,19 +212,17 @@ Chambers 2023 describes Lee & Lee as having "strong reputation in litigation and
 - Certifications/Qualifications: LL.B. (Hons) National University of Singapore 2015, Admitted to the Singapore Bar 2016
 - URL of LinkedIn/Company Profile: <a href="https://www.leenlee.com.sg/lim-jasper" target="_blank" rel="noopener">https://www.leenlee.com.sg/lim-jasper</a>
 
-
-**Chongshuo, Yan**
+**Eugene, Lau**
 
 - Job Title: Partner, Intellectual Property
 - Years of Experience: 8 years
 - Location: Singapore
-- IA/IP-Related Expertise: Contract Drafting, Dispute Resolution, IP Due Diligence 
-- Certifications/Qualifications: LL.B. (Cum Laude) Singapore Management University 2015, Admitted to the Singapore Bar 2016, Certified Information Privacy Professional (Asia) (CIPP/A) of the International Association of Privacy Professionals (IAPP)
-- URL of LinkedIn/Company Profile: <a href="https://www.leenlee.com.sg/chongshuo-yan/" target="_blank" rel="noopener">https://www.leenlee.com.sg/chongshuo-yan/</a>  
-
+- IA/IP-Related Expertise: Trade Mark Agent Service, IP Audit, IP Due Diligence, Contract Drafting, Dispute Resolution
+- Certifications/Qualifications: BEng (Chemical Engineering) National University of Singapore 2006, LL.B. (Hons) University of Southampton 2015, Admitted to the Singapore Bar 2017
+- URL of LinkedIn/Company Profile: <a href="https://www.leenlee.com.sg/lau-eugene/" target="_blank" rel="noopener">https://www.leenlee.com.sg/lau-eugene/</a>
 
 ---
 <p>
 <a class='btn' href='https://form.gov.sg/67cea777cdf17695deb3e903' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 9 June 2025
+Profile last updated on 25 June 2025

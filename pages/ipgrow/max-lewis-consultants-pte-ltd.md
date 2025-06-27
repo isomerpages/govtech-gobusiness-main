@@ -99,7 +99,7 @@ Established in 2007, Max Lewis Consultants Pte Ltd is a professional firm specia
 <a name='case-studies'></a>
 ### Case studies
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://www.maxlewis.com.sg/our-services/business-valuation-services/" target="_blank" rel="noopener">case study 1</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.maxlewis.com.sg/our-services/intangible-assets-valuation/" target="_blank" rel="noopener">case study 2</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.maxlewis.com.sg/our-services/derivatives-valuation/" target="_blank" rel="noopener">case study 3</a>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://www.maxlewis.com.sg/our-services/business-valuation-services/" target="_blank" rel="noopener">case study 1</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.maxlewis.com.sg/our-services/intangible-assets-valuation/" target="_blank" rel="noopener">case study 2</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.maxlewis.com.sg/our-services/esos-options-valuation/" target="_blank" rel="noopener">case study 3</a>
 
 </li></ul>
 
@@ -121,4 +121,4 @@ Established in 2007, Max Lewis Consultants Pte Ltd is a professional firm specia
 <p>
 <a class='btn' href='https://form.gov.sg/67ce7e0d6c77bb89d04eb17d' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 27 March 2025
+Profile last updated on 25 June 2025
