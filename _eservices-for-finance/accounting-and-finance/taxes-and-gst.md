@@ -18,7 +18,7 @@ Learn more at our [Run and Grow guide for taxes, levy, and GST](/run-and-grow/).
 
 **SkillsFuture Singapore (SSG)**
 
-- [SDL Calculator](https://go.gov.sg/sdl-calculator){:target="_blank"}{:rel="noopener"}
+- [SDL Calculator](https://go.gov.sg/sdlcalculator){:target="_blank"}{:rel="noopener"}
   <br>Compute SDL amount payable with an online calculator.
 
 - [SDL Payment & Declaration via GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/sdl/make-payment){:target="_blank"}{:rel="noopener"}
