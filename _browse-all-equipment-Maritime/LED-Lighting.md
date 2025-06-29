@@ -79,8 +79,10 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - Dluces - DLS-LED-T8-600-HB
 - DMS - 406 - DMS-FIL-FR-A60-CCD-4.9W
 - DMS - 406-DMS-A60-CCD-7W-E27
+- DMS - 406-DMS-C37-CCD-5.4W
 - DMS - 406-DMS-FIL-FR-C35-CCD-2.9W-E14
 - DMS - 406-DMS-FIL-FR-G45-CCD-4.9W-E14
+- DMS - 406-DMS-FIL-FR-ST64-CCD-4.9W-E27
 - DMS - 406-DMS-G45-CCD-4.2W
 - DMS - 406-DMS-G95-CCD-10.8W-E27
 - DMS - A60-6W-LED-4SD-CLEAR
@@ -96,6 +98,8 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - DYCORRA - DY-CORN-7E27
 - DYCORRA - DY-CORN-9E14T
 - DYCORRA - DY-CORN-9E27
+- DYCORRA - DY-GA-6E27
+- DYCORRA - DY-GP-12E27
 - DYCORRA - DY-GP-20E27
 - DYCORRA - DY-GP-30E27
 - DYCORRA - DY-GP-40E27
@@ -103,6 +107,7 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - DYCORRA - DY-GP-5E14
 - DYCORRA - DY-GP-5E27
 - DYCORRA - DY-GT-10E27T
+- DYCORRA - DY-GT-12B22
 - DYCORRA - DY-GT-12TE27S
 - DYCORRA - DY-GT-7912E27S
 - DYCORRA - DY-LFCN-4E14
@@ -123,6 +128,7 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - DYCORRA - DY-PINA-7E14
 - DYCORRA - DY-PINA-9B22
 - DYCORRA - DY-PINA-9E14
+- DYCORRA - DY-R63A-12E27
 - DYCORRA - DY-T8A-18
 - DYCORRA - DY-T8A-30
 - DYCORRA - DY-UFO-18
@@ -372,10 +378,15 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - Osram - LV HW 45W/865 100-240V E40
 - Osram - LVCLA40 4.2W/827 230V FR E27
 - Osram - LVCLA40 4.2W/865 230V FR E27
+- Osram - LVCLA40 4W/827 230V FR E27
+- Osram - LVCLA40 4W/865 230V FR E27
 - Osram - LVCLA60 7.3W/827 230V FR E27
 - Osram - LVCLA60 7.3W/865 230V FR E27
 - Osram - LVCLA75 9.5W/827 230V FR E27
 - Osram - LVCLA75 9.5W/865 230V FR E27
+- Osram - LVCLB40 4W/827 230V FR E14
+- Osram - LVCLB40 4W/827 230V FR E27
+- Osram - LVCLB40 4W/865 230V FR E14
 - Osram - ST5HE14 0. 6 M 8W 8 65 G5
 - Osram - ST5HE14 0. 6 M 8W 840 G5
 - Osram - ST5HE14 0.6M 8W 830 G5
@@ -387,6 +398,7 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - Osram - ST8A-0.6M 7.5W/830
 - Osram - ST8A-0.6M 7.5W/840
 - Osram - ST8A-0.6M 7.5W/865
+- Osram - ST8A-0.6M 8.7W 830 EM
 - Osram - ST8A-0.6M-8.7W-840-EM
 - Osram - ST8A-0.6M-8.7W-865-EM
 - Osram - ST8A-1.2M 13W/830
@@ -399,6 +411,7 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - Osram - ST8A-1.2M 22W/865
 - Osram - ST8A-1.2M 22W-840-EM
 - Osram - ST8A-1.2M 22W-865-EM
+- Osram - ST8A-1.2M-17.5W 830 EM
 - Osram - ST8A-1.2M-17.5W-840-EM
 - Osram - ST8A-1.2M-17.5W-865-EM
 - Osram - ST8A-1.5M 20.6W-840-EM
@@ -776,6 +789,14 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - Toshiba - RLDL0284C1465G1EX1
 - VERTECH - VA62b-018W/6000KT84FF
 - VERTECH ALLIANCE - VA63b-020W/6000KT84FF
+- VISALUX - VPA-7703 3W 3000K
+- VISALUX - VPA-7703 3W 6500K
+- VISALUX - VPA-7705 5W 3000K
+- VISALUX - VPA-7705 5W 6500K
+- VISALUX - VPA-7708 8W 3000K
+- VISALUX - VPA-7708 8W 6500K
+- VISALUX - VPA-7709 9W 3000K
+- VISALUX - VPA-7709 9W 6500K
 - VISALUX - VPT-8805 5W 3000K
 - VISALUX - VPT-8805 5W 6500K
 - VISALUX - VPT-8808 8W 3000K
