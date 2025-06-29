@@ -53,6 +53,8 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Aeglos - AG-758-HF
 - Aeglos - AG-758-HR
 - Aeglos - AG-758-HRF
+- Aifa - AR-H382
+- Aifa - AR-H482
 - ALAN - A-CAKE-120-3-A-IV
 - ALAN - A-CAKE-120-4-A-IV
 - ALAN - A-CAKE-150-3-A-IV
@@ -82,6 +84,11 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - ARCTICOOL - EG1800F
 - ARCTICOOL - EG1800F (600)
 - ARCTICOOL - ED1200F(600)
+- ARCTICOOL - ED1500F(600)
+- ARCTICOOL - ED1800F(600)
+- ARCTICOOL - EG1200F(600)
+- ARCTICOOL - EG1500F(600)
+- ARCTICOOL - EG1800F(600)
 - Berjaya - 1DDC-IV-BB
 - Berjaya - 1DDC-IV-SB
 - Berjaya - 1DDC-IV-WB
@@ -143,8 +150,17 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - BRANDT - BFC8633XC
 - BRANDT - BFD8072NX
 - BRANDT - BFD8172NX
+- BRANDT - BFM873NXA
+- BRANDT - BGM601DWA
+- BRANDT - BIC7757DA
 - Carrier - 2DGB-IVTH
 - Carrier - 3DGB-IVTH
+- CoolTech - CTC-1D
+- CoolTech - CTC-2D
+- CoolTech - CTC-3D
+- CoolTech - CTF-1D
+- CoolTech - CTF-2D
+- CoolTech - CTF-3D
 - CUBE+ - C+1DC
 - CUBE+ - C+1DF
 - CUBE+ - C+2DC
@@ -383,6 +399,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - De Dietrich - DFC8659XA
 - De Dietrich - DFD885LXA
 - De Dietrich - DFD885RXA
+- De Dietrich - DRD882YLX
 - DN-IDS1200-C - DANENG - DN-IDS1200-C
 - DN-IDS1200-R - DANENG - DN-IDS1200-R
 - DN-IDS1500-C - DANENG - DN-IDS1500-C
@@ -398,13 +415,16 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - EKO - INVCF-1568
 - EKO - INVCF-1868
 - Electrolux - EHE5224-B-A
+- Electrolux - EBE2401A-W
 - Electrolux - EBE4500B-A
 - Electrolux - EBE4500B-G
 - Electrolux - EBE4500B-H
 - Electrolux - EQE4900B-B
 - Electrolux - ESE5101B-A
 - Electrolux - ESE6201B-B
+- Electrolux - ETM3300A-A
 - Electrolux - ETM3300A-B
+- Electrolux - ETM4200A-A
 - Electrolux - ETM4200A-B
 - Electrolux - EUM0500BD-SG
 - Electrolux - EUM0930BD-SG
@@ -429,7 +449,10 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - EuropAce - ER 5371W
 - EuropAce - ER 5461W
 - EuropAce - ER 5501A
+- EuropAce - ER 7178A
 - EuropAce - ER 7256W
+- EuropAce - ER5118E
+- EuropAce - ER5481E
 - Farfalla - FR-103R2
 - Farfalla - FR-47R2
 - Fisher & Paykel - RB9064S1
@@ -852,12 +875,14 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - LG - GB-B4624PY
 - LG - GB-B4624SE
 - LG - GF-B4544EP
+- LG - GF-B5305EP
 - LG - GF-B6014EV
 - LG - GF-B6174TW
 - LG - GS-B6473EP
 - LG - GS-B6473PY
 - LG - GS-L6104EV
 - LG - GS-L6104PY
+- LG - GT-B2655PY
 - LG - GT-B3153BN
 - LG - GT-B3303PY
 - LG - GT-B3723PY
@@ -868,6 +893,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - LG - GT-B4783BL
 - LG - GT-B4783EP
 - LG - GT-B4783PZ
+- LG - GT-B6085EP
 - LG - GT-F3953EP
 - LG - GT-F4604EP
 - LG - GT-M5093BL
@@ -1381,6 +1407,8 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Samsung - RS70F65Q3T
 - Samsung - RT31CG5424S9
 - Samsung - RT35CG5444S9
+- Samsung - RT42CB6688B1
+- Samsung - RT47CB6686B1
 - Samsung - RT53DG7A6CB1
 - Samsung - RT53DG7A6CS9
 - Sanden Intercool - SPB 0300
@@ -1717,8 +1745,16 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Superior - SGCF-396
 - Superior - SGCF-500
 - Superior - SGCF-700
+- Superior - Superior-12060CRNS
 - Superior - Superior-12060FRNS
+- Superior - Superior-12076CRNS
+- Superior - Superior-12076FRNS
+- Superior - Superior-15060CRNS
+- Superior - Superior-15076CRNS
 - Superior - Superior-15076FRNS
+- Superior - Superior-18060CRNS
+- Superior - Superior-18060FRNS
+- Superior - Superior-18076CRNS
 - Superior - Superior-18076FRNS
 - SUPREME - 1207680C
 - SUPREME - 1507680C
@@ -1822,6 +1858,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Whirlpool - 5WQ24NIQABK
 - Whirlpool - 5WQ24NIQAS
 - Whirlpool - WF2B291
+- Whirlpool - WF2T326
 - YUDA - YD-0217CS-IVTH
 - YUDA - YD-0217FS-IVTH
 - YUDA - YD-021CS-IVTH
