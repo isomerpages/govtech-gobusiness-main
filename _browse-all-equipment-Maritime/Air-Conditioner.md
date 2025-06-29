@@ -158,6 +158,8 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - LG - ARUN162LTE6
 - LG - ARUN180LTE5
 - LG - ARUN182LTE6
+- LG - S3UZ091L1DA
+- LG - S3UZ121L1DA
 - LG - Z3UQ18GFA0
 - LG - Z3UQ26GFA0
 - LG - Z4UQ28GFA0
@@ -260,6 +262,8 @@ Funded and administered by Enterprise Singapore (EnterpriseSG). For more informa
 - Mitsubishi Electric - PUMY-CP225YKM-PA
 - Mitsubishi Electric - PUMY-CP225YKM-PA-BS
 - Mitsubishi Electric - SUY-ZM50VA-SG
+- Mitsubishi Heavy Industries - DXM30YS-W
+- Mitsubishi Heavy Industries - DXM40YS-W
 - Mitsubishi Heavy Industries - FDC335CKXZA2
 - Mitsubishi Heavy Industries - FDC400CKXZA2
 - Mitsubishi Heavy Industries - FDCS335CKXZA2
