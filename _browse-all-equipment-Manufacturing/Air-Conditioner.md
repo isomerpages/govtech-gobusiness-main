@@ -24,8 +24,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 
 ### Pre-Approved Equipment Brands and Models
 
-- AVOLTA - SGTC4T-S1B09
-- AVOLTA - SGTC4T-S1B12
 - Daikin - MKC70WVMG
 - Daikin - MKM100VVMG
 - Daikin - MKM100ZVMG
@@ -44,7 +42,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Daikin - RKM35ZVMG
 - Daikin - RKM50ZVMG
 - Daikin - RXMQ6AAVEG
-- Daikin - RXMUQ4AVEG
 - Daikin - RXMUQ5AVEG
 - Daikin - RXMUQ6AVEG
 - Daikin - RXQ10AYM
@@ -88,10 +85,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Daikin - RXUQ8AYMG
 - Daikin - RXUQ8AYMW
 - Daikin - RXUQ8BYMG
-- Enovatek Energy - EES-ADC09GW-XA-32R+5
 - Enovatek Energy - EES-ADC12GW-XA-32R+5
-- Enovatek Energy - EES-ADC18GW-XA-32R+5
-- Enovatek Energy - EES-ADX24GW-XA-32R+5
 - EuropAce - ESAC MA3R215A
 - EuropAce - ESAC MA4R285A
 - EuropAce - ESAC18CUD
@@ -161,8 +155,8 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - LG - ARUN162LTE6
 - LG - ARUN180LTE5
 - LG - ARUN182LTE6
-- LG - ARUV030GSD0
-- LG - ARUV040GSD0
+- LG - S3UZ091L1DA
+- LG - S3UZ121L1DA
 - LG - Z3UQ18GFA0
 - LG - Z3UQ26GFA0
 - LG - Z4UQ28GFA0
@@ -219,7 +213,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Mitsubishi Electric - MXY-4H33VG2
 - Mitsubishi Electric - MXY-4H38VG
 - Mitsubishi Electric - MXY-5H48VG
-- Mitsubishi Electric - MXY-6C53VAM
 - Mitsubishi Electric - MXY-6D53VFM
 - Mitsubishi Electric - PUCY-EP200YKE.TH-SG
 - Mitsubishi Electric - PUCY-EP200YKE.TH-SG-BS
@@ -266,6 +259,8 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Mitsubishi Electric - PUMY-CP225YKM-PA
 - Mitsubishi Electric - PUMY-CP225YKM-PA-BS
 - Mitsubishi Electric - SUY-ZM50VA-SG
+- Mitsubishi Heavy Industries - DXM30YS-W
+- Mitsubishi Heavy Industries - DXM40YS-W
 - Mitsubishi Heavy Industries - FDC335CKXZA2
 - Mitsubishi Heavy Industries - FDC400CKXZA2
 - Mitsubishi Heavy Industries - FDCS335CKXZA2
@@ -313,8 +308,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Toshiba - MMY-MAP14A7T8P-SG
 - Toshiba - MMY-MUP0801T8P-SG
 - Toshiba - MMY-MUP1001T8P-SG
-- Toshiba - MMY-MUP1201T8P-SG
-- Toshiba - MMY-MUP1401T8P-SG
 - Toshiba - MMY-MUP14A1T8P-SG
 - Toshiba - MMY-MUP1601T8P-SG
 - Toshiba - RAS-2M21P2ACVG-SG

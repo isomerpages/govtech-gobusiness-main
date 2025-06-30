@@ -27,9 +27,14 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - ABB - IE4 M2BAX 355SMA 6
 - ABB - IE4 M2BAX 355SMB 6
 - ABB - M2BAX 112MLA 4 (IE4)
+- ABB - M2BAX 132SA 4 (IE4)
 - ABB - M2BAX 132SMA 2 (IE4)
 - ABB - M2BAX 132SMA 4 (IE4)
 - ABB - M2BAX 160MLA 4 (IE4)
+- ABB - M2BAX 200MLA 4 (IE4)
+- ABB - M2BAX 225SMB 4 (IE4)
+- ABB - M3BP 100LKA 2 (IE4)
+- ABB - M3BP 100LKB 4 (IE4)
 - ABB - M3BP 112MB 2 (IE4)
 - ABB - M3BP 112MB 4 (IE4)
 - ABB - M3BP 112MB 6 (IE4)
@@ -40,8 +45,11 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - ABB - M3BP 132SMD 6 (IE4)
 - ABB - M3BP 160MLA 2 (IE4)
 - ABB - M3BP 160MLC 2 (IE4)
+- ABB - M3BP 160MLC 4 (IE4)
 - ABB - M3BP 180MLA 2 (IE4)
 - ABB - M3BP 180MLA 6 (IE4)
+- ABB - M3BP 180MLB 4 (IE4)
+- ABB - M3BP 200MLA 2 (IE4)
 - ABB - M3BP 200MLA 4 (IE4)
 - ABB - M3BP 200MLB 2 (IE4)
 - ABB - M3BP 225SMA 2
@@ -100,7 +108,9 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - GRUNDFOS - MG160LB
 - GRUNDFOS - MG160LC
 - GRUNDFOS - MG160MD
+- GRUNDFOS - MG80B2
 - GRUNDFOS - MG90LG
+- GRUNDFOS - MG90SD2_IE4
 - GRUNDFOS - MG90SE
 - HEBEM - VSD280-90
 - HEBEM - VSD315-160
@@ -283,7 +293,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - TECO - AESV4S/AESU4S-6P-18.5kW
 - TECO - AESV4S/AESU4S-6P-5.5kW
 - TECO - AESV4S/AESU4S-6P-90kW
-- TECO - AESV4S-AESU4S-4P-18.5KW
 - WEG  -  W22_IE4_15KW_2P
 - WEG - W21_IE4_0.75KW_4P
 - WEG - W21_IE4_1.1KW_4P
