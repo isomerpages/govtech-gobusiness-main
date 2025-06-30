@@ -106,7 +106,7 @@ permalink: /sdl-e-services/
 ### Help and support
 
 
-For more information about SDL, access the [SSG-WSG chatbot on WhatsApp](https://api.whatsapp.com/send/?phone=6598436277&text=Hello%21+Welcome+to+Chat+with+SSG-WSG.+Find+out+more+about+SSG+and+WSG+programmes+and+services+here.+Press+send+to+start+the+chat.+By+pressing+send%2C+you+agree+to+interact+with+SSG+and+WSG+on+this+channel.%0D%0A%0D%0APlease+note+that+this+is+a+Beta+version+and+we+appreciate+your+patience+as+we+work+to+enhance+your+experience){:target="_blank"}{:rel="noopener"} or browse the [General SDL FAQ](/skills-development-levy-faqs/).
+For more information about SDL, access the [SSG-WSG chatbot on WhatsApp](https://api.whatsapp.com/send/?phone=6598436277&text=Hello!%20Welcome%20to%20Chat%20with%20SSG-WSG.%20Find%20out%20more%20about%20SSG%20and%20WSG%20programmes%20and%20services%20here.%20Press%20send%20to%20start%20the%20chat.%20By%20pressing%20send,%20you%20agree%20to%20interact%20with%20SSG%20and%20WSG%20on%20this%20channel.%0A%20%0APlease%20note%20that%20this%20is%20a%20Beta%20version%20and%20we%20appreciate%20your%20patience%20as%20we%20work%20to%20enhance%20your%20experience.%0A%0AGovernment%20officials%20will%20*NEVER*%20ask%20you%20to%20transfer%20money%20or%20disclose%20bank%20log-in%20details%20over%20a%20phone%20call.%20Call%20the%2024/7%20ScamShield%20Helpline%20at%201799%20if%20you%20are%20unsure%20if%20something%20is%20a%20scam){:target="_blank"}{:rel="noopener"} or browse the [General SDL FAQ](/skills-development-levy-faqs/).
 
 For help with SDL e-Services on GoBusiness Dashboard, head to the [GoBusiness Dashboard SDL FAQ](/dashboard-faqs/sdl-on-gobusiness/).
 
