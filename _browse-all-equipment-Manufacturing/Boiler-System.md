@@ -56,6 +56,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - MAN Energy Solutions - MAN HPU28
 - MAN Energy Solutions - MAN HPU33
 - MAN Energy Solutions - MAN HPU43
-- MYCOM - HE-HWA-2HTCR-400
-- MYCOM - HE-HWAW-2HTCR-400
-- MYCOM - HE-HWW-2HTCR-400
+- MAYEKAWA (MYCOM) - UNIMO HE-HWA-2HTCR-400
+- MAYEKAWA (MYCOM) - UNIMO HE-HWAW-2HTCR-400
+- MAYEKAWA (MYCOM) - UNIMO HE-HWW-2HTCR-400
