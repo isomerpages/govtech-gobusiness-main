@@ -21,12 +21,12 @@ Ministry of Social and Family Development (MSF)
 <ol>
 <li>
 <strong>I wish to set up a residential care facility for Children and Young Persons or for aged persons. Do I need to apply for a licence?</strong><br>
-Yes, a licence is required to operate a residential care facility for Children and Young Persons under the Children and Young Persons Act (CYPA), 1993 or for persons aged 60 years and above under the Homes for the Aged Act (HFAA), Chapter 1988. Please email us at <a href="mailto:MSF_RHL@msf.gov.sg">MSF_RHL@msf.gov.sg</a> if you have queries.
+Yes, a licence is required to operate a residential care facility for Children and Young Persons under the Children and Young Persons Act (CYPA), 1993 or for persons aged 60 years and above under the Homes for the Aged Act (HFAA), Chapter 1988. Please email us at <a href="mailto:MSF_RPL@msf.gov.sg">MSF_RPL@msf.gov.sg</a> if you have queries.
 </li>
 
 <li>
 <strong>How do I apply for a licence?</strong><br>
-Please log in to the online portal <a href="https://www.gobusiness.gov.sg/" target="_blank" rel="noopener">https://www.gobusiness.gov.sg/</a> using your SingPass or CorpPass to submit your application for the licence. Email us at <a href="mailto:MSF_RHL@msf.gov.sg">MSF_RHL@msf.gov.sg</a> for queries.
+Please log in to the online portal <a href="https://www.gobusiness.gov.sg/" target="_blank" rel="noopener">https://www.gobusiness.gov.sg/</a> using your SingPass or CorpPass to submit your application for the licence. Email us at <a href="mailto:MSF_RPL@msf.gov.sg">MSF_RPL@msf.gov.sg</a> for queries.
 </li>
 
 <li>
@@ -81,7 +81,7 @@ Please select 'Amend' button in the online portal <a href="https://www.gobusines
 <strong>Are there documents that need to be submitted to support the amendments?</strong><br>
 Please attach a copy of the supporting documents when making the following amendments:<br>
 i) Transfer of licensee - Application in writing signed by the licensee of the Home and by the person to whom the licensee desires to transfer the licence to; and<br>
-ii) Change in the Home's approved capacity - Any document in support of the request. For any other amendments, please email us at <a href="mailto:MSF_RHL@msf.gov.sg">MSF_RHL@msf.gov.sg</a>.
+ii) Change in the Home's approved capacity - Any document in support of the request. For any other amendments, please email us at <a href="mailto:MSF_RPL@msf.gov.sg">MSF_RPL@msf.gov.sg</a>.
 
 </li>
 
@@ -101,7 +101,7 @@ ii) Applications should be submitted through the online portal <a href="https://
 <ol>
 <li>
 <strong>If I want to cease operation of the Home, what should I do?</strong><br>
-Please email to <a href="mailto:MSF_RHL@msf.gov.sg">MSF_RHL@msf.gov.sg</a> at least 6 months prior to the cessation of operations at the Home.
+Please email to <a href="mailto:MSF_RPL@msf.gov.sg">MSF_RPL@msf.gov.sg</a> at least 6 months prior to the cessation of operations at the Home.
 </li>
 </ol>
 
