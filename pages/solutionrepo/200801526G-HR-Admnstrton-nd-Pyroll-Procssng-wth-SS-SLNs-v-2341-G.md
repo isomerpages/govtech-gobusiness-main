@@ -64,7 +64,7 @@ HR Administration and Payroll Processing with SaaS Solutions - HR shared service
 
 ## Vendor Information
 
- Company Name: MATCH RESOURCES PTE LTD<br>Web URL: www.matchresources.co <br>Contact Hotline: 66531198 <br>Contact Email: jobs@matchresources.co <br>
+ Company Name: MATCH RESOURCES PTE LTD<br>Web URL: www.matchresources.co <br>Contact Hotline: 66531198 <br>Contact Email: hello@matchresources.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
