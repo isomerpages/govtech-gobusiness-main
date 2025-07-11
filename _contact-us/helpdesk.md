@@ -7,7 +7,7 @@ permalink: /contact-us/
 
 ![Helpdesk](/images/Helpdesk.jpg)
 
-### Chat with us online
+<h3 id="chat-with-us-online">Chat with us online</h3>
 
 |--|--|
 |![Contact Ask GoBiz](/images/contact Ask GoBiz.png)| Use the Ask GoBiz chatbot to find information, or request a live chat with a customer service officer. <br><br>**Live Chat Operating Hours:**<br>Monday - Friday: 8:30am - 6:00pm<br>Closed on Saturdays, Sundays and public holidays<br><br>**Click the icon on the bottom right hand corner of the page to start.** |
