@@ -3,7 +3,7 @@ title: Helpdesk
 permalink: /contact-us/
 ---
 
-<h2 id="get-in-touch-with-gobusiness">Get in touch with GoBusiness</h2>
+## Get in touch with GoBusiness
 
 ![Helpdesk](/images/Helpdesk.jpg)
 
