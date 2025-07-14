@@ -49,7 +49,7 @@ After you apply, the relevant government agencies will advise you on submitting 
 
 -----
 
-## Submit on GoBusiness Licencing 
+## Submit on FormSG
 
 <table>
 <tr>
@@ -62,6 +62,6 @@ After you apply, the relevant government agencies will advise you on submitting 
 <td>Ministry of Manpower (MOM)</td>
 <td>Employment Agency Licence</td>
 <td>Referral returns</td>
-<td>{% include button.html text="Submit on FormSG" src="https://go.gov.sg/submit-quarterly-referral-info" type="primary" %}</td>
+<td>{% include button.html text="Submit MOM Returns" src="https://go.gov.sg/submit-quarterly-referral-info" type="primary" %}</td>
 </tr>
 </table>
