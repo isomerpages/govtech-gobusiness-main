@@ -52,6 +52,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Cute Infocomm Solutions Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202135719C-Employmnt-Hro-G' target='_blank'>Employment Hero</a><br></td>
+<td>Employment Hero Pte. Ltd.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200005018Z-Frontr-HR-AutomtHR-Frontr-v-8-G' target='_blank'>Frontier e-HR - AutomateHR eFrontier Version 8</a><br></td>
 <td>Frontier e-HR Pte Ltd </td>
 </tr>
