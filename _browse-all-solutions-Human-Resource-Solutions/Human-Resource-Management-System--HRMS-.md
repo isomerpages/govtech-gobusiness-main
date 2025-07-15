@@ -76,6 +76,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>CAPPS SOLUTIONS PTE. LTD.</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201333659G-Pyboy-HRMS-G' target='_blank'>Payboy HRMS</a><br></td>
+<td>Payboy Pte. Ltd.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200100439R-PoplCntrl-HRMS-G' target='_blank'>PeopleCentral HRMS</a><br></td>
 <td>PEOPLE CENTRAL PTE LTD</td>
 </tr>
