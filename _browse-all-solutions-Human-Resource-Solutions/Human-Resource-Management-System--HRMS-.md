@@ -48,6 +48,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>BRIOHR PTE. LTD.</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201700241Z-cutOffc-ERP-v-20-G' target='_blank'>cuteOffice ERP Version 2.0</a><br></td>
+<td>Cute Infocomm Solutions Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200005018Z-Frontr-HR-AutomtHR-Frontr-v-8-G' target='_blank'>Frontier e-HR - AutomateHR eFrontier Version 8</a><br></td>
 <td>Frontier e-HR Pte Ltd </td>
 </tr>
