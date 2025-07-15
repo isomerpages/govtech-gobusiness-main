@@ -72,6 +72,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>CAPPS SOLUTIONS PTE. LTD.</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200100439R-PoplCntrl-HRMS-G' target='_blank'>PeopleCentral HRMS</a><br></td>
+<td>PEOPLE CENTRAL PTE LTD</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201324947N-QuckHR-G' target='_blank'>QuickHR</a><br></td>
 <td>Enable Business Pte. Ltd.</td>
 </tr>
@@ -88,16 +92,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>TIME ACCESS INTERNATIONAL</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/199804415D-TIMES-SOFTWARE-HRMS-G' target='_blank'>TIMES SOFTWARE HRMS</a><br></td>
+<td>Times Software Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200818854Z-WhyzHR-v-12-G' target='_blank'>WhyzeHR Version 12</a><br></td>
 <td>Whyze Solutions Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200100439R-PoplCntrl-HRMS-G' target='_blank'>PeopleCentral HRMS</a><br></td>
-<td>PEOPLE CENTRAL PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201323996K-Adptv-Py-v-2025-G' target='_blank'>Adaptive Pay Version 2025</a><br></td>
-<td>Adaptive Cloud Systems Pte Ltd</td>
 </tr>
 </table>
 
