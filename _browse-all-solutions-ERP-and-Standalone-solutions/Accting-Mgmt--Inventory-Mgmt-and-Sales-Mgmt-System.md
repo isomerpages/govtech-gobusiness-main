@@ -80,6 +80,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Aristou Pte. Ltd.</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201611756K-Mcrosoft-Dynmcs-365-Busnss-Cntrl-v-Cloud-G' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud</a><br></td>
+<td>Dalstech Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200715700E-Mcrosoft-Dynmcs-Busnss-Cntrl-G' target='_blank'>Microsoft Dynamics Business Central</a><br></td>
 <td>R Systems IBIZCS PTE. LTD.</td>
 </tr>
