@@ -28,6 +28,10 @@ This solution is supported by BCA.
 <td>DigitalBuild Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201606906Z-Hubbl-Sfty-MGT-Systm-G' target='_blank'>Hubble Safety Management System</a><br></td>
+<td>Hubble Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201114849R-InSght-QSE-Elctronc-PrmtToWork-PTW-&-Sfty-Systm-G' target='_blank'>InSight QSE Electronic Permit-To-Work (ePTW) & Safety System</a><br></td>
 <td>Capps Solutions Pte Ltd</td>
 </tr>
