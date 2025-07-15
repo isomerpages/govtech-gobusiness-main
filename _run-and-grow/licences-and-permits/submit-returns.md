@@ -49,7 +49,7 @@ After you apply, the relevant government agencies will advise you on submitting 
 
 -----
 
-## Submit on GoBusiness Licencing 
+## Submit on FormSG
 
 <table>
 <tr>
