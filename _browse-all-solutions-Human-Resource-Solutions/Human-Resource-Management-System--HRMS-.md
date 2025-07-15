@@ -52,6 +52,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>BRIOHR PTE. LTD.</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201904063K-Crbont-Hr-v-1-G' target='_blank'>Carbonate Hr Version 1</a><br></td>
+<td>Carbonate Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201700241Z-cutOffc-ERP-v-20-G' target='_blank'>cuteOffice ERP Version 2.0</a><br></td>
 <td>Cute Infocomm Solutions Pte Ltd</td>
 </tr>
