@@ -96,6 +96,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Ice Cube Marketing Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201134148Z-DM-Clck-Md-Dgtl-Mrktng-PKG-G' target='_blank'>DM iClick Media Digital Marketing Packages</a><br></td>
+<td>iClick Media Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201632791Z-DM-Innovtv-Hub-Dgtl-Mrktng-PKG-G' target='_blank'>DM Innovative Hub Digital Marketing Packages</a><br></td>
 <td>Innovative Hub (SG) Pte.Ltd.</td>
 </tr>
