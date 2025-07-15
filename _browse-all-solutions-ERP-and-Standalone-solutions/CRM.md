@@ -55,6 +55,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/201910670K-Ttn-Gg-CRM-G' target='_blank'>Titan Gig CRM</a><br></td>
 <td>Elementay Pte. Ltd.</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201729553C-WrlyCRM-v-12-G' target='_blank'>WarelyCRM Version 1.2</a><br></td>
+<td>PLUS 65 MARKETING PTE. LTD.</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
