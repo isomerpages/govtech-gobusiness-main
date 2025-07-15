@@ -144,6 +144,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>STORY BOX COLLECTIVE PTE. LTD.</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201605009E-DM-SEOcty-Dgtl-Mrktng-G' target='_blank'>DM SEOciety Digital Marketing</a><br></td>
+<td>SEOciety Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202318025H-DM-SUPRA-MEDIA-DIGITAL-MARKETING-PACKAGES-v-10-G' target='_blank'>DM SUPRA MEDIA DIGITAL MARKETING PACKAGES Version 1.0</a><br></td>
 <td>SUPRA MEDIA PTE. LTD.</td>
 </tr>
