@@ -36,6 +36,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>JUSTLOGIN PTE LTD</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201323996K-Adptv-Py-v-2025-G' target='_blank'>Adaptive Pay Version 2025</a><br></td>
+<td>Adaptive Cloud Systems Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/199101278H-BAS-v-v10-G' target='_blank'>BAS Version v10</a><br></td>
 <td>Intercorp Solutions Pte Ltd</td>
 </tr>
