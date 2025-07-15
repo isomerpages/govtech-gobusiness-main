@@ -72,6 +72,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Andre Corporate Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201831057D-ASHOKATREE-Xro-Cloud-ACC-G' target='_blank'>ASHOKATREE: Xero Cloud Accounting</a><br></td>
+<td>ASHOKA TREE ASSOCIATES PTE. LTD.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201020197E-AutoCount-ACC-Softwr-G' target='_blank'>AutoCount Accounting Software</a><br></td>
 <td>Ingenious Business Software Pte Ltd</td>
 </tr>
