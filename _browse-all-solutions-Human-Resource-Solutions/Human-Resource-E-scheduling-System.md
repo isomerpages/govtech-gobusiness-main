@@ -51,6 +51,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/200100439R-TmCntrl-G' target='_blank'>TimeCentral</a><br></td>
 <td>PEOPLE CENTRAL PTE LTD</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200818854Z-WhyzHR-Schdulng-v-12-G' target='_blank'>WhyzeHR eScheduling Version 12</a><br></td>
+<td>Whyze Solutions Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
