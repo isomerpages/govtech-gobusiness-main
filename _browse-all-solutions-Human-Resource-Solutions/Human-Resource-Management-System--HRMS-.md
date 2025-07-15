@@ -64,6 +64,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Rockbell International Software Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200612880H-OpnsoftHR-v-18-G' target='_blank'>OpensoftHR Version 18</a><br></td>
+<td>Opensoft Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201114849R-PyAdvsorMobl-HRMS-v-3-G' target='_blank'>PayAdvisorMobile HRMS Version 3</a><br></td>
 <td>CAPPS SOLUTIONS PTE. LTD.</td>
 </tr>
