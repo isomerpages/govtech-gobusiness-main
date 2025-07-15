@@ -36,6 +36,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>AZ Digital Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201025900M-Ell-Food-SVCs-Busnss-Sut-v-1-FS' target='_blank'>Ellie Food Services Business Suite Version 1</a><br></td>
+<td>Supply Ellie Pte. Ltd.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201529028W-EPOS-Intgrtd-Dgtl-SLN-for-F&B-FS' target='_blank'>EPOS Integrated Digital Solution for F&B</a><br></td>
 <td> EPOS Pte Ltd</td>
 </tr>
@@ -82,10 +86,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201309369Z-Yumston-F&B-MGT-SLNs-v-50-FS' target='_blank'>Yumstone F&B Management Solutions Version 5.0</a><br></td>
 <td>Yumstone Esolutions Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201025900M-Ell-Food-SVCs-Busnss-Sut-v-1-FS' target='_blank'>Ellie Food Services Business Suite Version 1</a><br></td>
-<td>Supply Ellie Pte. Ltd.</td>
 </tr>
 </table>
 

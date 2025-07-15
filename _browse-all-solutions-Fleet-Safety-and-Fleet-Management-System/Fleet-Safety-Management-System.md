@@ -28,6 +28,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202314323E-FLEET-SHIELD-v-3-G' target='_blank'>FLEET - SHIELD Version 3</a><br></td>
+<td>TENETS TECH PTE. LTD.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201925557G-MjuFlt-MGT-Systm-G' target='_blank'>MajuFleet Management System</a><br></td>
 <td>MAJUTECH PTE LTD</td>
 </tr>

@@ -48,6 +48,14 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>SPTEL PTE. LTD.</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/199902746G-ST-ENGINEERING-CYBER-NETWORK-BOX-G' target='_blank'>ST ENGINEERING CYBER NETWORK BOX</a><br></td>
+<td>ST Engineering Info-Security Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200823571E-VGC-Csco-Mrk-Frwll-G' target='_blank'>VGC - Cisco Meraki Firewall</a><br></td>
+<td>VGC TECHNOLOGY PTE.LTD.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201834474D-ZBD-Totl-Fortfd-Cybr-Scurty-G' target='_blank'>ZBD Total Fortified Cyber Security</a><br></td>
 <td>Zebedee Solution Pte. Ltd.</td>
 </tr>

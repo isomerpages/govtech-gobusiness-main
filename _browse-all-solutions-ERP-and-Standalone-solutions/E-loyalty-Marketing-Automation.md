@@ -24,6 +24,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>CalendarOne Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201330180E-Ebr-Loylty-Mrktng-Pltform-G' target='_blank'>Eber Loyalty Marketing Platform</a><br></td>
+<td>Eber Pte. Ltd.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201529028W-EPOS-Mrktng-AI-v-10-G' target='_blank'>EPOS Marketing AI Version 1.0</a><br></td>
 <td>EPOS Pte. Ltd.</td>
 </tr>

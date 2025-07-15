@@ -84,10 +84,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>PEOPLE CENTRAL PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200804595N-HRsly-Onln-Pyroll-G' target='_blank'>HReasily Online Payroll</a><br></td>
-<td>361 Degree Consultancy Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201323996K-Adptv-Py-v-2025-G' target='_blank'>Adaptive Pay Version 2025</a><br></td>
 <td>Adaptive Cloud Systems Pte Ltd</td>
 </tr>

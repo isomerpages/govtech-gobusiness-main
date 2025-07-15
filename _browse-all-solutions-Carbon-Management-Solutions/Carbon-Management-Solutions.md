@@ -27,10 +27,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td><a href='/productivity-solutions-grant/solutionrepo/202002731M-Vrds-G' target='_blank'>Veridis</a><br></td>
 <td>Zuno Pte. Ltd.</td>
 </tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201321526K-Crbon-MGT-&-Rportng-G' target='_blank'>Carbon Management & Reporting</a><br></td>
-<td>EVERCOMM SINGAPORE PTE LTD</td>
-</tr>
 </table>
 
 {% include banner-psg-survey.html %}
