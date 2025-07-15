@@ -48,6 +48,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Bizsquare Management Consultants Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201410722E-DM-Busnss-Thrust-Dgtl-Mrktng-PKG-v-DM01-G' target='_blank'>DM Business Thrust Digital Marketing Packages Version DM01</a><br></td>
+<td>Business Thrust Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201734623N-DM-Clvrly-Dgtl-Mrktng-PKG-G' target='_blank'>DM Cleverly Digital Marketing Packages</a><br></td>
 <td>Cleverly SG Pte. Ltd.</td>
 </tr>
