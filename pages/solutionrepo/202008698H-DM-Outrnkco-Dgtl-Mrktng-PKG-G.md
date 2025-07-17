@@ -26,14 +26,14 @@ Outrankco Pte Ltd provides digital marketing services with a focus on SEO market
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Outrankco SEO + SEM Packages - Standard (4 Months)</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/202008698H_20250036_17072025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/202008698H_20250036_17072025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Outrankco SEO + SEM Packages - Specialized (6 months)</td>
 <td style='padding: 10px;'>$10,700.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/202008698H_20250036_17072025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/202008698H_20250036_17072025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
