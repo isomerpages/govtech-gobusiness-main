@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - back-to-all-psg-solutions.md
-      - Fleet-Safety-Management-System.md
       - Fleet-Management-System.md
+      - Fleet-Safety-Management-System.md
