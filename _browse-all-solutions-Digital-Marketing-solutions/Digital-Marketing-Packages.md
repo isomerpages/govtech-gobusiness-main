@@ -48,6 +48,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Bizsquare Management Consultants Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202205403H-DM-Bluhv-CST-Dgtl-Mrktng-PKG-v-22-32-G' target='_blank'>DM Bluehive Consulting Digital Marketing Packages Version 22 - 3.2</a><br></td>
+<td>Bluehive Consulting Asia Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201410722E-DM-Busnss-Thrust-Dgtl-Mrktng-PKG-v-DM01-G' target='_blank'>DM Business Thrust Digital Marketing Packages Version DM01</a><br></td>
+<td>Business Thrust Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201734623N-DM-Clvrly-Dgtl-Mrktng-PKG-G' target='_blank'>DM Cleverly Digital Marketing Packages</a><br></td>
 <td>Cleverly SG Pte. Ltd.</td>
 </tr>
@@ -72,6 +80,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Fier Capital Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202201831W-DM-FY-ADS-XIAOHONGSHU-MARKETING-SLN-G' target='_blank'>DM FY ADS XIAOHONGSHU MARKETING SOLUTION</a><br></td>
+<td>FY ADVERTISEMENT PTE. LTD.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201916250E-DM-GENIA-Smntc-SEO-G' target='_blank'>DM GENIA Semantic SEO</a><br></td>
 <td>THE GENIA PTE. LTD.</td>
 </tr>
@@ -86,6 +98,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201808580W-DM-Ic-Cub-Prdctbl-Lds-Gnrton-Progrm-G' target='_blank'>DM Ice Cube Predictable Leads Generation Program</a><br></td>
 <td>Ice Cube Marketing Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201134148Z-DM-Clck-Md-Dgtl-Mrktng-PKG-G' target='_blank'>DM iClick Media Digital Marketing Packages</a><br></td>
+<td>iClick Media Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201632791Z-DM-Innovtv-Hub-Dgtl-Mrktng-PKG-G' target='_blank'>DM Innovative Hub Digital Marketing Packages</a><br></td>
@@ -104,8 +120,24 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Brew Interactive Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201322157W-DM-MdOn-SEO-SEM-SMM-SMA-Dgtl-Mrktng-Boost-Up-v-3-G' target='_blank'>DM MediaOne SEO | SEM | SMM | SMA Digital Marketing Boost Up Version 3</a><br></td>
+<td>MediaOne Business Group Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201329629H-DM-MdPlus-Dgtl-Mrktng-Pckg-v-v3-G' target='_blank'>DM MediaPlus Digital Marketing Package Version v3</a><br></td>
 <td>MediaPlus Digital Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200617554M-DM-OOm-Dgtl-Prformnc-Mrktng-Pckg-G' target='_blank'>DM OOm Digital Performance Marketing Package</a><br></td>
+<td>OOm Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202008698H-DM-Outrnkco-Dgtl-Mrktng-PKG-G' target='_blank'>DM Outrankco Digital Marketing Packages</a><br></td>
+<td>OUTRANKCO PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201840067W-DM-PIXEL-MECHANICS-Dgtl-Mrktng-PKG-G' target='_blank'>DM PIXEL MECHANICS Digital Marketing Packages</a><br></td>
+<td>PIXEL MECHANICS PTE. LTD.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201832282M-DM-QIANYI-TRADING-TIKTOK-DIGITAL-MARKETING-SLN-G' target='_blank'>DM QIANYI TRADING TIKTOK DIGITAL MARKETING SOLUTION</a><br></td>
@@ -124,6 +156,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>STORY BOX COLLECTIVE PTE. LTD.</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201605009E-DM-SEOcty-Dgtl-Mrktng-G' target='_blank'>DM SEOciety Digital Marketing</a><br></td>
+<td>SEOciety Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202318025H-DM-SUPRA-MEDIA-DIGITAL-MARKETING-PACKAGES-v-10-G' target='_blank'>DM SUPRA MEDIA DIGITAL MARKETING PACKAGES Version 1.0</a><br></td>
+<td>SUPRA MEDIA PTE. LTD.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200908223H-DM-Vrz-Dsgn-Dgtl-Mrktng-Pckg-v-2-G' target='_blank'>DM Verz Design Digital Marketing Package Version 2</a><br></td>
 <td>Verz Design Pte. Ltd.</td>
 </tr>
@@ -138,22 +178,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202020389H-DM-Wolfgng-Crtvs-Dgtl-Mrktng-PKG-G' target='_blank'>DM Wolfgang Creatives Digital Marketing Packages</a><br></td>
 <td>Wolfgang Creatives Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202201831W-DM-FY-ADS-XIAOHONGSHU-MARKETING-SLN-G' target='_blank'>DM FY ADS XIAOHONGSHU MARKETING SOLUTION</a><br></td>
-<td>FY ADVERTISEMENT PTE. LTD.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201834121D-DM-WECOFA-Dgtl-Mrktng-PKG-G' target='_blank'>DM WECOFA Digital Marketing Packages</a><br></td>
-<td>WECOFA PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201511102M-DM-TAM-Dgtl-Mrktng-PKG-G' target='_blank'>DM TAM Digital Marketing Packages</a><br></td>
-<td>The Assets Management Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200617554M-DM-OOm-Dgtl-Prformnc-Mrktng-Pckg-G' target='_blank'>DM OOm Digital Performance Marketing Package</a><br></td>
-<td>OOm Pte Ltd</td>
 </tr>
 </table>
 

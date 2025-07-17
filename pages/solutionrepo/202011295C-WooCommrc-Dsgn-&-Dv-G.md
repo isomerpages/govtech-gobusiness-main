@@ -23,24 +23,17 @@ Techzu's WooCommerce Design & Development supports SMEs in setting up eCommerce 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essential</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/202011295C_20230147_26062025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gold</td>
+<td style='padding: 10px;'>$5,160.00</td>
+<td style='padding: 10px;'>$2,640.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Techzu_WooCommerce_28122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Growth</td>
-<td style='padding: 10px;'>$5,300.00</td>
-<td style='padding: 10px;'>$5,150.00</td>
-<td style='padding: 10px;'><a href='/images/psg/202011295C_20230147_26062025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
-<td style='padding: 10px;'>$6,650.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/202011295C_20230147_26062025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Diamond</td>
+<td style='padding: 10px;'>$7,080.00</td>
+<td style='padding: 10px;'>$2,640.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Techzu_WooCommerce_28122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

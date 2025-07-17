@@ -44,6 +44,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>AM8ZE PTE LTD</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200106330C-EASPAC-Entrprs-Softwr-v-1011-G' target='_blank'>EASPAC Enterprise Software Version 10.1.1</a><br></td>
+<td>Prosperage Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201007812H-Educ-v-50-G' target='_blank'>Educe Version 5.0</a><br></td>
 <td>Excelforte Software Pte Ltd</td>
 </tr>
@@ -76,6 +80,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Aristou Pte. Ltd.</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201611756K-Mcrosoft-Dynmcs-365-Busnss-Cntrl-v-Cloud-G' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud</a><br></td>
+<td>Dalstech Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200715700E-Mcrosoft-Dynmcs-Busnss-Cntrl-G' target='_blank'>Microsoft Dynamics Business Central</a><br></td>
 <td>R Systems IBIZCS PTE. LTD.</td>
 </tr>
@@ -104,6 +112,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Flex-Solver Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200415297M-Sg-300-ERP-v-2025-G' target='_blank'>Sage 300 ERP Version 2025</a><br></td>
+<td>COMPTRAC SYSTEMS TECHNOLOGY PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/198000012M-Sg-300-v-2025-G' target='_blank'>Sage 300 Version 2025</a><br></td>
+<td>The World Management Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201009691D-Sg-300Cloud-G' target='_blank'>Sage 300Cloud</a><br></td>
 <td>ACSOLV CONSULT PTE. LTD.</td>
 </tr>
@@ -126,18 +142,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/199609132G-Synrgx-Sls,-ACC,-Invntory-G' target='_blank'>Synergix Sales, Accounting, Inventory</a><br></td>
 <td>Synergix Technologies Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200415297M-Sg-300-ERP-v-2025-G' target='_blank'>Sage 300 ERP Version 2025</a><br></td>
-<td>COMPTRAC SYSTEMS TECHNOLOGY PTE. LTD.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200106330C-EASPAC-Entrprs-Softwr-v-1011-G' target='_blank'>EASPAC Enterprise Software Version 10.1.1</a><br></td>
-<td>Prosperage Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201608167D-Mcrosoft-Dynmcs-365-Busnss-Cntrl-v-SAAS-V2x-G' target='_blank'>Microsoft Dynamics 365 Business Central Version SAAS V2x</a><br></td>
-<td>Illum (9) Pte Ltd</td>
 </tr>
 </table>
 
