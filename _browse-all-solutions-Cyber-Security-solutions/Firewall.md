@@ -20,6 +20,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201300674N-AWECREATION-Fortnt-Mngd-Frwll-SLNs-G' target='_blank'>AWECREATION - Fortinet Managed Firewall Solutions</a><br></td>
+<td>AWECREATION PTE LTD</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201214085K-Chckpont-SMB-Scurty-Sut-v-10-G' target='_blank'>Checkpoint SMB Security Suite Version 1.0</a><br></td>
 <td>Nucleo Consulting Pte Ltd</td>
 </tr>
@@ -46,6 +50,14 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/199700517K-SPTlFortntMngd-Frwll-SLNs-G' target='_blank'>SPTel-Fortinet-Managed Firewall Solutions</a><br></td>
 <td>SPTEL PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/199902746G-ST-ENGINEERING-CYBER-NETWORK-BOX-G' target='_blank'>ST ENGINEERING CYBER NETWORK BOX</a><br></td>
+<td>ST Engineering Info-Security Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200823571E-VGC-Csco-Mrk-Frwll-G' target='_blank'>VGC - Cisco Meraki Firewall</a><br></td>
+<td>VGC TECHNOLOGY PTE.LTD.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201834474D-ZBD-Totl-Fortfd-Cybr-Scurty-G' target='_blank'>ZBD Total Fortified Cyber Security</a><br></td>

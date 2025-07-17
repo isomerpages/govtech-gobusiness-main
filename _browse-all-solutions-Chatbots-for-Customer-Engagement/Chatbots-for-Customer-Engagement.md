@@ -32,6 +32,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>Cleverly SG Pte. Ltd.</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202114643G-Exbloom-Chtbot-G' target='_blank'>Exabloom Chatbot</a><br></td>
+<td>Exabloom Pte. Ltd. </td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202040219C-nFlow-G' target='_blank'>inFlow</a><br></td>
 <td>iNextLabs Pte. Ltd.</td>
 </tr>
@@ -50,18 +54,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201736601Z-Wbsntls-Omnbot-G' target='_blank'>Websentials Omnibot</a><br></td>
 <td>Websentials Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202114643G-Exbloom-Chtbot-G' target='_blank'>Exabloom Chatbot</a><br></td>
-<td>Exabloom Pte. Ltd. </td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201215396N-Intrcom-AI-Chtbot-by-I-Concpt-G' target='_blank'>Intercom AI Chatbot by I Concept</a><br></td>
-<td>I Concept Innovation Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201414976G-Sngbot-G' target='_blank'>Singabot</a><br></td>
-<td>Superfastech Pte. Ltd.</td>
 </tr>
 </table>
 

@@ -20,8 +20,20 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200508212K-Advntus-Mcrosoft-365-Busnss-Prmum-G' target='_blank'>Adventus Microsoft 365 Business Premium</a><br></td>
+<td>Adventus Singapore Pte. Ltd.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201730809W-Mcrosoft-Busnss-Prmum-G' target='_blank'>Microsoft Business Premium</a><br></td>
 <td>ACCESSORANGE PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200404442H-MICROSOFT-BUSINESS-PREMIUM-SECURITY-SUITE-G' target='_blank'>MICROSOFT BUSINESS PREMIUM SECURITY SUITE</a><br></td>
+<td>Fixics Solutions (S) Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200312912E-Mcrosoft-Cybr-Thrt-Protcton-for-SMB-G' target='_blank'>Microsoft Cyber Threat Protection for SMB</a><br></td>
+<td>DATA CONNECT TECHNOLOGIES PTE. LTD.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201309957M-Mcrosoft-Cybrscurty-Pckg-G' target='_blank'>Microsoft Cybersecurity Package</a><br></td>
@@ -34,18 +46,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200102733G-SupportPck-BscStndrdPrmum-v-10-G' target='_blank'>SupportPack (Basic/Standard/Premium) Version 1.0</a><br></td>
 <td>Viperlink Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200404442H-MICROSOFT-BUSINESS-PREMIUM-SECURITY-SUITE-G' target='_blank'>MICROSOFT BUSINESS PREMIUM SECURITY SUITE</a><br></td>
-<td>Fixics Solutions (S) Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200508212K-Advntus-Mcrosoft-365-Busnss-Prmum-G' target='_blank'>Adventus Microsoft 365 Business Premium</a><br></td>
-<td>Adventus Singapore Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199305875R-CybrScurty-Mcrosoft-Busnss-Prmum-G' target='_blank'>CyberSecurity (Microsoft Business Premium)</a><br></td>
-<td>Win-Pro Consultancy Pte Ltd</td>
 </tr>
 </table>
 
