@@ -24,6 +24,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>Techtown Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201537419Z-NX-CADCAM-Softwr-v-NX2212-G' target='_blank'>NX CAD/CAM Software Version NX2212</a><br></td>
+<td>DreamTechnology System Pte. Ltd.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201838394Z-SoldWorks-nd-SoldCAM-v-2024-G' target='_blank'>SolidWorks and SolidCAM Version 2024</a><br></td>
 <td>CADVISION SYSTEMS PTE. LTD.</td>
 </tr>
