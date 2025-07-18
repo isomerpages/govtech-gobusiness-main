@@ -15,7 +15,7 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 
 
  
-| 18 Jul, 6pm - 14 Jul, 8am | Application, amendment, renewal & cancellation of **Ministry of Law (MINLAW) licences** will be unavailable during the upcoming scheduled maintenance. |    
+| 18 Jul, 6pm - 19 Jul, 12am | Application, amendment, renewal & cancellation of **Ministry of Law (MINLAW) licences** will be unavailable during the upcoming scheduled maintenance. |    
 | 18 Jul, 8pm - 19 Jul, 6am<br>19 Jul, 8pm - 20 Jul, 6am | Application, amendment, renewal & cancellation of **Singapore Food Agency (SFA) licences** will be unavailable during the upcoming scheduled maintenance. |   
 | 18 Jul, 11pm - 19 Jul, 7am | **Applications for Skills Development Levy (SDL)** will be unavailable during the upcoming scheduled maintenance. |    
 | 22 Jul, 8pm - 9pm | Application, amendment, renewal & cancellation of **Land Transport Authority (LTA) licences** will be unavailable during the upcoming scheduled maintenance. |             
