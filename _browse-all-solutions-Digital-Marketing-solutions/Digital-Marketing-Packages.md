@@ -164,6 +164,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>SUPRA MEDIA PTE. LTD.</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201511102M-DM-TAM-Dgtl-Mrktng-PKG-G' target='_blank'>DM TAM Digital Marketing Packages</a><br></td>
+<td>The Assets Management Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200908223H-DM-Vrz-Dsgn-Dgtl-Mrktng-Pckg-v-2-G' target='_blank'>DM Verz Design Digital Marketing Package Version 2</a><br></td>
 <td>Verz Design Pte. Ltd.</td>
 </tr>
