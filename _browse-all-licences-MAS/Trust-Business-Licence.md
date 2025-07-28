@@ -8,9 +8,16 @@ third_nav_title: Monetary Authority of Singapore (MAS)
 
 Monetary Authority of Singapore (MAS)
 
-{% include button.html text="Apply on MAS" src="https://www.mas.gov.sg/regulation/capital-markets/Trust-Business-Licence" type="primary" %}
+{% include button.html text="Apply on MAS" src="https://www.mas.gov.sg/regulation/capital-markets/apply-for-licensing-or-registration-of-capital-market-entities/trust-business-licence" type="primary" %}
 
 <H3>Application Details</H3>
 
-<p>Licensed Trust Companies are licensed under section 3 of the Trust Companies Act (Cap. 336) to carry out trust business specified in the First Schedule to the Trust Companies Act. Trust business refers to:<br>(a) the provision of services with respect to the creation of an express trust;<br>(b) acting as trustee in relation to an express trust;<br>(c) arranging for any person to act as trustee in respect of an express trust;<br>(d) the provision of trust administration services in relation to an express trust.</p>
-
+<p>Licensed trust companies are licensed and governed under the Trust Companies Act 2005 (TCA) and its subsidiary legislations, including the regulations, notices, guidelines and circulars issued under the Trust Companies Act.</p>
+<p>A company which provides the following trust services may need to be licensed under the TCA:</p>
+<ul>
+    <li>Creation of an express trust;</li>
+    <li>Acting as trustee of an express trust;</li>
+    <li>Arranging for any person to act as trustee of an express trust; and</li>
+    <li>Providing trust administration services to an express trust.</li>
+</ul>
+<p>An express trust refers to a trust that is created by a settlor (the person setting up the trust) who gives instructions as to how his or her property is to be held.</p>

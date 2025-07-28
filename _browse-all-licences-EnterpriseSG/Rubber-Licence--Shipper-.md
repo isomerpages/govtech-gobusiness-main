@@ -15,6 +15,8 @@ Enterprise Singapore (EnterpriseSG)
 <H3>Application Details</H3>
 
 <p>For dealing in, treating and storing of natural rubber.</p>
+<p>You will need to apply for this licence for the purposes of dealing, treating, storing, exporting, packing and manufacturing of natural rubber.</p>
+<p>Under the Rubber Industry Act, a person who deals in, treat or store rubber, ship rubber for export, pack rubber for export or manufacture technically specified rubber must be a holder of a valid licence granted under this Act authorising him to do so or is a person employed by the holder of such a licence.</p>
 <h3>FAQ</h3>
 <ol>
 <li><strong>Do I need to apply for this licence?</strong><br>You will need to apply for this licence for the purposes of dealing, treating, storing, exporting, packing and manufacturing of natural rubber.<br>Under the Rubber Industry Act, a person who deals in, treat or store rubber, ship rubber for export, pack rubber for export or manufacture technically specified rubber must be a holder of a valid licence granted under this Act authorising him to do so or is a person employed by the holder of such a licence.</li>

@@ -13,4 +13,3 @@ Monetary Authority of Singapore (MAS)
 <H3>Application Details</H3>
 
 <p>Direct insurers and reinsurers need to apply for approval if they wish to set up a representative office in Singapore. Representative offices are not allowed to carry on or solicit insurance business in Singapore and can only carry on activities approved by MAS.</p>
-

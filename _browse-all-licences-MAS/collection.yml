@@ -3,17 +3,17 @@ collections:
     output: true
     order:
       - back-to-all-licences.md
-      - Application-for-Approved-MAT-Insurers.md
-      - Application-for-Authorised-Reinsurers.md
       - Application-for-Bank-Representative-Office.md
-      - Application-for-Insurance-Brokers.md
       - Application-for-Insurance-Representative-Office.md
-      - Application-for-Merchant-Bank.md
+      - Approved-CIS-trustee.md
+      - Approved-Clearing-House-(ACH)-or-Recognised-Clearing-House-(RCH).md
+      - Approved-Exchange-(AE)-or-Recognised-Market-Operator-(RMO).md
       - Capital-Markets-Services-Licence.md
-      - Commercial-Bank-Licence.md
       - Financial-Adviser's-Licence.md
-      - Insurer-Licence.md
+      - Insurer-and-Insurance-Broker-Licence.md
+      - Licensed-Trade-Repository-(LTR)-or-Licensed-Foreign-Trade-Repository-(LFTR).md
+      - Licensing-and-Authorisation-for-Banking-Business.md
       - Major-Payment-Institution-Licence.md
-      - Money-Changer's-Licence.md
+      - Money-Changing-Licence.md
       - Standard-Payment-Institution-Licence.md
       - Trust-Business-Licence.md

@@ -74,7 +74,7 @@
       content: |
         | **Licence Name** | **Log In To** |
         |Managed Security Operations Centre (SOC) Monitoring Service Licence|[GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/mylicences/dueForRenewal){:target="_blank"}{:rel="noopener"}|
-        |Penetration Testing Services Licence (PTS)|[GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/mylicences/dueForRenewal){:target="_blank"}{:rel="noopener"}|
+        |Penetration Testing Service Licence|[GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/mylicences/dueForRenewal){:target="_blank"}{:rel="noopener"}|
 - accordion:
   letter: e
   data:
@@ -90,7 +90,6 @@
         | **Licence Name** | **Log In To** |
         |Electricity Generation|[GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/mylicences/dueForRenewal){:target="_blank"}{:rel="noopener"}|
         |Electricity Retailer|[GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/mylicences/dueForRenewal){:target="_blank"}{:rel="noopener"}|
-        |Electricity Wholesaler|[GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/mylicences/dueForRenewal){:target="_blank"}{:rel="noopener"}|
         |Electricity Wholesaler|[GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/mylicences/dueForRenewal){:target="_blank"}{:rel="noopener"}|
         |Gas Shipper, Retailer or Importer|[GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/mylicences/dueForRenewal){:target="_blank"}{:rel="noopener"}|
     - title: Enterprise Singapore (EnterpriseSG)
@@ -204,20 +203,20 @@
     - title: Monetary Authority of Singapore (MAS)
       content: |
         | **Licence Name** | **Log In To** |
-        |Application for Approved MAT Insurers|[MAS](https://www.mas.gov.sg/regulation/Insurance/Approved-MAT-Insurer-Apply-for-Approval){:target="_blank"}{:rel="noopener"}|
-        |Application for Authorised Reinsurers|[MAS](https://www.mas.gov.sg/regulation/Insurance/Authorised-Reinsurer-Apply-for-Authorisation){:target="_blank"}{:rel="noopener"}|
-        |Application for Bank Representative Office|[MAS](https://www.mas.gov.sg/regulation/Banking/set-up-bank-representative-office){:target="_blank"}{:rel="noopener"}|
-        |Application for Insurance Brokers|[MAS](https://www.mas.gov.sg/regulation/forms-and-templates/application-for-registration-as-an-insurance-broker){:target="_blank"}{:rel="noopener"}|
+        |Application for Bank Representative Office|[MAS](https://www.mas.gov.sg/regulation/banking/set-up-bank-representative-office){:target="_blank"}{:rel="noopener"}|
         |Application for Insurance Representative Office|[MAS](https://www.mas.gov.sg/regulation/Insurance/For-Insurers-Setting-up-a-Representative-Office){:target="_blank"}{:rel="noopener"}|
-        |Application for Merchant Bank|[MAS](https://www.mas.gov.sg/regulation/Banking/Licensing-and-Authorisation-for-Banking-Business){:target="_blank"}{:rel="noopener"}|
-        |Capital Markets Services Licence|[MAS](https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Securities-Futures-and-Funds-Management.aspx){:target="_blank"}{:rel="noopener"}|
-        |Commercial Bank Licence|[MAS](https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Commercial-Banks.aspx){:target="_blank"}{:rel="noopener"}|
-        |Financial Adviser's Licence|[MAS](https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Financial-Advisers.aspx){:target="_blank"}{:rel="noopener"}|
-        |Insurer Licence|[MAS](https://www.mas.gov.sg/regulation/Insurance/Types-of-Insurers-in-Singapore){:target="_blank"}{:rel="noopener"}|
-        |Major Payment Institution Licence|[MAS](https://www.mas.gov.sg/regulation/payments/major-payment-institution-licence){:target="_blank"}{:rel="noopener"}|
-        |Money-Changer's Licence|[MAS](https://www.mas.gov.sg/regulation/payments/money-changing-licence){:target="_blank"}{:rel="noopener"}|
-        |Standard Payment Institution Licence|[MAS](https://www.mas.gov.sg/regulation/payments/standard-payment-institution-licence){:target="_blank"}{:rel="noopener"}|
-        |Trust Business Licence|[MAS](https://www.mas.gov.sg/regulation/capital-markets/Trust-Business-Licence){:target="_blank"}{:rel="noopener"}|
+        |Approved CIS trustee|[MAS](https://www.mas.gov.sg/regulation/capital-markets/apply-for-licensing-or-registration-of-capital-market-entities/approved-cis-trustee){:target="_blank"}{:rel="noopener"}|
+        |Approved Clearing House (ACH) or Recognised Clearing House (RCH)|[MAS](https://www.mas.gov.sg/regulation/capital-markets/apply-for-licensing-or-registration-of-capital-market-entities/copy-of-approved-clearing-house-ach-or-recognised-clearing-house-rch-licence){:target="_blank"}{:rel="noopener"}|
+        |Approved Exchange (AE) or Recognised Market Operator (RMO)|[MAS](https://www.mas.gov.sg/regulation/capital-markets/apply-for-licensing-or-registration-of-capital-market-entities/approved-exchange-ae-or-recognised-market-operator-rmo-licence){:target="_blank"}{:rel="noopener"}|
+        |Capital Markets Services Licence|[MAS](https://www.mas.gov.sg/regulation/capital-markets/apply-for-licensing-or-registration-of-capital-market-entities/cms-licence){:target="_blank"}{:rel="noopener"}|
+        |Financial Adviser's Licence|[MAS](https://www.mas.gov.sg/regulation/capital-markets/apply-for-licensing-or-registration-of-capital-market-entities/financial-advisers){:target="_blank"}{:rel="noopener"}|
+        |Insurer and Insurance Broker Licence|[MAS](https://www.mas.gov.sg/regulation/Insurance/Types-of-Insurers-in-Singapore){:target="_blank"}{:rel="noopener"}|
+        |Licensed Trade Repository (LTR) or Licensed Foreign Trade Repository (LFTR)|[MAS](https://www.mas.gov.sg/regulation/capital-markets/apply-for-licensing-or-registration-of-capital-market-entities/copy-of-licensed-trade-repository-ltr-or-licensed-foreign-trade-repository-lftr){:target="_blank"}{:rel="noopener"}|
+        |Licensing and Authorisation for Banking Business|[MAS](https://www.mas.gov.sg/regulation/banking/licensing-and-authorisation-for-banking-business){:target="_blank"}{:rel="noopener"}|
+        |Major Payment Institution Licence|[MAS](https://www.mas.gov.sg/regulation/payments/licensing-for-payment-service-providers){:target="_blank"}{:rel="noopener"}|
+        |Money-Changing Licence|[MAS](https://www.mas.gov.sg/regulation/payments/licensing-for-payment-service-providers){:target="_blank"}{:rel="noopener"}|
+        |Standard Payment Institution Licence|[MAS](https://www.mas.gov.sg/regulation/payments/licensing-for-payment-service-providers){:target="_blank"}{:rel="noopener"}|
+        |Trust Business Licence|[MAS](https://www.mas.gov.sg/regulation/capital-markets/apply-for-licensing-or-registration-of-capital-market-entities/trust-business-licence){:target="_blank"}{:rel="noopener"}|
     - title: Ministry of Culture, Community and Youth (MCCY)
       content: |
         | **Licence Name** | **Log In To** |
