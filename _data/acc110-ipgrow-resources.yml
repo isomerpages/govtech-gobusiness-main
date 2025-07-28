@@ -31,7 +31,7 @@ accordion:
     content: |
       - [Business Guides](https://iposinternational.com/en/resources/business-guides){:target="_blank"}{:rel="noopener"}<br>Download business guides that offer practical tips, tools, and advice to help you overcome business challenges and leverage your IA/IP for growth.
       
-      - [Patent Analytics Reports](https://iposinternational.com/en/resources/patent-analytics-reports){:target="_blank"}{:rel="noopener"}<br>Download reports for insights on the latest global trends and discover future research and investment opportunities based on patent data.
+      - [Patent Analytics Reports](https://iposinternational.com/en/patent-analytics/patent-analytics-reports){:target="_blank"}{:rel="noopener"}<br>Download reports for insights on the latest global trends and discover future research and investment opportunities based on patent data.
 
       - [Trade Mark Guides](https://www.ipos.gov.sg/about-ip/trade-marks/managing-trade-marks/guides){:target="_blank"}{:rel="noopener"}<br>Find useful information on trade mark filing and examination practices. 
       
@@ -52,6 +52,6 @@ accordion:
 
   - title: Others
     content: |
-      - [Tech Insights through Patents (TIP)](https://iposinternational.com/en/resources/tech-insights-through-patents){:target="_blank"}{:rel="noopener"}<br>Stay ahead of the innovation curve with the interactive TIP tool showcasing worldwide technology trends in artificial intelligence.
+      - [Tech Insights through Patents (TIP)](https://iposinternational.com/en/patent-analytics/tech-insights-through-patents){:target="_blank"}{:rel="noopener"}<br>Stay ahead of the innovation curve with the interactive TIP tool showcasing worldwide technology trends in artificial intelligence.
       
       - [WIPO IP Diagnostics Tool](https://www.wipo.int/ipdiagnostics-assessment/global/en){:target="_blank"}{:rel="noopener"}<br>Use this free self-assessment tool to help your business identify its IP assets. Users will get a report on recommendations and further information on IP and business competitiveness.

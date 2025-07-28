@@ -33,7 +33,7 @@ National Environment Agency (NEA)
 <p><strong>If I am informed that my application is pending clarifications or submission of documents, how long do I have to respond/submit to NEA my clarifications/documents for my application?</strong><br>Please respond/submit to NEA your clarifications/documents as soon as possible, to not delay the application process. Your application may be deemed as unsuccessful if any outstanding documents and/or clarifications are not submitted within 3 months from the date of your application.</p>
 </li>
 <li>
-<p><strong>Where to find more information on control of toxic industrial waste?</strong><br>Please refer to <a href="https://www.nea.gov.sg/our-services/pollution-control/hazardous-waste/toxic-waste-control" target="_blank" rel="noopener">NEA's website</a>.</p>
+<p><strong>Where to find more information on control of toxic industrial waste?</strong><br>Please refer to <a href="https://www.nea.gov.sg/our-services/pollution-control/toxic-industrial-waste/toxic-waste-control" target="_blank" rel="noopener">NEA's website</a>.</p>
 </li>
 </ol>
 

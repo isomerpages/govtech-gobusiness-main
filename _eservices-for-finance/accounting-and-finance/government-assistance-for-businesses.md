@@ -53,17 +53,11 @@ Find out the full list of e-Services in our [Run and Grow guide](/run-and-grow/)
 
 **Singapore Tourism Board (STB)**
 
-- [Marketing Partnership Programme - Hotels](https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/MPP/MPP-Hotels.html){:target="_blank"}{:rel="noopener"}
-  <br>Apply to get funding support for domestic marketing in the hotel industry.
-
-- [COVID-19 Cleaning Support for Tourism-related Establishments](https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/Support-for-Cleaning-Disinfection-Costs.html){:target="_blank"}{:rel="noopener"}
-  <br>Apply to get funding support for third-party cleaning services incurred by tourism-related establishments impacted by COVID-19, such as hotels.
-
 - [Tourism Product Development Scheme](https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview.html){:target="_blank"}{:rel="noopener"}
   <br>Apply to get funding support for the creation or rejuvenation of tourism products.
 
-- [Double Tax Deduction](https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/tax-incentives-overview/submission.html){:target="_blank"}{:rel="noopener"}
-  <br>Apply for approval to deduct against your taxable income twice the qualifying expenses incurred for participating in STB-supported overseas fairs/missions, or Approved International Fair (AIF) events in Singapore.
+- [Double Tax Deduction](https://www.stb.gov.sg/licensing-support/assistance-programmes/double-tax-deduction-for-approved-international-fair){:target="_blank"}{:rel="noopener"}
+  <br>Apply for approval to deduct against your taxable income twice the qualifying expenses incurred for participating in international trade exhibitions held in Singapore with Approved International Fair (AIF) status.
 
 ---
 
