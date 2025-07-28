@@ -143,14 +143,14 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Cybersecurity Labelling Scheme for IoT (Level 4)](https://dashboard.gobusiness.gov.sg/task-details/csaiot4)
 - [Cybersecurity Labelling Scheme for IoT through Mutual Recognition Agreement (MRA)](https://dashboard.gobusiness.gov.sg/task-details/iotmra)
 - [Managed Security Operations Centre (SOC) Monitoring Service Licence](https://dashboard.gobusiness.gov.sg/task-details/soc)
-- [Penetration Testing Services Licence (PTS)](https://dashboard.gobusiness.gov.sg/task-details/pts)
+- [Penetration Testing Service Licence](https://dashboard.gobusiness.gov.sg/task-details/pts)
 
 <a name="education"></a>
 
 ## Education
 - [Asatizah Recognition Scheme](https://ilm-tms.muis.gov.sg/)
 - [Certificate of Registration of School](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=37)
-- [Early Childhood Development Centre Licence](https://dashboard.gobusiness.gov.sg/task-details/706f7bbc-5f8c-46d6-b908-65b30b831a87)
+- [Early Childhood Development Centre Licence](https://dashboard.gobusiness.gov.sg/task-details/ecdcl)
 - [EduTrust Certification Scheme](https://dashboard.gobusiness.gov.sg/task-details/edutrust)
 - [Islamic Education Centres and Providers Registration](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=234)
 - [Registration of Private Education Institutions](https://dashboard.gobusiness.gov.sg/task-details/ssgpei)
@@ -182,28 +182,28 @@ Select an industry to see a list of relevant licences here. You can also browse 
 <a name="financial-services"></a>
 
 ## Financial Services
-- [Application for Approved MAT Insurers](https://www.mas.gov.sg/regulation/Insurance/Approved-MAT-Insurer-Apply-for-Approval)
-- [Application for Authorised Reinsurers](https://www.mas.gov.sg/regulation/Insurance/Authorised-Reinsurer-Apply-for-Authorisation)
-- [Application for Bank Representative Office](https://www.mas.gov.sg/regulation/Banking/set-up-bank-representative-office)
-- [Application for Insurance Brokers](https://www.mas.gov.sg/regulation/forms-and-templates/application-for-registration-as-an-insurance-broker)
+- [Application for Bank Representative Office](https://www.mas.gov.sg/regulation/banking/set-up-bank-representative-office)
 - [Application for Insurance Representative Office](https://www.mas.gov.sg/regulation/Insurance/For-Insurers-Setting-up-a-Representative-Office)
-- [Application for Merchant Bank](https://www.mas.gov.sg/regulation/Banking/Licensing-and-Authorisation-for-Banking-Business)
+- [Approved CIS trustee](https://www.mas.gov.sg/regulation/capital-markets/apply-for-licensing-or-registration-of-capital-market-entities/approved-cis-trustee)
 - [Approval for Debt Collector](https://dashboard.gobusiness.gov.sg/task-details/4eeba687-8b63-4ea8-b303-0079a44fda8c)
-- [Capital Markets Services Licence](https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Securities-Futures-and-Funds-Management.aspx)
+- [Approved Clearing House (ACH) or Recognised Clearing House (RCH)](https://www.mas.gov.sg/regulation/capital-markets/apply-for-licensing-or-registration-of-capital-market-entities/copy-of-approved-clearing-house-ach-or-recognised-clearing-house-rch-licence)
+- [Approved Exchange (AE) or Recognised Market Operator (RMO)](https://www.mas.gov.sg/regulation/capital-markets/apply-for-licensing-or-registration-of-capital-market-entities/approved-exchange-ae-or-recognised-market-operator-rmo-licence)
+- [Capital Markets Services Licence](https://www.mas.gov.sg/regulation/capital-markets/apply-for-licensing-or-registration-of-capital-market-entities/cms-licence)
 - [Certificate of Exemption (the Moneylenders Act (Cap.188))](https://dashboard.gobusiness.gov.sg/task-details/certificateofexemption)
-- [Commercial Bank Licence](https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Commercial-Banks.aspx)
-- [Financial Adviser's Licence](https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Financial-Advisers.aspx)
+- [Financial Adviser's Licence](https://www.mas.gov.sg/regulation/capital-markets/apply-for-licensing-or-registration-of-capital-market-entities/financial-advisers)
 - [House to House and Street Collections Licence](https://dashboard.gobusiness.gov.sg/task-details/house-house-street-collections)
 - [Insolvency Practitioner Licence (IP)](https://dashboard.gobusiness.gov.sg/task-details/insolvencypractitioner)
-- [Insurer Licence](https://www.mas.gov.sg/regulation/Insurance/Types-of-Insurers-in-Singapore)
+- [Insurer and Insurance Broker Licence](https://www.mas.gov.sg/regulation/Insurance/Types-of-Insurers-in-Singapore)
 - [Licence for Debt Collection Business](https://dashboard.gobusiness.gov.sg/task-details/1b4a2551-fd14-4559-ac97-271ea6457409)
-- [Major Payment Institution Licence](https://www.mas.gov.sg/regulation/payments/major-payment-institution-licence)
-- [Money-Changer's Licence](https://www.mas.gov.sg/regulation/payments/money-changing-licence)
+- [Licensed Trade Repository (LTR) or Licensed Foreign Trade Repository (LFTR)](https://www.mas.gov.sg/regulation/capital-markets/apply-for-licensing-or-registration-of-capital-market-entities/copy-of-licensed-trade-repository-ltr-or-licensed-foreign-trade-repository-lftr)
+- [Licensing and Authorisation for Banking Business](https://www.mas.gov.sg/regulation/banking/licensing-and-authorisation-for-banking-business)
+- [Major Payment Institution Licence](https://www.mas.gov.sg/regulation/payments/licensing-for-payment-service-providers)
+- [Money-Changing Licence](https://www.mas.gov.sg/regulation/payments/licensing-for-payment-service-providers)
 - [Moneylender's Licence](https://dashboard.gobusiness.gov.sg/task-details/moneylender)
 - [Pawnbroker's Licence](https://dashboard.gobusiness.gov.sg/task-details/pawnbrokerlicence)
 - [Registration for Moneylender's Test](https://dashboard.gobusiness.gov.sg/task-details/moneylendertest)
-- [Standard Payment Institution Licence](https://www.mas.gov.sg/regulation/payments/standard-payment-institution-licence)
-- [Trust Business Licence](https://www.mas.gov.sg/regulation/capital-markets/Trust-Business-Licence)
+- [Standard Payment Institution Licence](https://www.mas.gov.sg/regulation/payments/licensing-for-payment-service-providers)
+- [Trust Business Licence](https://www.mas.gov.sg/regulation/capital-markets/apply-for-licensing-or-registration-of-capital-market-entities/trust-business-licence)
 
 <a name="fire-safety-and-hazardous-materials"></a>
 

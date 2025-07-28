@@ -380,16 +380,16 @@
       content: |
         **Managed Security Operations Centre (SOC) Monitoring Service Licence**
 
-        <p>For application of the Managed SOC Monitoring Service Licence</p>
+        <p>For application of a cybersecurity service provider's licence to provide managed SOC monitoring service under the Cybersecurity Act</p>
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/soc" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Cybersecurity-Services-Regulation-Office-(CSRO)/Managed-Security-Operations-Centre-(SOC)-Monitoring-Service-Licence">View Licence Details</a>
 
         -----
-        **Penetration Testing Services Licence (PTS)**
+        **Penetration Testing Services Licence**
 
-        <p>For application of the Penetration Testing Service Licence</p>
+        <p>For application of a cybersecurity service provider&rsquo;s licence to provide penetration testing service under the Cybersecurity Act</p>
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/pts" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Cybersecurity-Services-Regulation-Office-(CSRO)/Penetration-Testing-Services-Licence-(PTS)">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/pts" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Cybersecurity-Services-Regulation-Office-(CSRO)/Penetration-Testing-Service-Licence">View Licence Details</a>
 
 - accordion:
   letter: e
@@ -402,7 +402,7 @@
 
         All Early Childhood Development Centres (ECDCs) are required to obtain a licence under the Early Childhood Development Centres Act and Regulations.
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/706f7bbc-5f8c-46d6-b908-65b30b831a87" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Early-Childhood-Development-Agency-(ECDA)/Early-Childhood-Development-Centre-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/ecdcl" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Early-Childhood-Development-Agency-(ECDA)/Early-Childhood-Development-Centre-Licence">View Licence Details</a>
 
     - title: Economic Development Board (EDB)
       content: |
@@ -467,8 +467,7 @@
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
         <p>Foreign entities that are keen to explore opportunities in the region may wish to set up a Representative Office (RO) in Singapore.</p>
-        <p>Foreign entities from the manufacturing, international trading, wholesale, trade and trade-related business sectors that are keen on exploring the viability of doing business in Singapore or are interested in using Singapore as a launch pad into the Asia Pacific, may wish to set-up a Representative Office (RO). By setting up an RO, it allows a foreign entity to assess the business environment in Singapore before deciding to set up a permanent establishment.</p>
-
+        
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/roms" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Enterprise-Singapore-(EnterpriseSG)/Representative-Office">View Licence Details</a>
 
         -----
@@ -1150,34 +1149,11 @@
   data:
     - title: Monetary Authority of Singapore (MAS)
       content: |
-        **Application for Approved MAT Insurers**
-
-        <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
-
-        Overseas insurers in designated countries may apply for approval to provide direct marine, aviation and transit (MAT) insurance in Singapore.
-
-        <a class="primary-btn" href="https://www.mas.gov.sg/regulation/Insurance/Approved-MAT-Insurer-Apply-for-Approval" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Application-for-Approved-MAT-Insurers">View Licence Details</a>
-
-        -----
-        **Application for Authorised Reinsurers**
-
-        Overseas insurers may apply for authorisation to carry on life and/or general reinsurance business in Singapore.
-
-        <a class="primary-btn" href="https://www.mas.gov.sg/regulation/Insurance/Authorised-Reinsurer-Apply-for-Authorisation" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Application-for-Authorised-Reinsurers">View Licence Details</a>
-
-        -----
         **Application for Bank Representative Office**
 
         Bank representative offices are registered under section 13A of the Banking Act (Cap. 19). A bank representative office may carry out liaison work, market research or feasibility studies, but is not allowed to transact any business in Singapore. The registration of a bank representative office does not imply that the applicant will qualify for a banking licence in future.
 
-        <a class="primary-btn" href="https://www.mas.gov.sg/regulation/Banking/set-up-bank-representative-office" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Application-for-Bank-Representative-Office">View Licence Details</a>
-
-        -----
-        **Application for Insurance Brokers**
-
-        Insurance brokers are registered under section 35X of the Insurance Act (Cap. 142). A person who wishes to conduct insurance broking activities may be registered as a direct insurance broker, general reinsurance broker or life reinsurance broker. Insurance brokers act on behalf of clients and assist clients to arrange insurance contracts relating to general insurance business, general reinsurance business or life reinsurance business.
-
-        <a class="primary-btn" href="https://www.mas.gov.sg/regulation/forms-and-templates/application-for-registration-as-an-insurance-broker" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Application-for-Insurance-Brokers">View Licence Details</a>
+        <a class="primary-btn" href="https://www.mas.gov.sg/regulation/banking/set-up-bank-representative-office" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Application-for-Bank-Representative-Office">View Licence Details</a>
 
         -----
         **Application for Insurance Representative Office**
@@ -1187,69 +1163,90 @@
         <a class="primary-btn" href="https://www.mas.gov.sg/regulation/Insurance/For-Insurers-Setting-up-a-Representative-Office" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Application-for-Insurance-Representative-Office">View Licence Details</a>
 
         -----
-        **Application for Merchant Bank**
+        **Approved CIS trustee**
 
-        Financial institutions (FIs) wishing to conduct banking business in Singapore must meet MAS' admission criteria and receive written authorisation from MAS to set up a wholesale bank or merchant bank in Singapore.
+        A company must obtain MAS' prior approval, if it wishes to act as trustee for collective investment schemes (CIS) constituted as unit trusts, where the CIS are authorised under section 286 of the Securities and Futures Act 2001 (SFA) or are restricted schemes constituted in Singapore and entered into the list of restricted schemes maintained by MAS.
 
-        <a class="primary-btn" href="https://www.mas.gov.sg/regulation/Banking/Licensing-and-Authorisation-for-Banking-Business" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Application-for-Merchant-Bank">View Licence Details</a>
+        <a class="primary-btn" href="https://www.mas.gov.sg/regulation/capital-markets/apply-for-licensing-or-registration-of-capital-market-entities/approved-cis-trustee" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Approved-CIS-trustee">View Licence Details</a>
+
+        -----
+        **Approved Clearing House (ACH) or Recognised Clearing House (RCH)**
+
+        Clearing houses are regulated by MAS as approved clearing houses (ACHs) or recognised clearing houses (RCHs) under the Securities and Futures Act 2001.
+
+        <a class="primary-btn" href="https://www.mas.gov.sg/regulation/capital-markets/apply-for-licensing-or-registration-of-capital-market-entities/copy-of-approved-clearing-house-ach-or-recognised-clearing-house-rch-licence" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Approved-Clearing-House-(ACH)-or-Recognised-Clearing-House-(RCH)">View Licence Details</a>
+
+        -----
+        **Approved Exchange (AE) or Recognised Market Operator (RMO)**
+
+        Markets are regulated by MAS as approved exchanges (AEs) or recognised market operators (RMOs) under the Securities and Futures Act 2001.
+
+        <a class="primary-btn" href="https://www.mas.gov.sg/regulation/capital-markets/apply-for-licensing-or-registration-of-capital-market-entities/approved-exchange-ae-or-recognised-market-operator-rmo-licence" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Approved-Exchange-(AE)-or-Recognised-Market-Operator-(RMO)">View Licence Details</a>
 
         -----
         **Capital Markets Services Licence**
 
-        Capital Markets Intermediaries are licensed under section 82 of the Securities and Futures Act (Cap. 289) to carry out any or all of the regulated activities specified in the Second Schedule to the Securities and Futures Act.
+        A company must hold a capital markets services (CMS) licence to conduct activities regulated under the Securities and Futures Act 2001 (SFA). Individuals representing CMS licensees or exempt financial institutions need to be appointed as representatives.
 
-        <a class="primary-btn" href="https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Securities-Futures-and-Funds-Management.aspx" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Capital-Markets-Services-Licence">View Licence Details</a>
-
-        -----
-        **Commercial Bank Licence**
-
-        Setting up commercial banks in Singapore.
-
-        <a class="primary-btn" href="https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Commercial-Banks.aspx" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Commercial-Bank-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://www.mas.gov.sg/regulation/capital-markets/apply-for-licensing-or-registration-of-capital-market-entities/cms-licence" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Capital-Markets-Services-Licence">View Licence Details</a>
 
         -----
         **Financial Adviser's Licence**
 
-        Financial advisers are licensed under section 6 of the Financial Advisers Act (Cap. 110) to provide any or all of the financial advisory services specified in the Second Schedule to the Financial Advisory Services. Currently, these services include advising others on investment products, issuing research reports concerning investment products, marketing collective investment schemes, and arranging life policies such as insurance.
+        If your company wishes to conduct regulated activities under the Financial Advisers Act 2001 (FAA) it must hold a financial adviser's (FA) licence unless otherwise exempted. Individuals conducting financial advisory activities on behalf of licensed FAs or exempt FAs need to be appointed as representatives.
 
-        <a class="primary-btn" href="https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Financial-Advisers.aspx" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Financial-Adviser's-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://www.mas.gov.sg/regulation/capital-markets/apply-for-licensing-or-registration-of-capital-market-entities/financial-advisers" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Financial-Adviser's-Licence">View Licence Details</a>
 
         -----
-        **Insurer Licence**
+        **Insurer and Insurance Broker Licence**
 
-        Insurers in Singapore comprise licensed insurers, authorised reinsurers, approved marine, aviation and transit (MAT) insurers and foreign insurers. Insurance brokers in Singapore comprise registered insurance brokers, approved MAT insurance brokers and approved reinsurance brokers.
+        Insurers and insurance brokers are licensed and governed under the Insurance Act.
 
-        <a class="primary-btn" href="https://www.mas.gov.sg/regulation/Insurance/Types-of-Insurers-in-Singapore" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Insurer-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://www.mas.gov.sg/regulation/Insurance/Types-of-Insurers-in-Singapore" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Insurer-and-Insurance-Broker-Licence">View Licence Details</a>
+
+        -----
+        **Licensed Trade Repository (LTR) or Licensed Foreign Trade Repository (LFTR)**
+
+        Trade repositories are licensed by MAS as licensed trade repository (LTRs) or licensed foreign trade repositories (LFTRs) under the Securities and Futures Act 2001.
+
+        <a class="primary-btn" href="https://www.mas.gov.sg/regulation/capital-markets/apply-for-licensing-or-registration-of-capital-market-entities/copy-of-licensed-trade-repository-ltr-or-licensed-foreign-trade-repository-lftr" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Licensed-Trade-Repository-(LTR)-or-Licensed-Foreign-Trade-Repository-(LFTR)">View Licence Details</a>
+
+        -----
+        **Licensing and Authorisation for Banking Business**
+
+        Financial institutions (FIs) wishing to conduct banking business in Singapore must meet MAS' admission criteria and receive written authorisation from MAS to set up a wholesale bank or merchant bank in Singapore.
+
+        <a class="primary-btn" href="https://www.mas.gov.sg/regulation/banking/licensing-and-authorisation-for-banking-business" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Licensing-and-Authorisation-for-Banking-Business">View Licence Details</a>
 
         -----
         **Major Payment Institution Licence**
 
         Major payment institutions are licensed and regulated under the Payment Services Act ("PS Act") to provide payment services without being subject to the specified thresholds.
 
-        <a class="primary-btn" href="https://www.mas.gov.sg/regulation/payments/major-payment-institution-licence" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Major-Payment-Institution-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://www.mas.gov.sg/regulation/payments/licensing-for-payment-service-providers" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Major-Payment-Institution-Licence">View Licence Details</a>
 
         -----
-        **Money-Changer's Licence**
+        **Money-Changing Licence**
 
         Money-changing licensees are licensed and regulated under the Payment Services Act ("PS Act") to conduct only money-changing services i.e. the service of buying or selling foreign currency notes.
 
-        <a class="primary-btn" href="https://www.mas.gov.sg/regulation/payments/money-changing-licence" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Money-Changer's-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://www.mas.gov.sg/regulation/payments/licensing-for-payment-service-providers" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Money-Changing-Licence">View Licence Details</a>
 
         -----
         **Standard Payment Institution Licence**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        Standard payment institutions are licensed and regulated under the Payment Services Act ("PS Act") to provide payment services below the specified thresholds.
+        Standard payment institutions are licensed and regulated under the Payment Services Act ("PS Act") to provide payment services without being subject to the specified thresholds.
 
-        <a class="primary-btn" href="https://www.mas.gov.sg/regulation/payments/standard-payment-institution-licence" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Standard-Payment-Institution-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://www.mas.gov.sg/regulation/payments/licensing-for-payment-service-providers" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Standard-Payment-Institution-Licence">View Licence Details</a>
 
         -----
         **Trust Business Licence**
 
-        Licensed Trust Companies are licensed under section 3 of the Trust Companies Act (Cap. 336) to carry out trust business specified in the First Schedule to the Trust Companies Act. Trust business refers to: a. the provision of services with respect to the creation of an express trust; b. acting as trustee in relation to an express trust; c. arranging for any person to act as trustee in respect of an express trust; d. the provision of trust administration services in relation to an express trust.
+        Licensed trust companies are licensed and governed under the Trust Companies Act 2005 (TCA) and its subsidiary legislations, including the regulations, notices, guidelines and circulars issued under the Trust Companies Act.
 
-        <a class="primary-btn" href="https://www.mas.gov.sg/regulation/capital-markets/Trust-Business-Licence" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Trust-Business-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://www.mas.gov.sg/regulation/capital-markets/apply-for-licensing-or-registration-of-capital-market-entities/trust-business-licence" target="_blank" rel="noopener">Apply on MAS</a>&emsp;<a href = "/browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Trust-Business-Licence">View Licence Details</a>
 
     - title: Ministry of Culture, Community and Youth (MCCY)
       content: |
