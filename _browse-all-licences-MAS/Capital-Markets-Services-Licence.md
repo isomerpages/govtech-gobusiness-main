@@ -8,19 +8,27 @@ third_nav_title: Monetary Authority of Singapore (MAS)
 
 Monetary Authority of Singapore (MAS)
 
-{% include button.html text="Apply on MAS" src="https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Securities-Futures-and-Funds-Management.aspx" type="primary" %}
+{% include button.html text="Apply on MAS" src="https://www.mas.gov.sg/regulation/capital-markets/apply-for-licensing-or-registration-of-capital-market-entities/cms-licence" type="primary" %}
 
 <H3>Application Details</H3>
 
-<p>Capital Markets Intermediaries are licensed under section 82 of the Securities and Futures Act (Cap. 289) to carry out any or all of the regulated activities specified in the Second Schedule to the Securities and Futures Act. The regulated activities are:</p>
- <p>(a) dealing in securities;</p>
- <p>(b) trading in futures contracts;</p>
- <p>(c) leveraged foreign exchange trading;</p>
- <p>(d) advising on corporate finance;</p>
- <p>(e) fund management;</p>
- <p>(ea) real estate investment trust management;</p>
- <p>(f) securities financing;</p>
- <p>(fa) providing credit rating services; and</p>
- <p>(g) providing custodial services for securities.</p>
- <p>Any person who wishes to carry on a business in any regulated activity under the Securities and Futures Act in Singapore is required to hold a capital markets service licence, unless an exemption applies. The exemptions from the requirements to hold a capital markets service licence are provided in section 99 of the Securities and Futures Act and the Second Schedule to the Securities and Futures (Licensing and Conduct of Business) Regulations.</p>
-
+<p>A company must hold a capital markets services (CMS) licence to conduct activities regulated under the <a href="https://sso.agc.gov.sg/Act/SFA2001" target="_blank" rel="noopener">Securities and Futures Act 2001 (SFA)</a>. Individuals representing CMS licensees or exempt financial institutions need to be appointed as representatives.</p>
+<p>These regulated activities are:</p>
+<ul>
+<li>Dealing in capital markets products</li>
+<li>Advising on corporate finance</li>
+<li>Fund management</li>
+<li>Real estate investment trust management</li>
+<li>Product financing</li>
+<li>Providing credit rating services</li>
+<li>Providing custodial services for securities</li>
+</ul>
+<p>Capital markets products include securities, units in a collective investment scheme (CIS), over-the-counter (OTC) derivatives, exchange-traded derivatives and spot foreign exchange for the purposes of leveraged foreign exchange trading.</p>
+<p>Companies which may be required to hold a CMS licence include the below. Learn more about each type of entity for more information on what they do, and the different licensing exemptions available for the different regulated activities:</p>
+<ul>
+<li><a href="https://www.mas.gov.sg/regulation/capital-markets/understand-the-types-of-capital-market-entities/broker-dealers" target="_blank" rel="noopener">broker-dealers (including securities-based crowdfunding (SCF) operators)</a>,</li>
+<li><a href="https://www.mas.gov.sg/regulation/capital-markets/understand-the-types-of-capital-market-entities/corporate-finance-advisers" target="_blank" rel="noopener">corporate finance advisers</a>,</li>
+<li><a href="https://www.mas.gov.sg/regulation/capital-markets/understand-the-types-of-capital-market-entities/credit-rating-agencies" target="_blank" rel="noopener">credit rating agencies</a>,</li>
+<li><a href="https://www.mas.gov.sg/regulation/capital-markets/understand-the-types-of-capital-market-entities/reit-managers" target="_blank" rel="noopener">real estate investment trust (REIT) managers</a>, and</li>
+<li><a href="https://www.mas.gov.sg/regulation/capital-markets/understand-the-types-of-capital-market-entities/fund-managers" target="_blank" rel="noopener">fund managers</a>.</li>
+</ul>

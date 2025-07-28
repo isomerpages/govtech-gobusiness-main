@@ -34,4 +34,3 @@ Housing & Development Board (HDB)
 <li><strong>What if there is a change in Partners?</strong><br />A change in partners will result in a change in business setup. Hence, for such cases, you should submit an Application for Changes via GoBusiness Licensing.</li>
 <li><strong>What if we are a private limited company since the commencement of tenancy with HDB and there is a change in shareholders?</strong><br />A private limited company is a legal entity by itself. A change in shareholders should not result in a change in business setup. Hence, you can use the Update Form however, please notify HDB via our <a href="https://go.gov.sg/hdb-write-to-us" target="_blank" rel="noopener">HDB Feedback Form</a> if there is a change to the existing guarantor.</li>
 </ol>
-

@@ -18,4 +18,3 @@ Housing & Development Board (HDB)
 <strong>Additional Information</strong>
 
 <p><strong>Fee</strong><br />$20 (inclusive of GST)</p>
-

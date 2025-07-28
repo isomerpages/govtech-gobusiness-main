@@ -1,14 +1,14 @@
 ---
-title: Managed Security Operations Centre (SOC) Monitoring Service Licence
-permalink: /browse-all-licences/Cybersecurity-Services-Regulation-Office-(CSRO)/Managed-Security-Operations-Centre-(SOC)-Monitoring-Service-Licence
+title: Penetration Testing Service Licence
+permalink: /browse-all-licences/Cybersecurity-Services-Regulation-Office-(CSRO)/Penetration-Testing-Service-Licence
 third_nav_title: Cybersecurity Services Regulation Office (CSRO)
 ---
 
-## Apply for Managed Security Operations Centre (SOC) Monitoring Service Licence
+## Apply for Penetration Testing Service Licence
 
 Cybersecurity Services Regulation Office (CSRO)
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/soc" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/pts" type="primary" %}
 
 <H3>Application Details</H3>
 

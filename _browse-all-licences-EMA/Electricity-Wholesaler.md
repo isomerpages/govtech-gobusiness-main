@@ -15,10 +15,11 @@ Energy Market Authority (EMA)
 <H3>Application Details</H3>
 
 <p>Required for trading in wholesale electricity market through electricity generated or load reduction</p>
-<p><u>Wholesaler Generation</u></p>
-<p>A company is required to hold an Electricity Wholesaler Licence issued by the EMA if it generates electricity by means of one or more generating units of 1 MW or more but less than 10 MW and the generating unit(s) is connected to the power grid.</p>
+<p><u>Wholesaler Generation</u>
+<br />A company is required to hold an Electricity Wholesaler Licence issued by the EMA if it generates electricity by means of one or more generating units of 1 MW or more but less than 10 MW and the generating unit(s) is connected to the power grid.</p>
 <p>For generating unit(s) of less than 1 MW that wish to be paid for the electricity it exports to the power grid, the generating unit(s) must be registered with the Energy Market Company and may have to compete to secure dispatch in the National Electricity Market of Singapore. If the aggregate capacity of the generating units owned by the company in a single location exceeds 10 MW in total, these generating units will have to bid in the electricity market to secure dispatch.</p>
-<p><u>Demand Side Participation</u> ("DSP")<br />A consumer can participate in the wholesale electricity market through reducing their load during times of high wholesale electricity price or system supply shortage under the <u>Demand Response Programme</u> ("DRP") and <u>Interruptible Load Scheme</u> ("ILS")</p>
+<p><u>Demand Side Participation</u> ("DSP")
+<br />A consumer can participate in the wholesale electricity market through reducing their load during times of high wholesale electricity price or system supply shortage under the <u>Demand Response Programme</u> ("DRP") and <u>Interruptible Load Scheme</u> ("ILS")</p>
 <p>A company is required to hold an Electricity Wholesaler Licence issued by EMA if it wishes to offer either individual load facility or aggregated load facilities of multiple contestable consumers within the same specific zone to be reduced.</p>
 
 <h3>FAQ</h3>
@@ -71,11 +72,6 @@ Besides applying for the above electricity licence(s), he will also need to regi
 <br>Document(s) Format(s): (*.doc, *.docx, *.jpeg, *.jpg, *.pdf, *.png, *.xls, *.xlsx)
 <br>Maximum upload per application: 7 MB
 </li>
-<li><strong>Evidence to support the linear ramp up and down rates of proposed load facilities (e.g. audit evidence or tests by an independent party)</strong>
-<br>For load facility only
-<br>Document(s) Format(s): (*.doc, *.docx, *.jpeg, *.jpg, *.pdf, *.png, *.xls, *.xlsx)
-<br>Maximum upload per application: 7 MB
-</li>
 <li><strong>Other supporting documents (if any)</strong>
 <br>Document(s) Format(s): (*.doc, *.docx, *.jpeg, *.jpg, *.pdf, *.png, *.xls, *.xlsx)
 <br>Maximum upload per application: 7 MB
@@ -85,4 +81,3 @@ Besides applying for the above electricity licence(s), he will also need to regi
 <H3>Requirements</H3>
 
 Applicant must be ACRA registered company/business
-
