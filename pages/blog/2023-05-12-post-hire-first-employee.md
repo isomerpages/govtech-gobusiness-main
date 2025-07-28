@@ -129,7 +129,7 @@ If you have sent your employees for SSG-funded training, you are eligible to app
 
 You will be asked to declare your employees’ hourly salary information (before CPF deduction) on the Enterprise Portal for Jobs and Skills for AP claim. AP funding is provided at a flat rate of S$4.50 per hour, capped at $100,000 for each organisation per calendar year.
 
-To have a clearer idea of the amount you can claim, you can use the [AP calculator](https://www.ssg.gov.sg/absentee-payroll-calculator.html){:target="_blank"}{:rel="noopener"} on the SSG website. Employers can access all their claim services via the [AP funding page](https://sfec.enterprisejobskills.gov.sg/Callbackhandler/Prelogin.aspx){:target="_blank"}{:rel="noopener"}, and AP funding will be reimbursed to companies via PayNow within two and a half weeks after submission of the AP declaration.
+Employers can access all their claim services via the [AP funding page](https://sfec.enterprisejobskills.gov.sg/Callbackhandler/Prelogin.aspx){:target="_blank"}{:rel="noopener"}, and AP funding will be reimbursed to companies via PayNow within two and a half weeks after submission of the AP declaration.
 
 ![Staff welcoming a new successful hire into the office](/images/blog/content/HiringFirstEmployee 7.png)
 <figcaption>Hiring your first employee can seem like a daunting process, but finding the right candidate for the job will help you take your business further (Image: Canva)</figcaption>

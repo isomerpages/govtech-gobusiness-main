@@ -17,7 +17,7 @@ To search for the licenses and approvals that may be required for the business, 
 <a name="hbb_bakeries_guidelines"></a>
 ### For Home Bakeries
 
-Singapore Food Agency (SFA) is the statutory board that oversees food safety and security in Singapore. Persons who handle and prepare food are encouraged to attend the [Basic Food Hygiene Course/WSQ Food Safety Course Level 1](https://www.sfa.gov.sg/docs/default-source/covid/sfa-good-food-hygiene-tips-for-residents-preparing-food-under-hdb-ura-guidelines.pdf){:target="_blank"}{:rel="noopener"}.
+Singapore Food Agency (SFA) is the statutory board that oversees food safety and security in Singapore. Persons who handle and prepare food are encouraged to attend the [Basic Food Hygiene Course/WSQ Food Safety Course Level 1](https://www.sfa.gov.sg/food-handler-hygiene-officer/training-courses/wsq-food-safety-course-level-1){:target="_blank"}{:rel="noopener"}.
 
 <hr>
 
