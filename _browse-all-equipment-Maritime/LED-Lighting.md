@@ -22,8 +22,6 @@ Up to 70% for SMEs, 30% for non-SMEs
 
 Only for businesses within the Maritime sectors.
 
-Funded and administered by Enterprise Singapore (EnterpriseSG). For more information, please refer to [https://www.enterprisesg.gov.sg/eeg](https://www.enterprisesg.gov.sg/eeg){:target='_blank'}{:rel='noopener'}
-
 ### Pre-Approved Equipment Brands and Models (MELS)
 
 - AGRANERGY PTE. LTD. - A16-C39BT8SEB4-18T65L
