@@ -8,6 +8,8 @@ third_nav_title: Intellectual Property
 
 ![Protect your ideas](/images/ipgrow/IP.jpg)
 
+{% include optical-beta-ipgrowlanding.html %}
+
 Intellectual property (IP) refers to creations of the mind that have commercial value and can be legally protected. This includes inventions, literary and artistic works, designs and symbols, and names used in commerce. 
 
 IP rights provide the owner with exclusive rights to control the use and distribution of their creations. Understanding how to leverage your IP and intangible assets (IA) is therefore important for business' continued growth and expansion. 

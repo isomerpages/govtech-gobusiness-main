@@ -6,6 +6,8 @@ third_nav_title: Intellectual Property
 
 ## Types of IA/IP Services
 
+{% include optical-beta-ipgrowservices.html %}
+
 There are many intangible assets (IA) and intellectual property (IP) services a business will require as it innovates, transforms, and grows. 
 
 GoBusiness IP Grow features 20 IA/IP service directories grouped into 4 key categories. Click on each IA/IP service to view a list of service providers.
