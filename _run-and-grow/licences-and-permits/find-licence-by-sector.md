@@ -10,8 +10,6 @@ Find out which licences you need by answering a few questions, based on your bus
 
 This is a non-exhaustive list of business sectors. If you can’t find what you’re looking for, check the [full list of licences](/licences/find-licence-by-agency/?src=lic_guide_writeup) you can apply for. For licence renewals or amendment, use this list to [find licences to renew or amend](/licences/renew-amend-licence/?src=lic_guide_writeup).
 
-{% include optical-beta-licencebyindustry.html %}
-
 {% include overview-licence.html notice=site.data.ov019-licence-guide %}
 
 ## For all sectors
