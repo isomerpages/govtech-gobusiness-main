@@ -12,6 +12,8 @@ Select a government agency to see its licences and find out which platform to lo
 
 {% include optical-beta-licencerenewal.html %}
 
+<br>
+
 {% include overview-licence.html notice=site.data.ov020-licence-amend-renew %}
 
 ## A

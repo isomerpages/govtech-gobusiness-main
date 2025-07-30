@@ -64,6 +64,8 @@ Select an industry to see a list of relevant licences here. You can also browse 
 
 {% include optical-beta-licencebyindustry.html %}
 
+<br>
+
 {% include overview-licence.html notice=site.data.ov018-licence-browse-all %}
 
 ---
