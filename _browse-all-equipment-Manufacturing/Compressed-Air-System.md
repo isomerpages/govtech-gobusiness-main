@@ -73,6 +73,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - BOGE - C15-2LF
 - BOGE - C18-2LF
 - BOGE - C22-2LF
+- BOGE - C30F
 - BOGE - C7PM
 - BOGE - C9PM
 - BOGE - S46-4LF
@@ -82,6 +83,10 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - BOGE - S76-4LF
 - BOGE - SLF40-3
 - BOGE - SLF51-3
+- BOGE - SPF37
+- BOGE - SPF45
+- BOGE - SPF55
+- BOGE - SPF75
 - Ceccato - CSMV10 PM
 - Ceccato - CSMV100 PM
 - Ceccato - CSMV20 PM
@@ -96,9 +101,12 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Chicago Pneumatic - CPMV100
 - Chicago Pneumatic - CPMV20
 - Chicago Pneumatic - CPMV50
+- HITACHI - OSP-110VAN2
 - HITACHI - OSP-11VAN2
 - HITACHI - OSP-15VAN2
+- HITACHI - OSP-160VAN2
 - HITACHI - OSP-22VAN2
+- HITACHI - OSP-37VAN2
 - HITACHI - OSP-55VAN2
 - HITACHI - OSP-75VAN2
 - Ingersoll Rand - IRN37K-OF
@@ -106,11 +114,15 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Ingersoll Rand - IRN55K-OF
 - Ingersoll Rand - IRN75K-OF
 - Ingersoll Rand - RM110n_A
+- Ingersoll Rand - RM22n_A
 - Ingersoll Rand - RM22ne_A
+- Ingersoll Rand - RM22ne_A14
+- Ingersoll Rand - RM37n_A
+- Ingersoll Rand - RM75n_A
 - Ingersoll Rand - RS37n
-- Ingersoll Rand - RS45n-A
-- Ingersoll Rand - RS55n-A
-- Ingersoll Rand - RS75n-A
+- Ingersoll Rand - RS45n_A
+- Ingersoll Rand - RS55n_A
+- Ingersoll Rand - RS75n_A
 - Kaeser - ASD60SFC
 - Kaeser - BSD75SFC
 - Kaeser - CSD110SFC
@@ -149,6 +161,32 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - MARK - MSS11 PM
 - MARK - MSS15 PM
 - MARK - MSS22-15 PM
+- Mitsui Seiki - i-14015AX2
+- Mitsui Seiki - i-14015WX
+- Mitsui Seiki - i-14022AX2
+- Mitsui Seiki - i-14022WX
+- Mitsui Seiki - i-14030A3
+- Mitsui Seiki - i-14037AX2
+- Mitsui Seiki - i-14037WX
+- Mitsui Seiki - i-14045A3
+- Mitsui Seiki - i-14055A4
+- Mitsui Seiki - i-14055W3
+- Mitsui Seiki - i-14075A4
+- Mitsui Seiki - i-14075W3
+- Mitsui Seiki - i-14100W
+- Mitsui Seiki - i-14150W
+- Mitsui Seiki - i-14180W
+- Mitsui Seiki - i-14220W
+- Mitsui Seiki - ZV100AS2i
+- Mitsui Seiki - ZV100WS2i
+- Mitsui Seiki - ZV11AX
+- Mitsui Seiki - ZV150AS2i
+- Mitsui Seiki - ZV150WS2i
+- Mitsui Seiki - ZV15AX
+- Mitsui Seiki - ZV22AX
+- Mitsui Seiki - ZV37AX
+- Mitsui Seiki - ZV55AX
+- Mitsui Seiki - ZV75AX
 - Xinlei - SE-100EPM
 - Xinlei - SE-10EPM
 - Xinlei - SE-15EPM
