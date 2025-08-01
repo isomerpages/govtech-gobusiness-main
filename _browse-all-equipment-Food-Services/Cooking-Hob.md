@@ -23,36 +23,36 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 
 ### Pre-Approved Equipment Brands and Models
 
-- Aerogaz  -  AZ-7328iC
-- Angelo Po (Italy)  -  1S1VT1IB
+- Aerogaz - AZ-7328iC
+- Angelo Po (Italy) - 1S1VT1IB
 - Anvil - ICA270B
 - Anvil - IWA1001
 - Anvil - IWA1002
 - Anvil - IWA100B
-- ATA (Italy)  -  K7ECI05TT
-- ATA (Italy)  -  K7ECI10TT
-- Bertazzoni  -  P302IB2NE
-- Bertazzoni  -  P603I30NV
-- Bertazzoni  -  P885IC2G5NE
-- Bertos  -  E7P4B/IND
-- Bertos  -  LXE9P2/IND
-- Bertos  -  LXE9P4/IND
-- Chefmaster  -  CM-200T1
-- Chefmaster  -  CM-350KCT
-- Chefmaster  -  CM-350KCTW
-- Chefmaster  -  CM-500A
-- Chefmaster  -  CM-500W
-- Chefmaster  -  CM-700D3T
-- COO  -  CK-280
-- COO  -  CK-2B350
-- COO  -  CK-350
-- COO  -  CK-4B350
-- COO  -  CK-FS-800
-- COO  -  CK-TT-2B350
-- COO  -  CK-WS-800
-- Dambo  -  H80-HJ098-P15S-BT
-- Dambo  -  LDS-DCL800-HJ098-20PS
-- Dambo  -  LDS-DT400-HJ098-A12PS
+- ATA (Italy) - K7ECI05TT
+- ATA (Italy) - K7ECI10TT
+- Bertazzoni - P302IB2NE
+- Bertazzoni - P603I30NV
+- Bertazzoni - P885IC2G5NE
+- Bertos - E7P4B/IND
+- Bertos - LXE9P2/IND
+- Bertos - LXE9P4/IND
+- Chefmaster - CM-200T1
+- Chefmaster - CM-350KCT
+- Chefmaster - CM-350KCTW
+- Chefmaster - CM-500A
+- Chefmaster - CM-500W
+- Chefmaster - CM-700D3T
+- COO - CK-280
+- COO - CK-2B350
+- COO - CK-350
+- COO - CK-4B350
+- COO - CK-FS-800
+- COO - CK-TT-2B350
+- COO - CK-WS-800
+- Dambo - H80-HJ098-P15S-BT
+- Dambo - LDS-DCL800-HJ098-20PS
+- Dambo - LDS-DT400-HJ098-A12PS
 - Dambo - H80B-HJ208-A10S
 - Dambo - H80-HJ098-A15S
 - Dambo - HJ018-BZL4T35K+
@@ -61,32 +61,32 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Dambo - LDS-DTDW-HJ098-A15PS
 - Dambo - LDS-ST300-HJ208-A6PS
 - Dambo - LDS-STDW-HJ098-A15PS
-- Daneng  -  DN-ICC-3.5
-- Daneng  -  DN-ICC3.5-2
-- Daneng  -  DN-ICC3.5-4
-- Daneng  -  DN-ICC3.5-6
-- Daneng  -  DN-ICC-5
-- Daneng  -  DN-ICS-15
-- Daneng  -  DN-ICS3.5-2
-- Daneng  -  DN-ICS3.5-4
-- Daneng  -  DN-ICS3.5-6
-- Daneng  - DN-ICS2-15
-- Daneng  - DN-IWC-3.5
-- Daneng  - DN-IWC-5
-- Daneng  - DN-IWS-12
-- Daneng  - DN-IWS-15
-- Daneng  - DN-IWS-20-800
-- Daneng  - DN-IWS21-15
-- Daneng  - DN-IWS2-15
-- Daneng  - DN-IWS2-20-800
-- Daneng  - DN-IWS22-15
-- Daneng  - DN-IWS2-25-900
-- Daneng  - DN-IWS-25-900
-- Daneng  - DN-IWS-30-1000
-- Dipo induction  - NBK26-E
-- Electrolux Professional  - MA1BCADOOO
-- Electrolux Professional  - MA1BCAEOOO
-- Electrolux Professional  - MCLBEAEDAO
+- Daneng - DN-ICC-3.5
+- Daneng - DN-ICC3.5-2
+- Daneng - DN-ICC3.5-4
+- Daneng - DN-ICC3.5-6
+- Daneng - DN-ICC-5
+- Daneng - DN-ICS-15
+- Daneng - DN-ICS3.5-2
+- Daneng - DN-ICS3.5-4
+- Daneng - DN-ICS3.5-6
+- Daneng - DN-ICS2-15
+- Daneng - DN-IWC-3.5
+- Daneng - DN-IWC-5
+- Daneng - DN-IWS-12
+- Daneng - DN-IWS-15
+- Daneng - DN-IWS-20-800
+- Daneng - DN-IWS21-15
+- Daneng - DN-IWS2-15
+- Daneng - DN-IWS2-20-800
+- Daneng - DN-IWS22-15
+- Daneng - DN-IWS2-25-900
+- Daneng - DN-IWS-25-900
+- Daneng - DN-IWS-30-1000
+- Dipo induction - NBK26-E
+- Electrolux Professional - MA1BCADOOO
+- Electrolux Professional - MA1BCAEOOO
+- Electrolux Professional - MCLBEAEDAO
 - Electrolux Professional - 371020
 - Electrolux Professional - 371021
 - Electrolux Professional - 371282
@@ -119,29 +119,67 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - FBK - FBKCZC-TIC3.5
 - FBK - FBKCZC-TIC5
 - FBK - FBKCZC-TIW
-- Garland  - Instinct Hob 3.5
-- Garland  - Instinct Hob 5
-- Hatco  - IRNG-PB1-36
-- Hatco  - IRNG-PB2-18
-- Hatco  - IRNG-PB2-24-IA
-- Hatco  - IRNG-PB2-29
-- Hatco  - IRNG-PB2-36
-- Hatco  - IRNG-PB2-36-IA
-- Hatco  - IRNG-PC1-36
-- Hatco  - IRNG-PC2F-18
-- Hatco  - IRNG-PC2F-24-IA
-- Hatco  - IRNG-PC2F-29
-- Hatco  - IRNG-PC2F-36
-- Hatco  - IRNG-PC2F-36-IA
-- Hatco  - IRNG-PC2S-18
-- Hatco  - IRNG-PC2S-24-IA
-- Hatco  - IRNG-PC2S-29
-- Hatco  - IRNG-PC2S-36
-- Hatco  - IRNG-PC2S-36-IA
-- Hatco  - IWRM-B1-1313-05
-- Hatco  - IWRM-C1-1317-06
-- Hatco  - IWRM-CD1-03
-- Hatco  - IWRM-CD1-05
+- Garland - Instinct Hob 3.5
+- Garland - Instinct Hob 5
+- Hatco - IRNG-PB1-36
+- Hatco - IRNG-PB2-18
+- Hatco - IRNG-PB2-24-IA
+- Hatco - IRNG-PB2-29
+- Hatco - IRNG-PB2-36
+- Hatco - IRNG-PB2-36-IA
+- Hatco - IRNG-PC1-36
+- Hatco - IRNG-PC2F-18
+- Hatco - IRNG-PC2F-24-IA
+- Hatco - IRNG-PC2F-29
+- Hatco - IRNG-PC2F-36
+- Hatco - IRNG-PC2F-36-IA
+- Hatco - IRNG-PC2S-18
+- Hatco - IRNG-PC2S-24-IA
+- Hatco - IRNG-PC2S-29
+- Hatco - IRNG-PC2S-36
+- Hatco - IRNG-PC2S-36-IA
+- Hatco - IWRM-B1-1313-05
+- Hatco - IWRM-C1-1317-06
+- Hatco - IWRM-CD1-03
+- Hatco - IWRM-CD1-05
+- INTECH - HIC-2C-E
+- INTECH - HIC-2S-E
+- INTECH - HIC-4C-E
+- INTECH - HIC-4O-E
+- INTECH - HIC-4S-E
+- INTECH - HIW-4-E15
+- INTECH - HIW-6-E15
+- INTECH - HIW-8-E15
+- INTECH - HIW-9-E15
+- INTECH - ICW-1B-E
+- INTECH - ICW-1-E
+- INTECH - ICW-2-E
+- INTECH - ISK-1-E25
+- INTECH - ISP-1-E15
+- INTECH - RIC-2C-E
+- INTECH - RIC-2S-E
+- INTECH - RIC-4C-E
+- INTECH - RIC-4O-E
+- INTECH - RIC-4S-E
+- INTECH - RIW-4-E15
+- INTECH - RIW-8-E15
+- INTECH - TIM-350B
+- INTECH - TIM-350BX
+- INTECH - TIM-350T
+- INTECH - TSI-688A
+- INTECH - TSM-350B2
+- INTECH - TSM-350B2X
+- INTECH - TSM-350B-G
+- INTECH - TSM-350BX-G
+- INTECH - TSM-350T
+- INTECH - TSM-350T2-G
+- INTECH - TSM-500B-G
+- INTECH - TSM-500T-G
+- INTECH - TSR-678
+- INTECH - TSW-350B
+- INTECH - TSW-350T
+- INTECH - TSW-500B
+- INTECH - TSW-500T
 - JEMI - S70IN
 - JEMI - S70IN GP
 - JEMI - S70WIN
@@ -154,11 +192,11 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - JEMI - T70WIN GP
 - JEMI - T90IN/2
 - JEMI - T90IN/2 GP
-- KANG JIE  - BT500
-- KANG JIE  - DWXC400
-- KANG JIE  - PAJ300
-- KANG JIE  - PAJ500
-- KANG JIE  - XC300
+- KANG JIE - BT500
+- KANG JIE - DWXC400
+- KANG JIE - PAJ300
+- KANG JIE - PAJ500
+- KANG JIE - XC300
 - KANG JIE - DCSTBZL
 - KANG JIE - KJ-K600-ES
 - KANG JIE - KJ-K800-ES
@@ -168,37 +206,37 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - KANG JIE - STBZL
 - KANG JIE - XC300-2
 - KANG JIE - XC400-2
-- Lincat (UK)  - SLI42
+- Lincat (UK) - SLI42
 - MANTRU - ZC2-C4030A-W
 - MANTRU - ZC2-C4030A-W2
 - MANTRU - ZC-C4015A-W
 - MANTRU - ZC-C5020A-W
-- Mantru.e  - ZC2-C366A
-- Mantru.e  - ZC2-C366A-Q
-- Mantru.e  - ZC2-C366B-Q
-- Mantru.e  - ZC2-C366C-Q
-- Mantru.e  - ZC-C333A
-- Mantru.e  - ZC-C333A-Q
-- Mantru.e  - ZC-C405A
-- Mantru.e  - ZC-C408B
-- Mantru.e  - ZT2-C07A-DZ
-- Mantru.e  - ZT2-C30A
-- Mantru.e  - ZT2-C366A
-- Mantru.e  - ZT2-C366A-Q
-- Mantru.e  - ZT2-C366B
-- Mantru.e  - ZT2-C8007A
-- Mantru.e  - ZT4-C14A-DZ
-- Mantru.e  - ZT4-C8014A
-- Mantru.e  - ZT6-C8021A
-- Mantru.e  - ZT-C15A
-- Mantru.e  - ZT-C333A
-- Mantru.e  - ZT-C333A-Q
-- Mantru.e  - ZT-C405A
-- Mantru.e  - ZT-C408B
-- Mareno  - ICI94TE
-- Mareno  - ICIW94TE
-- Mayer  - MMIH302HS
-- Mayer  - MMIH603FZ
+- Mantru.e - ZC2-C366A
+- Mantru.e - ZC2-C366A-Q
+- Mantru.e - ZC2-C366B-Q
+- Mantru.e - ZC2-C366C-Q
+- Mantru.e - ZC-C333A
+- Mantru.e - ZC-C333A-Q
+- Mantru.e - ZC-C405A
+- Mantru.e - ZC-C408B
+- Mantru.e - ZT2-C07A-DZ
+- Mantru.e - ZT2-C30A
+- Mantru.e - ZT2-C366A
+- Mantru.e - ZT2-C366A-Q
+- Mantru.e - ZT2-C366B
+- Mantru.e - ZT2-C8007A
+- Mantru.e - ZT4-C14A-DZ
+- Mantru.e - ZT4-C8014A
+- Mantru.e - ZT6-C8021A
+- Mantru.e - ZT-C15A
+- Mantru.e - ZT-C333A
+- Mantru.e - ZT-C333A-Q
+- Mantru.e - ZT-C405A
+- Mantru.e - ZT-C408B
+- Mareno - ICI94TE
+- Mareno - ICIW94TE
+- Mayer - MMIH302HS
+- Mayer - MMIH603FZ
 - MISTRAL Sia-Huat - (1112-MIC88TSI)
 - NOVA - NIC-3.5T
 - NOVA - NIC-5T
@@ -208,7 +246,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - NUEVO - BT-E35
 - NUEVO - EW350C4A-H7
 - NUEVO - EW500S1
-- OZTI  - 7865.N1.80903.IS
+- OZTI - 7865.N1.80903.IS
 - Penguin - P-AIFC
 - Penguin - P-AIWC
 - Penguin - P-S15000W-B
@@ -229,67 +267,69 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Penguin - P-W-5000W
 - Penguin - P-W-T5000W-1PH
 - Penguin - P-W-T5000W-3PH
-- RATIONAL  - iVario 2-XS
-- RATIONAL  - iVario Pro 2-S
-- RATIONAL  - iVario Pro L
-- RATIONAL  - iVario Pro XL 
-- ROLLER GRILL Sia-Huat  - (238SD-PIC25)
-- ROLLER GRILL Sia-Huat  - (238SD-PID30)
-- ROLLER GRILL Sia-Huat  - (238SD-PIS30)
+- RATIONAL - iVario 2-XS
+- RATIONAL - iVario Pro 2-S
+- RATIONAL - iVario Pro L
+- RATIONAL - iVario Pro XL
+- ROLLER GRILL Sia-Huat - (238SD-PIC25)
+- ROLLER GRILL Sia-Huat - (238SD-PID30)
+- ROLLER GRILL Sia-Huat - (238SD-PIS30)
 - ROLLER GRILL Sia-Huat - (238SD-PID700)
 - ROLLER GRILL Sia-Huat - (238SD-PIW30)
 - SAFICO PRO - 217BH-HBE350A
-- SAFICO PRO Sia-Huat  - (1101SF-CB-28A)
+- SAFICO PRO Sia-Huat - (1101SF-CB-28A)
 - SAFICO PRO Sia-Huat - (1101SF-ABB-18T)
 - SAFICO PRO Sia-Huat - (1101SF-AT-25A)
 - SAFICO PRO Sia-Huat - (1101SF-CW-28A)
 - SAFICO PRO Sia-Huat - (1101SF-DT-28T)
+- SH - SH-TSEI-DSF5K
 - Sia-Huat - (217BH-BT-180G6)
 - Sia-Huat - (217BH-BT-350A-G)
-- SmartChef  - BT-700D3T
-- Superior - Superior-28EA3
-- Superior - Superior-S-F-IC1P-3500-2R
-- Superior - Superior-S-F-IC1P-3500-4R
-- Superior - Superior-S-F-IC3P-3500-2R
-- Superior - Superior-S-F-IC3P-3500-4R
-- Superior - Superior-S-F-IC3P-3500-6R
-- Superior - Superior-S-SB-1
-- Superior - Superior-S-SB-2
-- Superior - Superior-S-WIC-1
-- Superior - Superior-S-WIC-2
-- Superior - Superior-TC-10EA
-- Superior - Superior-TT-FF-IC1P-3500
-- Superior - Superior-TT-FF-IC1P-3500-P
-- Superior - Superior-TT-FF-IC1P-4200
-- Superior - Superior-TT-FF-IC1P-4200-P
-- Superior - Superior-TT-FF-IC1P-5000
-- Superior - Superior-TT-FF-IC1P-5000-P
-- Superior - Superior-TT-FF-IC3P-5000-P
-- Superior - Superior-TT-F-IC1P-3500-2R-H
-- Superior - Superior-TT-F-IC1P-3500-2R-V
-- Superior - Superior-TT-F-IC1P-3500-4R
-- Superior - Superior-TT-F-IC3P-3500-2R-H
-- Superior - Superior-TT-F-IC3P-3500-2R-V
-- Superior - Superior-TT-F-IC3P-3500-4R
-- Superior - Superior-TT-F-IC3P-3500-6R
-- Superior - Superior-TT-SB-1P
-- Superior - Superior-TT-SB-3P
-- Superior - Superior-TT-W-IC1P-3500
-- Superior - Superior-TT-W-IC1P-3500-P
-- Superior - Superior-TT-W-IC1P-4200
-- Superior - Superior-TT-W-IC1P-4200-P
-- Superior - Superior-TT-W-IC1P-5000
-- Superior - Superior-TT-W-IC1P-5000-P
-- Superior - Superior-TT-W-IC3P-5000-P
+- SmartChef - BT-700D3T
+- Superior - 28EA3
+- Superior - S-F-IC1P-3500-2R
+- Superior - S-F-IC1P-3500-4R
+- Superior - S-F-IC3P-3500-2R
+- Superior - S-F-IC3P-3500-4R
+- Superior - S-F-IC3P-3500-6R
+- Superior - S-SB-1
+- Superior - S-SB-2
+- Superior - S-WIC-1
+- Superior - S-WIC-2
+- Superior - TC-10EA
+- Superior - TT-FF-IC1P-3500
+- Superior - TT-FF-IC1P-3500-P
+- Superior - TT-FF-IC1P-4200
+- Superior - TT-FF-IC1P-4200-P
+- Superior - TT-FF-IC1P-5000
+- Superior - TT-FF-IC1P-5000-P
+- Superior - TT-FF-IC3P-5000-P
+- Superior - TT-F-IC1P-3500-2R-H
+- Superior - TT-F-IC1P-3500-2R-V
+- Superior - TT-F-IC1P-3500-4R
+- Superior - TT-F-IC3P-3500-2R-H
+- Superior - TT-F-IC3P-3500-2R-V
+- Superior - TT-F-IC3P-3500-4R
+- Superior - TT-F-IC3P-3500-6R
+- Superior - TT-SB-1P
+- Superior - TT-SB-3P
+- Superior - TT-W-IC1P-3500
+- Superior - TT-W-IC1P-3500-P
+- Superior - TT-W-IC1P-4200
+- Superior - TT-W-IC1P-4200-P
+- Superior - TT-W-IC1P-5000
+- Superior - TT-W-IC1P-5000-P
+- Superior - TT-W-IC3P-5000-P
 - TEKA - AFF 87601 MST
 - TEKA - IZF 65320 BK MSP
 - TEKA - IZF 68700 BK MST
 - TEKA - IZS 34700 MST
+- THERMOR - TMRIC-3545
 - Ty - RTCZ-ASF-T50
 - Ty - RTCZ-FSC-P87-2P80
 - Ty - RTCZ-IWF-1810-2PS12
 - Ty - RTCZ-IWF-1PS80
-- Ty Brand  - RTCZ-TIC-B135
+- Ty Brand - RTCZ-TIC-B135
 - Ty Brand - RTCZ-FSC-B170-1B12
 - Ty Brand - RTCZ-FSC-B170-1B80
 - Ty Brand - RTCZ-IBF-4R35

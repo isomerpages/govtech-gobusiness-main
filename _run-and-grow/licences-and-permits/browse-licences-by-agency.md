@@ -11,6 +11,7 @@ Select a government agency to see its licences and apply for them.
 - To find a licence to renew/amend, refer to [this list](/licences/renew-amend-licence/?src=lic_list_writeup) instead 
 - To get recommendations on licences you need, browse our [list of e-Advisers for licences](/licences/find-licence-by-sector/?src=lic_list_writeup)
 
+{% include optical-beta-licencebyagency.html %}
 
 {% include overview-licence.html notice=site.data.ov018-licence-browse-all %}
 

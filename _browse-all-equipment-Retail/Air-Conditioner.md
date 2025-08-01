@@ -43,6 +43,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Daikin - RKM35ZVMG
 - Daikin - RKM50ZVMG
 - Daikin - RXMQ6AAVEG
+- Daikin - RXMUQ4AVEG
 - Daikin - RXMUQ5AVEG
 - Daikin - RXMUQ6AVEG
 - Daikin - RXQ10AYM
@@ -87,7 +88,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Daikin - RXUQ8AYMW
 - Daikin - RXUQ8BYMG
 - Enovatek Energy - EES-ADC12GW-XA-32R+5
-- EuropAce - ESAC MA3R215A
 - EuropAce - ESAC MA4R285A
 - EuropAce - ESAC18CUD
 - EuropAce - ESAC21CUD
@@ -106,8 +106,11 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - General - AJG108JATAH
 - General - AJG126JATAH
 - General - AJG144JATAH
+- GREE - GMVL-120K1D
 - GREE - GMVL-120WL/A-K(P)
+- GREE - GMVL-140K1D
 - GREE - GMVL-140WL/A-K(P)
+- GREE - GMVL-160K1D
 - GREE - GMVL-160WL/A-K(P)
 - GREE - GMVL-224WM/G-X(P)
 - GREE - GMVL-280WM/G-X(P)
@@ -158,9 +161,12 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - LG - ARUN182LTE6
 - LG - S3UZ091L1DA
 - LG - S3UZ121L1DA
+- LG - Z2UQ18GFA1
 - LG - Z3UQ18GFA0
 - LG - Z3UQ26GFA0
+- LG - Z3UQ28GFA1
 - LG - Z4UQ28GFA0
+- LG - Z4UQ34GFA1
 - LG - ZRUV030GSD5
 - LG - ZRUV040GSD5
 - LG - ZRUV050GSD5
@@ -184,10 +190,14 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Midea - MDV-V42WDHN1(SG2)
 - Midea - MDV-V48WDHN1(SG2)
 - Midea - MDV-V56WDHN1(SG2)
+- Midea - MEZ-2M21E
 - Midea - MEZ-3M28E
 - Midea - MEZ-4M32E
+- Midea - MEZ-5M42E
+- Midea - MGP-2M21E
 - Midea - MGP-3M28E
 - Midea - MGP-4M32E
+- Midea - MGP-5M42E
 - Midea - MKC-2M15E
 - Midea - MKC-3M22E
 - Midea - MKC-4M27E
@@ -214,6 +224,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Mitsubishi Electric - MXY-4H33VG2
 - Mitsubishi Electric - MXY-4H38VG
 - Mitsubishi Electric - MXY-5H48VG
+- Mitsubishi Electric - MXY-6C53VAM
 - Mitsubishi Electric - MXY-6D53VFM
 - Mitsubishi Electric - PUCY-EP200YKE.TH-SG
 - Mitsubishi Electric - PUCY-EP200YKE.TH-SG-BS
