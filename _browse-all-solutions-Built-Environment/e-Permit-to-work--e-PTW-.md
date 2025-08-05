@@ -19,6 +19,10 @@ This solution is supported by BCA.
 <th style='width: auto;'><b>Solutions Name</b></th>
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201600202R-CSG-Novd-SftyHSE-G' target='_blank'>CSG - Novade Safety-HSE</a><br></td>
+<td>CSG Software Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
