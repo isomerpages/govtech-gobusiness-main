@@ -184,6 +184,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Websentials Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201834121D-DM-WECOFA-Dgtl-Mrktng-PKG-G' target='_blank'>DM WECOFA Digital Marketing Packages</a><br></td>
+<td>WECOFA PTE LTD</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202020389H-DM-Wolfgng-Crtvs-Dgtl-Mrktng-PKG-G' target='_blank'>DM Wolfgang Creatives Digital Marketing Packages</a><br></td>
 <td>Wolfgang Creatives Pte. Ltd.</td>
 </tr>
