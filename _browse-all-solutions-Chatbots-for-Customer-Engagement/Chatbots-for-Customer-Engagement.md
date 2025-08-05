@@ -40,6 +40,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>iNextLabs Pte. Ltd.</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201215396N-Intrcom-AI-Chtbot-by-I-Concpt-G' target='_blank'>Intercom AI Chatbot by I Concept</a><br></td>
+<td>I Concept Innovation Pte. Ltd.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201509275C-OLLA-AI-G' target='_blank'>OLLA AI</a><br></td>
 <td>CLOUDE8 PTE. LTD.</td>
 </tr>
