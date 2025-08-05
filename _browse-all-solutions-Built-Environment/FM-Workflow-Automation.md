@@ -37,7 +37,7 @@ This solution is supported by BCA.
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200604333Z-VsonMn-G' target='_blank'>VisionMan</a><br></td>
-<td>ECS Techno_Sys (Asia Pacific) Pte. Ltd.</td>
+<td>ECS Techno_Sys (Asia Pacific) Pte Ltd</td>
 </tr>
 </table>
 
