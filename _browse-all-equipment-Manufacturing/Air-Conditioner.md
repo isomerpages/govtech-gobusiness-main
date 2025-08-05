@@ -19,7 +19,9 @@ permalink: /browse-all-equipment-Manufacturing/Air-Conditioner
 
 Up to 70% for SMEs, 30% for non-SMEs
 
-Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}.
+Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}
+
+Indoor air-conditioner units that are compatible and packaged with pre-approved outdoor units may be supported under the EEG.
 
 
 ### Pre-Approved Equipment Brands and Models
