@@ -26,14 +26,14 @@ SEOciety, a Google partner company, is one of the few integrated bilingual digit
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - English SEO (30 Keywords) + SEM (6 months)</td>
 <td style='padding: 10px;'>$10,490.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SEOciety_DM_Digital_Marketing_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201605009E_20220215_07082025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Chinese SEO (30 Keywords) + SEM (6 months)</td>
 <td style='padding: 10px;'>$10,490.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SEOciety_DM_Digital_Marketing_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201605009E_20220215_07082025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +43,7 @@ SEOciety, a Google partner company, is one of the few integrated bilingual digit
 
 ## Vendor Information
 
- Conpany Name: SEOciety Pte Ltd<br>Web URL: www.ourseociety.com/products <br>Contact Hotline: 96221439 <br>Contact Email: info@ourseociety.com
+ Conpany Name: SEOciety Pte Ltd<br>Web URL: www.ourseociety.com/products <br>Contact Hotline: 96221439 <br>Contact Email: info@ourseociety.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
