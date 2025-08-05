@@ -24,6 +24,10 @@ This solution is supported by BCA.
 <td>NEWGENE TECHNOLOGIES PTE. LTD.</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201633346H-Fld-Robo-Fld-SVC-Cum-Projct-MGT-Softwr-v-10-G' target='_blank'>Field Robo ( Field Service Cum Project Management Software ) Version 1.0</a><br></td>
+<td>SMITIV MOBILES TECHNOLOGIES PTE. LTD.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201228495E-REP-FM-G' target='_blank'>iREP FM</a><br></td>
 <td>Gabkotech Innovations Pte Ltd</td>
 </tr>
