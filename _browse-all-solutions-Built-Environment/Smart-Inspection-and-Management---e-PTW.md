@@ -28,6 +28,10 @@ This solution is supported by BCA.
 <td>Capps Solutions Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201325667M-Novd-SLNs-G' target='_blank'>Novade solutions</a><br></td>
+<td>NOVADE SOLUTIONS PTE. LTD.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201500224Z-SftyCultur-PTW-G' target='_blank'>SafetyCulture (ePTW)</a><br></td>
 <td>ASSURE SAFETY PTE. LTD.</td>
 </tr>
