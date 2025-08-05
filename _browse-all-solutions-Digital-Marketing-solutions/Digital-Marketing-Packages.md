@@ -41,7 +41,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201714165W-DM-Bnchmrkng-Socl-md-PKG-G' target='_blank'>DM Benchmarking Social media packages</a><br></td>
-<td>BENCHMARKING PTE LTD</td>
+<td>BENCHMARKING PTE. LTD.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201325568H-DM-Bzsqur-Dgtl-Mrktng-Sut-PKG-G' target='_blank'>DM Bizsquare Digital Marketing Suite Packages</a><br></td>
