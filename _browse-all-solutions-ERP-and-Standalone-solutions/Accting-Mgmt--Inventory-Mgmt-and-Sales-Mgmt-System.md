@@ -147,6 +147,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/199609132G-Synrgx-Sls,-ACC,-Invntory-G' target='_blank'>Synergix Sales, Accounting, Inventory</a><br></td>
 <td>Synergix Technologies Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201206718K-ZETTAPPs-Fnnc-&-Ordr-Procssng-v-48-G' target='_blank'>ZETTAPPs Finance & Order Processing Version 4.8</a><br></td>
+<td>Zetta Solution Pte. Ltd.</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
