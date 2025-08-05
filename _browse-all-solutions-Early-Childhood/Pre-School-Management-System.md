@@ -28,6 +28,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201100789H-LttlLvs-EC' target='_blank'>LittleLives</a><br></td>
+<td>LittleLives Inc Pte. Ltd.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/199905781M-Qoqolo-SCH-MGT-Systm-v-4-EC' target='_blank'>Qoqolo School Management System Version 4</a><br></td>
 <td>CommonTown Pte Ltd</td>
 </tr>
