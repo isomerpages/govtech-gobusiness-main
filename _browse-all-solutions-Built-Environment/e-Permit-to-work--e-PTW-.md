@@ -23,6 +23,10 @@ This solution is supported by BCA.
 <td><a href='/productivity-solutions-grant/solutionrepo/201600202R-CSG-Novd-SftyHSE-G' target='_blank'>CSG - Novade Safety-HSE</a><br></td>
 <td>CSG Software Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201606906Z-Hubbl-Sfty-MGT-Systm-G' target='_blank'>Hubble Safety Management System</a><br></td>
+<td>Hubble Pte. Ltd.</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
