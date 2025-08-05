@@ -26,35 +26,35 @@ Businesses benefit from MediaOne's decade of success in digital marketing and we
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A SEO SEM (6 months)</td>
 <td style='padding: 10px;'>$7,900.00</td>
 <td style='padding: 10px;'>$7,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MediaOne_DM_23052024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201322157W_20230272_07082025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B SEO SEM (6 months)</td>
 <td style='padding: 10px;'>$9,700.00</td>
 <td style='padding: 10px;'>$9,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MediaOne_DM_23052024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201322157W_20230272_07082025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C SEM SMA (3 months)</td>
 <td style='padding: 10px;'>$3,800.00</td>
 <td style='padding: 10px;'>$3,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MediaOne_DM_23052024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201322157W_20230272_07082025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D SMM SMA (2 months)</td>
 <td style='padding: 10px;'>$7,900.00</td>
 <td style='padding: 10px;'>$7,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MediaOne_DM_23052024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201322157W_20230272_07082025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E SMM SEO (6 months)</td>
 <td style='padding: 10px;'>$7,900.00</td>
 <td style='padding: 10px;'>$7,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MediaOne_DM_23052024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201322157W_20230272_07082025_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
