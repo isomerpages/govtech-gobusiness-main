@@ -23,27 +23,34 @@ Struggling with construction paperwork & safety? Hubble ePTW module offers real-
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hubble ePTW - Package 1 - (1 Project, 1 Year)</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/201606906Z_20240069_07082025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hubble ePTW, Toolbox Meeting, Safety and Equipment Inspection - Package 2 - (1 Project, 1 Year)</td>
 <td style='padding: 10px;'>$16,400.00</td>
 <td style='padding: 10px;'>$14,200.00</td>
 <td style='padding: 10px;'><a href='/images/psg/201606906Z_20240069_07082025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hubble ePTW, Toolbox Meeting, Safety and Equipment Inspection - Package 3 - (3 Projects, 1 Year)</td>
 <td style='padding: 10px;'>$22,500.00</td>
 <td style='padding: 10px;'>$22,500.00</td>
 <td style='padding: 10px;'><a href='/images/psg/201606906Z_20240069_07082025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hubble ePTW, Toolbox Meeting, Safety and Equipment Inspection - Package 4 - (5 Projects, 1 Year)</td>
 <td style='padding: 10px;'>$27,850.00</td>
 <td style='padding: 10px;'>$27,300.00</td>
 <td style='padding: 10px;'><a href='/images/psg/201606906Z_20240069_07082025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hubble ePTW, Toolbox Meeting, Safety and Equipment Inspection - Package 5 - (15 Projects, 1 Year)</td>
 <td style='padding: 10px;'>$32,250.00</td>
 <td style='padding: 10px;'>$27,500.00</td>
