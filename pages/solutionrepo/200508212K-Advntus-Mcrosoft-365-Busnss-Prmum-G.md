@@ -24,37 +24,37 @@ M365 Business Premium is a cloud-based service enhancing business cybersecurity.
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloud & PC Security (20 Users)</td>
-<td style='padding: 10px;'>$21,770.00</td>
-<td style='padding: 10px;'>$8,795.60</td>
-<td style='padding: 10px;'><a href='/images/psg/200508212K_20240237_05062025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$12,190.00</td>
+<td style='padding: 10px;'>$8,645.60</td>
+<td style='padding: 10px;'><a href='/images/psg/200508212K_20240237_07082025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloud & PC Security (40 Users)</td>
-<td style='padding: 10px;'>$31,090.00</td>
-<td style='padding: 10px;'>$12,741.20</td>
-<td style='padding: 10px;'><a href='/images/psg/200508212K_20240237_05062025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$19,530.00</td>
+<td style='padding: 10px;'>$12,591.20</td>
+<td style='padding: 10px;'><a href='/images/psg/200508212K_20240237_07082025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloud & PC Security (60 Users)</td>
-<td style='padding: 10px;'>$40,410.00</td>
-<td style='padding: 10px;'>$16,686.80</td>
-<td style='padding: 10px;'><a href='/images/psg/200508212K_20240237_05062025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$26,870.00</td>
+<td style='padding: 10px;'>$16,536.80</td>
+<td style='padding: 10px;'><a href='/images/psg/200508212K_20240237_07082025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloud & PC Security (80 Users)</td>
-<td style='padding: 10px;'>$49,730.00</td>
-<td style='padding: 10px;'>$20,632.40</td>
-<td style='padding: 10px;'><a href='/images/psg/200508212K_20240237_05062025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$34,210.00</td>
+<td style='padding: 10px;'>$20,482.40</td>
+<td style='padding: 10px;'><a href='/images/psg/200508212K_20240237_07082025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloud & PC Security (100 Users)</td>
-<td style='padding: 10px;'>$59,050.00</td>
-<td style='padding: 10px;'>$24,578.00</td>
-<td style='padding: 10px;'><a href='/images/psg/200508212K_20240237_05062025_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$41,550.00</td>
+<td style='padding: 10px;'>$24,428.00</td>
+<td style='padding: 10px;'><a href='/images/psg/200508212K_20240237_07082025_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

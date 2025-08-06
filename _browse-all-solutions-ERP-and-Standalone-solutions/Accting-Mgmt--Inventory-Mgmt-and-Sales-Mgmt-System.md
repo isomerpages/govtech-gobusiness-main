@@ -84,6 +84,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Dalstech Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201608167D-Mcrosoft-Dynmcs-365-Busnss-Cntrl-v-SAAS-V2x-G' target='_blank'>Microsoft Dynamics 365 Business Central Version SAAS V2x</a><br></td>
+<td>Illum (9) Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200715700E-Mcrosoft-Dynmcs-Busnss-Cntrl-G' target='_blank'>Microsoft Dynamics Business Central</a><br></td>
 <td>R Systems IBIZCS PTE. LTD.</td>
 </tr>
@@ -142,6 +146,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/199609132G-Synrgx-Sls,-ACC,-Invntory-G' target='_blank'>Synergix Sales, Accounting, Inventory</a><br></td>
 <td>Synergix Technologies Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201206718K-ZETTAPPs-Fnnc-&-Ordr-Procssng-v-48-G' target='_blank'>ZETTAPPs Finance & Order Processing Version 4.8</a><br></td>
+<td>Zetta Solution Pte. Ltd.</td>
 </tr>
 </table>
 

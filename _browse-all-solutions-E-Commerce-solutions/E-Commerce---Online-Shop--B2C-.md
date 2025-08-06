@@ -28,6 +28,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201215396N-Advncd-Ecommrc-SLN-by-I-Concpt-G' target='_blank'>Advanced Ecommerce Solution by I Concept</a><br></td>
+<td>I Concept Innovation Pte. Ltd.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/53322628K-Alph-Commrc-Boostr-v-28-G' target='_blank'>Alpha eCommerce Booster Version 2.8</a><br></td>
 <td>ALPHABET SIX MARKETING SINGAPORE</td>
 </tr>

@@ -26,7 +26,7 @@ Zippy eCommerce is designed to help SMES bring their B2C business online seamles
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zippy eCommerce Enterprise</td>
 <td style='padding: 10px;'>$5,000.00</td>
 <td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ZIPPY_SG_Zippy_eCommerce_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/200915846D_20230028_07082025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
