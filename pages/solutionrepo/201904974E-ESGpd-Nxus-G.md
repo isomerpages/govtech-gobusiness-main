@@ -64,7 +64,7 @@ ESGpedia Nexus platform is a comprehensive digital solution supporting various i
 
 ## Vendor Information
 
- Company Name: ESGPEDIA PTE. LTD.<br>Web URL: https://esgpedia.io/platform-nexus/ <br>Contact Hotline: 89483340<br>Contact Email: bd@esgpedia.io<br>
+ Company Name: ESGPEDIA PTE. LTD.<br>Web URL: https://esgpedia.io/platform-nexus/ <br>Contact Hotline: 89676964<br>Contact Email: bd@esgpedia.io<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

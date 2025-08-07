@@ -24,6 +24,10 @@ This solution is supported by BCA.
 <td>BIMAGE Consulting Pte. Ltd.</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/198600936N-BrcsCAD-AI-Dsgn-Tchnologs-G' target='_blank'>BricsCAD A.I Design Technologies</a><br></td>
+<td>ACA PACIFIC TECHNOLOGY (SINGAPORE) PTE. LTD.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/T11FC0171H-Grphsoft-Archcd-G' target='_blank'>Graphisoft Archicad</a><br></td>
 <td>Graphisoft Asia Limited</td>
 </tr>

@@ -212,16 +212,16 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Advante Consulting Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201326395C-Xro-Cloud-ACC-Softwr-G' target='_blank'>Xero Cloud Accounting Software</a><br></td>
-<td>THINK SME PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200804595N-Xro-Cloud-ACC-Softwr-G' target='_blank'>Xero Cloud Accounting Software</a><br></td>
 <td>361 Degree Consultancy Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201916672K-Xro-Cloud-ACC-Softwr-G' target='_blank'>Xero Cloud Accounting Software</a><br></td>
 <td>KloudEx Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201326395C-Xro-Cloud-ACC-Softwr-G' target='_blank'>Xero Cloud Accounting Software</a><br></td>
+<td>THINK SME PTE LTD</td>
 </tr>
 </table>
 

@@ -24,6 +24,14 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>Adventus Singapore Pte. Ltd.</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201437306R-AVBT-Mcrosoft-Busnss-Prmum-G' target='_blank'>AVBT Microsoft Business Premium</a><br></td>
+<td>Availabilit Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/199305875R-CybrScurty-Mcrosoft-Busnss-Prmum-G' target='_blank'>CyberSecurity (Microsoft Business Premium)</a><br></td>
+<td>Win-Pro Consultancy Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201730809W-Mcrosoft-Busnss-Prmum-G' target='_blank'>Microsoft Business Premium</a><br></td>
 <td>ACCESSORANGE PTE. LTD.</td>
 </tr>

@@ -41,7 +41,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201714165W-DM-Bnchmrkng-Socl-md-PKG-G' target='_blank'>DM Benchmarking Social media packages</a><br></td>
-<td>BENCHMARKING PTE LTD</td>
+<td>BENCHMARKING PTE. LTD.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201325568H-DM-Bzsqur-Dgtl-Mrktng-Sut-PKG-G' target='_blank'>DM Bizsquare Digital Marketing Suite Packages</a><br></td>
@@ -121,7 +121,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201322157W-DM-MdOn-SEO-SEM-SMM-SMA-Dgtl-Mrktng-Boost-Up-v-3-G' target='_blank'>DM MediaOne SEO | SEM | SMM | SMA Digital Marketing Boost Up Version 3</a><br></td>
-<td>MediaOne Business Group Pte Ltd</td>
+<td>MediaOne Business Group Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201329629H-DM-MdPlus-Dgtl-Mrktng-Pckg-v-v3-G' target='_blank'>DM MediaPlus Digital Marketing Package Version v3</a><br></td>
@@ -178,6 +178,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201736601Z-DM-Wbsntls-Dgtl-Mrktng-PKG-v-10-G' target='_blank'>DM Websentials Digital Marketing Packages Version 1.0</a><br></td>
 <td>Websentials Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201834121D-DM-WECOFA-Dgtl-Mrktng-PKG-G' target='_blank'>DM WECOFA Digital Marketing Packages</a><br></td>
+<td>WECOFA PTE LTD</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202020389H-DM-Wolfgng-Crtvs-Dgtl-Mrktng-PKG-G' target='_blank'>DM Wolfgang Creatives Digital Marketing Packages</a><br></td>
