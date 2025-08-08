@@ -35,7 +35,6 @@ Inland Revenue Authority of Singapore (IRAS)
 <li><strong>What are the acceptable payment modes?</strong><br />Debit and Credit cards (VISA/Master).</li>
 <li><strong>Can I cancel my licence after I made the application?</strong><br />Yes. Please note that there is no refund upon cancellation after the licence is approved.</li>
 <li><strong>Who is the agency in-charge of administering Appraiser Licence?</strong><br />Inland Revenue Authority Of Singapore (IRAS).</li>
-<li><strong>Where can I search for a list of valid licensed appraisers?</strong><br />Yes. Please click <a href="https://licence1.business.gov.sg/feportal/web/frontier/appraisers-enquiry-search" target="_blank" rel="noopener">here</a>.</li>
 </ol>
 
 
