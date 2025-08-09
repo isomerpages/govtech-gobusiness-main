@@ -3,7 +3,7 @@ title: Talent Track
 permalink: /faqs/talent-track/
 ---
 
-### Talent Track
+### FAQ
 
 {% include accordion.html accordions=site.data.acc050-talent-track.accordion %}
 
