@@ -1,0 +1,26 @@
+accordion:
+  - title: What is the TalentTrack and how will it benefit my company?
+    content: |
+      TalentTrack is a free-to-use tool developed by SkillsFuture Singapore, Ministry of Trade and Industry (MTI) and GovTech for employers to obtain insights on the in-demand skills and training course recommendations that are curated based on their industry and business focus. It is available to all employers with a valid UEN. Through the tool, employers can obtain training grants insights and receive skills and course recommendations customised to their organisation. It is accessible via the GoBusiness Dashboard after completing your login as business user.
+
+      Use the tool to benchmark your training consumption against your peers to evaluate if you are keeping pace with others in your sector. You can view curated skills relevant to your industry and select recommended training courses to upskill your employees in. Access the dashboard here: [https://go.gov.sg/talenttrack](https://go.gov.sg/talenttrack){:target="_blank"}{:rel="noopener"}
+
+  - title: What are “training grants”?  Where is the source for this data?
+    content: |
+      This data represents an approximation of the training subsidies offered by SkillsFuture Singapore that your organisation has consumed. For more information about training subsidies for employers offered by SkillsFuture Singapore, please view the link [here](https://skillsfuture.gobusiness.gov.sg/support-and-programmes/funding/training-subsidies-for-employers){:target="_blank"}{:rel="noopener"}.
+
+  - title: How are these skills identified and courses recommended for my company?
+    content: |
+      The skills and courses displayed on the dashboard are recommended based on the 'Sector' and 'Business focus' you select at the top of the dashboard.
+
+      Skills are curated according to their relevance to your 'Business Focus', drawing from SkillsFuture Singapore's research and job data insights.
+
+      Course recommendations are determined by their relevance to the skill, assessed against course titles and descriptions found in the SkillsFuture for Business course directory.
+
+  - title: Can I view industry-related skills and training courses for multiple sectors my company is involved in?
+    content: |
+      Yes. The dashboard offers the functionality to select and switch between different industries, allowing you to view skills information and course recommendations specific to each sector.
+
+  - title: What should I do if I have feedback or comments on the data or recommendations displayed?
+    content: |
+      You can submit your feedback through our online feedback form [here](https://go.gov.sg/tt-feedback){:target="_blank"}{:rel="noopener"}. Your feedback will inform the enhancements that SkillsFuture Singapore will be making to TalentTrack. You can look forward to new and improved features being progressively introduced.
