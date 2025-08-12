@@ -14,5 +14,10 @@ Civil Aviation Authority of Singapore (CAAS)
 
 <H3>Application Details</H3>
 
-<p>Any Maintenance, Repair and Overhaul (MRO) company which intends to provide its services to an owner and/or operator of a Singapore registered aircraft will need to hold the Singapore Airworthiness Requirements Part 145 (SAR-145) - Maintenance Organisation Approval.</p>
+<p>Any Maintenance, Repair and Overhaul (MRO) company which intends to provide any aircraft maintenance service relating to any Singapore registered aircraft of a particular type, or any aircraft component for a Singapore registered aircraft of a particular type, must hold the Singapore Airworthiness Requirements Part 145 (SAR-145) - Maintenance Organisation Approval.</p>
 
+<h3>FAQ</h3>
+<ol>
+    <li><strong>Please refer to ageny's site for FAQ</strong>
+    <br><a href="https://ask.gov.sg/caas" target="_blank" rel="noopener">https://ask.gov.sg/caas</a></li>
+</ol>

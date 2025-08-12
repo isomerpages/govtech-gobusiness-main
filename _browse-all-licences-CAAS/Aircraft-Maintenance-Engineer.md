@@ -14,3 +14,8 @@ Civil Aviation Authority of Singapore (CAAS)
 
 <p>An Aircraft Maintenance Engineer (AME) is a certified professional who is licensed by CAAS and authorised by a CAAS-approved Maintenance Organisation (AMO) to carry out inspection, repair, testing and/or maintenance work on aircraft and aircraft components.</p>
 
+<h3>FAQ</h3>
+<ol>
+    <li><strong>Please refer to ageny's site for FAQ</strong>
+    <br><a href="https://www.caas.gov.sg/who-we-are/faq" target="_blank" rel="noopener">https://www.caas.gov.sg/who-we-are/faq</a></li>
+</ol>
