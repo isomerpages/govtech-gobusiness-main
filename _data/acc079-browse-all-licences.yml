@@ -149,24 +149,23 @@
       content: |
         **Advertising Sign/ Signboard Licence**
 
-        <p>To display any outdoor signs such as an advertisement or directional sign, signboard billboard, balloon signs or banner, you need to apply for a licence from BCA.<br><br>Click <a href="https://www1.bca.gov.sg/regulatory-info/outdoor-advertisement-licensing/outdoor-advertising-sign-signboard/how-to-apply-for-an-outdoor-advertising-sign-signboard-licence" rel="noopener noreferrer" target="_blank">here</a> on how to apply and <a href="https://www.ura.gov.sg/corporate/guidelines/circulars/dc19-16" rel="noopener noreferrer" target="_blank">here</a> to check the display guidelines for events in the Central area.</p>
+        To display any outdoor signs such as an advertisement or directional sign, signboard billboard, balloon signs or banner, you need to apply for a licence from BCA.
 
         <a class="primary-btn" href="https://eservices.bca.gov.sg/advertisementlicence" target="_blank" rel="noopener">Apply on BCA</a>&emsp;<a href = "/browse-all-licences/Building-and-Construction-Authority-(BCA)/Advertising-Sign--Signboard-Licence">View Licence Details</a>
         
         -----
-        **Amusement Rides Permit**
-
-        <p>Permits from BCA are required if you are:<br>- Operating a new or existing amusement ride<br>- Installing works for an amusement ride<br>- Performing modification works for an amusement ride.</p> 
-        <p>Before application of permits, you are required to consult BCA. More information about pre-application consultation and the permit application process can be found <a href="https://www1.bca.gov.sg/regulatory-info/amusement-rides/permit-application" target="_blank" rel="noopener">here</a>.</p>
-
-        <a class="primary-btn" href="https://www1.bca.gov.sg/regulatory-info/amusement-rides" target="_blank" rel="noopener">Apply on BCA</a>&emsp;<a href = "/browse-all-licences/Building-and-Construction-Authority-(BCA)/Amusement-Rides-Permit">View Licence Details</a>
-
-        -----
         **Permit to Erect Temporary Building**
 
-        <p>A person/owner who intends to erect any temporary/makeshift structure is required to apply for a Temporary Building Permit. The application must reach BCA 3 weeks before the construction of the temporary building.</p>
+        A person/owner who intends to erect any temporary/makeshift structure is required to apply for a Temporary Building Permit. The application must reach BCA 3 weeks before the construction of the temporary building.
 
         <a class="primary-btn" href="https://www1.bca.gov.sg/regulatory-info/temporary-buildings-application/application-for-a-permit-to-erect-temporary-building" target="_blank" rel="noopener">Apply on BCA</a>&emsp;<a href = "/browse-all-licences/Building-and-Construction-Authority-(BCA)/Permit-to-Erect-Temporary-Building">View Licence Details</a>
+
+        -----
+        **Permits and Notifications for Amusement Rides**
+
+        BCA issues 3 permits in the life cycle of an amusement ride. The permits help to ensure compliance to safety requirements, based on the <a href="https://sso.agc.gov.sg/Act/ARSA2011" target="_blank" rel="noopener">Amusement Rides Safety Act 2011</a>.
+
+        <a class="primary-btn" href="https://www1.bca.gov.sg/regulatory-info/amusement-rides" target="_blank" rel="noopener">Apply on BCA</a>&emsp;<a href = "/browse-all-licences/Building-and-Construction-Authority-(BCA)/Amusement-Rides-Permit">View Licence Details</a>
 
         -----
         **Structural and Building Plans Requirements for Rooftop Solar PV Installation**
@@ -200,13 +199,6 @@
         <a class="primary-btn" href="https://www.caas.gov.sg/operations-safety/air-operations/singapore-air-operators/air-operator-certificate" target="_blank" rel="noopener">Apply on CAAS</a>&emsp;<a href = "/browse-all-licences/Civil-Aviation-Authority-of-Singapore-(CAAS)/Air-Operator-Certificate">View Licence Details</a>
        
         -----
-        **Air Traffic Controller Licence**
-
-        All qualified ATCOs shall be in possession of a valid air traffic controller licence before they can provide any air traffic service. A person shall not provide an air traffic control service unless he holds an air traffic control licence with a valid rating and a current medical certificate.
-
-        <a class="primary-btn" href="https://www.caas.gov.sg/personnel-licences-training/air-traffic-controller" target="_blank" rel="noopener">Apply on CAAS</a>&emsp;<a href = "/browse-all-licences/Civil-Aviation-Authority-of-Singapore-(CAAS)/Air-Traffic-Controller-Licence">View Licence Details</a>
-        
-        -----
         **Aircraft Maintenance Engineer**
 
         An Aircraft Maintenance Engineer (AME) is a certified professional who is licensed by CAAS and authorised by a CAAS-approved Maintenance Organisation (AMO) to carry out inspection, repair, testing and/or maintenance work on aircraft and aircraft components.
@@ -218,7 +210,7 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        Any Maintenance, Repair and Overhaul (MRO) company which intends to provide its services to an owner and/or operator of a Singapore registered aircraft will need to hold the Singapore Airworthiness Requirements Part 145 (SAR-145) - Maintenance Organisation Approval.
+        Any Maintenance, Repair and Overhaul (MRO) company which intends to provide any maintenance service relating to any Singapore registered aircraft or any aircraft component, must hold the Singapore Airworthiness Requirements Part 145 (SAR-145) - Maintenance Organisation Approval.
 
         <a class="primary-btn" href="https://www.caas.gov.sg/operations-safety/aircraft/maintenance-repair-overhaul" target="_blank" rel="noopener">Apply on CAAS</a>&emsp;<a href = "/browse-all-licences/Civil-Aviation-Authority-of-Singapore-(CAAS)/Aircraft-Maintenance-Organisation">View Licence Details</a>
 
@@ -260,18 +252,14 @@
         -----
         **Permit to fly**
 
-        A permit to fly may be issued for the purpose of:
-        a.Relocating the aircraft to a base where repairs, modification or maintenance are to be performed.
-        b.Delivering or exporting the aircraft.
-        c.Evacuating the aircraft from an area of impending danger, or in cases of force majeure.
-        d.Flying aircraft that does not have a valid Certificate of Airworthiness in Singapore airspace for such purposes as flight test, post-maintenance functional flight check, aircraft handling flights,etc.
+        As part of CAAS's safety oversight framework to ensure aviation safety, a permit to fly is required for any aircraft to fly in Singapore if it does not have a valid Certificate of Airworthiness (CoA) or is not constructed to international recognised design standards, to fly in accordance with conditions specified on the certificate.
 
         <a class="primary-btn" href="https://www.caas.gov.sg/operations-safety/aircraft/permit-to-fly" target="_blank" rel="noopener">Apply on CAAS</a>&emsp;<a href = "/browse-all-licences/Civil-Aviation-Authority-of-Singapore-(CAAS)/Permit-to-fly">View Licence Details</a>
 
         -----
         **Permits for Carriage of Dangerous Goods**
 
-        The permit issued by CAAS applies to all civil aircraft flying to, from or over the Republic of Singapore and to Singapore registered aircraft wherever they may be. This permit, if given, is subject to air operators' compliance with ICAO Annex 18 and the latest edition of the ICAO Technical Instructions for the Safe Transport of Dangerous Goods by Air.
+        The permit issued by CAAS applies to all foreign commercial aircraft transporting dangerous goods cargo and operating to or from the Republic of Singapore. This permit, if given, is subject to air operators' compliance with ICAO Annex 18 and the latest edition of the ICAO Technical Instructions for the Safe Transport of Dangerous Goods by Air.
 
         <a class="primary-btn" href="https://www.caas.gov.sg/operations-safety/carriage-of-dangerous-goods/" target="_blank" rel="noopener">Apply on CAAS</a>&emsp;<a href = "/browse-all-licences/Civil-Aviation-Authority-of-Singapore-(CAAS)/Permits-for-Carriage-of-Dangerous-Goods">View Licence Details</a>
 

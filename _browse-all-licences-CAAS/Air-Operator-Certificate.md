@@ -14,3 +14,8 @@ Civil Aviation Authority of Singapore (CAAS)
 
 <p>Any organisation whose principal place of business is in Singapore and which intends to operate aircraft for the purpose of public transport shall hold an Air Operator Certificate (AOC).</p>
 
+<h3>FAQ</h3>
+<ol>
+    <li><strong>Please refer to ageny's site for FAQ</strong>
+    <br><a href="https://ask.gov.sg/caas" target="_blank" rel="noopener">https://ask.gov.sg/caas</a></li>
+</ol>

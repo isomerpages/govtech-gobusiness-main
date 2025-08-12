@@ -12,11 +12,16 @@ Civil Aviation Authority of Singapore (CAAS)
 
 <H3>Application Details</H3>
 
-<p>A permit to fly may be issued for the purpose of:</p>
- <ul>
- <li>Relocating the aircraft to a base where repairs, modification or maintenance are to be performed</li>
- <li>Delivering or exporting the aircraft</li>
- <li>Evacuating the aircraft from an area of impending danger, or in cases of force majeure</li>
- <li>Flying aircraft that does not have a valid Certificate of Airworthiness in Singapore airspace for such purposes as flight test, post-maintenance functional flight check, aircraft handling flights, etc</li>
- </ul>
+<p>A Permit to fly may be issued for the following scenarios:</p>
+<ul>
+    <li>Relocating an aircraft for repairs, modification or maintenance.</li>
+    <li>Delivering or exporting an aircraft</li>
+    <li>Performing a flight test; post-maintenance functional check flight; etc. for releasing the aircraft back to service.</li>
+</ul>
+<p>Application for a PTF can be submitted on the <a href="https://www.caas.gov.sg/e-services-forms/e-services/enterprise-safety-oversight-management-system" target="_blank" rel="noopener">CAAS Enterprise Safety Oversight Management System (eSOMS)</a>.</p>
 
+<h3>FAQ</h3>
+<ol>
+    <li><strong>Please refer to ageny's site for FAQ</strong>
+    <br><a href="https://esoms.caas.gov.sg/esoms/faq.html" target="_blank" rel="noopener">https://esoms.caas.gov.sg/esoms/faq.html</a></li>
+</ol>

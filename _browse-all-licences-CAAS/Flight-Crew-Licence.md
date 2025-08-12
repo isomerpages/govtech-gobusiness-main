@@ -14,3 +14,8 @@ Civil Aviation Authority of Singapore (CAAS)
 
 <p>A flight crew licence is required before you can operate as a pilot of a Singapore-registered aircraft. Various categories of such licences, and their associated ratings, determine the type of aircraft and flights that you can operate in Singapore.</p>
 
+<h3>FAQ</h3>
+<ol>
+    <li><strong>Please refer to ageny's site for FAQ</strong>
+    <br><a href="https://www.caas.gov.sg/who-we-are/faq" target="_blank" rel="noopener">https://www.caas.gov.sg/who-we-are/faq</a></li>
+</ol>
