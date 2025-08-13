@@ -5,6 +5,8 @@ permalink: /energy-efficiency-grant/
 
 ## Energy Efficiency Grant (EEG)
 
+{% include optical-beta-eeg.html %}
+
 ![Energy Efficiency Grant Overview](/images/grow/eeg/eeg_overview_banner.jpg)
 
 ---
