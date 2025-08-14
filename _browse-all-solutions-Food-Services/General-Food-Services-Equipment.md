@@ -83,6 +83,14 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td><a href='/productivity-solutions-grant/solutionrepo/eqt-Hgh-Spd-Ovn-Food-Srvcs' target='_blank'>High Speed Oven</a><br></td>
 <td></td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Smrt-cookng-mchn--Food-Srvcs' target='_blank'>Smart cooking machine </a><br></td>
+<td></td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Smrt-rotry-cookr--Food-Srvcs' target='_blank'>Smart rotary cooker </a><br></td>
+<td></td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
