@@ -6,6 +6,8 @@ third_nav_title: Government Assistance
 
 ## See what grants can help your business
 
+{% include optical-beta-govassist-grants.html %}
+
 ![Grants](/images/grow/RunandGrow_Grants.jpg)
 
 Answer a few questions about your business and our e-Adviser for Government Assistance will recommend grants you can apply for.
