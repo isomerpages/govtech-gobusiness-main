@@ -56,10 +56,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Rotry-Wok-Fryr-Food-Mnufcturng' target='_blank'>Rotary Wok Fryer</a><br></td>
-<td></td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/eqt-Vcuum-Pckng-nd-Slng-Mchn-Food-Mnufcturng' target='_blank'>Vacuum Packing and Sealing Machine</a><br></td>
 <td></td>
 </tr>

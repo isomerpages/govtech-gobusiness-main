@@ -9,9 +9,11 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Smutomtd-Automtd-Fllng
 
 **Description**
 
-Automated filling machines are designed to streamline the process of filling various containers with liquid, aerosol, crystals or powdered chemical products. These machines eliminate the need for manual filling, offering a more efficient and precise alternative.
+Semi-automated/Automated filling machines are designed to streamline the process of filling various containers with liquid, aerosol, crystals or powdered chemical products. These machines eliminate the need for manual filling, offering a more efficient and precise alternative.
 
+Semi-automatic: Operator involved in the process of placing container under nozzles and transferring containers to next process
 
+Fully automatic: Minimal mechanical adjustment required
 
 ## Solution Packages Option(s)
 
