@@ -58,16 +58,19 @@
   alt: Explore More
   title: Explore More
   id: 4
-  href_1: 'https://skillsfuture.gobusiness.gov.sg/'
-  text_1: SkillsFuture for Business
-  is_new_1: false
-  href_2: '/intellectual-property/ip-grow/?src=home_quicklinks'
-  text_2: Intellectual Property
-  is_new_2: false 
-  href_3: '/regulatory-requirements-guides/?src=home_quicklinks'
-  text_3: Regulatory requirements guides
+  href_1: 'https://dashboard.gobusiness.gov.sg/?utm_source=gobiz&utm_medium=website&utm_campaign=pdtlaunch#enterprise-skills-widget'
+  text_1: TalentTrack
+  is_new_1: true
+  href_2: 'https://skillsfuture.gobusiness.gov.sg/'
+  text_2: SkillsFuture for Business
+  is_new_2: false
+  href_3: '/intellectual-property/ip-grow/?src=home_quicklinks'
+  text_3: Intellectual Property
   is_new_3: false 
-  href_4: '/Haze/?src=home_quicklinks'
-  text_4: Haze
-  is_new_4: false
+  href_4: '/regulatory-requirements-guides/?src=home_quicklinks'
+  text_4: Regulatory requirements guides
+  is_new_4: false 
+  href_5: '/Haze/?src=home_quicklinks'
+  text_5: Haze
+  is_new_6: false
 
