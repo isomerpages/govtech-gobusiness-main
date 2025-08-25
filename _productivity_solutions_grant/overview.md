@@ -5,6 +5,8 @@ permalink: /productivity-solutions-grant/
 
 ## Productivity Solutions Grant (PSG)
 
+{% include optical-beta-psglanding.html %}
+
 ![Productivity Solutions Grant Overview](/images/grow/psg/psg_overview_banner.jpg)
 
 The Productivity Solutions Grant (PSG) was launched on April 2018 to help businesses enhance their processes with technology. 
