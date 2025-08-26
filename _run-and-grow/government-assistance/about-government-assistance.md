@@ -6,6 +6,8 @@ third_nav_title: Government Assistance
 
 ## Get recommendations on over 100 government schemes
 
+{% include optical-beta-govassist-about.html %}
+
 There are over 100 government schemes to assist and support your business, now all in one place on GoBusiness.
 
 From funding support to references and programs for building capabilities, skills and knowledge, GoBusiness will help you find the government assistance you need.
