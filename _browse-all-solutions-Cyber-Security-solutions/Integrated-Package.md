@@ -28,6 +28,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>Availabilit Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201709156Z-CISOnBox-G' target='_blank'>CISO-in-a-Box</a><br></td>
+<td>CYBERSAFE PTE. LTD.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/199305875R-CybrScurty-Mcrosoft-Busnss-Prmum-G' target='_blank'>CyberSecurity (Microsoft Business Premium)</a><br></td>
 <td>Win-Pro Consultancy Pte Ltd</td>
 </tr>
