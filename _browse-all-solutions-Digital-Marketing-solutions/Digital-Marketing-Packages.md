@@ -36,6 +36,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>2STALLIONS PTE LTD</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201822015H-DM-3D-Dgtl-Boostr-G' target='_blank'>DM 3D Digital Booster</a><br></td>
+<td>3D BRAND AGENCY PTE. LTD.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201713785N-DM-APEC-SLNS-DIGITAL-MARKETING-PACKAGES-G' target='_blank'>DM APEC SOLUTIONS DIGITAL MARKETING PACKAGES</a><br></td>
 <td>APEC SOLUTIONS PTE. LTD.</td>
 </tr>
