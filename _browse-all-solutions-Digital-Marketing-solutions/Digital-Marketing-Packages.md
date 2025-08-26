@@ -168,6 +168,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>QIANYI TRADING PTE. LTD.</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201718726K-DM-RHAD-Dgtl-Mrktng-Pckg-v-2-G' target='_blank'>DM RHAD Digital Marketing Package Version 2</a><br></td>
+<td>RHAD PTE. LTD.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201915397K-DM-Rogu-Dgtl-Mrktng-PKG-G' target='_blank'>DM Rogue Digital Marketing Packages</a><br></td>
 <td>ROGUE DIGITAL PTE. LTD.</td>
 </tr>
