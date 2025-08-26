@@ -5,6 +5,8 @@ permalink: /productivity-solutions-grant/all-psg-solutions/
 
 ## Overview
 
+{% include optical-beta-psgdirectory.html %}
+
 ### Solutions for specific sectors
 
 Select the sector your business is in to see the solutions you are eligible for. This should be based on the SSIC that you have registered with ACRA. 
