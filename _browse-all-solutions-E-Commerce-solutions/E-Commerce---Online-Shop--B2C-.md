@@ -92,10 +92,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>MIBC PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200617554M-OOm-Ecommrc-SLNs-G' target='_blank'>OOm Ecommerce Solutions</a><br></td>
-<td>OOm Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201840067W-PxlCommrc-v-593-G' target='_blank'>PixelCommerce Version 5.9.3</a><br></td>
 <td>PIXEL MECHANICS PTE. LTD.</td>
 </tr>

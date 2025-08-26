@@ -116,10 +116,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Ice Cube Marketing Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201134148Z-DM-Clck-Md-Dgtl-Mrktng-PKG-G' target='_blank'>DM iClick Media Digital Marketing Packages</a><br></td>
-<td>iClick Media Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201632791Z-DM-Innovtv-Hub-Dgtl-Mrktng-PKG-G' target='_blank'>DM Innovative Hub Digital Marketing Packages</a><br></td>
 <td>Innovative Hub (SG) Pte.Ltd.</td>
 </tr>
@@ -146,10 +142,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201329629H-DM-MdPlus-Dgtl-Mrktng-Pckg-v-v3-G' target='_blank'>DM MediaPlus Digital Marketing Package Version v3</a><br></td>
 <td>MediaPlus Digital Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200617554M-DM-OOm-Dgtl-Prformnc-Mrktng-Pckg-G' target='_blank'>DM OOm Digital Performance Marketing Package</a><br></td>
-<td>OOm Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202008698H-DM-Outrnkco-Dgtl-Mrktng-PKG-G' target='_blank'>DM Outrankco Digital Marketing Packages</a><br></td>
