@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - back-to-all-psg-solutions.md
-      - Pest-Management.md
       - Cleaning.md
+      - Pest-Management.md
       - Waste-Management.md

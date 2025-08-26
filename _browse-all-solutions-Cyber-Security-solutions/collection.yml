@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - back-to-all-psg-solutions.md
-      - Virus-Malware-Protection.md
       - Backup.md
-      - Integrated-Package.md
       - Firewall.md
+      - Integrated-Package.md
+      - Virus-Malware-Protection.md
