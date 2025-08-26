@@ -112,6 +112,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Verz Design Pte. Ltd.</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201608054D-Vu-Tch-Ecommrc-Wbst-Pckg-G' target='_blank'>Vue Tech Ecommerce Website Package</a><br></td>
+<td>VUE TECH PTE. LTD.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201842642W-W360-E-Powr-Pck-v-10-G' target='_blank'>W360 E Power Pack Version 1.0</a><br></td>
 <td>W360 Group Pte. Ltd.</td>
 </tr>
