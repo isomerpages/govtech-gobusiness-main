@@ -156,6 +156,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>OUTRANKCO PTE. LTD.</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202332340C-DM-Pprcutcollctv-Dgtl-Mrktng-PKG-G' target='_blank'>DM Papercutcollective Digital Marketing Packages</a><br></td>
+<td>PAPERCUTCOLLECTIVE PRIVATE LTD.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201840067W-DM-PIXEL-MECHANICS-Dgtl-Mrktng-PKG-G' target='_blank'>DM PIXEL MECHANICS Digital Marketing Packages</a><br></td>
 <td>PIXEL MECHANICS PTE. LTD.</td>
 </tr>
