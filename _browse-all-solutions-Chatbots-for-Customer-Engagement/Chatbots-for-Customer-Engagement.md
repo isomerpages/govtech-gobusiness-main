@@ -52,6 +52,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>OTG Lab Pte. Ltd.</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202127895H-SlkFlow-G' target='_blank'>SleekFlow</a><br></td>
+<td>Sleekflow Technologies (Singapore) Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202307668E-Voltd-AI-Chtbot-v-1-G' target='_blank'>Voltade AI Chatbot Version 1</a><br></td>
 <td>VOLTADE PTE. LTD.</td>
 </tr>
