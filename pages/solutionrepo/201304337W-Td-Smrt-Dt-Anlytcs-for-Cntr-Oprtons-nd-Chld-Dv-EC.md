@@ -26,7 +26,7 @@ Insights about the customers and operation are essential for business success. T
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1</td>
 <td style='padding: 10px;'>$4,800.00</td>
 <td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Taidii_TaidiiSmartDataAnalyticsforCentreOperationsandChildDevelopment_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201304337W_20220501_28082025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

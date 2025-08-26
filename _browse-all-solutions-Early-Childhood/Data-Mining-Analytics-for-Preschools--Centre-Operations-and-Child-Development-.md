@@ -10,7 +10,7 @@ permalink: /browse-all-solutions-Early-Childhood/Data-Mining-Analytics-for-Presc
 
 Up to 50% for SMEs, 30% for non-SMEs
 
-This solution is supported by Early Child Development Agency (ECDA).
+This solution is supported by ECDA.
 
 ## Pre-Approved Solutions
 
