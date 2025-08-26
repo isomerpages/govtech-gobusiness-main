@@ -6,8 +6,8 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> Please view the <u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>upcoming maintenance schedule</a></u> for details. We apologise for the inconvenience caused."
   //multiple services
   "<b>[Attention: System Maintenance]</b> Certain GoBusiness services will be unavailable due to upcoming maintenance. Please check our <B><u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>maintenance schedule</a></u></B> for details.", 
-  "<b>[Scam Advisory]</b> GoBusiness will NEVER ask you to transfer money or disclose banking details over a phone call. <u><a href='/scam-advisory/' target='_blank' rel='noopener'>Learn more</a></u>"
-  
+  "<b>[Scam Advisory]</b> GoBusiness will NEVER ask you to transfer money or disclose banking details over a phone call. <u><a href='/scam-advisory/' target='_blank' rel='noopener'>Learn more</a></u>",
+  "<b>[Upcoming Changes] GoBusiness is getting a fresh new look in October! Visit the  maintenance. Please check our <B><u><a href='https://beta.gobusiness.gov.sg/' target='_blank' rel='noopener'>beta site</a></u> to get a preview."
 ]; 
 
 
