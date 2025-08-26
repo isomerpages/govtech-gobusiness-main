@@ -32,6 +32,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>Guidesify Pte. Ltd.</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201821622Z-Pbbl-G' target='_blank'>Pebble</a><br></td>
+<td>STASHALLY PTE. LTD.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201721105K-SOMONITOR-G' target='_blank'>SOMONITOR</a><br></td>
 <td>Somin Pte. Ltd.</td>
 </tr>
