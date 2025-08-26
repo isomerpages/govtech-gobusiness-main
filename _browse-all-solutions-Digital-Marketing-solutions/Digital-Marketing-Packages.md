@@ -136,6 +136,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Brew Interactive Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202229190H-DM-LtBrw-TkTok-nd-B2B-Sls-Outrch-G' target='_blank'>DM LiteBrew TikTok and B2B Sales Outreach</a><br></td>
+<td>LiteBrew Pte. Ltd.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201322157W-DM-MdOn-SEO-SEM-SMM-SMA-Dgtl-Mrktng-Boost-Up-v-3-G' target='_blank'>DM MediaOne SEO | SEM | SMM | SMA Digital Marketing Boost Up Version 3</a><br></td>
 <td>MediaOne Business Group Pte. Ltd.</td>
 </tr>
