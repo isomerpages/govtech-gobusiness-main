@@ -30,14 +30,14 @@ LiteBrew provides digital marketing services for SMEs across B2C and B2B sectors
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Video content [SMM] + Ads [SMA] - 3 months? ?</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Video content [SMM] + Ads [SMA] - 3 months</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'><a href='/images/psg/202229190H_20250070_28082025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Live Streaming [SMM] + Ads [SMA]?? - 3 months?</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Live Streaming [SMM] + Ads [SMA] - 3 months</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'><a href='/images/psg/202229190H_20250070_28082025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
@@ -51,7 +51,7 @@ LiteBrew provides digital marketing services for SMEs across B2C and B2B sectors
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Video Content [SMM] + Live Streaming [SMM] + Ads? ? [SMA] - 3 months?</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Video Content [SMM] + Live Streaming [SMM] + Ads [SMA] - 3 months</td>
 <td style='padding: 10px;'>$12,400.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'><a href='/images/psg/202229190H_20250070_28082025_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>

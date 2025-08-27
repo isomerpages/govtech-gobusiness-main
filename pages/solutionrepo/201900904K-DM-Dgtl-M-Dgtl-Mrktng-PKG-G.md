@@ -23,21 +23,21 @@ Digital M provides digital marketing solutions for SMEs and startups in Singapor
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEO + SEM ( 3 months)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEO + SEM (3 months)</td>
 <td style='padding: 10px;'>$7,400.00</td>
 <td style='padding: 10px;'>$7,400.00</td>
 <td style='padding: 10px;'><a href='/images/psg/201900904K_20250112_28082025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMM + SEM (3 months)								</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMM + SEM (3 months)</td>
 <td style='padding: 10px;'>$8,500.00</td>
 <td style='padding: 10px;'>$8,500.00</td>
 <td style='padding: 10px;'><a href='/images/psg/201900904K_20250112_28082025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SMM (XHS Content Creation) + SMM (XHS KOL Management) ( 3 months)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SMM (XHS Content Creation) + SMM (XHS KOL Management) (3 months)</td>
 <td style='padding: 10px;'>$9,000.00</td>
 <td style='padding: 10px;'>$9,000.00</td>
 <td style='padding: 10px;'><a href='/images/psg/201900904K_20250112_28082025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
