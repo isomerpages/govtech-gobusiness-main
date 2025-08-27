@@ -36,12 +36,24 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>2STALLIONS PTE LTD</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201822015H-DM-3D-Dgtl-Boostr-G' target='_blank'>DM 3D Digital Booster</a><br></td>
+<td>3D BRAND AGENCY PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201714598G-DM-AII-DEVELOP-Dgtl-Mrktng-PKG-v-100-G' target='_blank'>DM AII DEVELOP Digital Marketing Packages Version 1.00</a><br></td>
+<td>AII DEVELOP PTE. LTD.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201713785N-DM-APEC-SLNS-DIGITAL-MARKETING-PACKAGES-G' target='_blank'>DM APEC SOLUTIONS DIGITAL MARKETING PACKAGES</a><br></td>
 <td>APEC SOLUTIONS PTE. LTD.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201714165W-DM-Bnchmrkng-Socl-md-PKG-G' target='_blank'>DM Benchmarking Social media packages</a><br></td>
 <td>BENCHMARKING PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201936773M-DM-BEST-BIG-BOSS-DIGITAL-MARKETING-PACKAGES-G' target='_blank'>DM BEST BIG BOSS DIGITAL MARKETING PACKAGES</a><br></td>
+<td>Best Marketing Agency Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201325568H-DM-Bzsqur-Dgtl-Mrktng-Sut-PKG-G' target='_blank'>DM Bizsquare Digital Marketing Suite Packages</a><br></td>
@@ -66,6 +78,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200200017N-DM-Crtv-EWorld-Dgtl-Mrktng-G' target='_blank'>DM Creative E-World Digital Marketing</a><br></td>
 <td>Creative E-World Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201900904K-DM-Dgtl-M-Dgtl-Mrktng-PKG-G' target='_blank'>DM Digital M Digital Marketing Packages</a><br></td>
+<td>Digital M Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201621104R-DM-Dgtl-Mrktng-Googl-SEO-SEM-PPC-SMA-SMM-Contnt-G' target='_blank'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | SMM | Content</a><br></td>
@@ -100,10 +116,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Ice Cube Marketing Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201134148Z-DM-Clck-Md-Dgtl-Mrktng-PKG-G' target='_blank'>DM iClick Media Digital Marketing Packages</a><br></td>
-<td>iClick Media Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201632791Z-DM-Innovtv-Hub-Dgtl-Mrktng-PKG-G' target='_blank'>DM Innovative Hub Digital Marketing Packages</a><br></td>
 <td>Innovative Hub (SG) Pte.Ltd.</td>
 </tr>
@@ -120,6 +132,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Brew Interactive Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202229190H-DM-LtBrw-TkTok-nd-B2B-Sls-Outrch-G' target='_blank'>DM LiteBrew TikTok and B2B Sales Outreach</a><br></td>
+<td>LiteBrew Pte. Ltd.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201322157W-DM-MdOn-SEO-SEM-SMM-SMA-Dgtl-Mrktng-Boost-Up-v-3-G' target='_blank'>DM MediaOne SEO | SEM | SMM | SMA Digital Marketing Boost Up Version 3</a><br></td>
 <td>MediaOne Business Group Pte. Ltd.</td>
 </tr>
@@ -128,12 +144,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>MediaPlus Digital Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200617554M-DM-OOm-Dgtl-Prformnc-Mrktng-Pckg-G' target='_blank'>DM OOm Digital Performance Marketing Package</a><br></td>
-<td>OOm Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202008698H-DM-Outrnkco-Dgtl-Mrktng-PKG-G' target='_blank'>DM Outrankco Digital Marketing Packages</a><br></td>
 <td>OUTRANKCO PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202332340C-DM-Pprcutcollctv-Dgtl-Mrktng-PKG-G' target='_blank'>DM Papercutcollective Digital Marketing Packages</a><br></td>
+<td>PAPERCUTCOLLECTIVE PRIVATE LTD.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201840067W-DM-PIXEL-MECHANICS-Dgtl-Mrktng-PKG-G' target='_blank'>DM PIXEL MECHANICS Digital Marketing Packages</a><br></td>
@@ -142,6 +158,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201832282M-DM-QIANYI-TRADING-TIKTOK-DIGITAL-MARKETING-SLN-G' target='_blank'>DM QIANYI TRADING TIKTOK DIGITAL MARKETING SOLUTION</a><br></td>
 <td>QIANYI TRADING PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201718726K-DM-RHAD-Dgtl-Mrktng-Pckg-v-2-G' target='_blank'>DM RHAD Digital Marketing Package Version 2</a><br></td>
+<td>RHAD PTE. LTD.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201915397K-DM-Rogu-Dgtl-Mrktng-PKG-G' target='_blank'>DM Rogue Digital Marketing Packages</a><br></td>

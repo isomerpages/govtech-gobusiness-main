@@ -31,6 +31,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td><a href='/productivity-solutions-grant/solutionrepo/201824836N-NtDOCs-G' target='_blank'>NetDocuments</a><br></td>
 <td>Verlata Consulting Pte. Ltd.</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201815955C-Tssrct-Lgl-DMS-G' target='_blank'>Tessaract Legal DMS</a><br></td>
+<td>Tessaract Technologies Private Limited</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

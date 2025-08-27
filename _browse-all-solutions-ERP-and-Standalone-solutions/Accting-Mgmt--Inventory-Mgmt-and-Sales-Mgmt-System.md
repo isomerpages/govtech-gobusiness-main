@@ -144,6 +144,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>WINAPP SOLUTIONS PTE LTD</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/53401915C-SQL-ACC-SOFTWARE-v-5-G' target='_blank'>SQL ACCOUNTING SOFTWARE Version 5</a><br></td>
+<td>THE NEELIAN</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/199609132G-Synrgx-Sls,-ACC,-Invntory-G' target='_blank'>Synergix Sales, Accounting, Inventory</a><br></td>
 <td>Synergix Technologies Pte Ltd</td>
 </tr>

@@ -26,14 +26,14 @@ iSPOT Fleet Management System helps businesses maintain optimal use of their wor
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (Per Vehicle)</td>
 <td style='padding: 10px;'>$360.00</td>
 <td style='padding: 10px;'>$360.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ascent_AscentiSPOTFleetManagementSystem_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201018732N_20220452_28082025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (Per Vehicle)</td>
 <td style='padding: 10px;'>$570.00</td>
 <td style='padding: 10px;'>$570.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ascent_AscentiSPOTFleetManagementSystem_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/201018732N_20220452_28082025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
