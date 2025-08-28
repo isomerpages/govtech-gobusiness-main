@@ -1,9 +1,9 @@
 ---
-title: 'e-Permit-to-work (e-PTW)'
-permalink: /browse-all-solutions-Built-Environment/e-Permit-to-work--e-PTW-
+title: 'Smart Inspection and Management - e-Permit-to-work (e-PTW)'
+permalink: /browse-all-solutions-Built-Environment/Smart-Inspection-and-Management---e-Permit-to-work--e-PTW-
 ---
 
-## e-Permit-to-work (e-PTW)
+## Smart Inspection and Management - e-Permit-to-work (e-PTW)
 ## Overview
 
 **Support Level and Conditions**
