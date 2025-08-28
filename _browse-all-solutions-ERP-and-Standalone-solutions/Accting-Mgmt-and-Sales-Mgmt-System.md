@@ -180,20 +180,20 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>TRISERV PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201719111M-Xro-G' target='_blank'>Xero</a><br></td>
-<td>Ares Strategy Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201200009H-XERO-G' target='_blank'>XERO</a><br></td>
 <td>Accounting Consultancy Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/T18LL0812H-Xro-G' target='_blank'>Xero</a><br></td>
-<td>Clooud Consulting LLP</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201427894D-XERO-G' target='_blank'>XERO</a><br></td>
 <td>ACE BUSINESS PRIVATE LIMITED</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201719111M-Xro-G' target='_blank'>Xero</a><br></td>
+<td>Ares Strategy Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/T18LL0812H-Xro-G' target='_blank'>Xero</a><br></td>
+<td>Clooud Consulting LLP</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201706917G-Xro-ACC-Softwr-G' target='_blank'>Xero Accounting Software</a><br></td>
@@ -202,10 +202,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201300570R-Xro-ACC-Systm-G' target='_blank'>Xero Accounting System</a><br></td>
 <td>EBOS SG PTE. LTD.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200718058D-Xro-Cloud-ACC-G' target='_blank'>Xero Cloud Accounting</a><br></td>
-<td>Advante Consulting Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200718058D-Xro-Cloud-ACC-G' target='_blank'>Xero Cloud Accounting</a><br></td>

@@ -112,10 +112,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Seg IT Services Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200507412D-Sg-300-G' target='_blank'>Sage 300</a><br></td>
-<td>Flex-Solver Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200415297M-Sg-300-ERP-v-2025-G' target='_blank'>Sage 300 ERP Version 2025</a><br></td>
 <td>COMPTRAC SYSTEMS TECHNOLOGY PTE. LTD.</td>
 </tr>
