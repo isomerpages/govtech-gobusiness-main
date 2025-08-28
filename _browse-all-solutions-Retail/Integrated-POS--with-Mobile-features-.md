@@ -43,6 +43,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td><a href='/productivity-solutions-grant/solutionrepo/200919537D-Sn5posPont-of-Sls-v-35-G' target='_blank'>San5pos/Point of Sales Version 35</a><br></td>
 <td>Sanfive Enterprises Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/198204281M-SUNTOYO-POS-SLN-G' target='_blank'>SUNTOYO POS SOLUTION</a><br></td>
+<td>SUNTOYO TECHNOLOGY PTE LTD</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

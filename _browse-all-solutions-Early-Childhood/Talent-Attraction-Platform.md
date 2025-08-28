@@ -21,7 +21,7 @@ This solution is supported by ECDA.
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201304337W-Td-Smrt-Tlnt-Attrctons-Pltform-EC' target='_blank'>Taidii Smart Talent Attractions Platform</a><br></td>
-<td>TAIDII PTE. LTD.</td>
+<td>Taidii Pte Ltd</td>
 </tr>
 </table>
 
