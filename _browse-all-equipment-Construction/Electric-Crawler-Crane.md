@@ -13,9 +13,9 @@ Electric crawler cranes offer energy efficiency in construction operations. Thes
 
 ### Pre-Approved Equipment Brands and Models
 
-- Sany - SCE1000TB-EV 
-- Sany - SCE800TB-EV 
-- Zoomlion - ZCC850V-1EV 
+- Sany - SCE1000TB-EV
+- Sany - SCE800TB-EV
+- Zoomlion - ZCC850V-1EV
 
 ### Support Level and Conditions
 

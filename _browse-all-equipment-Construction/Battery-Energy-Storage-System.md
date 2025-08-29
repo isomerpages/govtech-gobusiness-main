@@ -23,7 +23,7 @@ Battery energy storage systems replace diesel generators, significantly reducing
 - JP Nelson - BESS-300
 - JP Nelson - BESS-500
 - JP Nelson - BESS-500/HD
-- Reon - LESIECK1B215 
+- Reon - LESIECK1B215
 - Reon - MPSIEC5K6B10
 - Sany - SPL210
 

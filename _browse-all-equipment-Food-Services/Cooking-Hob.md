@@ -37,6 +37,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Bertos - E7P4B/IND
 - Bertos - LXE9P2/IND
 - Bertos - LXE9P4/IND
+- BETTER - BT-500B
 - Chefmaster - CM-200T1
 - Chefmaster - CM-350KCT
 - Chefmaster - CM-350KCTW
@@ -50,14 +51,14 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - COO - CK-FS-800
 - COO - CK-TT-2B350
 - COO - CK-WS-800
-- Dambo - H80-HJ098-P15S-BT
-- Dambo - LDS-DCL800-HJ098-20PS
-- Dambo - LDS-DT400-HJ098-A12PS
 - Dambo - H80B-HJ208-A10S
 - Dambo - H80-HJ098-A15S
+- Dambo - H80-HJ098-P15S-BT
 - Dambo - HJ018-BZL4T35K+
 - Dambo - LDS-DCL600-HJ098-15PS
+- Dambo - LDS-DCL800-HJ098-20PS
 - Dambo - LDS-DT300-HJ208-A6PS
+- Dambo - LDS-DT400-HJ098-A12PS
 - Dambo - LDS-DTDW-HJ098-A15PS
 - Dambo - LDS-ST300-HJ208-A6PS
 - Dambo - LDS-STDW-HJ098-A15PS
@@ -67,10 +68,10 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Daneng - DN-ICC3.5-6
 - Daneng - DN-ICC-5
 - Daneng - DN-ICS-15
+- Daneng - DN-ICS2-15
 - Daneng - DN-ICS3.5-2
 - Daneng - DN-ICS3.5-4
 - Daneng - DN-ICS3.5-6
-- Daneng - DN-ICS2-15
 - Daneng - DN-IWC-3.5
 - Daneng - DN-IWC-5
 - Daneng - DN-IWS-12
@@ -84,9 +85,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Daneng - DN-IWS-25-900
 - Daneng - DN-IWS-30-1000
 - Dipo induction - NBK26-E
-- Electrolux Professional - MA1BCADOOO
-- Electrolux Professional - MA1BCAEOOO
-- Electrolux Professional - MCLBEAEDAO
 - Electrolux Professional - 371020
 - Electrolux Professional - 371021
 - Electrolux Professional - 371282
@@ -98,6 +96,9 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Electrolux Professional - 600901
 - Electrolux Professional - 600903
 - Electrolux Professional - 600905
+- Electrolux Professional - MA1BCADOOO
+- Electrolux Professional - MA1BCAEOOO
+- Electrolux Professional - MCLBEAEDAO
 - FBK - FBKCZC-11A
 - FBK - FBKCZC-11B
 - FBK - FBKCZC-11C
@@ -182,6 +183,8 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - INTECH - TSW-500T
 - JEMI - S70IN
 - JEMI - S70IN GP
+- JEMI - S70IN/2
+- JEMI - S70IN/2 GP
 - JEMI - S70WIN
 - JEMI - S70WIN GP
 - JEMI - T70IN
@@ -193,17 +196,17 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - JEMI - T90IN/2
 - JEMI - T90IN/2 GP
 - KANG JIE - BT500
-- KANG JIE - DWXC400
-- KANG JIE - PAJ300
-- KANG JIE - PAJ500
-- KANG JIE - XC300
 - KANG JIE - DCSTBZL
+- KANG JIE - DWXC400
 - KANG JIE - KJ-K600-ES
 - KANG JIE - KJ-K800-ES
+- KANG JIE - PAJ300
 - KANG JIE - PAJ300-DI
+- KANG JIE - PAJ500
 - KANG JIE - PAJ800
 - KANG JIE - PAJ800-KW
 - KANG JIE - STBZL
+- KANG JIE - XC300
 - KANG JIE - XC300-2
 - KANG JIE - XC400-2
 - Lincat (UK) - SLI42
@@ -238,6 +241,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Mayer - MMIH302HS
 - Mayer - MMIH603FZ
 - MISTRAL Sia-Huat - (1112-MIC88TSI)
+- NOVA - CM10RCBT430-12
 - NOVA - NIC-3.5T
 - NOVA - NIC-5T
 - NUEVO - BT-700D3
@@ -273,16 +277,16 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - RATIONAL - iVario Pro XL
 - ROLLER GRILL Sia-Huat - (238SD-PIC25)
 - ROLLER GRILL Sia-Huat - (238SD-PID30)
-- ROLLER GRILL Sia-Huat - (238SD-PIS30)
 - ROLLER GRILL Sia-Huat - (238SD-PID700)
+- ROLLER GRILL Sia-Huat - (238SD-PIS30)
 - ROLLER GRILL Sia-Huat - (238SD-PIW30)
 - SAFICO PRO - 217BH-HBE350A
-- SAFICO PRO Sia-Huat - (1101SF-CB-28A)
 - SAFICO PRO Sia-Huat - (1101SF-ABB-18T)
 - SAFICO PRO Sia-Huat - (1101SF-AT-25A)
+- SAFICO PRO Sia-Huat - (1101SF-CB-28A)
 - SAFICO PRO Sia-Huat - (1101SF-CW-28A)
 - SAFICO PRO Sia-Huat - (1101SF-DT-28T)
-- SH - SH-TSEI-DSF5K
+- SH - TSEI-ALL5K
 - Sia-Huat - (217BH-BT-180G6)
 - Sia-Huat - (217BH-BT-350A-G)
 - SmartChef - BT-700D3T
@@ -329,7 +333,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Ty - RTCZ-FSC-P87-2P80
 - Ty - RTCZ-IWF-1810-2PS12
 - Ty - RTCZ-IWF-1PS80
-- Ty Brand - RTCZ-TIC-B135
 - Ty Brand - RTCZ-FSC-B170-1B12
 - Ty Brand - RTCZ-FSC-B170-1B80
 - Ty Brand - RTCZ-IBF-4R35
@@ -345,6 +348,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Ty Brand - RTCZ-TIB-4R35
 - Ty Brand - RTCZ-TIB-6R35
 - Ty Brand - RTCZ-TIC-A35L
+- Ty Brand - RTCZ-TIC-B135
 - Ty Brand - RTCZ-TIC-B35M
 - Ty Brand - RTCZ-TIW-C35-1PH
 - Ty Brand - RTCZ-TIW-C50-3PH

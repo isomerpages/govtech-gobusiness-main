@@ -49,9 +49,9 @@ Applicants can apply for the EEG through the [Business Grants Portal (BGP)](http
 - HPE - HPE MSA 2050 SFF Storage
 - HPE - HPE MSA 2052 LFF Storage
 - HPE - HPE MSA 2052 SFF Storage
-- HPE - HPE MSA 2070 LFF 
-- HPE - HPE MSA 2070 SFF 
-- HPE - HPE MSA 2072 SFF 
+- HPE - HPE MSA 2070 LFF
+- HPE - HPE MSA 2070 SFF
+- HPE - HPE MSA 2072 SFF
 - HPE - HPE Primera C630 2N
 - HPE - HPE Primera C650 4N
 - HPE - HPE Primera C670 4N

@@ -31,11 +31,11 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 
 - AO Smith - CAHP-120
 - AO Smith - CAHP-80
+- AO Smith - HPA-80
 - AO Smith - HPI-40D
 - AO Smith - HPI-50D
 - AO Smith - HPW-60A
 - AO Smith - HPW-80A
-- AOSmith - HPA-80
 - Asun - Asun-A/H-080L
 - Asun - Asun-C/H-5.0P
 - Asun - Asun-C/N-1.0P
@@ -58,6 +58,13 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - ECOSTAR - EN-7.5GW
 - F&BSAS - FB1P420
 - F&BSAS - FB5P1850
+- OCHSNER - EUROPA 250DK
+- OCHSNER - EUROPA 300L
+- OCHSNER - EUROPA 333 GENIUS
+- OCHSNER - EUROPA MINI IWP
+- OCHSNER - EUROPA MINI IWPL
+- OCHSNER - EUROPA N 200 R CA
+- OCHSNER - EUROPA N 300 R CA
 - RHEEM - ProTerra 50 Gallon
 - RHEEM - ProTerra RHP180-2805
 - RHEEM - ProTerra RHP280-2805

@@ -116,6 +116,8 @@ Indoor air-conditioner units that are compatible and packaged with pre-approved 
 - GREE - GMVL-160WL/A-K(P)
 - GREE - GMVL-224WM/G-X(P)
 - GREE - GMVL-280WM/G-X(P)
+- GREE - GMVL-T10N1A
+- GREE - GMVL-T8N1A
 - GREE - GWC09ATDXD-K6DNA3A/O
 - GREE - GWC-09Charmo/O
 - GREE - GWC12ATDXE-K6DNA3A/O
@@ -313,6 +315,13 @@ Indoor air-conditioner units that are compatible and packaged with pre-approved 
 - Samsung - AJ045DCJ2KF/SP
 - Samsung - AJ065DCJ3KF/SP
 - Samsung - AJ070DCJ4KF/SP
+- Samsung - AM100DXVGGH/SA
+- Samsung - AM120DXVGGH/SA
+- Samsung - AM140DXVGGH/SA
+- Samsung - AM160DXVGGH/SA
+- Samsung - AM180DXVGGH/SA
+- Samsung - AR70F09D1JWX
+- Samsung - AR70F12D1JWX
 - TCL - FMA-18I3HD/DVO
 - TCL - FMA-27I4HD/DVO
 - Toshiba - MCY-MHP0805HT8-SG
@@ -322,6 +331,7 @@ Indoor air-conditioner units that are compatible and packaged with pre-approved 
 - Toshiba - MMY-MAP14A7T8P-SG
 - Toshiba - MMY-MUP0801T8P-SG
 - Toshiba - MMY-MUP1001T8P-SG
+- Toshiba - MMY-MUP1201T8P-SG
 - Toshiba - MMY-MUP14A1T8P-SG
 - Toshiba - MMY-MUP1601T8P-SG
 - Toshiba - RAS-2M21P2ACVG-SG
