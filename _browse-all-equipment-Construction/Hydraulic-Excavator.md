@@ -12,14 +12,14 @@ Energy-efficient hydraulic excavators capture and reuse energy that would otherw
 
 ### Pre-Approved Equipment Brands and Models
 
-- Kobelco - SK200-10 
-- Kobelco - SK210LC-10 
-- Kobelco - SK260LC-10 
-- Kobelco - SK330-10 
-- Kobelco - SK350LC-10 
-- Kobelco - SK380XDLC-10 
-- Kobelco - SK500XDLC-10 
-- Kobelco - SK520XDLC-10 
+- Kobelco - SK200-10
+- Kobelco - SK210LC-10
+- Kobelco - SK260LC-10
+- Kobelco - SK330-10
+- Kobelco - SK350LC-10
+- Kobelco - SK380XDLC-10
+- Kobelco - SK500XDLC-10
+- Kobelco - SK520XDLC-10
 
 ### Support Level and Conditions
 
