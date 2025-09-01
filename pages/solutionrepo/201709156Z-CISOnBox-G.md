@@ -57,7 +57,7 @@ CISO-in-a-Box is the world's first plug-and-play secured desktop delivered as-a-
 
 ## Vendor Information
 
- Company Name: CYBERSAFE PTE. LTD.<br>Web URL: www.cybersaf3.com <br>Contact Hotline: 87259789 <br>Contact Email: info@cybersafe.sg <br>
+ Company Name: CYBERSAFE PTE. LTD.<br>Web URL: https://cybersafe.sg/ciso-in-a-box/ <br>Contact Hotline: 87259789 <br>Contact Email: info@cybersafe.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -30,7 +30,7 @@ Vision crafts solutions enhancing business efficiency with a human-centric appro
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2: AICustomerService (Chat)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2: AIAssistant (Chat)</td>
 <td style='padding: 10px;'>$18,000.00</td>
 <td style='padding: 10px;'>$15,200.00</td>
 <td style='padding: 10px;'><a href='/images/psg/201808388R_20240282_17072025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
