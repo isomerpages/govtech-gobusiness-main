@@ -13,7 +13,7 @@ Electric excavators offer better energy efficiency through the elimination of fu
 
 ### Pre-Approved Equipment Brands and Models
 
-- Sunward - SWE240FED 
+- Sunward - SWE240FED
 - Volvo - ECR25 Electric
 
 ### Support Level and Conditions

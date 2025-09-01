@@ -55,6 +55,12 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Aeglos - AG-758-HF
 - Aeglos - AG-758-HR
 - Aeglos - AG-758-HRF
+- AHT - PARIS 145(-)
+- AHT - PARIS 185(-)
+- AHT - PARIS 210(-)
+- AHT - PARIS 250(-)
+- AHT - Vento 250 SPI
+- AHT - Vento 375 SPI
 - Aifa - AR-H382
 - Aifa - AR-H482
 - ALAN - A-CAKE-120-3-A-IV
@@ -85,12 +91,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - ARCTICOOL - EG1500F (600)
 - ARCTICOOL - EG1800F
 - ARCTICOOL - EG1800F (600)
-- ARCTICOOL - ED1200F(600)
-- ARCTICOOL - ED1500F(600)
-- ARCTICOOL - ED1800F(600)
-- ARCTICOOL - EG1200F(600)
-- ARCTICOOL - EG1500F(600)
-- ARCTICOOL - EG1800F(600)
 - Berjaya - 1DDC-IV-BB
 - Berjaya - 1DDC-IV-SB
 - Berjaya - 1DDC-IV-WB
@@ -140,9 +140,11 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Berjaya - RS18C-IV-2T
 - Berjaya - RS18C-IV-3T
 - Berjaya - U2F2C-IV-Z
-- Bosch - KGN36XI46
 - Bosch - KDN55NL20O
+- Bosch - KFN96APEAG
+- Bosch - KFN96AXEA
 - Bosch - KGD86AI31U
+- Bosch - KGN36XI46
 - Bosch - KGN56CI41J
 - Bosch - KGN56XI40
 - Bosch - KGN76CI30U
@@ -155,7 +157,8 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - BRANDT - BIC7757DA
 - Carrier - 2DGB-IVTH
 - Carrier - 3DGB-IVTH
-- COLBIES - M7R-47-955-Z3
+- COLBIES - M8R-70-197-PPP
+- COLBIES - MK7R-47-955-Z3
 - CoolTech - CTC-1D
 - CoolTech - CTC-2D
 - CoolTech - CTC-3D
@@ -168,6 +171,11 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - CUBE+ - C+2DF
 - CUBE+ - C+3DC
 - CUBE+ - C+3DF
+- CUBE+ - EE-NSC720A
+- CUBE+ - EE-NSC730A
+- CUBE+ - EE-NSC740A
+- CUBE+ - GKJ-1311YS
+- CUBE+ - GKJ-1911YS
 - CUBE+ - IN-CRF-1275FR
 - CUBE+ - IN-CRF-1875F
 - CUBE+ - IN-CRF-1875FR
@@ -189,11 +197,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - CUBE+ - INCUR-1575R
 - CUBE+ - INCUR-1860R
 - CUBE+ - INCUR-1875R
-- CUBE+ - EE-NSC720A
-- CUBE+ - EE-NSC730A
-- CUBE+ - EE-NSC740A
-- CUBE+ - GKJ-1311YS
-- CUBE+ - GKJ-1911YS
 - CUBE+ - LKJ-1309YH
 - CUBE+ - LKJ-1909YH
 - CUBE+ - LKW-0908Y
@@ -341,17 +344,17 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Daiwa - DFA603-L-EC
 - Daiwa - DFA603-R-EC
 - Daiwa - DKR-126-EC
+- Daiwa - DKR-126-NF-EC
 - Daiwa - DKR-127-EC
+- Daiwa - DKR-127-NF-EC
 - Daiwa - DKR-156-EC
+- Daiwa - DKR-156-NF-EC
 - Daiwa - DKR-157-EC
+- Daiwa - DKR-157-NF-EC
 - Daiwa - H-48F-EC
 - Daiwa - ROP-301FCB-EC
 - Daiwa - ROP-401FCB-EC
 - Daiwa - ROP-603FCB-EC
-- Daiwa - DKR-126-NF-EC
-- Daiwa - DKR-127-NF-EC
-- Daiwa - DKR-156-NF-EC
-- Daiwa - DKR-157-NF-EC
 - DANENG - DN-IAF0.5G
 - DANENG - DN-IAF1.0G2
 - DANENG - DN-IAF1.6G3
@@ -396,19 +399,19 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - DANENG - DN-IAWRD-18L
 - DANENG - DN-IAWRF15
 - DANENG - DN-IAWRF18
+- DANENG - DN-IDS1200-C
+- DANENG - DN-IDS1200-R
+- DANENG - DN-IDS1500-C
+- DANENG - DN-IDS1500-R
+- DANENG - DN-IDS1800-R
+- DANENG - DN-IDS900-C
+- DANENG - DN-IDS900-R
 - De Dietrich - DFA179NXA
 - De Dietrich - DFC8659XA
 - De Dietrich - DFD885LXA
 - De Dietrich - DFD885RXA
 - De Dietrich - DRC1776CA
 - De Dietrich - DRD882YLX
-- DN-IDS1200-C - DANENG - DN-IDS1200-C
-- DN-IDS1200-R - DANENG - DN-IDS1200-R
-- DN-IDS1500-C - DANENG - DN-IDS1500-C
-- DN-IDS1500-R - DANENG - DN-IDS1500-R
-- DN-IDS1800-R - DANENG - DN-IDS1800-R
-- DN-IDS900-C - DANENG - DN-IDS900-C
-- DN-IDS900-R - DANENG - DN-IDS900-R
 - EKO - EKO_INVCF_1288
 - EKO - EKO_INVCF_1588
 - EKO - EKO_INVCF_1888
@@ -416,11 +419,11 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - EKO - INVCF-1268
 - EKO - INVCF-1568
 - EKO - INVCF-1868
-- Electrolux - EHE5224-B-A
 - Electrolux - EBE2401A-W
 - Electrolux - EBE4500B-A
 - Electrolux - EBE4500B-G
 - Electrolux - EBE4500B-H
+- Electrolux - EHE5224-B-A
 - Electrolux - EQE4900B-B
 - Electrolux - ESE5101B-A
 - Electrolux - ESE6201B-B
@@ -467,15 +470,11 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Fisher & Paykel - RS6019S2R1
 - Fisher & Paykel - RS6019S3RH1
 - Fisher & Paykel - RS6121SLHE1
-- Fisher & Paykel - RS6121SLK1
 - Fisher & Paykel - RS6121SRHE1
-- Fisher & Paykel - RS6121SRK1
 - Fisher & Paykel - RS6121W
 - Fisher & Paykel - RS6121WLUE1
 - Fisher & Paykel - RS6121WRUE1
-- Fisher & Paykel - RS7621SLK1
 - Fisher & Paykel - RS7621SRHE1
-- Fisher & Paykel - RS7621SRK1
 - Fisher & Paykel - RS7621W
 - Fisher & Paykel - RS7621WLUE1
 - Fisher & Paykel - RS7621WRUE1
@@ -500,6 +499,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Flomatic - FDR-F1210(E)
 - Flomatic - FDR-F610(E)
 - Flomatic - FDR-R1076(E)
+- FLOMATIC - FDR-R1676(E)
 - Flomatic - FDR-R376(E)
 - Flomatic - FDR-R500(E)
 - Flomatic - FUR-F1210(E)
@@ -515,14 +515,17 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Flomatic - FUR-RF1480(E)
 - Flomatic - FUR-RF610(E)
 - Flomatic - FUR-RF745(E)
-- FLOMATIC - FDR-R1676(E)
 - FLOMATIC - SD-1500C
 - FLOMATIC - SD-2000C
+- Foster - HR200
+- Foster Refrigerator - EP1440H
+- Foster Refrigerator - HR360
 - Foster Refrigerator - LL2/1HD
 - Gaggenau - RB472305
 - Gaggenau - RB492305
 - Gaggenau - RC462304
 - Gaggenau - RC472304
+- Galilei - AYW-181PXA
 - Galilei - GRD-060RM
 - Galilei - GRD-061PM
 - Galilei - GRD-062FM
@@ -638,6 +641,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - HCK - BC-330RD
 - Hisense - RB390N4SBV
 - Hisense - RB390N4SSV
+- Hisense - RB422P3EB5
 - Hisense - RB650N4SBV
 - Hisense - RB650N4SSV
 - Hisense - RQ5P640SSKD
@@ -652,12 +656,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Hisense - RT549N4SBU
 - Hisense - RT549N4SW-MBU2
 - Hisense - RT549N4SWU
-- Hitachi - R-VGX450PMS9
-- Hitachi - R-VGX480PMS9
-- Hitachi - R-VX450PMS9
-- Hitachi - R-VX480PMS9
-- Hitachi - R-XG450KS
-- Hitachi - R-XG480KS
 - Hitachi - HR4N7522DS
 - Hitachi - HR4N7522DS1
 - Hitachi - HRSN9713ES
@@ -667,24 +665,25 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Hitachi - HRTN6443SA
 - Hitachi - R-BG415P6MSX
 - Hitachi - R-GWC670TS
-- Hitachi - R-HV490RS
 - Hitachi - R-HV490WS
-- Hitachi - R-HW540RS
 - Hitachi - R-HW540WS
-- Hitachi - R-HW620RS
 - Hitachi - R-HW620WS
 - Hitachi - R-HWS480KS
 - Hitachi - R-V560P7MS
 - Hitachi - R-V690P7MS
 - Hitachi - R-VG560P7MS
-- Hitachi - R-VG565P9MSX
 - Hitachi - R-VG690P7MS
-- Hitachi - R-VG695P9MSX
+- Hitachi - R-VGX450PMS9
+- Hitachi - R-VGX480PMS9
+- Hitachi - R-VX450PMS9
+- Hitachi - R-VX480PMS9
 - Hitachi - R-WB640V0MS
 - Hitachi - R-WXC620KS
 - Hitachi - R-WXC670KS
 - Hitachi - R-WXC740KS
 - Hitachi - R-WXC740WS
+- Hitachi - R-XG450KS
+- Hitachi - R-XG480KS
 - Hitachi - R-ZXC740WS
 - Hold - LRRF12i
 - Hold - LRRF9i
@@ -692,15 +691,23 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Hold - SWCC60-I
 - Hold - SWRBC48-I
 - Hold - SWRBC60-I
-- Hoshiaki - HRF-120AFT
 - Hoshizaki - FT-120SDG-1
 - Hoshizaki - FT-120SNG-1
+- Hoshizaki - FT-126MC-S
+- Hoshizaki - FT-128MC-S
 - Hoshizaki - FT-150SDG-1
 - Hoshizaki - FT-150SNG-1
+- Hoshizaki - FT-156MC-S
+- Hoshizaki - FT-158MC-S
 - Hoshizaki - FT-180SDG-1
 - Hoshizaki - FT-180SNG-1
+- Hoshizaki - FT-188MC-S
 - Hoshizaki - FT-90SDG-1
 - Hoshizaki - FT-90SNG-1
+- Hoshizaki - FT-96MC-S
+- Hoshizaki - FT-98MC-S
+- Hoshizaki - FTE-96SC-S
+- Hoshizaki - FTE-98SC-S
 - Hoshizaki - HF-120A-1
 - Hoshizaki - HF-120A-2
 - Hoshizaki - HF-120AT-1
@@ -727,6 +734,10 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Hoshizaki - HR-63AT-1
 - Hoshizaki - HR-75A-1
 - Hoshizaki - HR-75AT-1
+- Hoshizaki - HRF-120AF-1
+- Hoshizaki - HRF-120AFT
+- Hoshizaki - HRF-75A-1
+- Hoshizaki - HRF-75AT-1
 - Hoshizaki - RFT-120SDG-1
 - Hoshizaki - RFT-120SNG-1
 - Hoshizaki - RFT-150SDG-1
@@ -739,40 +750,28 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Hoshizaki - RSC-90ET
 - Hoshizaki - RT-120SDG-1
 - Hoshizaki - RT-120SNG-1
-- Hoshizaki - RT-150SDG-1
-- Hoshizaki - RT-150SNG-1
-- Hoshizaki - RT-180SDG-1
-- Hoshizaki - RT-180SNG-1
-- Hoshizaki - RT-90SDG-1
-- Hoshizaki - RT-90SNG-1
-- Hoshizaki - FT-126MC-S
-- Hoshizaki - FT-128MC-S
-- Hoshizaki - FT-156MC-S
-- Hoshizaki - FT-158MC-S
-- Hoshizaki - FT-188MC-S
-- Hoshizaki - FT-96MC-S
-- Hoshizaki - FT-98MC-S
-- Hoshizaki - FTE-96SC-S
-- Hoshizaki - FTE-98SC-S
-- Hoshizaki - HRF-120AF-1
-- Hoshizaki - HRF-75A-1
-- Hoshizaki - HRF-75AT-1
 - Hoshizaki - RT-126MC-S
 - Hoshizaki - RT-128MC-S
+- Hoshizaki - RT-150SDG-1
+- Hoshizaki - RT-150SNG-1
 - Hoshizaki - RT-156MC-S
 - Hoshizaki - RT-158MC-S
+- Hoshizaki - RT-180SDG-1
+- Hoshizaki - RT-180SNG-1
 - Hoshizaki - RT-186MC-S
 - Hoshizaki - RT-188MC-S
+- Hoshizaki - RT-90SDG-1
+- Hoshizaki - RT-90SNG-1
 - Hoshizaki - RT-96MC-S
 - Hoshizaki - RT-98MC-S
 - Hoshizaki - RTE-126SC-S
 - Hoshizaki - RTE-128SC-S
-- Hoshizaki - RTE-156-SC-S
+- Hoshizaki - RTE-156SC-S
 - Hoshizaki - RTE-158SC-S
 - Hoshizaki - RTE-186SC-S
 - Hoshizaki - RTE-188SC-S
 - Hoshizaki - RTE-96SC-S
-- Hoshizaki - RTE-98-SC-S
+- Hoshizaki - RTE-98SC-S
 - IKEA - OVERNAS 90611119
 - IKEA - TILLREDA NN 80596077
 - INNOTRICS - FD-4008BA
@@ -792,20 +791,16 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - KANG JIE - KJ128F-ES
 - KANG JIE - KJ156F-ES
 - KANG JIE - KJ158F-ES
+- KANG JIE - KJ158R-GD-ES
 - KANG JIE - KJ186F-ES
 - KANG JIE - KJ188F-ES
+- KANG JIE - KJ188R-GD-ES
 - KANG JIE - KJHF128-ES
 - KANG JIE - KJHF78-ES
-- KANGJIE - KJ158R-GD-ES
-- KANGJIE - KJ188R-GD-ES
-- KANGJIE - KJHR128G-ES
-- KANGJIE - KJHR78G-ES
-- KANGJIE - KJHRF128-ES
-- KANGJIE - KJHRF78-ES
-- Kerry - KR-190B-IVT
-- Kerry - KR-249B-IVT
-- Kerry - KR-2OPC-15-B
-- Kerry - KR-2OPC-15-W
+- KANG JIE - KJHR128G-ES
+- KANG JIE - KJHR78G-ES
+- KANG JIE - KJHRF128-ES
+- KANG JIE - KJHRF78-ES
 - Kerry - KR-021CS-IVTH
 - Kerry - KR-021FCS-IVTH
 - Kerry - KR-021FS-IVTH
@@ -814,10 +809,14 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Kerry - KR-022FS-IVTH
 - Kerry - KR-023CS-IVTH
 - Kerry - KR-023FS-IVTH
+- Kerry - KR-190B-IVT
 - Kerry - KR-1GDC-IVT
 - Kerry - KR-1GDF-IVT
+- Kerry - KR-249B-IVT
 - Kerry - KR-2GDC-IVT
 - Kerry - KR-2GDF-IVT
+- Kerry - KR-2OPC-15-B
+- Kerry - KR-2OPC-15-W
 - Kerry - KR-3GDC-IVT
 - Kerry - KR-425UC-IVTH
 - Kerry - KR-425UF-IVTH
@@ -859,7 +858,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - KINCO - CK-UF70-EC
 - KSENG - CRF-1082D6F2(IC)
 - KSENG - CRF-18D2F2 (IC)
-- KSENG - CRF-380D2F2 (IC)�
+- KSENG - CRF-380D2F2 (IC)
 - KSENG - CRF-840D4F2(IC)
 - KSENG - CRR-1082D6F2(IC)
 - KSENG - CRR-16D2F2 (IC)
@@ -879,13 +878,11 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - KSENG - CUR-460D2F2-750(IC)
 - LeMaison - LBF123
 - LeMaison - LBF48
-- LG - GB-B3443PY
-- LG - GT-B3127PZ
-- LG - GT-B4603PY
 - LG - GB-B306PZ
 - LG - GB-B3354PY
 - LG - GB-B3442MC
 - LG - GB-B3443EP
+- LG - GB-B3443PY
 - LG - GB-B3862SG
 - LG - GB-B3863MN
 - LG - GB-B3864BE
@@ -906,12 +903,13 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - LG - GS-X6104BE
 - LG - GS-X6104EV
 - LG - GT-B2655PY
+- LG - GT-B3127PZ
 - LG - GT-B3153BN
 - LG - GT-B3303PY
 - LG - GT-B3723PY
-- LG - GT-B3952BN
 - LG - GT-B3953EP
 - LG - GT-B4387PZ
+- LG - GT-B4603PY
 - LG - GT-B4604BM
 - LG - GT-B4783BL
 - LG - GT-B4783EP
@@ -923,8 +921,11 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - LG - GT-M5097PZ
 - LG - GT-M5967BL
 - LG - GT-T5107BM
+- Liebherr - CBNsdh 7653
 - Liebherr - EKB 9471
 - Liebherr - EKB 9671
+- Liebherr - ERBh 9770
+- Liebherr - ERBh 9970
 - Liebherr - ICNh 5103
 - Liebherr - ICNh 5123
 - Liebherr - ICNh 5173
@@ -940,9 +941,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Liebherr - SRBbsh 5260
 - Liebherr - SRBsdh 5260
 - Liebherr - SUIK 1510
-- Liebherr - CBNsdh 7653
-- Liebherr - ERBh 9770
-- Liebherr - ERBh 9970
 - Liebherr - URh 3600
 - Liebherr - URPh 3650
 - mayer - MMFF480BI
@@ -951,17 +949,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - mayer - MMFT450MG
 - Midea - CE-BCD640WE-JT
 - Midea - MDRB470MGD28
-- Midea - MDRF698FIC28SG
-- Midea - MDRF698FIC45SG
-- Midea - MDRF698FIC46SG
-- Midea - MDRS710FIE28SG
-- Midea - MDRS710FIE61SG
-- Midea - MDRS791MYC02SG
-- Midea - MDRS791MYC28SG
-- Midea - MDRS791MYC45SG
-- Midea - MDRS791MYC46SG
-- Midea - MDRT580MTB46-SG
-- Midea - MRM640S
 - Midea - MDRD143FGB01-SG
 - Midea - MDRD143FGB30-SG
 - Midea - MDRD143FGB32-SG
@@ -976,37 +963,56 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Midea - MDRF697FIC28SG
 - Midea - MDRF697FIC45SG
 - Midea - MDRF697FIC46SG
+- Midea - MDRF698FIC28SG
+- Midea - MDRF698FIC45SG
+- Midea - MDRF698FIC46SG
+- Midea - MDRS710FIE28SG
+- Midea - MDRS710FIE61SG
 - Midea - MDRS761MYC02SG
 - Midea - MDRS761MYC45SG
 - Midea - MDRS761MYC46SG
+- Midea - MDRS791MYC02SG
+- Midea - MDRS791MYC28SG
+- Midea - MDRS791MYC45SG
+- Midea - MDRS791MYC46SG
 - Midea - MDRT385MTC28-SG
 - Midea - MDRT385MTC50-SG
 - Midea - MDRT489FGX28-SGN
 - Midea - MDRT489FGX46-SGN
+- Midea - MDRT580MTB46-SG
+- Midea - MRM640S
 - Miele - K 14820 SD ed/cs
 - Miele - K 2801 VI
 - Miele - K 2901 Vi
+- Miele - K 31222 Ui
 - Miele - KFN 4375 DD edt/cs
+- Miele - KFN 4776 ED edt/cs
 - Miele - KFNS 7734 D
 - Miele - KS 28463 D C bb
 - Miele - KS 28463 D ed/cs
+- Miele - KS 4783 ED edt/cs
 - Miele - KS 7743 E
 - Miele - KS 7793 D
-- Miele - KFN 4776 ED edt/cs
-- Miele - KS 4783 ED edt/cs
 - Mitsubishi Electric - MR-B46F-F-P
 - Mitsubishi Electric - MR-B46F-F-P1
 - Mitsubishi Electric - MR-B46F-W-P
 - Mitsubishi Electric - MR-B46F-W-P1
+- Mitsubishi Electric - MR-B46G-W-P
 - Mitsubishi Electric - MR-CGX41ES-GBR-P
 - Mitsubishi Electric - MR-CGX41ES-GWH-P
+- Mitsubishi Electric - MR-CGX41EX-GBR-P
+- Mitsubishi Electric - MR-CGX41EX-GWH-P
 - Mitsubishi Electric - MR-CGX46ES-GBR-P
 - Mitsubishi Electric - MR-CGX46ES-GWH-P
+- Mitsubishi Electric - MR-CGX46EX-GBR-P
+- Mitsubishi Electric - MR-CGX46EX-GWH-P
 - Mitsubishi Electric - MR-CGX56EP-GBK-P
 - Mitsubishi Electric - MR-CGX56EP-GBR-P
 - Mitsubishi Electric - MR-CGX56EP-GWH-P
 - Mitsubishi Electric - MR-CGX56ET-GBK-P
 - Mitsubishi Electric - MR-CGX56ET-GWH-P
+- Mitsubishi Electric - MR-CGX56EX-GBK-P
+- Mitsubishi Electric - MR-CGX56EX-GWH-P
 - Mitsubishi Electric - MR-F55EG-BRW-P
 - Mitsubishi Electric - MR-F55EG-SLW-P
 - Mitsubishi Electric - MR-F55EG-SLW-P1
@@ -1021,39 +1027,18 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Mitsubishi Electric - MR-F62EG-W-P
 - Mitsubishi Electric - MR-F62ET-BRW-P
 - Mitsubishi Electric - MR-F62ET-ST-P
-- Mitsubishi Electric - MR-FS51ES-BR-P
-- Mitsubishi Electric - MR-FS51ES-SSL-P
-- Mitsubishi Electric - MR-FX47EN-GBK-P
-- Mitsubishi Electric - MR-FX47EN-GWH-P
-- Mitsubishi Electric - MR-WX47LF-BR-P
-- Mitsubishi Electric - MR-WX47LF-BR-P1
-- Mitsubishi Electric - MR-WX47LF-F-P
-- Mitsubishi Electric - MR-WX47LF-F-P1
-- Mitsubishi Electric - MR-WX52F-BR-P
-- Mitsubishi Electric - MR-WX52F-BR-P1
-- Mitsubishi Electric - MR-WX52F-F-P
-- Mitsubishi Electric - MR-WX52F-F-P1
-- Mitsubishi Electric - MR-WX60F-BR-P
-- Mitsubishi Electric - MR-WX60F-BR-P1
-- Mitsubishi Electric - MR-WX60F-F-P
-- Mitsubishi Electric - MR-WX60F-F-P1
-- Mitsubishi Electric - MR-WX60F-W-P
-- Mitsubishi Electric - MR-WX60F-W-P1
-- Mitsubishi Electric - MR-WX70C-BR-P
-- Mitsubishi Electric - MR-WX70C-BR-P1
-- Mitsubishi Electric - MR-WX70C-F-P1
-- Mitsubishi Electric - MR-WX70C-W-P
-- Mitsubishi Electric - MR-WX70C-W-P1
-- Mitsubishi Electric - MR-B46G-W-P
-- Mitsubishi Electric - MR-CGX41EX-GBR-P
-- Mitsubishi Electric - MR-CGX41EX-GWH-P
-- Mitsubishi Electric - MR-CGX46EX-GBR-P
-- Mitsubishi Electric - MR-CGX46EX-GWH-P
-- Mitsubishi Electric - MR-CGX56EX-GBK-P
-- Mitsubishi Electric - MR-CGX56EX-GWH-P
 - Mitsubishi Electric - MR-F62EX-BRW-P
 - Mitsubishi Electric - MR-F62EX-ST-P
+- Mitsubishi Electric - MR-FC34EX-BR-P
+- Mitsubishi Electric - MR-FC34EX-MB-P
+- Mitsubishi Electric - MR-FC34EX-SSL-P
+- Mitsubishi Electric - MR-FC34EX-SS-P
+- Mitsubishi Electric - MR-FC34EX-W-P
+- Mitsubishi Electric - MR-FS51ES-BR-P
+- Mitsubishi Electric - MR-FS51ES-SSL-P
 - Mitsubishi Electric - MR-FS51EX-SSL-P
+- Mitsubishi Electric - MR-FX47EN-GBK-P
+- Mitsubishi Electric - MR-FX47EN-GWH-P
 - Mitsubishi Electric - MR-FX47EX-GBK-P
 - Mitsubishi Electric - MR-FX47EX-GWH-P
 - Mitsubishi Electric - MR-HGS52EX-GBK-P
@@ -1063,12 +1048,31 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Mitsubishi Electric - MR-LX55EY-GWH-P
 - Mitsubishi Electric - MR-V50EX-SB-P
 - Mitsubishi Electric - MR-V50EX-ST-P
+- Mitsubishi Electric - MR-WX47LF-BR-P
+- Mitsubishi Electric - MR-WX47LF-BR-P1
+- Mitsubishi Electric - MR-WX47LF-F-P
+- Mitsubishi Electric - MR-WX47LF-F-P1
 - Mitsubishi Electric - MR-WX47LG-F-P
+- Mitsubishi Electric - MR-WX52F-BR-P
+- Mitsubishi Electric - MR-WX52F-BR-P1
+- Mitsubishi Electric - MR-WX52F-F-P
+- Mitsubishi Electric - MR-WX52F-F-P1
 - Mitsubishi Electric - MR-WX52G-BR-P
 - Mitsubishi Electric - MR-WX52G-F-P
+- Mitsubishi Electric - MR-WX60F-BR-P
+- Mitsubishi Electric - MR-WX60F-BR-P1
+- Mitsubishi Electric - MR-WX60F-F-P
+- Mitsubishi Electric - MR-WX60F-F-P1
+- Mitsubishi Electric - MR-WX60F-W-P
+- Mitsubishi Electric - MR-WX60F-W-P1
 - Mitsubishi Electric - MR-WX60G-BR-P
 - Mitsubishi Electric - MR-WX60G-F-P
 - Mitsubishi Electric - MR-WX60G-W-P
+- Mitsubishi Electric - MR-WX70C-BR-P
+- Mitsubishi Electric - MR-WX70C-BR-P1
+- Mitsubishi Electric - MR-WX70C-F-P1
+- Mitsubishi Electric - MR-WX70C-W-P
+- Mitsubishi Electric - MR-WX70C-W-P1
 - Mitsubishi Electric - MR-WX70G-B-P
 - Mitsubishi Electric - MR-WX70G-BR-P
 - Mitsubishi Electric - MR-WX70G-W-P
@@ -1082,14 +1086,18 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Panasonic - NR-BC360X
 - Panasonic - NR-BV320X
 - Panasonic - NR-BV361B
+- Panasonic - NR-BW530H
+- Panasonic - NR-BW530HW
 - Panasonic - NR-BW530X
 - Panasonic - NR-BX468GKS1
 - Panasonic - NR-BX468GWS1
 - Panasonic - NR-BX468XSS1
 - Panasonic - NR-BX471C
 - Panasonic - NR-BX471G
+- Panasonic - NR-BX471H
 - Panasonic - NR-BX471W
 - Panasonic - NR-CW530H
+- Panasonic - NR-CW530HW
 - Panasonic - NR-CW530X
 - Panasonic - NR-F503GT-N6
 - Panasonic - NR-F503GT-NS
@@ -1108,9 +1116,16 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Panasonic - NR-F603GT-X6
 - Panasonic - NR-F654GT-SS
 - Panasonic - NR-F654GT-X6
+- Panasonic - NR-TC221BUSS
+- Panasonic - NR-TC261BUSS
+- Panasonic - NR-TC311BUSS
+- Panasonic - NR-TC361BUSS
 - Panasonic - NR-TL381
 - Panasonic - NR-TX461
 - Panasonic - NR-TZ601B
+- Panasonic - NR-XC541CUHS
+- Panasonic - NR-Y561HB-SG
+- Panasonic - NR-YW590X
 - Panasonic - NR-YW590Y
 - Panasonic - SAR-CDV390C7L-SG
 - Panasonic - SAR-CDV390LSG
@@ -1145,6 +1160,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Panasonic - SRF-K683LB
 - Panasonic - SRF-K761B
 - Panasonic - SRF-K761LB
+- Panasonic - SRF-K781B
 - Panasonic - SRF-K781LB
 - Panasonic - SRF-K783B
 - Panasonic - SRF-K783LB
@@ -1202,6 +1218,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Panasonic - SRR-K761B
 - Panasonic - SRR-K761CB
 - Panasonic - SRR-K761LB
+- Panasonic - SRR-K781B
 - Panasonic - SRR-K781CB
 - Panasonic - SRR-K781CLB
 - Panasonic - SRR-K781LB
@@ -1234,6 +1251,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Panasonic - SUF-K1561SB
 - Panasonic - SUF-K1561SB-R
 - Panasonic - SUF-K1571B
+- Panasonic - SUF-K1571SB
 - Panasonic - SUF-K1571SB-R
 - Panasonic - SUF-K1861SB
 - Panasonic - SUF-K1861SB-R
@@ -1263,6 +1281,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Panasonic - SUR-K1271B
 - Panasonic - SUR-K1271CB
 - Panasonic - SUR-K1271CB-R
+- Panasonic - SUR-K1271SB
 - Panasonic - SUR-K1271SB-R
 - Panasonic - SUR-K1561B
 - Panasonic - SUR-K1561CB
@@ -1272,6 +1291,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Panasonic - SUR-K1571B
 - Panasonic - SUR-K1571CB
 - Panasonic - SUR-K1571CB-R
+- Panasonic - SUR-K1571SB
 - Panasonic - SUR-K1571SB-R
 - Panasonic - SUR-K1861CSB
 - Panasonic - SUR-K1861CSB-R
@@ -1285,21 +1305,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Panasonic - SUR-K2161SB-R
 - Panasonic - SUR-K2171SB
 - Panasonic - SUR-K2171SB-R
-- Panasonic - NR-BW530H
-- Panasonic - NR-BW530HW
-- Panasonic - NR-CW530HW
-- Panasonic - NR-TC221BUSS
-- Panasonic - NR-TC261BUSS
-- Panasonic - NR-TC311BUSS
-- Panasonic - NR-TC361BUSS
-- Panasonic - NR-XC541CUHS
-- Panasonic - NR-Y561HB-SG
-- Panasonic - NR-YW590X
-- Panasonic - SRF-K781B
-- Panasonic - SRR-K781B
-- Panasonic - SUF-K1571SB
-- Panasonic - SUR-K1271SB
-- Panasonic - SUR-K1571SB
 - Penguin - P-12060CCF
 - Penguin - P-12060CF
 - Penguin - P-12076CCF
@@ -1360,7 +1365,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - PowerPac - PPF136 (NEW)
 - PowerPac - PPF170 (NEW)
 - PowerPac - PPF85 (NEW)
-- PRISM+ - FT4201SABI
 - PRISM+ - FB3301GAGB
 - PRISM+ - FB3301GAGW
 - PRISM+ - FB3301SABI
@@ -1386,6 +1390,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - PRISM+ - FT3301SABI
 - PRISM+ - FT3301SAIN
 - PRISM+ - FT4201GAGB
+- PRISM+ - FT4201SABI
 - PRISM+ - FT4201SAIN
 - PRISM+ - FT5301GAGW
 - PRISM+ - FT5301GBGB
@@ -1396,22 +1401,40 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Ryker - TF24101
 - SAGI - KUAM-0P142
 - SAGI - KUEAM-0P142
+- Samsung - RB34C7B5CAP
 - Samsung - RB34T6054B1
+- Samsung - RB43DG6005B1
+- Samsung - RB43DG6005S9
 - Samsung - RB45DG600EB1
 - Samsung - RB45DG600ES9
+- Samsung - RF49C5103B1
+- Samsung - RF49C5103S9
+- Samsung - RF59C7004B1
+- Samsung - RF59C7664B1
 - Samsung - RF60N9011SG
+- Samsung - RF62DB9KA5AP
 - Samsung - RL4004SBASL
 - Samsung - RL4354RBABS
+- Samsung - RL4354RBAS8
+- Samsung - RM70F63R3W
 - Samsung - RR39M71357F
 - Samsung - RR40B99C5AP
 - Samsung - RS62R5006F8
+- Samsung - RS70F65K3F
+- Samsung - RS70F65Q3F
+- Samsung - RS70F65Q3T
+- Samsung - RS80F65J3B
+- Samsung - RS90F65D3F
 - Samsung - RT21M6211SG
 - Samsung - RT21M6211SR
 - Samsung - RT31CB5644C2
+- Samsung - RT31CG5424S9
 - Samsung - RT35CB564422
+- Samsung - RT35CG5444S9
 - Samsung - RT38K503ADX
 - Samsung - RT38K503AUT
 - Samsung - RT42CB668822
+- Samsung - RT42CB6688B1
 - Samsung - RT42CG6644S9
 - Samsung - RT43K6037SL
 - Samsung - RT43K6037UT
@@ -1419,36 +1442,18 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Samsung - RT46K6237DX
 - Samsung - RT46K6237SL
 - Samsung - RT47CB668622
+- Samsung - RT47CB6686B1
 - Samsung - RT47CG6444S9
 - Samsung - RT50K6257B1
 - Samsung - RT50K6257S8
 - Samsung - RT50K6257UT
+- Samsung - RT53DG7A6CB1
+- Samsung - RT53DG7A6CS9
 - Samsung - RT53K6257BS
 - Samsung - RT53K6257SL
 - Samsung - RT53K6657B1
 - Samsung - RT62K705JBS
 - Samsung - RZ32T7443AP
-- Samsung - RB34C7B5CAP
-- Samsung - RB43DG6005B1
-- Samsung - RB43DG6005S9
-- Samsung - RF49C5103B1
-- Samsung - RF49C5103S9
-- Samsung - RF59C7004B1
-- Samsung - RF59C7664B1
-- Samsung - RF62DB9KA5AP
-- Samsung - RL4354RBAS8
-- Samsung - RM70F63R3W
-- Samsung - RS70F65K3F
-- Samsung - RS70F65Q3F
-- Samsung - RS70F65Q3T
-- Samsung - RS80F65J3B
-- Samsung - RS90F65D3F
-- Samsung - RT31CG5424S9
-- Samsung - RT35CG5444S9
-- Samsung - RT42CB6688B1
-- Samsung - RT47CB6686B1
-- Samsung - RT53DG7A6CB1
-- Samsung - RT53DG7A6CS9
 - Sanden Intercool - SPB 0300
 - Sanden Intercool - SPB 0400
 - Sanden Intercool - SPB 0500
@@ -1464,6 +1469,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - SGkool - UCC-1270
 - SGkool - UCC-1560
 - SGkool - UCC-1570
+- SGkool - UCC-1860
 - SGkool - UCC-1870
 - SGkool - UCCF-1570
 - SGkool - UCCF-1870
@@ -1475,6 +1481,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - SGkool - UCF-1870
 - SGkool - URC-1280
 - SGkool - URC700
+- SGkool - URCF-1280
 - SGkool - URCF-700
 - SGkool - URF-1280
 - SGkool - URF-700
@@ -1496,6 +1503,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - SHARP - SJ-PS55P-BK
 - SHARP - SJ-PS55P-DS
 - SHARP - SJ-PS60P-BK
+- SHARP - SJ-PS60P-DS
 - SHARP - SJ-RF22E-DS
 - SHARP - SJ-RF22E-SL
 - SHARP - SJ-RF25E-DS
@@ -1506,10 +1514,19 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - SHARP - SJ-RF33E-SL
 - SHARP - SJ-RF36E-DS
 - SHARP - SJ-RF36E-SL
+- SHARP - SJ-RF43E-BL
+- SHARP - SJ-RF43E-DS
+- SHARP - SJ-RF43E-PK
+- SHARP - SJ-RF43E-SL
+- SHARP - SJ-RF43E-WH
+- SHARP - SJ-RF47E-BL
+- SHARP - SJ-RF47E-DS
+- SHARP - SJ-RF47E-PK
+- SHARP - SJ-RF47E-SL
+- SHARP - SJ-RF47E-WH
 - SHARP - SJ-SS60E-DS
 - SHARP - SJ-SS60G-BK
 - SHARP - SJ-VX57ES-DS
-- SHARP - SJ-PS60P-DS
 - SHARP - SJ-VX57PG-BK
 - SHARP - SJ-VX57PG-DM
 - Sincere - XCR-12C
@@ -1575,6 +1592,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - SMEG - FAB28RDEG5
 - SMEG - FAB28RDGC5
 - SMEG - FAB28RDGM5
+- SMEG - FAB28RDGME5
 - SMEG - FAB28RDIT5
 - SMEG - FAB28RDMC5
 - SMEG - FAB28RDMM5
@@ -1650,6 +1668,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - SMEG - FAB5RBL5
 - SMEG - FAB5RCR3
 - SMEG - FAB5RCR5
+- SMEG - FAB5RDGME5
 - SMEG - FAB5RDGO3
 - SMEG - FAB5RDGO5
 - SMEG - FAB5RDUJ3
@@ -1670,20 +1689,40 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - SMEG - FAB5RWH5
 - SMEG - FC60EN3XL
 - SMEG - FC70EN3X
-- SMEG - SBS63XNSG
-- SMEG - FAB28RDGME5
-- SMEG - FAB5RDGME5
 - SMEG - FSC31XNM4SG
+- SMEG - SBS63XNSG
 - SOLID - S1DC-160B
 - SOLID - S1DC-160W
 - SOLID - S1DC-260B
 - SOLID - S1DC-260W
+- SOLID - S1DC-310B
+- SOLID - S1DC-310W
 - SOLID - S1DC-360B
 - SOLID - S1DC-360W
+- SOLID - S1DC-410B
+- SOLID - S1DC-410W
 - SOLID - S1DC-480B
 - SOLID - S1DC-480W
+- SOLID - S1DC-510B
+- SOLID - S1DC-510W
+- SOLID - S1DF-200B
+- SOLID - S1DF-200W
+- SOLID - S1DF-400B
+- SOLID - S1DF-400W
+- SOLID - S1DF-500B
+- SOLID - S1DF-500W
+- SOLID - S2DC-1100B
+- SOLID - S2DC-1100W
 - SOLID - S2DC-1200B
 - SOLID - S2DC-1200W
+- SOLID - S2DC-800B
+- SOLID - S2DC-800W
+- SOLID - S2DF-1000B
+- SOLID - S2DF-1000W
+- SOLID - S3DC-1700B
+- SOLID - S3DC-1700W
+- SOLID - S3DF-1500B
+- SOLID - S3DF-1500W
 - SOLID - SUCC-1260
 - SOLID - SUCC-1270
 - SOLID - SUCC-1560
@@ -1708,28 +1747,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - SOLID - SURF-1280
 - SOLID - SURF-1880
 - SOLID - SURF-680
-- SOLID - S1DC-310B
-- SOLID - S1DC-310W
-- SOLID - S1DC-410B
-- SOLID - S1DC-410W
-- SOLID - S1DC-510B
-- SOLID - S1DC-510W
-- SOLID - S1DF-200B
-- SOLID - S1DF-200W
-- SOLID - S1DF-400B
-- SOLID - S1DF-400W
-- SOLID - S1DF-500B
-- SOLID - S1DF-500W
-- SOLID - S2DC-1100B
-- SOLID - S2DC-1100W
-- SOLID - S2DC-800B
-- SOLID - S2DC-800W
-- SOLID - S2DF-1000B
-- SOLID - S2DF-1000W
-- SOLID - S3DC-1700B
-- SOLID - S3DC-1700W
-- SOLID - S3DF-1500B
-- SOLID - S3DF-1500W
 - Sub-Zero - GR-RT735WE-PGX(XK)
 - Sub-Zero - GR-RT835WE-PGX(XK)
 - Sub-Zero - ICBBI-36R/S/PH-LH
@@ -1776,33 +1793,120 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - SunTrump - KJA-FF771
 - SunTrump - KJA-FR1271
 - SunTrump - KJA-FR771
+- Superior - 1000TOPPING
+- Superior - 1100SGDC
+- Superior - 1120NAF-2GDC
+- Superior - 1120-NAF-2GDC-S
+- Superior - 1200-LR-CHEST
+- Superior - 1200PIZZA
+- Superior - 1200SALAD
+- Superior - 1200TOPCHEST
+- Superior - 1200TOPPING
+- Superior - 1200WINE
 - Superior - 12060COMBI
+- Superior - 12060CRNS
 - Superior - 12060FRNS
 - Superior - 12076COMBI
+- Superior - 12076CRNS
 - Superior - 12076FRNS
+- Superior - 12076PIZZACHILLER
+- Superior - 12076SALADCHILLER
+- Superior - 120CURTAIN
+- Superior - 120SALADTOP
+- Superior - 1220SGDC
+- Superior - 1250GDC
+- Superior - 1250GDC-T
+- Superior - 1250GDF
+- Superior - 1250GDF-T
+- Superior - 1250SGDC
+- Superior - 1260DRYAGE
+- Superior - 1470-LR-CHEST
+- Superior - 1470TOPCHEST
+- Superior - 1500PIZZA
+- Superior - 1500SALAD
+- Superior - 1500TOPPING
 - Superior - 15060COMBI
+- Superior - 15060CRNS
 - Superior - 15060FRNS
 - Superior - 15076COMBI
+- Superior - 15076CRNS
 - Superior - 15076FRNS
+- Superior - 15076PIZZACHILLER
+- Superior - 15076SALADCHILLER
+- Superior - 150CURTAIN
+- Superior - 150SALADTOP
+- Superior - 1680-NAF-3DGC
+- Superior - 1800PIZZA
+- Superior - 1800SALAD
+- Superior - 1800TOPPING
+- Superior - 1800WINE
 - Superior - 18060COMBI
+- Superior - 18060CRNS
 - Superior - 18060FRNS
 - Superior - 18076COMBI
+- Superior - 18076CRNS
 - Superior - 18076FRNS
+- Superior - 18076PIZZACHILLER
+- Superior - 18076SALADCHILLER
+- Superior - 180CURTAIN
+- Superior - 180SALADTOP
+- Superior - 1850-LR-CHEST
+- Superior - 1850TOPCHEST
+- Superior - 1860DRYAGE
+- Superior - 1900GDC
+- Superior - 1900GDC-T
+- Superior - 1900GDF
+- Superior - 1900GDF-T
+- Superior - 1985-NAF-3GDC
+- Superior - 1DBackchill
+- Superior - 1DBGC
+- Superior - 1DDryAge
+- Superior - 1DGBF
 - Superior - 1GDCRNS
 - Superior - 1GDCRNS-S
+- Superior - 1GDCRNS-TOP
 - Superior - 1GDFRNS
 - Superior - 1GDFRNS-S
+- Superior - 1GDFRNS-TOP
+- Superior - 200SALADTOP
+- Superior - 2100-LR-CHEST
+- Superior - 2100TOPCHEST
+- Superior - 2DBackchill
+- Superior - 2DBGC
+- Superior - 2DBGC-1250
+- Superior - 2DBGF-1250
 - Superior - 2DCOMBI
+- Superior - 2DCRNS
+- Superior - 2DDryAge
 - Superior - 2DFRNS
 - Superior - 2GDCRNS
 - Superior - 2GDCRNS-SD
+- Superior - 2GDCRNS-TOP
 - Superior - 2GDFRNS
+- Superior - 2GDFRNS-TOP
+- Superior - 3DBackchill
+- Superior - 3DBGC
+- Superior - 3DBGC-1860
+- Superior - 3DBGF-1860
+- Superior - 3DDryAge
 - Superior - 3GDCRNS
+- Superior - 3GDCRNS-TOP
 - Superior - 3GDFRNS
+- Superior - 3GDFRNS-TOP
 - Superior - 4DCOMBI
 - Superior - 4DFRNS
+- Superior - 4GDCRNS-TOP
+- Superior - 540-1GDC
+- Superior - 600WINE
+- Superior - 610-1GDC
+- Superior - 620DRYAGE
+- Superior - 620GDC
+- Superior - 620GDC-T
+- Superior - 620GDF
+- Superior - 620GDF-T
 - Superior - 9060FRNS
 - Superior - 9076FRNS
+- Superior - 90CURTAIN
 - Superior - Flip-100
 - Superior - Flip-250
 - Superior - Flip-350
@@ -1812,17 +1916,6 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Superior - SGCF-396
 - Superior - SGCF-500
 - Superior - SGCF-700
-- Superior - 12060CRNS
-- Superior - 12060FRNS
-- Superior - 12076CRNS
-- Superior - 12076FRNS
-- Superior - 15060CRNS
-- Superior - 15076CRNS
-- Superior - 15076FRNS
-- Superior - 18060CRNS
-- Superior - 18060FRNS
-- Superior - 18076CRNS
-- Superior - 18076FRNS
 - SUPREME - 1207680C
 - SUPREME - 1507680C
 - SUPREME - 1507680F
@@ -1855,36 +1948,35 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Toshiba - GR-AG66SA(GG)
 - Toshiba - GR-AG66SA(PGB)
 - Toshiba - GR-AG66SA(XK)
-- Toshiba - GR-RB410WE-PMX(06)
-- Toshiba - GR-RB410WE-PMX(22)
-- Toshiba - GR-RB410WE-PMX(30)
-- Toshiba - GR-RB410WE-PMX(37)
+- Toshiba - GR-RB405WE-PMX(06S)
+- Toshiba - GR-RB410WE-PMX(06S)
+- Toshiba - GR-RF677WI-PGX(22)
+- Toshiba - GR-RF677WI-PMX(06)
+- Toshiba - GR-RF691WI-PGX(67)
+- Toshiba - GR-RF694WI-PGX(67)
+- Toshiba - GR-RM593WE-PGX(B3)
 - Toshiba - GR-RM631WE-PGX(A6)
 - Toshiba - GR-RM631WE-PGX(B1)
+- Toshiba - GR-RM919WI-PGX(B3)
+- Toshiba - GR-RS780WI-PMX(06)
+- Toshiba - GR-RT234WE-PMX
+- Toshiba - GR-RT303WE-PMX
+- Toshiba - GR-RT416WE-PMX(58)
 - Toshiba - GR-RT559WE-PMX(06S)
 - Toshiba - GR-RT559WE-PMX(21S)
 - Toshiba - GR-RT559WE-PMX(22S)
 - Toshiba - GR-RT559WE-PMX(37S)
 - Toshiba - GR-RT559WE-PMX(57S)
 - Toshiba - GR-RT624WE-PMX(06S)
-- Toshiba - GR-RT624WE-PMX(21S)
-- Toshiba - GR-RT624WE-PMX(22S)
-- Toshiba - GR-RT624WE-PMX(37S)
-- Toshiba - GR-RT624WE-PMX(57S)
-- Toshiba - GR-RB405WE-PMX(06S)
-- Toshiba - GR-RF677WI-PGX(22)
-- Toshiba - GR-RF677WI-PMX(06)
-- Toshiba - GR-RF691WI-PGX(67)
-- Toshiba - GR-RF694WI-PGX(67)
-- Toshiba - GR-RM593WE-PGX(B3)
-- Toshiba - GR-RM919WI-PGX(B3)
-- Toshiba - GR-RS780WI-PMX(06)
-- Toshiba - GR-RT234WE-PMX
-- Toshiba - GR-RT303WE-PMX
-- Toshiba - GR-RT416WE-PMX(58)
 - Toshiba - GR-RT735WE-PGX(GG)
 - Toshiba - GR-RT835WE-PGX(B5)
 - Toshiba - GR-RT835WE-PGX(PGB)
+- Turbo Air - CMUF-28L-N
+- Turbo Air - CMUR-28L-N
+- Turbo Air - KUR12-2-N
+- Turbo Air - KUR9-1
+- Turbo Air - KWR12-2-N
+- Turbo Air - KWR9-1
 - Ty - RTGD-1DF-460-INV
 - Ty - RTGD-4FSLD-PT-INV
 - Ty - UNGD-2DC-2245H-INV
@@ -1902,17 +1994,17 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Ty Brand - UNGD-2DF-INV
 - Ty Brand - UNGD-3DF-INV
 - UNICOOL - LK-1000CC-IV
+- UNICOOL - LK-1100CC-IV
+- UNICOOL - LK-420CC-IV
 - UNICOOL - LKC2FL4-IV
 - UNICOOL - LKC2FL5-IV
 - UNICOOL - LKC2FS4-IV
 - UNICOOL - LKC2FS5-IV
 - UNICOOL - LKC3FL6-IV
 - UNICOOL - LKC3FS6-IV
+- UNICOOL - LKU2F2C-IV
 - UNICOOL - LKU2FF-IV
 - UNICOOL - LKU4FF-IV
-- UNICOOL - LK-1100CC-IV
-- UNICOOL - LK-420CC-IV
-- UNICOOL - LKU2F2C-IV
 - Uniko - UNGD-1DC-INV
 - Uniko - UNGD-1DF-INV
 - Uniko - UNGD-2DC-INV
@@ -1921,11 +2013,12 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - V-ZUG - CCO6T-51133
 - V-ZUG - CCO6T-51149
 - V-ZUG - CO4T-51140
+- V-ZUG - CO6T-51116
 - V-ZUG - CO6T-51134
-- Whirlpool - TM500 VCC UI
-- Whirlpool - TM500 VCC UI BL
 - Whirlpool - 5WQ24NIQABK
 - Whirlpool - 5WQ24NIQAS
+- Whirlpool - TM500 VCC UI
+- Whirlpool - TM500 VCC UI BL
 - Whirlpool - WF2B291
 - Whirlpool - WF2T326
 - WILLIAMS - HB2U(J)-DDX ES
@@ -1958,8 +2051,13 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - YUDA - YD-022FS-IVTH
 - YUDA - YD-022FS-IVTH-BK
 - YUDA - YD-022FS-IVTH-BK-FD
+- YUDA - YD-022GDC-BB-IVT
+- YUDA - YD-022GDC-UN-BB-IVT
+- YUDA - YD-023GDC-BB-IVT
+- YUDA - YD-023GDC-UN-BB-IVT
 - YUDA - YD-1GDF-UN-B
 - YUDA - YD-1GDF-UN-W
+- YUDA - YD-210DF-IVT
 - YUDA - YD-2GDC-IVT
 - YUDA - YD-2GDC-UN-B
 - YUDA - YD-2GDC-UN-W
@@ -1970,6 +2068,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - YUDA - YD-315UF-IVTH
 - YUDA - YD-31UC-IVTH
 - YUDA - YD-31UF-IVTH
+- YUDA - YD-330DF-IVT
 - YUDA - YD-3GDC-IVT
 - YUDA - YD-3GDC-UN-B
 - YUDA - YD-3GDC-UN-W
@@ -1980,7 +2079,9 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - YUDA - YD-425UF-IVTH
 - YUDA - YD-42UC-IVTH
 - YUDA - YD-42UF-IVTH
+- YUDA - YD-450F-IVT
 - YUDA - YD-4DSCG
+- YUDA - YD-4OPC-IVT
 - YUDA - YD-525UC-IVTH
 - YUDA - YD-525UF-IVTH
 - YUDA - YD-52UC-IVTH
@@ -1992,30 +2093,15 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - YUDA - YD-62UF-IVTH
 - YUDA - YD-6DSCG
 - YUDA - YD-6OPC-IVT
+- YUDA - YD-C3-1200-IVT
+- YUDA - YD-C3-1500-IVT
+- YUDA - YD-C3-900-IVT
 - YUDA - YD-CF210-LT-IVT
 - YUDA - YD-CF250LT-CS-100
 - YUDA - YD-CF300-LT-IVT
 - YUDA - YD-CF330LT-CS-100
 - YUDA - YD-CF430LT-CS-100
 - YUDA - YD-CF500LT-CS-100
-- YUDA - YD-X50FIF-IVT
-- YUDA - YD-X63FIF-BG-IVT
-- YUDA - YD-X63FIF-IVT
-- YUDA - YD-X65FIF-BG-IVT
-- YUDA - YD-X70FIF-IVT
-- YUDA - YD-X80FIF-BG-IVT
-- YUDA - YD-X80FIF-IVT
-- YUDA - YD-022GDC-BB-IVT
-- YUDA - YD-022GDC-UN-BB-IVT
-- YUDA - YD-023GDC-BB-IVT
-- YUDA - YD-023GDC-UN-BB-IVT
-- YUDA - YD-210DF-IVT
-- YUDA - YD-330DF-IVT
-- YUDA - YD-450F-IVT
-- YUDA - YD-4OPC-IVT
-- YUDA - YD-C3-1200-IVT
-- YUDA - YD-C3-1500-IVT
-- YUDA - YD-C3-900-IVT
 - YUDA - YD-DT05-IVT
 - YUDA - YD-DT06-IVT
 - YUDA - YD-DT07-IVT
@@ -2023,5 +2109,12 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - YUDA - YD-NC1-1200-IVT
 - YUDA - YD-NC1-1500-IVT
 - YUDA - YD-NC1-900-IVT
+- YUDA - YD-X50FIF-IVT
+- YUDA - YD-X63FIF-BG-IVT
+- YUDA - YD-X63FIF-IVT
+- YUDA - YD-X65FIF-BG-IVT
+- YUDA - YD-X70FIF-IVT
+- YUDA - YD-X80FIF-BG-IVT
+- YUDA - YD-X80FIF-IVT
 
 <script src='/jquery/resize-tables.js'></script>
