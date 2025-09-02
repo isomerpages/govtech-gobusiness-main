@@ -15,7 +15,7 @@ Singapore Police Force (SPF)
 <H3>Application Details</H3>
 
 <p><strong>Important Message:</strong></p>
-<p>Please note that there will be legislative changes to the <strong>Private Security Industry (Private Investigation and Security Agencies) Regulations 2009</strong> with effect from 1 Sep 2025.</p>
+<p>Please note that there will be legislative changes to the <strong>Private Security Industry (Private Investigation and Security Agencies) Regulations 2009</strong> with effect from 15 Sep 2025.</p>
 <p>The changes include the change in reporting requirements with respect to changes of business names and officers, i.e. directors and partners, of security agencies. For change of directors/partners and change of business name, licensees should update ACRA directly within 14 days of the change, and there is no longer a requirement to inform PRD if this had already been done. &nbsp;You may refer to the SPF&rsquo;s <a href="https://www.police.gov.sg/e-services/Police-Licences/Security-Agency-Licence" target="_blank" rel="noopener">website</a> for more details. Alternatively, you may refer to the amended legislation which is available <a href="https://sso.agc.gov.sg/" target="_blank" rel="noopener">online</a>.&nbsp;</p>
 <h3>Details</h3>
 <p>Agencies are required to have Security Agency (SA) Licence if they are providing security officers to their clients as defined in Section 13 of the Private Security Industry Act Cap 2007. Only Companies with Security Agency (SA) licence can accept assignments from clients.</p>
@@ -35,12 +35,4 @@ Singapore Police Force (SPF)
 <li><strong>Individual Profile Documents</strong><br>Personal Identification Documents ( Copy of NRIC for Singaporean and Singaporean PR, Copy of Employment Pass for FIN holder, Copy of Passport for Foreigner and Copy of Malaysian IC for Malaysian) Documents of Experience (Curriculum Vitae including Employment details, Education Certificate and Training details) WSQ - NSRS Assessment Result Slip from WDA People Profile from ACRA <br>File format: pdf,jpg,gif,doc,docx<br>Maximum upload per application: 2 MB</li>
 <li><strong>Others</strong><br>Statutory declaration made before the Commissioner of Oath for the foreign directors holding Employment Pass Certificate of no criminal conviction from Country/Region of origin for director who is not stationed in Singapore Original undertaking letter for the foreign director that they are not involved or engaged themselves in private investigation work or activity in Singapore (Applicable for PIA Licence Only) <br>File format: pdf,jpg,gif,doc,docx<br>Maximum upload per application: 2 MB</li>
 </ul>
-
-<H3>Requirements</H3>
-
-<p><strong>Limited Liability Partnership</strong><br />Applicant must be having position:<br />* PARTNER cum MANAGER</p> 
-<p><strong>Company</strong><br />Applicant must be having one of the following position:<br />* MANAGING DIRECTOR<br />* DIRECTOR<br />* CHIEF EXECUTIVE OFFICER</p> 
-<p><strong>Business (Sole Proprietor/Partnership)</strong><br />Applicant must be having one of the following position:<br />* OWNER</p> 
-<p><strong>LP</strong><br />Applicant must be having one of the following position:<br />* GENERAL PARTNER</p> 
-
 
