@@ -1,15 +1,18 @@
 ---
-title: 'Escalator Cleaner'
-permalink: /productivity-solutions-grant/solutionrepo/eqt-Escltor-Clnr-Envronmntl-Srvcs
+title: 'Toilet Cleaning Robot'
+permalink: /productivity-solutions-grant/solutionrepo/eqt-Tolt-Clnng-Robot-Envronmntl-Srvcs
 ---
 
-## Escalator Cleaner
+## Toilet Cleaning Robot
 
 ## Overview
 
 **Description**
 
-A system that is used is for cleaning (e.g. vacuuming, brushing) to remove dirt from grooves of escalator/travellator.
+A robotic cleaning system for toilets that must meet all of the following:
+(i) Performs cleaning of toilet bowl(s) and/or urinal(s) with minimal or no human intervention, 
+(ii) Include at least one of these cleaning methods: brushing/scrubbing, steam cleaning, water jetting, 
+(iii) Capable of moving between toilet fixtures, either autonomously or manually guided.
 
 There is an equipment cap. Please refer to BGP for details.
 
@@ -22,7 +25,7 @@ There is an equipment cap. Please refer to BGP for details.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Escalator Cleaner</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Toilet Cleaning Robot</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'>N.A</td>
 </tr>
