@@ -14,6 +14,8 @@ A robotic cleaning system for toilets that must meet all of the following:
 (ii) Include at least one of these cleaning methods: brushing/scrubbing, steam cleaning, water jetting, 
 (iii) Capable of moving between toilet fixtures, either autonomously or manually guided.
 
+There is an equipment cap. Please refer to BGP for details.
+
 ## Solution Packages Option(s)
 
 <table>

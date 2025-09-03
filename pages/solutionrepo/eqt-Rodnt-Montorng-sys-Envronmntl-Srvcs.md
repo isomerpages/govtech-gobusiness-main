@@ -13,6 +13,8 @@ A system consisting of camera(s) and/or sensor(s) that detects, provides informa
 (i) Camera, and/or motion/infrared/thermal sensor-based that detects, provides information and updates of rodent activities,
 (ii) Sensor-integrated trap(s) that provide alerts/updates.
 
+There is an equipment cap. Please refer to BGP for details.
+
 ## Solution Packages Option(s)
 
 <table>
