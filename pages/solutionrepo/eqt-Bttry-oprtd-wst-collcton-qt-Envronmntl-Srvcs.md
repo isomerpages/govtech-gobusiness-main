@@ -9,9 +9,10 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Bttry-oprtd-wst-collct
 
 **Description**
 
-The equipment (autonomous or one man operated) is able to facilitate the collection of waste from point to point. It should be able to carry bins of at least 660L in capacity. Examples of features include bin-lifting, towing, pulling and transporting of waste.
-
-There is an equipment cap. Please refer to BGP for details.
+A battery-operated vehicular waste collection system (e.g. cart, platform truck), used for waste collection and transportation. It must have at least one of the following: 
+(i) able to transport bins of at least 660L, 
+(ii) a towing capacity of at least 300kg, 
+(iii) a load capacity of at least 100kg.
 
 ## Solution Packages Option(s)
 

@@ -9,9 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Autonomous-vcuum-swpr-
 
 **Description**
 
-Robotic sweeper and/or vacuum to remove dirt and dust from floor and carpeted surfaces without human intervention, with a capacity of > 5L.
-
-There is an equipment cap. Please refer to BGP for details.
+Robotic sweeper and/or vacuum to remove dirt and dust from floor and carpeted surfaces without human intervention, with a bin capacity of > 5L.
 
 ## Solution Packages Option(s)
 

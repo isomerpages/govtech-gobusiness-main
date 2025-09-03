@@ -10,9 +10,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Elctrc-pllt-trnsportrs
 **Description**
 
 Pallet with load capacity ranging from 1.2 ton onwards, that is able to transport or stack the pallets, with minimal human intervention. 
-(Only applicable for licensed cleaning / waste / pest management companies)
-
-There is an equipment cap. Please refer to BGP for details.
+(Only licensed cleaning / waste / pest management companies can apply)
 
 ## Solution Packages Option(s)
 
