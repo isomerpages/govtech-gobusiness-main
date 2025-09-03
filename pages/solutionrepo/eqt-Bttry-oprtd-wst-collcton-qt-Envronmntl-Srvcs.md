@@ -14,6 +14,8 @@ A battery-operated vehicular waste collection system (e.g. cart, platform truck)
 (ii) a towing capacity of at least 300kg, 
 (iii) a load capacity of at least 100kg.
 
+There is an equipment cap. Please refer to BGP for details.
+
 ## Solution Packages Option(s)
 
 <table>

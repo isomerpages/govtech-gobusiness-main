@@ -13,6 +13,8 @@ A vertical system that is used for cleaning of surfaces (e.g. walls, ledges, pip
 (i) a camera/monitor to check cleaning progress,
 (ii) a water system that channels the water for cleaning.
 
+There is an equipment cap. Please refer to BGP for details.
+
 ## Solution Packages Option(s)
 
 <table>
