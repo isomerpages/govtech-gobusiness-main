@@ -15,7 +15,7 @@ Singapore Police Force (SPF)
 <H3>Application Details</H3>
 
 <p><strong>Important Message</strong></p>
-<p>With effect from 1 Sep 2025, Work Pass Holders will be granted 5-year Security Officer&rsquo;s licence. Work Pass Holders must possess a valid work pass in order to work in Singapore and working without a valid work pass is an offence under Section 5(2) of the Employment of Foreign Manpower Act 1990.<strong><br></strong></p>
+<p>With effect from 15 Sep 2025, Work Pass Holders will be granted 5-year Security Officer&rsquo;s licence. Work Pass Holders must possess a valid work pass in order to work in Singapore and working without a valid work pass is an offence under Section 5(2) of the Employment of Foreign Manpower Act 1990.<strong><br></strong></p>
 <p><strong>Important Reminder</strong></p>
 <p>To avoid delays in approval, please ensure that information and supporting documents submitted are complete, accurate, legible, current and relevant.&nbsp;</p>
 <p>For renewal of security officer licence applications, please <span style="text-decoration: underline;">complete your Refresher Quiz before submitting your application.</span></p>
