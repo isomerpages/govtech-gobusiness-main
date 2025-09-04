@@ -15,4 +15,3 @@ Land Transport Authority (LTA)
 <H3>Application Details</H3>
 
 <p>Required for any development or building works within the railway corridor and railway protection zone.</p>
-
