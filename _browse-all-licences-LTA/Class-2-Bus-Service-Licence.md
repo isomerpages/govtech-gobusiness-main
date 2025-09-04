@@ -28,7 +28,7 @@ Land Transport Authority (LTA)
                 <ol>
                     <li>Singaporean or Permanent Resident for an individual (for Scheme B licences)</li>
                     <li>Company registered with the Accounting &amp; Corporate Regulatory Authority (ACRA)</li>
-                    <li>(c) Association/ Society registered with Registrar of Societies</li>
+                    <li>Association/ Society registered with Registrar of Societies</li>
                 </ol>
             Note: For business registration under sole-proprietorship, partnership and limited partnership under ACRA, the sole proprietor or active partner must apply for a licence in his name.
             <li>Compliance with the bus service guidelines. For more details, please refer to Question 3.</li>
