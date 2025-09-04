@@ -15,4 +15,3 @@ Land Transport Authority (LTA)
 <H3>Application Details</H3>
 
 <p>Submission to obtain approval/clearance for Change of Use proposals and proposed Addition/Alteration of existing parking places and lots.</p>
-

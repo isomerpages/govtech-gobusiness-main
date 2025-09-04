@@ -15,4 +15,3 @@ Land Transport Authority (LTA)
 <H3>Application Details</H3>
 
 <p>An application has to be submitted to the Authority for permission to carry out works on public streets after the necessary pre-consultation approvals have been obtained from the relevant authorities or agencies.</p>
-
