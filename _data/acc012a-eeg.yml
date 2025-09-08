@@ -66,7 +66,7 @@
           <li><strong>Retail</strong> companies classified under <strong>SSIC 47</strong></li>
         </ul>
         <p>Business entities using commercial data centres in Singapore who meet the <a href="https://www.gobusiness.gov.sg/energy-efficiency-grant/#eeg-eligibility" target="_blank" rel="noopener">Data Centre Sector eligibility requirements</a> can tap on pre-approved energy efficient equipment for the data centre sector regardless of industry.</p>
-        <p><strong><u>For EEG (Advanced)</u></strong><br>A business entity registered and operating in Singapore in the following sectors:</p>
+        <p><strong><u>For EEG (Advanced)</u></strong><br>A business entity registered and operating in Singapore in the following sectors:
         <ul>
           <li><strong>Construction</strong> companies that are classified under <strong>SSIC 41 to 43</strong></li>
           <li><strong>Manufacturing</strong> companies that are classified under <strong>SSIC 10 to 32</strong> (including <strong>Food Manufacturing</strong>)</li>
@@ -76,6 +76,7 @@
           </ul>
           </li>
         </ul>
+        </p>
     
     - title: Can sole proprietors and partnerships apply for the EEG?
       content: |
@@ -126,14 +127,8 @@
         
     - title: &#91;For EEG (Advanced) only&#93; What information needs to be included as part of the third-party assessment?
       content: |
-        Unlike the EEG (Base), the EEG (Advanced) can support non-pre-approved equipment as long as the equipment demonstrates energy savings above 350 tonnes of lifetime carbon abatement. Support under the EEG (Advanced) is based on the lower of 
-        
-        (i) support levels under the EEG (Base) according to company's size<sup>5</sup>, or <br>
-        (ii) based on the equipment's expected lifetime carbon abatement. Support will be capped at $350,000 across all of a company's EEG (Base) and EEG (Advanced) applications. 
-
-        Companies applying for the EEG (Advanced) would also need to submit a third-party assessment report from a whitelisted third-party qualified assessor on the projected energy savings that the purchase of the energy efficient equipment would generate. This is not required for EEG (Base).
-
-        <sup>5</sup> <small>This will be 70% and 30% of energy efficient equipment costs for SMEs and non-SMEs respectively.</small>
+        <p>For <strong>Manufacturing</strong> and <strong>Maritime</strong> companies, please refer to the <a href="https://www.gobusiness.gov.sg/images/eeg/EEG Advanced Third-party assessment report (July 2024).docx" target="_blank" rel="noopener">third-party assessment form</a> that the whitelisted third-party qualified assessor would use to document the assessment and endorse the projected energy savings for the project. The signed form shall be submitted along with the application for the grant.</p>
+        <p>For <strong>Construction</strong> companies, please email <a href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a> to request for the third-party assessment documents.</p>
 
     - title: What equipment are currently not supported under EEG (Advanced)?
       content: | 
