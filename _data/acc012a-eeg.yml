@@ -392,15 +392,17 @@
 - accordion:
   letter: g
   data:
-    - title: What is the Energy Efficiency Grant?
+    - title: How do I withdraw my EEG application?
       content: |
-        The Energy Efficiency Grant helps businesses transition towards being more energy efficient by co-funding investments in energy-efficient equipment. As announced at Budget 2024, the EEG will be expanded to more sectors from 1 April 2024. With the expanded EEG, information regarding EEG applications will be streamlined under one shopfront on GoBusiness, so that it is easier for businesses to access support for energy efficiency.
-
-    - title: Which sectors are covered by the EEG?
-      content: |
-        As of 30 December 2024, eligible companies<sup>1</sup> in Construction, Food Services, Manufacturing (including Food Manufacturing), Maritime, Retail sectors and users of data centres will be able to tap on the EEG.
-
-        <sup>1</sup> <small>Based on company's ACRA registered primary or secondary SSIC code.</small>
+        <strong><u>For EEG (Base)</u></strong><br>You may withdraw your application on the <a href="http://www.businessgrants.gov.sg/" target="_blank" rel="noopener">BGP</a>, if it is currently reworked to you for updates. To withdraw the application when it is being processed, please reach out to the respective agencies, and you will be sent further instructions.
+        
+        <p><strong><u>For EEG (Advanced)</u></strong><br>You may reach out to the respective agencies to submit your withdrawal request:
+        <ul>
+        <li><strong>Construction</strong> companies: <a href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a></li>
+        <li><strong>Manufacturing (including Food Manufacturing)</strong> companies: <a href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a></li>
+        <li><strong>Maritime</strong> companies: <a href="mailto:MPA_EEG@mpa.gov.sg" target="_blank" rel="noopener">MPA_EEG@mpa.gov.sg</a></li>
+        </ul>
+        </p>
 
 - accordion:
   letter: h
@@ -431,8 +433,9 @@
   data:
     - title: Where can I find more information on the EEG (Base)?
       content: |
-        <p>Please visit the [EEG webpage](/energy-efficiency-grant/?src=home_quicklinks) for more information about the scheme.
+        Please visit the [EEG webpage](/energy-efficiency-grant/?src=home_quicklinks) for more information about the scheme.
         You may also reach out to the following agencies for sector-specific queries:
+        <p>
         <ul>
         <li><strong>Food Services</strong> and <strong>Retail</strong> companies: Visit <a href="https://go.gov.sg/askenterprisesg" target="_blank" rel="noopener">EnterpriseSG's webpage</a></li>
         <li><strong>Manufacturing</strong> companies: Visit <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/energy-efficiency-grant" target="_blank" rel="noopener">NEA's webpage</a> or contact <a href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a></li>
