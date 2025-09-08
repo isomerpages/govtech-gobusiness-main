@@ -94,7 +94,7 @@
       content: |
         <strong><u>For EEG (Base)</u></strong><br>
         The list of EEG (Base) equipment supported can be found on [GoBusiness](/energy-efficiency-grant/){:target="_blank"}{:rel="noopener"}.
-        
+
         <p><strong><u>For EEG (Advanced)</u></strong><br>Installation/Purchase of the following would not be supported under EEG (Advanced).
         <ul>
         <li>Vehicles</li>
@@ -107,46 +107,24 @@
 
         <sup>4</sup> <small>For chilled water plant retrofit that shall comply with the National Environment Agency's (NEA) Minimum Energy Efficiency Standards (MEES), EEG (Advanced) can support chilled water system replacement/new installation that (1a) can meet or exceed MEES performance standard before MEES comes into effect; or (1b) exceed MEES performance standard after MEES comes into effect, whichever applies at the point of the first EEG (Advanced) submission; and (2) is installed with M&amp;V sensors/meters to facilitate post retrofit system efficiency determination for compliance with MEES. The cost of M&amp;V sensors/meters cannot be funded under EEG (Advanced). Applicant can refer to the <a href="/images/eeg/EEG Advanced Third-party assessment report (July 2024).docx" target="_blank" rel="noopener">third-party assessment form</a> for details.</small>
 
-    - title: Why did the Government develop the EEG (Advanced)?
+    - title: Where can companies submit equipment models to be considered for support?
       content: |
-        The EEG (Advanced) was designed in recognition that companies in certain sectors may need to invest more beyond the support provided in the EEG (Base) to purchase energy efficient equipment relevant to their operations.
+        <p>Companies can submit equipment models under selected categories to be considered for support.</p>
+        <p>For Clothes Dryer, Commercial Refrigerator, Cooking Hob and Water Heater, please submit via the <a href="https://form.gov.sg/65dd54803c61c0ff3ca5ae54" target="_blank" rel="noopener">Request for Information (RFI)</a><a href="https://form.gov.sg/65dd54803c61c0ff3ca5ae54" target="_blank" rel="noopener"> </a>form.</p>
+        <p>For Boiler System, Compressed Air System and non-MELS regulated LED Lighting, please submit via the <a href="https://form.gov.sg/668f9429c6fc442e8781efd6" target="_blank" rel="noopener">RFI on Equipment under the Manufacturing sector&nbsp;form</a>.</p>
+        <p>Please note that all equipment submissions must meet the respective technical requirements to be eligible for support.</p>
 
-    - title: What sectors does the EEG (Advanced) cover?
+    - title: What costs are supported under the EEG?
       content: |
-        As of 30 December 2024, eligible companies in the Construction, Manufacturing (including Food Manufacturing) and Maritime sectors<sup>1</sup> can apply for the EEG (Advanced). 
+        Only the actual purchase of the equipment is supportable. This excludes other related administrative fees/charges, e.g. delivery fees, installation.
 
-        <sup>1</sup> <small>Based on company's ACRA registered primary or secondary SSIC code.</small>
+        In addition, companies are not allowed to receive, agree to receive or cause to receive any incentive (e.g. complimentary items) or assistance (from the vendor or otherwise) in connection with the acquisition of equipment as part of the EEG application. Companies shall reject and return any such incentive at first instance.
 
-    - title: What is the eligibility criteria for EEG (Advanced)?<sup>2</sup>
+    - title: How long must the purchased equipment be held for? 
       content: |
-        A company that meets all the following criteria can apply for the EEG (Advanced):
+        For both the EEG (Base) and EEG (Advanced) equipment supported, the holding period is minimally one year from the date of approval of the final claim.
         
-        - Business entity registered and operating in Singapore in the following sectors:
-          - <b>Construction</b> companies that are classified under SSIC 41 - 43
-          - <b>Manufacturing</b> companies that are classified under SSIC 10 to 32 (including Food Manufacturing)
-          - <b>Maritime</b> companies which include:
-            - <b>Port</b> Port companies classified under <b>SSIC 23940, 24109, 49231, 50021, 50023, 52101, 52221, 52222, 52224, 52243, 52292</b>
-        <br><br>
-        - Has a minimum of 30% local shareholding<sup>3</sup>
-        - Has a Group Annual Sales Turnover no more than S$500 million<sup>4</sup>
-
-        The following entities do not qualify for grant support:
-        - Charities
-        - Institutions of Public Characters (IPCs)
-        - Religious entities
-        - Voluntary Welfare Organisations (VWOs)
-        - Government agencies and subsidiaries
-        - Co-operative societies and societies
-
-        <sup>2</sup> Companies may be requested to furnish supporting documents as part of the grant application process.
-
-        <sup>3</sup> For maritime companies, business entities need not have a minimum of 30% local shareholding criteria.
-
-        <sup>4</sup> SME is defined as having:
-          - Group Annual Sales Turnover of not more than S$100 million; or 
-          - Group Employment Size of not more than 200 workers
-        
-    - title: What is the difference between the EEG (Base) and the EEG (Advanced)?
+    - title: &#91;For EEG (Advanced) only&#93; What information needs to be included as part of the third-party assessment?
       content: |
         Unlike the EEG (Base), the EEG (Advanced) can support non-pre-approved equipment as long as the equipment demonstrates energy savings above 350 tonnes of lifetime carbon abatement. Support under the EEG (Advanced) is based on the lower of 
         
