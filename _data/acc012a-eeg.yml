@@ -137,36 +137,6 @@
     - title: Are complimentary items allowed for equipment purchased under EEG (Base)?
       content: |
         Companies are not allowed to receive, agree to receive or cause to receive any incentive or assistance (from the vendor or otherwise) in connection with the acquisition of equipment as part of the EEG application. Companies shall reject and return any such incentive at first instance.
-    
-    - title: Where can I find more information on the EEG (Base)?
-      content: |
-        Please visit the [EEG webpage](/energy-efficiency-grant/?src=home_quicklinks) on GoBusiness for more information.
-        
-        You may reach out to the following agencies for sector specific queries:
-
-        - <b>Food Services</b> and <b>Retail</b> companies, may contact <b>[Enterprise Singapore](https://go.gov.sg/askenterprisesg){:target="_blank"}{:rel="noopener"}</b>.
-
-        - <b>Manufacturing</b> companies, may visit <b>[NEA's webpage](https://www.nea.gov.sg/programmes-grants/grants-and-awards/energy-efficiency-grant){:target="_blank"}{:rel="noopener"}</b> or contact <b><a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a></b>.
-
-        - <b>Construction</b> companies, may contact <b>BCA</b> at <b><a title="" href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a></b>.
-
-        - <b>Maritime</b> companies, may contact <b>MPA</b> at <b><a title="" href="mailto:MPA_EEG@mpa.gov.sg" target="_blank" rel="noopener">MPA_EEG@mpa.gov.sg</a></b>
-
-        - Users of data centres may contact <b>IMDA</b> at <b><a title="" href="mailto:IT_Energy_Efficiency@imda.gov.sg" target="_blank" rel="noopener">IT_Energy_Efficiency@imda.gov.sg</a></b>
-
-    - title: How can I enquire for CorpPass assistance?
-      content: |
-        Email: <a title="" href="mailto:support@corppass.gov.sg" target="_blank" rel="noopener">support@corppass.gov.sg</a><br>
-        Telephone: [+65 6643 0577](tel:+6566430577)
-
-        The operating hours are from 8:00 am to 8:00 pm (Mondays to Fridays) and from 8:00 am to 2:00 pm (Saturdays).
-
-    - title: How can I enquire for Business Grants Portal assistance?
-      content: |
-        Enquiry Form: [go.gov.sg/bgphelpdesk](https://go.gov.sg/bgphelpdesk){:target="_blank"}{:rel="noopener"}<br>
-        Telephone: [+65 6708 7288](tel:+6567087288)
-
-        The operating hours are from 8:30 am to 5:30 pm (Mondays to Fridays).
 
 - accordion:
   letter: c
@@ -378,9 +348,104 @@
       content: |
         No. The EEG (Advanced) only covers the purchase of the energy efficient equipment and any costs that are necessary to bring the equipment/system to a functioning state. Any other installation, assessment and administrative costs must be borne by the applicant company.
 
+    
+
+- accordion:
+  letter: d
+  data:
+    - title: What is the Energy Efficiency Grant?
+      content: |
+        The Energy Efficiency Grant helps businesses transition towards being more energy efficient by co-funding investments in energy-efficient equipment. As announced at Budget 2024, the EEG will be expanded to more sectors from 1 April 2024. With the expanded EEG, information regarding EEG applications will be streamlined under one shopfront on GoBusiness, so that it is easier for businesses to access support for energy efficiency.
+
+    - title: Which sectors are covered by the EEG?
+      content: |
+        As of 30 December 2024, eligible companies<sup>1</sup> in Construction, Food Services, Manufacturing (including Food Manufacturing), Maritime, Retail sectors and users of data centres will be able to tap on the EEG.
+
+        <sup>1</sup> <small>Based on company's ACRA registered primary or secondary SSIC code.</small>
+
+- accordion:
+  letter: e
+  data:
+    - title: What is the Energy Efficiency Grant?
+      content: |
+        The Energy Efficiency Grant helps businesses transition towards being more energy efficient by co-funding investments in energy-efficient equipment. As announced at Budget 2024, the EEG will be expanded to more sectors from 1 April 2024. With the expanded EEG, information regarding EEG applications will be streamlined under one shopfront on GoBusiness, so that it is easier for businesses to access support for energy efficiency.
+
+    - title: Which sectors are covered by the EEG?
+      content: |
+        As of 30 December 2024, eligible companies<sup>1</sup> in Construction, Food Services, Manufacturing (including Food Manufacturing), Maritime, Retail sectors and users of data centres will be able to tap on the EEG.
+
+        <sup>1</sup> <small>Based on company's ACRA registered primary or secondary SSIC code.</small>
+
+- accordion:
+  letter: f
+  data:
+    - title: What is the Energy Efficiency Grant?
+      content: |
+        The Energy Efficiency Grant helps businesses transition towards being more energy efficient by co-funding investments in energy-efficient equipment. As announced at Budget 2024, the EEG will be expanded to more sectors from 1 April 2024. With the expanded EEG, information regarding EEG applications will be streamlined under one shopfront on GoBusiness, so that it is easier for businesses to access support for energy efficiency.
+
+    - title: Which sectors are covered by the EEG?
+      content: |
+        As of 30 December 2024, eligible companies<sup>1</sup> in Construction, Food Services, Manufacturing (including Food Manufacturing), Maritime, Retail sectors and users of data centres will be able to tap on the EEG.
+
+        <sup>1</sup> <small>Based on company's ACRA registered primary or secondary SSIC code.</small>
+
+- accordion:
+  letter: g
+  data:
+    - title: What is the Energy Efficiency Grant?
+      content: |
+        The Energy Efficiency Grant helps businesses transition towards being more energy efficient by co-funding investments in energy-efficient equipment. As announced at Budget 2024, the EEG will be expanded to more sectors from 1 April 2024. With the expanded EEG, information regarding EEG applications will be streamlined under one shopfront on GoBusiness, so that it is easier for businesses to access support for energy efficiency.
+
+    - title: Which sectors are covered by the EEG?
+      content: |
+        As of 30 December 2024, eligible companies<sup>1</sup> in Construction, Food Services, Manufacturing (including Food Manufacturing), Maritime, Retail sectors and users of data centres will be able to tap on the EEG.
+
+        <sup>1</sup> <small>Based on company's ACRA registered primary or secondary SSIC code.</small>
+
+- accordion:
+  letter: h
+  data:
+    - title: How do I cancel/terminate my EEG application?
+      content: |
+        <strong><u>For EEG (Base)</u></strong>
+        You may cancel or terminate your application in BGP if you no longer wish to continue with the project:
+        <ol>
+        <li>Login to the <a href="http://www.businessgrants.gov.sg/" target="_blank" rel="noopener">BGP</a>.</li>
+        <li>Navigate to "My Grants" and select the "Applications" tab to view all your applications.</li>
+        <li>Select the "Completed" tab.</li>
+        <li>Look for your Ref ID and <u><strong>click on your project title</strong></u>.</li>
+        <li>Scroll down to the section "Application Form", you will see an option to "Terminate Grant" (in red) under the button "Proceed".</li>
+        <li>Click on "Terminate Grant" and follow the instructions.</li>
+        </ol>
+        <strong><u>For EEG (Advanced)</u></strong><br>You may reach out to the respective agencies if you no longer wish to continue with the project:
+        <ul>
+        <li><strong>Construction</strong> companies: <a href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a></li>
+        <li><strong>Manufacturing (including Food Manufacturing)</strong> companies: <a href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a></li>
+        <li><strong>Maritime</strong> companies: <a href="mailto:MPA_EEG@mpa.gov.sg" target="_blank" rel="noopener">MPA_EEG@mpa.gov.sg</a></li>
+        </ul>
+
+- accordion:
+  letter: i
+  data:
+    - title: Where can I find more information on the EEG (Base)?
+      content: |
+        Please visit the [EEG webpage](/energy-efficiency-grant/?src=home_quicklinks) on GoBusiness for more information.
+        
+        You may reach out to the following agencies for sector specific queries:
+
+        - <b>Food Services</b> and <b>Retail</b> companies: Visit [Enterprise Singapore](https://go.gov.sg/askenterprisesg){:target="_blank"}{:rel="noopener"}
+
+        - <b>Manufacturing</b> companies: Visit [NEA's webpage](https://www.nea.gov.sg/programmes-grants/grants-and-awards/energy-efficiency-grant){:target="_blank"}{:rel="noopener"} or contact [NEA_EEG@nea.gov.sg](mailto:NEA_EEG@nea.gov.sg){:target="_blank"}{:rel="noopener"}
+
+        - <b>Construction</b> companies: Contact BCA at [BCA_EEG_admin@bca.gov.sg](mailto:BCA_EEG_admin@bca.gov.sg){:target="_blank"}{:rel="noopener"}
+
+        - <b>Maritime</b> companies: Contact MPA at [MPA_EEG@mpa.gov.sg](mailto:MPA_EEG@mpa.gov.sg){:target="_blank"}{:rel="noopener"}
+
+        - <b>Data Centres users</b>: Contact IMDA at [IT_Energy_Efficiency@imda.gov.sg](mailto:IT_Energy_Efficiency@imda.gov.sg){:target="_blank"}{:rel="noopener"}
+
     - title: Who can I contact for CorpPass assistance?
       content: |
-        Email: <a title="" href="mailto:support@corppass.gov.sg" target="_blank" rel="noopener">support@corppass.gov.sg</a><br>
+        Email: [support@corppass.gov.sg](mailto:support@corppass.gov.sg){:target="_blank"}{:rel="noopener"}<br>
         Telephone: [+65 6643 0577](tel:+6566430577)
 
         The operating hours are from 8:00 am to 8:00 pm (Mondays to Fridays) and from 8:00 am to 2:00 pm (Saturdays).
@@ -391,4 +456,3 @@
         Telephone: [+65 6708 7288](tel:+6567087288)
 
         The operating hours are from 8:30 am to 5:30 pm (Mondays to Fridays).
-
