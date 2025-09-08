@@ -125,42 +125,18 @@
       content: |
         For both the EEG (Base) and EEG (Advanced) equipment supported, the holding period is minimally one year from the date of approval of the final claim.
         
-    - title: <For EEG (Advanced) only> What information needs to be included as part of the third-party assessment?
+    - title: (For EEG (Advanced) only) What information needs to be included as part of the third-party assessment?
       content: |
         <p>For <strong>Manufacturing</strong> and <strong>Maritime</strong> companies, please refer to the <a href="https://www.gobusiness.gov.sg/images/eeg/EEG Advanced Third-party assessment report (July 2024).docx" target="_blank" rel="noopener">third-party assessment form</a> that the whitelisted third-party qualified assessor would use to document the assessment and endorse the projected energy savings for the project. The signed form shall be submitted along with the application for the grant.</p>
         <p>For <strong>Construction</strong> companies, please email <a href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a> to request for the third-party assessment documents.</p>
 
-    - title: What equipment are currently not supported under EEG (Advanced)?
+    - title: (For EEG (Advanced) only) Does the EEG (Advanced) cover the cost to hire a third-party qualified assessor?
       content: | 
-        Installation/Purchase of the following would not be supported under EEG (Advanced):<br>
-          a)	Vehicles<br>
-          b)	Key equipment in systems<sup>6</sup> that require Measurement & Verification at system level for legislation compliance or Green Mark Scheme (or equivalent government scheme)<br>
-          c)	Blackbox solutions (i.e. software or hardware devices whose functioning cannot be explained by applying mainstream engineering knowledge and theories for EE improvements)<br>
-          d)	Non-EE equipment, including monitoring devices and equipment that reduce carbon emission but does not reduce energy consumption (e.g. solar PV Panel, wind turbine)<br>
-          e)	International vessels<br>
+        No. The EEG (Advanced) only covers the purchase of the energy efficient equipment and any costs that are necessary to bring the equipment/system to a functioning state. Any other installation, assessment and administrative costs must be borne by the applicant.
 
-          <sup>6</sup> For chilled water plant retrofit that shall comply with NEA's minimum energy efficiency standards (MEES), EEG (Advanced) can support chilled water system replacement/new installation that<br>
-
-          (1a) can meet or exceed MEES performance standard <b>before</b> MEES comes into effect, or<br>
-          (1b) exceed MEES performance standard <b>after</b> MEES comes into effect, whichever applies at the point of the first EEG(Advanced) submission; and<br>
-          (2) is installed with M&V sensors/meters to facilitate post retrofit system efficiency determination for compliance with MEES. The cost of M&V sensors/meters would not be funded under EEG(Advanced).
-
-          Applicant shall refer to the <a href='/images/eeg/EEG Advanced Third-party assessment report (July 2024).docx' target="_blank" rel="noopener">third-party assessment form</a> for details.
-
-    - title: How is the grant support for the EEG (Advanced) calculated?
+    - title: (For EEG (Advanced) only) Where can I find the full list of whitelisted third-party qualified assessors for my EEG (Advanced) project?
       content: |
-        Please refer to the following [link](https://www.checkfirst.gov.sg/c/551d6762-93f3-466c-a1be-418ef7f8d2f1){:target="_blank"}{:rel="noopener"} to calculate the estimated grant support level for EEG (Advanced) based on the company's size and equipment purchased.
-
-    - title: What information needs to be included as part of the third-party assessment?
-      content: |
-        Please refer to the <a href='/images/eeg/EEG Advanced Third-party assessment report (July 2024).docx' target="_blank" rel="noopener">third-party assessment form</a> that the whitelisted third-party qualified assessor would use to document the assessment and endorse the projected energy savings for the project. The signed form shall be submitted along with the application for the grant.
-
-        <u>For Construction Companies</u><br>
-        Please email <a title="" href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a>to request for the third-party assessment documents.
-
-    - title: Where can I find the full list of whitelisted third-party qualified assessors for my EEG (Advanced) project?
-      content: |
-        The list of whitelisted third-party qualified assessors for Maritime sector and Manufacturing sector is as follows. Only applications endorsed by whitelisted third-party qualified assessor would be processed.
+        The list of whitelisted third-party qualified assessors for manufacturing sector is as follows. Only applications endorsed by whitelisted third-party qualified assessor would be processed.
 
         <table>
         <tr>
@@ -171,7 +147,7 @@
 
         <tr>
           <td>Manufacturing</td>
-          <td>Accredited ESCOs</td>
+          <td>Accredited Energy Services Companies (ESCOs)</td>
           <td><a href="https://www.nea.gov.sg/programmes-grants/schemes/esco-accreditation" target="_blank" rel="noopener">NEA | ESCO Accreditation</a></td>
         </tr>
 
@@ -198,105 +174,85 @@
           <td>Singapore Polytechnic (SP) - Centre for Environmental Sustainability and Energy Efficiency (ESEE)</td>
           <td>Website:<br><a href="https://www.sp.edu.sg/industry/esee" target="_blank" rel="noopener">Centre ESEE - Industry and Partnerships | SP</a><br>Contact details: <br><a href="mailto:Lam_Kok_Seng@sp.edu.sg">Lam_Kok_Seng@sp.edu.sg</a></td>
         </tr>
+
+        <tr>
+          <td>Construction</td>
+          <td>-</td>
+          <td>Please email <a href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a> to request for the latest list of whitelisted third-party qualified assessors for construction sector.</td>
+        </tr>
         </table>
-
-        <u>For Construction Companies</u><br>
-        Please email <a title="" href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a> to request for the latest list of whitelisted third-party qualified assessors for construction sector.
-
-    - title: What is the duration of the EEG (Advanced)?
-      content: |
-        The grant application window for the EEG (Advanced) is from 1 April 2024 to 31 Mar 2026.
-        
-        Companies will have up to 1 year from the time an application is approved to purchase and install<sup>7</sup> the equipment, and submit claims for reimbursement. Once an application has been submitted, companies may choose to proceed to purchase the equipment before the application outcome. However, companies will not be able to claim subsequently if the application is unsuccessful.
-
-        <sup>5</sup> Only the actual purchase of the equipment is supportable. This excludes other related administrative fees/charges, e.g. delivery fees, installation.
-
-    - title: How to apply for the EEG (Advanced)?
-      content: |
-        <u>For Construction Companies</u><br>
-        Applications will be submitted through <a title="" href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a>.<br>
-        Companies will have to:<br>
-        i. Email <a title="" href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a>to verify company's eligibility and request for application documents.<br>
-        ii. Obtain quotations from the vendor.<br>
-        iii. Submit application and accompanying documents to <a title="" href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a>
-
-        <u>For Manufacturing Companies</u><br>
-        Applications will be submitted through <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a>.<br>
-        Companies will have to:<br>
-        i.	Email <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a> to verify company's eligibility and request for application documents.<br>
-        ii.	Obtain quotations from the vendor.<br>
-        iii.	Submit application and accompanying documents to <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a><br>
-
-        <u>For Maritime Companies</u><br>
-        Applications will be submitted through <a title="" href="mailto:MPA_EEG@mpa.gov.sg" target="_blank" rel="noopener">MPA_EEG@mpa.gov.sg</a>.<br>
-        Companies will have to:<br>
-        i.	Email <a title="" href="mailto:MPA_EEG@mpa.gov.sg" target="_blank" rel="noopener">MPA_EEG@mpa.gov.sg</a> to verify company's eligibility and request for application documents.<br>
-        ii.	Obtain quotations from the vendor.<br>
-        iii.	Submit application and accompanying documents to <a title="" href="mailto:MPA_EEG@mpa.gov.sg" target="_blank" rel="noopener">MPA_EEG@mpa.gov.sg</a><br>
-
-    - title: How to claim for the EEG (Advanced)? 
-      content: |
-        <u>For Construction Companies</u><br>
-        Claims will be submitted through <a title="" href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a><br>
-
-        <u>For Manufacturing (including Food Manufacturing) Companies</u><br>
-        Claims will be submitted through <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a><br>
-
-        <u>For Maritime Companies</u><br>
-        Claims will be submitted through <a title="" href="mailto:MPA_EEG_admin@mpa.gov.sg" target="_blank" rel="noopener">MPA_EEG_admin@mpa.gov.sg</a><br>
-
-        To claim for the EEG (Advanced), companies will have to ensure:<br>
-        - Claimant has purchased the equipment as approved in the application; and
-        - Claimant has deployed and installed the equipment; and
-        - Claimant has paid for the equipment in full; and
-        - Claimant has submitted all claim documentation including:
-          - Invoice
-          - Payment supporting documents. The documents should indicate important information required such as grant applicant name, payee name, payment date, payment amount and approval status of transaction. Acceptable documents are bank statement, cheque and bank transfer image.
-          - Delivery order
-          - Pictures
-            - Equipment being installed and used on site. Pictures should be clear to show the equipment and location where it is being used (e.g. restaurant, supermarket, industrial facility)..
-            - Serial number of equipment (if applicable)
-
-        Disbursements can only be made after the claims have been approved.
-
-    - title: Can I deploy equipment to a residential address?
-      content: |
-        Businesses operating from residential addresses or Home-based Businesses (HBBs) are not eligible for EEG (Advanced) equipment.
-
-    - title: How long must the purchased equipment be held for?
-      content: |
-        For EEG (Advanced) equipment supported, the holding period is one year from the date of approval of the final claim.
-
-    - title: What happens when the grant cap is fully utilised?
-      content: |
-        Companies that have fully utilised their grant cap will not be eligible for further support within the validity period of the grant cap. Companies are encouraged to plan the use of the EEG (Base) and EEG (Advanced) for their purchases.
-
-    - title: How many EEG (Advanced) grants can a company apply for?
-      content: |
-        Companies can put in more than one EEG (Advanced) application depending on business needs. However, each company will be subject to a $350,000 grant cap across all their EEG (Base) and EEG (Advanced) applications. 
-
-    - title: Can I apply for the EEG (Advanced) after applying for EEG (Base)?
-      content: |
-        Yes. However, any grant support from the company's previous EEG (Base) and EEG (Advanced) applications will be subtracted from the total $350,000 grant cap stipulated for each company.
-
-    - title: Does the EEG (Advanced) cover the cost to hire a third-party qualified assessor?
-      content: |
-        No. The EEG (Advanced) only covers the purchase of the energy efficient equipment and any costs that are necessary to bring the equipment/system to a functioning state. Any other installation, assessment and administrative costs must be borne by the applicant company.
-
-    
 
 - accordion:
   letter: d
   data:
-    - title: What is the Energy Efficiency Grant?
+    - title: How can companies apply for the EEG (Base) and EEG (Advanced)?
       content: |
-        The Energy Efficiency Grant helps businesses transition towards being more energy efficient by co-funding investments in energy-efficient equipment. As announced at Budget 2024, the EEG will be expanded to more sectors from 1 April 2024. With the expanded EEG, information regarding EEG applications will be streamlined under one shopfront on GoBusiness, so that it is easier for businesses to access support for energy efficiency.
+        <p><strong><u>EEG (Base) Application</u></strong><br>Companies will have to:</p>
+        <ol>
+        <li>Visit <a href="/energy-efficiency-grant/" target="_blank" rel="noopener">GoBusiness</a> to view the list of supportable equipment and identify relevant equipment that they may want to procure.</li>
+        <li>Obtain quotations from the vendor.</li>
+        <li>Avoid signing any contract or making any payment before submitting the EEG application.</li>
+        <li>Submit an application on the <a href="http://www.businessgrants.gov.sg/" target="_blank" rel="noopener">Business Grants Portal (BGP)</a>.</li>
+        <li>CorpPass account is needed for BGP transactions.</li>
+        </ol>
+        <p><strong><u>Which agencies will process my EEG (Base) application?</u></strong></p>
+        <ul>
+        <li><strong>Construction</strong> companies: Building and Construction Agency (BCA)</li>
+        <li><strong>Manufacturing (including Food Manufacturing)</strong> companies: National Environment Agency (NEA)</li>
+        <li><strong>Maritime </strong>companies: Maritime and Port Authority of Singapore (MPA)</li>
+        <li><strong>Food Services and Retail</strong> companies: Enterprise Singapore (EnterpriseSG)
+        <ul>
+        <li>Food Services and Retail companies are required to submit their application together with a valid tenancy agreement that is current, indicating that they have started operations at the mentioned location. This is to ensure that the solution is deployed to a location that the company is operating from.</li>
+        </ul>
+        </li>
+        <li><strong>Data centre users</strong>: Infocomm Media Development Authority (IMDA)</li>
+        </ul>
+        <p>When submitting an application, companies should select their sector based on their primary SSIC as a default. <em>[Exception: If the energy efficiency equipment is only supportable in the sector that corresponds to their secondary SSIC, companies may then select their sector based on their secondary SSIC.]</em></p>
+        <p><strong><u>EEG (Advanced) Application</u></strong><br>Companies will have to:
+        <ol>
+        <li>Obtain quotations from the vendor.</li>
+        <li>Email the respective agencies listed below to verify the company&rsquo;s eligibility and request for application documents.</li>
+        <li>Avoid signing any contract or making any payment before submitting the EEG application.</li>
+        <li>Submit application and accompanying documents to the respective agencies.</li>
+        </ol>
+        <ul>
+        <li>Construction companies: <a href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a>&nbsp;</li>
+        <li>Manufacturing companies: <a href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a></li>
+        <li>Maritime companies: <a href="mailto:MPA_EEG_@mpa.gov.sg" target="_blank" rel="noopener">MPA_EEG_@mpa.gov.sg&nbsp;</a></li>
+        </ul>
+        </p>
 
     - title: Which sectors are covered by the EEG?
       content: |
         As of 30 December 2024, eligible companies<sup>1</sup> in Construction, Food Services, Manufacturing (including Food Manufacturing), Maritime, Retail sectors and users of data centres will be able to tap on the EEG.
 
-        <sup>1</sup> <small>Based on company's ACRA registered primary or secondary SSIC code.</small>
+    - title: Which sectors are covered by the EEG?
+      content: |
+        As of 30 December 2024, eligible companies<sup>1</sup> in Construction, Food Services, Manufacturing (including Food Manufacturing), Maritime, Retail sectors and users of data centres will be able to tap on the EEG.
+
+    - title: Which sectors are covered by the EEG?
+      content: |
+        As of 30 December 2024, eligible companies<sup>1</sup> in Construction, Food Services, Manufacturing (including Food Manufacturing), Maritime, Retail sectors and users of data centres will be able to tap on the EEG.
+
+    - title: Which sectors are covered by the EEG?
+      content: |
+        As of 30 December 2024, eligible companies<sup>1</sup> in Construction, Food Services, Manufacturing (including Food Manufacturing), Maritime, Retail sectors and users of data centres will be able to tap on the EEG.
+
+    - title: Which sectors are covered by the EEG?
+      content: |
+        As of 30 December 2024, eligible companies<sup>1</sup> in Construction, Food Services, Manufacturing (including Food Manufacturing), Maritime, Retail sectors and users of data centres will be able to tap on the EEG.
+
+    - title: Which sectors are covered by the EEG?
+      content: |
+        As of 30 December 2024, eligible companies<sup>1</sup> in Construction, Food Services, Manufacturing (including Food Manufacturing), Maritime, Retail sectors and users of data centres will be able to tap on the EEG.
+
+    - title: Which sectors are covered by the EEG?
+      content: |
+        As of 30 December 2024, eligible companies<sup>1</sup> in Construction, Food Services, Manufacturing (including Food Manufacturing), Maritime, Retail sectors and users of data centres will be able to tap on the EEG.
+
+    - title: Which sectors are covered by the EEG?
+      content: |
+        As of 30 December 2024, eligible companies<sup>1</sup> in Construction, Food Services, Manufacturing (including Food Manufacturing), Maritime, Retail sectors and users of data centres will be able to tap on the EEG.
 
 - accordion:
   letter: e
