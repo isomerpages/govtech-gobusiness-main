@@ -112,7 +112,7 @@
       content: |
         <p>Companies can submit equipment models under selected categories to be considered for support.</p>
         <p>For Clothes Dryer, Commercial Refrigerator, Cooking Hob and Water Heater, please submit via the <a href="https://form.gov.sg/65dd54803c61c0ff3ca5ae54" target="_blank" rel="noopener">Request for Information (RFI)</a><a href="https://form.gov.sg/65dd54803c61c0ff3ca5ae54" target="_blank" rel="noopener"> </a>form.</p>
-        <p>For Boiler System, Compressed Air System and non-MELS regulated LED Lighting, please submit via the <a href="https://form.gov.sg/668f9429c6fc442e8781efd6" target="_blank" rel="noopener">RFI on Equipment under the Manufacturing sector&nbsp;form</a>.</p>
+        <p>For Boiler System, Compressed Air System and non-MELS regulated LED Lighting, please submit via the <a href="https://form.gov.sg/668f9429c6fc442e8781efd6" target="_blank" rel="noopener">RFI on Equipment under the Manufacturing sector form</a>.</p>
         <p>Please note that all equipment submissions must meet the respective technical requirements to be eligible for support.</p>
 
     - title: What costs are supported under the EEG?
@@ -216,69 +216,137 @@
         <li>Submit application and accompanying documents to the respective agencies.</li>
         </ol>
         <ul>
-        <li>Construction companies: <a href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a>&nbsp;</li>
+        <li>Construction companies: <a href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a></li>
         <li>Manufacturing companies: <a href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a></li>
-        <li>Maritime companies: <a href="mailto:MPA_EEG_@mpa.gov.sg" target="_blank" rel="noopener">MPA_EEG_@mpa.gov.sg&nbsp;</a></li>
+        <li>Maritime companies: <a href="mailto:MPA_EEG_@mpa.gov.sg" target="_blank" rel="noopener">MPA_EEG_@mpa.gov.sg</a></li>
         </ul>
         </p>
 
-    - title: Which sectors are covered by the EEG?
+    - title: What is the grant cap and how many EEG grants can a company apply for?
       content: |
-        As of 30 December 2024, eligible companies<sup>1</sup> in Construction, Food Services, Manufacturing (including Food Manufacturing), Maritime, Retail sectors and users of data centres will be able to tap on the EEG.
+        Each company is subjected to a grant cap of S$30,000 for EEG equipment supported under the EEG (Base), starting on 1 April 2024 and ending on 31 March 2026.
 
-    - title: Which sectors are covered by the EEG?
-      content: |
-        As of 30 December 2024, eligible companies<sup>1</sup> in Construction, Food Services, Manufacturing (including Food Manufacturing), Maritime, Retail sectors and users of data centres will be able to tap on the EEG.
+        Companies can put in more than one EEG (Base) application depending on business needs. Concurrent EEG (Base) applications are also possible. Please note that companies with multiple EEG applications are still subject to the grant cap of S$30,000 starting on 1 April 2024 and ending on 31 March 2026.
 
-    - title: Which sectors are covered by the EEG?
-      content: |
-        As of 30 December 2024, eligible companies<sup>1</sup> in Construction, Food Services, Manufacturing (including Food Manufacturing), Maritime, Retail sectors and users of data centres will be able to tap on the EEG.
+        Companies can also apply for the EEG (Advanced) after applying for EEG (Base), and put in more than one EEG (Advanced) application depending on business needs. However, each company is subjected to a total S$350,000 grant cap across all their EEG (Base) and EEG (Advanced) applications.
 
-    - title: Which sectors are covered by the EEG?
+    - title: What happens when the grant cap is fully utilised?
       content: |
-        As of 30 December 2024, eligible companies<sup>1</sup> in Construction, Food Services, Manufacturing (including Food Manufacturing), Maritime, Retail sectors and users of data centres will be able to tap on the EEG.
+        Companies that have fully utilised their grant cap will not be eligible for further support within the validity period of the grant cap. Companies are encouraged to plan the use of the EEG (Base) and EEG (Advanced) for their purchases.
 
-    - title: Which sectors are covered by the EEG?
+    - title: (For EEG (Base) only) What is the processing time for applications?
       content: |
-        As of 30 December 2024, eligible companies<sup>1</sup> in Construction, Food Services, Manufacturing (including Food Manufacturing), Maritime, Retail sectors and users of data centres will be able to tap on the EEG.
+        Each complete application usually takes 6 weeks to process.
 
-    - title: Which sectors are covered by the EEG?
-      content: |
-        As of 30 December 2024, eligible companies<sup>1</sup> in Construction, Food Services, Manufacturing (including Food Manufacturing), Maritime, Retail sectors and users of data centres will be able to tap on the EEG.
+        Companies can log in to [BGP](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"} and view the status of the grant application under the “My Grants” section, and agencies may contact you via the BGP for clarifications.
 
-    - title: Which sectors are covered by the EEG?
-      content: |
-        As of 30 December 2024, eligible companies<sup>1</sup> in Construction, Food Services, Manufacturing (including Food Manufacturing), Maritime, Retail sectors and users of data centres will be able to tap on the EEG.
+        Companies are strongly encouraged to submit their applications ahead of time to account for the application outcome and/or processing duration required.
 
-    - title: Which sectors are covered by the EEG?
+        Once an application has been submitted, companies may choose to proceed with the project and purchase the equipment before the application outcome. However, you will not be able to claim subsequently if the application is unsuccessful.
+
+    - title: (For EEG (Base) only) What if I made a mistake in my grant application that was discovered after my application is approved (e.g. uploaded wrong/in
       content: |
-        As of 30 December 2024, eligible companies<sup>1</sup> in Construction, Food Services, Manufacturing (including Food Manufacturing), Maritime, Retail sectors and users of data centres will be able to tap on the EEG.
+        Please terminate the application and resubmit a new one before proceeding with the project and making payment to the vendor. Otherwise, your claims may be rejected subsequently.
+
+    - title: (For EEG (Base) only) Can I change my vendor after the application is approved?
+      content: |
+        No changes to vendor/solution package are allowed after application is approved. Please terminate the application and resubmit a new one before proceeding with the project and making payment to the new vendor. Otherwise, your claims may be rejected subsequently.
+
+    - title: (For EEG (Base) only) Who should the “Main Contact” and “Alternate Contact” be?
+      content: |
+        Grant-related email reminders will be sent to the email addresses listed under the "Contact Details" of the "Main Contact" and "Alternate Contact". Hence, these should be individuals within the claimant entity who will be able to oversee the project from start to finish (e.g. end of qualifying period or holding period as per definition in the Letter of Offer, whichever is later). The phone number(s) of the "Main Contact" should also be valid for the duration of the project.
+
+    - title: (For EEG (Base) only) When can a company commence with the project?
+      content: |
+        Companies can commence with the project after submitting the application via BGP. Project commencement and completion dates must be in accordance with the project qualifying period stipulated in the BGP.
+
+    - title: (For EEG (Base) only) My company is exempted from having our accounts audited. What documents should we upload under the BGP's Company Profile?
+      content: |
+        You may choose to upload unaudited financial statements or management accounts, if audited statements are unavailable.
+
+        If the company is newly registered and a full year's financial statements are not available, you may provide unaudited financial statements or management accounts for the year-to-date.
 
 - accordion:
   letter: e
   data:
-    - title: What is the Energy Efficiency Grant?
+    - title: Can a company switch to another vendor or make application revisions?
       content: |
-        The Energy Efficiency Grant helps businesses transition towards being more energy efficient by co-funding investments in energy-efficient equipment. As announced at Budget 2024, the EEG will be expanded to more sectors from 1 April 2024. With the expanded EEG, information regarding EEG applications will be streamlined under one shopfront on GoBusiness, so that it is easier for businesses to access support for energy efficiency.
-
-    - title: Which sectors are covered by the EEG?
-      content: |
-        As of 30 December 2024, eligible companies<sup>1</sup> in Construction, Food Services, Manufacturing (including Food Manufacturing), Maritime, Retail sectors and users of data centres will be able to tap on the EEG.
-
-        <sup>1</sup> <small>Based on company's ACRA registered primary or secondary SSIC code.</small>
+        <p>For <strong>EEG (Base)</strong>, you may withdraw your application on <a href="http://www.businessgrants.gov.sg/" target="_blank" rel="noopener">BGP</a> and submit a new one.</p>
+        <p>For <strong>EEG (Advanced)</strong>, you may reach out to the respective agencies to submit your change requests:
+        <ul>
+        <li><strong>Construction</strong> companies: <a href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a></li>
+        <li><strong>Manufacturing (including Food Manufacturing)</strong> companies: <a href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a></li>
+        <li><strong>Maritime</strong> companies: <a href="mailto:MPA_EEG@mpa.gov.sg" target="_blank" rel="noopener">MPA_EEG@mpa.gov.sg</a></li>
+        </ul>
+        </p>
+        <p>Please ensure that you have not made payment to the new vendor prior to submitting a change request.</p>
 
 - accordion:
   letter: f
   data:
-    - title: What is the Energy Efficiency Grant?
+    - title: How to claim for the EEG (Base) and EEG (Advanced)?
       content: |
-        The Energy Efficiency Grant helps businesses transition towards being more energy efficient by co-funding investments in energy-efficient equipment. As announced at Budget 2024, the EEG will be expanded to more sectors from 1 April 2024. With the expanded EEG, information regarding EEG applications will be streamlined under one shopfront on GoBusiness, so that it is easier for businesses to access support for energy efficiency.
+        <p>For <strong>EEG (Base)</strong>, claims will be submitted through the <a href="http://www.businessgrants.gov.sg/" target="_blank" rel="noopener">BGP</a>.</p>
+        <p>For <strong>EEG (Advanced)</strong>, claims should be submitted through the respective agencies:</p>
+        <ul>
+        <li><strong>Construction</strong> companies: <a href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a></li>
+        <li><strong>Manufacturing (including Food Manufacturing)</strong> companies: <a href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a></li>
+        <li><strong>Maritime</strong> companies: <a href="mailto:MPA_EEG@mpa.gov.sg" target="_blank" rel="noopener">MPA_EEG@mpa.gov.sg</a></li>
+        </ul>
+        <p>For both <strong>EEG (Base)</strong> and <strong>EEG (Advanced)</strong>, companies will have to ensure:
+        <ul>
+        <li>Claimant has purchased the equipment as approved in the application; and</li>
+        <li>Claimant has deployed and installed the equipment; and</li>
+        <li>Claimant has paid for the equipment in full; and</li>
+        <li>Claimant has submitted all claim documentation including:
+        <ul>
+        <li>Invoice (including information such as the equipment model as approved in the application).</li>
+        <li>Payment supporting documents. The documents should indicate important information required such as grant applicant name, payee name, payment date, payment amount and approval status of transaction. Acceptable documents are bank statement, cheque, and bank transfer image.</li>
+        <li>Delivery order (including information such as the equipment model as approved in the application).</li>
+        <li>Pictures:
+        <ul>
+        <li>Equipment being installed and used on site. Pictures should be clear to show the equipment and location where it is being used (e.g. restaurant, supermarket).</li>
+        <li>Serial number of equipment (if applicable).</li>
+        </ul>
+        </li>
+        </ul>
+        </li>
+        </ul>
+        </p>
+        <p>Disbursements can only be made after the claims have been approved.</p>
 
-    - title: Which sectors are covered by the EEG?
+    - title: (For EEG (Base) only) What is the claim due date? 
       content: |
-        As of 30 December 2024, eligible companies<sup>1</sup> in Construction, Food Services, Manufacturing (including Food Manufacturing), Maritime, Retail sectors and users of data centres will be able to tap on the EEG.
+        The claim due date is the last date for EEG claim submissions in the BGP. After the date has lapsed, you will not be able to submit a claim in the system. If you require more time to submit a claim in BGP, please extend the claim due date <strong>before</strong> the claim due date lapses.
 
-        <sup>1</sup> <small>Based on company's ACRA registered primary or secondary SSIC code.</small>
+    - title: (For EEG (Base) only) How can I extend the claim due date? 
+      content: |
+        <p>You may submit a one-time claim extension before the due date expires. Please note that <strong>only one extension is allowed</strong>, beyond which your grant will automatically expire.
+        <ol>
+        <li>Login to the <a href="http://www.businessgrants.gov.sg/" target="_blank" rel="noopener">BGP</a>.</li>
+        <li>Navigate to "My Grants" and select the "Applications" tab to view all your applications</li>
+        <li>Select the "Completed" tab.</li>
+        <li>Look for your Ref ID and <u><strong>click on your project title</strong></u>.</li>
+        <li>Click on the "Extend Due Date" button.</li>
+        <li>Answer the question in the pop-up screen &ndash; "Have you committed to the purchase, lease, or subscription of this solution?"</li>
+        <li>If your submission is successful, the claim due date should be automatically extended in BGP.</li>
+        <li>Please check for the new due date in BGP minimally 2 days after step 7:</li>
+          <ul>
+          <li>Navigate to "My Grants" and select the "Claims" tab.</li>
+          <li>Select "File New Claim". The "Claim Due date" should be reflected in the right-most column for the relevant Ref ID/Project Title.</li>
+          </ul>
+        </ol>
+        </p>
+        <p>Please extend the due date early if required, and allow for ample time prior to the expiry date. This is to mitigate any potential delays that may occur when accessing or navigating the system. Once the due date has passed, you will not be able to extend the due date in BGP.</p>
+        <p>To view the newly extended due date, please check the notification email sent to the email address provided in BGP at the application stage.</p>
+
+    - title: (For EEG (Base) only) What happens if I miss the claim due date? 
+      content: |
+        If you miss the claim due date, you will not be able to submit a claim in BGP as the option for claim submission would have lapsed.
+
+    - title: What happens if there is a change in my eligibility criteria at claims stage (e.g. change in 30% local equity)? 
+      content: |
+        The company is required to meet the eligibility criteria to be eligible for EEG support. If the company no longer meets the eligibility criteria after application is approved, the project claim will not be supported.
 
 - accordion:
   letter: g
