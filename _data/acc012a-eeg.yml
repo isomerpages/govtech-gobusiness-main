@@ -407,7 +407,7 @@
   data:
     - title: How do I cancel/terminate my EEG application?
       content: |
-        <strong><u>For EEG (Base)</u></strong>
+        <strong><u>For EEG (Base)</u></strong><br>
         You may cancel or terminate your application in BGP if you no longer wish to continue with the project:
         <ol>
         <li>Login to the <a href="http://www.businessgrants.gov.sg/" target="_blank" rel="noopener">BGP</a>.</li>
@@ -417,7 +417,8 @@
         <li>Scroll down to the section "Application Form", you will see an option to "Terminate Grant" (in red) under the button "Proceed".</li>
         <li>Click on "Terminate Grant" and follow the instructions.</li>
         </ol>
-        <strong><u>For EEG (Advanced)</u></strong><br>You may reach out to the respective agencies if you no longer wish to continue with the project:
+        <strong><u>For EEG (Advanced)</u></strong><br>
+        You may reach out to the respective agencies if you no longer wish to continue with the project:
         <ul>
         <li><strong>Construction</strong> companies: <a href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a></li>
         <li><strong>Manufacturing (including Food Manufacturing)</strong> companies: <a href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a></li>
