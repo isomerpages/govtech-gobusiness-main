@@ -431,16 +431,16 @@
   data:
     - title: Where can I find more information on the EEG (Base)?
       content: |
-        Please visit the [EEG webpage](/energy-efficiency-grant/?src=home_quicklinks) on GoBusiness for more information.
-        
-        You may reach out to the following agencies for sector specific queries:
+        <p>Please visit the [EEG webpage](/energy-efficiency-grant/?src=home_quicklinks) for more information about the scheme.
+        You may also reach out to the following agencies for sector-specific queries:
         <ul>
-        <li><b>Food Services</b> and <b>Retail</b> companies: Visit [Enterprise Singapore](https://go.gov.sg/askenterprisesg){:target="_blank"}{:rel="noopener"}</li>
-        <li><b>Manufacturing</b> companies: Visit [NEA's webpage](https://www.nea.gov.sg/programmes-grants/grants-and-awards/energy-efficiency-grant){:target="_blank"}{:rel="noopener"} or contact [NEA_EEG@nea.gov.sg](mailto:NEA_EEG@nea.gov.sg){:target="_blank"}{:rel="noopener"}</li>
-        <li><b>Construction</b> companies: Contact BCA at [BCA_EEG_admin@bca.gov.sg](mailto:BCA_EEG_admin@bca.gov.sg){:target="_blank"}{:rel="noopener"}</li>
-        <li><b>Maritime</b> companies: Contact MPA at [MPA_EEG@mpa.gov.sg](mailto:MPA_EEG@mpa.gov.sg){:target="_blank"}{:rel="noopener"}</li>
-        <li><b>Data Centres users</b>: Contact IMDA at [IT_Energy_Efficiency@imda.gov.sg](mailto:IT_Energy_Efficiency@imda.gov.sg){:target="_blank"}{:rel="noopener"}</li>
+        <li><strong>Food Services</strong> and <strong>Retail</strong> companies: Visit <a href="https://go.gov.sg/askenterprisesg" target="_blank" rel="noopener">EnterpriseSG's webpage</a></li>
+        <li><strong>Manufacturing</strong> companies: Visit <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/energy-efficiency-grant" target="_blank" rel="noopener">NEA's webpage</a> or contact <a href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a></li>
+        <li><strong>Construction</strong> companies: Contact BCA at <a href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a></li>
+        <li><strong>Maritime</strong> companies: Contact MPA at <a href="mailto:MPA_EEG@mpa.gov.sg" target="_blank" rel="noopener">MPA_EEG@mpa.gov.sg</a></li>
+        <li><strong>Data Centres users</strong>: Contact IMDA at <a href="mailto:IT_Energy_Efficiency@imda.gov.sg" target="_blank" rel="noopener">IT_Energy_Efficiency@imda.gov.sg</a></li>
         </ul>
+        </p>
 
     - title: Who can I contact for CorpPass assistance?
       content: |
