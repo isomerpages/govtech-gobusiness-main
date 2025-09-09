@@ -406,14 +406,16 @@
 
     - title: Who can I contact for CorpPass assistance?
       content: |
-        Email: [support@corppass.gov.sg](mailto:support@corppass.gov.sg){:target="_blank"}{:rel="noopener"}<br>
-        Telephone: [+65 6643 0577](tel:+6566430577)
-
-        The operating hours are from 8:00 am to 8:00 pm (Mondays to Fridays) and from 8:00 am to 2:00 pm (Saturdays).
+        <ul>
+        <li>Email: <a href="mailto:support@corppass.gov.sg" target="_blank" rel="noopener">support@corppass.gov.sg</a></li>
+        <li>Phone: <a href="tel:+6566430577" target="_blank" rel="noopener">+65 6643 0577</a></li>
+        <li>Operating Hours: 8:00 am to 8:00 pm (Mon-Fri), 8:00 am to 2:00 pm (Sat)</li>
+        </ul>
 
     - title: Who can I contact for Business Grants Portal assistance?
       content: |
-        Enquiry Form: [go.gov.sg/bgphelpdesk](https://go.gov.sg/bgphelpdesk){:target="_blank"}{:rel="noopener"}<br>
-        Telephone: [+65 6708 7288](tel:+6567087288)
-
-        The operating hours are from 8:30 am to 5:30 pm (Mondays to Fridays).
+        <ul>
+        <li>Enquiry Form: <a href="https://form.gov.sg/6837ca37b1d14f8a7185372b" target="_blank" rel="noopener">go.gov.sg/bgphelpdesk</a></li>
+        <li>Phone: <a href="tel:+6567087288" target="_blank" rel="noopener">+65 6708 7288</a></li>
+        <li>Operating Hours: 8:30 am to 5:30 pm (Mon-Fri)</li>
+        </ul>
