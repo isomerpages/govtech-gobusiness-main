@@ -2547,7 +2547,8 @@
         (c) obtaining and giving information as to the cause and origin of or responsibility for any fire, libel, loss or accident or any damage to real or personal property;
         (d) obtaining and giving information as to the location or recovery of lost or stolen property; or (e) Obtaining evidence to be used...
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/private-investigator" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Private-Investigator-Licence">View Licence Details</a>
+        <a class="primary-btn" id = "desktopNotice" href="https://dashboard.gobusiness.gov.sg/task-details/private-investigator" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Private-Investigator-Licence" style="margin-left: 1em;">View Licence Details</a>
+        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Private-Investigator-Licence">View Licence Details</a>
 
         -----
         **Public Entertainment Licence**
