@@ -45,8 +45,8 @@ third_nav_title: Licences
 </tr>
 <tr>
 <td><p id="status-border" class="orange">Due for Renewal</p></td>
-<td>Licence is due for renewal.
-<br>Note: Renewed licences may show as Due for Renewal after approval. Find your renewed licences under Active Licences. Contact agency for queries.</td>
+<td><p>Licence is due for renewal.</p>
+<p>Note: Renewed licences may show as Due for Renewal after approval. Find your renewed licences under Active Licences. Contact agency for queries.</p></td>
 </tr>
 </table>
 
