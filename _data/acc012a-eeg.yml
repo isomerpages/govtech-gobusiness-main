@@ -390,7 +390,7 @@
 - accordion:
   letter: i
   data:
-    - title: Where can I find more information on the EEG (Base)?
+    - title: For EEG (Base)-related queries
       content: |
         Please visit the [EEG webpage](/energy-efficiency-grant/?src=home_quicklinks) for more information about the scheme.
         You may also reach out to the following agencies for sector-specific queries:
@@ -404,7 +404,7 @@
         </ul>
         </p>
 
-    - title: Who can I contact for CorpPass assistance?
+    - title: CorpPass Helpdesk
       content: |
         <ul>
         <li>Email: <a href="mailto:support@corppass.gov.sg" target="_blank" rel="noopener">support@corppass.gov.sg</a></li>
@@ -412,7 +412,7 @@
         <li>Operating Hours: 8:00 am to 8:00 pm (Mon-Fri), 8:00 am to 2:00 pm (Sat)</li>
         </ul>
 
-    - title: Who can I contact for Business Grants Portal assistance?
+    - title: Business Grant Portal Helpdesk
       content: |
         <ul>
         <li>Enquiry Form: <a href="https://form.gov.sg/6837ca37b1d14f8a7185372b" target="_blank" rel="noopener">go.gov.sg/bgphelpdesk</a></li>
