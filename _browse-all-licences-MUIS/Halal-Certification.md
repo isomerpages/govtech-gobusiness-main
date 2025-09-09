@@ -21,7 +21,7 @@ Majlis Ugama Islam Singapura (Muis)
     <li>
         <strong>What are the requirements of Halal application process?</strong>
         <br>i. Halal Requirements - All raw materials used must be Halal and substantiated with supporting documents;
-        <br>ii. Staffing Requirements - There must be a minimum of 2 or 3 Muslim staff employed in each premises applied for Halal certification;
+        <br>ii. Staffing Requirements - There must be a minimum of 2 or 3 Muslim staff employed in each premises applied for Halal certification; refer to <a href="http://www.muis.gov.sg/halal/for-business/halal-competency-assessment/" target="_blank" rel="noopener">MUIS website</a> for halal team competency requirement;
         <br>iii. System Requirements - The applicant must comply with the 10 principles of the Singapore Muis Halal Quality Management System.
     </li>
     <li>
