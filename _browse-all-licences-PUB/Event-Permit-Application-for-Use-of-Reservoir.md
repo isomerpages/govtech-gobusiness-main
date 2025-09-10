@@ -57,7 +57,7 @@ The completed Event Permit Application form and required supporting documents mu
             <li>Map to include the exact event location and plying route for other vessels</li>
             <li>Deployment of safety boats and/or boats used to cordon the area</li>
             <li>Schedule of works</li>
-            <li>>Method of traffic signalling used (Loudhailer, coloured flags etc.)</li>
+            <li>Method of traffic signalling used (Loudhailer, coloured flags etc.)</li>
         </ul>
     </li>
     <li>
@@ -74,7 +74,7 @@ The completed Event Permit Application form and required supporting documents mu
             <li>Lorry’s valid insurance</li>
             <li>Valid copies of certificates – lifting machine, lifting gear, lifting appliance</li>
             <li>Valid certificates of appointed lifting supervising, appointed rigger, appointed signal man, lorry crane operator</li>
-            <li>>Method statement and Risk assessment for lifting works</li>
+            <li>Method statement and Risk assessment for lifting works</li>
         </ul>
     </li>
     <li>
