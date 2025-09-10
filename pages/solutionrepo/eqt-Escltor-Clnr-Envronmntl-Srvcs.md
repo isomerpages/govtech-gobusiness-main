@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Escltor-Clnr-Envronmnt
 
 **Description**
 
-A system that is used is for cleaning (e.g. vacuuming, brushing) to remove dirt from grooves of escalator/travellator.
+A system that is used for cleaning (e.g. vacuuming, brushing) to remove dirt from grooves of escalator/travellator.
 
 There is an equipment cap. Please refer to BGP for details.
 
