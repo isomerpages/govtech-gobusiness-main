@@ -9,7 +9,9 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Tlscopc-systm-for-hgh-
 
 **Description**
 
-Extendable rods that can reach at least 2m to do cleaning of walls, ledges, piping, etc. and equipped with camera system to check for cleanliness. It can also include a water system generator and pump.
+A vertical system that is used for cleaning of surfaces (e.g. walls, ledges, piping, etc.), using extendable rods/poles. The system must include the extendable rod/poles that can reach at least 2m and is integrated with at least one of the following: 
+(i) a camera/monitor to check cleaning progress,
+(ii) a water system that channels the water for cleaning.
 
 There is an equipment cap. Please refer to BGP for details.
 

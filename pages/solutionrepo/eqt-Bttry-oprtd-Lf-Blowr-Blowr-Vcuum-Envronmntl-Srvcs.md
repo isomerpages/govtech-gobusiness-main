@@ -9,8 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Bttry-oprtd-Lf-Blowr-B
 
 **Description**
 
-Battery operated device that generates air stream, primarily used for clearing items such as leaves, debris, and grass clippings from common spaces. It can include vacuum function.
-(Only applicable for licensed cleaning / waste / pest management companies)
+Battery operated device that generates air stream, primarily used for clearing items such as leaves, debris, and grass clippings from common spaces. It can include vacuum function. (Only licensed cleaning / waste / pest management companies can apply)
 
 There is an equipment cap. Please refer to BGP for details.
 

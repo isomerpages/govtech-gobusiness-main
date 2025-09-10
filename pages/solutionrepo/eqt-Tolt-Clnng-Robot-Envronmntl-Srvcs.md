@@ -1,18 +1,18 @@
 ---
-title: 'Battery operated waste collection equipment'
-permalink: /productivity-solutions-grant/solutionrepo/eqt-Bttry-oprtd-wst-collcton-qt-Envronmntl-Srvcs
+title: 'Toilet Cleaning Robot'
+permalink: /productivity-solutions-grant/solutionrepo/eqt-Tolt-Clnng-Robot-Envronmntl-Srvcs
 ---
 
-## Battery operated waste collection equipment
+## Toilet Cleaning Robot
 
 ## Overview
 
 **Description**
 
-A battery-operated vehicular waste collection system (e.g. cart, platform truck), used for waste collection and transportation. It must have at least one of the following: 
-(i) able to transport bins of at least 660L, 
-(ii) a towing capacity of at least 300kg, 
-(iii) a load capacity of at least 100kg.
+A robotic cleaning system for toilets that must meet all of the following:
+(i) Performs cleaning of toilet bowl(s) and/or urinal(s) with minimal or no human intervention, 
+(ii) Include at least one of these cleaning methods: brushing/scrubbing, steam cleaning, water jetting, 
+(iii) Capable of moving between toilet fixtures, either autonomously or manually guided.
 
 There is an equipment cap. Please refer to BGP for details.
 
@@ -25,7 +25,7 @@ There is an equipment cap. Please refer to BGP for details.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Battery operated waste collection equipment</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Toilet Cleaning Robot</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'>N.A</td>
 </tr>

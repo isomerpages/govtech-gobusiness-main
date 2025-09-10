@@ -1,15 +1,17 @@
 ---
-title: 'Intelligent Rat Trap'
-permalink: /productivity-solutions-grant/solutionrepo/eqt-Intllgnt-Rt-Trp-Envronmntl-Srvcs
+title: 'Rodent Monitoring System'
+permalink: /productivity-solutions-grant/solutionrepo/eqt-Rodnt-Montorng-sys-Envronmntl-Srvcs
 ---
 
-## Intelligent Rat Trap
+## Rodent Monitoring System
 
 ## Overview
 
 **Description**
 
-A device to sense, detect and/or trap/kill rats. It can include alerting and notification functions.
+A system consisting of camera(s) and/or sensor(s) that detects, provides information (e.g. data/footage) and updates on rodent activities. The supportable components may comprise one or all of the following:
+(i) Camera, and/or motion/infrared/thermal sensor-based that detects, provides information and updates of rodent activities,
+(ii) Sensor-integrated trap(s) that provide alerts/updates.
 
 There is an equipment cap. Please refer to BGP for details.
 
@@ -22,7 +24,7 @@ There is an equipment cap. Please refer to BGP for details.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Intelligent Rat Trap</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Rodent Monitoring System</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'>N.A</td>
 </tr>
