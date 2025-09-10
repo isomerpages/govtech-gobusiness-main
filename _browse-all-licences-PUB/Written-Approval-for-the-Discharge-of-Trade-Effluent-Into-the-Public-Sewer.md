@@ -20,7 +20,7 @@ Public Utilities Board (PUB)
         <strong>Do I need to apply for this licence?</strong>
         <br>You need a Written Approval from the Public Utilities Board before you can discharge trade effluent into the public sewer.
         <br>As defined under the Sewerage and Drainage (Trade Effluent) Regulations, trade effluent refers to any liquid, including particles of matter and other substances in suspension in the liquid, which is the outflow from any trade, business or manufacture or of any works of engineering or building construction.
-        <br>More info can be found in the <a href="https://www.pub.gov.sg/Professionals/Requirements/Used-Water/TradeEffluent" target="_blank" rel="noopener">summary of the discharge requirements for trade effluent</a>.
+        <br>More info can be found in the <a href="https://www.pub.gov.sg/Professionals/Requirements/Used-Water/TradeEffluent" target="_blank" rel="noopener">PUB website</a>.
     </li>
     <li>
         <strong>What conditions do I need to fulfill?</strong>
