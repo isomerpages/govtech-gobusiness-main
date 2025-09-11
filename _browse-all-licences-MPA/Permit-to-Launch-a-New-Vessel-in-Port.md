@@ -17,4 +17,3 @@ Maritime and Port Authority (MPA)
 <p>Vessels more than 15 metres long require written permission from the Port Master before they can be launched in port.</p>
 <p>Regulation 52 of the Maritime and Port Authority of Singapore (Port) Regulations states:</p>
 <p>"No person shall cause or permit a newly constructed vessel of more than 15 metres in length to be launched, or to be placed into the waters of the port, without the prior written permission of the Port Master under such conditions as the Port Master may impose."</p>
-

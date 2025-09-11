@@ -127,7 +127,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Approval for Additions & Alterations to a Conserved Building](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Planning-Permission/using-CORENET-eSS)
 - [Category 3 Works for Conserved Buildings](https://www.ura.gov.sg/cmrWeb/)
 - [Change of Use Approval](https://dashboard.gobusiness.gov.sg/task-details/changeofuseura)
-- [Change of Use Approval (Renewal)](https://www.gobusiness.gov.sg//browse-all-licences/Urban-Redevelopment-Authority-(URA)/Change-of-Use-Approval-(Renewal))
+- [Change of Use Approval (Renewal)](https://www.gobusiness.gov.sg/browse-all-licences/Urban-Redevelopment-Authority-(URA)/Change-of-Use-Approval-(Renewal))
 - [Housing Developer's Licence](https://www.ura.gov.sg/Corporate/Guidelines/Developers/Housing-Developers/Housing-Developers/Apply-housing-developer-licence)
 - [Licence to Supply Architectural Services](https://www.boa.gov.sg/register/application-forms/)
 - [Permit to Erect Temporary Building](https://www1.bca.gov.sg/regulatory-info/temporary-buildings-application/application-for-a-permit-to-erect-temporary-building)

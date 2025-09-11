@@ -13,4 +13,3 @@ Maritime and Port Authority (MPA)
 <H3>Application Details</H3>
 
 <p>Pleasure craft of 24 metres in length and above shall be handled by those who hold a valid Advance Powered Pleasure Craft Driving Licence (APPCDL) issued by MPA.</p>
-

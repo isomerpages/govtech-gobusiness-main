@@ -12,5 +12,4 @@ Singapore Land Authority (SLA)
 
 <H3>Application Details</H3>
 
-<p>SLA rents out vacant State lands and buildings through Temporary Occupation Licences (TOLs) and Tenancy Agreements (TAs). TOLs are generally for a short fixed term or can be on a monthly or yearly renewable basis. TAs are for fixed terms, up to a maximum of three years per term.</p>
-
+<p>A Temporary Occupation Licence (TOL) application may be submitted via SLA’s TOL Portal at <a href="https://app.sla.gov.sg/tol" target="_blank" rel="noopener">https://app.sla.gov.sg/tol</a>. The issuance of TOL may be subject to clearances from the relevant technical agencies.</p>
