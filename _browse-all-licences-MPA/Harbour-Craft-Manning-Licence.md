@@ -13,4 +13,3 @@ Maritime and Port Authority (MPA)
 <H3>Application Details</H3>
 
 <p>All personnel operating harbour craft must possess a valid harbour craft manning licence.</p>
-

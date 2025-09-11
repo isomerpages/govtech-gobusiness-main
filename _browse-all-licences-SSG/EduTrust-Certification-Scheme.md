@@ -20,10 +20,10 @@ SkillsFuture Singapore (SSG)
 <a href="https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/edutrust-certification-scheme" target="_blank" rel="noopener">https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/edutrust-certification-scheme</a></p>
 <H3>FAQ</H3>
 For more information, please refer to the following website:<br>
-<a href="https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/edutrust-certification-scheme" target="_blank" rel="noopener">https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/edutrust-certification-scheme</a>.<br>
+<a href="https://www.tpgateway.gov.sg/faq/private-education-institutions" target="_blank" rel="noopener">https://www.tpgateway.gov.sg/faq/private-education-institutions</a>.<br>
 <p><strong>Contact Information</strong></p>
 For more information, please refer to the following website:<br>
-<a href="https://www.skillsfuture.gov.sg/Contact" target="_blank" rel="noopener">https://www.skillsfuture.gov.sg/Contact</a><br>
+<a href="https://www.ssg.gov.sg/about-us/contact-us" target="_blank" rel="noopener">https://www.ssg.gov.sg/about-us/contact-us</a><br>
 
 <strong>Additional Information</strong>
 
@@ -38,4 +38,3 @@ For more information, please refer to the following website:<br>
 <H3>Requirements</H3>
 
 <p>Click <a href="https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/edutrust-certification-scheme/how-do-i-apply-for-certification" target="_blank" rel="noopener">here</a> for more details.</p>
-
