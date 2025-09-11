@@ -7,6 +7,7 @@ const custom_notifications = [
   //multiple services
   "<b>[Attention: System Maintenance]</b> Certain GoBusiness services will be unavailable due to upcoming maintenance. Please check our <B><u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>maintenance schedule</a></u></B> for details.", 
   "<b>[Attention: System Maintenance]</b> All NPARKS applications will be unavailable due to scheduled maintenance from 12 Sep, 6pm to 15 Sep, 8am. We apologise for the inconvenience caused.",
+  "<b>[Attention: System Maintenance] Skillsfuture for Business </b> is currently unavailable . We apologise for the inconvenience caused.",
   "<b>[Scam Advisory]</b> GoBusiness will NEVER ask you to transfer money or disclose banking details over a phone call. <u><a href='/scam-advisory/' target='_blank' rel='noopener'>Learn more</a></u>",
   "<b>[Upcoming Changes]</b> GoBusiness is getting a fresh new look in October! Visit the <B><u><a href='https://beta.gobusiness.gov.sg/' target='_blank' rel='noopener'>beta site</a></u></b> to get a preview."
 ];
