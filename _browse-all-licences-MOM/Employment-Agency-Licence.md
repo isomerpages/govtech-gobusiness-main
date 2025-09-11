@@ -15,10 +15,12 @@ Ministry of Manpower (MOM)
 <H3>Application Details</H3>
 
 <p>Note: Before you apply for this licence, please ensure that you have registered your business or company with ACRA.</p>
-<p>You must have at least one of the following business activities in your company's ACRA profile:<br>
-- SSIC 78103 - Domestic worker employment placement agencies (excluding online marketplaces) or<br>
-- SSIC 78104 - Employment agencies (excluding domestic worker employment placement agencies and online marketplaces)</p>
-<p>A Comprehensive licence allows you to place all types of workers without a salary cap. If you are only placing workers earning more than S$4,500 per month, you can apply for a Select licence. Please note that if you intend to apply for a Select Licence, you cannot register 78103(Maid Agencies) as one of your business activities.</p>
+<p>You must have at least one of the following business activities in your company's ACRA profile:</p>
+<ul>
+    <li><strong>SSIC 78103</strong> - Domestic worker employment placement agencies (excluding online marketplaces) or</li>
+    <li><strong>SSIC 78104</strong> - Employment agencies (excluding domestic worker employment placement agencies and online marketplaces)</li>
+</ul>
+<p>A Comprehensive licence allows you to place all types of workers without a salary cap. If you are only placing workers earning more than S$4,500 per month, you can apply for a Select licence. Please note that if you intend to apply for a Select Licence, you cannot register 78103 (Maid Agencies) as one of your business activities.</p>
 <H3>FAQ</H3>
 <OL>
 <li><Strong>Do I need to apply for this licence?</Strong><br>
