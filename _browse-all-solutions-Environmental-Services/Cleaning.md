@@ -96,6 +96,10 @@ This solution is supported by National Environmental Agency (NEA).
 <td></td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Tolt-Clnng-Robot-Envronmntl-Srvcs' target='_blank'>Toilet Cleaning Robot</a><br></td>
+<td></td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/eqt-Wlk-bhnd-clnrscrubbr-Envronmntl-Srvcs' target='_blank'>Walk behind cleaner/scrubber</a><br></td>
 <td></td>
 </tr>

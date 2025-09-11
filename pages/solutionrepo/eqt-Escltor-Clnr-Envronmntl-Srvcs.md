@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Escltor-Clnr-Envronmnt
 
 **Description**
 
-Automated machine that is able to function in either dry or wet mode to clean escalators and travellators. It must be able to perform brushing and vacuuming functions to remove dirt and water.
+A system that is used for cleaning (e.g. vacuuming, brushing) to remove dirt from grooves of escalator/travellator.
 
 There is an equipment cap. Please refer to BGP for details.
 

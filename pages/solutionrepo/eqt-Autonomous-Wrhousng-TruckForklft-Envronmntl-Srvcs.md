@@ -9,8 +9,8 @@ permalink: /productivity-solutions-grant/solutionrepo/eqt-Autonomous-Wrhousng-Tr
 
 **Description**
 
-A self-operating machine with load capacity ranging from 1.2 ton onwards, that navigates, stores and retrieves materials for Waste Management, Cleaning, or Pest Management needs. It may include the interfacing bridge for connecting to warehouse management system. 
-(Only applicable for licensed cleaning / waste / pest management companies)
+A self-operating machine with handling load capacity ranging from 1.2 ton onwards, that navigates, places and retrieves materials for ES operational needs. It may include an interfacing bridge for connecting to a warehouse management system. 
+(Only licensed cleaning / waste / pest management companies can apply)
 
 There is an equipment cap. Please refer to BGP for details.
 
