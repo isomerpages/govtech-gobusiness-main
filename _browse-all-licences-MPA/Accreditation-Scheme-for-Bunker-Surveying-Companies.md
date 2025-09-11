@@ -15,4 +15,3 @@ Maritime and Port Authority (MPA)
 <H3>Application Details</H3>
 
 <p>All bunker surveying companies in Singapore must be accredited by the Singapore Accreditation Council (SAC).</p>
-

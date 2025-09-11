@@ -1403,7 +1403,7 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        A Comprehensive licence allows you to place all types of workers without a salary cap. If you are only placing workers earning more than S$4,500 per month, you can apply for a Select licence. Please note that if you intend to apply for a Select Licence, you cannot register 78103(Maid Agencies) as one of your business activities.
+        A Comprehensive licence allows you to place all types of workers without a salary cap. If you are only placing workers earning more than S$4,500 per month, you can apply for a Select licence. Please note that if you intend to apply for a Select Licence, you cannot register 78103 (Maid Agencies) as one of your business activities.
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/employmentagency" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Manpower-(MOM)/Employment-Agency-Licence">View Licence Details</a>
 
@@ -2273,19 +2273,9 @@
 
     - title: Singapore Land Authority (SLA)
       content: |
-        **Application of Registering Property**
-
-        <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
-
-        If you wish to purchase Company's Insolvency report, send legal requisitions to relevant government agencies and request for Property Information of to speed up the process of conveyancing transactions.
-
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=277" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Land-Authority-(SLA)/Application-of-Registering-Property" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Land-Authority-(SLA)/Application-of-Registering-Property">View Licence Details</a>
-
-        -----
         **Temporary Occupation Licences**
 
-        <p>SLA rents out vacant State lands and buildings through Temporary Occupation Licences (TOLs) and Tenancy Agreements (TAs). TOLs are generally for a short fixed term or can be on a monthly or yearly renewable basis. TAs are for fixed terms, up to a maximum of three years per term.</p>
+        State lands and buildings may be rented out for short-term uses through Temporary Occupation Licenses.
 
         <a class="primary-btn" href="https://app.sla.gov.sg/TOL/Account/Login?ReturnUrl=%2ftol%2f" target="_blank" rel="noopener">Apply on SLA</a>&emsp;<a href = "/browse-all-licences/Singapore-Land-Authority-(SLA)/Temporary-Occupation-Licences">View Licence Details</a>
 

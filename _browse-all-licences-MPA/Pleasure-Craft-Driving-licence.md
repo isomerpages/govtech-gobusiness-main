@@ -13,4 +13,3 @@ Maritime and Port Authority (MPA)
 <H3>Application Details</H3>
 
 <p>The Powered Pleasure Driving Licence (PPCDL) is required for driving engine- powered/jet-propelled pleasure craft (with SZ or SZH licence prefixes) of less than 24 metres within the port limits.</p>
-

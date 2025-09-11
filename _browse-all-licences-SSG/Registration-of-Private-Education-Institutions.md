@@ -14,8 +14,13 @@ SkillsFuture Singapore (SSG)
 
 <H3>Application Details</H3>
 
-<p>Private education institutions offering private education in Singapore must register with SSG under the Enhanced Registration Framework:</p> 
+<p>Private education institutions offering private education in Singapore must register with SSG under the Private Education Act 2009.</p> 
 <p>For more information, please refer to the following website:<br /><a href="https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/enhanced-registration-framework-(erf)" target="_blank" rel="noopener">https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/enhanced-registration-framework-(erf)</a></p>
+
+<H3>FAQ</H3>
+<p>For more information, please refer to the following website:<br /><a href="https://www.tpgateway.gov.sg/faq/private-education-institutions" target="_blank" rel="noopener">https://www.tpgateway.gov.sg/faq/private-education-institutions</a></p>
+For more information, please refer to the following website:<br>
+<a href="https://www.ssg.gov.sg/about-us/contact-us" target="_blank" rel="noopener">https://www.ssg.gov.sg/about-us/contact-us</a><br>
 
 <strong>Additional Information</strong>
 
@@ -25,64 +30,63 @@ SkillsFuture Singapore (SSG)
 <H3>Documents Needed</H3>
 
 <ul> 
-<li><strong>ACRA Printout or Society Registration Certificate</strong><br> 
-For companies, the ACRA bizfile or for societies, the certificate of registration of society.<BR> 
-File format: jpg, xls, pdf<br> 
-Maximum upload per application: 7 MB</li> 
-<li><strong>Agreement on Sharing of Premises</strong><br> 
-Any arrangements made with other entities on the sharing of premises if applicable.<BR> 
-File format: jpg, xls, pdf<br> 
-Maximum upload per application: 7 MB</li> 
-<li><strong>Approval of Use</strong><br> 
-Approval for the premises to be used as a commercial school granted by URA or HDB.<BR> 
-File format: jpg, xls, pdf<br> 
-Maximum upload per application: 7 MB</li> 
-<li><strong>Course Developer's Permissions</strong><br> 
-Proof that course developer or proprietor allows the PEI to offer the course, if applicable.<BR> 
-File format: jpg, xls, pdf<br> 
-Maximum upload per application: 7 MB</li> 
-<li><strong>Course Write Up (Certificates and Diploma)</strong><br> 
-For certificates and diploma courses only.<BR> 
-File format: jpg, xls, pdf<br> 
-Maximum upload per application: 7 MB</li> 
-<li><strong>Course Write-up (EDPs)</strong><br> 
-For External Degree Programmes.<BR> 
-File format: jpg, xls, pdf<br> 
-Maximum upload per application: 7 MB</li> 
-<li><strong>Fire Safety Certificate</strong><br> 
-Fire Safety Certificate issued by FSSD.<BR> 
-File format: jpg, xls, pdf<br> 
-Maximum upload per application: 7 MB</li> 
-<li><strong>Floor Plan</strong><br> 
-Floor plan of the premises.<BR> 
-File format: jpg, xls, pdf<br> 
-Maximum upload per application: 7 MB</li> 
-<li><strong>Management Committee List</strong><br> 
-For societies only. The designation of each manager in the society's management committee.<BR> 
-File format: jpg, xls, pdf<br> 
-Maximum upload per application: 7 MB</li> 
-<li><strong>Manager Declaration Form</strong><br> 
-Required for each manager.<BR> 
-File format: jpg, xls, pdf<br> 
-Maximum upload per application: 7 MB</li> 
-<li><strong>Sample Student Contract</strong><BR> 
-File format: jpg, xls, pdf<br> 
-Maximum upload per application: 7 MB</li> 
-<li><strong>Sample Certificates</strong><BR> 
-File format: jpg, xls, pdf<br> 
-Maximum upload per application: 7 MB</li> 
-<li><strong>Proof of subscription to IWC / FPS</strong><BR> 
-File format: jpg, xls, pdf<br> 
-Maximum upload per application: 7 MB</li> 
-<li><strong>Financial Documents / Credit Rating</strong><BR> 
-File format: jpg, xls, pdf<br> 
-Maximum upload per application: 7 MB</li> 
-<li><strong>Other Support Document</strong><BR> 
-File format: jpg, xls, pdf<br> 
-Maximum upload per application: 7 MB</li> 
+<li><strong>ACRA Printout or Society Registration Certificate</strong><br>
+For companies, the ACRA bizfile or for societies, the certificate of registration of society.<BR>
+File format: jpg, xls, pdf<br>
+Maximum upload per application: 7 MB</li>
+<li><strong>Agreement on Sharing of Premises</strong><br>
+Any arrangements made with other entities on the sharing of premises if applicable.<BR>
+File format: jpg, xls, pdf<br>
+Maximum upload per application: 7 MB</li>
+<li><strong>Approval of Use</strong><br>
+Approval for the premises to be used as a commercial school granted by URA or HDB.<BR>
+File format: jpg, xls, pdf<br>
+Maximum upload per application: 7 MB</li>
+<li><strong>Course Developer's Permissions</strong><br>
+Proof that course developer or proprietor allows the PEI to offer the course, if applicable.<BR>
+File format: jpg, xls, pdf<br>
+Maximum upload per application: 7 MB</li>
+<li><strong>Course Write Up (Certificates and Diploma)</strong><br>
+For certificates and diploma courses only.<BR>
+File format: jpg, xls, pdf<br>
+Maximum upload per application: 7 MB</li>
+<li><strong>Course Write-up (EDPs)</strong><br>
+For External Degree Programmes.<BR>
+File format: jpg, xls, pdf<br>
+Maximum upload per application: 7 MB</li>
+<li><strong>Fire Safety Certificate</strong><br>
+Fire Safety Certificate issued by FSSD.<BR>
+File format: jpg, xls, pdf<br>
+Maximum upload per application: 7 MB</li>
+<li><strong>Floor Plan</strong><br>
+Floor plan of the premises.<BR>
+File format: jpg, xls, pdf<br>
+Maximum upload per application: 7 MB</li>
+<li><strong>Management Committee List</strong><br>
+For societies only. The designation of each manager in the society's management committee.<BR>
+File format: jpg, xls, pdf<br>
+Maximum upload per application: 7 MB</li>
+<li><strong>Manager Declaration Form</strong><br>
+Required for each manager.<BR>
+File format: jpg, xls, pdf<br>
+Maximum upload per application: 7 MB</li>
+<li><strong>Sample Student Contract</strong><BR>
+File format: jpg, xls, pdf<br>
+Maximum upload per application: 7 MB</li>
+<li><strong>Sample Certificates</strong><BR>
+File format: jpg, xls, pdf<br>
+Maximum upload per application: 7 MB</li>
+<li><strong>Proof of subscription to IWC / FPS</strong><BR>
+File format: jpg, xls, pdf<br>
+Maximum upload per application: 7 MB</li>
+<li><strong>Financial Documents / Credit Rating</strong><BR>
+File format: jpg, xls, pdf<br>
+Maximum upload per application: 7 MB</li>
+<li><strong>Other Support Document</strong><BR>
+File format: jpg, xls, pdf<br>
+Maximum upload per application: 7 MB</li>
 </ul>
 
 <H3>Requirements</H3>
 
 <p>Click <a href="https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/enhanced-registration-framework-(erf)/registration-requirements" target="_blank" rel="noopener">here</a> for more details.</p>
-
