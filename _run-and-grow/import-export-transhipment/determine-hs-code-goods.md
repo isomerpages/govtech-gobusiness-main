@@ -19,7 +19,7 @@ The Harmonised Commodity Description and Coding System (HS) is an international 
     </td>
     </tr>
     <tr>
-    <td><a href='https://hscodechecker.gobusiness.gov.sg/' target='_blank'>HS/CA Product Code Checker</a><span style="background: #E6F2F3; border-radius: 3px; width: 53px; height: 22px; padding: 2px 8px; font-family: hknova-bold; font-size: 12px; line-height: 18px; color: #02737D; display: inline-block; vertical-align: middle; margin-left: 8px;"> NEW!</span></td>
+    <td><a href='https://hscodechecker.gobusiness.gov.sg/' target='_blank'>HS/CA Product Code Checker</a><span style="background: #E6F2F3; border-radius: 3px; width: 53px; height: 22px; padding: 2px 8px; font-family: lexend-bold; font-size: 12px; line-height: 18px; color: #02737D; display: inline-block; vertical-align: middle; margin-left: 8px;"> NEW!</span></td>
     <td>This e-service allows you to find out the Harmonised System (HS) code for the type of product you are importing, exporting or transhipping. If your product is controlled, you will get the Competent Authority (CA) product code, CA contact details and recommended licence(s).
     </td>
     </tr>
