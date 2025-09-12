@@ -84,7 +84,7 @@ accordion:
       Company A<br>
       Financial Year ends in December<br>
       - For the quarterly GST accounting period of 1 Jul - 30 Sep, they would have to e-file their GST F5 and make payment by 31 Oct if they are not on GIRO.
-      - Alternately, if the company has a GIRO arrangement with IRAS, e-file by 31 Oct and payment deduction will take place on 15 Nov. 
+      - Alternately, if the company has a <a href="https://www.iras.gov.sg/quick-links/payments/giro-gst" target="_blank" rel="noopener">GIRO arrangement</a> with IRAS, e-file by 31 Oct and payment deduction will take place on 15 Nov. 
       <br><br>
 
   - title: Yearly requirements
@@ -110,7 +110,7 @@ accordion:
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' alt="C"> Receive Notice of Assessment (NOA) within 7 days after ECI filing. No NOA will be issued when a NIL ECI is filed.
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/D.png' alt="D"> Pay Tax Bill within 1 month from the date of the NOA.
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/D.png' alt="D"> <a href="https://www.iras.gov.sg/quick-links/payments/giro-corporate-income-tax" target="_blank" rel="noopener">Pay Tax Bill</a> within 1 month from the date of the NOA.
 
       <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">File your annual returns with ACRA</H5>
 

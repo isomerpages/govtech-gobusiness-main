@@ -73,7 +73,7 @@ accordion:
       Business A<br>
       Financial Year ends in December<br>
       - For the quarterly GST accounting period of 1 Jul - 30 Sep, they would have to e-file their GST F5 and make payment by 31 Oct if they are not on GIRO.<br>
-      - Alternately, if the business has a GIRO arrangement with IRAS, e-file by 31 Oct and payment deduction will take place on 15 Nov.
+      - Alternately, if the business has a <a href="https://www.iras.gov.sg/quick-links/payments/giro-gst" target="_blank" rel="noopener">GIRO arrangement</a> with IRAS, e-file by 31 Oct and payment deduction will take place on 15 Nov.
       <br><br>
 
   - title: Yearly requirements
@@ -108,7 +108,7 @@ accordion:
         
         <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/D.png' aria-hidden='true' alt="D"> Receive Notice of Assessment (NOA) within 7 days after ECI filing. No NOA will be issued when a NIL ECI is filed.<br><br>
         
-        <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/E.png' aria-hidden='true' alt="E"> Pay tax bill within 1 month from the date of the Notice of Assessment (NOA).</td>
+        <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/E.png' aria-hidden='true' alt="E"> <a href="https://www.iras.gov.sg/quick-links/payments/giro-individual-income-tax" target="_blank" rel="noopener">Pay Tax Bill</a> within 1 month from the date of the Notice of Assessment (NOA).</td>
 
         <td><img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/F.png' aria-hidden='true' alt="F">Your partnership entity should file your Estimated Chargeable Income within 3 months of your Financial Year End (FYE) if business receives notification to file.<br><br>
         
@@ -135,7 +135,7 @@ accordion:
 
         <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/I.png' aria-hidden='true' alt="I"> Receive your NOA from the end of April onwards<br><br>
 
-        <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/J.png' aria-hidden='true' alt="J"> Pay your income tax within 1 month from the date of your NOA<br><br>
+        <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/J.png' aria-hidden='true' alt="J"> <a href="https://www.iras.gov.sg/quick-links/payments/giro-individual-income-tax" target="_blank" rel="noopener">Pay your income tax</a> within 1 month from the date of your NOA<br><br>
 
         <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/K.png' aria-hidden='true' alt="K"> If you do not agree with the assessment raised, <a href="https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/understanding-my-income-tax-filing/making-changes-after-filing-receiving-tax-bill" target="_blank" rel="noopener">file an objection</a> within 30 days from the date of your NOA</td>
         
@@ -153,7 +153,7 @@ accordion:
 
         <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/P.png' aria-hidden='true' alt="P">Receive your NOA from the end of April onwards.<br><br>
 
-        <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/Q.png' aria-hidden='true' alt="Q">Pay your income tax within 1 month from the date of your NOA.<br><br>
+        <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/Q.png' aria-hidden='true' alt="Q"><a href="https://www.iras.gov.sg/quick-links/payments/giro-individual-income-tax" target="_blank" rel="noopener">Pay your income tax</a> within 1 month from the date of your NOA.<br><br>
         
         <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/R.png' aria-hidden='true' alt="R">If you do not agree with the assessment raised, <a href="https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/understanding-my-income-tax-filing/making-changes-after-filing-receiving-tax-bill" target="_blank" rel="noopener">file an objection</a>  within 30 days from the date of your NOA</td>
       </tr>

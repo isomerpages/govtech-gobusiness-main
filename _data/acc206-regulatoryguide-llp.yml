@@ -75,7 +75,7 @@ accordion:
       Partnership A<br>
       Financial Year ends in December<br>
       - For the quarterly GST accounting period of 1 Jul - 30 Sep, they would have to e-file their GST F5 and make payment by 31 Oct if they are not on GIRO.<br>
-      - Alternately, if the LLP has a GIRO arrangement with IRAS, e-file by 31 Oct and payment deduction will take place on 15 Nov.
+      - Alternately, if the LLP has a <a href="https://www.iras.gov.sg/quick-links/payments/giro-gst" target="_blank" rel="noopener">GIRO arrangement</a> with IRAS, e-file by 31 Oct and payment deduction will take place on 15 Nov.
       
   - title: Yearly requirements
     content: |
@@ -116,7 +116,7 @@ accordion:
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/J.png' aria-hidden='true' alt="J"> Receive your NOA from the end of April onwards.
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/K.png' aria-hidden='true' alt="K"> Pay your income tax within 1 month from the date of your NOA.
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/K.png' aria-hidden='true' alt="K"> <a href="https://www.iras.gov.sg/quick-links/payments/giro-individual-income-tax" target="_blank" rel="noopener">Pay your income tax</a> within 1 month from the date of your NOA.
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/L.png' aria-hidden='true' alt="L"> If you do not agree with the assessment raised, <a href="https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/understanding-my-income-tax-filing/making-changes-after-filing-receiving-tax-bill" target="_blank" rel="noopener">file an objection</a> with 30 days from the date of your NOA.
  
