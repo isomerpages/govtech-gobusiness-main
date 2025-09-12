@@ -45,7 +45,14 @@ National Environment Agency (NEA)
 
 <strong>Additional Information</strong>
 
-<p><strong>Fees</strong><br>Licence Fees: $90</p>
+<p>
+    <strong>Fees</strong>
+    <br>Fees for applications and renewals submitted <strong>before</strong> 1 April 2026
+    <br>Licence Fees: $90
+    <br><br>Fees for applications and renewals submitted <strong>from</strong> 1 April 2026
+    <br>Licence Fees: $99
+    <br><br>Payment can be made upon approval.
+</p>
 
 <H3>Documents Needed</H3>
 
