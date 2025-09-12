@@ -18,7 +18,7 @@
     }
 
     .content .panel .panel-image {
-        font-family: hknova-semibold;
+        font-family: lexend-semibold;
         font-size: 24px;
         font-weight: 600;
         width: auto;
@@ -46,13 +46,13 @@
     }
 
     .content .panel .panel-title {
-        font-family: hknova-semibold;
+        font-family: lexend-semibold;
         margin: 32px 29px 20px 29px;
     }
 
     .content .panel .panel-description,
     .content [class*="panel-"]>div {
-        font-family: hknova-regular;
+        font-family: lexend-regular;
         margin: 0 29px 20px 29px;
     }
 
@@ -65,13 +65,13 @@
 
     .content .panel .panel-link {
         font-size: 18px;
-        font-family: hknova-regular;
+        font-family: lexend-regular;
         line-height: 27px;
         display: block;
         margin: 10px 0 5px 0;
     }
     .content .panel .panel-pdf-link {
-        font-family: hknova-regular;
+        font-family: lexend-regular;
         font-size: 18px;
         line-height: 27px;
         display: block;
@@ -83,7 +83,7 @@
     }
     
     .content .panel .panel-info {
-        font-family: hknova-regular;
+        font-family: lexend-regular;
         font-size: 18px;
         line-height: 27px;
         color: #647283;
@@ -164,7 +164,7 @@
                     {% else %}
                         <a class="panel-link" href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}">
                     {% endif %}
-                    {% if panel.pdf-icon %}<img style='width:21px; height:auto; margin-right: 8px; display: inline-flex; vertical-align: middle;' src="/images/pdficon.png">{% endif %}{% if panel.text %}<span style='font-size: 18px; font-family: hknova-regular; line-height: 27px;'>{{panel.text}}</span>
+                    {% if panel.pdf-icon %}<img style='width:21px; height:auto; margin-right: 8px; display: inline-flex; vertical-align: middle;' src="/images/pdficon.png">{% endif %}{% if panel.text %}<span style='font-size: 18px; font-family: lexend-regular; line-height: 27px;'>{{panel.text}}</span>
                         {% else %}{{url}}{% endif %}</a>
                 {% endfor %}
             </div>
