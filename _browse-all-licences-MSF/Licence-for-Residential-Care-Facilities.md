@@ -8,7 +8,7 @@ third_nav_title: Ministry of Social and Family Development (MSF)
 
 Ministry of Social and Family Development (MSF)
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/residentialcare" type="primary" %}
+<!-- {% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/residentialcare" type="primary" %} -->
 
 <H3>Application Details</H3>
 
