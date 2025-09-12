@@ -50,5 +50,14 @@ National Environment Agency (NEA)
 
 <strong>Additional Information</strong>
 
-<p><strong>Fees<br></strong>S$28.00 (Full)<br>S$16.50 (Provisional)</p>
+<p>
+    <strong>Fees</strong>
+    <br>Fees for applications and renewals submitted <strong>before</strong> 1 April 2026
+    <br>Licence Fees (Full Technician): $28
+    <br>Licence Fees (Provisional Technician): $16.50
+    <br><br>Fees for applications and renewals submitted <strong>from</strong> 1 April 2026
+    <br>Licence Fees (Full Technician): $31
+    <br>Licence Fees (Provisional Technician): $19.00
+    <br><br>Payment can be made upon approval.
+</p>
 
