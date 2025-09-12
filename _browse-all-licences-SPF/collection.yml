@@ -4,7 +4,6 @@ collections:
     order:
       - back-to-all-licences.md
       - Amendment-to-Existing-Employee-Record--Update-Details-of-Registered-Employee-.md
-      - Public-Entertainment-Licence.md
       - Approval-for-a-Blasting-Operation.md
       - Approval-for-Debt-Collector.md
       - Approval-to-conduct-a-Fireworks-Display-.md
@@ -13,12 +12,15 @@ collections:
       - Explosive-Precursor-Licence.md
       - Gun-or-Weapon-Licence.md
       - House-to-House-and-Street-Collections-Licence.md
-      - Licence-to-Import-or-Export-Explosive-Precursors.md
       - Licence-for-Debt-Collection-Business.md
-      - Licence-to-Import-or-Export-for-Weapons.md
       - Licence-to-Import--Export-or-Purchase-Arms.md
       - Licence-to-Import--Export-or-Purchase-Explosives.md
+      - Licence-to-Import-or-Export-Explosive-Precursors.md
+      - Licence-to-Import-or-Export-for-Weapons.md
       - Licence-to-Remove-Explosives.md
+      - Licence-to-Transport-Explosive-Precursors.md
+      - Licence-to-Transport-Guns--Gun-Parts-or-Accessories.md
+      - Licence-to-Transport-Weapons.md
       - Liquor-Consumption-Permit.md
       - Liquor-Licence---Extension-of-Operating-Hours.md
       - Liquor-Licence--Class-1A--1B--2A--2B--3A--3B--4-.md
@@ -28,13 +30,14 @@ collections:
       - Police-Permit-for-Assembly-or-Procession.md
       - Police-Permit-for-Public-Talk.md
       - Private-Investigation-Agency-Licence.md
-      - Private-Investigator's-Licence--PI-.md
+      - Private-Investigator-Licence.md
+      - Public-Entertainment-Licence.md
       - Public-Entertainment-Licence---Notification-to-Police-of-Exempted-Public-Entertainments-or-Arts-Entertainment.md
       - Registered-In-House-Employer.md
       - Secondhand-Goods-and-Dealers-Licence.md
       - Security-Agency-Licence.md
       - Security-Clearance-for-Special-Worker--Add-New-Employee-.md
-      - Security-Officer's-Licence--SO-.md
+      - Security-Officer-Licence.md
       - Security-Service-Provider-Licence.md
       - Termination-of-Security-Clearance-for-Special-Worker--Remove-Existing-Employee-.md
       - Traffic-Police-Road-Closure-Permit.md
