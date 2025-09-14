@@ -12,25 +12,56 @@ Animal & Veterinary Service (AVS)
 
 <H3>Application Details</H3>
 
-<p>The Licence to Import or Export Ornamental Fish is issued by Animal and Veterinary Service to traders who wishes to import, export or transship ornamental fish.</p>
+<p>The Licence to Import or Export Ornamental Fish is issued by the Animal and Veterinary Service to traders who wishes to import, export or transship ornamental fish.</p>
+
 <h3>FAQs</h3>
 <ol>
-<li><strong>Where can I get the FAQ for Licence for Import & Export of Ornamental Fish?</strong><br>You can get the FAQ on this link: Animal and Veterinary Service FAQ website <a href="https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/import-export-and-transhipment-of-other-animals/ornamental-fish" target="_blank" rel="noopener">https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/import-export-and-transhipment-of-other-animals/ornamental-fish</a></li>
+    <li>
+        <strong>Where can I get the FAQ for Licence for Import & Export of Ornamental Fish?</strong>
+        <br>You can get the FAQ on this link: Animal and Veterinary Service FAQ website <a href="https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/import-export-and-transhipment-of-other-animals/ornamental-fish" target="_blank" rel="noopener">https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/import-export-and-transhipment-of-other-animals/ornamental-fish</a>
+    </li>
 </ol>
 
 <strong>Additional Information</strong>
 
-<p><strong>Fee<br /></strong>Licence Fees: $350.00</p>
+<p><strong>Fee<br></strong>Licence Fees: $350.00</p>
 
 <H3>Documents Needed</H3>
 
 <ul>
-<li><strong>Floor Plan</strong><br />Floor plan of the packing premise designated for import or export activity of ornamental fish<br />File Format: DOC,DOCX,GIF,JPEG,JPG,PDF,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
-<li><strong>Others</strong><br />Additional Supporting Documents<br />File Format: DOC,DOCX,GIF,JPEG,JPG,PDF,XLS,XLSX<br />Maximum upload per application: 2MB</li>
+    <li>
+        <strong>Floor Plan</strong>
+        <br>Floor plan of the packing premise designated for import or export activity of ornamental fish
+        <br>File Format: DOC,DOCX,GIF,JPEG,JPG,PDF,XLS,XLSX
+        <br>Maximum upload per application: 2MB
+    </li>
+    <li>
+        <strong>Account activation letter/notification from Singapore Customs</strong>
+        <br>A copy of account activation letter/notification from Singapore Customs as proof of UEN being activated for import & export activities. Prior to this, your company or business must be issued with an Unique Entity Number (UEN) from ACRA or UEN Issuance agency. 
+        <br>File Format: DOC,DOCX,GIF,JPEG,JPG,PDF,XLS,XLSX
+        <br>Maximum upload per application: 2MB
+    </li>
+    <li>
+        <strong>Completed application form for Inter-bank GIRO</strong>
+        <br>The completed application form for Inter-bank GIRO. 
+        <br>File Format: DOC,DOCX,GIF,JPEG,JPG,PDF,XLS,XLSX
+        <br>Maximum upload per application: 2MB
+    </li>
+    <li>
+        <strong>Tenancy / Lease agreement (if applicable)</strong>
+        <br>A copy of the tenancy/lease agreement of the premise (if applicable)
+        <br>File Format: DOC,DOCX,GIF,JPEG,JPG,PDF,XLS,XLSX
+        <br>Maximum upload per application: 2MB
+    </li>
+    <li>
+        <strong>Others</strong>
+        <br>Additional Supporting Documents
+        <br>File Format: DOC,DOCX,GIF,JPEG,JPG,PDF,XLS,XLSX
+        <br>Maximum upload per application: 2MB
+    </li>
 </ul>
 
 <H3>Requirements</H3>
 
 <p>Prerequisite Licence(s)</p>
 <p>ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
-

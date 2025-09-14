@@ -15,5 +15,3 @@ Animal & Veterinary Service (AVS)
 <H3>Application Details</H3>
 
 <p>This service allows importers to register their company to import animal feed for non-food producing animals. This registration is not mandatory to facilitate import.</p>
-
-

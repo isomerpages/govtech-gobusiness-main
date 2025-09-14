@@ -15,5 +15,3 @@ Animal & Veterinary Service (AVS)
 <H3>Application Details</H3>
 
 <p>This certificate allows exporters to obtain an endorsement for their animal feed products meant for non-food producing animals intended for export.</p>
-
-

@@ -15,26 +15,49 @@ Animal & Veterinary Service (AVS)
 <H3>Application Details</H3>
 
 <p>The Licence to Possess Veterinary Biologics is issued for possession and import of veterinary biologics intended for use in the diagnosis, treatment, or prevention of disease of animals and birds, or for purposes of research in animals or birds (veterinary vaccines and pathogens are on AVS's select list, you must first obtain a Licence to Possess Veterinary Biologics). In the case of AVS regulated biologics for other purposes, a written consent may apply.</p>
+
 <h3>FAQs</h3>
 <ol>
-<li><strong>What is the validity of the licence?</strong><br />1 year<br /><br /></li>
-<li><strong>Where can I get the FAQ for Veterinary Biologics?</strong><br />You can get the FAQ on this link: AVS FAQ website at <a href="https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/veterinary-biologics/licence-to-possess-veterinary-biologics">https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/veterinary-biologics/licence-to-possess-veterinary-biologics</a><br /><br /></li>
-<li><strong>Supporting documents required for submission?<br /></strong>The following documents are required for the submission:<br />1) Standard Operation Procedures (Handling and disposal of bio hazardous materials)</li>
+    <li>
+        <strong>What is the validity of the licence?</strong>
+        <br>1 year
+    </li>
+    <li>
+        <strong>Where can I get the FAQ for Veterinary Biologics?</strong>
+        <br>You can get the FAQ on this link: AVS FAQ website at <a href="https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/veterinary-biologics/licence-to-possess-veterinary-biologics" target="_blank" rel="noopener">https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/veterinary-biologics/licence-to-possess-veterinary-biologics</a>
+    </li>
+    <li>
+        <strong>Supporting documents required for submission?</strong>
+        <br>The following documents are required for the submission:
+        <br>(1) Standard Operation Procedures (Handling and disposal of bio hazardous materials)
+    </li>
 </ol>
 
 <strong>Additional Information</strong>
 
-<p><strong>Fee:</strong><br />Licence Fee:$45.00</p>
+<p>
+    <strong>Fee:</strong>
+    <br>Licence Fee: $45.00
+</p>
 
 <H3>Documents Needed</H3>
 
 <ul>
-<li><strong>Standard Operation Procedures</strong><br />SOPs on: Handling and disposal of biohazardous materials (including the usage and type of personal protection equipment, waste treatment and pest control).<br />File Format: DOC,DOCX,GIF,JPEG,JPG,PDF,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
-<li><strong>Others</strong><br />Scanned copy of other Miscellaneous documents<br />File Format: DOC,DOCX,GIF,JPEG,JPG,PDF,XLS,XLSX<br />Maximum upload per application: 2MB</li>
+    <li>
+        <strong>Standard Operation Procedures</strong>
+        <br>SOPs on: Handling and disposal of biohazardous materials (including the usage and type of personal protection equipment, waste treatment and pest control).
+        <br>File Format: DOC,DOCX,GIF,JPEG,JPG,PDF,XLS,XLSX
+        <br>Maximum upload per application: 2MB
+    </li>
+    <li>
+        <strong>Others</strong>
+        <br>Scanned copy of other Miscellaneous documents
+        <br>File Format: DOC,DOCX,GIF,JPEG,JPG,PDF,XLS,XLSX
+        <br>Maximum upload per application: 2MB
+    </li>
 </ul>
 
 <H3>Requirements</H3>
 
 <p>Prerequisite Licence(s)</p>
 <p>ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
-

@@ -1,10 +1,10 @@
 ---
-title: Licence to Import/Export/Transship for Non-Food Producing Animals, Birds, Eggs and Biologics
-permalink: /browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-to-Import-Export-Transship-for-Non-Food-Producing-Animals--Birds--Eggs-and-Biologics
+title: Licence to Import/Export/Transship for Non-Food Animals, Birds, Eggs and Biologics
+permalink: /browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-to-Import-Export-Transship-for-Non-Food-Animals--Birds--Eggs-and-Biologics
 third_nav_title: Animal & Veterinary Service (AVS)
 ---
 
-## Apply for Licence to Import/Export/Transship for Non-Food Producing Animals, Birds, Eggs and Biologics
+## Apply for Licence to Import/Export/Transship for Non-Food Animals, Birds, Eggs and Biologics
 
 Animal & Veterinary Service (AVS)
 
@@ -12,21 +12,25 @@ Animal & Veterinary Service (AVS)
 
 <H3>Application Details</H3>
 
-<b>For foreign Individual</b>, you will be required to login using the SingPass Foreign Account (SFA) in order to apply for this licence.<br/> 
-You may click on this <a href="https://avs-eservices.nparks.gov.sg/eservices/sfa-registration">link</a> to apply for a SFA account if you do not have one.<br/>
+<p>
+    <b>For foreign Individual</b>, you will be required to login using the SingPass Foreign Account (SFA) in order to apply for this licence.
+    <br>You may click on this <a href="https://avs-eservices.nparks.gov.sg/eservices/sfa-registration" target="_blank" rel="noopener">link</a> to apply for a SFA account if you do not have one.
+</p>
+<p>
+    This licence is required if you intend to:
+        <ol>
+        <li>import/export/tranship live pet animals and birds; or</li>
+        <li>import/tranship veterinary biologics*</li>
+        <li>import/tranship animal products*</li>
+        </ol>
+    <small>*Please note that export of veterinary biologics and animal products do not require a licence.</small>
+</p>
 
-This licence is required if you intend to:<br/>
-1) import/export/tranship live pet animals and birds;<br/>
-2) import/tranship veterinary biologics*; or<br/>
-3) export the carcass of any pet animal or bird.<br/>
-<br/>
-*Please note that export of veterinary biologics does not require a licence.<br/>
-<br/>
-<b>FAQs</b><br/>
+<b>FAQs</b>
 <br/>
 1. Where can I get the FAQ for import of animals/birds/eggs/biologics?<br/>
 You can get the FAQ on this link: AVS FAQ website<br/>
-<a href="https://www.nparks.gov.sg/avs">AVS | Homepage (nparks.gov.sg).</a><br/>
+<a href="https://www.nparks.gov.sg/avs" target="_blank" rel="noopener">AVS | Homepage (nparks.gov.sg).</a><br/>
 <br/>
 
 
@@ -168,106 +172,100 @@ Application will be processed according to documents uploaded via Quarantine Man
 
 <strong>Additional Information</strong>
 
-<b>Fee</b><br/> 
-<u>Commercial Birds / Egg<br/></u> 
-Licence fees: $62.00<br/> 
-Express fees: $124.00<br/><br/> 
-<u>Biologics / Product<br/></u> 
-Licence fees: $22.00<br/> 
-Express fees: $44.00<br/><br/> 
-<u>Commercial (Non-Bird) Research & Development<br/></u> 
-Licence fees: $87.00<br/> 
-Express fees: $174.00<br/><br/> 
-<u>Personal<br/></u> 
-Licence fees: $50.00<br/> 
-Express fees: $100.00<br/>
+<b>Fee</b>
+<br>Licence to import, export or tranship birds(including eggs) for commercial purposes - $62 per consignment
+<br>Licence to import, export or tranship animals for commercial purposes - $87 per consignment
+<br>Licence to import, export or tranship animals or birds for personal purposes - $50 per consignment
+<br>Licence to import or tranship veterinary biologics - $22 per consignment
+<br>Licence to import or tranship animal products - $22 per consignment
+
 
 <H3>Documents Needed</H3>
-
-Valid rabies vaccination record/certificate, including details of animal and microchip number (applicable only for Import of Dogs & Cats from Schedule II)<br/> 
-File Format: DOC,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX<br/> 
-Maximum upload per application: 2MB<br/> 
-<br/> 
-
-Valid rabies serology test report (applicable only for Import of Dogs & Cats from Schedule II)<br/> 
-File Format: DOC,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX<br/> 
-Maximum upload per application: 2MB<br/> 
-<br/> 
-
-Documentary proof to show its 5th generation and above from the ancestral stock of Prionailurus bengalensis/Leptailurus serval (mandatory only for Bengal/Savannah cat crosses) (applicable only for Import of Cats from Schedule I and II countries/regions)<br/> 
-File Format: DOC,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX<br/> 
-Maximum upload per application: 2MB<br/> 
-<br/> 
-
-Photo showing clearly the face and body of the dog (mandatory only for mixed/ cross breed) (applicable only for Import of Dogs from Schedule I and II countries/regions)<br/> 
-File Format: DOC,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX<br/> 
-Maximum upload per application: 2MB<br/> 
-<br/> 
-
-Import permit of importing country/region (applicable only for Transhipment of Cats & Dogs)<br/> 
-File Format: DOC,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX<br/> 
-Maximum upload per application: 2MB<br/> 
-<br/> 
-
-Valid Health Certificate from exporting country/region (applicable only for Transhipment of Cats & Dogs)<br/> 
-File Format: DOC,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX<br/> 
-Maximum upload per application: 2MB<br/> 
-<br/> 
-
-Dog Licence<br/> 
-File Format: DOC,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX<br/> 
-Maximum upload per application: 2MB<br/> 
-<br/> 
-
-Treatment certificate (only application for animal products)<br/> 
-File Format: DOC,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX<br/> 
-Maximum upload per application: 2MB<br/> 
-<br/> 
-
-Health Certificate (only application for animal products)<br/> 
-File Format: DOC,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX<br/> 
-Maximum upload per application: 2MB<br/> 
-<br/> 
-
-Certificate of Analysis (only application for veterinary biologics and animal products)<br/> 
-File Format: DOC,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX<br/> 
-Maximum upload per application: 2MB<br/> 
-<br/> 
-
-Declaration Letter (only application for veterinary biologics and animal products)<br/> 
-File Format: DOC,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX<br/> 
-Maximum upload per application: 2MB<br/> 
-<br/> 
-
-Quality Control report (only application for veterinary biologics and animal products)<br/> 
-File Format: DOC,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX<br/> 
-Maximum upload per application: 2MB<br/> 
-<br/> 
-
-Production Specifications (only application for veterinary biologics and animal products)<br/> 
-File Format: DDOC,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX<br/> 
-Maximum upload per application: 2MB<br/> 
-<br/> 
-
-Letter of Undertaking (only application for veterinary biologics and animal products)<br/> 
-File Format: DOC,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX<br/> 
-Maximum upload per application: 2MB<br/> 
-<br/> 
-
-Veterinary Certificate (only application for tranship of live animals)<br/> 
-File Format: DOC,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX<br/> 
-Maximum upload per application: 2MB<br/> 
-<br/> 
-
-Others<br/> 
-File Format: DOC,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX<br/> 
-Maximum upload per application: 2MB<br/>
+<ul>
+    <li>
+        <strong>Valid rabies vaccination record/certificate, including details of animal and microchip number (applicable only for Import of Dogs & Cats from Schedule II)</strong>
+        <br>File Format: DOC,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX
+        <br>Maximum upload per application: 2MB
+    </li>
+    <li>
+        <strong>Valid rabies serology test report (applicable only for Import of Dogs & Cats from Schedule II)</strong>
+        <br>File Format: DOC,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX
+        <br>Maximum upload per application: 2MB
+    </li>
+    <li>
+        <strong>Documentary proof to show its 5th generation and above from the ancestral stock of Prionailurus bengalensis/Leptailurus serval (mandatory only for Bengal/Savannah cat crosses) (applicable only for Import of Cats from Schedule I and II countries/regions)</strong>
+        <br>File Format: DOC,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX
+        <br>Maximum upload per application: 2MB
+    </li>
+    <li>
+        <strong>Photo showing clearly the face and body of the dog (mandatory only for mixed/ cross breed) (applicable only for Import of Dogs from Schedule I and II countries/regions)</strong>
+        <br>File Format: DOC,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX
+        <br>Maximum upload per application: 2MB
+    </li>
+    <li>
+        <strong>Import permit of importing country/region (applicable only for Transhipment of Cats & Dogs)</strong>
+        <br>File Format: DOC,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX
+        <br>Maximum upload per application: 2MB
+    </li>
+    <li>
+        <strong>Valid Health Certificate from exporting country/region (applicable only for Transhipment of Cats & Dogs)</strong>
+        <br>File Format: DOC,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX
+        <br>Maximum upload per application: 2MB
+    </li>
+    <li>
+        <strong>Dog Licence</strong>
+        <br>File Format: DOC,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX
+        <br>Maximum upload per application: 2MB
+    </li>
+    <li>
+        <strong>Treatment certificate (only application for animal products)</strong>
+        <br>File Format: DOC,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX
+        <br>Maximum upload per application: 2MB
+    </li>
+    <li>
+        <strong>Health Certificate (only application for animal products)</strong>
+        <br>File Format: DOC,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX
+        <br>Maximum upload per application: 2MB
+    </li>
+    <li>
+        <strong>Certificate of Analysis (only application for veterinary biologics and animal products)</strong>
+        <br>File Format: DOC,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX
+        <br>Maximum upload per application: 2MB
+    </li>
+    <li>
+        <strong>Declaration Letter (only application for veterinary biologics and animal products)</strong>
+        <br>File Format: DOC,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX
+        <br>Maximum upload per application: 2MB
+    </li>
+    <li>
+        <strong>Quality Control report (only application for veterinary biologics and animal products)</strong>
+        <br>File Format: DOC,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX
+        <br>Maximum upload per application: 2MB
+    </li>
+    <li>
+        <strong>Production Specifications (only application for veterinary biologics and animal products)</strong>
+        <br>File Format: DDOC,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX
+        <br>Maximum upload per application: 2MB
+    </li>
+    <li>
+        <strong>Letter of Undertaking (only application for veterinary biologics and animal products)</strong>
+        <br>File Format: DOC,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX
+        <br>Maximum upload per application: 2MB
+    </li>
+    <li>
+        <strong>Veterinary Certificate (only application for tranship of live animals)</strong>
+        <br>File Format: DOC,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX
+        <br>Maximum upload per application: 2MB
+    </li>
+    <li>
+        <strong>Others</strong>
+        <br>File Format: DOC,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX
+        <br>Maximum upload per application: 2MB
+    </li>
+</ul>
 
 <H3>Requirements</H3>
 
-Prerequisite Licence(s)<br/> 
-<br/> 
-Corppass access only.<br/> 
-<br/> 
-ACRA - <a href="https://www.acra.gov.sg/Home/">Registration for Companies / Business</a>
-
+Prerequisite Licence(s) 
+<br>Corppass access if you are applying for import/export/tranship that are not for personal purpose.
+<br>ACRA - <a href="https://www.acra.gov.sg/Home/">Registration for Companies / Business</a>
