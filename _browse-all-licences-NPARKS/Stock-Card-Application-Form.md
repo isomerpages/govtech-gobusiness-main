@@ -17,9 +17,9 @@ National Parks Board (NPARKS)
 <H3>Documents Needed</H3>
 
 <ul>
-<li>
-<strong>Any Supporting Documents
-</strong><br />File Format: DOC,DOCX,GIF,JPEG,JPG,PDF,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br />
-</li>
+    <li>
+        <strong>Any Supporting Documents</strong>
+        <br>File Format: DOC,DOCX,GIF,JPEG,JPG,PDF,XLS,XLSX
+        <br>Maximum upload per application: 2MB
+    </li>
 </ul>
-

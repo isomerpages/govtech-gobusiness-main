@@ -12,15 +12,22 @@ Animal & Veterinary Service (AVS)
 
 <H3>Application Details</H3>
 
-<p>A Certificate of Freedom from Disease within Singapore from Animal and Veterinary Service will be required if the country/region to which you intend to export animal/bird products requires certification that Singapore is free from specific animal disease(s) of concern, to facilitate the export.</p>
+<p>A Certificate of Freedom from Disease within Singapore from Animal & Veterinary Service will be required if the country/region to which you intend to export animal/bird products requires certification that Singapore is free from specific animal disease(s) of concern, to facilitate the export.</p>
+
 <h3>FAQs</h3>
 <ol>
-<li><strong>Where can I get the FAQ for Certificate for Freedom from Diseases?</strong><br />You can get the FAQ on this link: Animal and Veterinary Service FAQ website <a href="https://www.nparks.gov.sg/avs/" target="_blank" rel="noopener">https://www.nparks.gov.sg/avs/</a></li>
+    <li>
+        <strong>Where can I get the FAQ for Certificate for Freedom from Diseases?</strong>
+        <br>You can get the FAQ on this link: Animal and Veterinary Service FAQ website <a href="https://www.nparks.gov.sg/avs/" target="_blank" rel="noopener">https://www.nparks.gov.sg/avs/</a>
+    </li>
 </ol>
 
 <strong>Additional Information</strong>
 
-<p><strong>Fee<br /></strong>Licence Fee: $12.60 </p>
+<p>
+    <strong>Fee</strong>
+    <br>Licence Fee: $12.60
+</p>
 
 <H3>Documents Needed</H3>
 

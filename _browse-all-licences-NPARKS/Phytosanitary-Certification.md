@@ -12,14 +12,15 @@ National Parks Board (NPARKS)
 
 <H3>Application Details</H3>
 
-<p>This certificate facilitates the export/re-export of plants or plant products, and attests that the consignment of plants or plant products is free from specified plant pests including any additional declarations and/or treatment required, to meet requirements of the destination country.</p>
+<p>A phytosanitary certificate is an official document that certifies consignments meet the phytosanitary import requirements of the destination country. This certification applies to most plants, plant products and other regulated articles in international trade. A phytosanitary certificate for export or re-export can only be issued by a technically qualified public officer who is duly authorised by NParks.</p>
 
 <strong>Additional Information</strong>
 
-<p><span style="text-decoration: underline;"><strong>Fees:</strong></span></p> 
-<p>Payment for Phytosanitary Certificate (PC) application will be collected after inspection and before issuance of your PC.</p>
+<p>
+    <strong>Fees:</strong>
+    <br>Payment for Phytosanitary Certificate (PC) application will be collected after inspection and before issuance of your PC.
+</p>
 
 <H3>Documents Needed</H3>
 
 N.A.
-
