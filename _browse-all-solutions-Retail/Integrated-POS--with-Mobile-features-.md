@@ -32,6 +32,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>Eurostop Singapore Private Limited</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200203560D-Intgrtd-Rtl-MGT-SLN-v-1-G' target='_blank'>Integrated Retail Management Solution Version 1</a><br></td>
+<td>ELEOS WEB PTE. LTD.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200816700E-LFSUITE-G' target='_blank'>LFSUITE</a><br></td>
 <td>LEVELFIVE SOLUTIONS PTE. LTD.</td>
 </tr>
