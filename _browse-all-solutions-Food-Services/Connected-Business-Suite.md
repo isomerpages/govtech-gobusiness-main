@@ -56,10 +56,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>iCHEF SG PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200503951K-Mkn-FS' target='_blank'>iMakan</a><br></td>
-<td>Megasafe Technology Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/198204281M-IORDERLA-DIGITAL-ORDERING-BYOD-SLN-FS' target='_blank'>IORDERLA DIGITAL ORDERING BYOD SOLUTION</a><br></td>
 <td>SUNTOYO TECHNOLOGY PTE LTD</td>
 </tr>
@@ -70,6 +66,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201934203W-Lunchbox-Smrt-Rsturnt-SLN-v-11-FS' target='_blank'>Lunchbox Smart Restaurant Solution Version 1.1</a><br></td>
 <td>Lunchbox Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200503951K-MEGAPOS-FS' target='_blank'>MEGAPOS</a><br></td>
+<td>Megasafe Technology Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201220029K-NPOS-FS' target='_blank'>NPOS</a><br></td>

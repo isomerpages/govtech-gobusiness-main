@@ -1,9 +1,9 @@
 ---
-title: 'iMakan'
-permalink: /productivity-solutions-grant/solutionrepo/200503951K-Mkn-FS
+title: 'MEGAPOS'
+permalink: /productivity-solutions-grant/solutionrepo/200503951K-MEGAPOS-FS
 ---
 
-## iMakan
+## MEGAPOS
 
 ## Overview
 
@@ -23,38 +23,38 @@ iMakan Self Ordering optimizes F&B operations, featuring Self Ordering Kiosks, Q
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iMakan - Mobile Ordering(Subscription)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS - Mobile Ordering(Subscription)</td>
 <td style='padding: 10px;'>$4,780.00</td>
 <td style='padding: 10px;'>$4,780.00</td>
-<td style='padding: 10px;'><a href='/images/psg/200503951K_20240031_09012025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/200503951K_20240031_180920205_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iMakan - Self Ordering with Analytics</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS - Self Ordering with Analytics</td>
 <td style='padding: 10px;'>$6,780.00</td>
 <td style='padding: 10px;'>$6,780.00</td>
-<td style='padding: 10px;'><a href='/images/psg/200503951K_20240031_09012025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/200503951K_20240031_180920205_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iMakan - Digital & QR Ordering Standard with Analytics</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS - Digital & QR Ordering Standard with Analytics</td>
 <td style='padding: 10px;'>$7,980.00</td>
 <td style='padding: 10px;'>$7,980.00</td>
-<td style='padding: 10px;'><a href='/images/psg/200503951K_20240031_09012025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/200503951K_20240031_180920205_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iMakan - F&B Full Digitalisation with Analytics</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS - F&B Full Digitalisation with Analytics</td>
 <td style='padding: 10px;'>$10,780.00</td>
 <td style='padding: 10px;'>$10,080.00</td>
-<td style='padding: 10px;'><a href='/images/psg/200503951K_20240031_09012025_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/200503951K_20240031_180920205_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iMakan - Kiosk + QR Full Digi with Analytics</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS - Kiosk + QR Full Digi with Analytics</td>
 <td style='padding: 10px;'>$13,380.00</td>
 <td style='padding: 10px;'>$10,880.00</td>
-<td style='padding: 10px;'><a href='/images/psg/200503951K_20240031_09012025_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/200503951K_20240031_180920205_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
