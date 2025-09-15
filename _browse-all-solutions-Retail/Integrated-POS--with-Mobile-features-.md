@@ -40,6 +40,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>LEVELFIVE SOLUTIONS PTE. LTD.</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200503951K-MEGAPOS-G' target='_blank'>MEGAPOS</a><br></td>
+<td>Megasafe Technology Pte. Ltd.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200310497R-MyRtlr-&rod-Pos-G' target='_blank'>MyRetailer Android Pos</a><br></td>
 <td>DCS Synthesis Pte. Ltd.</td>
 </tr>
