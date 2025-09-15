@@ -15,7 +15,14 @@ Ministry of Law (MINLAW)
 <H3>Application Details</H3>
 
 <p>For businesses that conduct regulated dealing (in precious stones, precious metals, precious products or asset-backed tokens) or as an intermediary for regulated dealing.</p>
-<p>Before applying: Please ensure that you have the requisite information/ documents. More information on requisite information/ documents are available at <a href="https://acd.mlaw.gov.sg/" target="_blank" rel="noopener">https://acd.mlaw.gov.sg</a>.</p>
+<p>Before applying: Please ensure that you have the requisite information/ documents.</p>
+<p>Processing Time:
+    <ul>
+        <li>Processing of the application will commence once the Ministry of Law receives the duly completed application form and the relevant supporting documents. This includes a satisfactory response to any clarifications requested from the applicant. The application will typically take 30 working days to process, provided that these prerequisites are met.</li>
+        <li>To minimise delays in processing of the application, please ensure that all documents are submitted correctly. Additionally, check the email account (including the junk/spam folders) used for the application and respond promptly to any request for action from the Registrar.</li>
+    </ul>
+</p>
+<p>More information on requisite information/ documents are available at <a href="https://acd.mlaw.gov.sg/" target="_blank" rel="noopener">https://acd.mlaw.gov.sg</a>.</p>
 
 <H3>FAQ</H3>
 <ol>
@@ -80,4 +87,3 @@ Ministry of Law (MINLAW)
 <H3>Requirements</H3>
 
 <p>Applicant must be ACRA-registered business entity.</p>
-
