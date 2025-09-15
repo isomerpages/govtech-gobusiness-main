@@ -1,9 +1,9 @@
 ---
-title: 'Voltade AI Chatbot Version 1'
-permalink: /productivity-solutions-grant/solutionrepo/202307668E-Voltd-AI-Chtbot-v-1-G
+title: 'Voltade Envoy Version 1'
+permalink: /productivity-solutions-grant/solutionrepo/202307668E-Voltd-Envoy-v-1-G
 ---
 
-## Voltade AI Chatbot Version 1
+## Voltade Envoy Version 1
 
 ## Overview
 
@@ -26,21 +26,21 @@ Highly custom AI chatbot that answers complex enquiries, collects data, converts
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essentials</td>
 <td style='padding: 10px;'>$4,600.00</td>
 <td style='padding: 10px;'>$4,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/202307668E_20240213_26112024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/202307668E_20240213_180920205_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Custom</td>
 <td style='padding: 10px;'>$17,000.00</td>
 <td style='padding: 10px;'>$16,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/202307668E_20240213_26112024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/202307668E_20240213_180920205_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
 <td style='padding: 10px;'>$27,000.00</td>
 <td style='padding: 10px;'>$16,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/202307668E_20240213_26112024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/202307668E_20240213_180920205_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
