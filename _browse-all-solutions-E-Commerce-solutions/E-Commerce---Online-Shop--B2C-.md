@@ -56,6 +56,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Creative E-World Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202137408G-DgEcom-v-13-G' target='_blank'>DigiEcom Version 1.3</a><br></td>
+<td>DIGI MARKETING PTE. LTD.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202033959E-Dgpxl-Ecommrc-v-10-G' target='_blank'>Digipixel E-commerce Version 1.0</a><br></td>
 <td>Digipixel Pte. Ltd.</td>
 </tr>
