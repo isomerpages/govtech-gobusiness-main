@@ -1,6 +1,6 @@
 ---
 title: 'Field Service Management'
-permalink: /browse-all-solutions-Cyber-Security-solutions/Field-Service-Management
+permalink: /browse-all-solutions-Field-Service-Management/Field-Service-Management
 ---
 
 ## Field Service Management

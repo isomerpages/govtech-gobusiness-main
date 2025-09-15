@@ -4,7 +4,6 @@ collections:
     order:
       - back-to-all-psg-solutions.md
       - Backup.md
-      - Field-Service-Management.md
       - Firewall.md
       - Integrated-Package.md
       - Virus-Malware-Protection.md
