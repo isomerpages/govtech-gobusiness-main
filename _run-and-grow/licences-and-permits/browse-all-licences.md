@@ -302,8 +302,10 @@ Select an industry to see a list of relevant licences here. You can also browse 
 <a name="manufacturing-and-industrial-services"></a>
 
 ## Manufacturing & Industrial Services
-- [Certificate of Registration Under The Control of Manufacture Act](/browse-all-licences/Economic-Development-Board-(EDB)/Certificate-of-Registration-Under-The-Control-of-Manufacture-Act)
-- [Licence Under The Manufacture of Optical Discs Act](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=284)
+- [Certificate of Registration under the Control of Manufacture Act (All applicants other than Singapore-owned Beer and Stout applicants)](/browse-all-licences/Economic-Development-Board-(EDB)/Certificate-of-Registration-Under-The-Control-of-Manufacture-Act-(All-applicants-other-than-Singapore-owned-Beer-and-Stout-applicants))
+- [Certificate of Registration under the Control of Manufacture Act (Singapore-owned Beer and Stout applicants)](/browse-all-licences/Enterprise-Singapore-(EnterpriseSG)/Certificate-of-Registration-Under-The-Control-of-Manufacture-Act-(Singapore-owned-Beer-and-Stout-applicants))
+- [Licence under the Manufacture of Optical Discs Act (All applicants other than local applicants)](/browse-all-licences/Economic-Development-Board-(EDB)/Licence-Under-The-Manufacture-of-Optical-Discs-Act-(All-applicants-other-than-local-applicants))
+- [Licence under the Manufacture of Optical Discs Act (Local applicants)](/browse-all-licences/Enterprise-Singapore-(EnterpriseSG)/Licence-Under-The-Manufacture-of-Optical-Discs-Act-(Local-applicants))
 
 <a name="maritime-and-port"></a>
 
