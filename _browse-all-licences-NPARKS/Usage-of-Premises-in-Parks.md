@@ -13,4 +13,3 @@ National Parks Board (NPARKS)
 <H3>Application Details</H3>
 
 <p>To use any premises in the parks for an event, you need approval from NParks.</p>
-
