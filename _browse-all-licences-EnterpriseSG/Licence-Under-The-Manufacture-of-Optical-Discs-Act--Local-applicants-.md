@@ -1,10 +1,10 @@
 ---
-title: License under the Manufacture of Optical Discs Act (Local applicants)
+title: Licence under the Manufacture of Optical Discs Act (Local applicants)
 permalink: /browse-all-licences/Enterprise-Singapore-(EnterpriseSG)/Licence-Under-The-Manufacture-of-Optical-Discs-Act-(Local-applicants)
 third_nav_title: Enterprise Singapore (EnterpriseSG)
 ---
 
-## Apply for License under the Manufacture of Optical Discs Act (Local applicants)
+## Apply for Licence under the Manufacture of Optical Discs Act (Local applicants)
 
 Enterprise Singapore (EnterpriseSG)
 

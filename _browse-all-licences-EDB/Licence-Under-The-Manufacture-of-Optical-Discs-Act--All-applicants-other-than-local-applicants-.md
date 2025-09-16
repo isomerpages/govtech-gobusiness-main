@@ -1,10 +1,10 @@
 ---
-title: License under the Manufacture of Optical Discs Act (All applicants other than local applicants)
+title: Licence under the Manufacture of Optical Discs Act (All applicants other than local applicants)
 permalink: /browse-all-licences/Economic-Development-Board-(EDB)/Licence-Under-The-Manufacture-of-Optical-Discs-Act-(All-applicants-other-than-local-applicants)
 third_nav_title: Economic Development Board (EDB)
 ---
 
-## Apply for License under the Manufacture of Optical Discs Act (All applicants other than local applicants)
+## Apply for Licence under the Manufacture of Optical Discs Act (All applicants other than local applicants)
 
 Economic Development Board (EDB)
 
