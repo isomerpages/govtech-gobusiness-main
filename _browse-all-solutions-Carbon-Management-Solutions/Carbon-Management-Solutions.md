@@ -24,6 +24,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>EVERCOMM SINGAPORE PTE LTD</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200101384G-Convn-ESG-G' target='_blank'>Convene ESG</a><br></td>
+<td>CONVENE SG PTE. LTD.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201904974E-ESGpd-Nxus-G' target='_blank'>ESGpedia Nexus</a><br></td>
 <td>ESGPEDIA PTE. LTD.</td>
 </tr>

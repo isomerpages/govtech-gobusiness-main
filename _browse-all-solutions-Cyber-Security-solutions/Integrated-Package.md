@@ -36,6 +36,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>Win-Pro Consultancy Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201000126H-Mcrosoft-365-Busnss-G' target='_blank'>Microsoft 365 Business</a><br></td>
+<td>AFON IT PTE. LTD.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201730809W-Mcrosoft-Busnss-Prmum-G' target='_blank'>Microsoft Business Premium</a><br></td>
 <td>ACCESSORANGE PTE. LTD.</td>
 </tr>

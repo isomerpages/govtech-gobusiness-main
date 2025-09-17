@@ -56,7 +56,7 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>Sleekflow Technologies (Singapore) Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202307668E-Voltd-AI-Chtbot-v-1-G' target='_blank'>Voltade AI Chatbot Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/202307668E-Voltd-Envoy-v-1-G' target='_blank'>Voltade Envoy Version 1</a><br></td>
 <td>VOLTADE PTE. LTD.</td>
 </tr>
 <tr>

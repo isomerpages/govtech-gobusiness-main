@@ -1,0 +1,71 @@
+---
+title: 'MEGAPOS'
+permalink: /productivity-solutions-grant/solutionrepo/200503951K-MEGAPOS-FS
+---
+
+## MEGAPOS
+
+## Overview
+
+**Description**
+
+iMakan Self Ordering optimizes F&B operations, featuring Self Ordering Kiosks, QR Ordering, and Online Ordering. The user-friendly interface ensures swift, hassle-free transactions, while automated upselling maximizes revenue potential for F&B owners. iMakan's seamless integration of cashless payments further enhances efficiency, providing a comprehensive solution for F&B owners seeking profitability and streamlined operations.
+
+## Solution Packages Option(s)
+
+<table>
+<tr>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS - Mobile Ordering(Subscription)</td>
+<td style='padding: 10px;'>$4,780.00</td>
+<td style='padding: 10px;'>$4,780.00</td>
+<td style='padding: 10px;'><a href='/images/psg/200503951K_20240031_180920205_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS - Self Ordering with Analytics</td>
+<td style='padding: 10px;'>$6,780.00</td>
+<td style='padding: 10px;'>$6,780.00</td>
+<td style='padding: 10px;'><a href='/images/psg/200503951K_20240031_180920205_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS - Digital & QR Ordering Standard with Analytics</td>
+<td style='padding: 10px;'>$7,980.00</td>
+<td style='padding: 10px;'>$7,980.00</td>
+<td style='padding: 10px;'><a href='/images/psg/200503951K_20240031_180920205_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS - F&B Full Digitalisation with Analytics</td>
+<td style='padding: 10px;'>$10,780.00</td>
+<td style='padding: 10px;'>$10,080.00</td>
+<td style='padding: 10px;'><a href='/images/psg/200503951K_20240031_180920205_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS - Kiosk + QR Full Digi with Analytics</td>
+<td style='padding: 10px;'>$13,380.00</td>
+<td style='padding: 10px;'>$10,880.00</td>
+<td style='padding: 10px;'><a href='/images/psg/200503951K_20240031_180920205_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+</tr>
+</table>
+
+## Mode and Schedule of Payment
+
+ - Subscription / Leasing
+
+## Vendor Information
+
+ Company Name: Megasafe Technology Pte. Ltd.<br>Web URL: www.megapos.com.sg <br>Contact Hotline: 62245788 <br>Contact Email: sales@megasafe.com.sg <br>
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+
+<script src="/jquery/resize-tables.js"></script>
