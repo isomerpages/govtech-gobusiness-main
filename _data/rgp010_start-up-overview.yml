@@ -1,7 +1,7 @@
 - image: <img src="/images/start/submitreturns-icon.png" aria-hidden="true">
   title: I want to register my business
   description: Reserve your business name and register your business entity on ACRA's BizFile+
-  url: https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx
+  url: https://www.bizfile.gov.sg/instruction/name-application
   url-new-tab: true
   text: Apply on ACRA BizFile+
 
