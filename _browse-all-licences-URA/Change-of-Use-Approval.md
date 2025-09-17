@@ -30,7 +30,7 @@ Urban Redevelopment Authority (URA)
                     <li>fire safety works are to be carried out.</li>
                 </ul>
             (Note: Any unauthorised fire safety works may result in fines up to $200,000 and/or imprisonment for up to 2 years.)</li>
-            <li>For more information , please visit the SCDF website at <a href="https://www.scdf.gov.sg/fire-safety-services-listing/plans-submission-process/plan-approval" target="_blank" rel="noopener">https://www.scdf.gov.sg/fire-safety-services-listing/plans-submission-process/plan-approval</a>. If you need any clarification on fire safety requirements for the use of your premises, please consult SCDF using this link <a href="https://form.gov.sg/673be1c886e90e3123cefa94" target="_blank" rel="noopener">https://form.gov.sg/673be1c886e90e3123cefa94</a>.</li>
+            <li>For more information , please visit the SCDF website at <a href="https://www.scdf.gov.sg/fire-safety-services-listing/plans-submission-process/plan-approval" target="_blank" rel="noopener">https://www.scdf.gov.sg/fire-safety-services-listing/plans-submission-process/plan-approval</a>. If you need any clarification on fire safety requirements for the use of your premises, please consult SCDF using this link <a href="https://www.scdf.gov.sg/home/contact-info" target="_blank" rel="noopener">https://www.scdf.gov.sg/home/contact-info</a>.</li>
         </ul>
     <li>Other licensing agencies</li>
         <ul>
