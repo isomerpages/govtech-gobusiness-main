@@ -10,33 +10,33 @@ $regular: 400;
 $light: 300;
 
 @font-face {
-  src: url(/fonts/HKNova-Light.otf);
-  font-family: hknova-light;
+  src: url(/fonts/Lexend-Light.ttf);
+  font-family: lexend-light;
   font-weight: $light;
 }
 @font-face {
-  src: url(/fonts/HKNova-Regular.otf);
-  font-family: hknova-regular;
+  src: url(/fonts/Lexend-Regular.ttf);
+  font-family: lexend-regular;
   font-weight: $regular;
 }
 @font-face {
-  src: url(/fonts/HKNova-SemiBold.otf);
-  font-family: hknova-semibold;
+  src: url(/fonts/Lexend-SemiBold.ttf);
+  font-family: lexend-semibold;
   font-weight: $semi-bold;
 }
 @font-face {
-  src: url(/fonts/HKNova-Medium.otf);
-  font-family: hknova-medium;
+  src: url(/fonts/Lexend-Medium.ttf);
+  font-family: lexend-medium;
   font-weight: $medium;
 }
 @font-face {
-  src: url(/fonts/HKNova-Bold.otf);
-  font-family: hknova-bold;
+  src: url(/fonts/Lexend-Bold.ttf);
+  font-family: lexend-bold;
   font-weight: $bold;
 }
 @font-face {
-  src: url(/fonts/HKNova-ExtraBold.otf);
-  font-family: hknova-extrabold;
+  src: url(/fonts/Lexend-ExtraBold.ttf);
+  font-family: lexend-extrabold;
   font-weight: $extra-bold;
 }
 
@@ -236,7 +236,7 @@ $desktop: 960px + (2 * $gap) !default;
     }
     li a[class~="is-active"],
     li a[class~="has-text-weight-bold"] {
-      font-family: hknova-semibold;
+      font-family: lexend-semibold;
       font-weight: 600;
     }
   }
@@ -275,7 +275,7 @@ $desktop: 960px + (2 * $gap) !default;
 
   .sub-header {
     .has-text-white {
-      font-family: hknova-semibold;
+      font-family: lexend-semibold;
       font-weight: 600;
     }
   }
@@ -294,13 +294,13 @@ $desktop: 960px + (2 * $gap) !default;
 }
 .bp-button.bp-dropdown-button.is-fullwidth {
   p {
-    font-family: hknova-regular;
+    font-family: lexend-regular;
   }
 }
 .bp-dropdown-content {
   p,
   h5 {
-    font-family: hknova-regular;
+    font-family: lexend-regular;
   }
 }
 
@@ -422,12 +422,12 @@ $desktop: 960px + (2 * $gap) !default;
 
   .navbar-item {
     a {
-      font-family: hknova-semibold;
+      font-family: lexend-semibold;
       font-weight: 600;
       text-transform: none !important;
     }
     .sub-link {
-      font-family: hknova-regular;
+      font-family: lexend-regular;
       font-weight: 400;
     }
     .sub-link.is-active {
@@ -466,10 +466,10 @@ $desktop: 960px + (2 * $gap) !default;
   p,
   u,
   small {
-    font-family: hknova-regular;
+    font-family: lexend-regular;
   }
   h1[class~="has-text-white"]>b {
-    font-family: hknova-semibold;
+    font-family: lexend-semibold;
     font-weight: 600;
   }
 }
@@ -477,12 +477,12 @@ $desktop: 960px + (2 * $gap) !default;
 // Post-content
 .content {
   h1 {
-    font-family: hknova-bold;
+    font-family: lexend-bold;
     color: $secondary;
   }
   h2,
   h3 {
-    font-family: hknova-semibold;
+    font-family: lexend-semibold;
     color: $secondary;
     strong {
       color: $secondary;
@@ -495,16 +495,16 @@ $desktop: 960px + (2 * $gap) !default;
   }
 
   h4 {
-    font-family: hknova-semibold;
+    font-family: lexend-semibold;
     color: #313840;
   }
 
   h5 {
-    font-family: hknova-semibold;
+    font-family: lexend-semibold;
   }
 
   strong {
-    font-family: hknova-bold;
+    font-family: lexend-bold;
     font-weight: $bold;
     font-size: 18px;
     line-height: 27px;
@@ -517,7 +517,7 @@ $desktop: 960px + (2 * $gap) !default;
   li,
   div,
   em {
-    font-family: hknova-regular;
+    font-family: lexend-regular;
   }
   blockquote {
     border-left-color: $secondary;
@@ -561,7 +561,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Type scale iterations
 h1 {
-  font-family: hknova-bold;
+  font-family: lexend-bold;
   font-size: 48px;
   font-weight: $bold;
   line-height: 52px;
@@ -570,7 +570,7 @@ h1 {
 }
 
 h2 {
-  font-family: hknova-semibold;
+  font-family: lexend-semibold;
   font-size: 36px;
   font-weight: $semi-bold;
   line-height: 45px;
@@ -578,7 +578,7 @@ h2 {
 }
 
 h3 {
-  font-family: hknova-semibold;
+  font-family: lexend-semibold;
   font-size: 28px;
   font-weight: $semi-bold;
   line-height: 35px;
@@ -586,7 +586,7 @@ h3 {
 }
 
 h4 {
-  font-family: hknova-semibold;
+  font-family: lexend-semibold;
   font-size: 24px;
   font-weight: $semi-bold;
   line-height: 30px;
@@ -594,13 +594,13 @@ h4 {
 }
 
 p {
-  font-family: hknova-regular;
+  font-family: lexend-regular;
   font-size: 18px;
   font-weight: $regular;
 }
 
 .p1 {
-  font-family: hknova-semibold;
+  font-family: lexend-semibold;
   font-size: 18px;
   font-weight: $semi-bold;
   line-height: 27px;
@@ -608,7 +608,7 @@ p {
 }
 
 .p2 {
-  font-family: hknova-regular;
+  font-family: lexend-regular;
   font-size: 16px;
   font-weight: $regular;
   line-height: 24px;
@@ -616,7 +616,7 @@ p {
 }
 
 .p3 {
-  font-family: hknova-regular;
+  font-family: lexend-regular;
   font-size: 14px;
   font-weight: $regular;
   line-height: 21px;
@@ -627,13 +627,13 @@ a,
 p,
 li,
 em {
-  font-family: hknova-regular;
+  font-family: lexend-regular;
 }
 
 // Table of Contents
 .content table td,
 .content table th {
-  font-family: hknova-regular;
+  font-family: lexend-regular;
   font-size: 18px;
   padding: 24px 20px;
 }
@@ -650,7 +650,7 @@ em {
 .media-category-button:hover,
 .media-category-button.selected {
   color: $secondary;
-  font-family: hknova-regular;
+  font-family: lexend-regular;
   border-bottom: 2px solid $secondary;
 }
 
@@ -777,7 +777,7 @@ p > img[src*="/images/blog/content/"] {
 
 .news-content {
   position: relative;
-  font-family: hknova-regular;
+  font-family: lexend-regular;
   margin-left: 1rem;
   margin-right: 1rem;
   padding: 2rem;
@@ -834,10 +834,10 @@ p > img[src*="/images/blog/content/"] {
 .x {
   color: white;
   line-height: revert;
-  font-family: hknova-regular;
+  font-family: lexend-regular;
 
   b {
-    font-family: hknova-semibold;
+    font-family: lexend-semibold;
   }
 
   a {
@@ -861,7 +861,7 @@ p > img[src*="/images/blog/content/"] {
     position: absolute;
     left: 25%;
     top: 22%;
-    font-family: hknova-semibold;
+    font-family: lexend-semibold;
     font-size: 14px;
     font-weight: 600;
     line-height: 21px;
@@ -900,7 +900,7 @@ p > img[src*="/images/blog/content/"] {
 }
 
 .btn{
-  font-family: hknova-semibold;
+  font-family: lexend-semibold;
   font-weight: 600;
   padding: 12.5px 24px;
   margin-bottom: 0;
@@ -921,7 +921,7 @@ p > img[src*="/images/blog/content/"] {
 }
 
 .lic-btn{
-  font-family: hknova-semibold;
+  font-family: lexend-semibold;
   font-weight: 600;
   padding: 12.5px 24px;
   margin-bottom: 0;
@@ -1006,14 +1006,14 @@ hr {
 
 // Chatbot
 div#webchat-container {
-  font-family: 'hknova-regular';
+  font-family: 'lexend-regular';
 }
 
 // General Paragraphs
 div#webchat-container > div > div > div:nth-child(2) div,
 div#webchat-container > div > div > div:nth-child(2) p
 {
-  font-family: 'hknova-regular';
+  font-family: 'lexend-regular';
   font-size: 14px;
   line-height: 1.25rem;
 }
@@ -1024,7 +1024,7 @@ div#webchat-container ul {
   list-style-position: outside;
 
   li {
-    font-family: 'hknova-regular';
+    font-family: 'lexend-regular';
     font-size: 14px;
     line-height: 1.25rem;
   }
@@ -1039,7 +1039,7 @@ div#webchat-container > div > div > div:nth-child(2) > div > div {
 
 // User's responses
 div#webchat-container div[direction="row-reverse"] > div > div > span {
-  font-family: 'hknova-regular';
+  font-family: 'lexend-regular';
   font-size: 14px;
   line-height: 1.25rem;
 }
@@ -1048,7 +1048,7 @@ div#webchat-container div[direction="row-reverse"] > div > div > span {
 div#webchat-container .kxXLiI, 
 div#webchat-container .duZRnn, 
 div#webchat-container .liDYoY {
-  font-family: 'hknova-semibold' !important;
+  font-family: 'lexend-semibold' !important;
   font-size: 14px !important;
   line-height: 1.25rem !important;
 }
