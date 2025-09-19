@@ -16,11 +16,16 @@ Infocomm Media Development Authority (IMDA)
 
 <strong>Additional Information</strong>
 
-<p><strong>Fees</strong><br />N/A</p>
+<p>
+    <strong>Fees</strong>
+    <br>N/A
+</p>
 
 <H3>Documents Needed</H3>
 
 <ul>
-<li><strong>A description of the proposed technical trial with a network configuration diagram to depict how the network works. </strong></li>
+    <li>
+        <strong>Proposed Technical Trial</strong>
+        <br>A description of the proposed technical trial with a network configuration diagram to depict how the network works.
+    </li>
 </ul>
-

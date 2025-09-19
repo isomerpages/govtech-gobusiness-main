@@ -595,7 +595,7 @@
         -----
         **Arts Entertainment Licence**
         
-        For carrying out any form of arts entertainment such as plays, stand-up comedies, dance performances, music performances (such as variety shows and concerts), art exhibitions and literary readings (such as play-readings and poetry-readings), unless exempted.
+        For carrying out any form of arts entertainment such as plays, stand-up comedies, dance performances, music performances (such as variety shows and concerts), art exhibitions and literary readings (such as play-readings and poetry-readings), unless <a href="https://iris.imda.gov.sg/application/arts-entertainment-licence#exempted-categories-of-arts-entertainment" target="_blank" rel="noopener">exempted</a>.
         
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/artsentertainmentlicence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Arts-Entertainment-Licence">View Licence Details</a>
         
@@ -604,7 +604,7 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 145px; height: 22px; padding: 2px 8px; font-family: lexend-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        The ONLS Licence is for a service that propagates, promotes, or discusses political or religious issues relating to Singapore on the World Wide Web through the Internet, and which met the reach and content criteria.
+        Under the Online News Licensing Scheme, an online news website must be individually licensed if it meets a set of criteria. 
 
         <a class="btn" href="https://iris.imda.gov.sg/applications" target="_blank" rel="noopener">Apply on IMDA</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Computer-Online-Service-Licence">View Licence Details</a>
 
@@ -644,7 +644,7 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 145px; height: 22px; padding: 2px 8px; font-family: lexend-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        You should apply for an Experimental Station Licence if you intend to conduct research and development activities, testing, experiments, or demonstrations in radiocommunication / using radiocommunication equipment.
+        You require an Experimental Station Licence if you intend to conduct research and development activities, testing, experiments, or demonstrations in radiocommunication / using radiocommunication equipment.
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/experimentalstation" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Experimental-Station-Licence">View Licence Details</a>
 
@@ -739,11 +739,7 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 145px; height: 22px; padding: 2px 8px; font-family: lexend-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        You should apply for a Localised Private Network Licence if you intend to operate a radio-communication network (such as walkie talkie network) within a localised area. This means the coverage of the network is confined to a specific location.
-        
-        Examples of a localised area include:
-        - A compound (including buildings, roads and car parks) within the same postal code.
-        - A construction site within one land lot number.
+        For operation of a radio-communication network (such as walkie talkie network) within a localised area.
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/lpn" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Localised-Private-Network-Licence">View Licence Details</a>
 
@@ -793,7 +789,7 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 145px; height: 22px; padding: 2px 8px; font-family: lexend-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        For operating a press in Singapore to print documents such as pamphlets, maps, charts, newspapers and magazines but not invoices, name cards, letter heads, etc.
+        For operating a press in Singapore to print documents such as pamphlets, maps, charts, newspapers and magazines, but not invoices, name cards, letter heads, etc.
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/printingpress" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Printing-Press-Licence">View Licence Details</a>
 
@@ -829,6 +825,8 @@
 
         For the provision of a website/s with political or religious content.
 
+        IMDA will issue a notice to register if required.
+
         <a class="btn" href="https://iris.imda.gov.sg/applications" target="_blank" rel="noopener">Apply on IMDA</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Registration-Form-C-for-Class-Licensable-Broadcasting-Services">View Licence Details</a>
 
         -----
@@ -849,7 +847,9 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 145px; height: 22px; padding: 2px 8px; font-family: lexend-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        For leasing telecommunication network elements from any Facilities-Based Operator (FBO) licensed by the Info-communications Media Development Authority (IMDA) so as to provide their own telecommunication services or to resell the telecommunication services of FBOs or Services-Based Operators (SBOs) to third parties.
+        For leasing telecommunication network elements from any Facilities-Based Operator (FBO) licensed by the Info-communications Media Development Authority (IMDA) so as to provide their own telecommunication services or to resell the telecommunication services of FBOs or Services-Based Operations (SBOs) licensees to third parties.
+
+        SBO (Class) Licensees shall not collect monetary deposits and/or use prepaid cards as a means of collecting payment from their customers.
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/sboclass" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Services-Based-Operations-(Class)-Licence">View Licence Details</a>
 
@@ -865,7 +865,7 @@
         -----
         **Ship Station Licence**
 
-        You should apply for a Ship Station Licence if you have radio-communication equipment installed on board ships registered in Singapore.
+        The Ship Station Licence is issued for the operation of the radio-communication equipment installed on-board ships registered in Singapore.
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/shipstation" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Ship-Station-Licence">View Licence Details</a> 
 
@@ -887,7 +887,7 @@
 
         SER is applicable to:
         
-        Mobile Terminals e.g. 3G/LTE/GMPCS mobile phone
+        Mobile Terminals e.g. 5G/LTE/GMPCS mobile phone, IoT user equipment
         
         Broadband Access Equipment e.g. ADSL, Cable Modem and CCHN equipment
 
@@ -987,7 +987,7 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 145px; height: 22px; padding: 2px 8px; font-family: lexend-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        The Info-communications Media Development Authority issues TV Receive-Only (TVRO) System Licences to organisations that need to access time sensitive information for business decisions or require TVRO systems for their business operations. These organisations include commercial institutions endorsed by the Economic Development Board (EDB) or Enterprise Singapore (ESG), foreign embassies endorsed by the Ministry of Foreign Affairs (MFA), hotels endorsed by the Singapore Tourism Board (STB), foreign tertiary education institutions and international schools endorsed by EDB, and local tertiary education institutions.
+        The Info-communications Media Development Authority issues TV Receive-Only (TVRO) System Licences to organisations that need to access time sensitive information for business decisions or require TVRO systems for their business operations.
 
         <a class="btn" href="https://iris.imda.gov.sg/application/television-receive-only-satellite-receiving-system-licence" target="_blank" rel="noopener">Apply on IMDA</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/TV-Receive-Only-System-Licence">View Licence Details</a>
 

@@ -14,8 +14,62 @@ Infocomm Media Development Authority (IMDA)
 
 <H3>Application Details</H3>
 
-<p>You require a Satellite Communication Station Licence if you intend to operate a radio-communication equipment to transmit, receive, or transmit and receive messages through satellites.
-</p><p>
-For more information on the Satellite Communication Station Licence, please access <a href="https://iris.imda.gov.sg/application/satellite-communication-station-licence">https://iris.imda.gov.sg/application/satellite-communication-station-licence</a>.
+<p>
+You need a Satellite Communication Station Licence to install and operate any of the following types of stations for satellite communication:
+    <ul>
+        <li>Portable Satellite Communication Terminal: A station or terminal that is portable or mobile.</li>
+        <li>Very Small Aperture Terminal (VSAT): A fixed station that uses an antenna no larger than 4 metres in size.</li>
+        <li>Earth Station: A fixed station that uses an antenna that is at least 4 metres in size.</li>
+        <li>Tracking, Telemetry and Command (TT&C) Earth Station: A fixed station that performs TT&C functions for a satellite as its main purpose.</li>
+    </ul>
 </p>
 
+<h3>FAQs</h3>
+<ol>
+    <li>
+        <strong>What is the validity of the licence?</strong>
+        <br>1 year
+    </li>
+    <li>
+        <strong>Where can I find more information on Satellite Communication Station Licence?</strong>
+        <br>For more information on the Satellite Communication Station Licence, please access <a href="https://iris.imda.gov.sg/application/satellite-communication-station-licence" target="_blank" rel="noopener">https://iris.imda.gov.sg/application/satellite-communication-station-licence</a>.
+    </li>
+</ol>
+
+<strong>Additional Information</strong>
+
+<p>
+    <strong>Station Fee</strong>
+    <br>VSAT, Earth Station or TT&C Earth Station: $100 per station per annum
+    <br>Portable Satellite Communication Terminal: $50 per station per annum.
+    <br>GST is not applicable.
+</p>
+<p>
+    <strong>Frequency Fee</strong>
+    <br>Depending on the bandwidth of the frequencies. GST is applicable.
+</p>
+<p>
+    <strong>Application & Processing Fee</strong>
+    <br>$300.00 per frequency requested. GST is applicable.
+</p>
+
+<H3>Documents Needed</H3>
+
+<ul>
+    <li>
+        Justification for why the equipment is required.
+    </li>
+    <li>
+        A satellite link budget showing the frequency and bandwidth required, and Equivalent Isotropically Radiated Power (EIRP) of the antenna.
+    </li>
+    <li>
+        Technical specifications of the equipment.
+    </li>
+    <li>
+        A site map of where the station will be installed.
+    </li>
+</ul>
+
+<H3>Requirements</H3>
+
+Applicant must be ACRA registered company/business

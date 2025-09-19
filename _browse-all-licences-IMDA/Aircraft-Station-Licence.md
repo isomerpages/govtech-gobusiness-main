@@ -16,12 +16,21 @@ Infocomm Media Development Authority (IMDA)
 
 <strong>Additional Information</strong>
 
-<p><strong>Fee</strong><br />Licence Fee: $100.00 for 5 years. GST is not applicable.</p>
+<p>
+    <strong>Fee</strong>
+    <br>Licence Fee: $100.00 for 5 years. GST is not applicable.
+</p>
 
 <H3>Documents Needed</H3>
 
 <ul>
-<li><strong>A copy of the Civil Aviation Authority of Singapore Approval</strong></li>
-<li><strong>A copy of the Equipment Information List</strong></li>
+    <li>
+        <strong>Civil Aviation Authority of Singapore Approval</strong>
+        <br>A copy of the Civil Aviation Authority of Singapore Approval
+    </li>
+    <li>
+        <strong>Equipment Information List</strong>
+        <br>A copy of the Equipment Information List
+    </li>
 </ul>
 

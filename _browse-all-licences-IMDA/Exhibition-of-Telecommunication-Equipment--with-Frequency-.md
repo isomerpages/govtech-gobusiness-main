@@ -16,11 +16,16 @@ Infocomm Media Development Authority (IMDA)
 
 <strong>Additional Information</strong>
 
-<p><strong>Fees</strong><br />Frequency fee: To be determined</p>
+<p>
+    <strong>Fees</strong>
+    <br>Frequency fee: To be determined
+</p>
 
 <H3>Documents Needed</H3>
 
 <ul>
-<li><strong>A brief description on the intended use of frequency, the types of equipment to be exhibited and their functions.</strong></li>
+    <li>
+        <strong>Intent Document</strong>
+        <br>A brief description on the intended use of frequency, the types of equipment to be exhibited and their functions.
+    </li>
 </ul>
-
