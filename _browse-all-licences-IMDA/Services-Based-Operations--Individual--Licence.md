@@ -14,7 +14,12 @@ Infocomm Media Development Authority (IMDA)
 
 <H3>Application Details</H3>
 
-<p>For leasing telecommunication network elements from any Facilities-Based Operator (FBO) licensed by the Info-communications Media Development Authority (IMDA) so as to provide their own telecommunication services or to resell the telecommunication services of FBOs or Services-Based Operators (SBOs) to third parties.</p>
+<p>
+    For leasing telecommunication network elements from any Facilities-Based Operator (FBO) licensed by the Info-communications Media Development Authority (IMDA) so as to provide their own telecommunication services or to resell the telecommunication services of FBOs or Services-Based Operators (SBOs) to third parties.
+</p>
+<p>
+    For more information on the Services-Based Operations (Individual) Licence, please access <a href="https://iris.imda.gov.sg/application/services-based-operations-licence" target="_blank" rel="noopener">https://iris.imda.gov.sg/application/services-based-operations-licence</a>.
+</p>
 
 <strong>Additional Information</strong>
 
@@ -46,13 +51,13 @@ Infocomm Media Development Authority (IMDA)
 <H3>Documents Needed</H3>
 
 <ul>
-<li><strong>Description of each service (Including scope and type)</strong></li>
-<li><strong>Latest ACRA Bizfile</strong></li>
-<li><strong>System/Network Configuration Diagram</strong></li>
-<li><strong>Financial Information</strong></li>
+    <li><strong>Description of each service (Including scope and type)</strong></li>
+    <li><strong>Latest ACRA Bizfile</strong></li>
+    <li><strong>System/Network Configuration Diagram</strong></li>
+    <li><strong>Financial Information</strong></li>
+    <li><strong>Source of Funding (for prepaid services)</strong></li>
 </ul>
 
 <H3>Requirements</H3>
 
 Applicant must be ACRA registered company/business
-

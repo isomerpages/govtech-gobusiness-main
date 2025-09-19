@@ -13,14 +13,21 @@ Infocomm Media Development Authority (IMDA)
 <H3>Application Details</H3>
 
 <p>For establishing and conducting a proof of concept using radio frequency on a temporary basis.</p>
+<p>
+For more information on the Technical Trial (with use of Frequency), please access <a href="https://iris.imda.gov.sg/application/technical-trial-permit" target="_blank" rel="noopener">https://iris.imda.gov.sg/application/technical-trial-permit</a>.
+</p>
 
 <strong>Additional Information</strong>
 
-<p><strong>Fees</strong><br />N/A</p>
+<p>
+    <strong>Fees</strong>
+    <br>N/A
+</p>
 
 <H3>Documents Needed</H3>
 
 <ul>
-<li><strong>Approval from Building owner if any</strong></li>
+    <li><strong>Approval from Building owner if any</strong></li>
+    <li><strong>Network configuration diagram or other relevant supporting documents</strong></li>
 </ul>
 

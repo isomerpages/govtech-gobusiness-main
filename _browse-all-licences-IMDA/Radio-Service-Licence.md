@@ -15,6 +15,7 @@ Infocomm Media Development Authority (IMDA)
 <H3>Application Details</H3>
 
 <p>To apply for Radio Service Licence(s).</p>
+<p>For more information on the Radio Service Licence, please access <a href="https://iris.imda.gov.sg/application/free-to-air-nationwide-radio-service-licence" target="_blank" rel="noopener">https://iris.imda.gov.sg/application/free-to-air-nationwide-radio-service-licence</a>.</p>
 
 <strong>Additional Information</strong>
 
@@ -23,21 +24,20 @@ Infocomm Media Development Authority (IMDA)
 <H3>Documents Needed</H3>
 
 <ul>
-<li><strong>Shareholding Structure</strong></li>
-<li><strong>Articles of Memorandum</strong></li>
-<li><strong>Organisational Structure</strong></li>
-<li><strong>Business Activities</strong></li>
-<li><strong>Business Plan</strong></li>
-<li><strong>Financial Statements</strong></li>
-<li><strong>Programme Positioning</strong></li>
-<li><strong>Listenership Details</strong></li>
-<li><strong>Programming Guidelines</strong></li>
-<li><strong>Programme Grid</strong></li>
-<li><strong>Technical Specification</strong></li>
-<li><strong>Strategic Partnership</strong></li>
+    <li><strong>Shareholding Structure</strong></li>
+    <li><strong>Articles of Memorandum</strong></li>
+    <li><strong>Organisational Structure</strong></li>
+    <li><strong>Business Activities</strong></li>
+    <li><strong>Business Plan</strong></li>
+    <li><strong>Financial Statements</strong></li>
+    <li><strong>Programme Positioning</strong></li>
+    <li><strong>Listenership Details</strong></li>
+    <li><strong>Programming Guidelines</strong></li>
+    <li><strong>Programme Grid</strong></li>
+    <li><strong>Technical Specification</strong></li>
+    <li><strong>Strategic Partnership</strong></li>
 </ul>
 
 <H3>Requirements</H3>
 
 Applicant must be ACRA registered company/business
-
