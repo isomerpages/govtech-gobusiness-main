@@ -16,11 +16,20 @@ Infocomm Media Development Authority (IMDA)
 
 <strong>Additional Information</strong>
 
-<p><strong>Fees</strong><br />N/A</p>
+<p>
+    <strong>Fees</strong>
+    <br>To be determined
+</p>
 
 <H3>Documents Needed</H3>
 
 <ul>
-<li><strong>Approval from Building owner if any</strong></li>
+    <li>
+        <strong>Approval from Building owner if any</strong>
+        <br>Approval from Building owner if any
+    </li>
+    <li>
+        <strong>Network configuration diagram</strong>
+        <br>Network configuration diagram or other relevant documents
+    </li>
 </ul>
-

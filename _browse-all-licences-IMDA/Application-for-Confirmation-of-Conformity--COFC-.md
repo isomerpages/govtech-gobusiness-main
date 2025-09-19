@@ -18,7 +18,10 @@ Infocomm Media Development Authority (IMDA)
 
 <strong>Additional Information</strong>
 
-<p><strong>Fee</strong><br />$100 (Self-declaration) / $350 (IMDA Evaluation)</p>
+<p>
+    <strong>Fee</strong>
+    <br>$100 (Self-declaration) / $350 (IMDA Evaluation)
+</p>
 
 <H3>Documents Needed</H3>
 
@@ -27,4 +30,3 @@ Please refer to <a href="https://iris.imda.gov.sg/application/confirmation-of-co
 <H3>Requirements</H3>
 
 Applicant must be ACRA registered company/business/LLP, and holds a Telecommunication Dealer's Licence
-

@@ -18,13 +18,18 @@ Infocomm Media Development Authority (IMDA)
 
 <strong>Additional Information</strong>
 
-<p><strong>Fee</strong><br />$250.00</p>
+<p>
+    <strong>Fee</strong>
+    <br>$250.00. GST is not applicable.
+</p>
 
 <H3>Documents Needed</H3>
 
-<p>No supporting document is required for the submission of online application.<br>Applicant will be contacted if any other supporting document is required.</p>
+<p>
+    No supporting document is required for the submission of online application.
+    <br>Applicant will be contacted if any other supporting document is required.
+</p>
 
 <H3>Requirements</H3>
 
 Applicant must be ACRA registered company/business
-

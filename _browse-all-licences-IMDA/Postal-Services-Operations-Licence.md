@@ -14,22 +14,13 @@ Infocomm Media Development Authority (IMDA)
 
 <H3>Application Details</H3>
 
-<p>Applicants intending to provide the conveyance of letters weighing 500g and below, including the incidental services of receiving, collecting, sorting, sending, despatching and delivering letters.</p>
+<p>Applicants intending to provide postal services for the conveyance of letters not exceeding 500g per piece, including the services of receiving, collecting, sorting, sending, despatching and delivering letters will require a Postal Services Operations licence.</p>
+<p>For more information, please refer to <a href="https://www.imda.gov.sg/regulations-and-licensing-listing/postal-services-operator-licence" target="_blank" rel="noopener">https://www.imda.gov.sg/regulations-and-licensing-listing/postal-services-operator-licence</a>.</p>
 
 <strong>Additional Information</strong>
 
-<p><strong>PSO designated as PPL<br /></strong>Initial Fee: $0.00<br />Annual Fee: 0.4% AGTO, subject to a minimum of S$150,000.00 per year<strong><br /><br />PSO<br /></strong>Initial Fee: $0.00<br />Annual Fee: 0.4% AGTO, subject to minimum, of S$4,000.00 per year<strong><br /></strong></p>
-
-<H3>Documents Needed</H3>
-
-<ul>
-<li><strong>Organisational structure/financial capability and strength</strong></li>
-<li><strong>Competition strategies for the provision of services</strong></li>
-<li><strong>Postal Network, Services & Operations</strong></li>
-<li><strong>Any other relevant information</strong></li>
-</ul>
+<p>For more information, please refer to the guidelines on <a href="https://www.imda.gov.sg/regulations-and-licensing-listing/postal-services-operator-licence" target="_blank" rel="noopener">IMDA's website</a>.</p>
 
 <H3>Requirements</H3>
 
 Applicant must be ACRA registered company/business
-
