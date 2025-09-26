@@ -7,7 +7,12 @@ const custom_notifications = [
   //multiple services
   "<b>[Attention: System Maintenance]</b> Certain GoBusiness services will be unavailable due to upcoming maintenance. Please check our <B><u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>maintenance schedule</a></u></B> for details.", 
   "<b>[Scam Advisory]</b> GoBusiness will NEVER ask you to transfer money or disclose banking details over a phone call. <u><a href='/scam-advisory/' target='_blank' rel='noopener'>Learn more</a></u>",
-  "<b>[Upcoming Changes]</b> GoBusiness is getting a fresh new look in October! Visit the <B><u><a href='https://beta.gobusiness.gov.sg/' target='_blank' rel='noopener'>beta site</a></u></b> to get a preview."
+  "<b>[Upcoming Changes]</b> GoBusiness is getting a fresh new look in October! Visit the <B><u><a href='https://beta.gobusiness.gov.sg/' target='_blank' rel='noopener'>beta site</a></u></b> to get a preview.",
+  "<b>[System Maintenance] | All transactions for these IMDA licences will be unavailable from 02 Oct, 8pm to 03 Oct, 8am during the upcoming schedule maintenance.<br>
+-Ship Station Licence<br>
+-Enhanced Simplified Equipment Registration (ESER)<br>
+-General Equipment Registration (GER)<br>
+-General Equipment Registration by Certification Bodies (GER-CB) ".
 ];
 
 
