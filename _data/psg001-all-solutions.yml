@@ -104,13 +104,6 @@
         - <a href='/browse-all-solutions-Food-Services/General-Food-Services-Equipment'>General Food Services Equipment</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
-    - title: Generic
-      content: |
-        
-        **Equipment**
-        - <a href='/browse-all-solutions-Generic/Generic-Speed-Limiter-Equipment'>Generic Speed Limiter Equipment</a>
-
-        View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Landscape
       content: |
         
@@ -352,3 +345,10 @@
     - title: Job Redesign Solutions
       content: |
         - <a href='/browse-all-solutions-Job-Redesign-Solutions/Job-Redesign-Consultancy'>Job Redesign Consultancy</a>
+
+- accordion:
+  letter: d
+  data:
+    - title: Generic
+      content: |
+        - <a href='/browse-all-solutions-Generic/Generic-Speed-Limiter-Equipment'>Speed Limiter</a>
