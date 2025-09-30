@@ -334,6 +334,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Ty - RTCZ-IWF-1810-2PS12
 - Ty - RTCZ-IWF-1PS80
 - Ty Brand - RTCZ-FSC-B170-1B12
+- Ty Brand - RTCZ-FSC-B170-1B15
 - Ty Brand - RTCZ-FSC-B170-1B80
 - Ty Brand - RTCZ-IBF-4R35
 - Ty Brand - RTCZ-IBF-4R50

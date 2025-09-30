@@ -89,7 +89,6 @@ Indoor air-conditioner units that are compatible and packaged with pre-approved 
 - Daikin - RXUQ8AYMW
 - Daikin - RXUQ8BYMG
 - Enovatek Energy - EES-ADC12GW-XA-32R+5
-- EuropAce - ESAC MA4R285A
 - EuropAce - ESAC18CUD
 - EuropAce - ESAC21CUD
 - EuropAce - ESAC28CUD
@@ -119,8 +118,10 @@ Indoor air-conditioner units that are compatible and packaged with pre-approved 
 - GREE - GMVL-T8N1A
 - GREE - GWC09ATDXD-K6DNA3A/O
 - GREE - GWC-09Charmo/O
+- GREE - GWC-09SP/O
 - GREE - GWC12ATDXE-K6DNA3A/O
 - GREE - GWC-12Charmo/O
+- GREE - GWC-12SP
 - GREE - GWCD(18)NK6AO
 - GREE - GWCD(18)NK6GO
 - GREE - GWCD(21)NK6AO
@@ -223,6 +224,7 @@ Indoor air-conditioner units that are compatible and packaged with pre-approved 
 - Mitsubishi Electric - MXY-2H20VF
 - Mitsubishi Electric - MXY-3H28VG
 - Mitsubishi Electric - MXY-3H28VG2
+- Mitsubishi Electric - MXY-3H28VG-SG2
 - Mitsubishi Electric - MXY-4H33VG
 - Mitsubishi Electric - MXY-4H33VG2
 - Mitsubishi Electric - MXY-4H38VG
@@ -314,6 +316,7 @@ Indoor air-conditioner units that are compatible and packaged with pre-approved 
 - Samsung - AJ045DCJ2KF/SP
 - Samsung - AJ065DCJ3KF/SP
 - Samsung - AJ070DCJ4KF/SP
+- Samsung - AM080DXVGGH/SA
 - Samsung - AM100DXVGGH/SA
 - Samsung - AM120DXVGGH/SA
 - Samsung - AM140DXVGGH/SA
@@ -342,6 +345,10 @@ Indoor air-conditioner units that are compatible and packaged with pre-approved 
 - Toshiba - RAS-4M41U2ACVG-SG
 - Toshiba - RAS-5M51P2ACVG-SG
 - Toshiba - RAS-5M51U2ACVG-SG
+- Toshiba - RAV-GE1002AP-SG
+- Toshiba - RAV-GE1302AP-SG
+- Toshiba - RAV-GE1802AP-SG
+- Toshiba - RAV-GE2502AP-SG
 - Tosot - TR32SAC18CUD
 - Tosot - TR32SAC21CUD
 - Tosot - TR32SAC28CUD
