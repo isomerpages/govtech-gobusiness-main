@@ -1,0 +1,6 @@
+collections:
+  browse-all-solutions-Generic:
+    output: true
+    order:
+      - back-to-all-psg-solutions.md
+      - Generic-Speed-Limiter-Equipment.md
