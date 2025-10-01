@@ -348,6 +348,6 @@
 - accordion:
   letter: d
   data:
-    - title: Generic
+    - title: Generic Speed Limiter Equipment
       content: |
         - <a href='/browse-all-solutions-Generic/Generic-Speed-Limiter-Equipment'>Speed Limiter</a>
