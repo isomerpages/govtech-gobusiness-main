@@ -360,16 +360,22 @@
       content: |
         **Managed Security Operations Centre (SOC) Monitoring Service Licence**
 
-        <p>For application of a cybersecurity service provider's licence to provide managed SOC monitoring service under the Cybersecurity Act</p>
+        For application of a cybersecurity service provider's licence to provide managed SOC monitoring service under the Cybersecurity Act
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/soc" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Cybersecurity-Services-Regulation-Office-(CSRO)/Managed-Security-Operations-Centre-(SOC)-Monitoring-Service-Licence">View Licence Details</a>
+        Application, amendment, renewal & cancellation of this licence is currently unavailable due to scheduled maintenance.
+
+        <-- <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/soc" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp; -->
+        <a href = "/browse-all-licences/Cybersecurity-Services-Regulation-Office-(CSRO)/Managed-Security-Operations-Centre-(SOC)-Monitoring-Service-Licence">View Licence Details</a>
 
         -----
         **Penetration Testing Services Licence**
 
-        <p>For application of a cybersecurity service provider&rsquo;s licence to provide penetration testing service under the Cybersecurity Act</p>
+        For application of a cybersecurity service provider&rsquo;s licence to provide penetration testing service under the Cybersecurity Act
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/pts" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Cybersecurity-Services-Regulation-Office-(CSRO)/Penetration-Testing-Service-Licence">View Licence Details</a>
+        Application, amendment, renewal & cancellation of this licence is currently unavailable due to scheduled maintenance.
+
+        <-- <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/pts" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp; -->
+        <a href = "/browse-all-licences/Cybersecurity-Services-Regulation-Office-(CSRO)/Penetration-Testing-Service-Licence">View Licence Details</a>
 
 - accordion:
   letter: e
