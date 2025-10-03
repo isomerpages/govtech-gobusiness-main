@@ -8,7 +8,7 @@ third_nav_title: Cybersecurity Services Regulation Office (CSRO)
 
 Cybersecurity Services Regulation Office (CSRO)
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/soc" type="primary" %}
+<!-- {% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/soc" type="primary" %} -->
 
 <H3>Application Details</H3>
 
